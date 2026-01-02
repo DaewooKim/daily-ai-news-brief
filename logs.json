@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-02 15:20:34",
-  "status": "idle",
+  "last_updated": "2026-01-02 15:36:23",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-02 15:18:04",
+      "timestamp": "2026-01-02 15:36:02",
+      "message": "Starting automatic background collection..."
+    },
+    {
+      "timestamp": "2026-01-02 15:36:03",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-02 15:18:04",
+      "timestamp": "2026-01-02 15:36:03",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-02 15:18:24",
+      "timestamp": "2026-01-02 15:36:23",
       "message": "Found 33 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-02 15:18:24",
+      "timestamp": "2026-01-02 15:36:23",
       "message": "Reprocessing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals"
-    },
-    {
-      "timestamp": "2026-01-02 15:18:26",
-      "message": "[PROCESSING] Analyzing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:31",
-      "message": "[SUCCESS] Processed: LG\uc758 \uc0c8\ub85c\uc6b4 \uce74\ub77c\uc624\ucf00 \uc900\ube44 \uc644\ub8cc \ud30c\ud2f0 \uc2a4\ud53c\ucee4, AI\ub85c \ub178\ub798 \ubcf4\uceec \uc81c\uac70\n  > Summary: LG\uac00 Will.i.am\uacfc \ud611\ub825\ud558\uc5ec \uac1c\ubc1c\ud55c \uce74\ub77c\uc624\ucf00 \uc911\uc2ec\uc758 Xboom \ud30c\ud2f0 \uc2a4\ud53c\ucee4\uc778 Sta..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:32",
-      "message": "[PROCESSING] Analyzing: Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:35",
-      "message": "[SKIP] Irrelevant (AI Filter): Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free"
-    },
-    {
-      "timestamp": "2026-01-02 15:18:37",
-      "message": "Reprocessing: Meet the new tech laws of 2026"
-    },
-    {
-      "timestamp": "2026-01-02 15:18:39",
-      "message": "[PROCESSING] Analyzing: Meet the new tech laws of 2026..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:46",
-      "message": "[SUCCESS] Processed: 2026\ub144\uc758 \uc0c8\ub85c\uc6b4 \uae30\uc220 \ubc95\ub960\uc744 \ub9cc\ub098\ubcf4\uc138\uc694\n  > Summary: 2025\ub144 \ub3d9\uc548 \ubbf8\uad6d\uc5d0\uc11c\ub294 \uc758\ud68c\uac00 \ube44\ud6a8\uc728\uc801\uc778 \uc0c1\ud669\uc774\uc5c8\uc9c0\ub9cc, \uc8fc \uc758\ud68c\uc5d0\uc11c\ub294 AI, \uc18c\uc15c \ubbf8\ub514..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:47",
-      "message": "[PROCESSING] Analyzing: You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:50",
-      "message": "[SKIP] Irrelevant (AI Filter): You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram"
-    },
-    {
-      "timestamp": "2026-01-02 15:18:52",
-      "message": "[PROCESSING] Analyzing: OpenAI bets big on audio as Silicon Valley declares war on screens..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:57",
-      "message": "[SUCCESS] Processed: \uc2e4\ub9ac\ucf58\ubc38\ub9ac\uac00 \ud654\uba74\uacfc \uc804\uc7c1\uc744 \uc120\uc5b8\ud558\uba74\uc11c \uc624\ud508AI\uac00 \uc624\ub514\uc624\uc5d0 \ub300\uaddc\ubaa8 \ud22c\uc790\n  > Summary: \uc624\ub514\uc624\uac00 \ubbf8\ub798\uc758 \uc778\ud130\ud398\uc774\uc2a4\ub85c \uc790\ub9ac\uc7a1\uace0 \uc788\ub2e4\ub294 \uc8fc\uc7a5\uc774 \uc81c\uae30\ub418\uba74\uc11c, \uc624\ud508AI\uac00 \uc624\ub514\uc624 \ubd84\uc57c\uc5d0 ..."
-    },
-    {
-      "timestamp": "2026-01-02 15:18:58",
-      "message": "Reprocessing: \u2018College dropout\u2019 has become the most coveted startup founder credential"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:00",
-      "message": "[PROCESSING] Analyzing: \u2018College dropout\u2019 has become the most coveted startup founder credential..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:05",
-      "message": "[SUCCESS] Processed: \u2018\ub300\ud559\uad50 \uc911\ud1f4\uc790\u2019\ub294 \uac00\uc7a5 \ubc14\ub78c\uc9c1\ud55c \uc2a4\ud0c0\ud2b8\uc5c5 \ucc3d\ub9bd\uc790 \uc790\uaca9\uc774 \ub418\uc5c8\ub2e4\n  > Summary: AI \ucc3d\uc5c5\uc790\ub4e4\uc774 YC \ud53c\uce6d\uc5d0\uc11c '\uc911\ud1f4\uc790' \uc9c0\uc704\ub97c \uc790\uaca9 \uc99d\uba85\uc73c\ub85c \ud65c\uc6a9\ud558\uace0 \uc788\ub2e4. \uadf8\ub4e4\uc758 \uc911\ud1f4..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:07",
-      "message": "Reprocessing: Investors predict AI\u00a0is coming for labor in 2026"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:08",
-      "message": "[PROCESSING] Analyzing: Investors predict AI\u00a0is coming for labor in 2026..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:12",
-      "message": "[SUCCESS] Processed: \ud22c\uc790\uc790\ub4e4\uc740 AI\uac00 2026\ub144\uc5d0 \ub178\ub3d9 \uc2dc\uc7a5\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce60 \uac83\uc774\ub77c\uace0 \uc608\uce21\ud569\ub2c8\ub2e4\n  > Summary: AI\uac00 \uae30\uc5c5 \ub178\ub3d9 \uc2dc\uc7a5\uc5d0 \ubbf8\uce60 \uc601\ud5a5\uc740 \uc544\uc9c1 \uba85\ud655\ud558\uc9c0 \uc54a\uc9c0\ub9cc, \ud22c\uc790\uc790\ub4e4\uc740 2026\ub144\ubd80\ud130 \ubcc0\ud654..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:14",
-      "message": "[PROCESSING] Analyzing: Obsolescence Management Begins at Design..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:16",
-      "message": "[SKIP] Irrelevant (AI Filter): Obsolescence Management Begins at Design"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:18",
-      "message": "[PROCESSING] Analyzing: Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:21",
-      "message": "[SKIP] Irrelevant (AI Filter): Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:23",
-      "message": "[PROCESSING] Analyzing: SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:25",
-      "message": "[SKIP] Irrelevant (AI Filter): SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:27",
-      "message": "Reprocessing: Sources: OpenAI is taking steps to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based (Stephanie Palazzolo/The Information)"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:29",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI is taking steps to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based (Stephanie Palazzolo/The Information)..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:33",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI, AI \uae30\ubc18 \uac1c\uc778 \uae30\uae30\ub97c \uc704\ud574 \uc624\ub514\uc624 AI \ubaa8\ub378 \uac1c\uc120 \uc791\uc5c5 \uc9c4\ud589\n  > Summary: OpenAI\ub294 \uc624\ub514\uc624 \uae30\ubc18\uc758 AI \uac1c\uc778 \uae30\uae30\ub97c \ucd9c\uc2dc\ud558\uae30 \uc704\ud574 \uc624\ub514\uc624 AI \ubaa8\ub378 \uac1c\uc120 \uc791\uc5c5\uc744..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:35",
-      "message": "[PROCESSING] Analyzing: Startups have started to offer free nicotine pouches as a perk, as some employees claim the products help them focus during the workday, despite health hazards (Angel Au-Yeung/Wall Street Journal)..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Startups have started to offer free nicotine pouches as a perk, as some employees claim the products help them focus during the workday, despite health hazards (Angel Au-Yeung/Wall Street Journal)"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:39",
-      "message": "Reprocessing: Hundreds of megawatts of new data center capacity are being planned for Vernon, a town near LA, which is a key US-Asia cable-linking hub and is becoming crowded (Nilesh Christopher/Los Angeles Times)"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:41",
-      "message": "[PROCESSING] Analyzing: Hundreds of megawatts of new data center capacity are being planned for Vernon, a town near LA, which is a key US-Asia cable-linking hub and is becoming crowded (Nilesh Christopher/Los Angeles Times)..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:45",
-      "message": "[SUCCESS] Processed: LA \uadfc\ucc98 \ubca0\ub974\ub17c\uc5d0 \uc218\ubc31 \uba54\uac00\uc640\ud2b8\uc758 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9 \uacc4\ud68d\n  > Summary: LA \uadfc\ucc98\uc758 \ubca0\ub974\ub17c\uc5d0\uc11c \uc218\ubc31 \uba54\uac00\uc640\ud2b8\uc758 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc774 \uacc4\ud68d\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:47",
-      "message": "Reprocessing: Two-Stage Hardware Fuzzer (TU Darmstadt)"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:49",
-      "message": "[PROCESSING] Analyzing: Two-Stage Hardware Fuzzer (TU Darmstadt)..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:55",
-      "message": "[SUCCESS] Processed: \ub450 \ub2e8\uacc4 \ud558\ub4dc\uc6e8\uc5b4 \ud37c\uc800 (TU \ub2e4\ub984\uc288\ud0c0\ud2b8)\n  > Summary: TU \ub2e4\ub984\uc288\ud0c0\ud2b8\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \ubc1c\ud45c\ud55c 'GoldenFuzz: \uc0dd\uc131\uc801 \uace8\ub4e0 \ub808\ud37c\ub7f0\uc2a4 \ud558\ub4dc\uc6e8\uc5b4 ..."
-    },
-    {
-      "timestamp": "2026-01-02 15:19:57",
-      "message": "Reprocessing: MoS2 Memristors With Fast Switching Speed and Low Power Consumption (AMO, RWTH Aachen et al.)"
-    },
-    {
-      "timestamp": "2026-01-02 15:19:58",
-      "message": "[PROCESSING] Analyzing: MoS2 Memristors With Fast Switching Speed and Low Power Consumption (AMO, RWTH Aachen et al.)..."
-    },
-    {
-      "timestamp": "2026-01-02 15:20:05",
-      "message": "[SUCCESS] Processed: \ube60\ub978 \uc2a4\uc704\uce6d \uc18d\ub3c4\uc640 \ub0ae\uc740 \uc804\ub825 \uc18c\ube44\ub97c \uac00\uc9c4 MoS2 \uba54\ubaa8\ub9ac\uc2a4\ud130\n  > Summary: RWTH \uc544\ud5e8 \ub300\ud559\uad50 \ubc0f AMO GmbH \uc5f0\uad6c\uc9c4\uc774 \ubc1c\ud45c\ud55c \uc0c8\ub85c\uc6b4 \uae30\uc220 \ub17c\ubb38\uc5d0\uc11c\ub294 \uc778\uacf5 \uc2dc\ub0c5..."
-    },
-    {
-      "timestamp": "2026-01-02 15:20:07",
-      "message": "Reprocessing: Four AI research trends enterprise teams should watch in 2026"
-    },
-    {
-      "timestamp": "2026-01-02 15:20:09",
-      "message": "[PROCESSING] Analyzing: Four AI research trends enterprise teams should watch in 2026..."
-    },
-    {
-      "timestamp": "2026-01-02 15:20:15",
-      "message": "[SUCCESS] Processed: 2026\ub144 \uae30\uc5c5\ud300\uc774 \uc8fc\ubaa9\ud574\uc57c \ud560 AI \uc5f0\uad6c \ud2b8\ub80c\ub4dc 4\uac00\uc9c0\n  > Summary: AI \ubd84\uc57c\ub294 \ubaa8\ub378 \uc131\ub2a5\uc744 \ub118\uc5b4 \uae30\uc220\uc758 \uc2e4\uc9c8\uc801 \uad6c\ud604 \ubc29\ud5a5\uc73c\ub85c \uc5f0\uad6c\uac00 \ud655\uc7a5\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-01-02 15:20:16",
-      "message": "Reprocessing: Top 10 Products of 2025"
-    },
-    {
-      "timestamp": "2026-01-02 15:20:18",
-      "message": "[PROCESSING] Analyzing: Top 10 Products of 2025..."
-    },
-    {
-      "timestamp": "2026-01-02 15:20:24",
-      "message": "[SUCCESS] Processed: 2025\ub144 \uc778\uae30 \uc81c\ud488 10\uc120\n  > Summary: Embedded.com\uc740 2025\ub144\uc758 \uc778\uae30 \uc81c\ud488 10\uc120\uc744 \ub3cc\uc544\ubcf4\uba70 \uc778\uacf5\uc9c0\ub2a5(AI)\uac00 \uc62c\ud574 ..."
-    },
-    {
-      "timestamp": "2026-01-02 15:20:25",
-      "message": "Completed! New: 1, Updated: 10"
-    },
-    {
-      "timestamp": "2026-01-02 15:20:29",
-      "message": "Saved 11 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-02 15:20:33",
-      "message": "Auto-Scrape Finished Successfully."
     }
   ]
 }
