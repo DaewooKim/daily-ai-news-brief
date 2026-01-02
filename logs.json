@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-01-02 19:24:05",
-  "status": "running",
+  "last_updated": "2026-01-02 19:24:06",
+  "status": "idle",
   "logs": [
+    {
+      "timestamp": "2026-01-02 19:05:48",
+      "message": "Starting automatic background collection..."
+    },
+    {
+      "timestamp": "2026-01-02 19:05:50",
+      "message": "Initializing..."
+    },
+    {
+      "timestamp": "2026-01-02 19:05:50",
+      "message": "Fetching RSS feeds..."
+    },
+    {
+      "timestamp": "2026-01-02 19:06:12",
+      "message": "Found 34 articles within the last 2 days. Starting processing..."
+    },
+    {
+      "timestamp": "2026-01-02 19:06:12",
+      "message": "[PROCESSING] Analyzing: SpaceX will lower Starlink satellites to reduce collision risk..."
+    },
+    {
+      "timestamp": "2026-01-02 19:06:15",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX will lower Starlink satellites to reduce collision risk"
+    },
+    {
+      "timestamp": "2026-01-02 19:06:17",
+      "message": "[PROCESSING] Analyzing: Samsung adds much needed brightness to its Freestyle projector..."
+    },
+    {
+      "timestamp": "2026-01-02 19:06:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Samsung adds much needed brightness to its Freestyle projector"
+    },
+    {
+      "timestamp": "2026-01-02 19:06:22",
+      "message": "Reprocessing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals"
+    },
+    {
+      "timestamp": "2026-01-02 19:06:23",
+      "message": "[PROCESSING] Analyzing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals..."
+    },
+    {
+      "timestamp": "2026-01-02 19:07:02",
+      "message": "[SUCCESS] Processed: LG\uc758 \uc0c8\ub85c\uc6b4 \ub178\ub798\ubc29 \uc900\ube44\ub41c \ud30c\ud2f0 \uc2a4\ud53c\ucee4, AI\ub85c \ub178\ub798 \ubcf4\uceec \uc81c\uac70\n  > Summary: LG\ub294 Will.i.am\uacfc \ud611\ub825\ud558\uc5ec Xboom \uae30\uae30 \ub77c\uc778\uc5c5\uc5d0 \ub178\ub798\ubc29 \uc911\uc2ec\uc758 \ud30c\ud2f0 \uc2a4\ud53c\ucee4\ub97c ..."
+    },
+    {
+      "timestamp": "2026-01-02 19:07:04",
+      "message": "[PROCESSING] Analyzing: Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free..."
+    },
+    {
+      "timestamp": "2026-01-02 19:07:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free"
+    },
+    {
+      "timestamp": "2026-01-02 19:07:12",
+      "message": "Reprocessing: Meet the new tech laws of 2026"
+    },
+    {
+      "timestamp": "2026-01-02 19:07:13",
+      "message": "[PROCESSING] Analyzing: Meet the new tech laws of 2026..."
+    },
+    {
+      "timestamp": "2026-01-02 19:07:19",
+      "message": "[SUCCESS] Processed: 2026\ub144\uc758 \uc0c8\ub85c\uc6b4 \uae30\uc220 \ubc95\ub960\uc744 \ub9cc\ub098\ubcf4\uc138\uc694\n  > Summary: 2025\ub144 \ub3d9\uc548 \ubbf8\uad6d\uc5d0\uc11c\uc758 \uc758\ud68c \uae30\ub2a5 \ubd88\ub2a5\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \uc8fc \uc758\ud68c\ub4e4\uc740 AI\uc640 \uc18c\uc15c \ubbf8\ub514\uc5b4, ..."
+    },
+    {
+      "timestamp": "2026-01-02 19:07:21",
+      "message": "[PROCESSING] Analyzing: You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram..."
+    },
+    {
+      "timestamp": "2026-01-02 19:07:24",
+      "message": "[SKIP] Irrelevant (AI Filter): You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram"
+    },
+    {
+      "timestamp": "2026-01-02 19:07:25",
+      "message": "Reprocessing: \u2018College dropout\u2019 has become the most coveted startup founder credential"
+    },
+    {
+      "timestamp": "2026-01-02 19:07:27",
+      "message": "[PROCESSING] Analyzing: \u2018College dropout\u2019 has become the most coveted startup founder credential..."
+    },
     {
       "timestamp": "2026-01-02 19:07:33",
       "message": "[SUCCESS] Processed: \u2018\ub300\ud559 \uc911\ud1f4\u2019\uac00 \uac00\uc7a5 \uc120\ub9dd\ubc1b\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 \ucc3d\uc5c5\uc790 \uc790\uaca9\uc99d\uba85\uc774 \ub418\ub2e4\n  > Summary: AI \ucc3d\uc5c5\uc790\ub4e4\uc774 YC \ud53c\uce58\uc5d0\uc11c '\uc911\ud1f4' \uc0c1\ud0dc\ub97c \uc790\uaca9\uc99d\uba85\uc73c\ub85c \ud65c\uc6a9\ud558\ub294 \uc0ac\ub840\uac00 \ub298\uace0 \uc788\ub2e4. \uc774..."
