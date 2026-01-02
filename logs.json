@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-02 16:47:05",
+  "last_updated": "2026-01-02 16:47:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-02 16:46:05",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-01-02 16:46:07",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-02 16:47:05",
       "message": "[PROCESSING] Analyzing: Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP..."
+    },
+    {
+      "timestamp": "2026-01-02 16:47:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP"
     }
   ]
 }
