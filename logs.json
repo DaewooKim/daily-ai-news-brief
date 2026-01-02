@@ -1,174 +1,26 @@
 {
-  "last_updated": "2026-01-02 19:59:13",
-  "status": "idle",
+  "last_updated": "2026-01-02 20:15:00",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-02 19:57:17",
+      "timestamp": "2026-01-02 20:14:40",
       "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-02 19:57:18",
+      "timestamp": "2026-01-02 20:14:42",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-02 19:57:18",
+      "timestamp": "2026-01-02 20:14:42",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-02 19:57:39",
-      "message": "Found 34 articles within the last 2 days. Starting processing..."
+      "timestamp": "2026-01-02 20:15:00",
+      "message": "Found 36 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-02 19:57:39",
-      "message": "[PROCESSING] Analyzing: SpaceX will lower Starlink satellites to reduce collision risk..."
-    },
-    {
-      "timestamp": "2026-01-02 19:57:41",
-      "message": "[SKIP] Irrelevant (AI Filter): SpaceX will lower Starlink satellites to reduce collision risk"
-    },
-    {
-      "timestamp": "2026-01-02 19:57:43",
-      "message": "[PROCESSING] Analyzing: Samsung adds much needed brightness to its Freestyle projector..."
-    },
-    {
-      "timestamp": "2026-01-02 19:57:46",
-      "message": "[SKIP] Irrelevant (AI Filter): Samsung adds much needed brightness to its Freestyle projector"
-    },
-    {
-      "timestamp": "2026-01-02 19:57:48",
-      "message": "Reprocessing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals"
-    },
-    {
-      "timestamp": "2026-01-02 19:57:49",
-      "message": "[PROCESSING] Analyzing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals..."
-    },
-    {
-      "timestamp": "2026-01-02 19:57:55",
-      "message": "[SUCCESS] Processed: LG\uc758 \uc0c8\ub85c\uc6b4 AI\ub97c \uc774\uc6a9\ud55c \ub178\ub798\ubc29 \ud30c\ud2f0 \uc2a4\ud53c\ucee4\n  > Summary: LG\uac00 Will.i.am\uacfc \ud611\ub825\ud558\uc5ec \ub178\ub798\ubc29\uc5d0 \ucd5c\uc801\ud654\ub41c \ud30c\ud2f0 \uc2a4\ud53c\ucee4 Xboom\uc758 \uc0c8\ub85c\uc6b4 \ubaa8\ub378..."
-    },
-    {
-      "timestamp": "2026-01-02 19:57:57",
-      "message": "[PROCESSING] Analyzing: Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free..."
-    },
-    {
-      "timestamp": "2026-01-02 19:57:59",
-      "message": "[SKIP] Irrelevant (AI Filter): Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:01",
-      "message": "Reprocessing: Meet the new tech laws of 2026"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:02",
-      "message": "[PROCESSING] Analyzing: Meet the new tech laws of 2026..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:08",
-      "message": "[SUCCESS] Processed: 2026\ub144\uc758 \uc0c8\ub85c\uc6b4 \uae30\uc220 \ubc95\ub960\uc744 \ub9cc\ub098\ubcf4\uc138\uc694\n  > Summary: 2025\ub144, \ubbf8\uad6d\uc5d0\uc11c \uae4a\uc740 \uc758\ud68c \uae30\ub2a5 \ubd80\uc804\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 \uc8fc \uc785\ubc95\uae30\uad00\ub4e4\uc740 AI, \uc18c\uc15c \ubbf8\ub514\uc5b4..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:10",
-      "message": "[PROCESSING] Analyzing: You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:12",
-      "message": "[SKIP] Irrelevant (AI Filter): You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:14",
-      "message": "Reprocessing: \u2018College dropout\u2019 has become the most coveted startup founder credential"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:16",
-      "message": "[PROCESSING] Analyzing: \u2018College dropout\u2019 has become the most coveted startup founder credential..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:20",
-      "message": "[SUCCESS] Processed: \u2018\ub300\ud559 \uc911\ud1f4\u2019\uac00 \uac00\uc7a5 \ubc14\ub77c\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 \ucc3d\ub9bd\uc790 \uc790\uaca9\uc99d\uba85\uc73c\ub85c \ub5a0\uc624\ub974\ub2e4\n  > Summary: AI \ucc3d\ub9bd\uc790\ub4e4\uc774 YC \ud53c\uce58\uc5d0\uc11c \uc790\uc2e0\uc758 '\uc911\ud1f4' \uc0c1\ud0dc\ub97c \uc790\uaca9\uc99d\uba85\uc73c\ub85c \ud65c\uc6a9\ud558\ub294 \uc0ac\ub840\uac00 \ub298\uace0 \uc788..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:21",
-      "message": "[PROCESSING] Analyzing: Obsolescence Management Begins at Design..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Obsolescence Management Begins at Design"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:26",
-      "message": "[PROCESSING] Analyzing: Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:29",
-      "message": "[SKIP] Irrelevant (AI Filter): Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:30",
-      "message": "[PROCESSING] Analyzing: UK crypto buyers are required to share their account details with tax officials starting January 1 or face penalties, as the UK seeks to collect unpaid taxes (Rachel Clun/BBC)..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:34",
-      "message": "[SKIP] Irrelevant (AI Filter): UK crypto buyers are required to share their account details with tax officials starting January 1 or face penalties, as the UK seeks to collect unpaid taxes (Rachel Clun/BBC)"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:36",
-      "message": "[PROCESSING] Analyzing: How Meta's Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok (Meghan Bobrowsky/Wall Street Journal)..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:39",
-      "message": "[SKIP] Irrelevant (AI Filter): How Meta's Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok (Meghan Bobrowsky/Wall Street Journal)"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:41",
-      "message": "[PROCESSING] Analyzing: SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:43",
-      "message": "[SKIP] Irrelevant (AI Filter): SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:45",
-      "message": "[PROCESSING] Analyzing: Startups have started to offer free nicotine pouches as a perk, as some employees claim the products help them focus during the workday, despite health hazards (Angel Au-Yeung/Wall Street Journal)..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:48",
-      "message": "[SKIP] Irrelevant (AI Filter): Startups have started to offer free nicotine pouches as a perk, as some employees claim the products help them focus during the workday, despite health hazards (Angel Au-Yeung/Wall Street Journal)"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:49",
-      "message": "Reprocessing: Chip Industry Week In Review"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:51",
-      "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:55",
-      "message": "[SUCCESS] Processed: \ubc18\ub3c4\uccb4 \uc0b0\uc5c5 \uc8fc\uac04 \ub9ac\ubdf0\n  > Summary: Space Forge\ub294 ForgeStar-1 \uc704\uc131\uc5d0\uc11c \uadf9\uc800\uc9c0\uad6c \uada4\ub3c4 \ud658\uacbd\uc744 \uc774\uc6a9\ud558\uc5ec \ud50c\ub77c\uc988..."
-    },
-    {
-      "timestamp": "2026-01-02 19:58:56",
-      "message": "Reprocessing: Top 10 Products of 2025"
-    },
-    {
-      "timestamp": "2026-01-02 19:58:58",
-      "message": "[PROCESSING] Analyzing: Top 10 Products of 2025..."
-    },
-    {
-      "timestamp": "2026-01-02 19:59:02",
-      "message": "[SUCCESS] Processed: 2025\ub144\uc758 \uc0c1\uc704 10\uac1c \uc81c\ud488\n  > Summary: Embedded.com\uc740 2025\ub144\uc758 \uc0c1\uc704 10\uac1c \uc81c\ud488\uc744 \ub3cc\uc544\ubcf4\uba70 \uc778\uacf5\uc9c0\ub2a5(AI)\uc774 \uc62c\ud574 ..."
-    },
-    {
-      "timestamp": "2026-01-02 19:59:04",
-      "message": "Completed! New: 0, Updated: 5"
-    },
-    {
-      "timestamp": "2026-01-02 19:59:08",
-      "message": "Saved 5 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-02 19:59:11",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-02 20:15:00",
+      "message": "[PROCESSING] Analyzing: Punkt\u2019s German-made MC03 smartphone comes to the US this spring..."
     }
   ]
 }
