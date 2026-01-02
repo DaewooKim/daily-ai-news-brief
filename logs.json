@@ -1,7 +1,111 @@
 {
-  "last_updated": "2026-01-02 20:17:17",
-  "status": "running",
+  "last_updated": "2026-01-02 20:17:19",
+  "status": "idle",
   "logs": [
+    {
+      "timestamp": "2026-01-02 20:14:40",
+      "message": "Starting automatic background collection..."
+    },
+    {
+      "timestamp": "2026-01-02 20:14:42",
+      "message": "Initializing..."
+    },
+    {
+      "timestamp": "2026-01-02 20:14:42",
+      "message": "Fetching RSS feeds..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:00",
+      "message": "Found 36 articles within the last 2 days. Starting processing..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:00",
+      "message": "[PROCESSING] Analyzing: Punkt\u2019s German-made MC03 smartphone comes to the US this spring..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Punkt\u2019s German-made MC03 smartphone comes to the US this spring"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:08",
+      "message": "[PROCESSING] Analyzing: The Trump phone just missed another release date..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:12",
+      "message": "[SKIP] Irrelevant (AI Filter): The Trump phone just missed another release date"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:14",
+      "message": "[PROCESSING] Analyzing: SpaceX will lower Starlink satellites to reduce collision risk..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:17",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX will lower Starlink satellites to reduce collision risk"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:18",
+      "message": "[PROCESSING] Analyzing: Samsung adds much needed brightness to its Freestyle projector..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Samsung adds much needed brightness to its Freestyle projector"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:22",
+      "message": "Reprocessing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:24",
+      "message": "[PROCESSING] Analyzing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:29",
+      "message": "[SUCCESS] Processed: LG\uc758 \uc0c8\ub85c\uc6b4 \ub178\ub798\ubc29 \uc900\ube44 \uc2a4\ud53c\ucee4, AI\ub85c \ub178\ub798\uc5d0\uc11c \ubcf4\uceec \uc81c\uac70\n  > Summary: LG\uac00 Will.i.am\uacfc \ud611\ub825\ud558\uc5ec \uac1c\ubc1c\ud55c karaoke \uc911\uc2ec\uc758 \ud30c\ud2f0 \uc2a4\ud53c\ucee4 Xboom S..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:31",
+      "message": "[PROCESSING] Analyzing: Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:35",
+      "message": "Reprocessing: Meet the new tech laws of 2026"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:37",
+      "message": "[PROCESSING] Analyzing: Meet the new tech laws of 2026..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:42",
+      "message": "[SUCCESS] Processed: 2026\ub144 \uc0c8\ub85c\uc6b4 \uae30\uc220 \ubc95\ub960\uc744 \ub9cc\ub098\ubcf4\uc138\uc694\n  > Summary: 2025\ub144\uc5d0\ub294 \ubbf8\uad6d \uc758\ud68c\uc5d0\uc11c \uc2ec\uac01\ud55c \ube44\ud6a8\uc728\uc131\uc774 \uc788\uc5c8\uc9c0\ub9cc, \uc8fc \uc758\ud68c\uc5d0\uc11c\ub294 AI\ub97c \ud3ec\ud568\ud55c \ub2e4\uc591..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:43",
+      "message": "[PROCESSING] Analyzing: You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:46",
+      "message": "[SKIP] Irrelevant (AI Filter): You can\u2019t trust your eyes to tell you what\u2019s real anymore, says the head of Instagram"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:47",
+      "message": "Reprocessing: \u2018College dropout\u2019 has become the most coveted startup founder credential"
+    },
+    {
+      "timestamp": "2026-01-02 20:15:49",
+      "message": "[PROCESSING] Analyzing: \u2018College dropout\u2019 has become the most coveted startup founder credential..."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:53",
+      "message": "[SUCCESS] Processed: \u2018\ub300\ud559 \uc911\ud1f4\u2019\uac00 \uac00\uc7a5 \uc120\ud638\ub418\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 \ucc3d\ub9bd\uc790 \uc790\uaca9\uc99d\uc774 \ub418\uc5c8\ub2e4\n  > Summary: AI \ucc3d\uc5c5\uc790\ub4e4\uc774 YC \ud53c\uce58\uc5d0\uc11c '\uc911\ud1f4\uc790' \uc2e0\ubd84\uc744 \uc790\uaca9\uc99d\uc73c\ub85c \ud65c\uc6a9\ud558\ub294 \uc0ac\ub840\uac00 \uc99d\uac00\ud558\uace0 \uc788\ub2e4...."
+    },
+    {
+      "timestamp": "2026-01-02 20:15:54",
+      "message": "[PROCESSING] Analyzing: Obsolescence Management Begins at Design..."
+    },
     {
       "timestamp": "2026-01-02 20:15:57",
       "message": "[SKIP] Irrelevant (AI Filter): Obsolescence Management Begins at Design"
