@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-02 15:37:08",
+  "last_updated": "2026-01-02 15:37:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-02 15:36:23",
-      "message": "Found 33 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-02 15:36:23",
       "message": "Reprocessing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-02 15:37:08",
       "message": "[PROCESSING] Analyzing: Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP..."
+    },
+    {
+      "timestamp": "2026-01-02 15:37:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP"
     }
   ]
 }
