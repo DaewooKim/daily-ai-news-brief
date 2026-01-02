@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-02 14:01:38",
-  "status": "idle",
+  "last_updated": "2026-01-02 14:17:30",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-02 13:59:06",
-      "message": "[PROCESSING] Analyzing: Canada Eyes AI Opportunities At The Edge..."
+      "timestamp": "2026-01-02 14:17:07",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-02 13:59:09",
-      "message": "[SUCCESS] Processed: \uce90\ub098\ub2e4, \uc5e3\uc9c0\uc5d0\uc11c AI \uae30\ud68c\ub97c \ubaa8\uc0c9\ud558\ub2e4\n  > Summary: \uce90\ub098\ub2e4\ub294 AI \ubd84\uc57c\uc5d0\uc11c \uc5f0\uad6c\uc758 \uc120\ub450\uc8fc\uc790\uc774\uc9c0\ub9cc, \uc801\uadf9\uc801\uc73c\ub85c AI \uae30\uc220\uc744 \ud65c\uc6a9\ud558\ub294 \ub370 \uc5b4\ub824\uc6c0\uc744..."
+      "timestamp": "2026-01-02 14:17:08",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-02 13:59:11",
-      "message": "[PROCESSING] Analyzing: Obsolescence Management Begins at Design..."
+      "timestamp": "2026-01-02 14:17:08",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-02 13:59:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Obsolescence Management Begins at Design"
+      "timestamp": "2026-01-02 14:17:30",
+      "message": "Found 37 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-02 13:59:16",
-      "message": "[PROCESSING] Analyzing: Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:19",
-      "message": "[SKIP] Irrelevant (AI Filter): Computer Hardware Manufacturer Doubles Revenue Since Adopting ERP"
-    },
-    {
-      "timestamp": "2026-01-02 13:59:20",
-      "message": "[PROCESSING] Analyzing: Chinese AI chip startup Biren surged as much as 119% in its Hong Kong debut, after raising ~$717M in an IPO priced at ~$2.52 per share (Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:25",
-      "message": "[SUCCESS] Processed: \uc911\uad6d AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ube44\ub80c, \ud64d\ucf69 \ub370\ubdd4\uc5d0\uc11c 119% \uae09\ub4f1\ud558\uba70 \uc57d 7\uc5b5 1700\ub9cc \ub2ec\ub7ec\uc758 IPO\ub85c \uc8fc\ub2f9 \uc57d 2.52\ub2ec\ub7ec\uc5d0 \uac00\uaca9 \ucc45\uc815\ub428 (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: \uc911\uad6d AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ube44\ub80c\uc774 \ud64d\ucf69\uc5d0\uc11c\uc758 \ub370\ubdd4 \ud6c4 \uc8fc\uac00\uac00 \uc57d 119% \uae09\ub4f1\ud558\uba70 \uccab \ub0a0 \uac70\ub798..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:27",
-      "message": "[PROCESSING] Analyzing: How Arizona is training talent for its growing chip industry as suppliers fear tighter US immigration policy; Arizona has drawn $200B+ in investments since 2020 (Nikkei Asia)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:31",
-      "message": "[SUCCESS] Processed: \uc544\ub9ac\uc870\ub098\uac00 \uacf5\uae09\uc5c5\uccb4\ub4e4\uc774 \ubbf8\uad6d\uc758 \uc774\ubbfc \uc815\ucc45 \uac15\ud654\uc5d0 \ub300\ud55c \uc6b0\ub824 \uc18d\uc5d0 \uc131\uc7a5\ud558\ub294 \uce69 \uc0b0\uc5c5\uc744 \uc704\ud55c \uc778\uc7ac\ub97c \uc591\uc131\ud558\ub294 \ubc29\ubc95\n  > Summary: \uc544\ub9ac\uc870\ub098\ub294 2020\ub144 \uc774\ud6c4 2000\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \ud22c\uc790\ub97c \uc720\uce58\ud558\uba70 \uc131\uc7a5\ud558\ub294 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc744 ..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:32",
-      "message": "[PROCESSING] Analyzing: Baidu's AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B (Sneha Kumar/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:36",
-      "message": "[SUCCESS] Processed: \ubc14\uc774\ub450\uc758 AI \uce69 \ubd80\ubb38 \ucfe4\ub8ec\uc2e0, \ud64d\ucf69 IPO\ub97c \uc704\ud55c \ube44\uacf5\uc2dd \uc2e0\uccad\uc11c \uc81c\ucd9c\n  > Summary: \uc911\uad6d \uc778\ud130\ub137 \uac80\uc0c9 \ub300\uae30\uc5c5 \ubc14\uc774\ub450\uc758 AI \uce69 \ubd80\ubb38\uc778 \ucfe4\ub8ec\uc2e0\uc774 \ud64d\ucf69 IPO \uc2e0\uccad\uc11c\ub97c \ube44\uacf5\uc2dd\uc801\uc73c..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:38",
-      "message": "[PROCESSING] Analyzing: SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:40",
-      "message": "[SKIP] Irrelevant (AI Filter): SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-02 13:59:42",
-      "message": "[PROCESSING] Analyzing: Brookfield is starting cloud company Radiant and a new $10B AI fund, after saying it plans to acquire up to $100B in land, data centers, and power assets for AI (Miles Kruppa/The Information)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:46",
-      "message": "[SUCCESS] Processed: \ube0c\ub8e9\ud544\ub4dc, AI\ub97c \uc704\ud55c $10B \ud380\ub4dc\uc640 \ud074\ub77c\uc6b0\ub4dc \ud68c\uc0ac \ub77c\ub514\uc5b8\ud2b8 \uc124\ub9bd\n  > Summary: \ube0c\ub8e9\ud544\ub4dc\uac00 AI \uac1c\ubc1c \ube44\uc6a9\uc744 \uc904\uc77c \uc218 \uc788\ub2e4\uace0 \uc8fc\uc7a5\ud558\uba70 \ud074\ub77c\uc6b0\ub4dc \ud68c\uc0ac\uc778 \ub77c\ub514\uc5b8\ud2b8\ub97c \uc2dc\uc791\ud558\uace0 ..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:48",
-      "message": "[PROCESSING] Analyzing: How AI automation can fulfill Thomas Piketty's predictions on rising economic inequality, and why highly progressive taxes on capital can help slow the spiral (Philosopher Count)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:53",
-      "message": "[SUCCESS] Processed: AI \uc790\ub3d9\ud654\uac00 \ud1a0\ub9c8\uc2a4 \ud53c\ucf00\ud2f0\uc758 \uacbd\uc81c \ubd88\ud3c9\ub4f1 \uc99d\uac00 \uc608\uce21\uc744 \uc5b4\ub5bb\uac8c \ucda9\uc871\uc2dc\ud0ac \uc218 \uc788\ub294\uc9c0\n  > Summary: AI \uc790\ub3d9\ud654\uac00 \ud1a0\ub9c8\uc2a4 \ud53c\ucf00\ud2f0\uc758 \uacbd\uc81c \ubd88\ud3c9\ub4f1 \uc99d\uac00\uc5d0 \ub300\ud55c \uc608\uce21\uc744 \ucda9\uc871\uc2dc\ud0ac \uc218 \uc788\ub294 \ubc29\ubc95\uacfc, ..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:55",
-      "message": "[PROCESSING] Analyzing: A look at US tech laws coming in 2026, like California's SB 53 AI transparency law and Virginia's new social media limits for minors, effective from January 1 (Adi Robertson/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-02 13:59:59",
-      "message": "[SUCCESS] Processed: 2026\ub144\uc5d0 \uc2dc\ud589\ub420 \ubbf8\uad6d \uae30\uc220 \ubc95\ub960, \uce98\ub9ac\ud3ec\ub2c8\uc544\uc758 SB 53 AI \ud22c\uba85\uc131 \ubc95\uc548 \ubc0f 1\uc6d4 1\uc77c\ubd80\ud130 \ubc1c\ud6a8\ub418\ub294 \ubc84\uc9c0\ub2c8\uc544\uc758 \ubbf8\uc131\ub144\uc790 \uc18c\uc15c \ubbf8\ub514\uc5b4 \uc81c\ud55c\n  > Summary: 2026\ub144\uc5d0 \uc2dc\ud589\ub420 \ubbf8\uad6d\uc758 \uc0c8\ub85c\uc6b4 \uae30\uc220 \ubc95\ub960\uc5d0 \ub300\ud55c \uac1c\uc694\ub97c \ub2e4\ub8f9\ub2c8\ub2e4. \uce98\ub9ac\ud3ec\ub2c8\uc544\uc758 SB 5..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:00",
-      "message": "[PROCESSING] Analyzing: Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles (C.J. Chivers/New York Times)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:05",
-      "message": "[SUCCESS] Processed: \uc6b0\ud06c\ub77c\uc774\ub098\uac00 \uc5d0\ub9ad \uc288\ubbf8\ud2b8\uac00 \uc774\ub044\ub294 \ube44\ubc00 \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \uc81c\uacf5\ud55c \ubc94\ube14\ube44\uc640 \uac19\uc740 AI \ub4dc\ub860\uc758 \uc2e4\uc804 \uc2dc\ud5d8\uc7a5\uc774 \ub418\uc5c8\ub2e4.\n  > Summary: C.J. \ucd08\ubc84\uc2a4 / \ub274\uc695\ud0c0\uc784\uc988: \uc6b0\ud06c\ub77c\uc774\ub098\uac00 \uc5d0\ub9ad \uc288\ubbf8\ud2b8\uac00 \uc774\ub044\ub294 \ube44\ubc00\uc2a4\ub7ec\uc6b4 \ubca4\ucc98\uc5d0\uc11c \uc81c\uacf5..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:07",
-      "message": "[PROCESSING] Analyzing: DeepSeek researchers detail mHC, a new architecture they used to train 3B, 9B, and 27B models, finding it scaled without adding significant computational burden (Vincent Chow/South China Morning Post)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:12",
-      "message": "[SUCCESS] Processed: DeepSeek \uc5f0\uad6c\uc6d0\ub4e4\uc774 3B, 9B, 27B \ubaa8\ub378 \ud6c8\ub828\uc5d0 \uc0ac\uc6a9\ud55c \uc0c8\ub85c\uc6b4 \uc544\ud0a4\ud14d\ucc98 mHC\ub97c \uc790\uc138\ud788 \uc124\uba85\ud558\uba70, \ud070 \ucef4\ud4e8\ud305 \ubd80\ub2f4 \uc5c6\uc774 \ud655\uc7a5 \uac00\ub2a5\ud558\ub2e4\uace0 \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: DeepSeek \uc5f0\uad6c\uc6d0\ub4e4\uc774 \uc81c\uc548\ud55c mHC\ub77c\ub294 \uc0c8\ub85c\uc6b4 \ub525\ub7ec\ub2dd \uc544\ud0a4\ud14d\ucc98\uc5d0 \ub300\ud55c \uae30\uc220 \ub17c\ubb38\uc744 \ubc1c..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:14",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI is taking steps to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based (Stephanie Palazzolo/The Information)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:18",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI\uac00 AI \uae30\ubc18 \uac1c\uc778 \uc7a5\uce58\ub97c \uc704\ud55c \uc624\ub514\uc624 AI \ubaa8\ub378 \uac1c\uc120 \uc791\uc5c5\uc744 \uc9c4\ud589\ud558\uace0 \uc788\ub2e4\n  > Summary: OpenAI\ub294 AI \uae30\ubc18 \uac1c\uc778 \uc7a5\uce58 \ucd9c\uc2dc\ub97c \uc55e\ub450\uace0 \uc624\ub514\uc624 AI \ubaa8\ub378\uc744 \uac1c\uc120\ud558\uae30 \uc704\ud55c \uc870\uce58\ub97c..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:20",
-      "message": "[PROCESSING] Analyzing: Startups have started to offer free nicotine pouches as a perk, as some employees claim the products help them focus during the workday, despite health hazards (Angel Au-Yeung/Wall Street Journal)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:23",
-      "message": "[SKIP] Irrelevant (AI Filter): Startups have started to offer free nicotine pouches as a perk, as some employees claim the products help them focus during the workday, despite health hazards (Angel Au-Yeung/Wall Street Journal)"
-    },
-    {
-      "timestamp": "2026-01-02 14:00:25",
-      "message": "Reprocessing: A look at the rise of AI companionship apps; a researcher found 206 on Apple's App Store and 253 on Google Play, with a total of 220M+ downloads as of July 2025 (Financial Times)"
-    },
-    {
-      "timestamp": "2026-01-02 14:00:26",
-      "message": "[PROCESSING] Analyzing: A look at the rise of AI companionship apps; a researcher found 206 on Apple's App Store and 253 on Google Play, with a total of 220M+ downloads as of July 2025 (Financial Times)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:32",
-      "message": "[SUCCESS] Processed: AI \ub3d9\ubc18\uc790 \uc571\uc758 \uae09\uc99d\uc744 \uc0b4\ud3b4\ubcf4\ub2e4; \uc5f0\uad6c\uc6d0\uc774 Apple App Store\uc5d0\uc11c 206\uac1c, Google Play\uc5d0\uc11c 253\uac1c\ub97c \ubc1c\uacac\ud588\uc73c\uba70, 2025\ub144 7\uc6d4 \uae30\uc900\uc73c\ub85c 2\uc5b5 2000\ub9cc \uac74 \uc774\uc0c1\uc758 \ub2e4\uc6b4\ub85c\ub4dc\uac00 \uc788\uc5c8\ub2e4 (\ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988)\n  > Summary: \ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988\uc5d0 \ub530\ub974\uba74, AI \ub3d9\ubc18\uc790 \uc571\uc758 \uc218\uac00 \uae09\uc99d\ud558\uace0 \uc788\uc73c\uba70, \uc5f0\uad6c\uc790\ub294 Apple A..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:34",
-      "message": "Reprocessing: Hundreds of megawatts of new data center capacity are being planned for Vernon, a town near LA, which is a key US-Asia cable-linking hub and is becoming crowded (Nilesh Christopher/Los Angeles Times)"
-    },
-    {
-      "timestamp": "2026-01-02 14:00:36",
-      "message": "[PROCESSING] Analyzing: Hundreds of megawatts of new data center capacity are being planned for Vernon, a town near LA, which is a key US-Asia cable-linking hub and is becoming crowded (Nilesh Christopher/Los Angeles Times)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:41",
-      "message": "[SUCCESS] Processed: LA \uadfc\ucc98\uc758 \ubca0\ub974\ub17c, \uc218\ubc31 \uba54\uac00\uc640\ud2b8\uc758 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9 \uacc4\ud68d\n  > Summary: LA \uadfc\ucc98\uc758 \ubca0\ub974\ub17c\uc5d0\uc11c\ub294 \uc218\ubc31 \uba54\uac00\uc640\ud2b8\uc758 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc774 \uacc4\ud68d\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:43",
-      "message": "[PROCESSING] Analyzing: Reliability Extension Architecture For Cost-Effective HBM (RPI, ScaleFlux, IBM TJ Watson)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:48",
-      "message": "[SUCCESS] Processed: \ube44\uc6a9 \ud6a8\uc728\uc801\uc778 HBM\uc744 \uc704\ud55c \uc2e0\ub8b0\uc131 \ud655\uc7a5 \uc544\ud0a4\ud14d\ucc98 (RPI, ScaleFlux, IBM TJ Watson)\n  > Summary: \ub80c\uc2ac\ub9ac\uc5b4 \ud3f4\ub9ac\ud14c\ud06c\ub2c9 \uc5f0\uad6c\uc18c, ScaleFlux \ubc0f IBM TJ \uc6cc\uc2a8 \uc5f0\uad6c\uc18c\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 '..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:49",
-      "message": "[PROCESSING] Analyzing: Two-Stage Hardware Fuzzer (TU Darmstadt)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:56",
-      "message": "[SUCCESS] Processed: \ub450 \ub2e8\uacc4 \ud558\ub4dc\uc6e8\uc5b4 \ud37c\uc800 (TU \ub2e4\ub984\uc288\ud0c0\ud2b8)\n  > Summary: TU \ub2e4\ub984\uc288\ud0c0\ud2b8\uc758 \uc5f0\uad6c\uc9c4\uc774 \u2018GoldenFuzz: \uc0dd\uc131\uc801 \uace8\ub4e0 \ucc38\uc870 \ud558\ub4dc\uc6e8\uc5b4 \ud37c\uc9d5\u2019\uc774\ub77c\ub294 ..."
-    },
-    {
-      "timestamp": "2026-01-02 14:00:58",
-      "message": "Reprocessing: MoS2 Memristors With Fast Switching Speed and Low Power Consumption (AMO, RWTH Aachen et al.)"
-    },
-    {
-      "timestamp": "2026-01-02 14:01:00",
-      "message": "[PROCESSING] Analyzing: MoS2 Memristors With Fast Switching Speed and Low Power Consumption (AMO, RWTH Aachen et al.)..."
-    },
-    {
-      "timestamp": "2026-01-02 14:01:07",
-      "message": "[SUCCESS] Processed: \ube60\ub978 \uc2a4\uc704\uce6d \uc18d\ub3c4\uc640 \ub0ae\uc740 \uc804\ub825 \uc18c\ube44\ub97c \uac00\uc9c4 MoS2 \uba64\ub9ac\uc2a4\ud130 (AMO, RWTH \uc544\ud5e8 \uc678)\n  > Summary: AMO GmbH, RWTH \uc544\ud5e8, \ub4f1 \uc5ec\ub7ec \uc5f0\uad6c\uae30\uad00\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \ubc1c\ud45c\ud55c \ub17c\ubb38\uc5d0\uc11c\ub294 \uc774\ucc28\uc6d0 ..."
-    },
-    {
-      "timestamp": "2026-01-02 14:01:09",
-      "message": "Reprocessing: Four AI research trends enterprise teams should watch in 2026"
-    },
-    {
-      "timestamp": "2026-01-02 14:01:11",
-      "message": "[PROCESSING] Analyzing: Four AI research trends enterprise teams should watch in 2026..."
-    },
-    {
-      "timestamp": "2026-01-02 14:01:18",
-      "message": "[SUCCESS] Processed: 2026\ub144\uc5d0 \uae30\uc5c5\ud300\uc774 \uc8fc\ubaa9\ud574\uc57c \ud560 \ub124 \uac00\uc9c0 AI \uc5f0\uad6c \ud2b8\ub80c\ub4dc\n  > Summary: AI \ubd84\uc57c\ub294 \uc8fc\ub85c \ubaa8\ub378 \uc131\ub2a5\uc5d0 \uc758\ud574 \uc9c0\ubc30\ub418\uc5b4 \uc654\uc9c0\ub9cc, \uc774\uc81c \uae30\uc5c5\ub4e4\uc774 AI\uc758 \uc2e4\uc81c \uac00\uce58\ub97c \uc5bb..."
-    },
-    {
-      "timestamp": "2026-01-02 14:01:20",
-      "message": "Reprocessing: Top 10 Products of 2025"
-    },
-    {
-      "timestamp": "2026-01-02 14:01:22",
-      "message": "[PROCESSING] Analyzing: Top 10 Products of 2025..."
-    },
-    {
-      "timestamp": "2026-01-02 14:01:27",
-      "message": "[SUCCESS] Processed: 2025\ub144\uc758 \ucd5c\uace0\uc758 \uc81c\ud488 10\uc120\n  > Summary: Embedded.com\uc740 2025\ub144 \ucd5c\uace0\uc758 10\uac1c \uc81c\ud488\uc744 \ub3cc\uc544\ubcf4\uba70 \uc778\uacf5\uc9c0\ub2a5(AI)\uc774 \uac00\uc7a5 ..."
-    },
-    {
-      "timestamp": "2026-01-02 14:01:29",
-      "message": "Completed! New: 15, Updated: 6"
-    },
-    {
-      "timestamp": "2026-01-02 14:01:33",
-      "message": "Saved 21 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-02 14:01:36",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-02 14:17:30",
+      "message": "Reprocessing: LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals"
     }
   ]
 }
