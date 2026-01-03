@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-03 21:13:08",
+  "last_updated": "2026-01-03 21:13:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-03 21:12:18",
-      "message": "[SUCCESS] Processed: \uc5d8\ub860 \uba38\uc2a4\ud06c\uc758 \ubca0\ud305: \ud14c\uc2ac\ub77c\uc758 \ubbf8\ub798\ub294 \uc778\uacf5\uc9c0\ub2a5 \ub85c\ubd07 \uc635\ud2f0\uba38\uc2a4\uc5d0 \uc788\ub2e4\n  > Summary: \uc5d8\ub860 \uba38\uc2a4\ud06c\ub294 \ud14c\uc2ac\ub77c\uc758 \ubbf8\ub798\uac00 \uc635\ud2f0\uba38\uc2a4\ub77c\ub294 \uc778\uacf5\uc9c0\ub2a5 \ud734\uba38\ub178\uc774\ub4dc \ub85c\ubd07\uc5d0 \ub2ec\ub824 \uc788\ub2e4\uace0 \uc8fc\uc7a5\ud558\uace0..."
-    },
     {
       "timestamp": "2026-01-03 21:12:20",
       "message": "[PROCESSING] Analyzing: London is set to become the first city where both US and Chinese robotaxis operate, as Waymo and Baidu prepare to launch their robotaxis in the city in 2026 (Tim Bradshaw/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-03 21:13:08",
       "message": "[PROCESSING] Analyzing: India orders X to stop Grok from generating obscene content, giving it 72 hours to submit an action-taken report or risk losing its \"safe harbor\" protections (Jagmeet Singh/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-03 21:13:11",
+      "message": "[SKIP] Irrelevant (AI Filter): India orders X to stop Grok from generating obscene content, giving it 72 hours to submit an action-taken report or risk losing its \"safe harbor\" protections (Jagmeet Singh/TechCrunch)"
     }
   ]
 }
