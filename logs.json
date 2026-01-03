@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-03 23:55:13",
+  "last_updated": "2026-01-03 23:55:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-03 23:54:09",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-03 23:54:31",
       "message": "Found 42 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-03 23:55:13",
       "message": "[PROCESSING] Analyzing: Fender\u2019s first wireless headphones have a long-lasting, replaceable battery..."
+    },
+    {
+      "timestamp": "2026-01-03 23:55:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Fender\u2019s first wireless headphones have a long-lasting, replaceable battery"
     }
   ]
 }
