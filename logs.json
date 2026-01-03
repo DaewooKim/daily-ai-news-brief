@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-03 23:20:36",
-  "status": "idle",
+  "last_updated": "2026-01-03 23:36:25",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-03 23:18:46",
-      "message": "Reprocessing: This smart fridge wants to solve the hassle of grocery shopping"
+      "timestamp": "2026-01-03 23:36:04",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-03 23:18:47",
-      "message": "[PROCESSING] Analyzing: This smart fridge wants to solve the hassle of grocery shopping..."
+      "timestamp": "2026-01-03 23:36:06",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-03 23:18:50",
-      "message": "[SKIP] Irrelevant (AI Filter): This smart fridge wants to solve the hassle of grocery shopping"
+      "timestamp": "2026-01-03 23:36:06",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-03 23:18:52",
-      "message": "[PROCESSING] Analyzing: Pebble\u2019s round smartwatch is getting a reboot..."
+      "timestamp": "2026-01-03 23:36:25",
+      "message": "Found 42 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-03 23:18:54",
-      "message": "[SKIP] Irrelevant (AI Filter): Pebble\u2019s round smartwatch is getting a reboot"
-    },
-    {
-      "timestamp": "2026-01-03 23:18:55",
-      "message": "Reprocessing: LG announces the &#8216;world\u2019s lightest 17-inch RTX laptop&#8217;"
-    },
-    {
-      "timestamp": "2026-01-03 23:18:57",
-      "message": "[PROCESSING] Analyzing: LG announces the &#8216;world\u2019s lightest 17-inch RTX laptop&#8217;..."
-    },
-    {
-      "timestamp": "2026-01-03 23:18:59",
-      "message": "[SKIP] Irrelevant (AI Filter): LG announces the &#8216;world\u2019s lightest 17-inch RTX laptop&#8217;"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:01",
-      "message": "[PROCESSING] Analyzing: Fender\u2019s first wireless headphones have a long-lasting, replaceable battery..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:03",
-      "message": "[SKIP] Irrelevant (AI Filter): Fender\u2019s first wireless headphones have a long-lasting, replaceable battery"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:05",
-      "message": "Reprocessing: In 2026, AI will move from hype to pragmatism"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:06",
-      "message": "[PROCESSING] Analyzing: In 2026, AI will move from hype to pragmatism..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:10",
-      "message": "[SUCCESS] Processed: 2026\ub144, AI\ub294 \uacfc\ub300\uc120\uc804\uc5d0\uc11c \uc2e4\uc6a9\uc131\uc73c\ub85c \uc774\ub3d9\ud560 \uac83\uc774\ub2e4\n  > Summary: 2026\ub144\uc5d0\ub294 AI \uc0b0\uc5c5\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uc544\ud0a4\ud14d\ucc98, \ub354 \uc791\uc740 \ubaa8\ub378, \uc138\uacc4 \ubaa8\ub378, \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:12",
-      "message": "Reprocessing: Two Events Illustrate How AI is Rewriting the Memory Book"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:14",
-      "message": "[PROCESSING] Analyzing: Two Events Illustrate How AI is Rewriting the Memory Book..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:17",
-      "message": "[SUCCESS] Processed: AI\uac00 \uba54\ubaa8\ub9ac \ucc45\uc744 \ub2e4\uc2dc \uc4f0\ub294 \ubc29\ubc95\uc744 \ubcf4\uc5ec\uc8fc\ub294 \ub450 \uac00\uc9c0 \uc774\ubca4\ud2b8\n  > Summary: 2025\ub144 AI\uac00 \uae30\uc220\uc758 \uc8fc\ubaa9\uc744 \ubc1b\ub294 \uac00\uc6b4\ub370, AI\uc640 \ubc00\uc811\ud55c \uad00\ub828\uc774 \uc788\ub294 DRAM \uc81c\uc870\uc5c5\uccb4..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:19",
-      "message": "[PROCESSING] Analyzing: Cyient Semiconductors to acquire Kinetic Technologies for $93 million..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:21",
-      "message": "[SKIP] Irrelevant (AI Filter): Cyient Semiconductors to acquire Kinetic Technologies for $93 million"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:23",
-      "message": "[PROCESSING] Analyzing: Canada Focuses Funding on Photonics and Quantum..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:25",
-      "message": "[SKIP] Irrelevant (AI Filter): Canada Focuses Funding on Photonics and Quantum"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:27",
-      "message": "Reprocessing: What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more (The Verge)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:28",
-      "message": "[PROCESSING] Analyzing: What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more (The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:33",
-      "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c \uae30\ub300\ud560 \uc0ac\ud56d: \uc778\ud154, \ud004\ucef4, AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69\uc744 \ud0d1\uc7ac\ud55c \ub178\ud2b8\ubd81, \ub354 \ub9ce\uc740 AI \ud1b5\ud569, \uc2a4\ub9c8\ud2b8 \ud648 \ub85c\ubd07, \uc2a4\ub9c8\ud2b8 \uae00\ub798\uc2a4 \ub4f1\n  > Summary: 2026 CES\uc5d0\uc11c \uc778\ud154, \ud004\ucef4, AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69\uc744 \uc7a5\ucc29\ud55c \ub178\ud2b8\ubd81\uacfc \ud568\uaed8 \ub354 \ub9ce\uc740 AI..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:34",
-      "message": "[PROCESSING] Analyzing: Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:38",
-      "message": "[PROCESSING] Analyzing: California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers (Michael Kan/PCMag)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:41",
-      "message": "[SKIP] Irrelevant (AI Filter): California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers (Michael Kan/PCMag)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:42",
-      "message": "Reprocessing: Comparing ChatGPT's mini-apps with native iOS apps: some like Uber, OpenTable, and TripAdvisor fell short with frequent error messages, but Instacart did well (Rolfe Winkler/Wall Street Journal)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:44",
-      "message": "[PROCESSING] Analyzing: Comparing ChatGPT's mini-apps with native iOS apps: some like Uber, OpenTable, and TripAdvisor fell short with frequent error messages, but Instacart did well (Rolfe Winkler/Wall Street Journal)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:48",
-      "message": "[SUCCESS] Processed: ChatGPT\uc758 \ubbf8\ub2c8 \uc571\uacfc \ub124\uc774\ud2f0\ube0c iOS \uc571 \ube44\uad50: Uber, OpenTable, TripAdvisor\ub294 \ube48\ubc88\ud55c \uc624\ub958 \uba54\uc2dc\uc9c0\ub85c \uc2e4\ud328\ud588\uc9c0\ub9cc Instacart\ub294 \uc798\ud568\n  > Summary: Rolfe Winkler\uac00 \uc791\uc131\ud55c \uc774 \uae30\uc0ac\ub294 ChatGPT\uc758 \ubbf8\ub2c8 \uc571\ub4e4\uc774 \ub124\uc774\ud2f0\ube0c iOS ..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:50",
-      "message": "[PROCESSING] Analyzing: On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed (Maggie Harrison Dupr\u00e9/Futurism)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:52",
-      "message": "[SKIP] Irrelevant (AI Filter): On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed (Maggie Harrison Dupr\u00e9/Futurism)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:54",
-      "message": "[PROCESSING] Analyzing: Mumbai-based Knight Fintech, which builds core infrastructure that connects banks, lenders, platforms, and borrowers, raised $23.6M led by Accel (The Economic Times)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:19:56",
-      "message": "[SKIP] Irrelevant (AI Filter): Mumbai-based Knight Fintech, which builds core infrastructure that connects banks, lenders, platforms, and borrowers, raised $23.6M led by Accel (The Economic Times)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:58",
-      "message": "Reprocessing: xAI launches Grok Business, priced at $30 per seat/month, for SMBs, and Grok Enterprise, whose price is not listed publicly, for larger organizations (Carl Franzen/VentureBeat)"
-    },
-    {
-      "timestamp": "2026-01-03 23:19:59",
-      "message": "[PROCESSING] Analyzing: xAI launches Grok Business, priced at $30 per seat/month, for SMBs, and Grok Enterprise, whose price is not listed publicly, for larger organizations (Carl Franzen/VentureBeat)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:04",
-      "message": "[SUCCESS] Processed: xAI\uac00 \uc911\uc18c\uae30\uc5c5\uc744 \uc704\ud55c Grok Business\uc640 \ub300\ud615 \uc870\uc9c1\uc744 \uc704\ud55c Grok Enterprise\ub97c \ucd9c\uc2dc\ud569\ub2c8\ub2e4.\n  > Summary: xAI\ub294 \uc870\uc9c1 \uc0ac\uc6a9\uc744 \uc704\ud55c \uc548\uc804\ud558\uace0 \ud300 \uc801\ud569\ud55c AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8\uc778 Grok Business\ub97c..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:05",
-      "message": "[PROCESSING] Analyzing: Filing: OpenAI President Greg Brockman was the biggest donor to Trump's super PAC in H2 2025, donating $25M; Crypto.com operator Foris DAX donated $20M (Bill Allison/Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:08",
-      "message": "[SKIP] Irrelevant (AI Filter): Filing: OpenAI President Greg Brockman was the biggest donor to Trump's super PAC in H2 2025, donating $25M; Crypto.com operator Foris DAX donated $20M (Bill Allison/Bloomberg)"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:09",
-      "message": "[PROCESSING] Analyzing: Uber rewrote its UK driver contracts to act as an agent, rather than a supplier, of taxi services outside London, to avoid the UK's new 20% \"taxi tax\" on fares (Simon Goodley/The Guardian)..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:12",
-      "message": "[SKIP] Irrelevant (AI Filter): Uber rewrote its UK driver contracts to act as an agent, rather than a supplier, of taxi services outside London, to avoid the UK's new 20% \"taxi tax\" on fares (Simon Goodley/The Guardian)"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:13",
-      "message": "Reprocessing: Musk's xAI launches Grok Business and Enterprise with compelling vault amid ongoing deepfake controversy"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:15",
-      "message": "[PROCESSING] Analyzing: Musk's xAI launches Grok Business and Enterprise with compelling vault amid ongoing deepfake controversy..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:19",
-      "message": "[SUCCESS] Processed: \uba38\uc2a4\ud06c\uc758 xAI\uac00 \uae4a\uc774 \uc788\ub294 \uac00\uc9dc \ub17c\ub780 \uc18d\uc5d0\uc11c \ub9e4\ub825\uc801\uc778 \ubcfc\ud2b8\ub97c \uac16\ucd98 Grok \ube44\uc988\ub2c8\uc2a4 \ubc0f \uae30\uc5c5 \ucd9c\uc2dc\n  > Summary: xAI\ub294 Grok Business \ubc0f Grok Enterprise\ub97c \ucd9c\uc2dc\ud558\uba70, \uc774\ub97c \uc548\uc804\ud558..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:21",
-      "message": "Reprocessing: IAR adds new development capabilities to Renesas RH850 MCUs"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:23",
-      "message": "[PROCESSING] Analyzing: IAR adds new development capabilities to Renesas RH850 MCUs..."
-    },
-    {
-      "timestamp": "2026-01-03 23:20:25",
-      "message": "[SKIP] Irrelevant (AI Filter): IAR adds new development capabilities to Renesas RH850 MCUs"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:27",
-      "message": "Completed! New: 0, Updated: 6"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:31",
-      "message": "Saved 6 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-03 23:20:34",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-03 23:36:25",
+      "message": "[PROCESSING] Analyzing: This smart home controller is literally a piece of wood..."
     }
   ]
 }
