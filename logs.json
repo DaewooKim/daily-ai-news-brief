@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-04 05:23:31",
+  "last_updated": "2026-01-04 05:23:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-04 05:22:47",
-      "message": "[PROCESSING] Analyzing: This smart fridge wants to solve the hassle of grocery shopping..."
-    },
     {
       "timestamp": "2026-01-04 05:22:52",
       "message": "[SUCCESS] Processed: \uc774 \uc2a4\ub9c8\ud2b8 \ub0c9\uc7a5\uace0\ub294 \uc7a5\ubcf4\uae30\uc758 \ubc88\uac70\ub85c\uc6c0\uc744 \ud574\uacb0\ud558\uace0\uc790 \ud569\ub2c8\ub2e4\n  > Summary: \uc774 GE \ud504\ub85c\ud30c\uc77c \ub0c9\uc7a5\uace0\ub294 '\uc2a4\uce94-\ud22c-\ub9ac\uc2a4\ud2b8' \ubc14\ucf54\ub4dc \uc2a4\uce90\ub108\ub97c \ub0b4\uc7a5\ud558\uc5ec \ub514\uc9c0\ud138 \uc1fc\ud551 \ub9ac\uc2a4\ud2b8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-04 05:23:31",
       "message": "[PROCESSING] Analyzing: Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)..."
+    },
+    {
+      "timestamp": "2026-01-04 05:23:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)"
     }
   ]
 }
