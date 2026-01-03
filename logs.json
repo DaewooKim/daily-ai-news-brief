@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-04 02:01:06",
+  "last_updated": "2026-01-04 02:01:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-04 02:00:23",
-      "message": "[PROCESSING] Analyzing: Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)..."
-    },
     {
       "timestamp": "2026-01-04 02:00:26",
       "message": "[SKIP] Irrelevant (AI Filter): Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-04 02:01:06",
       "message": "Completed! New: 0, Updated: 7"
+    },
+    {
+      "timestamp": "2026-01-04 02:01:10",
+      "message": "Saved 7 changes to news_data.json"
     }
   ]
 }
