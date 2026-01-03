@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-04 05:22:54",
+  "last_updated": "2026-01-04 05:22:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-04 05:21:57",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-04 05:21:57",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-04 05:22:54",
       "message": "[PROCESSING] Analyzing: Pebble\u2019s round smartwatch is getting a reboot..."
+    },
+    {
+      "timestamp": "2026-01-04 05:22:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Pebble\u2019s round smartwatch is getting a reboot"
     }
   ]
 }
