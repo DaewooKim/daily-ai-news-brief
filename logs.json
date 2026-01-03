@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-03 23:56:31",
+  "last_updated": "2026-01-03 23:56:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-03 23:55:49",
-      "message": "[PROCESSING] Analyzing: Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)..."
-    },
     {
       "timestamp": "2026-01-03 23:55:51",
       "message": "[SKIP] Irrelevant (AI Filter): Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-03 23:56:31",
       "message": "[PROCESSING] Analyzing: IAR adds new development capabilities to Renesas RH850 MCUs..."
+    },
+    {
+      "timestamp": "2026-01-03 23:56:34",
+      "message": "[SKIP] Irrelevant (AI Filter): IAR adds new development capabilities to Renesas RH850 MCUs"
     }
   ]
 }
