@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-04 00:59:54",
+  "last_updated": "2026-01-04 00:59:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-04 00:58:59",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-04 00:59:19",
       "message": "Found 42 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-04 00:59:54",
       "message": "[PROCESSING] Analyzing: LG announces the &#8216;world\u2019s lightest 17-inch RTX laptop&#8217;..."
+    },
+    {
+      "timestamp": "2026-01-04 00:59:57",
+      "message": "[SKIP] Irrelevant (AI Filter): LG announces the &#8216;world\u2019s lightest 17-inch RTX laptop&#8217;"
     }
   ]
 }
