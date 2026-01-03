@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-03 21:13:13",
+  "last_updated": "2026-01-03 21:13:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-03 21:12:25",
-      "message": "[SUCCESS] Processed: \ub7f0\ub358\uc740 \ubbf8\uad6d\uacfc \uc911\uad6d\uc758 \ub85c\ubd07\ud0dd\uc2dc\uac00 \uc6b4\uc601\ub418\ub294 \uccab \ubc88\uc9f8 \ub3c4\uc2dc\uac00 \ub420 \uc608\uc815\uc774\ub2e4.\n  > Summary: \ub7f0\ub358\uc740 2026\ub144\ubd80\ud130 Waymo\uc640 Baidu\uac00 \uc790\uc728\uc8fc\ud589 \ucc28\ub7c9\uc744 \ucd9c\uc2dc\ud558\uba70, \ubbf8\uad6d\uacfc \uc911\uad6d\uc758 \ub85c..."
-    },
     {
       "timestamp": "2026-01-03 21:12:27",
       "message": "[PROCESSING] Analyzing: Global SWF: sovereign wealth funds invested $66B in AI and digitalization in 2025, with Mubadala investing $12.9B and Kuwait Investment Authority investing $6B (Alex Dooler/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-03 21:13:13",
       "message": "[PROCESSING] Analyzing: Filing: OpenAI President Greg Brockman was the biggest donor to Trump's super PAC in H2 2025, donating $25M; Crypto.com operator Foris DAX donated $20M (Bill Allison/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-03 21:13:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Filing: OpenAI President Greg Brockman was the biggest donor to Trump's super PAC in H2 2025, donating $25M; Crypto.com operator Foris DAX donated $20M (Bill Allison/Bloomberg)"
     }
   ]
 }
