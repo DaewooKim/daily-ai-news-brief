@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-03 22:42:29",
+  "last_updated": "2026-01-03 22:42:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-03 22:26:39",
-      "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c \uae30\ub300\ud560 \uc810: \uc778\ud154, \ud004\ucef4, AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69\uc744 \uc7a5\ucc29\ud55c \ub178\ud2b8\ubd81, \ub354 \ub9ce\uc740 AI \ud1b5\ud569, \uc2a4\ub9c8\ud2b8 \ud648 \ub85c\ubd07, \uc2a4\ub9c8\ud2b8 \uc548\uacbd \ub4f1\n  > Summary: CES 2026\uc5d0\uc11c\ub294 \uc778\ud154, \ud004\ucef4, AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69\uc744 \ud0d1\uc7ac\ud55c \ub178\ud2b8\ubd81\uacfc \ud568\uaed8 \ub354 \ub9ce\uc740 A..."
-    },
     {
       "timestamp": "2026-01-03 22:26:40",
       "message": "[PROCESSING] Analyzing: Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-03 22:42:29",
       "message": "[PROCESSING] Analyzing: Pebble unveils the Pebble Round 2, a smartwatch with a rounded screen and basic health and activity tracking but no heart rate monitor, shipping in May for $199 (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-03 22:42:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Pebble unveils the Pebble Round 2, a smartwatch with a rounded screen and basic health and activity tracking but no heart rate monitor, shipping in May for $199 (Sarah Perez/TechCrunch)"
     }
   ]
 }
