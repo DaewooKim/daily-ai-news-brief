@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-04 07:29:08",
-  "status": "idle",
+  "last_updated": "2026-01-04 07:44:54",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-04 07:27:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Meta\u2019s Quest 3S is still $50 off and comes with a $50 gift card"
+      "timestamp": "2026-01-04 07:44:37",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-04 07:27:15",
-      "message": "[PROCESSING] Analyzing: I went to the Stranger Things finale in theaters and the strangest thing happened..."
+      "timestamp": "2026-01-04 07:44:38",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-04 07:27:18",
-      "message": "[SKIP] Irrelevant (AI Filter): I went to the Stranger Things finale in theaters and the strangest thing happened"
+      "timestamp": "2026-01-04 07:44:38",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-04 07:27:19",
-      "message": "[PROCESSING] Analyzing: This smart home controller is literally a piece of wood..."
+      "timestamp": "2026-01-04 07:44:54",
+      "message": "Found 43 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-04 07:27:23",
-      "message": "[SKIP] Irrelevant (AI Filter): This smart home controller is literally a piece of wood"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:24",
-      "message": "Reprocessing: CES 2026: all the news, gadgets, and innovations from the biggest tech show"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:26",
-      "message": "[PROCESSING] Analyzing: CES 2026: all the news, gadgets, and innovations from the biggest tech show..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:30",
-      "message": "[SUCCESS] Processed: CES 2026: \ubaa8\ub4e0 \ub274\uc2a4, \uac00\uc82f \ubc0f \ud601\uc2e0\n  > Summary: 2026\ub144 \ucd08, \ub77c\uc2a4\ubca0\uc774\uac70\uc2a4\uc5d0\uc11c \uc5f4\ub9ac\ub294 \uc5f0\ub840 \uc18c\ube44\uc790 \uac00\uc804 \uc1fc(CES)\uc5d0\uc11c\ub294 \uc62c\ud574\uc758 \uc0b0\uc5c5\uc744 ..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:32",
-      "message": "[PROCESSING] Analyzing: Grok is undressing anyone, including minors..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:34",
-      "message": "[SKIP] Irrelevant (AI Filter): Grok is undressing anyone, including minors"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:36",
-      "message": "[PROCESSING] Analyzing: Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:39",
-      "message": "[SKIP] Irrelevant (AI Filter): Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:40",
-      "message": "[PROCESSING] Analyzing: Pebble\u2019s round smartwatch is getting a reboot..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:43",
-      "message": "[SKIP] Irrelevant (AI Filter): Pebble\u2019s round smartwatch is getting a reboot"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:45",
-      "message": "Reprocessing: In 2026, AI will move from hype to pragmatism"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:46",
-      "message": "[PROCESSING] Analyzing: In 2026, AI will move from hype to pragmatism..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:51",
-      "message": "[SUCCESS] Processed: 2026\ub144, AI\ub294 \uacfc\uc7a5\uc5d0\uc11c \uc2e4\uc6a9\uc131\uc73c\ub85c \uc774\ub3d9\ud560 \uac83\uc774\ub2e4\n  > Summary: 2026\ub144\uc5d0\ub294 AI \uc0b0\uc5c5\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uc544\ud0a4\ud14d\ucc98, \ub354 \uc791\uc740 \ubaa8\ub378, \uc138\uacc4 \ubaa8\ub378, \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:52",
-      "message": "Reprocessing: Two Events Illustrate How AI is Rewriting the Memory Book"
-    },
-    {
-      "timestamp": "2026-01-04 07:27:54",
-      "message": "[PROCESSING] Analyzing: Two Events Illustrate How AI is Rewriting the Memory Book..."
-    },
-    {
-      "timestamp": "2026-01-04 07:27:58",
-      "message": "[SUCCESS] Processed: AI\uac00 \uba54\ubaa8\ub9ac \ubd81\uc744 \uc7ac\uc791\uc131\ud558\ub294 \ubc29\ubc95\uc744 \ubcf4\uc5ec\uc8fc\ub294 \ub450 \uac00\uc9c0 \uc0ac\uac74\n  > Summary: 2025\ub144 AI\uac00 \uae30\uc220\uc758 \uc8fc\ubaa9\uc744 \ubc1b\ub294 \ub3d9\uc548, AI\uc640 \uae4a\uc740 \uc5f0\uad00\uc774 \uc788\ub294 DRAM \uc81c\uc791\uc5c5\uccb4\ub4e4\uc774..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:00",
-      "message": "[PROCESSING] Analyzing: Cyient Semiconductors to acquire Kinetic Technologies for $93 million..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:02",
-      "message": "[SKIP] Irrelevant (AI Filter): Cyient Semiconductors to acquire Kinetic Technologies for $93 million"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:04",
-      "message": "[PROCESSING] Analyzing: Canada Focuses Funding on Photonics and Quantum..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:07",
-      "message": "[SKIP] Irrelevant (AI Filter): Canada Focuses Funding on Photonics and Quantum"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:09",
-      "message": "[PROCESSING] Analyzing: A new Polymarket account bet $30K on Maduro's capture just hours before Trump's announcement, renewing questions on insider information in prediction markets (Herb Scribner/Axios)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:11",
-      "message": "[SKIP] Irrelevant (AI Filter): A new Polymarket account bet $30K on Maduro's capture just hours before Trump's announcement, renewing questions on insider information in prediction markets (Herb Scribner/Axios)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:13",
-      "message": "[PROCESSING] Analyzing: Dating apps are pivoting to Asia as swipe-right fatigue hits the West; India, China, and Indonesia ranked among the top five markets by downloads in 2025 (Financial Times)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:15",
-      "message": "[SKIP] Irrelevant (AI Filter): Dating apps are pivoting to Asia as swipe-right fatigue hits the West; India, China, and Indonesia ranked among the top five markets by downloads in 2025 (Financial Times)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:17",
-      "message": "Reprocessing: What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more (The Verge)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:18",
-      "message": "[PROCESSING] Analyzing: What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more (The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:22",
-      "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c \uae30\ub300\ud560 \uc218 \uc788\ub294 \uac83: Intel, Qualcomm \ubc0f AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69\uc744 \ud0d1\uc7ac\ud55c \ub178\ud2b8\ubd81, AI \ud1b5\ud569 \uac15\ud654, \uc2a4\ub9c8\ud2b8 \ud648 \ub85c\ubd07, \uc2a4\ub9c8\ud2b8 \uc548\uacbd \ub4f1\n  > Summary: CES 2026\uc5d0\uc11c\ub294 Intel, Qualcomm, AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69\uc774 \ud0d1\uc7ac\ub41c \ub178\ud2b8\ubd81\uacfc ..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:24",
-      "message": "[PROCESSING] Analyzing: Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:26",
-      "message": "[SKIP] Irrelevant (AI Filter): Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump's prison-reform law (CNBC)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:28",
-      "message": "[PROCESSING] Analyzing: California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers (Michael Kan/PCMag)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:30",
-      "message": "[SKIP] Irrelevant (AI Filter): California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers (Michael Kan/PCMag)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:32",
-      "message": "[PROCESSING] Analyzing: On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed (Maggie Harrison Dupr\u00e9/Futurism)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:34",
-      "message": "[SKIP] Irrelevant (AI Filter): On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed (Maggie Harrison Dupr\u00e9/Futurism)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:35",
-      "message": "[PROCESSING] Analyzing: Mumbai-based Knight Fintech, which builds core infrastructure that connects banks, lenders, platforms, and borrowers, raised $23.6M led by Accel (The Economic Times)..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:38",
-      "message": "[SKIP] Irrelevant (AI Filter): Mumbai-based Knight Fintech, which builds core infrastructure that connects banks, lenders, platforms, and borrowers, raised $23.6M led by Accel (The Economic Times)"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:39",
-      "message": "[PROCESSING] Analyzing: Why \u201cwhich API do I call?\u201d is the wrong question in the LLM era..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:44",
-      "message": "[SUCCESS] Processed: \uc65c \"\uc5b4\ub5a4 API\ub97c \ud638\ucd9c\ud574\uc57c \ud560\uae4c\uc694?\"\uac00 LLM \uc2dc\ub300\uc758 \uc798\ubabb\ub41c \uc9c8\ubb38\uc778\uac00\uc694?\n  > Summary: \uc774 \uae30\uc0ac\ub294 LLM(\ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378) \uc2dc\ub300\uc5d0\uc11c API \uc778\ud130\ud398\uc774\uc2a4\uc758 \ubcc0\ud654\uc5d0 \ub300\ud574 \uc124\uba85\ud569\ub2c8\ub2e4. ..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:46",
-      "message": "Reprocessing: Musk's xAI launches Grok Business and Enterprise with compelling vault amid ongoing deepfake controversy"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:48",
-      "message": "[PROCESSING] Analyzing: Musk's xAI launches Grok Business and Enterprise with compelling vault amid ongoing deepfake controversy..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:52",
-      "message": "[SUCCESS] Processed: \uba38\uc2a4\ud06c\uc758 xAI, \uc2ec\uac01\ud55c \ub525\ud398\uc774\ud06c \ub17c\ub780 \uc18d\uc5d0 Grok \ube44\uc988\ub2c8\uc2a4 \ubc0f \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ucd9c\uc2dc\n  > Summary: xAI\ub294 Grok \ube44\uc988\ub2c8\uc2a4 \ubc0f Grok \uc5d4\ud130\ud504\ub77c\uc774\uc988\ub97c \ucd9c\uc2dc\ud558\uba70, \uace0\uae09 \ubaa8\ub378\uc5d0 \ub300\ud55c \uc811\uadfc\uc744 ..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:54",
-      "message": "Reprocessing: IAR adds new development capabilities to Renesas RH850 MCUs"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:55",
-      "message": "[PROCESSING] Analyzing: IAR adds new development capabilities to Renesas RH850 MCUs..."
-    },
-    {
-      "timestamp": "2026-01-04 07:28:58",
-      "message": "[SKIP] Irrelevant (AI Filter): IAR adds new development capabilities to Renesas RH850 MCUs"
-    },
-    {
-      "timestamp": "2026-01-04 07:28:59",
-      "message": "Completed! New: 1, Updated: 5"
-    },
-    {
-      "timestamp": "2026-01-04 07:29:03",
-      "message": "Saved 6 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-04 07:29:06",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-04 07:44:54",
+      "message": "[PROCESSING] Analyzing: Someone made a ton of money betting on Maduro\u2019s capture..."
     }
   ]
 }
