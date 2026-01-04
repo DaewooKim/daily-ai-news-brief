@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-04 08:46:55",
+  "last_updated": "2026-01-04 09:04:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-04 08:45:52",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-04 08:46:16",
       "message": "Found 42 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-04 08:46:55",
       "message": "[PROCESSING] Analyzing: Tech billionaires cashed out $16 billion in 2025 as stocks soared..."
+    },
+    {
+      "timestamp": "2026-01-04 09:04:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Tech billionaires cashed out $16 billion in 2025 as stocks soared"
     }
   ]
 }
