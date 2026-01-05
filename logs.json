@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-05 23:05:23",
+  "last_updated": "2026-01-05 23:05:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-05 23:04:39",
-      "message": "Found 29 articles within the last 1 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-05 23:04:39",
       "message": "[PROCESSING] Analyzing: Lockly\u2019s new smart locks will support Matter and NFC..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-05 23:05:23",
       "message": "[PROCESSING] Analyzing: JBL expands Endurance workout line with four new earbuds..."
+    },
+    {
+      "timestamp": "2026-01-05 23:05:26",
+      "message": "[SKIP] Irrelevant (AI Filter): JBL expands Endurance workout line with four new earbuds"
     }
   ]
 }
