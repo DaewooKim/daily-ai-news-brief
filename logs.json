@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 05:32:02",
+  "last_updated": "2026-01-06 05:32:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-06 05:30:58",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-06 05:31:18",
       "message": "Found 39 articles within the last 1 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 05:32:02",
       "message": "[PROCESSING] Analyzing: The HP OmniStudio X\u2019s webcam can watch your work desk..."
+    },
+    {
+      "timestamp": "2026-01-06 05:32:04",
+      "message": "[SKIP] Irrelevant (AI Filter): The HP OmniStudio X\u2019s webcam can watch your work desk"
     }
   ]
 }
