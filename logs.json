@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-06 07:10:20",
-  "status": "idle",
+  "last_updated": "2026-01-06 07:26:14",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-06 07:04:23",
-      "message": "Found 45 articles within the last 1 days. Starting processing..."
+      "timestamp": "2026-01-06 07:25:50",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-06 07:04:23",
+      "timestamp": "2026-01-06 07:25:52",
+      "message": "Initializing..."
+    },
+    {
+      "timestamp": "2026-01-06 07:25:52",
+      "message": "Fetching RSS feeds..."
+    },
+    {
+      "timestamp": "2026-01-06 07:26:14",
+      "message": "Found 51 articles within the last 1 days. Starting processing..."
+    },
+    {
+      "timestamp": "2026-01-06 07:26:14",
       "message": "[PROCESSING] Analyzing: This smart mirror was a menace at CES 2026..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:26",
-      "message": "[SKIP] Irrelevant (AI Filter): This smart mirror was a menace at CES 2026"
-    },
-    {
-      "timestamp": "2026-01-06 07:04:28",
-      "message": "Reprocessing: That viral Reddit post about food delivery apps was an AI scam"
-    },
-    {
-      "timestamp": "2026-01-06 07:04:29",
-      "message": "[PROCESSING] Analyzing: That viral Reddit post about food delivery apps was an AI scam..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:37",
-      "message": "[SUCCESS] Processed: \uc2dd\uc0ac \ubc30\ub2ec \uc571\uc5d0 \uad00\ud55c \uadf8 \ubc14\uc774\ub7f4 \ub808\ub527 \uac8c\uc2dc\uae00\uc740 AI \uc0ac\uae30\uc600\ub2e4\n  > Summary: 1\uc6d4 2\uc77c\uc5d0 \uac8c\uc2dc\ub41c \ub808\ub527\uc758 \ud55c \uae00\uc774 AI \uc0dd\uc131\ubb3c\uc77c \uac00\ub2a5\uc131\uc774 \ub192\ub2e4\uace0 \ud569\ub2c8\ub2e4. \uc0ac\uc6a9\uc790\uac00 \uc775\uba85\uc73c..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:38",
-      "message": "Reprocessing: LG&#8217;s CLOiD robot can load the washer for you, slowly"
-    },
-    {
-      "timestamp": "2026-01-06 07:04:40",
-      "message": "[PROCESSING] Analyzing: LG&#8217;s CLOiD robot can load the washer for you, slowly..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:45",
-      "message": "[SUCCESS] Processed: LG\uc758 CLOiD \ub85c\ubd07\uc774 \uc138\ud0c1\uae30\ub97c \ucc9c\ucc9c\ud788 \ub85c\ub4dc\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: LG\uc758 \uc9d1\uc548\uc77c\uc744 \ub3c4\uc640\uc8fc\ub294 \ub85c\ubd07 CLOiD\uac00 CES 2026\uc5d0\uc11c \ucc98\uc74c\uc73c\ub85c \ubaa8\uc2b5\uc744 \ub4dc\ub7ec\ub0c8\uc2b5\ub2c8\ub2e4..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:47",
-      "message": "[PROCESSING] Analyzing: At $50 off, the Shokz OpenRun Pro help you stick to your New Year\u2019s goals..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:49",
-      "message": "[SKIP] Irrelevant (AI Filter): At $50 off, the Shokz OpenRun Pro help you stick to your New Year\u2019s goals"
-    },
-    {
-      "timestamp": "2026-01-06 07:04:51",
-      "message": "[PROCESSING] Analyzing: Asus\u2019 new OLED gaming monitors will have sharper text and more accurate colors..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Asus\u2019 new OLED gaming monitors will have sharper text and more accurate colors"
-    },
-    {
-      "timestamp": "2026-01-06 07:04:55",
-      "message": "[PROCESSING] Analyzing: Audeze upgrades its Maxwell gaming headset with magnetic ear pads..."
-    },
-    {
-      "timestamp": "2026-01-06 07:04:58",
-      "message": "[SKIP] Irrelevant (AI Filter): Audeze upgrades its Maxwell gaming headset with magnetic ear pads"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:00",
-      "message": "[PROCESSING] Analyzing: Bosch is taking on Dyson with its first cordless stick vacuums in the US..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:03",
-      "message": "[SKIP] Irrelevant (AI Filter): Bosch is taking on Dyson with its first cordless stick vacuums in the US"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:04",
-      "message": "[PROCESSING] Analyzing: Building Autonomous Vehicles That Reason with NVIDIA Alpamayo..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:10",
-      "message": "[SUCCESS] Processed: NVIDIA \uc54c\ud30c\ub9c8\uc694\ub85c \uc0ac\uace0\ud558\ub294 \uc790\uc728\uc8fc\ud589\ucc28 \ub9cc\ub4e4\uae30\n  > Summary: \uc790\uc728\uc8fc\ud589\ucc28(AV) \uc5f0\uad6c\uac00 \uae09\uaca9\ud55c \ubcc0\ud654\ub97c \uacaa\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \ubd84\uc57c\ub294 \uc778\uac04\uacfc \uac19\uc740 \uc0ac\uace0\ub97c AV..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:12",
-      "message": "Reprocessing: Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to \u2018think like a human\u2019"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:14",
-      "message": "[PROCESSING] Analyzing: Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to \u2018think like a human\u2019..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:19",
-      "message": "[SUCCESS] Processed: Nvidia, \uc790\uc728\uc8fc\ud589\ucc28\uac00 \u2018\uc778\uac04\ucc98\ub7fc \uc0dd\uac01\ud560 \uc218 \uc788\ub3c4\ub85d\u2019 \ud558\ub294 \uc624\ud508 AI \ubaa8\ub378 Alpamayo \ucd9c\uc2dc\n  > Summary: Nvidia\ub294 CES 2026\uc5d0\uc11c Alpamayo\ub97c \uc120\ubcf4\uc600\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 \uc790\uc728\uc8fc\ud589\ucc28\uac00 ..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:21",
-      "message": "[info] Timestamp updated for: Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to \u2018think like a human\u2019"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:23",
-      "message": "Reprocessing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:25",
-      "message": "[PROCESSING] Analyzing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:31",
-      "message": "[SUCCESS] Processed: CES 2026: \ub77c\uc774\ube0c\ub85c \ud655\uc778\ud558\uc138\uc694, Nvidia, Lego, AMD, Amazon \ub4f1 \ub9ce\uc740 \uae30\uc5c5\ub4e4\uc774 \ud070 \ubc1c\ud45c\ub97c \ud569\ub2c8\ub2e4\n  > Summary: CES 2026\uac00 \ub124\ubc14\ub2e4 \uc8fc \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uc5f4\ub9bd\ub2c8\ub2e4. TechCrunch \uae30\uc790\ub4e4\uc774 \ud604\uc7a5\uc5d0\uc11c..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:32",
-      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:35",
-      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:37",
-      "message": "Reprocessing: Beyond Energy Use: Strategies for Sustainable Data Center Operations"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:39",
-      "message": "[PROCESSING] Analyzing: Beyond Energy Use: Strategies for Sustainable Data Center Operations..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:43",
-      "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9 \uc774\uc0c1\uc758: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \uc704\ud55c \uc804\ub7b5\n  > Summary: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc744 \uc774\ub044\ub294 \uac00\uc6b4\ub370, \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c \ubc0f \uc778\ud504..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:45",
-      "message": "[PROCESSING] Analyzing: A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:48",
-      "message": "[SKIP] Irrelevant (AI Filter): A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:50",
-      "message": "[PROCESSING] Analyzing: Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:54",
-      "message": "[SKIP] Irrelevant (AI Filter): Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 07:05:55",
-      "message": "[PROCESSING] Analyzing: TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 07:05:59",
-      "message": "[SKIP] Irrelevant (AI Filter): TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 07:06:01",
-      "message": "[PROCESSING] Analyzing: African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised ~$17.5M since 2020 (Tage Kene-Okafor/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:05",
-      "message": "[SKIP] Irrelevant (AI Filter): African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised ~$17.5M since 2020 (Tage Kene-Okafor/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 07:06:06",
-      "message": "[PROCESSING] Analyzing: Annual Florida Semiconductor Summit to Showcase the State\u2019s Growing Chip Manufacturing Ecosystem..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:13",
-      "message": "[SUCCESS] Processed: \ud50c\ub85c\ub9ac\ub2e4 \ubc18\ub3c4\uccb4 \uc11c\ubc0b, \uc8fc\uc758 \uc131\uc7a5\ud558\ub294 \uce69 \uc81c\uc870 \uc0dd\ud0dc\uacc4 \uc18c\uac1c\n  > Summary: 2026\ub144 2\uc6d4 23\uc77c\ubd80\ud130 25\uc77c\uae4c\uc9c0 \ud50c\ub85c\ub9ac\ub2e4\uc5d0\uc11c \uc5f4\ub9ac\ub294 \uc81c4\ud68c \ud50c\ub85c\ub9ac\ub2e4 \ubc18\ub3c4\uccb4 \uc11c\ubc0b\uc740 \ubc18..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:15",
-      "message": "Reprocessing: Zone Controller Development Kit Targets SDVs"
-    },
-    {
-      "timestamp": "2026-01-06 07:06:17",
-      "message": "[PROCESSING] Analyzing: Zone Controller Development Kit Targets SDVs..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:23",
-      "message": "[SUCCESS] Processed: \uc874 \ucee8\ud2b8\ub864\ub7ec \uac1c\ubc1c \ud0a4\ud2b8\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \ucc28\ub7c9\uc744 \ubaa9\ud45c\ub85c \ud558\ub2e4\n  > Summary: 2026 CES\uc5d0\uc11c \uc778\ud53c\ub2c8\uc5b8 \ud14c\ud06c\ub180\ub85c\uc9c0\uc2a4\uc640 \ud50c\ub809\uc2a4\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \ucc28\ub7c9(SDV)\uc744 \uc704\ud55c ..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:24",
-      "message": "Reprocessing: NXP Unveils S32N7 Central Processor for SDVs"
-    },
-    {
-      "timestamp": "2026-01-06 07:06:26",
-      "message": "[PROCESSING] Analyzing: NXP Unveils S32N7 Central Processor for SDVs..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:32",
-      "message": "[SUCCESS] Processed: NXP, SDV\uc6a9 \uc911\uc559 \ud504\ub85c\uc138\uc11c S32N7 \uacf5\uac1c\n  > Summary: NXP \ubc18\ub3c4\uccb4\uac00 \ucc28\ub7c9 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \uac1c\ubc1c\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 S32N7 \ud504\ub85c\uc138\uc11c \uc2dc\ub9ac\uc988\ub97c \ucd9c..."
-    },
-    {
-      "timestamp": "2026-01-06 07:06:33",
-      "message": "Completed! New: 2, Updated: 7"
-    },
-    {
-      "timestamp": "2026-01-06 07:10:15",
-      "message": "Saved 9 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-06 07:10:18",
-      "message": "Auto-Scrape Finished Successfully."
     }
   ]
 }
