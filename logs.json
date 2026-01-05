@@ -1,202 +1,26 @@
 {
-  "last_updated": "2026-01-06 05:54:57",
-  "status": "idle",
+  "last_updated": "2026-01-06 06:10:47",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-06 05:52:25",
+      "timestamp": "2026-01-06 06:10:28",
       "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-06 05:52:26",
+      "timestamp": "2026-01-06 06:10:30",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-06 05:52:26",
+      "timestamp": "2026-01-06 06:10:30",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-06 05:52:46",
-      "message": "Found 39 articles within the last 1 days. Starting processing..."
+      "timestamp": "2026-01-06 06:10:47",
+      "message": "Found 40 articles within the last 1 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-06 05:52:46",
-      "message": "[PROCESSING] Analyzing: Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years..."
-    },
-    {
-      "timestamp": "2026-01-06 05:52:53",
-      "message": "[SUCCESS] Processed: \ub808\uace0, 50\ub144 \ub9cc\uc5d0 '\uac00\uc7a5 \uc911\uc694\ud55c \uc9c4\ud654' \uc2a4\ub9c8\ud2b8 \ube0c\ub9ad \ubc1c\ud45c\n  > Summary: \ub808\uace0\ub294 2026\ub144 3\uc6d4 1\uc77c\ubd80\ud130 \uc0c8\ub85c\uc6b4 \uc2a4\ub9c8\ud2b8 \ube0c\ub9ad\uc744 \ud310\ub9e4\ud558\uae30 \uc2dc\uc791\ud569\ub2c8\ub2e4. \uc774 \uc2a4\ub9c8\ud2b8 \ube0c\ub9ad..."
-    },
-    {
-      "timestamp": "2026-01-06 05:52:55",
-      "message": "Reprocessing: That viral Reddit post about food delivery apps was an AI scam"
-    },
-    {
-      "timestamp": "2026-01-06 05:52:57",
-      "message": "[PROCESSING] Analyzing: That viral Reddit post about food delivery apps was an AI scam..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:04",
-      "message": "[SUCCESS] Processed: \uadf8 \ubc14\uc774\ub7f4 \ub808\ub527 \uae00\uc740 AI \uc0ac\uae30\uc600\ub2e4\n  > Summary: 2023\ub144 1\uc6d4 2\uc77c\uc5d0 \uac8c\uc2dc\ub41c \ubc14\uc774\ub7f4 \ub808\ub527 \uace0\ubc31\uae00\uc774 AI \uc0dd\uc131\ubb3c\uc77c \uac00\ub2a5\uc131\uc774 \ub192\ub2e4\uace0 \ubcf4\ub3c4\ub418\uc5c8..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:06",
-      "message": "Reprocessing: LG&#8217;s CLOiD robot can load the washer for you, slowly"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:07",
-      "message": "[PROCESSING] Analyzing: LG&#8217;s CLOiD robot can load the washer for you, slowly..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:13",
-      "message": "[SUCCESS] Processed: LG\uc758 CLOiD \ub85c\ubd07\uc740 \uc138\ud0c1\uae30\ub97c \ucc9c\ucc9c\ud788 \ub85c\ub529\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: LG\uc758 CLOiD \ub85c\ubd07\uc774 CES 2026\uc5d0\uc11c \uccab \ubaa8\uc2b5\uc744 \uacf5\uac1c\ud558\uba70 \uc138\ud0c1\uae30\uc640 \uac74\uc870\uae30\ub97c \ub85c\ub529\ud558\ub294..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:15",
-      "message": "[PROCESSING] Analyzing: At $50 off, the Shokz OpenRun Pro helps you stick to your new year\u2019s goals..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:17",
-      "message": "[SKIP] Irrelevant (AI Filter): At $50 off, the Shokz OpenRun Pro helps you stick to your new year\u2019s goals"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:19",
-      "message": "[PROCESSING] Analyzing: Asus\u2019 new OLED gaming monitors will have sharper text and more accurate colors..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:22",
-      "message": "[SKIP] Irrelevant (AI Filter): Asus\u2019 new OLED gaming monitors will have sharper text and more accurate colors"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:24",
-      "message": "[PROCESSING] Analyzing: Audeze upgrades its Maxwell gaming headset with magnetic ear pads..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:27",
-      "message": "[SKIP] Irrelevant (AI Filter): Audeze upgrades its Maxwell gaming headset with magnetic ear pads"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:28",
-      "message": "[PROCESSING] Analyzing: Bosch is taking on Dyson with its first cordless stick vacuums in the US..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:31",
-      "message": "[SKIP] Irrelevant (AI Filter): Bosch is taking on Dyson with its first cordless stick vacuums in the US"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:33",
-      "message": "Reprocessing: The HP OmniStudio X\u2019s webcam can watch your work desk"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:34",
-      "message": "[PROCESSING] Analyzing: The HP OmniStudio X\u2019s webcam can watch your work desk..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:39",
-      "message": "[SUCCESS] Processed: HP OmniStudio X\uc758 \uc6f9\ucea0\uc774 \uc791\uc5c5 \ucc45\uc0c1\uc744 \ubcfc \uc218 \uc788\ub2e4\n  > Summary: HP\ub294 CES\uc5d0\uc11c 2026\ub144 \ucef4\ud4e8\ud305 \ud558\ub4dc\uc6e8\uc5b4 \ub77c\uc778\uc5c5\uc758 \uc5ec\ub7ec \uc0ac\uc591 \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4...."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:41",
-      "message": "Reprocessing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:43",
-      "message": "[PROCESSING] Analyzing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:48",
-      "message": "[SUCCESS] Processed: CES 2026: \uc5d4\ube44\ub514\uc544, \ub808\uace0, AMD, \uc544\ub9c8\uc874 \ub4f1\uc774 \ud070 \ubc1c\ud45c\ub97c \ud558\ub294 \ubaa8\uc2b5\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \ub530\ub77c\uac00\uc138\uc694\n  > Summary: CES 2026\uac00 \ub77c\uc2a4\ubca0\uc774\uac70\uc2a4\uc5d0\uc11c \uc5f4\ub9bd\ub2c8\ub2e4. \ud14c\ud06c\ud06c\ub7f0\uce58\uc758 \uae30\uc790\ub4e4\uc774 AI\uc640 \ubb3c\ub9ac\uc801 \uc138\uacc4\uc758 \uc735..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:50",
-      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
-    },
-    {
-      "timestamp": "2026-01-06 05:53:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:55",
-      "message": "Reprocessing: Beyond Energy Use: Strategies for Sustainable Data Center Operations"
-    },
-    {
-      "timestamp": "2026-01-06 05:53:56",
-      "message": "[PROCESSING] Analyzing: Beyond Energy Use: Strategies for Sustainable Data Center Operations..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:01",
-      "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc744 \ub118\uc5b4\uc11c: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601 \uc804\ub7b5\n  > Summary: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc131\uc7a5\uc744 \uc774\ub044\ub294 \uac00\uc6b4\ub370, \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c, \uc778\ud504\ub77c ..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:02",
-      "message": "[PROCESSING] Analyzing: A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:05",
-      "message": "[SKIP] Irrelevant (AI Filter): A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:07",
-      "message": "[PROCESSING] Analyzing: Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:09",
-      "message": "[SKIP] Irrelevant (AI Filter): Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:11",
-      "message": "[PROCESSING] Analyzing: TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:14",
-      "message": "[SKIP] Irrelevant (AI Filter): TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:16",
-      "message": "[PROCESSING] Analyzing: African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised ~$17.5M since 2020 (Tage Kene-Okafor/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:20",
-      "message": "[SKIP] Irrelevant (AI Filter): African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised ~$17.5M since 2020 (Tage Kene-Okafor/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:22",
-      "message": "[PROCESSING] Analyzing: Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC's trade secrets (Wen-Yee Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC's trade secrets (Wen-Yee Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:26",
-      "message": "[PROCESSING] Analyzing: The creator of Claude Code just revealed his workflow, and developers are losing their minds..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:35",
-      "message": "[SUCCESS] Processed: \ud074\ub85c\ub4dc \ucf54\ub4dc\uc758 \ucc3d\uc2dc\uc790\uac00 \uc790\uc2e0\uc758 \uc791\uc5c5 \ud750\ub984\uc744 \uacf5\uac1c\ud558\uc790 \uac1c\ubc1c\uc790\ub4e4\uc774 \ud63c\ub780\uc5d0 \ube60\uc84c\ub2e4\n  > Summary: \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \uc9c4\ubcf4\ub41c \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc758 \ucc3d\uc2dc\uc790\uc778 \ubcf4\ub9ac\uc2a4 \uccb4\ub974\ub2c8\uac00 \uc790\uc2e0\uc758 \uac1c\uc778 \ud130\ubbf8\ub110 \uc124\uc815\uc744 ..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:37",
-      "message": "Reprocessing: NXP Unveils S32N7 Central Processor for SDVs"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:39",
-      "message": "[PROCESSING] Analyzing: NXP Unveils S32N7 Central Processor for SDVs..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:45",
-      "message": "[SUCCESS] Processed: NXP, SDV\uc6a9 S32N7 \uc911\uc559 \ud504\ub85c\uc138\uc11c \uacf5\uac1c\n  > Summary: NXP \ubc18\ub3c4\uccb4\ub294 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \ucc28\ub7c9(SDV) \ubc1c\uc804\uc744 \uc9c0\uc6d0\ud558\ub294 S32N7 \ud504\ub85c\uc138\uc11c \uc2dc\ub9ac\uc988\ub97c..."
-    },
-    {
-      "timestamp": "2026-01-06 05:54:47",
-      "message": "Completed! New: 2, Updated: 6"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:52",
-      "message": "Saved 8 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-06 05:54:56",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-06 06:10:47",
+      "message": "[PROCESSING] Analyzing: Boston Dynamics\u2019 Tesla Bot rival Atlas will start building Hyundai cars in 2028..."
     }
   ]
 }
