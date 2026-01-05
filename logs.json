@@ -1,150 +1,26 @@
 {
-  "last_updated": "2026-01-05 22:48:49",
-  "status": "idle",
+  "last_updated": "2026-01-05 23:04:39",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-05 22:46:43",
+      "timestamp": "2026-01-05 23:04:19",
       "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-05 22:46:44",
+      "timestamp": "2026-01-05 23:04:20",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-05 22:46:44",
+      "timestamp": "2026-01-05 23:04:20",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-05 22:47:31",
-      "message": "Found 28 articles within the last 1 days. Starting processing..."
+      "timestamp": "2026-01-05 23:04:39",
+      "message": "Found 29 articles within the last 1 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-05 22:47:31",
-      "message": "[PROCESSING] Analyzing: JBL expands open-ear lineup with new buds coming to the US in March..."
-    },
-    {
-      "timestamp": "2026-01-05 22:47:34",
-      "message": "[SKIP] Irrelevant (AI Filter): JBL expands open-ear lineup with new buds coming to the US in March"
-    },
-    {
-      "timestamp": "2026-01-05 22:47:36",
-      "message": "[PROCESSING] Analyzing: JBL expands Endurance workout line with four new earbuds..."
-    },
-    {
-      "timestamp": "2026-01-05 22:47:38",
-      "message": "[SKIP] Irrelevant (AI Filter): JBL expands Endurance workout line with four new earbuds"
-    },
-    {
-      "timestamp": "2026-01-05 22:47:40",
-      "message": "Reprocessing: This robot companion is a cameraman for your pet"
-    },
-    {
-      "timestamp": "2026-01-05 22:47:42",
-      "message": "[PROCESSING] Analyzing: This robot companion is a cameraman for your pet..."
-    },
-    {
-      "timestamp": "2026-01-05 22:47:47",
-      "message": "[SUCCESS] Processed: \uc774 \ub85c\ubd07 \ub3d9\ubc18\uc790\ub294 \ub2f9\uc2e0\uc758 \ubc18\ub824\ub3d9\ubb3c\uc758 \uc601\ud654 \ucd2c\uc601\uae30\uc785\ub2c8\ub2e4\n  > Summary: Vex\ub294 \ubc18\ub824\ub3d9\ubb3c \uce74\uba54\ub77c\uc758 \ud55c\uacc4\ub97c \ub118\uc5b4\uc11c\ub294 \uc0c8\ub85c\uc6b4 \ub85c\ubd07 \ub3d9\ubc18\uc790\ub85c, CES\uc5d0\uc11c \ubc1c\ud45c\ub418\uc5c8\uc2b5\ub2c8\ub2e4..."
-    },
-    {
-      "timestamp": "2026-01-05 22:47:49",
-      "message": "[PROCESSING] Analyzing: Birdbuddy\u2019s new smart feeders aim to make spotting birds easier, even for beginners..."
-    },
-    {
-      "timestamp": "2026-01-05 22:47:52",
-      "message": "[SKIP] Irrelevant (AI Filter): Birdbuddy\u2019s new smart feeders aim to make spotting birds easier, even for beginners"
-    },
-    {
-      "timestamp": "2026-01-05 22:47:54",
-      "message": "[PROCESSING] Analyzing: I just want to keep unfolding the Samsung Z TriFold..."
-    },
-    {
-      "timestamp": "2026-01-05 22:47:56",
-      "message": "[SKIP] Irrelevant (AI Filter): I just want to keep unfolding the Samsung Z TriFold"
-    },
-    {
-      "timestamp": "2026-01-05 22:47:58",
-      "message": "[PROCESSING] Analyzing: LG\u2019s Wallpaper OLED TV returns to CES, and it\u2019s wafer thin..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:00",
-      "message": "[SKIP] Irrelevant (AI Filter): LG\u2019s Wallpaper OLED TV returns to CES, and it\u2019s wafer thin"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:02",
-      "message": "[PROCESSING] Analyzing: The new Ultraloq smart lock uses both your face and your palm to let you in..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:05",
-      "message": "[SKIP] Irrelevant (AI Filter): The new Ultraloq smart lock uses both your face and your palm to let you in"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:07",
-      "message": "[PROCESSING] Analyzing: Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:10",
-      "message": "[SKIP] Irrelevant (AI Filter): Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:11",
-      "message": "[PROCESSING] Analyzing: Withings thinks of its latest smart scale as a \u2018longevity station\u2019..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Withings thinks of its latest smart scale as a \u2018longevity station\u2019"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:16",
-      "message": "[PROCESSING] Analyzing: The AI Infrastructure Revolution: Lessons from 2025, Predictions for 2026..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:20",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \ud601\uba85: 2025\ub144\uc758 \uad50\ud6c8, 2026\ub144\uc758 \uc608\uce21\n  > Summary: AI \uc778\ud504\ub77c\uc758 \ubc1c\uc804\uc744 \uc804\ub9dd\ud558\uba70, \ub370\uc774\ud130 \uc13c\ud130 \uc0b0\uc5c5\uc740 \uc804\ub825, \ub0c9\uac01 \ubc0f \uc5d0\uc774\uc804\ud2b8\uc5d0 \uc9d1\uc911\ud574\uc57c \ud55c..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:22",
-      "message": "[PROCESSING] Analyzing: African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:24",
-      "message": "[SKIP] Irrelevant (AI Filter): African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:26",
-      "message": "[PROCESSING] Analyzing: Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:29",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:30",
-      "message": "[PROCESSING] Analyzing: Taiwan says China's cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day (Yimou Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:33",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwan says China's cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day (Yimou Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:34",
-      "message": "[PROCESSING] Analyzing: \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815..."
-    },
-    {
-      "timestamp": "2026-01-05 22:48:37",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:39",
-      "message": "Completed! New: 1, Updated: 1"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:44",
-      "message": "Saved 2 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-05 22:48:47",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-05 23:04:39",
+      "message": "[PROCESSING] Analyzing: Lockly\u2019s new smart locks will support Matter and NFC..."
     }
   ]
 }
