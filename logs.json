@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-05 22:48:11",
+  "last_updated": "2026-01-05 22:48:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-05 22:46:44",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-05 22:47:31",
       "message": "Found 28 articles within the last 1 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-05 22:48:11",
       "message": "[PROCESSING] Analyzing: Withings thinks of its latest smart scale as a \u2018longevity station\u2019..."
+    },
+    {
+      "timestamp": "2026-01-05 22:48:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Withings thinks of its latest smart scale as a \u2018longevity station\u2019"
     }
   ]
 }
