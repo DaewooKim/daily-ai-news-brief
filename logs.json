@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 05:15:01",
+  "last_updated": "2026-01-06 05:15:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-06 05:14:11",
-      "message": "Reprocessing: The HP OmniStudio X\u2019s webcam can watch your work desk"
-    },
     {
       "timestamp": "2026-01-06 05:14:13",
       "message": "[PROCESSING] Analyzing: The HP OmniStudio X\u2019s webcam can watch your work desk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 05:15:01",
       "message": "[PROCESSING] Analyzing: Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC's trade secrets (Wen-Yee Lee/Reuters)..."
+    },
+    {
+      "timestamp": "2026-01-06 05:15:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC's trade secrets (Wen-Yee Lee/Reuters)"
     }
   ]
 }
