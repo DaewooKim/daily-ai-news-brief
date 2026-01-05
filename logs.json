@@ -1,166 +1,26 @@
 {
-  "last_updated": "2026-01-05 23:23:31",
-  "status": "idle",
+  "last_updated": "2026-01-05 23:47:06",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-05 23:21:39",
+      "timestamp": "2026-01-05 23:46:43",
       "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-05 23:21:41",
+      "timestamp": "2026-01-05 23:46:45",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-05 23:21:41",
+      "timestamp": "2026-01-05 23:46:45",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-05 23:22:02",
-      "message": "Found 29 articles within the last 1 days. Starting processing..."
+      "timestamp": "2026-01-05 23:47:06",
+      "message": "Found 31 articles within the last 1 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-05 23:22:02",
-      "message": "[PROCESSING] Analyzing: Twelve South\u2019s Valet is a handsome place to put your stuff..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Twelve South\u2019s Valet is a handsome place to put your stuff"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:06",
-      "message": "[PROCESSING] Analyzing: Microsoft\u00a0Edge is getting a Copilot-inspired redesign..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:09",
-      "message": "[SKIP] Irrelevant (AI Filter): Microsoft\u00a0Edge is getting a Copilot-inspired redesign"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:11",
-      "message": "[PROCESSING] Analyzing: Lockly\u2019s new smart locks will support Matter and NFC..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Lockly\u2019s new smart locks will support Matter and NFC"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:15",
-      "message": "[PROCESSING] Analyzing: These wireless headphones roll up to become a Bluetooth speaker..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:18",
-      "message": "[SKIP] Irrelevant (AI Filter): These wireless headphones roll up to become a Bluetooth speaker"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:20",
-      "message": "[PROCESSING] Analyzing: ShiftCam has a trackable 8TB SSD that sticks to your phone..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:23",
-      "message": "[SKIP] Irrelevant (AI Filter): ShiftCam has a trackable 8TB SSD that sticks to your phone"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:24",
-      "message": "[PROCESSING] Analyzing: GE Lighting\u2019s new Matter-compatible smart shades start at just $300..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:27",
-      "message": "[SKIP] Irrelevant (AI Filter): GE Lighting\u2019s new Matter-compatible smart shades start at just $300"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:28",
-      "message": "[PROCESSING] Analyzing: TCL challenges RGB LED at CES with its X11L SQD-Mini LED TV..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:31",
-      "message": "[SKIP] Irrelevant (AI Filter): TCL challenges RGB LED at CES with its X11L SQD-Mini LED TV"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:33",
-      "message": "[PROCESSING] Analyzing: Cozyla\u2019s TV-sized smart calendar makes your home look like a classroom..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:35",
-      "message": "[SKIP] Irrelevant (AI Filter): Cozyla\u2019s TV-sized smart calendar makes your home look like a classroom"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:37",
-      "message": "[PROCESSING] Analyzing: \u2018Max Ink Mode\u2019 is back on TCL\u2019s NXTPaper 70 Pro..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:39",
-      "message": "[SKIP] Irrelevant (AI Filter): \u2018Max Ink Mode\u2019 is back on TCL\u2019s NXTPaper 70 Pro"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:41",
-      "message": "Reprocessing: The AI Infrastructure Revolution: Lessons from 2025, Predictions for 2026"
-    },
-    {
-      "timestamp": "2026-01-05 23:22:43",
-      "message": "[PROCESSING] Analyzing: The AI Infrastructure Revolution: Lessons from 2025, Predictions for 2026..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:47",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \ud601\uba85: 2025\ub144\uc758 \uad50\ud6c8\uacfc 2026\ub144\uc758 \uc608\uce21\n  > Summary: AI \uc778\ud504\ub77c\uc758 \ubbf8\ub798\uc5d0 \ub300\ud55c \ud070 \ubc1c\uc804\uc774 \uc608\uc0c1\ub418\uba70, \ub370\uc774\ud130 \uc13c\ud130 \uc0b0\uc5c5\uc740 \uc804\ub825, \ub0c9\uac01, \uadf8\ub9ac\uace0 ..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:49",
-      "message": "[PROCESSING] Analyzing: Lyte, founded by ex-Apple Face ID engineers, emerges from stealth and raised ~$107M to develop tech to help robots see better and move more safely in the world (Samantha Kelly/Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:55",
-      "message": "[SUCCESS] Processed: \uc560\ud50c \ud398\uc774\uc2a4 ID \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4\uc774 \uc124\ub9bd\ud55c Lyte, \ub85c\ubd07\uc758 \uc2dc\uac01\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uace0 \uc548\uc804\ud55c \uc774\ub3d9\uc744 \uc704\ud55c \uae30\uc220 \uac1c\ubc1c\uc5d0 \uc57d 1\uc5b5 7\ubc31\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: Lyte\ub294 \uc560\ud50c \ud398\uc774\uc2a4 ID \uae30\uc220\ud300\uc758 \uc804 \ud300\uc6d0\ub4e4\uc774 \uc124\ub9bd\ud55c \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c, \ucd5c\uadfc \uc57d 1\uc5b5 7\ubc31..."
-    },
-    {
-      "timestamp": "2026-01-05 23:22:57",
-      "message": "[PROCESSING] Analyzing: Google plans to integrate Nano Banana and Veo support into Gemini on Google TV, letting users generate AI videos and modify family photos, first on TCL TVs (Terrence O'Brien/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:23:02",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, \uad6c\uae00 TV\uc758 \uc81c\ubbf8\ub2c8\uc5d0 \ub098\ub178 \ubc14\ub098\ub098 \ubc0f \ubca0\uc624 \uc9c0\uc6d0 \ud1b5\ud569 \uacc4\ud68d, \uc0ac\uc6a9\uc790 AI \ube44\ub514\uc624 \uc0dd\uc131 \ubc0f \uac00\uc871 \uc0ac\uc9c4 \uc218\uc815 \uac00\ub2a5\n  > Summary: \uad6c\uae00\uc740 \uad6c\uae00 TV\uc758 \uc81c\ubbf8\ub2c8\uc5d0 \ub098\ub178 \ubc14\ub098\ub098 \ubc0f \ubca0\uc624 \uc9c0\uc6d0\uc744 \ud1b5\ud569\ud560 \uacc4\ud68d\uc785\ub2c8\ub2e4. \uc774\ub97c \ud1b5\ud574 \uc0ac..."
-    },
-    {
-      "timestamp": "2026-01-05 23:23:04",
-      "message": "[PROCESSING] Analyzing: African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:23:06",
-      "message": "[SKIP] Irrelevant (AI Filter): African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-05 23:23:08",
-      "message": "[PROCESSING] Analyzing: Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:23:10",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-05 23:23:12",
-      "message": "[PROCESSING] Analyzing: Taiwan says China's cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day (Yimou Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:23:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwan says China's cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day (Yimou Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-05 23:23:16",
-      "message": "[PROCESSING] Analyzing: \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815..."
-    },
-    {
-      "timestamp": "2026-01-05 23:23:19",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815"
-    },
-    {
-      "timestamp": "2026-01-05 23:23:21",
-      "message": "Completed! New: 2, Updated: 1"
-    },
-    {
-      "timestamp": "2026-01-05 23:23:25",
-      "message": "Saved 3 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-05 23:23:29",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-05 23:47:06",
+      "message": "[PROCESSING] Analyzing: The best tech announced at CES 2026 so far..."
     }
   ]
 }
