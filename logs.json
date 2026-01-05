@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-05 22:29:05",
+  "last_updated": "2026-01-05 22:29:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-05 22:28:02",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-05 22:28:02",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-05 22:29:05",
       "message": "[PROCESSING] Analyzing: Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s..."
+    },
+    {
+      "timestamp": "2026-01-05 22:29:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s"
     }
   ]
 }
