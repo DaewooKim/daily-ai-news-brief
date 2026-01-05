@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-01-06 04:57:37",
-  "status": "running",
+  "last_updated": "2026-01-06 04:57:38",
+  "status": "idle",
   "logs": [
+    {
+      "timestamp": "2026-01-06 04:55:16",
+      "message": "Starting automatic background collection..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:17",
+      "message": "Initializing..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:17",
+      "message": "Fetching RSS feeds..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:37",
+      "message": "Found 36 articles within the last 1 days. Starting processing..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:37",
+      "message": "[PROCESSING] Analyzing: Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years"
+    },
+    {
+      "timestamp": "2026-01-06 04:55:41",
+      "message": "Reprocessing: That viral Reddit post about food delivery apps was an AI scam"
+    },
+    {
+      "timestamp": "2026-01-06 04:55:43",
+      "message": "[PROCESSING] Analyzing: That viral Reddit post about food delivery apps was an AI scam..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:49",
+      "message": "[SUCCESS] Processed: \uc2dd\ud488 \ubc30\ub2ec \uc571\uc5d0 \ub300\ud55c \uadf8 \ubc14\uc774\ub7f4 Reddit \uac8c\uc2dc\ubb3c\uc774 AI \uc0ac\uae30\uc600\ub2e4\n  > Summary: 1\uc6d4 2\uc77c\uc5d0 \uac8c\uc2dc\ub41c Reddit\uc758 \uc778\uae30 \uace0\ubc31\uae00\uc774 AI\ub85c \uc0dd\uc131\ub41c \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4. \uc0ac\uc6a9\uc790 Tr..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:51",
+      "message": "Reprocessing: LG&#8217;s CLOiD robot can load the washer for you, slowly"
+    },
+    {
+      "timestamp": "2026-01-06 04:55:53",
+      "message": "[PROCESSING] Analyzing: LG&#8217;s CLOiD robot can load the washer for you, slowly..."
+    },
+    {
+      "timestamp": "2026-01-06 04:55:59",
+      "message": "[SUCCESS] Processed: LG\uc758 CLOiD \ub85c\ubd07, \uc138\ud0c1\uae30\ub97c \ucc9c\ucc9c\ud788 \ub85c\ub529\ud560 \uc218 \uc788\ub2e4\n  > Summary: LG\uc758 CLOiD \ub85c\ubd07\uc774 CES 2026\uc5d0\uc11c \uccab \ubaa8\uc2b5\uc744 \ub4dc\ub7ec\ub0c8\uc2b5\ub2c8\ub2e4. \uc774 \ub85c\ubd07\uc740 \uc138\ud0c1\uae30\ub098 ..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:00",
+      "message": "[PROCESSING] Analyzing: At $50 off, the Shokz OpenRun Pro helps you stick to your new year\u2019s goals..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:03",
+      "message": "[SKIP] Irrelevant (AI Filter): At $50 off, the Shokz OpenRun Pro helps you stick to your new year\u2019s goals"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:05",
+      "message": "[PROCESSING] Analyzing: Asus\u2019 new OLED gaming monitors will have sharper text and more accurate colors..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Asus\u2019 new OLED gaming monitors will have sharper text and more accurate colors"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:10",
+      "message": "[PROCESSING] Analyzing: Audeze upgrades its Maxwell gaming headset with magnetic ear pads..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Audeze upgrades its Maxwell gaming headset with magnetic ear pads"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:15",
+      "message": "[PROCESSING] Analyzing: Bosch is taking on Dyson with its first cordless stick vacuums in the US..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Bosch is taking on Dyson with its first cordless stick vacuums in the US"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:20",
+      "message": "Reprocessing: The HP OmniStudio X\u2019s webcam can watch your work desk"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:21",
+      "message": "[PROCESSING] Analyzing: The HP OmniStudio X\u2019s webcam can watch your work desk..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:27",
+      "message": "[SUCCESS] Processed: HP \uc634\ub2c8\uc2a4\ud29c\ub514\uc624 X\uc758 \uc6f9\ucea0\uc774 \uc791\uc5c5 \ub370\uc2a4\ud06c\ub97c \uac10\uc2dc\ud560 \uc218 \uc788\ub2e4\n  > Summary: HP\ub294 CES\uc5d0\uc11c 2026\ub144 \ucef4\ud4e8\ud305 \ud558\ub4dc\uc6e8\uc5b4 \ub77c\uc778\uc5c5\uc758 \uc5ec\ub7ec \uc0ac\uc591\uc744 \uc5c5\ub370\uc774\ud2b8\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4...."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:28",
+      "message": "Reprocessing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:30",
+      "message": "[PROCESSING] Analyzing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:35",
+      "message": "[SUCCESS] Processed: CES 2026: Nvidia, Lego, AMD, Amazon \ub4f1 \ud070 \ubc1c\ud45c\ub97c \uc0dd\uc911\uacc4\ud569\ub2c8\ub2e4\n  > Summary: CES 2026\uac00 \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uc5f4\ub9ac\uace0 \uc788\uc73c\uba70, TechCrunch \uae30\uc790\ub4e4\uc774 \ud604\uc7a5\uc5d0\uc11c \uc18c\uc2dd..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:37",
+      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
+    },
+    {
+      "timestamp": "2026-01-06 04:56:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:41",
+      "message": "Reprocessing: Beyond Energy Use: Strategies for Sustainable Data Center Operations"
+    },
+    {
+      "timestamp": "2026-01-06 04:56:43",
+      "message": "[PROCESSING] Analyzing: Beyond Energy Use: Strategies for Sustainable Data Center Operations..."
+    },
     {
       "timestamp": "2026-01-06 04:56:48",
       "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc744 \ub118\uc5b4: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \uc704\ud55c \uc804\ub7b5\n  > Summary: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc744 \uc774\ub04c\uace0 \uc788\ub294 \uac00\uc6b4\ub370 \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c \ubc0f ..."
