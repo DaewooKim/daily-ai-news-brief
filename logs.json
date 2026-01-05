@@ -1,166 +1,26 @@
 {
-  "last_updated": "2026-01-05 23:06:09",
-  "status": "idle",
+  "last_updated": "2026-01-05 23:22:02",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-05 23:04:19",
+      "timestamp": "2026-01-05 23:21:39",
       "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-05 23:04:20",
+      "timestamp": "2026-01-05 23:21:41",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-05 23:04:20",
+      "timestamp": "2026-01-05 23:21:41",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-05 23:04:39",
+      "timestamp": "2026-01-05 23:22:02",
       "message": "Found 29 articles within the last 1 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-05 23:04:39",
-      "message": "[PROCESSING] Analyzing: Lockly\u2019s new smart locks will support Matter and NFC..."
-    },
-    {
-      "timestamp": "2026-01-05 23:04:41",
-      "message": "[SKIP] Irrelevant (AI Filter): Lockly\u2019s new smart locks will support Matter and NFC"
-    },
-    {
-      "timestamp": "2026-01-05 23:04:43",
-      "message": "[PROCESSING] Analyzing: These wireless headphones roll up to become a Bluetooth speaker..."
-    },
-    {
-      "timestamp": "2026-01-05 23:04:46",
-      "message": "[SKIP] Irrelevant (AI Filter): These wireless headphones roll up to become a Bluetooth speaker"
-    },
-    {
-      "timestamp": "2026-01-05 23:04:48",
-      "message": "[PROCESSING] Analyzing: ShiftCam has a trackable 8TB SSD that sticks to your phone..."
-    },
-    {
-      "timestamp": "2026-01-05 23:04:50",
-      "message": "[SKIP] Irrelevant (AI Filter): ShiftCam has a trackable 8TB SSD that sticks to your phone"
-    },
-    {
-      "timestamp": "2026-01-05 23:04:52",
-      "message": "[PROCESSING] Analyzing: GE Lighting\u2019s new Matter-compatible smart shades start at just $300..."
-    },
-    {
-      "timestamp": "2026-01-05 23:04:55",
-      "message": "[SKIP] Irrelevant (AI Filter): GE Lighting\u2019s new Matter-compatible smart shades start at just $300"
-    },
-    {
-      "timestamp": "2026-01-05 23:04:58",
-      "message": "[PROCESSING] Analyzing: TCL challenges RGB LED at CES with its X11L SQD-Mini LED TV..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:00",
-      "message": "[SKIP] Irrelevant (AI Filter): TCL challenges RGB LED at CES with its X11L SQD-Mini LED TV"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:02",
-      "message": "[PROCESSING] Analyzing: Cozyla\u2019s TV-sized smart calendar makes your home look like a classroom..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Cozyla\u2019s TV-sized smart calendar makes your home look like a classroom"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:06",
-      "message": "[PROCESSING] Analyzing: Gemini on Google TV is getting Nano Banana and voice-controlled settings..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:12",
-      "message": "[SUCCESS] Processed: \uad6c\uae00 TV\uc758 \uc81c\ubbf8\ub2c8, \ub098\ub178 \ubc14\ub098\ub098 \ubc0f \uc74c\uc131 \uc81c\uc5b4 \uc124\uc815 \ucd94\uac00\n  > Summary: \uad6c\uae00 TV\uc758 \uc81c\ubbf8\ub2c8\uac00 \uc8fc\uc694 \uc5c5\ub370\uc774\ud2b8\ub97c \ud1b5\ud574 AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8\ub97c \ub354\uc6b1 \uc720\uc6a9\ud558\uace0 \uc2dc\uac01\uc801\uc73c\ub85c \ub9e4\ub825..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:14",
-      "message": "[PROCESSING] Analyzing: \u2018Max Ink Mode\u2019 is back on TCL\u2019s NXTPaper 70 Pro..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:17",
-      "message": "[SKIP] Irrelevant (AI Filter): \u2018Max Ink Mode\u2019 is back on TCL\u2019s NXTPaper 70 Pro"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:18",
-      "message": "[PROCESSING] Analyzing: JBL expands open-ear lineup with new buds coming to the US in March..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:21",
-      "message": "[SKIP] Irrelevant (AI Filter): JBL expands open-ear lineup with new buds coming to the US in March"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:23",
-      "message": "[PROCESSING] Analyzing: JBL expands Endurance workout line with four new earbuds..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:26",
-      "message": "[SKIP] Irrelevant (AI Filter): JBL expands Endurance workout line with four new earbuds"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:27",
-      "message": "[PROCESSING] Analyzing: Conquer Electronics: Leading the Fuse Industry Innovation for the AI Era..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:32",
-      "message": "[SUCCESS] Processed: \uc804\uc790\uae30\uae30\ub97c \uc815\ubcf5\ud558\ub2e4: AI \uc2dc\ub300\ub97c \uc704\ud55c \ud4e8\uc988 \uc0b0\uc5c5 \ud601\uc2e0 \uc120\ub3c4\n  > Summary: \uc778\uacf5\uc9c0\ub2a5(AI)\uc774 \uc804\ub825 \uc544\ud0a4\ud14d\ucc98\ub97c \uc804\ub840 \uc5c6\ub294 \uc218\uc900\uc73c\ub85c \ub04c\uc5b4\uc62c\ub9ac\uba74\uc11c, \uac89\ubcf4\uae30\uc5d0\ub294 \uc18c\uc18c\ud55c \ud4e8\uc988..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:34",
-      "message": "Reprocessing: The AI Infrastructure Revolution: Lessons from 2025, Predictions for 2026"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:36",
-      "message": "[PROCESSING] Analyzing: The AI Infrastructure Revolution: Lessons from 2025, Predictions for 2026..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:40",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \ud601\uba85: 2025\ub144\uc758 \uad50\ud6c8\uacfc 2026\ub144\uc758 \uc608\uce21\n  > Summary: 2026\ub144 AI \uc778\ud504\ub77c\uc758 \uc8fc\uc694 \ubc1c\uc804\uc744 \uc804\ub9dd\ud558\uba70, \ub370\uc774\ud130 \uc13c\ud130 \uc0b0\uc5c5\uc740 \uc804\ub825, \ub0c9\uac01 \ubc0f \uc5d0\uc774\uc804..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:42",
-      "message": "[PROCESSING] Analyzing: African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:44",
-      "message": "[SKIP] Irrelevant (AI Filter): African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:46",
-      "message": "[PROCESSING] Analyzing: Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:49",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:51",
-      "message": "[PROCESSING] Analyzing: Taiwan says China's cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day (Yimou Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwan says China's cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks per day (Yimou Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-05 23:05:55",
-      "message": "[PROCESSING] Analyzing: \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815..."
-    },
-    {
-      "timestamp": "2026-01-05 23:05:58",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815"
-    },
-    {
-      "timestamp": "2026-01-05 23:06:00",
-      "message": "Completed! New: 2, Updated: 1"
-    },
-    {
-      "timestamp": "2026-01-05 23:06:04",
-      "message": "Saved 3 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-05 23:06:08",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-05 23:22:02",
+      "message": "[PROCESSING] Analyzing: Twelve South\u2019s Valet is a handsome place to put your stuff..."
     }
   ]
 }
