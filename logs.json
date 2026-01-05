@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 02:46:19",
+  "last_updated": "2026-01-06 02:46:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-05 23:47:06",
-      "message": "Found 31 articles within the last 1 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-05 23:47:06",
       "message": "[PROCESSING] Analyzing: The best tech announced at CES 2026 so far..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 02:46:19",
       "message": "[PROCESSING] Analyzing: Google previews new Gemini features for TV at CES 2026..."
+    },
+    {
+      "timestamp": "2026-01-06 02:46:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Google previews new Gemini features for TV at CES 2026"
     }
   ]
 }
