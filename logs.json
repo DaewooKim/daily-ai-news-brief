@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-06 03:41:50",
-  "status": "idle",
+  "last_updated": "2026-01-06 04:03:39",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-06 03:39:23",
+      "timestamp": "2026-01-06 04:03:18",
       "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-06 03:39:24",
+      "timestamp": "2026-01-06 04:03:19",
       "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-06 03:39:24",
+      "timestamp": "2026-01-06 04:03:19",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-06 03:39:43",
+      "timestamp": "2026-01-06 04:03:39",
       "message": "Found 36 articles within the last 1 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-06 03:39:43",
-      "message": "Reprocessing: LG&#8217;s CLOiD robot can load the washer for you, slowly"
-    },
-    {
-      "timestamp": "2026-01-06 03:39:45",
-      "message": "[PROCESSING] Analyzing: LG&#8217;s CLOiD robot can load the washer for you, slowly..."
-    },
-    {
-      "timestamp": "2026-01-06 03:39:51",
-      "message": "[SUCCESS] Processed: LG\uc758 CLOiD \ub85c\ubd07\uc774 \uc138\ud0c1\uae30\ub97c \ucc9c\ucc9c\ud788 \uc801\uc7ac\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: LG\uc758 CLOiD \ub85c\ubd07\uc774 CES 2026\uc5d0\uc11c \uccab \ubaa8\uc2b5\uc744 \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ub85c\ubd07\uc740 \uc138\ud0c1\uae30\uc640 ..."
-    },
-    {
-      "timestamp": "2026-01-06 03:39:53",
-      "message": "[PROCESSING] Analyzing: At $50 off, the Shokz OpenRun Pro helps you stick to your new year\u2019s goals..."
-    },
-    {
-      "timestamp": "2026-01-06 03:39:55",
-      "message": "[SKIP] Irrelevant (AI Filter): At $50 off, the Shokz OpenRun Pro helps you stick to your new year\u2019s goals"
-    },
-    {
-      "timestamp": "2026-01-06 03:39:57",
-      "message": "[PROCESSING] Analyzing: Asus\u2019s new OLED gaming monitors will have sharper text and more accurate colors..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Asus\u2019s new OLED gaming monitors will have sharper text and more accurate colors"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:02",
-      "message": "[PROCESSING] Analyzing: Audeze upgrades its Maxwell gaming headset with magnetic ear pads..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:04",
-      "message": "[SKIP] Irrelevant (AI Filter): Audeze upgrades its Maxwell gaming headset with magnetic ear pads"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:06",
-      "message": "[PROCESSING] Analyzing: Bosch is taking on Dyson with its first cordless stick vacuums in the US..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:09",
-      "message": "[SKIP] Irrelevant (AI Filter): Bosch is taking on Dyson with its first cordless stick vacuums in the US"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:11",
-      "message": "Reprocessing: The HP OmniStudio X\u2019s webcam can watch your work desk"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:12",
-      "message": "[PROCESSING] Analyzing: The HP OmniStudio X\u2019s webcam can watch your work desk..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:18",
-      "message": "[SUCCESS] Processed: HP \uc634\ub2c8\uc2a4\ud29c\ub514\uc624 X\uc758 \uc6f9\ucea0\uc774 \uc791\uc5c5 \ucc45\uc0c1\uc744 \uad00\ucc30\ud560 \uc218 \uc788\ub2e4\n  > Summary: HP\ub294 CES\uc5d0\uc11c 2026\ub144 \ucef4\ud4e8\ud305 \ud558\ub4dc\uc6e8\uc5b4 \ub77c\uc778\uc5c5\uc758 \uc0ac\uc591\uc744 \uc5c5\ub370\uc774\ud2b8 \ud588\uc73c\uba70, \uc634\ub2c8\uc2a4\ud29c\ub514\uc624..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:20",
-      "message": "Reprocessing: HP\u2019s latest OmniBooks are getting chip bumps and OLED screens"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:22",
-      "message": "[PROCESSING] Analyzing: HP\u2019s latest OmniBooks are getting chip bumps and OLED screens..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:28",
-      "message": "[SUCCESS] Processed: HP\uc758 \ucd5c\uc2e0 \uc634\ub2c8\ubd81, \uce69 \uc131\ub2a5 \ud5a5\uc0c1 \ubc0f OLED \uc2a4\ud06c\ub9b0 \ud0d1\uc7ac\n  > Summary: HP\ub294 CES\uc5d0\uc11c \ucd5c\uc2e0 AI \uc911\uc2ec\uc758 \uc634\ub2c8\ubd81 \uc6b8\ud2b8\ub77c \ubaa8\ub378\uc744 \ud3ec\ud568\ud55c \uc634\ub2c8\ubd81 \uc0dd\uc0b0\uc131 \ub178\ud2b8\ubd81 \ub77c\uc778..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:31",
-      "message": "[PROCESSING] Analyzing: Here are the best AirPods deals you can get right now..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:34",
-      "message": "[SKIP] Irrelevant (AI Filter): Here are the best AirPods deals you can get right now"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:36",
-      "message": "Reprocessing: CES 2026: Follow live as NVIDIA, Lego, AMD, Amazon, and more make their big reveals"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:37",
-      "message": "[PROCESSING] Analyzing: CES 2026: Follow live as NVIDIA, Lego, AMD, Amazon, and more make their big reveals..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:43",
-      "message": "[SUCCESS] Processed: CES 2026: NVIDIA, Lego, AMD, Amazon \ub4f1 \uc8fc\uc694 \ubc1c\ud45c\ub97c \uc2e4\uc2dc\uac04\uc73c\ub85c \ub530\ub77c\uac00\uc138\uc694\n  > Summary: CES 2026\uc740 \ub77c\uc2a4\ubca0\uc774\uac70\uc2a4\uc5d0\uc11c \uc5f4\ub9ac\ub294 \uc5f0\ub840 \uc18c\ube44\uc790 \uae30\uc220 \ud68c\uc758\uc785\ub2c8\ub2e4. NVIDIA, AM..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:45",
-      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:48",
-      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:49",
-      "message": "Reprocessing: 2026 Predictions: AI Sparks Data Center Power Scramble and More"
-    },
-    {
-      "timestamp": "2026-01-06 03:40:51",
-      "message": "[PROCESSING] Analyzing: 2026 Predictions: AI Sparks Data Center Power Scramble and More..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:57",
-      "message": "[SUCCESS] Processed: 2026 \uc608\uce21: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \uc7c1\ud0c8\uc804 \ub4f1\uc744 \ucd09\ubc1c\ud558\ub2e4\n  > Summary: 2025\ub144\uc740 AI \ud0d0\uc0c9\uacfc \ud589\ub3d9\uc758 \ud574\uc600\uc73c\ub098, 2026\ub144\uc5d0\ub294 \uc5d0\ub108\uc9c0 \ubc0f \uc6b4\uc601 \uc694\uad6c\uc5d0 \ub300\ud55c \uc6b0\ub824..."
-    },
-    {
-      "timestamp": "2026-01-06 03:40:59",
-      "message": "Reprocessing: The AI Infrastructure Revolution: Predictions for 2026"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:01",
-      "message": "[PROCESSING] Analyzing: The AI Infrastructure Revolution: Predictions for 2026..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:05",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \ud601\uba85: 2026\ub144\uc744 \uc704\ud55c \uc608\uce21\n  > Summary: AI \uc778\ud504\ub77c\uc5d0 \ub300\ud55c \uc8fc\uc694 \ubc1c\uc804\uc744 \uc804\ub9dd\ud558\uba70, \ub370\uc774\ud130 \uc13c\ud130 \uc0b0\uc5c5\uc740 \uc804\ub825, \ub0c9\uac01 \ubc0f \uc815\uc804 \uc608\ubc29\uc744..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:07",
-      "message": "[PROCESSING] Analyzing: Why Claude Code is much more than a coding agent: it is a general-purpose AI agent that can do almost anything on a computer with impressive capabilities (Shakeel Hashim/Transformer)..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:13",
-      "message": "[SUCCESS] Processed: \ud074\ub85c\ub4dc \ucf54\ub4dc\uac00 \ub2e8\uc21c\ud55c \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uac00 \uc544\ub2cc \uc774\uc720: \uac70\uc758 \ubaa8\ub4e0 \uac83\uc744 \ud560 \uc218 \uc788\ub294 \ubc94\uc6a9 AI \uc5d0\uc774\uc804\ud2b8\n  > Summary: \ud074\ub85c\ub4dc \ucf54\ub4dc\ub294 \ub2e8\uc21c\ud55c \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uac00 \uc544\ub2cc \ubc94\uc6a9 AI \uc5d0\uc774\uc804\ud2b8\ub85c, \ucef4\ud4e8\ud130\uc5d0\uc11c \uac70\uc758 \ubaa8\ub4e0 \uc791..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:14",
-      "message": "[PROCESSING] Analyzing: Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:17",
-      "message": "[SKIP] Irrelevant (AI Filter): Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:19",
-      "message": "[PROCESSING] Analyzing: TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:21",
-      "message": "[SKIP] Irrelevant (AI Filter): TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:23",
-      "message": "[PROCESSING] Analyzing: African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:25",
-      "message": "[SKIP] Irrelevant (AI Filter): African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 (Tage Kene-Okafor/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:27",
-      "message": "[PROCESSING] Analyzing: Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:30",
-      "message": "[SKIP] Irrelevant (AI Filter): Taiwanese prosecutors file additional indictments against Tokyo Electron's Taiwan unit and three other defendants over the alleged theft of TSMC trade secrets (Wen-Yee Lee/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:31",
-      "message": "Reprocessing: NXP Unveils S32N7 Central Processor for SDVs"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:33",
-      "message": "[PROCESSING] Analyzing: NXP Unveils S32N7 Central Processor for SDVs..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:38",
-      "message": "[SUCCESS] Processed: NXP, SDV\ub97c \uc704\ud55c S32N7 \uc911\uc559 \ud504\ub85c\uc138\uc11c \uacf5\uac1c\n  > Summary: NXP \ubc18\ub3c4\uccb4\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \uc790\ub3d9\ucc28(SDV) \uac1c\ubc1c\uc744 \uc9c0\uc6d0\ud558\ub294 S32N7 \ud504\ub85c\uc138\uc11c \uc2dc\ub9ac\uc988..."
-    },
-    {
-      "timestamp": "2026-01-06 03:41:40",
-      "message": "Completed! New: 1, Updated: 7"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:45",
-      "message": "Saved 8 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-06 03:41:48",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-06 04:03:39",
+      "message": "[PROCESSING] Analyzing: Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years..."
     }
   ]
 }
