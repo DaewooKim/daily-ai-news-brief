@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 07:48:49",
+  "last_updated": "2026-01-07 07:48:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 07:48:03",
-      "message": "[SUCCESS] Processed: xAI\ub294 \ubaa9\ud45c\uc778 150\uc5b5 \ub2ec\ub7ec\ub97c \ucd08\uacfc\ud55c 200\uc5b5 \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 E \uc790\uae08\uc744 \uc870\ub2ec\ud558\uba70 \ud604\uc7ac Grok 5\uac00 \ud6c8\ub828 \uc911\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: xAI\ub294 \ubaa9\ud45c\ud55c 150\uc5b5 \ub2ec\ub7ec\ub97c \ucd08\uacfc\ud558\ub294 200\uc5b5 \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 E \uc790\uae08\uc744 \uc870\ub2ec\ud588\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-01-07 07:48:05",
       "message": "[PROCESSING] Analyzing: Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a \"rolling scan\" scheme that briefly pulses the monitors' backlight (Kyle Orland/Ars Technica)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 07:48:49",
       "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
+    },
+    {
+      "timestamp": "2026-01-07 07:48:52",
+      "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
     }
   ]
 }
