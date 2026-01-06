@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 08:09:05",
+  "last_updated": "2026-01-07 08:09:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 08:08:19",
-      "message": "[SUCCESS] Processed: CES 2026: AMD, \ub370\uc774\ud130 \uc13c\ud130\ub97c \uaca8\ub0e5\ud558\uc5ec Instinct GPU \ucd94\uac00\n  > Summary: AMD\ub294 Nvidia\uc758 AI \uc9c0\ubc30\uc5d0 \ub300\ud56d\ud558\uc5ec \ub370\uc774\ud130 \uc13c\ud130 \uc81c\ud488\uc744 \ucd9c\uc2dc\ud558\uba70, \uae30\uc5c5\uc6a9 \ub300\uc548\uc744 ..."
-    },
     {
       "timestamp": "2026-01-07 08:08:20",
       "message": "Reprocessing: Hyperscalers in 2026: What\u2019s Next for the World\u2019s Biggest Data Center Operators?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 08:09:05",
       "message": "[PROCESSING] Analyzing: Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a \"rolling scan\" scheme that briefly pulses the monitors' backlight (Kyle Orland/Ars Technica)..."
+    },
+    {
+      "timestamp": "2026-01-07 08:09:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a \"rolling scan\" scheme that briefly pulses the monitors' backlight (Kyle Orland/Ars Technica)"
     }
   ]
 }
