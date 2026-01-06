@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 07:24:18",
+  "last_updated": "2026-01-07 07:24:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 07:23:18",
-      "message": "[PROCESSING] Analyzing: The best laptop deals you can get right now..."
-    },
     {
       "timestamp": "2026-01-07 07:23:21",
       "message": "[SKIP] Irrelevant (AI Filter): The best laptop deals you can get right now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 07:24:18",
       "message": "[SUCCESS] Processed: \uc5e3\uc9c0 \ubc0f \ub85c\ubd07 \uacf5\ud559\uc744 \uc704\ud55c AI \ucd94\ub860 \uac00\uc18d\ud654: NVIDIA Jetson T4000 \ubc0f NVIDIA JetPack 7.1\n  > Summary: NVIDIA\ub294 NVIDIA Jetson T4000\uc744 \uc18c\uac1c\ud558\uba70, \ub192\uc740 \uc131\ub2a5\uc758 AI\uc640 \uc2e4\uc2dc\uac04 ..."
+    },
+    {
+      "timestamp": "2026-01-07 07:24:20",
+      "message": "Reprocessing: xAI says it raised $20B in Series E funding"
     }
   ]
 }
