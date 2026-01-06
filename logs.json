@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 00:32:47",
+  "last_updated": "2026-01-07 00:32:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 00:31:47",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-07 00:31:47",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 00:32:47",
       "message": "[PROCESSING] Analyzing: Aqara came to CES with something to prove..."
+    },
+    {
+      "timestamp": "2026-01-07 00:32:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Aqara came to CES with something to prove"
     }
   ]
 }
