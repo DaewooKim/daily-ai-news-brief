@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 07:27:43",
+  "last_updated": "2026-01-07 07:27:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 07:26:39",
-      "message": "Reprocessing: UMG announces a partnership with Nvidia \"to pioneer responsible AI for music discovery, creation, and engagement\", centered on Nvidia's Music Flamingo model (Dan Rys/Billboard)"
-    },
     {
       "timestamp": "2026-01-07 07:26:41",
       "message": "[PROCESSING] Analyzing: UMG announces a partnership with Nvidia \"to pioneer responsible AI for music discovery, creation, and engagement\", centered on Nvidia's Music Flamingo model (Dan Rys/Billboard)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 07:27:43",
       "message": "[PROCESSING] Analyzing: Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements..."
+    },
+    {
+      "timestamp": "2026-01-07 07:27:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements"
     }
   ]
 }
