@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 07:48:17",
+  "last_updated": "2026-01-07 07:48:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 07:47:34",
-      "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc744 \ub118\uc5b4: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \uc704\ud55c \uc804\ub7b5\n  > Summary: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc744 \ucd09\uc9c4\ud568\uc5d0 \ub530\ub77c \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c \ubc0f \uc778\ud504\ub77c..."
-    },
     {
       "timestamp": "2026-01-07 07:47:36",
       "message": "[PROCESSING] Analyzing: In the first successful US prosecution of a spyware operator in 10+ years, pcTattletale founder pleads guilty to promoting surveillance apps for unlawful uses (Zack Whittaker/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 07:48:17",
       "message": "[PROCESSING] Analyzing: Meta names C.J. Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump's first term, as its chief legal officer (Sara Fischer/Axios)..."
+    },
+    {
+      "timestamp": "2026-01-07 07:48:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta names C.J. Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump's first term, as its chief legal officer (Sara Fischer/Axios)"
     }
   ]
 }
