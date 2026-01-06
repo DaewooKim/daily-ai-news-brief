@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 07:05:10",
+  "last_updated": "2026-01-07 07:05:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 07:04:18",
-      "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
-    },
     {
       "timestamp": "2026-01-07 07:04:23",
       "message": "[SUCCESS] Processed: CES 2026: AMD, \ub370\uc774\ud130 \uc13c\ud130\ub97c \uaca8\ub0e5\ud55c \uc778\uc2a4\ud305\ud2b8 GPU \ucd94\uac00 \ubc1c\ud45c\n  > Summary: AMD\ub294 CES 2026\uc5d0\uc11c \uc778\uacf5\uc9c0\ub2a5 \uc2dc\uc7a5\uc5d0\uc11c Nvidia\uc640 \uacbd\uc7c1\ud558\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uc81c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 07:05:10",
       "message": "[PROCESSING] Analyzing: Buyout firm Hg agrees to acquire financial software maker OneStream for ~$6.4B in cash, a 31% premium on its January 5 stock price, set to close in H1 2026 (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-07 07:05:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Buyout firm Hg agrees to acquire financial software maker OneStream for ~$6.4B in cash, a 31% premium on its January 5 stock price, set to close in H1 2026 (Bloomberg)"
     }
   ]
 }
