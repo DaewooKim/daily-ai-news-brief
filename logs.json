@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 21:26:50",
+  "last_updated": "2026-01-06 21:26:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-06 21:25:49",
-      "message": "[SUCCESS] Processed: AMD\ub294 \ucc28\uc138\ub300 CDNA 6 \uae30\ubc18 MI500 AI \uce69\uc744 2nm \ub178\ub4dc\ub85c \uac1c\ubc1c \uc911\uc774\uba70 \uc774\uc804 \uc81c\ud488 \ub300\ube44 1,000\ubc30 \uc131\ub2a5 \ud5a5\uc0c1\uc744 \uc8fc\uc7a5\ud558\uba70 2027\ub144\uc5d0 \ucd9c\uc2dc\ud560 \uc608\uc815\uc774\ub77c\uace0 \uc804\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: AMD\uc758 CEO \ub9ac\uc0ac \uc218\ub294 \ub77c\uc2a4\ubca0\uc774\uac70\uc2a4 CES \ubb34\uc5ed \uc1fc\uc5d0\uc11c \ud68c\uc0ac\uc758 \ucc28\uc138\ub300 AI \uce69\uc744 \uacf5\uac1c\ud588..."
-    },
     {
       "timestamp": "2026-01-06 21:25:51",
       "message": "[PROCESSING] Analyzing: AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC's N4X node, available in Q1 2026 (Jake Roach/Tom's Hardware)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 21:26:50",
       "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
+    },
+    {
+      "timestamp": "2026-01-06 21:26:53",
+      "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
     }
   ]
 }
