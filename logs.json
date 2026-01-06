@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 21:47:08",
+  "last_updated": "2026-01-06 21:47:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-06 21:46:20",
-      "message": "[SUCCESS] Processed: AMD, AI PC\uc6a9 Ryzen AI 400 \uc2dc\ub9ac\uc988 \uce69 \uacf5\uac1c, \ucd5c\ub300 12\uac1c Zen 5 CPU \ucf54\uc5b4 \ubc0f 16\uac1c RDNA 3.5 GPU \ucf54\uc5b4 \ud0d1\uc7ac, TSMC\uc758 N4X \ub178\ub4dc\ub85c \uc81c\uc791, 2026\ub144 1\ubd84\uae30 \ucd9c\uc2dc \uc608\uc815\n  > Summary: AMD\uac00 AI PC\ub97c \uc704\ud55c Ryzen AI 400 \uc2dc\ub9ac\uc988 \uce69\uc744 \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uce69\uc740 \ucd5c\ub300..."
-    },
     {
       "timestamp": "2026-01-06 21:46:22",
       "message": "Reprocessing: Nvidia rolls out DLSS 4.5 with new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs (Tom Warren/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 21:47:08",
       "message": "[PROCESSING] Analyzing: \uc601\ud5a5\ub825 \uc5c6\ub294 PM..."
+    },
+    {
+      "timestamp": "2026-01-06 21:47:11",
+      "message": "[SKIP] Irrelevant (AI Filter): \uc601\ud5a5\ub825 \uc5c6\ub294 PM"
     }
   ]
 }
