@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 10:41:43",
+  "last_updated": "2026-01-06 10:41:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-06 10:40:50",
-      "message": "[SUCCESS] Processed: NVIDIA \ub8e8\ube48 \ud50c\ub7ab\ud3fc \ub0b4\ubd80: 6\uac1c\uc758 \uc0c8\ub85c\uc6b4 \uce69, \ud558\ub098\uc758 AI \uc288\ud37c\ucef4\ud4e8\ud130\n  > Summary: AI\ub294 \uc0b0\uc5c5 \ub2e8\uacc4\ub85c \uc9c4\uc785\ud588\uc2b5\ub2c8\ub2e4. \ucc98\uc74c\uc5d0\ub294 \uac1c\ubcc4 AI \ubaa8\ub378 \ud6c8\ub828\uacfc \uc778\uacf5\uc9c0\ub2a5 \ucd94\ub860\uc744 \uc218\ud589\ud558\ub358..."
-    },
     {
       "timestamp": "2026-01-06 10:40:52",
       "message": "Reprocessing: Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 10:41:43",
       "message": "[PROCESSING] Analyzing: Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support (Rich Woods/XDA Developers)..."
+    },
+    {
+      "timestamp": "2026-01-06 10:41:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support (Rich Woods/XDA Developers)"
     }
   ]
 }
