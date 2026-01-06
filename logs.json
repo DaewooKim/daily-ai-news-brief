@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 04:18:03",
+  "last_updated": "2026-01-07 04:18:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 04:00:29",
-      "message": "[SUCCESS] Processed: NVIDIA \ub8e8\ube48 \ud50c\ub7ab\ud3fc \ub0b4\ubd80: \uc5ec\uc12f \uac1c\uc758 \uc0c8\ub85c\uc6b4 \uce69, \ud558\ub098\uc758 AI \uc288\ud37c\ucef4\ud4e8\ud130\n  > Summary: AI\ub294 \uc0b0\uc5c5\uc801 \ub2e8\uacc4\uc5d0 \uc811\uc5b4\ub4e4\uc5c8\uc2b5\ub2c8\ub2e4. \ubd84\uc0b0\ub41c AI \ubaa8\ub378 \ud6c8\ub828\uacfc \uc778\uac04 \ub300\uba74 \ucd94\ub860\uc5d0\uc11c \uc2dc\uc791\ub41c ..."
-    },
     {
       "timestamp": "2026-01-07 04:00:30",
       "message": "Reprocessing: Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 04:18:03",
       "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
+    },
+    {
+      "timestamp": "2026-01-07 04:18:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
     }
   ]
 }
