@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 05:29:43",
+  "last_updated": "2026-01-07 05:29:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 05:28:55",
-      "message": "Reprocessing: Amazon raised AWS' EC2 Capacity Blocks for ML prices by ~15% on January 3, saying the adjustment \"reflects the supply/demand patterns we expect this quarter\" (Corey Quinn/The Register)"
-    },
     {
       "timestamp": "2026-01-07 05:28:56",
       "message": "[PROCESSING] Analyzing: Amazon raised AWS' EC2 Capacity Blocks for ML prices by ~15% on January 3, saying the adjustment \"reflects the supply/demand patterns we expect this quarter\" (Corey Quinn/The Register)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 05:29:43",
       "message": "[PROCESSING] Analyzing: Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements..."
+    },
+    {
+      "timestamp": "2026-01-07 05:29:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements"
     }
   ]
 }
