@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-06 22:27:11",
-  "status": "idle",
+  "last_updated": "2026-01-06 22:43:01",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-06 22:24:57",
-      "message": "[PROCESSING] Analyzing: Higher-Current SiC Devices Shrink Locomotive Power Converters..."
+      "timestamp": "2026-01-06 22:42:43",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-06 22:25:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Higher-Current SiC Devices Shrink Locomotive Power Converters"
+      "timestamp": "2026-01-06 22:42:45",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-06 22:25:01",
-      "message": "[PROCESSING] Analyzing: CES 2026 Consumer Tech Trends: EMEA Will Lead Growth..."
+      "timestamp": "2026-01-06 22:42:45",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-06 22:25:04",
-      "message": "[SKIP] Irrelevant (AI Filter): CES 2026 Consumer Tech Trends: EMEA Will Lead Growth"
+      "timestamp": "2026-01-06 22:43:01",
+      "message": "Found 67 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-06 22:25:06",
-      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:09",
-      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:10",
-      "message": "Reprocessing: Hyperscalers in 2026: What\u2019s Next for the World\u2019s Largest Data Center Operators?"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:12",
-      "message": "[PROCESSING] Analyzing: Hyperscalers in 2026: What\u2019s Next for the World\u2019s Largest Data Center Operators?..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:17",
-      "message": "[SUCCESS] Processed: 2026\ub144 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec: \uc138\uacc4 \ucd5c\ub300 \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc790\ub4e4\uc5d0\uac8c \ub2e4\uc74c\uc740 \ubb34\uc5c7\uc778\uac00?\n  > Summary: 2026\ub144\uc5d0\ub294 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc774 AI \uc911\uc2ec\uc758 \uad6c\ucd95\uc744 \uac00\uc18d\ud654\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ub418\uba70, \uc804\ub825\ub9dd \uc81c\uc57d..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:19",
-      "message": "Reprocessing: Beyond Energy Use: Strategies for Sustainable Data Center Operations"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:20",
-      "message": "[PROCESSING] Analyzing: Beyond Energy Use: Strategies for Sustainable Data Center Operations..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:25",
-      "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc744 \ub118\uc5b4\uc11c: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \uc704\ud55c \uc804\ub7b5\n  > Summary: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc744 \uc774\ub04c\uace0 \uc788\ub294 \uc0c1\ud669\uc5d0\uc11c, \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c,..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:27",
-      "message": "[PROCESSING] Analyzing: Meta says it is pausing the release of its Ray-Ban Display glasses to the UK, France, Italy, and Canada due to \"unprecedented demand and limited inventory\" (Steve Dent/Engadget)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:29",
-      "message": "[SKIP] Irrelevant (AI Filter): Meta says it is pausing the release of its Ray-Ban Display glasses to the UK, France, Italy, and Canada due to \"unprecedented demand and limited inventory\" (Steve Dent/Engadget)"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:31",
-      "message": "Reprocessing: HP unveils the Eliteboard G1a, a compact desktop PC in the form of a keyboard, powered by an AMD Ryzen AI 300-series chip, set for March launch; pricing is TBC (Antonio G. Di Benedetto/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:33",
-      "message": "[PROCESSING] Analyzing: HP unveils the Eliteboard G1a, a compact desktop PC in the form of a keyboard, powered by an AMD Ryzen AI 300-series chip, set for March launch; pricing is TBC (Antonio G. Di Benedetto/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:40",
-      "message": "[SUCCESS] Processed: HP\uac00 AI 300 \uc2dc\ub9ac\uc988 \uce69\uc73c\ub85c \uad6c\ub3d9\ub418\ub294 \ud0a4\ubcf4\ub4dc \ud615\ud0dc\uc758 \ucef4\ud329\ud2b8 \ub370\uc2a4\ud06c\ud0d1 PC \uc5d8\ub9ac\ud2b8\ubcf4\ub4dc G1a\ub97c \uacf5\uac1c\ud588\ub2e4\n  > Summary: HP\ub294 AMD \ub77c\uc774\uc820 AI 300 \uc2dc\ub9ac\uc988 \uce69\uc73c\ub85c \uad6c\ub3d9\ub418\ub294 \ucef4\ud329\ud2b8\ud55c \ub370\uc2a4\ud06c\ud0d1 PC '\uc5d8\ub9ac\ud2b8\ubcf4..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:42",
-      "message": "[PROCESSING] Analyzing: Nvidia announces native apps for its GeForce NOW cloud gaming service for select Linux distributions and Amazon Fire TV sticks, available in early 2026 (Tom Warren/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:44",
-      "message": "[SKIP] Irrelevant (AI Filter): Nvidia announces native apps for its GeForce NOW cloud gaming service for select Linux distributions and Amazon Fire TV sticks, available in early 2026 (Tom Warren/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:46",
-      "message": "Reprocessing: AMD teases its next-generation CDNA 6-based MI500 AI chips built on a 2nm node, claiming 1,000x performance gains over predecessors, launching in 2027 (Reuters)"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:48",
-      "message": "[PROCESSING] Analyzing: AMD teases its next-generation CDNA 6-based MI500 AI chips built on a 2nm node, claiming 1,000x performance gains over predecessors, launching in 2027 (Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:53",
-      "message": "[SUCCESS] Processed: AMD, 2027\ub144\uc5d0 \ucd9c\uc2dc\ub420 2nm \ub178\ub4dc \uae30\ubc18\uc758 \ucc28\uc138\ub300 CDNA 6 MI500 AI \uce69\uc744 \uc608\uace0\ud558\uba70 \uc774\uc804 \ubaa8\ub378\ubcf4\ub2e4 1,000\ubc30 \uc131\ub2a5 \ud5a5\uc0c1 \uc8fc\uc7a5\n  > Summary: AMD\ub294 CES 2023\uc5d0\uc11c CEO \ub9ac\uc0ac \uc218\uac00 \ucc38\uc11d\ud55c \uac00\uc6b4\ub370 2027\ub144\uc5d0 \ucd9c\uc2dc\ub420 \ucc28\uc138\ub300 C..."
-    },
-    {
-      "timestamp": "2026-01-06 22:25:54",
-      "message": "Reprocessing: AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC's N4X node, available in Q1 2026 (Jake Roach/Tom's Hardware)"
-    },
-    {
-      "timestamp": "2026-01-06 22:25:56",
-      "message": "[PROCESSING] Analyzing: AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC's N4X node, available in Q1 2026 (Jake Roach/Tom's Hardware)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:01",
-      "message": "[SUCCESS] Processed: AMD, AI PC\ub97c \uc704\ud55c Ryzen AI 400 \uc2dc\ub9ac\uc988 \uce69\uc744 \uacf5\uac1c - \ucd5c\ub300 12\uac1c\uc758 Zen 5 CPU \ucf54\uc5b4\uc640 16\uac1c\uc758 RDNA 3.5 GPU \ucf54\uc5b4\n  > Summary: AMD\ub294 AI PC\ub97c \uc704\ud55c Ryzen AI 400 \uc2dc\ub9ac\uc988 \uce69\uc744 \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uce69\uc740 \ucd5c\ub300..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:03",
-      "message": "Reprocessing: Nvidia rolls out DLSS 4.5 with new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs (Tom Warren/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:04",
-      "message": "[PROCESSING] Analyzing: Nvidia rolls out DLSS 4.5 with new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs (Tom Warren/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:10",
-      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, RTX 50 \uc2dc\ub9ac\uc988\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 6\ubc30 \ub2e4\uc911 \ud504\ub808\uc784 \uc0dd\uc131 \ubc0f \ubaa8\ub4e0 RTX GPU\ub97c \uc704\ud55c \ub450 \ubc88\uc9f8 \uc138\ub300 \uc288\ud37c \ud574\uc0c1\ub3c4 \ubcc0\ud658\uae30 \ubaa8\ub378\uc744 \uac16\ucd98 DLSS 4.5 \ucd9c\uc2dc\n  > Summary: \uc5d4\ube44\ub514\uc544\uac00 RTX 50 \uc2dc\ub9ac\uc988\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 6\ubc30 \ub2e4\uc911 \ud504\ub808\uc784 \uc0dd\uc131 \uae30\ub2a5\uacfc \ubaa8\ub4e0 RTX G..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:12",
-      "message": "[PROCESSING] Analyzing: Telegram bonds worth $500M are frozen in Russia under Western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals (Financial Times)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:15",
-      "message": "[SKIP] Irrelevant (AI Filter): Telegram bonds worth $500M are frozen in Russia under Western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals (Financial Times)"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:17",
-      "message": "Reprocessing: AMD unveils the 12-core Ryzen AI Max+ 392, and the 8-core AI Max+ 388 processors, both with 40 graphics compute units and offering 60 TFLOPS of GPU performance (Sean Hollister/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:19",
-      "message": "[PROCESSING] Analyzing: AMD unveils the 12-core Ryzen AI Max+ 392, and the 8-core AI Max+ 388 processors, both with 40 graphics compute units and offering 60 TFLOPS of GPU performance (Sean Hollister/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:24",
-      "message": "[SUCCESS] Processed: AMD\uac00 12\ucf54\uc5b4 Ryzen AI Max+ 392\uc640 8\ucf54\uc5b4 AI Max+ 388 \ud504\ub85c\uc138\uc11c\ub97c \uacf5\uac1c\ud558\ub2e4\n  > Summary: AMD\ub294 12\ucf54\uc5b4 Ryzen AI Max+ 392\uc640 8\ucf54\uc5b4 AI Max+ 388 \ud504\ub85c\uc138\uc11c\ub97c..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:26",
-      "message": "Reprocessing: AMD unveils new AI PC processors for general use and gaming at CES (Rebecca Szkutak/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:27",
-      "message": "[PROCESSING] Analyzing: AMD unveils new AI PC processors for general use and gaming at CES (Rebecca Szkutak/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:33",
-      "message": "[SUCCESS] Processed: AMD, CES\uc5d0\uc11c \uc77c\ubc18 \uc0ac\uc6a9 \ubc0f \uac8c\uc784\uc6a9 AI PC \ud504\ub85c\uc138\uc11c \uacf5\uac1c\n  > Summary: AMD\uc758 \ud68c\uc7a5 \uacb8 CEO \ub9ac\uc0ac \uc218\ub294 CES 2026\uc5d0\uc11c AI\uac00 \ubaa8\ub4e0 \uc0ac\uc6a9\uc790\uc5d0\uac8c \uc81c\uacf5\ud560 \uc218 ..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:35",
-      "message": "[PROCESSING] Analyzing: Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:38",
-      "message": "[SKIP] Irrelevant (AI Filter): Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:39",
-      "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:42",
-      "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:43",
-      "message": "Reprocessing: NXP Unveils S32N7 Central Processor for SDVs"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:45",
-      "message": "[PROCESSING] Analyzing: NXP Unveils S32N7 Central Processor for SDVs..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:51",
-      "message": "[SUCCESS] Processed: NXP, SDV\ub97c \uc704\ud55c S32N7 \uc911\uc559 \ud504\ub85c\uc138\uc11c \uacf5\uac1c\n  > Summary: NXP \ubc18\ub3c4\uccb4\uac00 S32N7 \ud504\ub85c\uc138\uc11c \uc2dc\ub9ac\uc988\ub97c \ucd9c\uc2dc\ud558\uc5ec \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \ucc28\ub7c9(SDV) \uac1c\ubc1c\uc744..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:53",
-      "message": "[PROCESSING] Analyzing: \uc601\ud5a5\ub825 \uc5c6\ub294 PM..."
-    },
-    {
-      "timestamp": "2026-01-06 22:26:55",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc601\ud5a5\ub825 \uc5c6\ub294 PM"
-    },
-    {
-      "timestamp": "2026-01-06 22:26:57",
-      "message": "[PROCESSING] Analyzing: \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815..."
-    },
-    {
-      "timestamp": "2026-01-06 22:27:00",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc6b0\uc120\uc21c\uc704\ub97c \uc815\ud560 \ub54c \uc27d\uac8c \ube60\uc9c0\ub294 10\uac00\uc9c0 \ud568\uc815"
-    },
-    {
-      "timestamp": "2026-01-06 22:27:01",
-      "message": "Completed! New: 0, Updated: 17"
-    },
-    {
-      "timestamp": "2026-01-06 22:27:06",
-      "message": "Saved 17 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-06 22:27:09",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-06 22:43:01",
+      "message": "[PROCESSING] Analyzing: TP-Link brings an AI assistant to its smart home and home networking apps..."
     }
   ]
 }
