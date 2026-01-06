@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 00:32:49",
+  "last_updated": "2026-01-07 00:32:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 00:31:47",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-07 00:32:08",
       "message": "Found 68 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 00:32:49",
       "message": "[SKIP] Irrelevant (AI Filter): Aqara came to CES with something to prove"
+    },
+    {
+      "timestamp": "2026-01-07 00:32:51",
+      "message": "Reprocessing: AMD Contemplates And Engineers Yottascale AI Compute"
     }
   ]
 }
