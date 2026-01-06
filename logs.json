@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 05:29:47",
+  "last_updated": "2026-01-07 05:29:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 05:29:01",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, AWS EC2 ML \uac00\uaca9\uc744 \uc57d 15% \uc778\uc0c1\n  > Summary: \uc544\ub9c8\uc874\uc740 1\uc6d4 3\uc77c AWS\uc758 EC2 Capacity Blocks\uc758 \uba38\uc2e0\ub7ec\ub2dd \uac00\uaca9\uc744 \uc57d 15..."
-    },
     {
       "timestamp": "2026-01-07 05:29:03",
       "message": "[PROCESSING] Analyzing: Asus redesigns the Zenbook Duo with a new \"hideaway\" hinge that shrinks the gap between the laptop's two 3K 144Hz Lumina Pro OLED displays to just 8.28 mm (Sam Rutherford/Engadget)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 05:29:47",
       "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
+    },
+    {
+      "timestamp": "2026-01-07 05:29:49",
+      "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
     }
   ]
 }
