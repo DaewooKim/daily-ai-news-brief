@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 05:29:29",
+  "last_updated": "2026-01-07 05:29:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 05:28:44",
-      "message": "[SUCCESS] Processed: \uc820\uc2a8 \ud669, CES\uc5d0\uc11c \uba54\ubaa8\ub9ac\uc640 \uc800\uc7a5\uc758 \ud544\uc694\uc131\uc744 \uac15\uc870\ud55c \ud6c4 \uc0cc\ub514\uc2a4\ud06c \uc8fc\uac00 \uc57d 23% \uc0c1\uc2b9\n  > Summary: \uc0cc\ub514\uc2a4\ud06c\ub294 CES\uc5d0\uc11c \uc820\uc2a8 \ud669\uc774 \uba54\ubaa8\ub9ac\uc640 \uc800\uc7a5\uc758 \ud544\uc694\uc131\uc744 \uac15\uc870\ud55c \ud6c4 \uc8fc\uac00\uac00 \uc57d 23% \uc0c1\uc2b9..."
-    },
     {
       "timestamp": "2026-01-07 05:28:46",
       "message": "[PROCESSING] Analyzing: Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a \"rolling scan\" scheme that briefly pulses the monitors' backlight (Kyle Orland/Ars Technica)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 05:29:29",
       "message": "[PROCESSING] Analyzing: Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities (Stevie Bonifield/The Verge)..."
+    },
+    {
+      "timestamp": "2026-01-07 05:29:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities (Stevie Bonifield/The Verge)"
     }
   ]
 }
