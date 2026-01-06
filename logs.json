@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-06 21:23:28",
+  "last_updated": "2026-01-06 21:23:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-06 21:22:29",
-      "message": "Found 66 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-06 21:22:29",
       "message": "[PROCESSING] Analyzing: No,\u00a0Microsoft\u00a0didn\u2019t\u00a0rebrand Office to\u00a0Microsoft\u00a0365 Copilot..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-06 21:23:28",
       "message": "[PROCESSING] Analyzing: Alienware is working on new slim and cheaper gaming laptops..."
+    },
+    {
+      "timestamp": "2026-01-06 21:23:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Alienware is working on new slim and cheaper gaming laptops"
     }
   ]
 }
