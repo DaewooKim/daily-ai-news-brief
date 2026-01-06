@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 04:35:04",
+  "last_updated": "2026-01-07 04:35:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 04:34:13",
-      "message": "[SUCCESS] Processed: AWS, ML\uc744 \uc704\ud55c EC2 \uc6a9\ub7c9 \ube14\ub85d\uc5d0 \ub300\ud574 15%\uc758 \uac00\uaca9 \uc778\uc0c1\uc744 \uc2e4\uc2dc\ud558\ub2e4\n  > Summary: AWS\ub294 1\uc6d4 3\uc77c ML\uc744 \uc704\ud55c EC2 \uc6a9\ub7c9 \ube14\ub85d\uc758 \uac00\uaca9\uc744 15% \uc778\uc0c1\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-01-07 04:34:15",
       "message": "[PROCESSING] Analyzing: Asus redesigns the Zenbook Duo with a new \"hideaway\" hinge that shrinks the gap between the laptop's two 3K 144Hz Lumina Pro OLED displays to just 8.28 mm (Sam Rutherford/Engadget)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 04:35:04",
       "message": "[PROCESSING] Analyzing: American Airlines partners with AT&T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date (Andrew J. Hawkins/The Verge)..."
+    },
+    {
+      "timestamp": "2026-01-07 04:35:06",
+      "message": "[SKIP] Irrelevant (AI Filter): American Airlines partners with AT&T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date (Andrew J. Hawkins/The Verge)"
     }
   ]
 }
