@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-06 09:46:01",
-  "status": "idle",
+  "last_updated": "2026-01-06 10:01:50",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-06 09:43:54",
-      "message": "[SKIP] Irrelevant (AI Filter): This limited-edition tablet is the closest you can get to using Hideo Kojima\u2019s computer"
+      "timestamp": "2026-01-06 10:01:33",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-06 09:43:56",
-      "message": "[PROCESSING] Analyzing: The MSI Crosshair 16 Max HX features a slimmer chassis and stronger specs..."
+      "timestamp": "2026-01-06 10:01:34",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-06 09:44:00",
-      "message": "[SKIP] Irrelevant (AI Filter): The MSI Crosshair 16 Max HX features a slimmer chassis and stronger specs"
+      "timestamp": "2026-01-06 10:01:34",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-06 09:44:02",
-      "message": "[PROCESSING] Analyzing: HyperX\u2019s 2026 gaming monitor lineup includes a 500Hz QD-OLED..."
+      "timestamp": "2026-01-06 10:01:50",
+      "message": "Found 54 articles within the last 1 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-06 09:44:05",
-      "message": "[SKIP] Irrelevant (AI Filter): HyperX\u2019s 2026 gaming monitor lineup includes a 500Hz QD-OLED"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:07",
-      "message": "[PROCESSING] Analyzing: HyperX\u2019s name is on HP\u2019s new Omen gaming laptops..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:10",
-      "message": "[SKIP] Irrelevant (AI Filter): HyperX\u2019s name is on HP\u2019s new Omen gaming laptops"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:11",
-      "message": "[PROCESSING] Analyzing: HyperX\u2019s new gaming keyboards were made to be yanked apart..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:14",
-      "message": "[SKIP] Irrelevant (AI Filter): HyperX\u2019s new gaming keyboards were made to be yanked apart"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:16",
-      "message": "[PROCESSING] Analyzing: Dell is eating humble pie and bringing back the XPS brand..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:19",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell is eating humble pie and bringing back the XPS brand"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:21",
-      "message": "Reprocessing: New Software and Model Optimizations Supercharge NVIDIA DGX Spark"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:22",
-      "message": "[PROCESSING] Analyzing: New Software and Model Optimizations Supercharge NVIDIA DGX Spark..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:27",
-      "message": "[SUCCESS] Processed: NVIDIA DGX Spark\uc758 \uc0c8\ub85c\uc6b4 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ubc0f \ubaa8\ub378 \ucd5c\uc801\ud654\n  > Summary: NVIDIA\ub294 Grace Blackwell \uae30\ubc18\uc758 DGX Spark \uc131\ub2a5\uc744 \uc9c0\uc18d\uc801\uc778 \uc18c\ud504\ud2b8..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:29",
-      "message": "Reprocessing: Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:31",
-      "message": "[PROCESSING] Analyzing: Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:36",
-      "message": "[SUCCESS] Processed: NVIDIA \ub8e8\ube48 \ud50c\ub7ab\ud3fc \ub0b4\ubd80: \uc0c8\ub85c\uc6b4 AI \uc288\ud37c\ucef4\ud4e8\ud130\ub97c \uc704\ud55c \uc5ec\uc12f \uac1c\uc758 \uce69\n  > Summary: AI\ub294 \uc0b0\uc5c5 \ub2e8\uacc4\uc5d0 \uc811\uc5b4\ub4e4\uc5c8\ub2e4. \uc774\uc804\uc5d0\ub294 \uac1c\ubcc4 AI \ubaa8\ub378 \ud6c8\ub828\uacfc \uc778\uac04 \uc9c0\ud5a5 \ucd94\ub860\uc744 \uc218\ud589\ud558\ub358..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:38",
-      "message": "Reprocessing: Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:40",
-      "message": "[PROCESSING] Analyzing: Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:45",
-      "message": "[SUCCESS] Processed: \uc5e3\uc9c0 \ubc0f \ub85c\ubcf4\ud2f1\uc2a4\ub97c \uc704\ud55c AI \ucd94\ub860 \uac00\uc18d\ud654: NVIDIA Jetson T4000 \ubc0f NVIDIA JetPack 7.1\n  > Summary: NVIDIA\ub294 NVIDIA Jetson T4000\uc744 \uc18c\uac1c\ud558\uba70, \uace0\uc131\ub2a5 AI \ubc0f \uc2e4\uc2dc\uac04 \ucd94\ub860..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:47",
-      "message": "Reprocessing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals"
-    },
-    {
-      "timestamp": "2026-01-06 09:44:48",
-      "message": "[PROCESSING] Analyzing: CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:53",
-      "message": "[SUCCESS] Processed: CES 2026: \ub77c\uc774\ube0c\ub85c \uc9c0\ucf1c\ubcf4\uc138\uc694, Nvidia, Lego, AMD, Amazon \ub4f1\uc774 \ud070 \ubc1c\ud45c\ub97c \ud569\ub2c8\ub2e4\n  > Summary: CES 2026\uc774 \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uc5f4\ub9ac\uba70, TechCrunch \ub274\uc2a4 \ud300\uc774 \ud604\uc7a5\uc5d0\uc11c \uc0dd\uc0dd\ud55c \uc18c..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:55",
-      "message": "[PROCESSING] Analyzing: CES 2026 Consumer Tech Trends: EMEA Will Lead Growth..."
-    },
-    {
-      "timestamp": "2026-01-06 09:44:58",
-      "message": "[SKIP] Irrelevant (AI Filter): CES 2026 Consumer Tech Trends: EMEA Will Lead Growth"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:00",
-      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:02",
-      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:04",
-      "message": "Reprocessing: Beyond Energy Use: Strategies for Sustainable Data Center Operations"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:06",
-      "message": "[PROCESSING] Analyzing: Beyond Energy Use: Strategies for Sustainable Data Center Operations..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:11",
-      "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc744 \ub118\uc5b4\uc11c: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \uc704\ud55c \uc804\ub7b5\n  > Summary: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc5d0 \uae30\uc5ec\ud568\uc5d0 \ub530\ub77c \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c \ubc0f \uc778\ud504\ub77c..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:12",
-      "message": "[PROCESSING] Analyzing: Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support (Rich Woods/XDA Developers)..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:15",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support (Rich Woods/XDA Developers)"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:17",
-      "message": "[PROCESSING] Analyzing: A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:20",
-      "message": "[SKIP] Irrelevant (AI Filter): A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:22",
-      "message": "[PROCESSING] Analyzing: Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Amazon unveils a Fire TV UI redesign with rounded corners, 20 app slots, and Alexa+ built in, and launches a $899+ Ember Artline TV series with colorful frames (Sarah Perez/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:26",
-      "message": "[PROCESSING] Analyzing: TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:29",
-      "message": "[SKIP] Irrelevant (AI Filter): TCL unveils the \u20ac339 70 Pro phone, with a 6.9\" NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5\" Remarkable rival (Allison Johnson/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:30",
-      "message": "[PROCESSING] Analyzing: Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:33",
-      "message": "[SKIP] Irrelevant (AI Filter): Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:35",
-      "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:37",
-      "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:39",
-      "message": "Reprocessing: NXP Unveils S32N7 Central Processor for SDVs"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:41",
-      "message": "[PROCESSING] Analyzing: NXP Unveils S32N7 Central Processor for SDVs..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:46",
-      "message": "[SUCCESS] Processed: NXP, SDV\ub97c \uc704\ud55c S32N7 \uc911\uc559 \ud504\ub85c\uc138\uc11c \uacf5\uac1c\n  > Summary: NXP \ubc18\ub3c4\uccb4\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc815\uc758 \ucc28\ub7c9(SDV) \uac1c\ubc1c\uc744 \uc9c0\uc6d0\ud558\ub294 S32N7 \ud504\ub85c\uc138\uc11c \uc2dc\ub9ac\uc988\ub97c..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:48",
-      "message": "[PROCESSING] Analyzing: \uc601\ud5a5\ub825 \uc5c6\ub294 PM..."
-    },
-    {
-      "timestamp": "2026-01-06 09:45:50",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc601\ud5a5\ub825 \uc5c6\ub294 PM"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:52",
-      "message": "Completed! New: 0, Updated: 6"
-    },
-    {
-      "timestamp": "2026-01-06 09:45:56",
-      "message": "Saved 6 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-06 09:46:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-06 10:01:50",
+      "message": "[PROCESSING] Analyzing: Garmin now offers nutrition tracking..."
     }
   ]
 }
