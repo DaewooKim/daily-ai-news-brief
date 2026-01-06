@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-07 05:30:24",
-  "status": "idle",
+  "last_updated": "2026-01-07 05:46:17",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-07 05:28:10",
-      "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
+      "timestamp": "2026-01-07 05:45:55",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-07 05:28:13",
-      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
+      "timestamp": "2026-01-07 05:45:56",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-07 05:28:15",
-      "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
+      "timestamp": "2026-01-07 05:45:56",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-07 05:28:17",
-      "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
+      "timestamp": "2026-01-07 05:46:17",
+      "message": "Found 80 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-07 05:28:21",
-      "message": "[SUCCESS] Processed: CES 2026: AMD, \ub370\uc774\ud130 \uc13c\ud130\uc5d0 Instinct GPU \ucd94\uac00\ub85c \ub3c4\uc804\n  > Summary: AMD\ub294 Nvidia\uc758 AI \uc9c0\ubc30\ub825\uc5d0 \ub9de\uc11c\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uc81c\ud488\uc744 \uc120\ubcf4\uc774\uba70, \uae30\uc5c5 \uace0\uac1d..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:23",
-      "message": "Reprocessing: Hyperscalers in 2026: What\u2019s Next for the World\u2019s Biggest Data Center Operators?"
-    },
-    {
-      "timestamp": "2026-01-07 05:28:25",
-      "message": "[PROCESSING] Analyzing: Hyperscalers in 2026: What\u2019s Next for the World\u2019s Biggest Data Center Operators?..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:29",
-      "message": "[SUCCESS] Processed: 2026\ub144 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec: \uc138\uacc4 \ucd5c\ub300 \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc790\ub4e4\uc758 \ub2e4\uc74c \ub2e8\uacc4\ub294?\n  > Summary: 2026\ub144\uc5d0\ub294 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub4e4\uc774 AI \uc911\uc2ec\uc758 \uad6c\ucd95\uc744 \uac00\uc18d\ud654\ud560 \uc608\uc815\uc774\uba70, \uc804\ub825\ub9dd \uc81c\uc57d, \uc7a5\ube44..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:31",
-      "message": "Reprocessing: Beyond Energy Use: Strategies for Sustainable Data Center Operations"
-    },
-    {
-      "timestamp": "2026-01-07 05:28:33",
-      "message": "[PROCESSING] Analyzing: Beyond Energy Use: Strategies for Sustainable Data Center Operations..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:38",
-      "message": "[SUCCESS] Processed: \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\uc744 \ub118\uc5b4\uc11c: \uc9c0\uc18d \uac00\ub2a5\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \uc704\ud55c \uc804\ub7b5\n  > Summary: AI\uc758 \ubc1c\uc804\uc774 \ub370\uc774\ud130 \uc13c\ud130 \uc131\uc7a5\uc5d0 \uae30\uc5ec\ud568\uc5d0 \ub530\ub77c \uc6b4\uc601\uc790\ub4e4\uc740 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9, \uc804\uc790 \ud3d0\uae30\ubb3c \ubc0f ..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:40",
-      "message": "[PROCESSING] Analyzing: Sandisk shares jump ~23% after Jensen Huang highlighted the need for memory and storage at CES; SNDK is up 40%+ in the first three trading sessions of 2026 (Felice Maranz/Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:44",
-      "message": "[SUCCESS] Processed: \uc820\uc2a8 \ud669, CES\uc5d0\uc11c \uba54\ubaa8\ub9ac\uc640 \uc800\uc7a5\uc758 \ud544\uc694\uc131\uc744 \uac15\uc870\ud55c \ud6c4 \uc0cc\ub514\uc2a4\ud06c \uc8fc\uac00 \uc57d 23% \uc0c1\uc2b9\n  > Summary: \uc0cc\ub514\uc2a4\ud06c\ub294 CES\uc5d0\uc11c \uc820\uc2a8 \ud669\uc774 \uba54\ubaa8\ub9ac\uc640 \uc800\uc7a5\uc758 \ud544\uc694\uc131\uc744 \uac15\uc870\ud55c \ud6c4 \uc8fc\uac00\uac00 \uc57d 23% \uc0c1\uc2b9..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:46",
-      "message": "[PROCESSING] Analyzing: Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a \"rolling scan\" scheme that briefly pulses the monitors' backlight (Kyle Orland/Ars Technica)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:48",
-      "message": "[SKIP] Irrelevant (AI Filter): Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a \"rolling scan\" scheme that briefly pulses the monitors' backlight (Kyle Orland/Ars Technica)"
-    },
-    {
-      "timestamp": "2026-01-07 05:28:50",
-      "message": "[PROCESSING] Analyzing: Buyout firm Hg agrees to acquire enterprise financial software maker OneStream in an all-cash deal valued at ~$6.4B that is set to close in H1 2026 (Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:28:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Buyout firm Hg agrees to acquire enterprise financial software maker OneStream in an all-cash deal valued at ~$6.4B that is set to close in H1 2026 (Bloomberg)"
-    },
-    {
-      "timestamp": "2026-01-07 05:28:55",
-      "message": "Reprocessing: Amazon raised AWS' EC2 Capacity Blocks for ML prices by ~15% on January 3, saying the adjustment \"reflects the supply/demand patterns we expect this quarter\" (Corey Quinn/The Register)"
-    },
-    {
-      "timestamp": "2026-01-07 05:28:56",
-      "message": "[PROCESSING] Analyzing: Amazon raised AWS' EC2 Capacity Blocks for ML prices by ~15% on January 3, saying the adjustment \"reflects the supply/demand patterns we expect this quarter\" (Corey Quinn/The Register)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:01",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, AWS EC2 ML \uac00\uaca9\uc744 \uc57d 15% \uc778\uc0c1\n  > Summary: \uc544\ub9c8\uc874\uc740 1\uc6d4 3\uc77c AWS\uc758 EC2 Capacity Blocks\uc758 \uba38\uc2e0\ub7ec\ub2dd \uac00\uaca9\uc744 \uc57d 15..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:03",
-      "message": "[PROCESSING] Analyzing: Asus redesigns the Zenbook Duo with a new \"hideaway\" hinge that shrinks the gap between the laptop's two 3K 144Hz Lumina Pro OLED displays to just 8.28 mm (Sam Rutherford/Engadget)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:06",
-      "message": "[SKIP] Irrelevant (AI Filter): Asus redesigns the Zenbook Duo with a new \"hideaway\" hinge that shrinks the gap between the laptop's two 3K 144Hz Lumina Pro OLED displays to just 8.28 mm (Sam Rutherford/Engadget)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:08",
-      "message": "[PROCESSING] Analyzing: Internal memo: Meta names CJ Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump's first term, as its chief legal officer (Sara Fischer/Axios)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:11",
-      "message": "[SKIP] Irrelevant (AI Filter): Internal memo: Meta names CJ Mahoney, former Microsoft legal executive and deputy US Trade Representative during Trump's first term, as its chief legal officer (Sara Fischer/Axios)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:13",
-      "message": "Reprocessing: UMG announces a partnership with Nvidia \"to pioneer responsible AI for music discovery, creation, and engagement\", centered on Nvidia's Music Flamingo model (Dan Rys/Billboard)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:14",
-      "message": "[PROCESSING] Analyzing: UMG announces a partnership with Nvidia \"to pioneer responsible AI for music discovery, creation, and engagement\", centered on Nvidia's Music Flamingo model (Dan Rys/Billboard)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:20",
-      "message": "[SUCCESS] Processed: UMG, \uc74c\uc545 \ubc1c\uacac, \uc81c\uc791 \ubc0f \ucc38\uc5ec\ub97c \uc704\ud55c \ucc45\uc784 \uc788\ub294 AI\ub97c \uc120\ub3c4\ud558\uae30 \uc704\ud574 Nvidia\uc640 \ud30c\ud2b8\ub108\uc2ed \ubc1c\ud45c\n  > Summary: UMG\ub294 Nvidia\uc640 \ud30c\ud2b8\ub108\uc2ed\uc744 \ubc1c\ud45c\ud558\uba70 \uc74c\uc545 \ubc1c\uacac, \uc81c\uc791 \ubc0f \ucc38\uc5ec\ub97c \uc704\ud55c \ucc45\uc784 \uc788\ub294 A..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:21",
-      "message": "[PROCESSING] Analyzing: Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 (Arsheeya Bajwa/Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 (Arsheeya Bajwa/Reuters)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:25",
-      "message": "[PROCESSING] Analyzing: Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M (Madison McLauchlan/BetaKit)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:28",
-      "message": "[SKIP] Irrelevant (AI Filter): Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M (Madison McLauchlan/BetaKit)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:29",
-      "message": "[PROCESSING] Analyzing: Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities (Stevie Bonifield/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:32",
-      "message": "[SKIP] Irrelevant (AI Filter): Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities (Stevie Bonifield/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:34",
-      "message": "Reprocessing: LMArena, which runs leaderboards that rank AI models based on their performance, raised a $150M Series A led by Felicis and UC Investments at a $1.7B valuation (The Information)"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:36",
-      "message": "[PROCESSING] Analyzing: LMArena, which runs leaderboards that rank AI models based on their performance, raised a $150M Series A led by Felicis and UC Investments at a $1.7B valuation (The Information)..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:41",
-      "message": "[SUCCESS] Processed: AI \ubaa8\ub378 \uc131\ub2a5 \uae30\ubc18 \uc21c\uc704\ub97c \uc81c\uacf5\ud558\ub294 LMArena, 1\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \ud22c\uc790 \uc720\uce58\n  > Summary: LMArena\ub294 AI \ubaa8\ub378\uc758 \uc131\ub2a5\uc744 \uae30\ubc18\uc73c\ub85c \ud55c \ub9ac\ub354\ubcf4\ub4dc\ub97c \uc6b4\uc601\ud558\uba70, Felicis\uc640 UC..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:43",
-      "message": "[PROCESSING] Analyzing: Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:45",
-      "message": "[SKIP] Irrelevant (AI Filter): Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:47",
-      "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:49",
-      "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
-    },
-    {
-      "timestamp": "2026-01-07 05:29:51",
-      "message": "[PROCESSING] Analyzing: Bosch Sensortec Debuts Motion Sensor Platform at CES..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:57",
-      "message": "[SUCCESS] Processed: \ubcf4\uc26c \uc13c\uc11c\ud14d, CES\uc5d0\uc11c \ubaa8\uc158 \uc13c\uc11c \ud50c\ub7ab\ud3fc \uacf5\uac1c\n  > Summary: \ubcf4\uc26c \uc13c\uc11c\ud14d\uc774 CES 2026\uc5d0\uc11c BMI5 \ud50c\ub7ab\ud3fc \ubaa8\uc158 \uc13c\uc11c\ub97c \uc120\ubcf4\uc600\uc2b5\ub2c8\ub2e4. \uc774 \uc13c\uc11c\ub294 X..."
-    },
-    {
-      "timestamp": "2026-01-07 05:29:59",
-      "message": "Reprocessing: NXP Unveils S32N7 Central Processor for SDVs"
-    },
-    {
-      "timestamp": "2026-01-07 05:30:01",
-      "message": "[PROCESSING] Analyzing: NXP Unveils S32N7 Central Processor for SDVs..."
-    },
-    {
-      "timestamp": "2026-01-07 05:30:07",
-      "message": "[SUCCESS] Processed: NXP, SDV\ub97c \uc704\ud55c S32N7 \uc911\uc559 \ud504\ub85c\uc138\uc11c \uacf5\uac1c\n  > Summary: NXP \ubc18\ub3c4\uccb4\uac00 S32N7 \ud504\ub85c\uc138\uc11c \uc2dc\ub9ac\uc988\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud504\ub85c\uc138\uc11c\ub294 \ucc28\ub7c9\uc758 \uc8fc\uc694 \uae30\ub2a5..."
-    },
-    {
-      "timestamp": "2026-01-07 05:30:08",
-      "message": "[PROCESSING] Analyzing: \uc601\ud5a5\ub825 \uc5c6\ub294 PM..."
-    },
-    {
-      "timestamp": "2026-01-07 05:30:12",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc601\ud5a5\ub825 \uc5c6\ub294 PM"
-    },
-    {
-      "timestamp": "2026-01-07 05:30:14",
-      "message": "Completed! New: 6, Updated: 17"
-    },
-    {
-      "timestamp": "2026-01-07 05:30:19",
-      "message": "Saved 23 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-07 05:30:23",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-07 05:46:17",
+      "message": "[PROCESSING] Analyzing: At CES, EVs take a backseat to robotaxis and AI..."
     }
   ]
 }
