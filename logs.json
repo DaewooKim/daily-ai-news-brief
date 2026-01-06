@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 02:35:26",
+  "last_updated": "2026-01-07 02:35:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 02:18:13",
-      "message": "[PROCESSING] Analyzing: New Software and Model Optimizations Supercharge NVIDIA DGX Spark..."
-    },
     {
       "timestamp": "2026-01-07 02:18:18",
       "message": "[SUCCESS] Processed: \uc0c8\ub85c\uc6b4 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ubc0f \ubaa8\ub378 \ucd5c\uc801\ud654\ub85c NVIDIA DGX Spark \uc131\ub2a5 \ud5a5\uc0c1\n  > Summary: NVIDIA\ub294 Grace Blackwell \uae30\ubc18\uc758 DGX Spark\uc758 \uc131\ub2a5\uc744 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ucd5c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 02:35:26",
       "message": "[PROCESSING] Analyzing: Higher-Current SiC Devices Shrink Locomotive Power Converters..."
+    },
+    {
+      "timestamp": "2026-01-07 02:35:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Higher-Current SiC Devices Shrink Locomotive Power Converters"
     }
   ]
 }
