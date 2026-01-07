@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 17:37:32",
+  "last_updated": "2026-01-07 17:37:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 17:37:01",
-      "message": "Found 140 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-07 17:37:01",
       "message": "[PROCESSING] Analyzing: CES 2026 tech you can already buy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 17:37:32",
       "message": "[PROCESSING] Analyzing: Ikea\u2019s $10 Kallsup speakers are tiny, colorful, and surprisingly loud..."
+    },
+    {
+      "timestamp": "2026-01-07 17:37:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Ikea\u2019s $10 Kallsup speakers are tiny, colorful, and surprisingly loud"
     }
   ]
 }
