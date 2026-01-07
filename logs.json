@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 19:05:02",
+  "last_updated": "2026-01-07 19:05:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 19:04:28",
-      "message": "[PROCESSING] Analyzing: Source: Ant Group's Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant's total 2025 revenue, as it competes with Visa (Jing Yang/The Information)..."
-    },
     {
       "timestamp": "2026-01-07 19:04:30",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Ant Group's Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant's total 2025 revenue, as it competes with Visa (Jing Yang/The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 19:05:02",
       "message": "[PROCESSING] Analyzing: Thermal Scanning-Probe Lithography in vdW Heterostructures (TU Denmark)..."
+    },
+    {
+      "timestamp": "2026-01-07 19:05:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermal Scanning-Probe Lithography in vdW Heterostructures (TU Denmark)"
     }
   ]
 }
