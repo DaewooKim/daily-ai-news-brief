@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 12:20:09",
+  "last_updated": "2026-01-07 12:20:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 12:19:31",
-      "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
-    },
     {
       "timestamp": "2026-01-07 12:19:32",
       "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 12:20:09",
       "message": "[PROCESSING] Analyzing: GWI: LinkedIn's 2025 revenue rose to $17B from $7B in 2020 as users doubled to 1.3B; 4.7% of US users checked more than once per day in 2025, from 3.9% in 2020 (Stu Woo/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-01-07 12:20:11",
+      "message": "[SKIP] Irrelevant (AI Filter): GWI: LinkedIn's 2025 revenue rose to $17B from $7B in 2020 as users doubled to 1.3B; 4.7% of US users checked more than once per day in 2025, from 3.9% in 2020 (Stu Woo/Wall Street Journal)"
     }
   ]
 }
