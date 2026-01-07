@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 18:21:25",
+  "last_updated": "2026-01-07 18:21:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 18:20:46",
-      "message": "[SUCCESS] Processed: CES 2026: \uc5d4\ube44\ub514\uc544\uc758 \ub370\ubdd4\uc5d0\uc11c AMD\uc758 \uc0c8\ub85c\uc6b4 \uce69, \ub808\uc774\uc800\uc758 AI \uad34\uc0c1\ud568\uae4c\uc9c0 \uacf5\uac1c\ub41c \ubaa8\ub4e0 \uac83\n  > Summary: CES 2026\uc774 \ub77c\uc2a4\ubca0\uc774\uac70\uc2a4\uc5d0\uc11c \uc9c4\ud589\ub418\uace0 \uc788\uc73c\uba70, \uc5b8\ub860 \ubc1c\ud45c\uc640 \uc8fc\uc694 \uae30\uc5c5\ub4e4\uc758 \ubbf8\ub9ac\ubcf4\uae30\ub85c ..."
-    },
     {
       "timestamp": "2026-01-07 18:20:47",
       "message": "[PROCESSING] Analyzing: A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 18:21:25",
       "message": "[PROCESSING] Analyzing: Imec Makes Solid-State Nanopores Using EUV Lithography..."
+    },
+    {
+      "timestamp": "2026-01-07 18:21:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Imec Makes Solid-State Nanopores Using EUV Lithography"
     }
   ]
 }
