@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-07 19:49:20",
-  "status": "idle",
+  "last_updated": "2026-01-07 20:04:53",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-07 19:48:02",
-      "message": "Reprocessing: Data center startup DayOne closes $2B+ funding round"
+      "timestamp": "2026-01-07 20:04:41",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-07 19:48:03",
-      "message": "[SKIP] Content too short: Data center startup DayOne clo..."
+      "timestamp": "2026-01-07 20:04:42",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-07 19:48:04",
-      "message": "Reprocessing: Clipto raises funding at $250M valuation to revolutionize on-device content management"
+      "timestamp": "2026-01-07 20:04:42",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-07 19:48:05",
-      "message": "[SKIP] Content too short: Clipto raises funding at $250M..."
+      "timestamp": "2026-01-07 20:04:53",
+      "message": "Found 145 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-07 19:48:07",
-      "message": "Reprocessing: Lenovo launches new ThinkSystem servers dedicated to AI inference"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:08",
-      "message": "[SKIP] Content too short: Lenovo launches new ThinkSyste..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:09",
-      "message": "Reprocessing: AI lending startup Pluto Financial raises $8.6M to unlock illiquid private equity capital"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:11",
-      "message": "[SKIP] Content too short: AI lending startup Pluto Finan..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:12",
-      "message": "Reprocessing: CES 2026 decoded: Join theCUBE Jan. 13 for key insights"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:14",
-      "message": "[SKIP] Content too short: CES 2026 decoded: Join theCUBE..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:15",
-      "message": "Reprocessing: Hyundai and Boston Dynamics join forces to bring humanoid robots to factories"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:16",
-      "message": "[SKIP] Content too short: Hyundai and Boston Dynamics jo..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:18",
-      "message": "Reprocessing: Exabeam targets AI agent risk with connected, AI-driven security workflows"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:19",
-      "message": "[SKIP] Content too short: Exabeam targets AI agent risk ..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:20",
-      "message": "Reprocessing: Vibe\u2019s new AI robot sits in on meetings to record every interaction and delegate tasks"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:22",
-      "message": "[SKIP] Content too short: Vibe\u2019s new AI robot sits in on..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:23",
-      "message": "Reprocessing: Broadcom debuts new chips for powering Wi-Fi 8 access points"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:24",
-      "message": "[SKIP] Content too short: Broadcom debuts new chips for ..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:26",
-      "message": "Reprocessing: Ambiq debuts first energy-optimized NPU chipset for advanced AI on battery-powered devices"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:27",
-      "message": "[SKIP] Content too short: Ambiq debuts first energy-opti..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:28",
-      "message": "Reprocessing: Dell unveils new Alienware gaming PCs oozing power and style"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:30",
-      "message": "[SKIP] Content too short: Dell unveils new Alienware gam..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:31",
-      "message": "Reprocessing: AMD launches Ryzen AI PC, data center, mobile and embedded processors at CES"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:32",
-      "message": "[SKIP] Content too short: AMD launches Ryzen AI PC, data..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:34",
-      "message": "Reprocessing: Nvidia and the AI factory era: What we\u2019ve been watching all along"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:35",
-      "message": "[SKIP] Content too short: Nvidia and the AI factory era:..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:36",
-      "message": "Reprocessing: Intel launches first chips built on its most advanced 18A manufacturing process"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:38",
-      "message": "[SKIP] Content too short: Intel launches first chips bui..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:39",
-      "message": "Reprocessing: Qualcomm debuts new chips for robots and Windows laptops"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:40",
-      "message": "[SKIP] Content too short: Qualcomm debuts new chips for ..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:42",
-      "message": "Reprocessing: Dell revives the XPS laptop brand, just one year after killing it off"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:43",
-      "message": "[SKIP] Content too short: Dell revives the XPS laptop br..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:44",
-      "message": "Reprocessing: Sedgwick confirms cyberattack on subsidiary after TridentLocker claims data theft"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:46",
-      "message": "[SKIP] Content too short: Sedgwick confirms cyberattack ..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:47",
-      "message": "Reprocessing: AMD\u2019s EPYC Venice, Instinct MI455X, & Helios Hardware On Display for First Time at CES 2026"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:48",
-      "message": "[PROCESSING] Analyzing: AMD\u2019s EPYC Venice, Instinct MI455X, & Helios Hardware On Display for First Time at CES 2026..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:52",
-      "message": "[SUCCESS] Processed: AMD\uc758 EPYC \ubca0\ub2c8\uc2a4, Instinct MI455X \ubc0f \ud5ec\ub9ac\uc624\uc2a4 \ud558\ub4dc\uc6e8\uc5b4\uac00 CES 2026\uc5d0\uc11c \ucc98\uc74c \uacf5\uac1c\ub428\n  > Summary: AMD\ub294 CES 2026 \ud0a4\ub178\ud2b8 \ubc1c\ud45c\uc5d0\uc11c \ud074\ub77c\uc774\uc5b8\ud2b8 \uc911\uc2ec \ud558\ub4dc\uc6e8\uc5b4 \uc678\uc5d0\ub3c4 \ub370\uc774\ud130 \uc13c\ud130/\uc11c\ubc84..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:53",
-      "message": "[info] Timestamp updated for: Marvell Announces XConn Technologies Acquisition in CXL and PCIe Push"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:55",
-      "message": "Reprocessing: AMD Teases Ryzen AI Halo, a ROCm Ecosystem AI Development Mini-PC"
-    },
-    {
-      "timestamp": "2026-01-07 19:48:56",
-      "message": "[PROCESSING] Analyzing: AMD Teases Ryzen AI Halo, a ROCm Ecosystem AI Development Mini-PC..."
-    },
-    {
-      "timestamp": "2026-01-07 19:48:59",
-      "message": "[SUCCESS] Processed: AMD, Ryzen AI Halo\ub77c\ub294 ROCm \uc0dd\ud0dc\uacc4 AI \uac1c\ubc1c \ubbf8\ub2c8 PC\ub97c \uacf5\uac1c \uc608\uace0\n  > Summary: AMD\uc758 CEO \ub9ac\uc0ac \uc218\uac00 CES 2026 \uae30\uc870\uc5f0\uc124 \uc911 \uc0c8\ub85c\uc6b4 AI \uac1c\ubc1c \ubc15\uc2a4\uc778 Ryzen..."
-    },
-    {
-      "timestamp": "2026-01-07 19:49:01",
-      "message": "Reprocessing: AMD Announces Zen 5-based Ryzen AI Embedded P100 Family of Chips"
-    },
-    {
-      "timestamp": "2026-01-07 19:49:02",
-      "message": "[PROCESSING] Analyzing: AMD Announces Zen 5-based Ryzen AI Embedded P100 Family of Chips..."
-    },
-    {
-      "timestamp": "2026-01-07 19:49:05",
-      "message": "[SUCCESS] Processed: AMD, Zen 5 \uae30\ubc18\uc758 Ryzen AI \uc784\ubca0\ub514\ub4dc P100 \uce69 \ud328\ubc00\ub9ac \ubc1c\ud45c\n  > Summary: AMD\ub294 CES 2026 \ud504\ub808\uc820\ud14c\uc774\uc158 \uc911\uc5d0 \uc18c\ube44\uc790 \uad00\ub828 \uc81c\ud488 \ubc1c\ud45c\uc640 \ud568\uaed8 \uc784\ubca0\ub514\ub4dc \uc2dc\uc7a5\uc5d0 ..."
-    },
-    {
-      "timestamp": "2026-01-07 19:49:07",
-      "message": "Reprocessing: AMD Reveals New Ryzen AI 400 Series, Ryzen AI Max+, and Ryzen 7 9850X3D Chips At CES 2026"
-    },
-    {
-      "timestamp": "2026-01-07 19:49:08",
-      "message": "[PROCESSING] Analyzing: AMD Reveals New Ryzen AI 400 Series, Ryzen AI Max+, and Ryzen 7 9850X3D Chips At CES 2026..."
-    },
-    {
-      "timestamp": "2026-01-07 19:49:11",
-      "message": "[SUCCESS] Processed: AMD\uac00 CES 2026\uc5d0\uc11c \uc0c8\ub85c\uc6b4 Ryzen AI 400 \uc2dc\ub9ac\uc988, Ryzen AI Max+ \ubc0f Ryzen 7 9850X3D \uce69\uc744 \uacf5\uac1c\ud558\ub2e4\n  > Summary: AMD\ub294 CES 2026\uc5d0\uc11c \uc18c\ube44\uc790 \uc2dc\uc7a5\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 \uce69 SKU\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. AI \uac1c..."
-    },
-    {
-      "timestamp": "2026-01-07 19:49:13",
-      "message": "Completed! New: 1, Updated: 49"
-    },
-    {
-      "timestamp": "2026-01-07 19:49:16",
-      "message": "Saved 50 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-07 19:49:19",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-07 20:04:53",
+      "message": "[PROCESSING] Analyzing: L\u2019Or\u00e9al\u2019s latest flat iron uses infrared light to make hair styling much faster..."
     }
   ]
 }
