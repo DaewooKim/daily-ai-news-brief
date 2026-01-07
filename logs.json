@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 10:56:03",
+  "last_updated": "2026-01-07 10:56:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 10:55:26",
-      "message": "Reprocessing: xAI says it raised $20B in Series E funding"
-    },
     {
       "timestamp": "2026-01-07 10:55:27",
       "message": "[PROCESSING] Analyzing: xAI says it raised $20B in Series E funding..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 10:56:03",
       "message": "[PROCESSING] Analyzing: CES 2026 Consumer Tech Trends: EMEA Will Lead Growth..."
+    },
+    {
+      "timestamp": "2026-01-07 10:56:05",
+      "message": "[SKIP] Irrelevant (AI Filter): CES 2026 Consumer Tech Trends: EMEA Will Lead Growth"
     }
   ]
 }
