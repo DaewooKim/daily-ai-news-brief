@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 13:03:00",
+  "last_updated": "2026-01-07 13:03:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 13:02:29",
-      "message": "[PROCESSING] Analyzing: HSC Appoints New Chief Operating Officer..."
-    },
     {
       "timestamp": "2026-01-07 13:02:31",
       "message": "[SKIP] Irrelevant (AI Filter): HSC Appoints New Chief Operating Officer"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 13:03:00",
       "message": "Reprocessing: Marvell buys network switching specialist XConn for $540M to boost its AI story"
+    },
+    {
+      "timestamp": "2026-01-07 13:03:01",
+      "message": "[SKIP] Content too short: Marvell buys network switching..."
     }
   ]
 }
