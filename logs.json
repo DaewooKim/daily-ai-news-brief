@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 12:21:30",
+  "last_updated": "2026-01-07 12:21:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 12:21:03",
-      "message": "[PROCESSING] Analyzing: \uc601\ud5a5\ub825 \uc5c6\ub294 PM..."
-    },
     {
       "timestamp": "2026-01-07 12:21:05",
       "message": "[SKIP] Irrelevant (AI Filter): \uc601\ud5a5\ub825 \uc5c6\ub294 PM"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 12:21:30",
       "message": "[SKIP] Content too short: OneStream to be acquired by Hg..."
+    },
+    {
+      "timestamp": "2026-01-07 12:21:32",
+      "message": "Reprocessing: Data center startup DayOne closes $2B+ funding round"
     }
   ]
 }
