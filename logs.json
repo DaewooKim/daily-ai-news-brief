@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 08:28:58",
+  "last_updated": "2026-01-07 08:29:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 08:28:13",
-      "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
-    },
     {
       "timestamp": "2026-01-07 08:28:14",
       "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 08:28:58",
       "message": "[PROCESSING] Analyzing: Dutch fintech Bunq applies to become a US bank; the OCC conditionally approved national trust bank charters for several crypto firms in 2025, including Circle (Paige Smith/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-07 08:29:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Dutch fintech Bunq applies to become a US bank; the OCC conditionally approved national trust bank charters for several crypto firms in 2025, including Circle (Paige Smith/Bloomberg)"
     }
   ]
 }
