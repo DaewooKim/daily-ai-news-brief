@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 09:53:51",
+  "last_updated": "2026-01-07 09:53:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 09:53:11",
-      "message": "[SUCCESS] Processed: 2026\ub144 \uc608\uce21: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825 \ud601\uba85\uc744 \uc77c\uc73c\ud0a8\ub2e4\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \ud30c\uc77c\ub7ff\uc5d0\uc11c \ud504\ub85c\ub355\uc158\uc73c\ub85c \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c, \uc804\ubb38\uac00\ub4e4\uc740 2026\ub144\uc774 \ub370\uc774\ud130 \uc13c..."
-    },
     {
       "timestamp": "2026-01-07 09:53:13",
       "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 09:53:51",
       "message": "[PROCESSING] Analyzing: China unveils rules banning major platforms like Alibaba from forcing merchants into discounts or practices seen as disrupting market order, effective February (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-07 09:53:53",
+      "message": "[SKIP] Irrelevant (AI Filter): China unveils rules banning major platforms like Alibaba from forcing merchants into discounts or practices seen as disrupting market order, effective February (Bloomberg)"
     }
   ]
 }
