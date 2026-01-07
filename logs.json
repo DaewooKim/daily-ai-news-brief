@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 23:35:17",
+  "last_updated": "2026-01-07 23:35:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 23:34:39",
-      "message": "[SUCCESS] Processed: 2026 CES\uc5d0\uc11c \ubc1c\ud45c\ub41c \uac00\uc7a5 \uae30\uad34\ud55c \uae30\uc220\ub4e4\n  > Summary: CES 2026\uc5d0\uc11c\ub294 AI \ud32c\ub354 \uc560\uc644\ub3d9\ubb3c\ubd80\ud130 \ucc45\uc0c1 \uc704\uc758 \uc560\ub2c8\uba54\uc774\uc158 \uc18c\ub140 \ud640\ub85c\uadf8\ub7a8\uc5d0 \uc774\ub974\uae30\uae4c..."
-    },
     {
       "timestamp": "2026-01-07 23:34:40",
       "message": "Reprocessing: AMD unveils new AI PC processors for general use and gaming at CES"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 23:35:17",
       "message": "[PROCESSING] Analyzing: GTR Secures $2B to Supercharge European Data Center Expansion..."
+    },
+    {
+      "timestamp": "2026-01-07 23:35:19",
+      "message": "[SKIP] Irrelevant (AI Filter): GTR Secures $2B to Supercharge European Data Center Expansion"
     }
   ]
 }
