@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 08:50:08",
+  "last_updated": "2026-01-07 08:50:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 08:49:29",
-      "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
-    },
     {
       "timestamp": "2026-01-07 08:49:33",
       "message": "[SUCCESS] Processed: CES 2026: AMD, \ub370\uc774\ud130 \uc13c\ud130\ub97c \ubaa9\ud45c\ub85c Instinct GPU \ucd94\uac00\n  > Summary: AMD\ub294 Nvidia\uc758 AI \uc9c0\ubc30\uc5d0 \ub9de\uc11c\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uc81c\ud488\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc0c8\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 08:50:08",
       "message": "[PROCESSING] Analyzing: Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6\" front display and an 8.1\" 2K LTPO inner screen, expected to launch this summer (Chris Welch/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-07 08:50:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6\" front display and an 8.1\" 2K LTPO inner screen, expected to launch this summer (Chris Welch/Bloomberg)"
     }
   ]
 }
