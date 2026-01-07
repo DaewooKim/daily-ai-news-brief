@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 16:15:10",
+  "last_updated": "2026-01-07 16:15:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 16:14:24",
-      "message": "[PROCESSING] Analyzing: Formal Verification Of Synthesizable C++/SystemC Designs..."
-    },
     {
       "timestamp": "2026-01-07 16:14:29",
       "message": "[SUCCESS] Processed: \ud569\uc131 \uac00\ub2a5\ud55c C++/SystemC \ub514\uc790\uc778\uc758 \ud615\uc2dd \uac80\uc99d\n  > Summary: \uc774 \uae30\uc0ac\ub294 C++ \ubc0f SystemC \ub514\uc790\uc778\uc5d0\uc11c \uace0\uc218\uc900 \uac80\uc99d(HLV) \ub3c4\uad6c\uc758 \uc0ac\uc6a9\uc5d0 \ub300\ud574 \uc124..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 16:15:10",
       "message": "[PROCESSING] Analyzing: \uc601\ud5a5\ub825 \uc5c6\ub294 PM..."
+    },
+    {
+      "timestamp": "2026-01-07 16:15:12",
+      "message": "[SKIP] Irrelevant (AI Filter): \uc601\ud5a5\ub825 \uc5c6\ub294 PM"
     }
   ]
 }
