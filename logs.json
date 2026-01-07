@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 14:46:54",
+  "last_updated": "2026-01-07 14:46:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 14:46:17",
-      "message": "Reprocessing: The most bizarre tech announced so far at CES 2026"
-    },
     {
       "timestamp": "2026-01-07 14:46:18",
       "message": "[PROCESSING] Analyzing: The most bizarre tech announced so far at CES 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 14:46:54",
       "message": "[PROCESSING] Analyzing: Higher-Current SiC Devices Shrink Locomotive Power Converters..."
+    },
+    {
+      "timestamp": "2026-01-07 14:46:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Higher-Current SiC Devices Shrink Locomotive Power Converters"
     }
   ]
 }
