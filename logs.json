@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 23:13:00",
+  "last_updated": "2026-01-07 23:13:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 23:12:12",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-07 23:12:23",
       "message": "Found 138 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 23:13:00",
       "message": "[SUCCESS] Processed: D-Wave, \uc591\uc790 \ud68c\ub85c \uad6c\ub9e4\ub85c \uac8c\uc774\ud2b8 \ubaa8\ub378 \uc804\ub825 \uc774\ub3d9\uc744 \uc9c4\ud589\ud558\ub2e4\n  > Summary: D-Wave\ub294 \uc0c1\uc5c5\uc801 \uc591\uc790 \ucef4\ud4e8\ud130 \uac1c\ubc1c\uc758 \ube60\ub978 \uacbd\ub85c\ub97c \uc704\ud574 \ub0c9\uac01 \uae30\uc220 \ub300\uc2e0 \uc591\uc790 \ud68c\ub85c\ub97c \uad6c..."
+    },
+    {
+      "timestamp": "2026-01-07 23:13:01",
+      "message": "Reprocessing: OpenAI unveils ChatGPT Health, says 230 million users ask about health each week"
     }
   ]
 }
