@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 23:55:14",
+  "last_updated": "2026-01-07 23:55:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 23:54:37",
-      "message": "Found 138 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-07 23:54:37",
       "message": "[PROCESSING] Analyzing: Blood for stonks..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 23:55:14",
       "message": "[PROCESSING] Analyzing: D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy..."
+    },
+    {
+      "timestamp": "2026-01-07 23:55:16",
+      "message": "[SKIP] Irrelevant (AI Filter): D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy"
     }
   ]
 }
