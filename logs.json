@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 23:55:23",
+  "last_updated": "2026-01-07 23:55:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 23:54:43",
-      "message": "[PROCESSING] Analyzing: The best deals on MacBooks right now..."
-    },
     {
       "timestamp": "2026-01-07 23:54:45",
       "message": "[SKIP] Irrelevant (AI Filter): The best deals on MacBooks right now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 23:55:23",
       "message": "[PROCESSING] Analyzing: Intel spinout Articul8 raises more than half of $70M round at $500M valuation..."
+    },
+    {
+      "timestamp": "2026-01-07 23:55:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Intel spinout Articul8 raises more than half of $70M round at $500M valuation"
     }
   ]
 }
