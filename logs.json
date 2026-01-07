@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 23:13:51",
+  "last_updated": "2026-01-07 23:13:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 23:13:14",
-      "message": "[PROCESSING] Analyzing: A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated..."
-    },
     {
       "timestamp": "2026-01-07 23:13:16",
       "message": "[SKIP] Irrelevant (AI Filter): A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 23:13:51",
       "message": "[PROCESSING] Analyzing: TSMC to Lead Rivals at 2-nm Node, Analysts Say..."
+    },
+    {
+      "timestamp": "2026-01-07 23:13:53",
+      "message": "[SKIP] Irrelevant (AI Filter): TSMC to Lead Rivals at 2-nm Node, Analysts Say"
     }
   ]
 }
