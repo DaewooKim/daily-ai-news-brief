@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 14:03:12",
+  "last_updated": "2026-01-07 14:03:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 14:02:36",
-      "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c \ubc1c\ud45c\ub41c \ucd5c\uace0\uc758 \uae30\uc220\n  > Summary: CES 2026\uc774 \uacf5\uc2dd\uc801\uc73c\ub85c \uc2dc\uc791\ub418\uc5c8\uc73c\uba70, \ub9ce\uc740 \uc0c8\ub85c\uc6b4 \uae30\uc220, \uae30\uae30, \ucee8\uc149 \ubc0f AI \uae30\ubc18 ..."
-    },
     {
       "timestamp": "2026-01-07 14:02:37",
       "message": "[PROCESSING] Analyzing: The weirdest tech we&#8217;ve seen at CES 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 14:03:12",
       "message": "[PROCESSING] Analyzing: Meta\u2019s Manus news is getting different receptions in Washington and Beijing..."
+    },
+    {
+      "timestamp": "2026-01-07 14:03:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta\u2019s Manus news is getting different receptions in Washington and Beijing"
     }
   ]
 }
