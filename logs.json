@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 15:07:14",
+  "last_updated": "2026-01-07 15:07:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 15:06:33",
-      "message": "Reprocessing: The best tech announced at CES 2026 so far"
-    },
     {
       "timestamp": "2026-01-07 15:06:34",
       "message": "[PROCESSING] Analyzing: The best tech announced at CES 2026 so far..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 15:07:14",
       "message": "[PROCESSING] Analyzing: Meta\u2019s Manus news is getting different receptions in Washington and Beijing..."
+    },
+    {
+      "timestamp": "2026-01-07 15:07:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta\u2019s Manus news is getting different receptions in Washington and Beijing"
     }
   ]
 }
