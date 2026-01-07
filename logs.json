@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 22:53:52",
+  "last_updated": "2026-01-07 22:53:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 22:53:15",
-      "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
-    },
     {
       "timestamp": "2026-01-07 22:53:16",
       "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 22:53:52",
       "message": "[PROCESSING] Analyzing: Source: Ant Group's Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant's total 2025 revenue, as it competes with Visa (Jing Yang/The Information)..."
+    },
+    {
+      "timestamp": "2026-01-07 22:53:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Ant Group's Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant's total 2025 revenue, as it competes with Visa (Jing Yang/The Information)"
     }
   ]
 }
