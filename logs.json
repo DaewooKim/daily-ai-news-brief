@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 09:31:58",
+  "last_updated": "2026-01-07 09:32:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 09:31:20",
-      "message": "[PROCESSING] Analyzing: The most bizarre tech announced so far at CES 2026..."
-    },
     {
       "timestamp": "2026-01-07 09:31:23",
       "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c \ubc1c\ud45c\ub41c \uac00\uc7a5 \uae30\uad34\ud55c \uae30\uc220\n  > Summary: CES 2026\uc5d0\uc11c \ubc1c\ud45c\ub41c \uac00\uc7a5 \uae30\uad34\ud55c \uae30\uc220 \uc911\uc5d0\ub294 AI \ud32c\ub2e4 \uc560\uc644\ub3d9\ubb3c\uacfc \ucc45\uc0c1 \uc704\uc758 \uc560\ub2c8\uba54..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 09:31:58",
       "message": "[PROCESSING] Analyzing: Defense Dollars Drive Canadian Dual-Use Development..."
+    },
+    {
+      "timestamp": "2026-01-07 09:32:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Defense Dollars Drive Canadian Dual-Use Development"
     }
   ]
 }
