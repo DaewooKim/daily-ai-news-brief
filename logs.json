@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 17:58:41",
+  "last_updated": "2026-01-07 17:58:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 17:58:02",
-      "message": "Found 141 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-07 17:58:02",
       "message": "[PROCESSING] Analyzing: Dell admits consumers don\u2019t care about AI PCs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 17:58:41",
       "message": "[PROCESSING] Analyzing: Netflix is bringing back some big franchises in 2026..."
+    },
+    {
+      "timestamp": "2026-01-07 17:58:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix is bringing back some big franchises in 2026"
     }
   ]
 }
