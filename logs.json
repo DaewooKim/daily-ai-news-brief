@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 12:41:40",
+  "last_updated": "2026-01-07 12:41:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 12:41:03",
-      "message": "[SUCCESS] Processed: \uc0bc\uc131, \uba54\ubaa8\ub9ac \uce69 \uacf5\uae09 \ubd80\uc871\uc73c\ub85c \uc804\uc790 \uc81c\ud488 \uac00\uaca9 \uc0c1\uc2b9 \uc608\uc0c1\n  > Summary: \uc0bc\uc131 \uc804\uc790\ub294 \uba54\ubaa8\ub9ac \uce69 \uacf5\uae09 \ubd80\uc871\uc73c\ub85c \uc804\uc790 \uc0b0\uc5c5 \uc804\ubc18\uc758 \uac00\uaca9\uc774 \uc0c1\uc2b9\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ud558\uace0 \uc788\uc2b5..."
-    },
     {
       "timestamp": "2026-01-07 12:41:04",
       "message": "[PROCESSING] Analyzing: Polymarket is disputing that the US mission to capture Nicol\u00e1s Maduro constituted an \"invasion\", refusing to pay out bets on a contract with $10.5M in wagers (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 12:41:40",
       "message": "[PROCESSING] Analyzing: Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements..."
+    },
+    {
+      "timestamp": "2026-01-07 12:41:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements"
     }
   ]
 }
