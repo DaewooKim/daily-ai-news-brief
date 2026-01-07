@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 14:45:32",
+  "last_updated": "2026-01-07 14:45:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 14:44:48",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-07 14:45:01",
       "message": "Found 139 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 14:45:32",
       "message": "[PROCESSING] Analyzing: Roblox now requires an age check if you want to chat..."
+    },
+    {
+      "timestamp": "2026-01-07 14:45:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Roblox now requires an age check if you want to chat"
     }
   ]
 }
