@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 17:16:41",
+  "last_updated": "2026-01-07 17:16:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 17:15:54",
-      "message": "[PROCESSING] Analyzing: The best tech announced at CES 2026 so far..."
-    },
     {
       "timestamp": "2026-01-07 17:15:58",
       "message": "[SUCCESS] Processed: 2026 CES\uc5d0\uc11c \ubc1c\ud45c\ub41c \ucd5c\uace0\uc758 \uae30\uc220\n  > Summary: CES 2026\uc758 \uccab\ub0a0\uc774 \uc2dc\uc791\ub418\uc5c8\uace0, \ub2e4\uc591\ud55c \uae30\uc220 \ubc0f AI \uae30\ubc18 \uc7a5\uce58\ub4e4\uc774 \ubc1c\ud45c\ub418\uc5c8\uc2b5\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 17:16:41",
       "message": "[PROCESSING] Analyzing: A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated..."
+    },
+    {
+      "timestamp": "2026-01-07 17:16:43",
+      "message": "[SKIP] Irrelevant (AI Filter): A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated"
     }
   ]
 }
