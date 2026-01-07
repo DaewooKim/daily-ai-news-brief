@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 19:04:44",
+  "last_updated": "2026-01-07 19:04:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 19:04:08",
-      "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
-    },
     {
       "timestamp": "2026-01-07 19:04:11",
       "message": "[SUCCESS] Processed: CES 2026: AMD, \ub370\uc774\ud130 \uc13c\ud130\ub97c \uaca8\ub0e5\ud558\uc5ec Instinct GPU \ucd94\uac00\n  > Summary: AMD\ub294 Nvidia\uc758 AI dominance\uc5d0 \ub9de\uc11c\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uc81c\ud488\uc744 \ucd9c\uc2dc\ud558\uc600\uc2b5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 19:04:44",
       "message": "[PROCESSING] Analyzing: Nike quietly sold its digital products subsidiary RTFKT on December 16 for an undisclosed sum, roughly one year after Nike shuttered the NFT unit (Matthew Kish/Oregonian)..."
+    },
+    {
+      "timestamp": "2026-01-07 19:04:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Nike quietly sold its digital products subsidiary RTFKT on December 16 for an undisclosed sum, roughly one year after Nike shuttered the NFT unit (Matthew Kish/Oregonian)"
     }
   ]
 }
