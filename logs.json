@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 18:19:53",
+  "last_updated": "2026-01-07 18:19:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 18:19:12",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-07 18:19:12",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 18:19:53",
       "message": "[PROCESSING] Analyzing: Netflix is bringing back some big franchises in 2026..."
+    },
+    {
+      "timestamp": "2026-01-07 18:19:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix is bringing back some big franchises in 2026"
     }
   ]
 }
