@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-07 14:48:10",
+  "last_updated": "2026-01-07 14:48:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-07 14:47:37",
-      "message": "Reprocessing: Memo: JPMorgan's asset management unit cuts ties with proxy advisory firms to use its AI-powered Proxy IQ platform to assist on US votes, an industry first (Jack Pitcher/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-01-07 14:47:39",
       "message": "[PROCESSING] Analyzing: Memo: JPMorgan's asset management unit cuts ties with proxy advisory firms to use its AI-powered Proxy IQ platform to assist on US votes, an industry first (Jack Pitcher/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-07 14:48:10",
       "message": "[PROCESSING] Analyzing: Thermal Scanning-Probe Lithography in vdW Heterostructures (TU Denmark)..."
+    },
+    {
+      "timestamp": "2026-01-07 14:48:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermal Scanning-Probe Lithography in vdW Heterostructures (TU Denmark)"
     }
   ]
 }
