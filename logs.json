@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-08 18:47:33",
-  "status": "idle",
+  "last_updated": "2026-01-08 19:48:06",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-08 18:46:07",
-      "message": "Reprocessing: OpenAI introduces ChatGPT Health to answer users\u2019 medical questions"
+      "timestamp": "2026-01-08 19:47:51",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-08 18:46:08",
-      "message": "[SKIP] Content too short: OpenAI introduces ChatGPT Heal..."
+      "timestamp": "2026-01-08 19:47:52",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-08 18:46:09",
-      "message": "Reprocessing: Chip designer Arm targets robotics with new Physical AI business"
+      "timestamp": "2026-01-08 19:47:52",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-08 18:46:11",
-      "message": "[SKIP] Content too short: Chip designer Arm targets robo..."
+      "timestamp": "2026-01-08 19:48:06",
+      "message": "Found 136 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-08 18:46:12",
-      "message": "Reprocessing: Anthropic reportedly seeking to raise $10B at $350B valuation"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:14",
-      "message": "[SKIP] Content too short: Anthropic reportedly seeking t..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:15",
-      "message": "Reprocessing: Chinese regulators probe Meta\u2019s acquisition of AI startup Manus"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:16",
-      "message": "[SKIP] Content too short: Chinese regulators probe Meta\u2019..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:18",
-      "message": "Reprocessing: Cyera researchers detail critical \u2018Ni8mare\u2019 vulnerability allowing full takeover of n8n instances"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:19",
-      "message": "[SKIP] Content too short: Cyera researchers detail criti..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:21",
-      "message": "Reprocessing: Why AI agents fail \u2014 and how process intelligence makes them work"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:22",
-      "message": "[SKIP] Content too short: Why AI agents fail \u2014 and how p..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:23",
-      "message": "Reprocessing: From components to control plane: How Dell and Microsoft are reshaping infrastructure for AI"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:25",
-      "message": "[SKIP] Content too short: From components to control pla..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:26",
-      "message": "Reprocessing: Articul8 reels in $35M+ for its AI application platform"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:28",
-      "message": "[SKIP] Content too short: Articul8 reels in $35M+ for it..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:29",
-      "message": "Reprocessing: AI gets physical: Nvidia\u2019s self-driving platform captures consumer world\u2019s attention at CES"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:31",
-      "message": "[SKIP] Content too short: AI gets physical: Nvidia\u2019s sel..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:32",
-      "message": "Reprocessing: D-Wave to acquire Quantum Circuits in bid to become world\u2019s leading quantum computing firm"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:33",
-      "message": "[SKIP] Content too short: D-Wave to acquire Quantum Circ..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:35",
-      "message": "Reprocessing: Record cybersecurity deal activity in 2025 sets aggressive tone for 2026, says Momentum Cyber"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:36",
-      "message": "[SKIP] Content too short: Record cybersecurity deal acti..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:38",
-      "message": "Reprocessing: Swap raises $100M Series C round to expand global commerce operating system"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:39",
-      "message": "[SKIP] Content too short: Swap raises $100M Series C rou..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:41",
-      "message": "Reprocessing: Barracuda report finds phishing kits doubled in 2025 as attacks grew more evasive"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:42",
-      "message": "[SKIP] Content too short: Barracuda report finds phishin..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:43",
-      "message": "Reprocessing: PitchBook: AI dominates global venture capital as 2025 deal value nears record"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:45",
-      "message": "[SKIP] Content too short: PitchBook: AI dominates global..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:46",
-      "message": "Reprocessing: Amazon\u2019s AI agents spark backlash from retailers after listing their products without permission"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:48",
-      "message": "[SKIP] Content too short: Amazon\u2019s AI agents spark backl..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:49",
-      "message": "Reprocessing: AI evaluation startup LMArena raises $150M at $1.7B valuation"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:51",
-      "message": "[SKIP] Content too short: AI evaluation startup LMArena ..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:52",
-      "message": "Reprocessing: Photonic raises $130M to scale quantum computers with entanglement-based networking"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:54",
-      "message": "[SKIP] Content too short: Photonic raises $130M to scale..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:55",
-      "message": "Reprocessing: Marvell buys network switching specialist XConn for $540M to boost its AI story"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:57",
-      "message": "[SKIP] Content too short: Marvell buys network switching..."
-    },
-    {
-      "timestamp": "2026-01-08 18:46:58",
-      "message": "Reprocessing: Mobileye to acquire AI humanoid robotics startup Mentee Robotics in $900M deal"
-    },
-    {
-      "timestamp": "2026-01-08 18:46:59",
-      "message": "[SKIP] Content too short: Mobileye to acquire AI humanoi..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:01",
-      "message": "Reprocessing: Intel Launches Core Ultra Series 3 Mobile Processors \u2013 Panther Lake Roars to Life"
-    },
-    {
-      "timestamp": "2026-01-08 18:47:02",
-      "message": "[PROCESSING] Analyzing: Intel Launches Core Ultra Series 3 Mobile Processors \u2013 Panther Lake Roars to Life..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:07",
-      "message": "[SUCCESS] Processed: \uc778\ud154, \ucf54\uc5b4 \uc6b8\ud2b8\ub77c \uc2dc\ub9ac\uc988 3 \ubaa8\ubc14\uc77c \ud504\ub85c\uc138\uc11c \ucd9c\uc2dc \u2013 \ud32c\uc11c \ub808\uc774\ud06c\uac00 \ud798\ucc28\uac8c \uc2dc\uc791\ud558\ub2e4\n  > Summary: CES 2026\uc5d0\uc11c \uc778\ud154\uc740 \ucf54\uc5b4 \uc6b8\ud2b8\ub77c \uc2dc\ub9ac\uc988 3 \ubaa8\ubc14\uc77c \ud504\ub85c\uc138\uc11c\ub97c \ucd9c\uc2dc\ud588\ub2e4. \uc774\ubc88 \ud504\ub85c\uc138..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:09",
-      "message": "Reprocessing: AMD\u2019s EPYC Venice, Instinct MI455X, & Helios Hardware On Display for First Time at CES 2026"
-    },
-    {
-      "timestamp": "2026-01-08 18:47:10",
-      "message": "[PROCESSING] Analyzing: AMD\u2019s EPYC Venice, Instinct MI455X, & Helios Hardware On Display for First Time at CES 2026..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:16",
-      "message": "[SUCCESS] Processed: AMD\uc758 EPYC \ubca0\ub2c8\uc2a4, \uc778\uc2a4\ud305\ud2b8 MI455X \ubc0f \ud5ec\ub9ac\uc624\uc2a4 \ud558\ub4dc\uc6e8\uc5b4\uac00 CES 2026\uc5d0\uc11c \ucc98\uc74c\uc73c\ub85c \uacf5\uac1c\ub428\n  > Summary: AMD\ub294 CES 2026 \ud0a4\ub178\ud2b8\uc5d0\uc11c \ud074\ub77c\uc774\uc5b8\ud2b8 \uc911\uc2ec\uc758 \ud558\ub4dc\uc6e8\uc5b4 \ubc1c\ud45c\uc640 \ud568\uaed8 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:18",
-      "message": "Reprocessing: AMD Teases Ryzen AI Halo, a ROCm Ecosystem AI Development Mini-PC"
-    },
-    {
-      "timestamp": "2026-01-08 18:47:19",
-      "message": "[PROCESSING] Analyzing: AMD Teases Ryzen AI Halo, a ROCm Ecosystem AI Development Mini-PC..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:24",
-      "message": "[SUCCESS] Processed: AMD, Ryzen AI Halo\ub77c\ub294 ROCm \uc0dd\ud0dc\uacc4 AI \uac1c\ubc1c \ubbf8\ub2c8 PC\ub97c \uc608\uace0\ud558\ub2e4\n  > Summary: AMD\ub294 CES 2026 \uac1c\ub9c9 \uae30\uc870\uc5f0\uc124\uc5d0\uc11c Dr. Lisa Su CEO\uac00 'Ryzen AI..."
-    },
-    {
-      "timestamp": "2026-01-08 18:47:25",
-      "message": "Completed! New: 7, Updated: 43"
-    },
-    {
-      "timestamp": "2026-01-08 18:47:29",
-      "message": "Saved 50 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-08 18:47:32",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-08 19:48:06",
+      "message": "[PROCESSING] Analyzing: YouTube will now let you filter Shorts out of search results..."
     }
   ]
 }
