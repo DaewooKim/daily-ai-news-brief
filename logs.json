@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 17:37:07",
+  "last_updated": "2026-01-08 17:37:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 17:36:23",
-      "message": "[SUCCESS] Processed: NVIDIA \ube14\ub799\uc6f0\uc5d0\uc11c \ud63c\ud569 \uc804\ubb38\uac00 \ucd94\ub860\uc744 \uc704\ud55c \ubc29\ub300\ud55c \uc131\ub2a5 \ub3c4\uc57d \uc81c\uacf5\n  > Summary: AI \ubaa8\ub378\uc774 \uc810\uc810 \ub354 \uc2a4\ub9c8\ud2b8\ud574\uc9d0\uc5d0 \ub530\ub77c \uc0ac\uc6a9\uc790\ub4e4\uc740 \ub2e4\uc591\ud55c \uc791\uc5c5\uc5d0 \uc758\uc874\ud558\uac8c \ub429\ub2c8\ub2e4. \uc774\uc5d0 \ub530..."
-    },
     {
       "timestamp": "2026-01-08 17:36:25",
       "message": "[PROCESSING] Analyzing: Nvidia\u2019s reportedly asking Chinese customers to pay upfront for its H200 AI chips..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 17:37:07",
       "message": "[PROCESSING] Analyzing: Manufacturing Contracts for 10th Month in December..."
+    },
+    {
+      "timestamp": "2026-01-08 17:37:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Manufacturing Contracts for 10th Month in December"
     }
   ]
 }
