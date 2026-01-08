@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 05:30:21",
+  "last_updated": "2026-01-08 05:30:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 05:29:41",
-      "message": "[SUCCESS] Processed: GSME\uac00 3,500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \ud655\ubcf4\n  > Summary: GS Microelectronics U.S., Inc. (GSME)\ub294 \ub9c8\ubca0\ub9ad \uc2e4\ub9ac\ucf58\uc758 \uc8fc\ub3c4..."
-    },
     {
       "timestamp": "2026-01-08 05:29:43",
       "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 05:30:21",
       "message": "Reprocessing: Samsung forecasts record-breaking profit on booming AI chip demand"
+    },
+    {
+      "timestamp": "2026-01-08 05:30:23",
+      "message": "[SKIP] Content too short: Samsung forecasts record-break..."
     }
   ]
 }
