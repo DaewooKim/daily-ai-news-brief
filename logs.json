@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 12:36:02",
+  "last_updated": "2026-01-08 12:36:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 12:35:25",
-      "message": "Reprocessing: xAI says it raised $20B in Series E funding"
-    },
     {
       "timestamp": "2026-01-08 12:35:27",
       "message": "[PROCESSING] Analyzing: xAI says it raised $20B in Series E funding..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 12:36:02",
       "message": "[PROCESSING] Analyzing: What Colocation Providers Do \u2013 and Don\u2019t Do \u2013 for Your Infrastructure..."
+    },
+    {
+      "timestamp": "2026-01-08 12:36:04",
+      "message": "[SKIP] Irrelevant (AI Filter): What Colocation Providers Do \u2013 and Don\u2019t Do \u2013 for Your Infrastructure"
     }
   ]
 }
