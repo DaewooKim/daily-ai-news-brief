@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 13:38:49",
+  "last_updated": "2026-01-08 13:38:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 13:38:08",
-      "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
-    },
     {
       "timestamp": "2026-01-08 13:38:09",
       "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 13:38:49",
       "message": "[PROCESSING] Analyzing: Airbus A320 Recall: Rethinking Fault Testing In Aerospace..."
+    },
+    {
+      "timestamp": "2026-01-08 13:38:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Airbus A320 Recall: Rethinking Fault Testing In Aerospace"
     }
   ]
 }
