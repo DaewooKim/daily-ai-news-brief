@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 20:55:50",
+  "last_updated": "2026-01-08 20:55:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 20:55:06",
-      "message": "[PROCESSING] Analyzing: OpenAI for Healthcare..."
-    },
     {
       "timestamp": "2026-01-08 20:55:10",
       "message": "[SUCCESS] Processed: \uc624\ud508AI \uc758\ub8cc\uc6a9\n  > Summary: \uc624\ud508AI \uc758\ub8cc\uc6a9\uc740 HIPAA \uc900\uc218\ub97c \uc9c0\uc6d0\ud558\ub294 \ubcf4\uc548\uc131 \ub192\uc740 \uae30\uc5c5\uc6a9 AI\ub97c \uc81c\uacf5\ud558\uc5ec, \ud589\uc815 \ubd80..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 20:55:50",
       "message": "[PROCESSING] Analyzing: Manufacturing Contracts for 10th Month in December..."
+    },
+    {
+      "timestamp": "2026-01-08 20:55:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Manufacturing Contracts for 10th Month in December"
     }
   ]
 }
