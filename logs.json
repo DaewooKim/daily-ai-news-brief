@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 00:19:14",
+  "last_updated": "2026-01-08 00:19:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 00:18:38",
-      "message": "[SUCCESS] Processed: GSME, 3,500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \ud655\ubcf4\n  > Summary: GS \ub9c8\uc774\ud06c\ub85c\uc77c\ub809\ud2b8\ub85c\ub2c9\uc2a4\ub294 \uc624\ub298 3,500\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 B \ub77c\uc6b4\ub4dc\ub97c \ubc1c\ud45c\ud558\uba70 \ubc18\ub3c4\uccb4 \uc11c..."
-    },
     {
       "timestamp": "2026-01-08 00:18:39",
       "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 00:19:14",
       "message": "[SKIP] Content too short: Chinese regulators probe Meta\u2019..."
+    },
+    {
+      "timestamp": "2026-01-08 00:19:15",
+      "message": "Reprocessing: Cyera researchers detail critical \u2018Ni8mare\u2019 vulnerability allowing full takeover of n8n instances"
     }
   ]
 }
