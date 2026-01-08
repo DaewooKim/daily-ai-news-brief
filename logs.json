@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 10:33:27",
+  "last_updated": "2026-01-08 10:33:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 10:32:51",
-      "message": "[PROCESSING] Analyzing: Chase is taking over Apple&#8217;s credit card..."
-    },
     {
       "timestamp": "2026-01-08 10:32:53",
       "message": "[SKIP] Irrelevant (AI Filter): Chase is taking over Apple&#8217;s credit card"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 10:33:27",
       "message": "[PROCESSING] Analyzing: Meta\u2019s Manus news is getting different receptions in Washington and Beijing..."
+    },
+    {
+      "timestamp": "2026-01-08 10:33:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta\u2019s Manus news is getting different receptions in Washington and Beijing"
     }
   ]
 }
