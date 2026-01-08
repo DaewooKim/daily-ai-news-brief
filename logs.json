@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 22:01:07",
+  "last_updated": "2026-01-08 22:01:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 22:00:26",
-      "message": "[PROCESSING] Analyzing: The coolest laptops we saw at CES 2026..."
-    },
     {
       "timestamp": "2026-01-08 22:00:28",
       "message": "[SKIP] Irrelevant (AI Filter): The coolest laptops we saw at CES 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 22:01:07",
       "message": "[SUCCESS] Processed: GenAI\uc640 \ud504\ub860\ud2b8 \uc5d4\ub4dc \uc5c5\uadf8\ub808\uc774\ub4dc\uc5d0 \uc758\ud574 \uc774\ub354\ub137 \uc2a4\uc704\uce6d\uc774 \uc0c8\ub85c\uc6b4 \ucd5c\uace0 \uae30\ub85d\uc744 \uc138\uc6b0\ub2e4\n  > Summary: \uc774\ub354\ub137 \uc2a4\uc704\uce58\uc758 \ud310\ub9e4\uac00 \uc99d\uac00\ud558\uace0 \uc788\uc73c\uba70, \uc774\ub294 \uac70\ub300\ud55c AI \ud074\ub7ec\uc2a4\ud130\ub97c \uc9c0\uc6d0\ud558\ub294 \ub370 \uc911\uc694\ud55c ..."
+    },
+    {
+      "timestamp": "2026-01-08 22:01:08",
+      "message": "Reprocessing: D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy"
     }
   ]
 }
