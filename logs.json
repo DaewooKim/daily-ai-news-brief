@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 16:33:13",
+  "last_updated": "2026-01-08 16:33:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 16:32:29",
-      "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
-    },
     {
       "timestamp": "2026-01-08 16:32:31",
       "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 16:33:13",
       "message": "Reprocessing: SAP expands AI options for retailers"
+    },
+    {
+      "timestamp": "2026-01-08 16:33:15",
+      "message": "[SKIP] Content too short: SAP expands AI options for ret..."
     }
   ]
 }
