@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 17:36:03",
+  "last_updated": "2026-01-08 17:36:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 17:35:14",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-08 17:35:14",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 17:36:03",
       "message": "[PROCESSING] Analyzing: You can score a refurbished Sonos Arc SL soundbar for just $320..."
+    },
+    {
+      "timestamp": "2026-01-08 17:36:05",
+      "message": "[SKIP] Irrelevant (AI Filter): You can score a refurbished Sonos Arc SL soundbar for just $320"
     }
   ]
 }
