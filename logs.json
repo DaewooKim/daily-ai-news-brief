@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 02:00:48",
+  "last_updated": "2026-01-08 02:00:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 02:00:02",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-08 02:00:18",
       "message": "Found 139 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 02:00:48",
       "message": "[SKIP] Irrelevant (AI Filter): D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy"
+    },
+    {
+      "timestamp": "2026-01-08 02:00:50",
+      "message": "Reprocessing: OpenAI unveils ChatGPT Health, says 230 million users ask about health each week"
     }
   ]
 }
