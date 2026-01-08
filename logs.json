@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 12:17:18",
+  "last_updated": "2026-01-08 12:17:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 12:16:43",
-      "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
-    },
     {
       "timestamp": "2026-01-08 12:16:45",
       "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 12:17:18",
       "message": "Reprocessing: Anthropic reportedly seeking to raise $10B at $350B valuation"
+    },
+    {
+      "timestamp": "2026-01-08 12:17:20",
+      "message": "[SKIP] Content too short: Anthropic reportedly seeking t..."
     }
   ]
 }
