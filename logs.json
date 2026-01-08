@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 04:47:27",
+  "last_updated": "2026-01-08 04:47:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 04:46:53",
-      "message": "Reprocessing: xAI says it raised $20B in Series E funding"
-    },
     {
       "timestamp": "2026-01-08 04:46:54",
       "message": "[PROCESSING] Analyzing: xAI says it raised $20B in Series E funding..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 04:47:27",
       "message": "[PROCESSING] Analyzing: GTR Secures $2B to Supercharge European Data Center Expansion..."
+    },
+    {
+      "timestamp": "2026-01-08 04:47:29",
+      "message": "[SKIP] Irrelevant (AI Filter): GTR Secures $2B to Supercharge European Data Center Expansion"
     }
   ]
 }
