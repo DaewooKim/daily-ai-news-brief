@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 09:53:21",
+  "last_updated": "2026-01-08 09:53:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 09:52:47",
-      "message": "[SUCCESS] Processed: OpenAI, ChatGPT Health \uacf5\uac1c, \ub9e4\uc8fc 2\uc5b5 3\ucc9c\ub9cc \uc0ac\uc6a9\uc790\uac00 \uac74\uac15\uc5d0 \ub300\ud574 \uc9c8\ubb38\ud55c\ub2e4\n  > Summary: OpenAI\ub294 \uc55e\uc73c\ub85c \uba87 \uc8fc \uc548\uc5d0 ChatGPT Health \uae30\ub2a5\uc744 \uacf5\uac1c\ud560 \uc608\uc815\uc774\uba70, \uc774\ub294..."
-    },
     {
       "timestamp": "2026-01-08 09:52:48",
       "message": "[PROCESSING] Analyzing: Intel spinout Articul8 raises more than half of $70M round at $500M valuation..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 09:53:21",
       "message": "[PROCESSING] Analyzing: TSMC to Lead Rivals at 2-nm Node, Analysts Say..."
+    },
+    {
+      "timestamp": "2026-01-08 09:53:23",
+      "message": "[SKIP] Irrelevant (AI Filter): TSMC to Lead Rivals at 2-nm Node, Analysts Say"
     }
   ]
 }
