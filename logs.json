@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 22:02:08",
+  "last_updated": "2026-01-08 22:02:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 22:01:28",
-      "message": "[SUCCESS] Processed: \ub137\ud1a0\ubbf8\uc758 \uc5d0\uc774\uc804\ud2b8 \uc2dc\uc2a4\ud15c\uc744 \uae30\uc5c5\uc5d0 \ud655\uc7a5\ud558\ub294 \uad50\ud6c8\n  > Summary: \ub137\ud1a0\ubbf8\ub294 GPT-4.1\uacfc GPT-5.2\ub97c \ud65c\uc6a9\ud558\uc5ec \uae30\uc5c5 AI \uc5d0\uc774\uc804\ud2b8\ub97c \ud655\uc7a5\ud558\ub294 \ubc29\ubc95\uc5d0 \ub300..."
-    },
     {
       "timestamp": "2026-01-08 22:01:29",
       "message": "Reprocessing: OpenAI to acquire the team behind executive coaching AI tool Convogo"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 22:02:08",
       "message": "[PROCESSING] Analyzing: Manufacturing Contracts for 10th Month in December..."
+    },
+    {
+      "timestamp": "2026-01-08 22:02:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Manufacturing Contracts for 10th Month in December"
     }
   ]
 }
