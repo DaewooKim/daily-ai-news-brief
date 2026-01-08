@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 12:55:19",
+  "last_updated": "2026-01-08 12:55:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 12:54:34",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-08 12:54:34",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 12:55:19",
       "message": "[PROCESSING] Analyzing: The best deals on MacBooks right now..."
+    },
+    {
+      "timestamp": "2026-01-08 12:55:21",
+      "message": "[SKIP] Irrelevant (AI Filter): The best deals on MacBooks right now"
     }
   ]
 }
