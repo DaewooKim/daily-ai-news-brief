@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 07:51:41",
+  "last_updated": "2026-01-08 07:51:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 07:50:58",
-      "message": "Reprocessing: CES 2026: AMD Targets Data Center with Instinct GPU Additions"
-    },
     {
       "timestamp": "2026-01-08 07:50:59",
       "message": "[PROCESSING] Analyzing: CES 2026: AMD Targets Data Center with Instinct GPU Additions..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 07:51:41",
       "message": "[PROCESSING] Analyzing: Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers (Bill Toulas/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-01-08 07:51:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers (Bill Toulas/BleepingComputer)"
     }
   ]
 }
