@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 05:48:07",
+  "last_updated": "2026-01-08 05:48:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 05:47:22",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-08 05:47:34",
       "message": "Found 135 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 05:48:07",
       "message": "[SUCCESS] Processed: NVIDIA \ube14\ub799\uc6f0\uc5d0\uc11c \uc804\ubb38\uac00 \ud63c\ud569 \ucd94\ub860\uc744 \uc704\ud55c \uc5c4\uccad\ub09c \uc131\ub2a5 \ub3c4\uc57d \uc81c\uacf5\n  > Summary: AI \ubaa8\ub378\uc774 \uc810\uc810 \ub354 \ub611\ub611\ud574\uc9d0\uc5d0 \ub530\ub77c \uc0ac\uc6a9\uc790\ub294 \uc810\uc810 \ub354 \ub9ce\uc740 \uc791\uc5c5\uc744 \ub9e1\uae38 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4...."
+    },
+    {
+      "timestamp": "2026-01-08 05:48:08",
+      "message": "Reprocessing: OpenAI unveils ChatGPT Health, says 230 million users ask about health each week"
     }
   ]
 }
