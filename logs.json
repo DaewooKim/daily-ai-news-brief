@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 00:18:04",
+  "last_updated": "2026-01-08 00:18:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 00:17:30",
-      "message": "[PROCESSING] Analyzing: Samsung expects Q4 operating profit up 208% YoY to ~$13.8B, vs. ~$12.3B est., and revenue up 23% to ~$64.2B, as demand for AI servers lifted memory chip prices (Yoolim Lee/Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-08 00:17:34",
       "message": "[SUCCESS] Processed: \uc0bc\uc131, Q4 \uc6b4\uc601 \uc774\uc775 208% \uc99d\uac00 \uc608\uc0c1, \uc57d 138\uc5b5 \ub2ec\ub7ec\n  > Summary: \uc0bc\uc131\uc774 4\ubd84\uae30 \uc6b4\uc601 \uc774\uc775\uc774 208% \uc99d\uac00\ud558\uc5ec \uc57d 138\uc5b5 \ub2ec\ub7ec\uc5d0 \uc774\ub97c \uac83\uc73c\ub85c \uc608\uc0c1\ud558\uace0 \uc788\uc73c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 00:18:04",
       "message": "[PROCESSING] Analyzing: Source: Ant Group's Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant's total 2025 revenue, as it competes with Visa (Jing Yang/The Information)..."
+    },
+    {
+      "timestamp": "2026-01-08 00:18:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Ant Group's Ant International grew revenue by 20% to 25% in 2025 to an estimated $3.7B, or ~10% of Ant's total 2025 revenue, as it competes with Visa (Jing Yang/The Information)"
     }
   ]
 }
