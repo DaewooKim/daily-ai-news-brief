@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 13:16:03",
+  "last_updated": "2026-01-08 13:16:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 13:15:18",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-08 13:15:18",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 13:16:03",
       "message": "[PROCESSING] Analyzing: Bluetti now charges power stations at up to 1200W in your car..."
+    },
+    {
+      "timestamp": "2026-01-08 13:16:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Bluetti now charges power stations at up to 1200W in your car"
     }
   ]
 }
