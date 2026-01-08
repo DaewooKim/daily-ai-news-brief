@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 00:37:09",
+  "last_updated": "2026-01-08 00:37:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 00:36:34",
-      "message": "[PROCESSING] Analyzing: Chase is taking over Apple&#8217;s credit card..."
-    },
     {
       "timestamp": "2026-01-08 00:36:36",
       "message": "[SKIP] Irrelevant (AI Filter): Chase is taking over Apple&#8217;s credit card"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 00:37:09",
       "message": "[PROCESSING] Analyzing: Intel spinout Articul8 raises more than half of $70M round at $500M valuation..."
+    },
+    {
+      "timestamp": "2026-01-08 00:37:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Intel spinout Articul8 raises more than half of $70M round at $500M valuation"
     }
   ]
 }
