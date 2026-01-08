@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 13:19:05",
+  "last_updated": "2026-01-08 13:19:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 13:18:30",
-      "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
-    },
     {
       "timestamp": "2026-01-08 13:18:32",
       "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 13:19:05",
       "message": "Reprocessing: OpenAI introduces ChatGPT Health to answer users\u2019 medical questions"
+    },
+    {
+      "timestamp": "2026-01-08 13:19:07",
+      "message": "[SKIP] Content too short: OpenAI introduces ChatGPT Heal..."
     }
   ]
 }
