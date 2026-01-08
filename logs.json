@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-08 01:01:06",
+  "last_updated": "2026-01-08 01:01:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-08 01:00:27",
-      "message": "[SUCCESS] Processed: GSME, 3500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \ud655\ubcf4\n  > Summary: GS Microelectronics U.S., Inc. (GSME)\ub294 \ucca8\ub2e8 \ubc18\ub3c4\uccb4 \uc11c\ube44\uc2a4 ..."
-    },
     {
       "timestamp": "2026-01-08 01:00:28",
       "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-08 01:01:06",
       "message": "[SKIP] Content too short: Chinese regulators probe Meta\u2019..."
+    },
+    {
+      "timestamp": "2026-01-08 01:01:07",
+      "message": "Reprocessing: Cyera researchers detail critical \u2018Ni8mare\u2019 vulnerability allowing full takeover of n8n instances"
     }
   ]
 }
