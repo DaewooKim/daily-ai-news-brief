@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 14:22:09",
+  "last_updated": "2026-01-09 14:22:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 14:21:25",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-01-09 14:21:26",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 14:22:09",
       "message": "[PROCESSING] Analyzing: Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one..."
+    },
+    {
+      "timestamp": "2026-01-09 14:22:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one"
     }
   ]
 }
