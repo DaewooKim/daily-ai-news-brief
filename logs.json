@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 14:22:13",
+  "last_updated": "2026-01-09 14:22:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 14:21:26",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-09 14:21:37",
       "message": "Found 132 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 14:22:13",
       "message": "[PROCESSING] Analyzing: The best Apple Watch to buy..."
+    },
+    {
+      "timestamp": "2026-01-09 14:22:15",
+      "message": "[SKIP] Irrelevant (AI Filter): The best Apple Watch to buy"
     }
   ]
 }
