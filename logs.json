@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 10:04:02",
+  "last_updated": "2026-01-09 10:04:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 10:03:23",
-      "message": "Reprocessing: Chip Industry Week in Review"
-    },
     {
       "timestamp": "2026-01-09 10:03:24",
       "message": "[PROCESSING] Analyzing: Chip Industry Week in Review..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 10:04:02",
       "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
+    },
+    {
+      "timestamp": "2026-01-09 10:04:05",
+      "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
     }
   ]
 }
