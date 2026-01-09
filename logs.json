@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 11:07:04",
+  "last_updated": "2026-01-09 11:07:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 11:06:28",
-      "message": "Found 132 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-09 11:06:28",
       "message": "[PROCESSING] Analyzing: Microsoft\u00a0is making it much easier to add hyperlinks in Word docs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 11:07:04",
       "message": "[PROCESSING] Analyzing: D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy..."
+    },
+    {
+      "timestamp": "2026-01-09 11:07:06",
+      "message": "[SKIP] Irrelevant (AI Filter): D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy"
     }
   ]
 }
