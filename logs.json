@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 03:33:25",
+  "last_updated": "2026-01-09 03:33:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 03:32:52",
-      "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
-    },
     {
       "timestamp": "2026-01-09 03:32:54",
       "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 03:33:25",
       "message": "Reprocessing: Strava makes confidential IPO filing as subscriptions and revenue grow"
+    },
+    {
+      "timestamp": "2026-01-09 03:33:26",
+      "message": "[SKIP] Content too short: Strava makes confidential IPO ..."
     }
   ]
 }
