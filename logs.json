@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 08:59:01",
+  "last_updated": "2026-01-09 08:59:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 08:58:31",
-      "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
-    },
     {
       "timestamp": "2026-01-09 08:58:33",
       "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 08:59:01",
       "message": "Reprocessing: Snowflake acquires Observe to enhance its observability capabilities"
+    },
+    {
+      "timestamp": "2026-01-09 08:59:03",
+      "message": "[SKIP] Content too short: Snowflake acquires Observe to ..."
     }
   ]
 }
