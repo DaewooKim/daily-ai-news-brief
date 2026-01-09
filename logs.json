@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 20:59:27",
+  "last_updated": "2026-01-09 20:59:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 20:58:49",
-      "message": "[SUCCESS] Processed: CES 2026: \ub85c\ubd07\uacfc AI \uc911\uc2ec\uc758 \uc774 \ud589\uc0ac \ub9c9\ubc14\uc9c0\uc5d0\uc11c \ucd5c\uace0\uc758, \uc774\uc0c1\ud55c, \uac00\uc7a5 \ud765\ubbf8\ub85c\uc6b4 \uae30\uc220\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \ud655\uc778\ud558\uc138\uc694\n  > Summary: CES 2026\uc774 \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uc5f4\ub9ac\uace0 \uc788\uc73c\uba70, TechCrunch \uae30\uc790\ub4e4\uc774 \ud604\uc7a5\uc5d0\uc11c \ucd5c\uc2e0..."
-    },
     {
       "timestamp": "2026-01-09 20:58:50",
       "message": "[PROCESSING] Analyzing: Meta signs deals with three nuclear companies for 6-plus GW of power..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 20:59:27",
       "message": "[PROCESSING] Analyzing: Defending at Scale: The Importance of People in Data Center Security..."
+    },
+    {
+      "timestamp": "2026-01-09 20:59:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Defending at Scale: The Importance of People in Data Center Security"
     }
   ]
 }
