@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 08:56:17",
+  "last_updated": "2026-01-09 08:56:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 08:55:42",
-      "message": "Found 133 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-09 08:55:42",
       "message": "[PROCESSING] Analyzing: Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 08:56:17",
       "message": "[PROCESSING] Analyzing: D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy..."
+    },
+    {
+      "timestamp": "2026-01-09 08:56:19",
+      "message": "[SKIP] Irrelevant (AI Filter): D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy"
     }
   ]
 }
