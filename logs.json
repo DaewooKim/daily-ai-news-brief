@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 01:21:09",
+  "last_updated": "2026-01-09 01:21:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 01:20:30",
-      "message": "[PROCESSING] Analyzing: Docs: xAI had a net loss of $1.46B in Q3, up from $1B in Q1; sources: xAI told investors it plans to build AI that will eventually power Optimus humanoid robots (Carmen Arroyo/Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-09 01:20:36",
       "message": "[SUCCESS] Processed: \ubb38\uc11c: xAI\uac00 3\ubd84\uae30\uc5d0 14\uc5b5 6\ucc9c\ub9cc \ub2ec\ub7ec\uc758 \uc21c\uc190\uc2e4\uc744 \uae30\ub85d\ud588\uc73c\uba70, 1\ubd84\uae30\ubcf4\ub2e4 \uc99d\uac00\ud588\uc2b5\ub2c8\ub2e4; \uc18c\uc2dd\ud1b5\uc5d0 \ub530\ub974\uba74 xAI\ub294 \ud22c\uc790\uc790\ub4e4\uc5d0\uac8c \uc635\ud2f0\uba38\uc2a4 \ud734\uba38\ub178\uc774\ub4dc \ub85c\ubd07\uc744 \uad6c\ub3d9\ud560 AI\ub97c \ub9cc\ub4e4 \uacc4\ud68d\uc774\ub77c\uace0 \uc54c\ub838\uc2b5\ub2c8\ub2e4.\n  > Summary: \uc5d8\ub860 \uba38\uc2a4\ud06c\uc758 \uc778\uacf5\uc9c0\ub2a5 \uc2a4\ud0c0\ud2b8\uc5c5 xAI\ub294 \ub370\uc774\ud130\ub97c \uc800\uc7a5\ud558\uae30 \uc704\ud574 \ub9ce\uc740 \uc790\uae08\uc744 \uc18c\ubaa8\ud558\uba70 \ube60\ub978..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 01:21:09",
       "message": "[PROCESSING] Analyzing: NetBlocks says internet connectivity in Iran has fallen on multiple providers as protests hit 100+ cities; Cloudflare says IPv6 traffic has dropped sharply (Cody Combs/The National)..."
+    },
+    {
+      "timestamp": "2026-01-09 01:21:10",
+      "message": "[SKIP] Irrelevant (AI Filter): NetBlocks says internet connectivity in Iran has fallen on multiple providers as protests hit 100+ cities; Cloudflare says IPv6 traffic has dropped sharply (Cody Combs/The National)"
     }
   ]
 }
