@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 07:51:46",
+  "last_updated": "2026-01-10 07:51:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 07:50:39",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-10 07:51:04",
       "message": "Found 124 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 07:51:46",
       "message": "[PROCESSING] Analyzing: The first sets with Lego\u2019s new Smart Brick are now available for preorder..."
+    },
+    {
+      "timestamp": "2026-01-10 07:51:48",
+      "message": "[SKIP] Irrelevant (AI Filter): The first sets with Lego\u2019s new Smart Brick are now available for preorder"
     }
   ]
 }
