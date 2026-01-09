@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 19:53:00",
+  "last_updated": "2026-01-09 19:53:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 19:52:19",
-      "message": "[PROCESSING] Analyzing: CES 2026 was all about \u2018physical AI\u2019 and robots, robots, robots..."
-    },
     {
       "timestamp": "2026-01-09 19:52:24",
       "message": "[SUCCESS] Processed: CES 2026\uc740 '\ubb3c\ub9ac\uc801 AI'\uc640 \ub85c\ubd07\uc744 \uc8fc\uc81c\ub85c \ud588\ub2e4\n  > Summary: 2026\ub144 CES\uc5d0\uc11c\ub294 AI\uac00 \ud654\uba74\uc744 \ub118\uc5b4 \ubb3c\ub9ac\uc801\uc778 \uc138\uacc4\ub85c \uc9c4\ucd9c\ud558\ub294 \ubaa8\uc2b5\uc774 \ub208\uc5d0 \ub744\uac8c \ub098\ud0c0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 19:53:00",
       "message": "[PROCESSING] Analyzing: Defending at Scale: The Importance of People in Data Center Security..."
+    },
+    {
+      "timestamp": "2026-01-09 19:53:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Defending at Scale: The Importance of People in Data Center Security"
     }
   ]
 }
