@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 15:27:50",
+  "last_updated": "2026-01-09 15:27:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 15:27:00",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-09 15:27:00",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 15:27:50",
       "message": "[PROCESSING] Analyzing: Microsoft\u00a0is making it much easier to add hyperlinks in Word docs..."
+    },
+    {
+      "timestamp": "2026-01-09 15:27:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft\u00a0is making it much easier to add hyperlinks in Word docs"
     }
   ]
 }
