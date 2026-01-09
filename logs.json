@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 21:01:12",
+  "last_updated": "2026-01-09 21:01:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 21:00:29",
-      "message": "[SUCCESS] Processed: X\ub294 \ubb34\ub8cc \uc0ac\uc6a9\uc790\uc5d0 \ub300\ud574 @grok \uba85\ub839\uc5b4\ub97c \ud1b5\ud574 Grok\uc758 \uc774\ubbf8\uc9c0 \uae30\ub2a5\uc744 \uc81c\ud55c\ud558\uace0 \uc788\uc9c0\ub9cc, \uc5ec\uc804\ud788 X\uc758 \"\uc774\ubbf8\uc9c0 \ud3b8\uc9d1\" \ub610\ub294 Grok\uc758 \uc571\uc744 \ud1b5\ud574 \uc131\uc801 \ub525\ud398\uc774\ud06c\ub97c \ub9cc\ub4e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: X\ub294 \ubb34\ub8cc \uc0ac\uc6a9\uc790\uc5d0 \ub300\ud574 Grok\uc758 \uc774\ubbf8\uc9c0 \uae30\ub2a5\uc744 \uc81c\ud55c\ud558\uace0 \uc788\uc9c0\ub9cc, \uc0ac\uc6a9\uc790\ub294 \uc5ec\uc804\ud788 X\uc758 ..."
-    },
     {
       "timestamp": "2026-01-09 21:00:30",
       "message": "[PROCESSING] Analyzing: The EU says it is considering designating WhatsApp a \"very large platform\", after Meta published WhatsApp user numbers above the DSA threshold in February 2025 (Louise Breusch Rasmussen/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 21:01:12",
       "message": "[PROCESSING] Analyzing: Greene Tweed Highlights Dedicated PFAS-Free Product Portfolio for the Evolving Fluoropolymers Landscape..."
+    },
+    {
+      "timestamp": "2026-01-09 21:01:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Greene Tweed Highlights Dedicated PFAS-Free Product Portfolio for the Evolving Fluoropolymers Landscape"
     }
   ]
 }
