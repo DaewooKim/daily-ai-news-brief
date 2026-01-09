@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 18:45:16",
+  "last_updated": "2026-01-09 18:45:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 18:44:40",
-      "message": "Found 136 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-09 18:44:40",
       "message": "[PROCESSING] Analyzing: Black Mirror has been renewed for another season..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 18:45:16",
       "message": "[PROCESSING] Analyzing: D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy..."
+    },
+    {
+      "timestamp": "2026-01-09 18:45:18",
+      "message": "[SKIP] Irrelevant (AI Filter): D-Wave Makes Gate-Model Power Move With Quantum Circuits Buy"
     }
   ]
 }
