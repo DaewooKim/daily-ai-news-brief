@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 03:31:31",
+  "last_updated": "2026-01-09 03:31:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 03:30:53",
-      "message": "Reprocessing: The most bizarre tech announced so far at CES 2026"
-    },
     {
       "timestamp": "2026-01-09 03:30:54",
       "message": "[PROCESSING] Analyzing: The most bizarre tech announced so far at CES 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 03:31:31",
       "message": "[PROCESSING] Analyzing: TSMC to Lead Rivals at 2-nm Node, Analysts Say..."
+    },
+    {
+      "timestamp": "2026-01-09 03:31:33",
+      "message": "[SKIP] Irrelevant (AI Filter): TSMC to Lead Rivals at 2-nm Node, Analysts Say"
     }
   ]
 }
