@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 16:33:40",
+  "last_updated": "2026-01-09 16:33:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 16:32:51",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-09 16:33:05",
       "message": "Found 135 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 16:33:40",
       "message": "[PROCESSING] Analyzing: Reality still matters..."
+    },
+    {
+      "timestamp": "2026-01-09 16:33:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Reality still matters"
     }
   ]
 }
