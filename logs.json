@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 17:39:26",
+  "last_updated": "2026-01-09 17:39:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 17:38:44",
-      "message": "Found 137 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-09 17:38:44",
       "message": "[PROCESSING] Analyzing: The first sets with Lego\u2019s new Smart Brick are now available for preorder..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 17:39:26",
       "message": "[PROCESSING] Analyzing: The best tech announced at CES 2026 so far..."
+    },
+    {
+      "timestamp": "2026-01-09 17:39:28",
+      "message": "[SKIP] Irrelevant (AI Filter): The best tech announced at CES 2026 so far"
     }
   ]
 }
