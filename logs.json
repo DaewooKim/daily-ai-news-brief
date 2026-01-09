@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 19:54:08",
+  "last_updated": "2026-01-09 19:54:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 19:53:18",
-      "message": "[PROCESSING] Analyzing: OpenAI and SoftBank says they will each invest $500M in SB Energy to support the infrastructure company's growth as a data center developer and operator (Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-09 19:53:22",
       "message": "[SUCCESS] Processed: OpenAI\uc640 \uc18c\ud504\ud2b8\ubc45\ud06c, \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5c5\uccb4 SB \uc5d0\ub108\uc9c0\uc5d0 \uac01 5\uc5b5 \ub2ec\ub7ec \ud22c\uc790\n  > Summary: OpenAI\uc640 \uc18c\ud504\ud2b8\ubc45\ud06c\uac00 SB \uc5d0\ub108\uc9c0\uc5d0 \uac01\uac01 5\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud558\uae30\ub85c \ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud22c\uc790\ub294..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 19:54:08",
       "message": "[PROCESSING] Analyzing: Meta strikes a 20-year deal to buy 2,600+ MW of nuclear power from three Vistra plants, and announces deals to back new TerraPower and Oklo reactor projects (Jennifer Hiller/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-01-09 19:54:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta strikes a 20-year deal to buy 2,600+ MW of nuclear power from three Vistra plants, and announces deals to back new TerraPower and Oklo reactor projects (Jennifer Hiller/Wall Street Journal)"
     }
   ]
 }
