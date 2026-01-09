@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 15:27:54",
+  "last_updated": "2026-01-09 15:27:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 15:27:15",
-      "message": "Found 131 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-09 15:27:15",
       "message": "[PROCESSING] Analyzing: CES 2026 was awash in bodily fluids..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 15:27:54",
       "message": "[PROCESSING] Analyzing: Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one..."
+    },
+    {
+      "timestamp": "2026-01-09 15:27:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one"
     }
   ]
 }
