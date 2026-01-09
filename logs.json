@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 14:24:18",
+  "last_updated": "2026-01-09 14:24:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 14:23:45",
-      "message": "[PROCESSING] Analyzing: The EU says it is considering designating WhatsApp a \"very large platform\", after WhatsApp published user numbers above the DSA threshold in February 2025 (Louise Breusch Rasmussen/Reuters)..."
-    },
     {
       "timestamp": "2026-01-09 14:23:47",
       "message": "[SKIP] Irrelevant (AI Filter): The EU says it is considering designating WhatsApp a \"very large platform\", after WhatsApp published user numbers above the DSA threshold in February 2025 (Louise Breusch Rasmussen/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 14:24:18",
       "message": "[PROCESSING] Analyzing: Airbus A320 Recall: Rethinking Fault Testing In Aerospace..."
+    },
+    {
+      "timestamp": "2026-01-09 14:24:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Airbus A320 Recall: Rethinking Fault Testing In Aerospace"
     }
   ]
 }
