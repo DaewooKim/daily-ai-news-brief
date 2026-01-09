@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 18:46:20",
+  "last_updated": "2026-01-09 18:46:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 18:45:36",
-      "message": "[SUCCESS] Processed: Datadog, Codex\ub97c \uc0ac\uc6a9\ud55c \uc2dc\uc2a4\ud15c \uc218\uc900 \ucf54\ub4dc \ub9ac\ubdf0\n  > Summary: OpenAI\uc758 Codex\ub97c \ud65c\uc6a9\ud558\uc5ec Datadog\uc774 \uc2dc\uc2a4\ud15c \uc218\uc900\uc5d0\uc11c \ucf54\ub4dc \ub9ac\ubdf0\ub97c \uc218\ud589\ud558\uace0 ..."
-    },
     {
       "timestamp": "2026-01-09 18:45:37",
       "message": "[PROCESSING] Analyzing: CES 2026 was all about \u2018physical AI\u2019 and robots, robots, robots..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 18:46:20",
       "message": "[PROCESSING] Analyzing: EE Awards Asia: Mapping Five Years of Electronics Innovation..."
+    },
+    {
+      "timestamp": "2026-01-09 18:46:22",
+      "message": "[SKIP] Irrelevant (AI Filter): EE Awards Asia: Mapping Five Years of Electronics Innovation"
     }
   ]
 }
