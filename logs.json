@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 10:01:28",
+  "last_updated": "2026-01-09 10:01:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 10:00:40",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-01-09 10:00:41",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 10:01:28",
       "message": "[PROCESSING] Analyzing: The best deals on 4K TVs..."
+    },
+    {
+      "timestamp": "2026-01-09 10:01:30",
+      "message": "[SKIP] Irrelevant (AI Filter): The best deals on 4K TVs"
     }
   ]
 }
