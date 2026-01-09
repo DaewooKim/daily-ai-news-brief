@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 18:45:52",
+  "last_updated": "2026-01-09 18:45:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 18:45:07",
-      "message": "[PROCESSING] Analyzing: The Vergecast Live at CES 2026: What is the point of a robot that falls over?..."
-    },
     {
       "timestamp": "2026-01-09 18:45:13",
       "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c\uc758 \ub354 \ubc8c\uc9c0\uce90\uc2a4\ud2b8 \ub77c\uc774\ube0c: \ub118\uc5b4\uc9c0\ub294 \ub85c\ubd07\uc758 \uc758\ubbf8\ub294 \ubb34\uc5c7\uc778\uac00?\n  > Summary: \uc774\ubc88 CES 2026\uc740 \ub2e4\uc18c \ub3c5\ud2b9\ud55c \uc804\uc2dc\ud68c\uc600\ub2e4. \ubcf4\ud1b5\uc740 \ubbf8\ub798\uc801\uc778 TV\uc640 \uc790\ub3d9\ucc28\uac00 \uc8fc\ub97c \uc774\ub8e8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 18:45:52",
       "message": "[PROCESSING] Analyzing: Meta signs deals with three nuclear companies for 6-plus GW of power..."
+    },
+    {
+      "timestamp": "2026-01-09 18:45:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta signs deals with three nuclear companies for 6-plus GW of power"
     }
   ]
 }
