@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 17:40:59",
+  "last_updated": "2026-01-09 17:41:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 17:40:28",
-      "message": "[SUCCESS] Processed: CES 2026: \ub77c\uc774\ube0c\ub85c \uac00\uc7a5 \ud765\ubbf8\ub86d\uace0 \uae30\uc774\ud55c \uae30\uc220\uc744 \ub530\ub77c\uac00\uc138\uc694. \ub85c\ubd07\uacfc AI \uc911\uc2ec\uc758 \uc774\ubca4\ud2b8\uac00 \ub9c8\ubb34\ub9ac\ub429\ub2c8\ub2e4.\n  > Summary: CES 2026\uc774 las Vegas\uc5d0\uc11c \uc5f4\ub9ac\uace0 \uc788\uc2b5\ub2c8\ub2e4. TechCrunch \ud3b8\uc9d1\uc790\uc640 \uae30\uc790..."
-    },
     {
       "timestamp": "2026-01-09 17:40:29",
       "message": "[PROCESSING] Analyzing: Elon Musk\u2019s lawsuit against OpenAI will face a jury in March..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 17:40:59",
       "message": "[PROCESSING] Analyzing: The Golden Globes signs a deal with Polymarket, which will provide stats and predictions about the awards show at the official 2026 viewing party (Jordan Moreau/Variety)..."
+    },
+    {
+      "timestamp": "2026-01-09 17:41:00",
+      "message": "[SKIP] Irrelevant (AI Filter): The Golden Globes signs a deal with Polymarket, which will provide stats and predictions about the awards show at the official 2026 viewing party (Jordan Moreau/Variety)"
     }
   ]
 }
