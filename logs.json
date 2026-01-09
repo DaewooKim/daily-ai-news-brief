@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-09 16:36:47",
+  "last_updated": "2026-01-09 16:36:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-09 16:36:12",
-      "message": "[PROCESSING] Analyzing: AECO Corp. Announces Promotion of Maryann Remner to President..."
-    },
     {
       "timestamp": "2026-01-09 16:36:14",
       "message": "[SKIP] Irrelevant (AI Filter): AECO Corp. Announces Promotion of Maryann Remner to President"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-09 16:36:47",
       "message": "Reprocessing: CrowdStrike acquires just-in-time access startup SGNL for $740M"
+    },
+    {
+      "timestamp": "2026-01-09 16:36:48",
+      "message": "[SKIP] Content too short: CrowdStrike acquires just-in-t..."
     }
   ]
 }
