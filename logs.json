@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 11:09:50",
+  "last_updated": "2026-01-10 11:09:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 11:09:05",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-10 11:09:19",
       "message": "Found 122 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 11:09:50",
       "message": "[PROCESSING] Analyzing: Scenes from the anti-ICE march in New York City..."
+    },
+    {
+      "timestamp": "2026-01-10 11:09:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Scenes from the anti-ICE march in New York City"
     }
   ]
 }
