@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 14:27:07",
+  "last_updated": "2026-01-10 14:27:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 14:26:43",
-      "message": "[SUCCESS] Processed: KPMG\uac00 \uae00\ub85c\ubc8c SAP \ucee8\uc124\ud305\uc758 \ubbf8\ub798\ub97c \uc7ac\uc815\uc758\ud558\ub294 \ubc29\ubc95\n  > Summary: KPMG\ub294 SAP\uc758 \ub300\ud654\ud615 AI \uc194\ub8e8\uc158\uc778 Joule for Consultants\ub97c \ud1b5\ud574 \uc804..."
-    },
     {
       "timestamp": "2026-01-10 14:26:44",
       "message": "Reprocessing: OpenAI invests $500M in SoftBank\u2019s SB Energy unit"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 14:27:07",
       "message": "Reprocessing: ThreatModeler acquires competing threat modeling startup IriusRisk"
+    },
+    {
+      "timestamp": "2026-01-10 14:27:09",
+      "message": "[SKIP] Content too short: ThreatModeler acquires competi..."
     }
   ]
 }
