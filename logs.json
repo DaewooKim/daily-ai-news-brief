@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 21:55:32",
+  "last_updated": "2026-01-10 21:55:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 21:54:59",
-      "message": "[SUCCESS] Processed: CES 2026: \uc774 \ub85c\ubd07\uacfc AI \uc911\uc2ec\uc758 \uc774\ubca4\ud2b8\uac00 \ub9c8\ubb34\ub9ac\ub418\ub294 \ubaa8\uc2b5\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \ub530\ub77c\uac00\uc138\uc694\n  > Summary: CES 2026\uc774 \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uac1c\ucd5c\ub418\uace0 \uc788\uc73c\uba70, AI\uac00 \uc911\uc2ec \uc8fc\uc81c\ub85c \uc790\ub9ac\uc7a1\uace0 \uc788\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-01-10 21:55:00",
       "message": "[PROCESSING] Analyzing: Meta signs deals with three nuclear companies for 6-plus GW of power..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 21:55:32",
       "message": "[PROCESSING] Analyzing: US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B (Reuters)..."
+    },
+    {
+      "timestamp": "2026-01-10 21:55:34",
+      "message": "[SKIP] Irrelevant (AI Filter): US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B (Reuters)"
     }
   ]
 }
