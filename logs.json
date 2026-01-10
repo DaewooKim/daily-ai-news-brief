@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 22:59:13",
+  "last_updated": "2026-01-10 22:59:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 22:58:35",
-      "message": "[PROCESSING] Analyzing: OpenAI is reportedly asking contractors to upload real work from past jobs..."
-    },
     {
       "timestamp": "2026-01-10 22:58:36",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI is reportedly asking contractors to upload real work from past jobs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 22:59:13",
       "message": "[PROCESSING] Analyzing: Defending at Scale: The Importance of People in Data Center Security..."
+    },
+    {
+      "timestamp": "2026-01-10 22:59:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Defending at Scale: The Importance of People in Data Center Security"
     }
   ]
 }
