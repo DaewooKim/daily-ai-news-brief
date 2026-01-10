@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 15:30:52",
+  "last_updated": "2026-01-10 15:30:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 15:30:16",
-      "message": "[PROCESSING] Analyzing: Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)..."
-    },
     {
       "timestamp": "2026-01-10 15:30:18",
       "message": "[SKIP] Irrelevant (AI Filter): Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 15:30:52",
       "message": "[SKIP] Irrelevant (AI Filter): The US Commerce Department drops a plan to impose restrictions on Chinese drones to address national security concerns; FCC barred imports in December 2025 (David Shepardson/Reuters)"
+    },
+    {
+      "timestamp": "2026-01-10 15:30:54",
+      "message": "Reprocessing: Chip Industry Week in Review"
     }
   ]
 }
