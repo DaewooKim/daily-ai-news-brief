@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 15:29:29",
+  "last_updated": "2026-01-10 15:29:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 15:28:51",
-      "message": "[PROCESSING] Analyzing: This company could help bring Auracast to an iPhone near you..."
-    },
     {
       "timestamp": "2026-01-10 15:28:53",
       "message": "[SKIP] Irrelevant (AI Filter): This company could help bring Auracast to an iPhone near you"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 15:29:29",
       "message": "[PROCESSING] Analyzing: Meta signs deals with three nuclear companies for 6-plus GW of power..."
+    },
+    {
+      "timestamp": "2026-01-10 15:29:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta signs deals with three nuclear companies for 6-plus GW of power"
     }
   ]
 }
