@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 13:19:36",
+  "last_updated": "2026-01-10 13:19:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 13:18:52",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-10 13:19:06",
       "message": "Found 113 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 13:19:36",
       "message": "[PROCESSING] Analyzing: This semi-secret Lego Smart Brick feature gives it even more potential..."
+    },
+    {
+      "timestamp": "2026-01-10 13:19:39",
+      "message": "[SKIP] Irrelevant (AI Filter): This semi-secret Lego Smart Brick feature gives it even more potential"
     }
   ]
 }
