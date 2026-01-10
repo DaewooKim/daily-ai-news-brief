@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 20:51:30",
+  "last_updated": "2026-01-10 20:51:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 20:50:55",
-      "message": "[PROCESSING] Analyzing: CES 2026 was all about \u2018physical AI\u2019 and robots, robots, robots..."
-    },
     {
       "timestamp": "2026-01-10 20:50:59",
       "message": "[SUCCESS] Processed: CES 2026\uc740 \u2018\ubb3c\ub9ac\uc801 AI\u2019\uc640 \ub85c\ubd07, \ub85c\ubd07, \ub85c\ubd07\uc5d0 \ub300\ud55c \ubaa8\ub4e0 \uac83\uc774\uc5c8\ub2e4\n  > Summary: CES 2026\uc740 \ub85c\ubd07\uacfc \ubb3c\ub9ac\uc801 AI \uae30\uc220\uc774 \uc8fc\ub97c \uc774\ub8ec \uc804\uc2dc\ud68c\uc600\ub2e4. \ubcf4\uc2a4\ud134 \ub2e4\uc774\ub0b4\ubbf9\uc2a4\uc758 \uc0c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 20:51:30",
       "message": "[PROCESSING] Analyzing: Malwarebytes: a 2024 Instagram data breach exposed information on 17.5 million users, including emails, phone numbers, and physical addresses (Jackson Chen/Engadget)..."
+    },
+    {
+      "timestamp": "2026-01-10 20:51:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Malwarebytes: a 2024 Instagram data breach exposed information on 17.5 million users, including emails, phone numbers, and physical addresses (Jackson Chen/Engadget)"
     }
   ]
 }
