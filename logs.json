@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 16:33:32",
+  "last_updated": "2026-01-10 16:33:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 16:32:58",
-      "message": "Found 102 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-10 16:32:58",
       "message": "[PROCESSING] Analyzing: I\u2019ve never used a trackball, but Keychron\u2019s Nape Pro looks like the perfect one..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 16:33:32",
       "message": "[PROCESSING] Analyzing: Build an AI Catalog System That Delivers Localized, Interactive Product Experiences..."
+    },
+    {
+      "timestamp": "2026-01-10 16:33:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Build an AI Catalog System That Delivers Localized, Interactive Product Experiences"
     }
   ]
 }
