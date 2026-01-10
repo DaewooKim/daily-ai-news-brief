@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 09:00:24",
+  "last_updated": "2026-01-10 09:00:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 08:59:44",
-      "message": "Reprocessing: CES 2026: Taiwanese Tech Startups, Supply Chain Partners Bring AI to Real-World Applications"
-    },
     {
       "timestamp": "2026-01-10 08:59:45",
       "message": "[PROCESSING] Analyzing: CES 2026: Taiwanese Tech Startups, Supply Chain Partners Bring AI to Real-World Applications..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 09:00:24",
       "message": "[PROCESSING] Analyzing: Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)..."
+    },
+    {
+      "timestamp": "2026-01-10 09:00:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)"
     }
   ]
 }
