@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 21:55:18",
+  "last_updated": "2026-01-10 21:55:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 21:54:41",
-      "message": "[SUCCESS] Processed: \uc778\ub3c4\ub124\uc2dc\uc544, \ube44\ub3d9\uc758 \uc131\uc801 \ub525\ud398\uc774\ud06c\ub85c \uc778\ud574 Grok \ucc28\ub2e8\n  > Summary: \uc778\ub3c4\ub124\uc2dc\uc544 \ub2f9\uad6d\uc740 \ud1a0\uc694\uc77c\uc5d0 xAI\uc758 \ucc57\ubd07 Grok\uc5d0 \ub300\ud55c \uc811\uadfc\uc744 \uc784\uc2dc\ub85c \ucc28\ub2e8\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4..."
-    },
     {
       "timestamp": "2026-01-10 21:54:43",
       "message": "Reprocessing: CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 21:55:18",
       "message": "[SKIP] Irrelevant (AI Filter): Defending at Scale: The Importance of People in Data Center Security"
+    },
+    {
+      "timestamp": "2026-01-10 21:55:20",
+      "message": "[PROCESSING] Analyzing: Maximum Severity HPE OneView Flaw Exploited in the Wild..."
     }
   ]
 }
