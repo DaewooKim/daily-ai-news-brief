@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 18:42:40",
+  "last_updated": "2026-01-10 18:42:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 18:42:02",
-      "message": "[PROCESSING] Analyzing: What&#8217;s on your desk, Stevie Bonifield?..."
-    },
     {
       "timestamp": "2026-01-10 18:42:07",
       "message": "[SUCCESS] Processed: \ub2f9\uc2e0\uc758 \ucc45\uc0c1\uc5d0\ub294 \ubb34\uc5c7\uc774 \uc788\ub098\uc694, \uc2a4\ud2f0\ube44 \ubcf4\ub2c8\ud544\ub4dc?\n  > Summary: \uc2a4\ud2f0\ube44 \ubcf4\ub2c8\ud544\ub4dc\ub294 The Verge\uc758 \ub274\uc2a4 \uc791\uac00\ub85c, AI \uc1fc\ud551 \ub3c4\uad6c\uc640 \ub2e4\uc591\ud55c \uae30\uc220\uc5d0 \ub300\ud574 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 18:42:40",
       "message": "[SKIP] Irrelevant (AI Filter): Datadog uses Codex for system-level code review"
+    },
+    {
+      "timestamp": "2026-01-10 18:42:41",
+      "message": "Reprocessing: CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities"
     }
   ]
 }
