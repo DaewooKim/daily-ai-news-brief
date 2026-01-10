@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 18:42:25",
+  "last_updated": "2026-01-10 18:42:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 18:41:52",
-      "message": "Found 94 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-10 18:41:52",
       "message": "[PROCESSING] Analyzing: Amazfit\u2019s Active 2 tracker and Blu-rays are this week\u2019s best deals..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 18:42:25",
       "message": "[PROCESSING] Analyzing: Build an AI Catalog System That Delivers Localized, Interactive Product Experiences..."
+    },
+    {
+      "timestamp": "2026-01-10 18:42:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Build an AI Catalog System That Delivers Localized, Interactive Product Experiences"
     }
   ]
 }
