@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 10:07:04",
+  "last_updated": "2026-01-10 10:07:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 10:06:29",
-      "message": "Reprocessing: Documents: OpenAI is asking contractors to upload their work from current or previous jobs to evaluate its models, leaving it to them to scrub confidential info (Wired)"
-    },
     {
       "timestamp": "2026-01-10 10:06:30",
       "message": "[PROCESSING] Analyzing: Documents: OpenAI is asking contractors to upload their work from current or previous jobs to evaluate its models, leaving it to them to scrub confidential info (Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 10:07:04",
       "message": "[PROCESSING] Analyzing: Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors..."
+    },
+    {
+      "timestamp": "2026-01-10 10:07:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors"
     }
   ]
 }
