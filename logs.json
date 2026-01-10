@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 11:12:19",
+  "last_updated": "2026-01-10 11:12:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 11:11:43",
-      "message": "[PROCESSING] Analyzing: The FCC approves SpaceX's request to deploy an additional 7,500 Gen2 Starlink satellites, bringing the total to 15,000 satellites worldwide (David Shepardson/Reuters)..."
-    },
     {
       "timestamp": "2026-01-10 11:11:44",
       "message": "[SKIP] Irrelevant (AI Filter): The FCC approves SpaceX's request to deploy an additional 7,500 Gen2 Starlink satellites, bringing the total to 15,000 satellites worldwide (David Shepardson/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 11:12:19",
       "message": "Reprocessing: OpenAI invests $500M in SoftBank\u2019s SB Energy unit"
+    },
+    {
+      "timestamp": "2026-01-10 11:12:21",
+      "message": "[SKIP] Content too short: OpenAI invests $500M in SoftBa..."
     }
   ]
 }
