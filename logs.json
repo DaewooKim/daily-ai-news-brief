@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-10 15:28:51",
+  "last_updated": "2026-01-10 15:28:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-10 15:28:16",
-      "message": "Found 106 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-10 15:28:16",
       "message": "[PROCESSING] Analyzing: I replaced Windows with Linux and everything\u2019s going great..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-10 15:28:51",
       "message": "[PROCESSING] Analyzing: This company could help bring Auracast to an iPhone near you..."
+    },
+    {
+      "timestamp": "2026-01-10 15:28:53",
+      "message": "[SKIP] Irrelevant (AI Filter): This company could help bring Auracast to an iPhone near you"
     }
   ]
 }
