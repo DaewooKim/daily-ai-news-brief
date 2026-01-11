@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 06:25:15",
+  "last_updated": "2026-01-11 06:25:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 06:24:41",
-      "message": "[PROCESSING] Analyzing: Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)..."
-    },
     {
       "timestamp": "2026-01-11 06:24:43",
       "message": "[SKIP] Irrelevant (AI Filter): Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 06:25:15",
       "message": "Reprocessing: OpenAI invests $500M in SoftBank\u2019s SB Energy unit"
+    },
+    {
+      "timestamp": "2026-01-11 06:25:16",
+      "message": "[SKIP] Content too short: OpenAI invests $500M in SoftBa..."
     }
   ]
 }
