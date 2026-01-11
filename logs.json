@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 11:40:28",
+  "last_updated": "2026-01-11 11:40:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 11:39:49",
-      "message": "[PROCESSING] Analyzing: CES 2026 was all about \u2018physical AI\u2019 and robots, robots, robots..."
-    },
     {
       "timestamp": "2026-01-11 11:39:54",
       "message": "[SUCCESS] Processed: CES 2026\uc5d0\uc11c \u2018\ubb3c\ub9ac\uc801 AI\u2019\uc640 \ub85c\ubd07\ub4e4\uc774 \uc8fc\ub97c \uc774\ub918\uc2b5\ub2c8\ub2e4\n  > Summary: CES 2026\uc5d0\uc11c\ub294 AI\uac00 \ud654\uba74\uc744 \ub118\uc5b4 \ubb3c\ub9ac\uc801 \uc138\uacc4\ub85c \ub098\uac00\ub294 \ubcc0\ud654\ub97c \ubcf4\uc5ec\uc8fc\uc5c8\uc2b5\ub2c8\ub2e4. \ubcf4\uc2a4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 11:40:28",
       "message": "[PROCESSING] Analyzing: Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung (Reuters)..."
+    },
+    {
+      "timestamp": "2026-01-11 11:40:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung (Reuters)"
     }
   ]
 }
