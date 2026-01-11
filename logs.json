@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 19:00:24",
+  "last_updated": "2026-01-11 19:00:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 18:59:53",
-      "message": "Found 48 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-11 18:59:53",
       "message": "[PROCESSING] Analyzing: Instagram says it fixed the issue that let someone send all those password reset emails..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 19:00:24",
       "message": "[PROCESSING] Analyzing: D-Wave Buys Quantum Circuits in Shift to Higher Gear..."
+    },
+    {
+      "timestamp": "2026-01-11 19:00:26",
+      "message": "[SKIP] Irrelevant (AI Filter): D-Wave Buys Quantum Circuits in Shift to Higher Gear"
     }
   ]
 }
