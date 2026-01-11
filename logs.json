@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 01:07:52",
+  "last_updated": "2026-01-11 01:07:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 01:07:12",
-      "message": "[SUCCESS] Processed: \ubb38\uc11c: OpenAI\uac00 \uacc4\uc57d\uc790\uc5d0\uac8c \ud604\uc7ac \ub610\ub294 \uc774\uc804 \uc9c1\uc7a5\uc5d0\uc11c \uc791\uc5c5\uc744 \uc5c5\ub85c\ub4dc\ud558\ub3c4\ub85d \uc694\uccad\ud558\uace0 \uc788\uc5b4 \ubaa8\ub378 \ud3c9\uac00\ub97c \uc704\ud574 \uae30\ubc00 \uc815\ubcf4\ub97c \uc2a4\uc2a4\ub85c \uc0ad\uc81c\ud558\ub77c\ub294 \uc694\uad6c\n  > Summary: OpenAI\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc0ac\ubb34\uc791\uc5c5\uc5d0 \uc900\ube44\uc2dc\ud0a4\uae30 \uc704\ud574 \uacc4\uc57d\uc790\ub4e4\uc5d0\uac8c \uacfc\uac70 \uc9c1\uc7a5\uc5d0\uc11c\uc758 \ud504\ub85c..."
-    },
     {
       "timestamp": "2026-01-11 01:07:13",
       "message": "[PROCESSING] Analyzing: Italy fines Cloudflare \u20ac14.2M for refusing to block pirate sites on its 1.1.1.1 DNS service; CEO Matthew Prince says he will discuss it with US officials (Jon Brodkin/Ars Technica)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 01:07:52",
       "message": "Reprocessing: OpenAI invests $500M in SoftBank\u2019s SB Energy unit"
+    },
+    {
+      "timestamp": "2026-01-11 01:07:53",
+      "message": "[SKIP] Content too short: OpenAI invests $500M in SoftBa..."
     }
   ]
 }
