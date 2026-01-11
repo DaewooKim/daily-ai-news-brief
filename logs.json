@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 00:03:01",
+  "last_updated": "2026-01-11 00:03:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 00:02:29",
-      "message": "[SUCCESS] Processed: CES 2026: \uc774 \ub85c\ubd07\uacfc AI \uc911\uc2ec\uc758 \ud589\uc0ac\uac00 \ub9c8\ubb34\ub9ac\ub418\ub294 \ucd5c\uace0\uc758, \uac00\uc7a5 \uae30\uad34\ud55c, \uac00\uc7a5 \ud765\ubbf8\ub85c\uc6b4 \uae30\uc220\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \ud655\uc778\ud558\uc138\uc694\n  > Summary: CES 2026\uc740 \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uc5f4\ub9ac\ub294 \uc5f0\ub840 \uc18c\ube44\uc790 \uae30\uc220 \ucee8\ud37c\ub7f0\uc2a4\uc785\ub2c8\ub2e4. TechCrunc..."
-    },
     {
       "timestamp": "2026-01-11 00:02:30",
       "message": "[PROCESSING] Analyzing: Meta signs deals with three nuclear companies for 6-plus GW of power..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 00:03:01",
       "message": "[PROCESSING] Analyzing: Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)..."
+    },
+    {
+      "timestamp": "2026-01-11 00:03:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)"
     }
   ]
 }
