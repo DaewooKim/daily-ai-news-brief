@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 16:55:19",
+  "last_updated": "2026-01-11 16:55:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 16:54:46",
-      "message": "Found 56 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-11 16:54:46",
       "message": "[PROCESSING] Analyzing: How TiVo killed live TV..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 16:55:19",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI is reportedly asking contractors to upload real work from past jobs"
+    },
+    {
+      "timestamp": "2026-01-11 16:55:20",
+      "message": "Reprocessing: CES 2026 was all about \u2018physical AI\u2019 and robots, robots, robots"
     }
   ]
 }
