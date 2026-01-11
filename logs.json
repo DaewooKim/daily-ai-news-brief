@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 05:22:00",
+  "last_updated": "2026-01-11 05:22:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 05:21:24",
-      "message": "[SUCCESS] Processed: D-Wave Quantum, \uc624\ub958 \uc218\uc815 \uac8c\uc774\ud2b8 \ubaa8\ub378 \uae30\uc220 \uac1c\ubc1c\uc5c5\uccb4 Quantum Circuits \uc778\uc218 \ud569\uc758, 5\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec\n  > Summary: D-Wave Quantum\uc740 \uc624\ub958 \uc218\uc815 \uac8c\uc774\ud2b8 \ubaa8\ub378 \uae30\uc220\uc744 \uac1c\ubc1c\ud558\ub294 Quantum Circ..."
-    },
     {
       "timestamp": "2026-01-11 05:21:25",
       "message": "Reprocessing: Chip Industry Week in Review"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 05:22:00",
       "message": "Reprocessing: Red Hat pledges day-zero support for Nvidia\u2019s newest GPUs"
+    },
+    {
+      "timestamp": "2026-01-11 05:22:01",
+      "message": "[SKIP] Content too short: Red Hat pledges day-zero suppo..."
     }
   ]
 }
