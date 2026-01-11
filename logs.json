@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 08:30:25",
+  "last_updated": "2026-01-11 08:30:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 08:29:36",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-11 08:29:51",
       "message": "Found 71 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 08:30:25",
       "message": "[PROCESSING] Analyzing: Build an AI Catalog System That Delivers Localized, Interactive Product Experiences..."
+    },
+    {
+      "timestamp": "2026-01-11 08:30:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Build an AI Catalog System That Delivers Localized, Interactive Product Experiences"
     }
   ]
 }
