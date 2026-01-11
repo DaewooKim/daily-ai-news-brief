@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-11 22:07:29",
-  "status": "idle",
+  "last_updated": "2026-01-11 23:08:00",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-11 22:05:43",
+      "timestamp": "2026-01-11 23:07:44",
+      "message": "Starting automatic background collection..."
+    },
+    {
+      "timestamp": "2026-01-11 23:07:45",
+      "message": "Initializing..."
+    },
+    {
+      "timestamp": "2026-01-11 23:07:45",
       "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-11 22:05:57",
-      "message": "Found 41 articles within the last 2 days. Starting processing..."
+      "timestamp": "2026-01-11 23:08:00",
+      "message": "Found 40 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-11 22:05:57",
+      "timestamp": "2026-01-11 23:08:00",
       "message": "[PROCESSING] Analyzing: Here are over 20 gadgets that\u2019ll help you achieve your New Year\u2019s resolutions..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Here are over 20 gadgets that\u2019ll help you achieve your New Year\u2019s resolutions"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:01",
-      "message": "[PROCESSING] Analyzing: Instagram says it fixed the issue that let someone send all those password reset emails..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:03",
-      "message": "[SKIP] Irrelevant (AI Filter): Instagram says it fixed the issue that let someone send all those password reset emails"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:05",
-      "message": "[PROCESSING] Analyzing: GameStop is kicking off 2026 by shutting down over 400 stores in 42 states..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:07",
-      "message": "[SKIP] Irrelevant (AI Filter): GameStop is kicking off 2026 by shutting down over 400 stores in 42 states"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:09",
-      "message": "[PROCESSING] Analyzing: How TiVo killed live TV..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:11",
-      "message": "[SKIP] Irrelevant (AI Filter): How TiVo killed live TV"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:13",
-      "message": "[PROCESSING] Analyzing: I went looking for weird phones and CES 2026 did not disappoint..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:15",
-      "message": "[SKIP] Irrelevant (AI Filter): I went looking for weird phones and CES 2026 did not disappoint"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:17",
-      "message": "[PROCESSING] Analyzing: Will you have to show your ID at the app store?..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:19",
-      "message": "[SKIP] Irrelevant (AI Filter): Will you have to show your ID at the app store?"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:20",
-      "message": "[PROCESSING] Analyzing: OpenAI is reportedly asking contractors to upload real work from past jobs..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:22",
-      "message": "[SKIP] Irrelevant (AI Filter): OpenAI is reportedly asking contractors to upload real work from past jobs"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:24",
-      "message": "Reprocessing: D-Wave Buys Quantum Circuits in Shift to Higher Gear"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:25",
-      "message": "[PROCESSING] Analyzing: D-Wave Buys Quantum Circuits in Shift to Higher Gear..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:27",
-      "message": "[SKIP] Irrelevant (AI Filter): D-Wave Buys Quantum Circuits in Shift to Higher Gear"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:28",
-      "message": "[PROCESSING] Analyzing: ATG, which is developing the AI-powered wealth strategist app Autonomous, emerges from stealth and raises a $15M pre-seed led by Y Combinator CEO Garry Tan (Geoff Weiss/Business Insider)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:34",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18\uc758 \uc790\uc0b0 \uc804\ub7b5\uac00 \uc571 Autonomous\ub97c \uac1c\ubc1c \uc911\uc778 ATG, \uc2a4\ud154\uc2a4\ub97c \ubc97\uc5b4\ub098 Y Combinator CEO Garry Tan\uc774 \uc774\ub044\ub294 1500\ub9cc \ub2ec\ub7ec\uc758 \ud504\ub9ac \uc2dc\ub4dc \ud22c\uc790 \uc720\uce58\n  > Summary: ATG\uac00 AI \uae30\ubc18 \uc790\uc0b0 \uc804\ub7b5\uac00 \uc571\uc778 Autonomous\ub97c \uac1c\ubc1c\ud558\uba70 \uc2a4\ud154\uc2a4 \ubaa8\ub4dc\uc5d0\uc11c \ubc97\uc5b4\ub0ac..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:36",
-      "message": "Reprocessing: Tucuvi, which develops AI agents that check in with patients and escalate cases to human teams when needed, raised a $20M Series A, led by Cathay and Leadwind (John Reynolds/Tech.eu)"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:37",
-      "message": "[PROCESSING] Analyzing: Tucuvi, which develops AI agents that check in with patients and escalate cases to human teams when needed, raised a $20M Series A, led by Cathay and Leadwind (John Reynolds/Tech.eu)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:42",
-      "message": "[SUCCESS] Processed: \ud658\uc790\ub97c \uccb4\ud06c\ud558\uace0 \ud544\uc694\ud560 \ub54c \uc778\uac04 \ud300\uc5d0 \uc0ac\uac74\uc744 \uc5d0\uc2a4\uceec\ub808\uc774\uc158\ud558\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uac1c\ubc1c\ud558\ub294 Tucuvi, Cathay\uc640 Leadwind\uac00 \uc8fc\ub3c4\ud558\ub294 2000\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \uc790\uae08\uc744 \ubaa8\uc9d1\ud558\ub2e4\n  > Summary: Tucuvi\ub294 \ud658\uc790\ub97c \uccb4\ud06c\ud558\uace0 \ud544\uc694\ud560 \ub54c \uc778\uac04 \ud300\uc5d0 \uc0ac\uac74\uc744 \uc5d0\uc2a4\uceec\ub808\uc774\uc158\ud558\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:43",
-      "message": "[PROCESSING] Analyzing: Instagram says there was no breach and it fixed an issue that let an external party send password reset emails, after reports that 17.5M users' data was exposed (Terrence O'Brien/The Verge)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:46",
-      "message": "[SKIP] Irrelevant (AI Filter): Instagram says there was no breach and it fixed an issue that let an external party send password reset emails, after reports that 17.5M users' data was exposed (Terrence O'Brien/The Verge)"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:47",
-      "message": "[PROCESSING] Analyzing: Walmart to expand Wing, Alphabet's on-demand drone delivery service, to another 150 stores, bringing the total to 270+ stores, covering ~10% of US population (Kirsten Korosec/TechCrunch)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:49",
-      "message": "[SKIP] Irrelevant (AI Filter): Walmart to expand Wing, Alphabet's on-demand drone delivery service, to another 150 stores, bringing the total to 270+ stores, covering ~10% of US population (Kirsten Korosec/TechCrunch)"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:51",
-      "message": "[PROCESSING] Analyzing: Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung (Reuters)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung (Reuters)"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:54",
-      "message": "[PROCESSING] Analyzing: A look at the history and rise of Markdown, which has been adopted across the tech industry in the decades since its quiet launch in 2004 by John Gruber (Anil Dash)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:56",
-      "message": "[SKIP] Irrelevant (AI Filter): A look at the history and rise of Markdown, which has been adopted across the tech industry in the decades since its quiet launch in 2004 by John Gruber (Anil Dash)"
-    },
-    {
-      "timestamp": "2026-01-11 22:06:58",
-      "message": "[PROCESSING] Analyzing: Investigation: Iran's Islamic Revolutionary Guard Corps used two UK-registered companies to move ~$1B in stablecoins since 2023, evading international sanctions (TRM Insights)..."
-    },
-    {
-      "timestamp": "2026-01-11 22:06:59",
-      "message": "[SKIP] Irrelevant (AI Filter): Investigation: Iran's Islamic Revolutionary Guard Corps used two UK-registered companies to move ~$1B in stablecoins since 2023, evading international sanctions (TRM Insights)"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:01",
-      "message": "Reprocessing: Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:02",
-      "message": "[PROCESSING] Analyzing: Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors..."
-    },
-    {
-      "timestamp": "2026-01-11 22:07:06",
-      "message": "[SKIP] Irrelevant (AI Filter): Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:07",
-      "message": "Reprocessing: Nvidia resets the economics of AI factories, again"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:08",
-      "message": "[SKIP] Content too short: Nvidia resets the economics of..."
-    },
-    {
-      "timestamp": "2026-01-11 22:07:09",
-      "message": "Reprocessing: Retail 2026: When AI becomes the operating system"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:11",
-      "message": "[SKIP] Content too short: Retail 2026: When AI becomes t..."
-    },
-    {
-      "timestamp": "2026-01-11 22:07:12",
-      "message": "Reprocessing: OpenAI invests $500M in SoftBank\u2019s SB Energy unit"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:14",
-      "message": "[SKIP] Content too short: OpenAI invests $500M in SoftBa..."
-    },
-    {
-      "timestamp": "2026-01-11 22:07:15",
-      "message": "Reprocessing: AI cloud provider Lambda reportedly raising $350M round"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:16",
-      "message": "[SKIP] Content too short: AI cloud provider Lambda repor..."
-    },
-    {
-      "timestamp": "2026-01-11 22:07:18",
-      "message": "[PROCESSING] Analyzing: HPE iLO 6 Essentials to Advanced Upgrade What Changes in the UI..."
-    },
-    {
-      "timestamp": "2026-01-11 22:07:20",
-      "message": "[SKIP] Irrelevant (AI Filter): HPE iLO 6 Essentials to Advanced Upgrade What Changes in the UI"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:21",
-      "message": "Completed! New: 1, Updated: 5"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:25",
-      "message": "Saved 6 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-11 22:07:27",
-      "message": "Auto-Scrape Finished Successfully."
     }
   ]
 }
