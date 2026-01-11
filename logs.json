@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 05:21:52",
+  "last_updated": "2026-01-11 05:21:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 05:21:13",
-      "message": "[PROCESSING] Analyzing: US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B (Reuters)..."
-    },
     {
       "timestamp": "2026-01-11 05:21:15",
       "message": "[SKIP] Irrelevant (AI Filter): US PE firm Haveli Investments agrees to acquire a majority stake in business contract software company Sirion; a source says the deal values Sirion at about $1B (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 05:21:52",
       "message": "Reprocessing: AI cloud provider Lambda reportedly raising $350M round"
+    },
+    {
+      "timestamp": "2026-01-11 05:21:54",
+      "message": "[SKIP] Content too short: AI cloud provider Lambda repor..."
     }
   ]
 }
