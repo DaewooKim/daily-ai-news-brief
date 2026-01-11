@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 00:03:40",
+  "last_updated": "2026-01-11 00:03:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 00:03:01",
-      "message": "[PROCESSING] Analyzing: Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)..."
-    },
     {
       "timestamp": "2026-01-11 00:03:03",
       "message": "[SKIP] Irrelevant (AI Filter): Internal document: Amazon rolled out a manager dashboard that tracks employees' office attendance and how many hours they spend there, after its RTO mandate (Pranav Dixit/Business Insider)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 00:03:40",
       "message": "[SKIP] Irrelevant (AI Filter): Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors"
+    },
+    {
+      "timestamp": "2026-01-11 00:03:41",
+      "message": "Reprocessing: Why your LLM bill is exploding \u2014 and how semantic caching can cut it by 73%"
     }
   ]
 }
