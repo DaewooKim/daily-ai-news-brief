@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-11 16:56:39",
+  "last_updated": "2026-01-11 16:56:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-11 16:56:08",
-      "message": "[SUCCESS] Processed: \uc6d4\ub9c8\ud2b8, \uad6c\uae00\uacfc \ud611\ub825\ud558\uc5ec AI \uae30\ubc18 \uc1fc\ud551 \uc81c\uacf5\n  > Summary: \uc6d4\ub9c8\ud2b8\ub294 \uc54c\ud30c\ubcb3\uacfc \ud611\ub825\ud558\uc5ec \uad6c\uae00\uc758 \uc81c\ubbf8\ub2c8 \ud50c\ub7ab\ud3fc\uc5d0\uc11c AI \uae30\ubc18\uc758 \uc1fc\ud551\uc744 \uc81c\uacf5\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4..."
-    },
     {
       "timestamp": "2026-01-11 16:56:09",
       "message": "[PROCESSING] Analyzing: Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-11 16:56:39",
       "message": "[SKIP] Content too short: OpenAI invests $500M in SoftBa..."
+    },
+    {
+      "timestamp": "2026-01-11 16:56:41",
+      "message": "Reprocessing: AI cloud provider Lambda reportedly raising $350M round"
     }
   ]
 }
