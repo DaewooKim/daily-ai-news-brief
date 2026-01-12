@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 17:51:39",
+  "last_updated": "2026-01-12 17:51:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 17:51:06",
-      "message": "[PROCESSING] Analyzing: Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg (Sara Fischer/Axios)..."
-    },
     {
       "timestamp": "2026-01-12 17:51:08",
       "message": "[SKIP] Irrelevant (AI Filter): Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg (Sara Fischer/Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 17:51:39",
       "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
+    },
+    {
+      "timestamp": "2026-01-12 17:51:40",
+      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
     }
   ]
 }
