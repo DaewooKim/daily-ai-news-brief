@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 12:37:17",
+  "last_updated": "2026-01-12 12:37:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 12:36:38",
-      "message": "[PROCESSING] Analyzing: OpenAI is reportedly asking contractors to upload real work from past jobs..."
-    },
     {
       "timestamp": "2026-01-12 12:36:40",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI is reportedly asking contractors to upload real work from past jobs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 12:37:17",
       "message": "Reprocessing: Five thoughts from Nvidia\u2019s keynote at CES"
+    },
+    {
+      "timestamp": "2026-01-12 12:37:18",
+      "message": "[SKIP] Content too short: Five thoughts from Nvidia\u2019s ke..."
     }
   ]
 }
