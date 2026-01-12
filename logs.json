@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 20:59:52",
+  "last_updated": "2026-01-12 20:59:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 20:59:04",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-12 20:59:04",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 20:59:52",
       "message": "[PROCESSING] Analyzing: Paramount sues after Warner Bros. Discovery rejects its latest deal..."
+    },
+    {
+      "timestamp": "2026-01-12 20:59:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Paramount sues after Warner Bros. Discovery rejects its latest deal"
     }
   ]
 }
