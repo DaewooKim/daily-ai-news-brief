@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 12:37:25",
+  "last_updated": "2026-01-12 12:37:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 12:36:49",
-      "message": "[PROCESSING] Analyzing: Sources and filings: Peter Thiel donated $3M to a group to beat California's wealth tax, the first of several expected major donations by tech leaders in 2026 (New York Times)..."
-    },
     {
       "timestamp": "2026-01-12 12:36:51",
       "message": "[SKIP] Irrelevant (AI Filter): Sources and filings: Peter Thiel donated $3M to a group to beat California's wealth tax, the first of several expected major donations by tech leaders in 2026 (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 12:37:25",
       "message": "Reprocessing: Instagram denies data breach after password reset emails spark leak claims"
+    },
+    {
+      "timestamp": "2026-01-12 12:37:26",
+      "message": "[SKIP] Content too short: Instagram denies data breach a..."
     }
   ]
 }
