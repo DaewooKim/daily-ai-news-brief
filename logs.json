@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 14:42:27",
+  "last_updated": "2026-01-12 14:42:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 14:41:45",
-      "message": "[PROCESSING] Analyzing: Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% (Max Goldbart/Deadline)..."
-    },
     {
       "timestamp": "2026-01-12 14:41:47",
       "message": "[SKIP] Irrelevant (AI Filter): Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% (Max Goldbart/Deadline)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 14:42:27",
       "message": "Reprocessing: Cast AI raises funds from Pacific Alliance Ventures at $1B valuation to launch unified GPU marketplace"
+    },
+    {
+      "timestamp": "2026-01-12 14:42:28",
+      "message": "[SKIP] Content too short: Cast AI raises funds from Paci..."
     }
   ]
 }
