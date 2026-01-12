@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 18:53:22",
+  "last_updated": "2026-01-12 18:53:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 18:52:33",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-12 18:52:33",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 18:53:22",
       "message": "[PROCESSING] Analyzing: A New Jersey lawsuit shows how hard it is to fight deepfake porn..."
+    },
+    {
+      "timestamp": "2026-01-12 18:53:24",
+      "message": "[SKIP] Irrelevant (AI Filter): A New Jersey lawsuit shows how hard it is to fight deepfake porn"
     }
   ]
 }
