@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 10:32:54",
+  "last_updated": "2026-01-12 10:32:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 10:32:20",
-      "message": "[PROCESSING] Analyzing: A profile of SpaceX President Gwynne Shotwell, who has worked at the company since 2002 and is known as a customer emissary and Elon Musk translator (Micah Maidenberg/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-01-12 10:32:22",
       "message": "[SKIP] Irrelevant (AI Filter): A profile of SpaceX President Gwynne Shotwell, who has worked at the company since 2002 and is known as a customer emissary and Elon Musk translator (Micah Maidenberg/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 10:32:54",
       "message": "[SKIP] Content too short: Torq raises $140M at $1.2B val..."
+    },
+    {
+      "timestamp": "2026-01-12 10:32:55",
+      "message": "Reprocessing: Nvidia resets the economics of AI factories, again"
     }
   ]
 }
