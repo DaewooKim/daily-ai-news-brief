@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 12:36:45",
+  "last_updated": "2026-01-12 12:36:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 12:36:10",
-      "message": "Found 49 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-12 12:36:10",
       "message": "[PROCESSING] Analyzing: Trump\u2019s fundraisers asked Microsoft for its White House ballroom donation..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 12:36:45",
       "message": "[PROCESSING] Analyzing: Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung's 19% market share (Counterpoint Research)..."
+    },
+    {
+      "timestamp": "2026-01-12 12:36:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung's 19% market share (Counterpoint Research)"
     }
   ]
 }
