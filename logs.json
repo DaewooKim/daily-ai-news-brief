@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 19:57:31",
+  "last_updated": "2026-01-12 19:57:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 19:56:55",
-      "message": "[SUCCESS] Processed: \uc548\u03b8\u03c1\u03c9\ud53d\uc758 \uc0c8\ub85c\uc6b4 Cowork \ub3c4\uad6c, \ucf54\ub4dc \uc5c6\uc774 Claude Code \uc81c\uacf5\n  > Summary: \uc548\u03b8\u03c1\u03c9\ud53d\uc758 Claude Desktop \uc571\uc5d0 \ub0b4\uc7a5\ub41c Cowork \ub3c4\uad6c\ub294 \uc0ac\uc6a9\uc790\uac00 \ud2b9\uc815 \ud3f4\ub354..."
-    },
     {
       "timestamp": "2026-01-12 19:56:56",
       "message": "[PROCESSING] Analyzing: Amazon says 97% of its devices can support Alexa+..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 19:57:31",
       "message": "[PROCESSING] Analyzing: A viral Chinese app called \"Are You Dead?\" that asks users living alone to \"check in\" with a button press becomes the top paid app in Apple's App Store in China (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-01-12 19:57:33",
+      "message": "[SKIP] Irrelevant (AI Filter): A viral Chinese app called \"Are You Dead?\" that asks users living alone to \"check in\" with a button press becomes the top paid app in Apple's App Store in China (Financial Times)"
     }
   ]
 }
