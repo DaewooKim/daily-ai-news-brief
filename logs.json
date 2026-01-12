@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 04:19:23",
+  "last_updated": "2026-01-12 04:19:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 04:18:48",
-      "message": "[PROCESSING] Analyzing: OpenAI is reportedly asking contractors to upload real work from past jobs..."
-    },
     {
       "timestamp": "2026-01-12 04:18:51",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI is reportedly asking contractors to upload real work from past jobs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 04:19:23",
       "message": "Reprocessing: Torq raises $140M at $1.2B valuation to scale AI-driven security hyperautomation"
+    },
+    {
+      "timestamp": "2026-01-12 04:19:24",
+      "message": "[SKIP] Content too short: Torq raises $140M at $1.2B val..."
     }
   ]
 }
