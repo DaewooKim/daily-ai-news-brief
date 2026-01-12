@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 21:00:11",
+  "last_updated": "2026-01-12 21:00:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 20:59:33",
-      "message": "[PROCESSING] Analyzing: New York wants to regulate Roblox..."
-    },
     {
       "timestamp": "2026-01-12 20:59:35",
       "message": "[SKIP] Irrelevant (AI Filter): New York wants to regulate Roblox"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 21:00:11",
       "message": "[PROCESSING] Analyzing: OpenAI is reportedly asking contractors to upload real work from past jobs..."
+    },
+    {
+      "timestamp": "2026-01-12 21:00:13",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI is reportedly asking contractors to upload real work from past jobs"
     }
   ]
 }
