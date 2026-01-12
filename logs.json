@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 21:01:08",
+  "last_updated": "2026-01-12 21:01:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 21:00:30",
-      "message": "[PROCESSING] Analyzing: Italy's antitrust authority says it reduced the record fine imposed on Amazon in 2021, from \u20ac1.13B to \u20ac752M, after a recalculation (Elvira Pollina/Reuters)..."
-    },
     {
       "timestamp": "2026-01-12 21:00:32",
       "message": "[SKIP] Irrelevant (AI Filter): Italy's antitrust authority says it reduced the record fine imposed on Amazon in 2021, from \u20ac1.13B to \u20ac752M, after a recalculation (Elvira Pollina/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 21:01:08",
       "message": "Reprocessing: Owkin unveils biology-focused AI agents for clinical research and drug discovery"
+    },
+    {
+      "timestamp": "2026-01-12 21:01:09",
+      "message": "[SKIP] Content too short: Owkin unveils biology-focused ..."
     }
   ]
 }
