@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 11:34:17",
+  "last_updated": "2026-01-12 11:34:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 11:33:31",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-12 11:33:31",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 11:34:17",
       "message": "[PROCESSING] Analyzing: Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung's 19% market share (Counterpoint Research)..."
+    },
+    {
+      "timestamp": "2026-01-12 11:34:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung's 19% market share (Counterpoint Research)"
     }
   ]
 }
