@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 12:37:20",
+  "last_updated": "2026-01-12 12:37:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 12:36:42",
-      "message": "[PROCESSING] Analyzing: Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine (Financial Times)..."
-    },
     {
       "timestamp": "2026-01-12 12:36:44",
       "message": "[SKIP] Irrelevant (AI Filter): Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 12:37:20",
       "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
+    },
+    {
+      "timestamp": "2026-01-12 12:37:21",
+      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
     }
   ]
 }
