@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 21:01:11",
+  "last_updated": "2026-01-12 21:01:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 21:00:34",
-      "message": "[PROCESSING] Analyzing: The UK plans to bring into force a law this week that will make it illegal to create non-consensual intimate images, as Ofcom investigates X (BBC)..."
-    },
     {
       "timestamp": "2026-01-12 21:00:36",
       "message": "[SKIP] Irrelevant (AI Filter): The UK plans to bring into force a law this week that will make it illegal to create non-consensual intimate images, as Ofcom investigates X (BBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 21:01:11",
       "message": "Reprocessing: HPE Networking rolls out a bevy of retail products at NRF 2026"
+    },
+    {
+      "timestamp": "2026-01-12 21:01:12",
+      "message": "[SKIP] Content too short: HPE Networking rolls out a bev..."
     }
   ]
 }
