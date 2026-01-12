@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 16:48:46",
+  "last_updated": "2026-01-12 16:48:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 16:48:10",
-      "message": "[PROCESSING] Analyzing: Ampere Analysis expects streaming services' content spend to grow 6% in 2026 to $101B, crossing $100B for the first time, and overall content spend to grow 2% (Max Goldbart/Deadline)..."
-    },
     {
       "timestamp": "2026-01-12 16:48:12",
       "message": "[SKIP] Irrelevant (AI Filter): Ampere Analysis expects streaming services' content spend to grow 6% in 2026 to $101B, crossing $100B for the first time, and overall content spend to grow 2% (Max Goldbart/Deadline)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 16:48:46",
       "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
+    },
+    {
+      "timestamp": "2026-01-12 16:48:48",
+      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
     }
   ]
 }
