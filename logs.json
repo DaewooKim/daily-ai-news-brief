@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 14:42:35",
+  "last_updated": "2026-01-12 14:42:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 14:41:59",
-      "message": "[PROCESSING] Analyzing: Sources and filings: Peter Thiel donated $3M to a group to beat California's wealth tax, the first of several expected major donations by tech leaders in 2026 (New York Times)..."
-    },
     {
       "timestamp": "2026-01-12 14:42:01",
       "message": "[SKIP] Irrelevant (AI Filter): Sources and filings: Peter Thiel donated $3M to a group to beat California's wealth tax, the first of several expected major donations by tech leaders in 2026 (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 14:42:35",
       "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
+    },
+    {
+      "timestamp": "2026-01-12 14:42:37",
+      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
     }
   ]
 }
