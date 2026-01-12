@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 15:45:45",
+  "last_updated": "2026-01-12 15:45:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 15:45:08",
-      "message": "[PROCESSING] Analyzing: Global smartphone shipments rose 2% YoY in 2025; Apple led with 20% market share and 10% YoY growth, followed by Samsung's 19% market share and 5% YoY growth (Counterpoint Research)..."
-    },
     {
       "timestamp": "2026-01-12 15:45:10",
       "message": "[SKIP] Irrelevant (AI Filter): Global smartphone shipments rose 2% YoY in 2025; Apple led with 20% market share and 10% YoY growth, followed by Samsung's 19% market share and 5% YoY growth (Counterpoint Research)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 15:45:45",
       "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
+    },
+    {
+      "timestamp": "2026-01-12 15:45:46",
+      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
     }
   ]
 }
