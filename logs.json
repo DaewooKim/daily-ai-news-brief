@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 13:39:40",
+  "last_updated": "2026-01-12 13:39:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 13:39:03",
-      "message": "[PROCESSING] Analyzing: Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% (Max Goldbart/Deadline)..."
-    },
     {
       "timestamp": "2026-01-12 13:39:05",
       "message": "[SKIP] Irrelevant (AI Filter): Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% (Max Goldbart/Deadline)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 13:39:40",
       "message": "Reprocessing: Everseen adds a conversational intelligence layer to its AI theft-prevention system"
+    },
+    {
+      "timestamp": "2026-01-12 13:39:41",
+      "message": "[SKIP] Content too short: Everseen adds a conversational..."
     }
   ]
 }
