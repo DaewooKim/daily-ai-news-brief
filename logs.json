@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 19:56:42",
+  "last_updated": "2026-01-12 19:56:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 19:55:51",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-12 19:56:06",
       "message": "Found 67 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 19:56:42",
       "message": "[SKIP] Irrelevant (AI Filter): The first three Lego Pok\u00e9mon sets launch in February and include a $650 diorama"
+    },
+    {
+      "timestamp": "2026-01-12 19:56:44",
+      "message": "Reprocessing: NeuralGCM harnesses AI to better simulate long-range global precipitation"
     }
   ]
 }
