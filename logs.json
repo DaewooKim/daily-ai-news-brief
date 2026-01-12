@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 19:56:40",
+  "last_updated": "2026-01-12 19:56:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 19:55:51",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-12 19:55:51",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 19:56:40",
       "message": "[PROCESSING] Analyzing: The first three Lego Pok\u00e9mon sets launch in February and include a $650 diorama..."
+    },
+    {
+      "timestamp": "2026-01-12 19:56:42",
+      "message": "[SKIP] Irrelevant (AI Filter): The first three Lego Pok\u00e9mon sets launch in February and include a $650 diorama"
     }
   ]
 }
