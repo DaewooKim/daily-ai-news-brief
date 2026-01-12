@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 07:25:26",
+  "last_updated": "2026-01-12 07:25:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 07:24:49",
-      "message": "[PROCESSING] Analyzing: President Trump says \"we may speak to Elon\" about using Starlink to restore the internet in Iran, after the state imposed an internet blackout amid protests (Rachael Levy/Reuters)..."
-    },
     {
       "timestamp": "2026-01-12 07:24:51",
       "message": "[SKIP] Irrelevant (AI Filter): President Trump says \"we may speak to Elon\" about using Starlink to restore the internet in Iran, after the state imposed an internet blackout amid protests (Rachael Levy/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 07:25:26",
       "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
+    },
+    {
+      "timestamp": "2026-01-12 07:25:27",
+      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
     }
   ]
 }
