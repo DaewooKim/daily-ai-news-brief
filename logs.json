@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-12 13:39:03",
+  "last_updated": "2026-01-12 13:39:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-12 13:38:22",
-      "message": "Found 51 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-12 13:38:22",
       "message": "[PROCESSING] Analyzing: Google brings buy buttons to Gemini and AI search..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-12 13:39:03",
       "message": "[PROCESSING] Analyzing: Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% (Max Goldbart/Deadline)..."
+    },
+    {
+      "timestamp": "2026-01-12 13:39:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% (Max Goldbart/Deadline)"
     }
   ]
 }
