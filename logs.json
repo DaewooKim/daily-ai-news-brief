@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 19:15:05",
+  "last_updated": "2026-01-13 19:15:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 19:14:23",
-      "message": "[SUCCESS] Processed: \ub9c1 \ucc3d\ub9bd\uc790\uac00 \uce74\uba54\ub77c \ud68c\uc0ac\uc758 '\uc9c0\ub2a5\ud615 \ube44\uc11c' \uc2dc\ub300\ub97c \uc0c1\uc138\ud788 \uc124\uba85\ud558\ub2e4\n  > Summary: \ub9c1\uc740 \uc544\ub9c8\uc874 \uc18c\uc18d\uc758 \ube44\ub514\uc624 \ucd08\uc778\uc885 \uc81c\uc791\uc0ac\ub85c, AI\ub97c \ud1b5\ud574 '\uc9c0\ub2a5\ud615 \ube44\uc11c'\ub85c\uc758 \uc804\ud658\uc744 \ucd94\uc9c4\ud558..."
-    },
     {
       "timestamp": "2026-01-13 19:14:24",
       "message": "[PROCESSING] Analyzing: Doctors think AI has a place in healthcare \u2013 but maybe not as a chatbot..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 19:15:05",
       "message": "[PROCESSING] Analyzing: Patmos Scores $100M Clean Energy Loan for Kansas City Data Center..."
+    },
+    {
+      "timestamp": "2026-01-13 19:15:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Patmos Scores $100M Clean Energy Loan for Kansas City Data Center"
     }
   ]
 }
