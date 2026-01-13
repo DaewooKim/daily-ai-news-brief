@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 16:00:25",
+  "last_updated": "2026-01-13 16:00:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 15:59:34",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-13 15:59:34",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 16:00:25",
       "message": "[PROCESSING] Analyzing: Apple launches \u2018Creator Studio\u2019 bundle of apps for $12.99 per month..."
+    },
+    {
+      "timestamp": "2026-01-13 16:00:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple launches \u2018Creator Studio\u2019 bundle of apps for $12.99 per month"
     }
   ]
 }
