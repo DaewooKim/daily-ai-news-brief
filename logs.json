@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 03:18:11",
+  "last_updated": "2026-01-13 03:18:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 03:17:33",
-      "message": "[PROCESSING] Analyzing: NeuralGCM harnesses AI to better simulate long-range global precipitation..."
-    },
     {
       "timestamp": "2026-01-13 03:17:40",
       "message": "[SUCCESS] Processed: NeuralGCM, AI\ub97c \ud65c\uc6a9\ud574 \uc7a5\uae30 \uae00\ub85c\ubc8c \uac15\uc218\uc758 \uc2dc\ubbac\ub808\uc774\uc158 \uac1c\uc120\n  > Summary: NeuralGCM\uc740 \uc778\uacf5\uc9c0\ub2a5\uc744 \ud65c\uc6a9\ud558\uc5ec \uc804 \uc138\uacc4\uc801\uc73c\ub85c \uc7a5\uae30 \uac15\uc218 \ud328\ud134\uc744 \ub354\uc6b1 \uc815\ud655\ud558\uac8c \uc2dc\ubbac..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 03:18:11",
       "message": "[PROCESSING] Analyzing: The UK plans to bring into force a law this week that will make it illegal to create non-consensual intimate images, as Ofcom investigates X (BBC)..."
+    },
+    {
+      "timestamp": "2026-01-13 03:18:14",
+      "message": "[SKIP] Irrelevant (AI Filter): The UK plans to bring into force a law this week that will make it illegal to create non-consensual intimate images, as Ofcom investigates X (BBC)"
     }
   ]
 }
