@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 13:52:11",
+  "last_updated": "2026-01-13 13:52:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 13:51:25",
-      "message": "Reprocessing: Boston- and Tel Aviv-based Converge Bio, which uses AI trained on molecular data to help pharma and biotech companies develop drugs, raised a $25M Series A (Kate Park/TechCrunch)"
-    },
     {
       "timestamp": "2026-01-13 13:51:26",
       "message": "[PROCESSING] Analyzing: Boston- and Tel Aviv-based Converge Bio, which uses AI trained on molecular data to help pharma and biotech companies develop drugs, raised a $25M Series A (Kate Park/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 13:52:11",
       "message": "[PROCESSING] Analyzing: Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging..."
+    },
+    {
+      "timestamp": "2026-01-13 13:52:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging"
     }
   ]
 }
