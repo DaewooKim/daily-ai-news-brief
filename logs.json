@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 19:16:36",
+  "last_updated": "2026-01-13 19:16:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 19:15:50",
-      "message": "[PROCESSING] Analyzing: Sources: CoinGecko, a prominent crypto market data and analytics company, is seeking a potential sale for ~$500M, after starting the sales process in late 2025 (Will Canny/CoinDesk)..."
-    },
     {
       "timestamp": "2026-01-13 19:15:52",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: CoinGecko, a prominent crypto market data and analytics company, is seeking a potential sale for ~$500M, after starting the sales process in late 2025 (Will Canny/CoinDesk)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 19:16:36",
       "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025"
+    },
+    {
+      "timestamp": "2026-01-13 19:16:37",
+      "message": "[PROCESSING] Analyzing: DeepSeek\u2019s conditional memory fixes silent LLM waste: GPU cycles lost to static lookups..."
     }
   ]
 }
