@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 00:09:45",
+  "last_updated": "2026-01-13 00:09:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 00:09:11",
-      "message": "[PROCESSING] Analyzing: Sources: the US nears a trade deal with Taiwan that would reduce tariffs on the island's exports and include a commitment from TSMC to build 5+ fabs in Arizona (New York Times)..."
-    },
     {
       "timestamp": "2026-01-13 00:09:15",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: the US nears a trade deal with Taiwan that would reduce tariffs on the island's exports and include a commitment from TSMC to build 5+ fabs in Arizona (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 00:09:45",
       "message": "Reprocessing: Owkin unveils biology-focused AI agents for clinical research and drug discovery"
+    },
+    {
+      "timestamp": "2026-01-13 00:09:46",
+      "message": "[SKIP] Content too short: Owkin unveils biology-focused ..."
     }
   ]
 }
