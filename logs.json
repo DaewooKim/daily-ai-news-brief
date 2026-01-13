@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 18:09:21",
+  "last_updated": "2026-01-13 18:09:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 18:08:32",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-13 18:08:32",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 18:09:21",
       "message": "[PROCESSING] Analyzing: Marvel won&#8217;t let you forget Avengers: Doomsday is coming..."
+    },
+    {
+      "timestamp": "2026-01-13 18:09:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Marvel won&#8217;t let you forget Avengers: Doomsday is coming"
     }
   ]
 }
