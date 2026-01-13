@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 05:23:51",
+  "last_updated": "2026-01-13 05:23:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 05:23:07",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-13 05:23:18",
       "message": "Found 89 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 05:23:51",
       "message": "[PROCESSING] Analyzing: A late-2025 amendment to California's wealth tax proposal treats founder control as ownership, a move that could end founder-controlled startups in the state (Mike Solana/Pirate Wires)..."
+    },
+    {
+      "timestamp": "2026-01-13 05:23:53",
+      "message": "[SKIP] Irrelevant (AI Filter): A late-2025 amendment to California's wealth tax proposal treats founder control as ownership, a move that could end founder-controlled startups in the state (Mike Solana/Pirate Wires)"
     }
   ]
 }
