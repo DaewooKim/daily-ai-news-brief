@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 16:02:08",
+  "last_updated": "2026-01-13 16:02:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 16:01:26",
-      "message": "[PROCESSING] Analyzing: Netflix CTO Elizabeth Stone and other execs discuss the challenges Netflix faces in streaming live events, after broadcasting 200+ live events since March 2023 (Isabelle Bousquette/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-01-13 16:01:28",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix CTO Elizabeth Stone and other execs discuss the challenges Netflix faces in streaming live events, after broadcasting 200+ live events since March 2023 (Isabelle Bousquette/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 16:02:08",
       "message": "[PROCESSING] Analyzing: How DoorDash scaled without a costly ERP overhaul..."
+    },
+    {
+      "timestamp": "2026-01-13 16:02:10",
+      "message": "[SKIP] Irrelevant (AI Filter): How DoorDash scaled without a costly ERP overhaul"
     }
   ]
 }
