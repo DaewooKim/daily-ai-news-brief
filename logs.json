@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 05:24:37",
+  "last_updated": "2026-01-13 05:24:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 05:24:04",
-      "message": "[PROCESSING] Analyzing: Personal finance app Betterment says an individual accessed certain systems to send fake crypto scam notification and believes the person accessed user info (Emily Mason/Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-13 05:24:06",
       "message": "[SKIP] Irrelevant (AI Filter): Personal finance app Betterment says an individual accessed certain systems to send fake crypto scam notification and believes the person accessed user info (Emily Mason/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 05:24:37",
       "message": "[PROCESSING] Analyzing: How DoorDash scaled without a costly ERP overhaul..."
+    },
+    {
+      "timestamp": "2026-01-13 05:24:40",
+      "message": "[SKIP] Irrelevant (AI Filter): How DoorDash scaled without a costly ERP overhaul"
     }
   ]
 }
