@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 23:36:37",
+  "last_updated": "2026-01-13 23:36:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 23:35:57",
-      "message": "[PROCESSING] Analyzing: Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 (The Information)..."
-    },
     {
       "timestamp": "2026-01-13 23:36:02",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: AI \uce69 \uc81c\uc870\uc5c5\uccb4 \uc138\ub808\ube0c\ub77c\uc2a4, \uc0c8\ub85c\uc6b4 \ud22c\uc790 \uc774\uc804\uc5d0 220\uc5b5 \ub2ec\ub7ec\ub85c \ud3c9\uac00\ubc1b\uace0 \uc788\uc73c\uba70, 10\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uae30 \uc704\ud574 \ub17c\uc758 \uc911\n  > Summary: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \uc138\ub808\ube0c\ub77c\uc2a4 \uc2dc\uc2a4\ud15c\uc988\uac00 \uc57d 10\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uae30 \uc704\ud574 \ub17c\uc758 \uc911\uc774\uba70, \uc0c8\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 23:36:37",
       "message": "[PROCESSING] Analyzing: Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging..."
+    },
+    {
+      "timestamp": "2026-01-13 23:36:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging"
     }
   ]
 }
