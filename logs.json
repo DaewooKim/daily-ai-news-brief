@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 08:33:19",
+  "last_updated": "2026-01-13 08:33:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 08:32:41",
-      "message": "[PROCESSING] Analyzing: Baseus\u2019 retractable travel adapter is on sale for more than 50 percent off today..."
-    },
     {
       "timestamp": "2026-01-13 08:32:43",
       "message": "[SKIP] Irrelevant (AI Filter): Baseus\u2019 retractable travel adapter is on sale for more than 50 percent off today"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 08:33:19",
       "message": "[PROCESSING] Analyzing: The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity (Decrypt)..."
+    },
+    {
+      "timestamp": "2026-01-13 08:33:22",
+      "message": "[SKIP] Irrelevant (AI Filter): The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity (Decrypt)"
     }
   ]
 }
