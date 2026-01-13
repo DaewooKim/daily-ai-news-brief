@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 01:12:23",
+  "last_updated": "2026-01-13 01:12:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 01:11:46",
-      "message": "Reprocessing: OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying about $100M in equity (Laura Mandaro/The Information)"
-    },
     {
       "timestamp": "2026-01-13 01:11:47",
       "message": "[PROCESSING] Analyzing: OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying about $100M in equity (Laura Mandaro/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 01:12:23",
       "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025..."
+    },
+    {
+      "timestamp": "2026-01-13 01:12:25",
+      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025"
     }
   ]
 }
