@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 07:30:07",
+  "last_updated": "2026-01-13 07:30:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 07:29:19",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-13 07:29:34",
       "message": "Found 89 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 07:30:07",
       "message": "[PROCESSING] Analyzing: A look at WhatsApp's enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide (Sam Knight/New Yorker)..."
+    },
+    {
+      "timestamp": "2026-01-13 07:30:10",
+      "message": "[SKIP] Irrelevant (AI Filter): A look at WhatsApp's enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide (Sam Knight/New Yorker)"
     }
   ]
 }
