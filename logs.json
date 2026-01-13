@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 17:05:47",
+  "last_updated": "2026-01-13 17:05:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 17:05:01",
-      "message": "Reprocessing: Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz"
-    },
     {
       "timestamp": "2026-01-13 17:05:02",
       "message": "[PROCESSING] Analyzing: Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 17:05:47",
       "message": "[PROCESSING] Analyzing: Sources: CoinGecko, a prominent crypto market data and analytics company, is considering a sale at a ~$500M valuation, after starting the sales process in 2025 (Will Canny/CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-01-13 17:05:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: CoinGecko, a prominent crypto market data and analytics company, is considering a sale at a ~$500M valuation, after starting the sales process in 2025 (Will Canny/CoinDesk)"
     }
   ]
 }
