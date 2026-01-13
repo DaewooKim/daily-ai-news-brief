@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 12:47:04",
+  "last_updated": "2026-01-13 12:47:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 12:46:15",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-13 12:46:30",
       "message": "Found 95 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 12:47:04",
       "message": "[PROCESSING] Analyzing: Patmos Scores $100M Clean Energy Loan for Kansas City Data Center..."
+    },
+    {
+      "timestamp": "2026-01-13 12:47:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Patmos Scores $100M Clean Energy Loan for Kansas City Data Center"
     }
   ]
 }
