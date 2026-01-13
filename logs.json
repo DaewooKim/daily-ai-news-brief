@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 12:48:17",
+  "last_updated": "2026-01-13 12:48:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 12:47:33",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: OpenAI, NBC \ubc29\uc1a1 \uc911 60\ucd08 \uc288\ud37c\ubcfc \uad11\uace0 \uacc4\ud68d\n  > Summary: OpenAI\ub294 NBC \ubc29\uc1a1 \uc911 60\ucd08\uc9dc\ub9ac \uc288\ud37c\ubcfc \uad11\uace0\ub97c \uacc4\ud68d\ud558\uace0 \uc788\uc73c\uba70, \uc774\ub294 \ub450 \ubc88\uc9f8 \ud574..."
-    },
     {
       "timestamp": "2026-01-13 12:47:34",
       "message": "[PROCESSING] Analyzing: Interviews with Spotify founder Daniel Ek on his CEO exit, and new co-CEOs Gustav S\u00f6derstr\u00f6m and Alex Norstr\u00f6m, who face algorithmic fatigue and angry artists (Ashley Carman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 12:48:17",
       "message": "[PROCESSING] Analyzing: Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging..."
+    },
+    {
+      "timestamp": "2026-01-13 12:48:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging"
     }
   ]
 }
