@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 17:04:57",
+  "last_updated": "2026-01-13 17:05:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 17:04:17",
-      "message": "Found 107 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-13 17:04:17",
       "message": "[PROCESSING] Analyzing: Google\u2019s Veo now turns portrait images into vertical AI videos..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 17:04:57",
       "message": "[PROCESSING] Analyzing: Apple launches \u2018Creator Studio\u2019 bundle of apps for $12.99 per month..."
+    },
+    {
+      "timestamp": "2026-01-13 17:05:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple launches \u2018Creator Studio\u2019 bundle of apps for $12.99 per month"
     }
   ]
 }
