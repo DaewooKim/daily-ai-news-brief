@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 16:01:42",
+  "last_updated": "2026-01-13 16:01:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 16:00:58",
-      "message": "[PROCESSING] Analyzing: Sources: carmakers find a workaround for chip shortages amid Nexperia's internal battle, buying wafers from its Dutch arm and then shipping themselves to China (Financial Times)..."
-    },
     {
       "timestamp": "2026-01-13 16:01:04",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc790\ub3d9\ucc28 \uc81c\uc870\uc5c5\uccb4\ub4e4\uc774 Nexperia\uc758 \ub0b4\ubd80 \uac08\ub4f1 \uc18d\uc5d0\uc11c \uce69 \ubd80\uc871 \ubb38\uc81c\uc5d0 \ub300\ud55c \ud574\uacb0\ucc45\uc744 \ucc3e\uc73c\uba70 \ub124\ub35c\ub780\ub4dc \uc790\ud68c\uc0ac\ub85c\ubd80\ud130 \uc6e8\uc774\ud37c\ub97c \uad6c\ub9e4\ud558\uace0 \uc774\ub97c \uc911\uad6d\uc73c\ub85c \uc9c1\uc811 \ubc30\uc1a1\ud558\uace0 \uc788\ub2e4\n  > Summary: \uc5ec\ub7ec \uc790\ub3d9\ucc28 \uadf8\ub8f9\uc774 Nexperia\uc758 \ub124\ub35c\ub780\ub4dc \uc790\ud68c\uc0ac\ub85c\ubd80\ud130 \uc6e8\uc774\ud37c\ub97c \uad6c\ub9e4\ud558\uace0 \uc774\ub97c \uc911\uad6d \uc720..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 16:01:42",
       "message": "[PROCESSING] Analyzing: Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging..."
+    },
+    {
+      "timestamp": "2026-01-13 16:01:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Surface Metrology for Hybrid Bonding in Advanced Semiconductor Packaging"
     }
   ]
 }
