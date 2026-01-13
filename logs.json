@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-13 02:16:42",
-  "status": "idle",
+  "last_updated": "2026-01-13 03:17:14",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-13 02:15:22",
-      "message": "Reprocessing: L&T Semiconductor Technologies Launches India\u2019s Cellular IoT Module Business"
+      "timestamp": "2026-01-13 03:16:58",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-13 02:15:24",
-      "message": "[PROCESSING] Analyzing: L&T Semiconductor Technologies Launches India\u2019s Cellular IoT Module Business..."
+      "timestamp": "2026-01-13 03:16:59",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-13 02:15:29",
-      "message": "[SUCCESS] Processed: L&T \ubc18\ub3c4\uccb4 \uae30\uc220, \uc778\ub3c4\uc758 \uc140\ub8f0\ub7ec IoT \ubaa8\ub4c8 \uc0ac\uc5c5 \ucd9c\ubc94\n  > Summary: L&T \ubc18\ub3c4\uccb4 \uae30\uc220\uc740 CES 2026\uc5d0\uc11c \uc778\ub3c4\uc758 \uc140\ub8f0\ub7ec IoT \ubaa8\ub4c8 \uc0ac\uc5c5 \uc9c4\ucd9c\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8..."
+      "timestamp": "2026-01-13 03:16:59",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-13 02:15:31",
-      "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025..."
+      "timestamp": "2026-01-13 03:17:14",
+      "message": "Found 88 articles within the last 2 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-13 02:15:33",
-      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:34",
-      "message": "Reprocessing: Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:35",
-      "message": "[PROCESSING] Analyzing: Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:41",
-      "message": "[SUCCESS] Processed: \uc559\ud2b8\ub85c\ud53d, \ud30c\uc77c \uc791\uc5c5\uc744 \uc9c0\uc6d0\ud558\ub294 Claude \ub370\uc2a4\ud06c\ud0d1 \uc5d0\uc774\uc804\ud2b8 Cowork \ucd9c\uc2dc\n  > Summary: \uc559\ud2b8\ub85c\ud53d\uc774 \ube44\uae30\uc220 \uc0ac\uc6a9\uc790\ub4e4\ub3c4 \ud65c\uc6a9\ud560 \uc218 \uc788\ub294 \uc0c8\ub85c\uc6b4 AI \uc5d0\uc774\uc804\ud2b8 \uae30\ub2a5\uc778 Cowork\ub97c \ucd9c..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:42",
-      "message": "[PROCESSING] Analyzing: How DoorDash scaled without a costly ERP overhaul..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:44",
-      "message": "[SKIP] Irrelevant (AI Filter): How DoorDash scaled without a costly ERP overhaul"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:45",
-      "message": "[SKIP] Content too short: French fighter company Dassaul..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:46",
-      "message": "Reprocessing: Nvidia, Lilly to invest up to $1B in new AI medical research lab"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:48",
-      "message": "[SKIP] Content too short: Nvidia, Lilly to invest up to ..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:49",
-      "message": "Reprocessing: Anthropic\u2019s Cowork is a more accessible version of Claude Code"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:50",
-      "message": "[SKIP] Content too short: Anthropic\u2019s Cowork is a more a..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:52",
-      "message": "Reprocessing: Meta Platforms creates new organization to lead its AI infrastructure buildout"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:53",
-      "message": "[SKIP] Content too short: Meta Platforms creates new org..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:54",
-      "message": "Reprocessing: Meta reportedly prepares new round of Reality Labs layoffs as AI takes priority"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:56",
-      "message": "[SKIP] Content too short: Meta reportedly prepares new r..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:57",
-      "message": "Reprocessing: Custodial wallet provider BitGo files for $201M public offering"
-    },
-    {
-      "timestamp": "2026-01-13 02:15:58",
-      "message": "[SKIP] Content too short: Custodial wallet provider BitG..."
-    },
-    {
-      "timestamp": "2026-01-13 02:15:59",
-      "message": "Reprocessing: OpenAI buys Torch to bring unified medical data into ChatGPT Health"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:01",
-      "message": "[SKIP] Content too short: OpenAI buys Torch to bring uni..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:02",
-      "message": "Reprocessing: Apple will use Google\u2019s Gemini models to power new Siri release"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:03",
-      "message": "[SKIP] Content too short: Apple will use Google\u2019s Gemini..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:05",
-      "message": "Reprocessing: LambdaTest rebrands as TestMu AI to become agentic quality platform"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:06",
-      "message": "[SKIP] Content too short: LambdaTest rebrands as TestMu ..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:08",
-      "message": "Reprocessing: Owkin unveils biology-focused AI agents for clinical research and drug discovery"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:09",
-      "message": "[SKIP] Content too short: Owkin unveils biology-focused ..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:10",
-      "message": "Reprocessing: HPE Networking rolls out a bevy of retail products at NRF 2026"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:12",
-      "message": "[SKIP] Content too short: HPE Networking rolls out a bev..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:13",
-      "message": "Reprocessing: Trellix warns of advanced Facebook phishing using browser-in-the-browser attacks"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:14",
-      "message": "[SKIP] Content too short: Trellix warns of advanced Face..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:16",
-      "message": "Reprocessing: Cast AI raises funds from Pacific Alliance Ventures at $1B valuation to launch unified GPU marketplace"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:17",
-      "message": "[SKIP] Content too short: Cast AI raises funds from Paci..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:18",
-      "message": "Reprocessing: Everseen adds a conversational intelligence layer to its AI theft-prevention system"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:20",
-      "message": "[SKIP] Content too short: Everseen adds a conversational..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:21",
-      "message": "Reprocessing: Five thoughts from Nvidia\u2019s keynote at CES"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:22",
-      "message": "[SKIP] Content too short: Five thoughts from Nvidia\u2019s ke..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:23",
-      "message": "Reprocessing: Anthropic pushes into healthcare to help patients understand their medical records"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:25",
-      "message": "[SKIP] Content too short: Anthropic pushes into healthca..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:26",
-      "message": "Reprocessing: Google debuts Universal Commerce Protocol to streamline agentic shopping automation"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:28",
-      "message": "[SKIP] Content too short: Google debuts Universal Commer..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:29",
-      "message": "Reprocessing: Instagram denies data breach after password reset emails spark leak claims"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:30",
-      "message": "[SKIP] Content too short: Instagram denies data breach a..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:31",
-      "message": "Reprocessing: Torq raises $140M at $1.2B valuation to scale AI-driven security hyperautomation"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:33",
-      "message": "[SKIP] Content too short: Torq raises $140M at $1.2B val..."
-    },
-    {
-      "timestamp": "2026-01-13 02:16:34",
-      "message": "Completed! New: 2, Updated: 22"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:38",
-      "message": "Saved 24 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-13 02:16:41",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-13 03:17:14",
+      "message": "[PROCESSING] Analyzing: Fired Rockstar employees\u2019 plea for interim pay denied..."
     }
   ]
 }
