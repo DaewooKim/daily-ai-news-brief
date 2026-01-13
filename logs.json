@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-13 02:15:12",
+  "last_updated": "2026-01-13 02:15:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-13 02:14:36",
-      "message": "[PROCESSING] Analyzing: SK Hynix will invest ~$12.9B to build an advanced chip packaging plant in South Korea to meet rising memory chip demand, targeting completion by the end of 2027 (Reuters)..."
-    },
     {
       "timestamp": "2026-01-13 02:14:40",
       "message": "[SUCCESS] Processed: SK \ud558\uc774\ub2c9\uc2a4, \uba54\ubaa8\ub9ac \ubc18\ub3c4\uccb4 \uc218\uc694 \uc99d\uac00\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 \ud55c\uad6d\uc5d0 \ucca8\ub2e8 \ubc18\ub3c4\uccb4 \ud328\ud0a4\uc9d5 \uacf5\uc7a5 \uac74\uc124\uc5d0 \uc57d 129\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uc608\uc815\n  > Summary: SK \ud558\uc774\ub2c9\uc2a4\ub294 \uba54\ubaa8\ub9ac \ubc18\ub3c4\uccb4 \uc218\uc694\ub97c \ucda9\uc871\ud558\uae30 \uc704\ud574 \ud55c\uad6d\uc5d0 \ucca8\ub2e8 \ubc18\ub3c4\uccb4 \ud328\ud0a4\uc9d5 \uacf5\uc7a5\uc744 \uac74\uc124..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-13 02:15:12",
       "message": "[PROCESSING] Analyzing: Ultralow-Loss PIC Platform From Violet to Near-Infrared, CMOS-Foundry Compatible (Caltech, UCSB et al.)..."
+    },
+    {
+      "timestamp": "2026-01-13 02:15:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Ultralow-Loss PIC Platform From Violet to Near-Infrared, CMOS-Foundry Compatible (Caltech, UCSB et al.)"
     }
   ]
 }
