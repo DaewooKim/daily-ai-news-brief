@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 20:19:43",
+  "last_updated": "2026-01-14 20:19:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 20:19:04",
-      "message": "[PROCESSING] Analyzing: Verizon\u2019s wireless network is down for many people nationwide..."
-    },
     {
       "timestamp": "2026-01-14 20:19:07",
       "message": "[SKIP] Irrelevant (AI Filter): Verizon\u2019s wireless network is down for many people nationwide"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 20:19:43",
       "message": "Reprocessing: Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR"
+    },
+    {
+      "timestamp": "2026-01-14 20:19:45",
+      "message": "[SKIP] Content too short: Next generation medical image ..."
     }
   ]
 }
