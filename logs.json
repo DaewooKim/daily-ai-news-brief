@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 20:19:40",
+  "last_updated": "2026-01-14 20:19:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 20:19:01",
-      "message": "[PROCESSING] Analyzing: Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin..."
-    },
     {
       "timestamp": "2026-01-14 20:19:03",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 20:19:40",
       "message": "Reprocessing: Hard-braking events as indicators of road segment crash risk"
+    },
+    {
+      "timestamp": "2026-01-14 20:19:42",
+      "message": "[SKIP] Content too short: Hard-braking events as indicat..."
     }
   ]
 }
