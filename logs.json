@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 13:43:19",
+  "last_updated": "2026-01-14 13:43:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 13:42:31",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-14 13:42:44",
       "message": "Found 123 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 13:43:19",
       "message": "[SKIP] Irrelevant (AI Filter): The best noise-canceling headphones to buy right now"
+    },
+    {
+      "timestamp": "2026-01-14 13:43:20",
+      "message": "Reprocessing: Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics"
     }
   ]
 }
