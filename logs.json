@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 14:49:12",
+  "last_updated": "2026-01-14 14:49:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 14:48:28",
-      "message": "[PROCESSING] Analyzing: Tesla to stop selling FSD as a standalone package and switch to subscription only..."
-    },
     {
       "timestamp": "2026-01-14 14:48:33",
       "message": "[SUCCESS] Processed: \ud14c\uc2ac\ub77c, FSD\ub97c \ub3c5\ub9bd \ud328\ud0a4\uc9c0\ub85c \ud310\ub9e4 \uc911\ub2e8\ud558\uace0 \uad6c\ub3c5\uc81c\ub85c \uc804\ud658\n  > Summary: \ud14c\uc2ac\ub77c\uac00 \uc790\uc728\uc8fc\ud589 \uae30\ub2a5\uc778 FSD(Full Self-Driving)\ub97c \ub3c5\ub9bd \ud328\ud0a4\uc9c0\ub85c \ud310\ub9e4\ud558\uc9c0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 14:49:12",
       "message": "Reprocessing: Hard-braking events as indicators of road segment crash risk"
+    },
+    {
+      "timestamp": "2026-01-14 14:49:14",
+      "message": "[SKIP] Content too short: Hard-braking events as indicat..."
     }
   ]
 }
