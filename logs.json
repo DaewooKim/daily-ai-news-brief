@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 22:32:12",
+  "last_updated": "2026-01-14 22:32:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 22:31:29",
-      "message": "[PROCESSING] Analyzing: I\u2019ve tested 30 smart locks, and these are the best..."
-    },
     {
       "timestamp": "2026-01-14 22:31:32",
       "message": "[SKIP] Irrelevant (AI Filter): I\u2019ve tested 30 smart locks, and these are the best"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 22:32:12",
       "message": "Reprocessing: Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR"
+    },
+    {
+      "timestamp": "2026-01-14 22:32:13",
+      "message": "[SKIP] Content too short: Next generation medical image ..."
     }
   ]
 }
