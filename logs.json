@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 22:31:48",
+  "last_updated": "2026-01-14 22:31:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 22:31:00",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-14 22:31:15",
       "message": "Found 131 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 22:31:48",
       "message": "[PROCESSING] Analyzing: The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations..."
+    },
+    {
+      "timestamp": "2026-01-14 22:31:50",
+      "message": "[SKIP] Irrelevant (AI Filter): The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations"
     }
   ]
 }
