@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 05:02:47",
+  "last_updated": "2026-01-14 05:02:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 05:02:11",
-      "message": "[PROCESSING] Analyzing: Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use (Ben Fritz/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-01-14 05:02:15",
       "message": "[SUCCESS] Processed: \ub9e4\ud29c \ub9e5\ucee4\ub108\ud788, \ubb34\ub2e8 AI \uc0ac\uc6a9\uc73c\ub85c\ubd80\ud130 \uc790\uc2e0\uc744 \ubcf4\ud638\ud558\uae30 \uc704\ud574 \ucd5c\uadfc \uba87 \ub2ec \uac04 8\uac1c\uc758 \uc0c1\ud45c\uad8c\uc744 \ud655\ubcf4\ud558\ub2e4\n  > Summary: \ub9e4\ud29c \ub9e5\ucee4\ub108\ud788\ub294 \ucd5c\uadfc \uba87 \ub2ec \uac04 \ubb34\ub2e8 AI \uc0ac\uc6a9\uc73c\ub85c\ubd80\ud130 \uc790\uc2e0\uc758 \ubaa8\uc2b5\uacfc \ubaa9\uc18c\ub9ac\ub97c \ubcf4\ud638\ud558\uae30 \uc704..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 05:02:47",
       "message": "[PROCESSING] Analyzing: Sources: Amazon is seeking supplier discounts, from low single digits to 30%, as it moves to reverse concessions made to limit the shock of Trump's tariffs (Rafe Rosner-Uddin/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-01-14 05:02:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Amazon is seeking supplier discounts, from low single digits to 30%, as it moves to reverse concessions made to limit the shock of Trump's tariffs (Rafe Rosner-Uddin/Financial Times)"
     }
   ]
 }
