@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 11:32:19",
+  "last_updated": "2026-01-14 11:32:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 11:31:30",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-14 11:31:44",
       "message": "Found 124 articles within the last 2 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 11:32:19",
       "message": "[PROCESSING] Analyzing: Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics..."
+    },
+    {
+      "timestamp": "2026-01-14 11:32:24",
+      "message": "[SUCCESS] Processed: NVIDIA cuOpt\uac00 \ud504\ub77c\uc774\uba40 \ud734\ub9ac\uc2a4\ud2f1\uc744 \uc0ac\uc6a9\ud558\uc5ec \ud63c\ud569 \uc815\uc218 \ucd5c\uc801\ud654\ub97c \uac00\uc18d\ud654\ud558\ub294 \ubc29\ubc95\uc744 \ubc30\uc6cc\ubcf4\uc138\uc694\n  > Summary: NVIDIA cuOpt\ub294 \ub300\ud615 \ubcf5\ud569 \uc758\uc0ac\uacb0\uc815 \ubb38\uc81c\uc5d0 \ub300\ud574 \ube60\ub974\uace0 \uace0\ud488\uc9c8\uc758 \uc194\ub8e8\uc158\uc744 \uc81c\uacf5\ud558\ub294..."
     }
   ]
 }
