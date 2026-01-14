@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 10:28:24",
+  "last_updated": "2026-01-14 10:28:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 10:27:47",
-      "message": "[PROCESSING] Analyzing: In South Korea's competition to develop an indigenous AI model, three of the five finalists used foreign open-source code, which they argue is practical (Jiyoung Sohn/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-01-14 10:27:51",
       "message": "[SUCCESS] Processed: \ud55c\uad6d\uc758 \ud1a0\uc885 AI \ubaa8\ub378 \uac1c\ubc1c \uacbd\uc7c1\uc5d0\uc11c 5\uba85\uc758 \uacb0\uc120 \uc9c4\ucd9c\uc790 \uc911 3\uba85\uc774 \uc678\uad6d \uc624\ud508 \uc18c\uc2a4 \ucf54\ub4dc\ub97c \uc0ac\uc6a9\ud588\ub2e4\ub294 \uc8fc\uc7a5\n  > Summary: \ud55c\uad6d\uc758 \ud1a0\uc885 AI \ubaa8\ub378 \uac1c\ubc1c \uacbd\uc7c1\uc5d0\uc11c 5\uba85\uc758 \uacb0\uc120 \uc9c4\ucd9c\uc790 \uc911 3\uba85\uc774 \uc2e4\uc6a9\uc131\uc744 \uc8fc\uc7a5\ud558\uba70 \uc678\uad6d..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 10:28:24",
       "message": "[PROCESSING] Analyzing: Saudi Arabia's PIF transfers ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December 2025 (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-14 10:28:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Saudi Arabia's PIF transfers ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December 2025 (Bloomberg)"
     }
   ]
 }
