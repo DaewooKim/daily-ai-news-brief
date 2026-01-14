@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 12:40:37",
+  "last_updated": "2026-01-14 12:40:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 12:39:51",
-      "message": "[PROCESSING] Analyzing: Blog Review: Jan. 14..."
-    },
     {
       "timestamp": "2026-01-14 12:39:56",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 1\uc6d4 14\uc77c\n  > Summary: Arm\uc758 Paul Black\ub294 \uacbd\ub7c9 LLVM \uc0cc\ud0c0\uc774\uc800\uac00 C \ubc0f C++ \uc784\ubca0\ub514\ub4dc \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 12:40:37",
       "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025..."
+    },
+    {
+      "timestamp": "2026-01-14 12:40:39",
+      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025"
     }
   ]
 }
