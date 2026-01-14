@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 14:49:15",
+  "last_updated": "2026-01-14 14:49:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 14:48:34",
-      "message": "[PROCESSING] Analyzing: Honda relaunching Acura RDX as a next-gen two-motor hybrid..."
-    },
     {
       "timestamp": "2026-01-14 14:48:37",
       "message": "[SKIP] Irrelevant (AI Filter): Honda relaunching Acura RDX as a next-gen two-motor hybrid"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 14:49:15",
       "message": "Reprocessing: Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR"
+    },
+    {
+      "timestamp": "2026-01-14 14:49:17",
+      "message": "[SKIP] Content too short: Next generation medical image ..."
     }
   ]
 }
