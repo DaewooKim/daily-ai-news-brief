@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 01:45:30",
+  "last_updated": "2026-01-14 01:45:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 01:44:51",
-      "message": "[PROCESSING] Analyzing: WeatherTech founder might be the newest US consumer protection official..."
-    },
     {
       "timestamp": "2026-01-14 01:44:54",
       "message": "[SKIP] Irrelevant (AI Filter): WeatherTech founder might be the newest US consumer protection official"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 01:45:30",
       "message": "Reprocessing: Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR"
+    },
+    {
+      "timestamp": "2026-01-14 01:45:31",
+      "message": "[SKIP] Content too short: Next generation medical image ..."
     }
   ]
 }
