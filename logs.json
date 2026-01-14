@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 17:01:21",
+  "last_updated": "2026-01-14 17:01:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 17:00:36",
-      "message": "[PROCESSING] Analyzing: DJI Neo 2 review: I guess I\u2019m a drone guy now..."
-    },
     {
       "timestamp": "2026-01-14 17:00:39",
       "message": "[SKIP] Irrelevant (AI Filter): DJI Neo 2 review: I guess I\u2019m a drone guy now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 17:01:21",
       "message": "Reprocessing: Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR"
+    },
+    {
+      "timestamp": "2026-01-14 17:01:23",
+      "message": "[SKIP] Content too short: Next generation medical image ..."
     }
   ]
 }
