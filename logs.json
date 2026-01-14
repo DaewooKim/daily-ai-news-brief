@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 17:01:18",
+  "last_updated": "2026-01-14 17:01:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 17:00:33",
-      "message": "[PROCESSING] Analyzing: Bandcamp becomes the first major music platform to ban AI content..."
-    },
     {
       "timestamp": "2026-01-14 17:00:35",
       "message": "[SKIP] Irrelevant (AI Filter): Bandcamp becomes the first major music platform to ban AI content"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 17:01:18",
       "message": "Reprocessing: Hard-braking events as indicators of road segment crash risk"
+    },
+    {
+      "timestamp": "2026-01-14 17:01:20",
+      "message": "[SKIP] Content too short: Hard-braking events as indicat..."
     }
   ]
 }
