@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-14 13:45:12",
+  "last_updated": "2026-01-14 13:45:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-14 13:44:32",
-      "message": "[SUCCESS] Processed: \ud53c\uce20\ubc84\uadf8\uc5d0 \ubcf8\uc0ac\ub97c \ub454 Skild AI, \ub85c\ubd07\ud559 \uae30\ubc18 \ubaa8\ub378\uc744 \uc81c\uc791\ud558\uba70 14\uc5b5 \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 C\ub97c \ubaa8\uc9d1\n  > Summary: \ud53c\uce20\ubc84\uadf8\uc5d0 \ubcf8\uc0ac\ub97c \ub454 Skild AI\ub294 \ub85c\ubd07 \ud559\uc2b5\uc744 \uc704\ud55c \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uac1c\ubc1c\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c..."
-    },
     {
       "timestamp": "2026-01-14 13:44:34",
       "message": "[PROCESSING] Analyzing: Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app (Natalie Lung/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-14 13:45:12",
       "message": "[PROCESSING] Analyzing: Integrating Optics And Engineering:  How Simulation Transforms Medical Device Design..."
+    },
+    {
+      "timestamp": "2026-01-14 13:45:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Integrating Optics And Engineering:  How Simulation Transforms Medical Device Design"
     }
   ]
 }
