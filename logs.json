@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 01:53:30",
+  "last_updated": "2026-01-15 01:53:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 01:52:55",
-      "message": "[SUCCESS] Processed: HPE, Juniper Mist \ud1b5\ud569\uc73c\ub85c '\uc790\uc728\uc8fc\ud589' \ub124\ud2b8\uc6cc\ud0b9 \uc194\ub8e8\uc158 \uacf5\uac1c\n  > Summary: HPE\ub294 \uc6b4\uc601\uc744 \uac04\uc18c\ud654\ud558\uace0 AI \uae30\ubc18\uc758 \uc790\uc728\uc801 \ub124\ud2b8\uc6cc\ud0b9 \uc194\ub8e8\uc158\uc744 \uc81c\uacf5\ud558\uae30 \uc704\ud574 Junipe..."
-    },
     {
       "timestamp": "2026-01-15 01:52:57",
       "message": "[PROCESSING] Analyzing: Project Eleven, which builds tools to prepare blockchains for post-quantum threats, raised a $20M Series A led by Castle Island at a $120M post-money valuation (Yogita Khatri/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 01:53:30",
       "message": "[PROCESSING] Analyzing: Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-15 01:53:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis (Sarah Perez/TechCrunch)"
     }
   ]
 }
