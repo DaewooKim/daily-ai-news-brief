@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 06:15:27",
+  "last_updated": "2026-01-15 06:15:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 06:14:54",
-      "message": "Reprocessing: Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR"
-    },
     {
       "timestamp": "2026-01-15 06:14:56",
       "message": "[SKIP] Content too short: Next generation medical image ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 06:15:27",
       "message": "[PROCESSING] Analyzing: VoiceRun nabs $5.5M to build a voice agent factory..."
+    },
+    {
+      "timestamp": "2026-01-15 06:15:32",
+      "message": "[SUCCESS] Processed: VoiceRun, 550\ub9cc \ub2ec\ub7ec\ub97c \ud655\ubcf4\ud558\uc5ec \uc74c\uc131 \uc5d0\uc774\uc804\ud2b8 \uacf5\uc7a5\uc744 \uad6c\ucd95\ud558\ub2e4\n  > Summary: VoiceRun\uc740 \uc74c\uc131 \uc5d0\uc774\uc804\ud2b8\ub97c \uac1c\ubc1c\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c, Flybridge\uc758 \uc8fc\ub3c4\ub85c 550..."
     }
   ]
 }
