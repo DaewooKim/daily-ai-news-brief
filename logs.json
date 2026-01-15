@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 08:25:39",
+  "last_updated": "2026-01-15 08:25:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 08:24:54",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-15 08:24:54",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 08:25:39",
       "message": "[PROCESSING] Analyzing: Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin..."
+    },
+    {
+      "timestamp": "2026-01-15 08:25:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin"
     }
   ]
 }
