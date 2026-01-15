@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 09:33:19",
+  "last_updated": "2026-01-15 09:33:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 09:32:38",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130 \ub0b4\ubd80 \uc804\uae30 \uc778\ud504\ub77c\uc758 \uc7ac\uc124\uacc4\n  > Summary: AI \ubd90\uc73c\ub85c \uc778\ud574 \uc804\uae30 \uc218\uc694\uac00 \uae09\uc99d\ud558\uba74\uc11c \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4\uc774 \ubbf8\ub798 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc704\ud55c \uc804\ub825 \uc2dc\uc2a4\ud15c..."
-    },
     {
       "timestamp": "2026-01-15 09:32:39",
       "message": "Reprocessing: HPE Unveils \u2019Self-Driving\u2019 Networking Solutions with Juniper Mist Integration"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 09:33:19",
       "message": "[PROCESSING] Analyzing: CoinDesk data: Binance's spot crypto trading market share fell to 25% in December 2025, its lowest since 2021, and it is losing ground in derivatives trading (Sidhartha Shukla/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-15 09:33:21",
+      "message": "[SKIP] Irrelevant (AI Filter): CoinDesk data: Binance's spot crypto trading market share fell to 25% in December 2025, its lowest since 2021, and it is losing ground in derivatives trading (Sidhartha Shukla/Bloomberg)"
     }
   ]
 }
