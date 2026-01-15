@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 09:31:44",
+  "last_updated": "2026-01-15 09:31:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 09:31:08",
-      "message": "[SKIP] Irrelevant (AI Filter): The best e-reader to buy right now"
-    },
     {
       "timestamp": "2026-01-15 09:31:09",
       "message": "[PROCESSING] Analyzing: The Stream Deck Plus is back to its lowest price..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 09:31:44",
       "message": "Reprocessing: Hard-braking events as indicators of road segment crash risk"
+    },
+    {
+      "timestamp": "2026-01-15 09:31:46",
+      "message": "[SKIP] Content too short: Hard-braking events as indicat..."
     }
   ]
 }
