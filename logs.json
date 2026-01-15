@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 01:51:27",
+  "last_updated": "2026-01-15 01:51:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 01:50:53",
-      "message": "Found 129 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-15 01:50:53",
       "message": "[PROCESSING] Analyzing: The best e-reader to buy right now..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 01:51:27",
       "message": "[PROCESSING] Analyzing: Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin..."
+    },
+    {
+      "timestamp": "2026-01-15 01:51:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin"
     }
   ]
 }
