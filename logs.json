@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 04:05:08",
+  "last_updated": "2026-01-15 04:05:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 04:04:34",
-      "message": "[SUCCESS] Processed: HPE, \uc8fc\ub2c8\ud37c \ubbf8\uc2a4\ud2b8 \ud1b5\ud569\uc73c\ub85c \u2018\uc790\uc728 \uc8fc\ud589\u2019 \ub124\ud2b8\uc6cc\ud0b9 \uc194\ub8e8\uc158 \ubc1c\ud45c\n  > Summary: HPE\ub294 \uc6b4\uc601\uc744 \uac04\uc18c\ud654\ud558\uace0 AI \uae30\ubc18\uc758 \uc790\uc728 \ub124\ud2b8\uc6cc\ud0b9 \uc194\ub8e8\uc158\uc744 \uc81c\uacf5\ud558\uae30 \uc704\ud574 \uc8fc\ub2c8\ud37c \ubbf8\uc2a4\ud2b8..."
-    },
     {
       "timestamp": "2026-01-15 04:04:35",
       "message": "[PROCESSING] Analyzing: CoinDesk Data: Binance's market share of spot crypto trading fell to 25% in December, its lowest since 2021, and it is also losing ground in derivatives trading (Sidhartha Shukla/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 04:05:08",
       "message": "[PROCESSING] Analyzing: Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-15 04:05:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Digg, rebooted under original founder Kevin Rose and Alexis Ohanian, launches its open beta; the site had been open to 67,000 users on an invite-only basis (Sarah Perez/TechCrunch)"
     }
   ]
 }
