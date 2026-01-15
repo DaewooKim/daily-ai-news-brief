@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-15 08:28:46",
+  "last_updated": "2026-01-15 08:28:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-15 08:28:08",
-      "message": "[PROCESSING] Analyzing: 2026: This is AGI..."
-    },
     {
       "timestamp": "2026-01-15 08:28:13",
       "message": "[SUCCESS] Processed: 2026: AGI\uac00 \uc624\ub2e4\n  > Summary: 2026\ub144, AGI(Artificial General Intelligence)\uac00 \ud604\uc2e4\uc774 \ub418..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-15 08:28:46",
       "message": "[SKIP] Content too short: IBM launches cloud platform tu..."
+    },
+    {
+      "timestamp": "2026-01-15 08:28:48",
+      "message": "Reprocessing: OpenAI commits to buying $10B+ worth of AI compute capacity from Cerebras Systems"
     }
   ]
 }
