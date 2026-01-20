@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 23:21:39",
+  "last_updated": "2026-01-20 23:21:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 23:21:10",
-      "message": "[SKIP] Content too short: OpenAI backer Sequoia Capital ..."
-    },
     {
       "timestamp": "2026-01-20 23:21:12",
       "message": "Reprocessing: Human-in-the-loop has hit the wall. It\u2019s time for AI to oversee AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 23:21:39",
       "message": "[PROCESSING] Analyzing: TP-Link TX201 2.5GbE PCIe Adapter Review..."
+    },
+    {
+      "timestamp": "2026-01-20 23:21:41",
+      "message": "[SKIP] Irrelevant (AI Filter): TP-Link TX201 2.5GbE PCIe Adapter Review"
     }
   ]
 }
