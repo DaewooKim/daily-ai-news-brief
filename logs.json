@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 14:12:57",
+  "last_updated": "2026-01-20 14:13:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 14:11:59",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d CEO \ub2e4\ub9ac\uc624 \uc544\ubaa8\ub370\uc774, AI \uce69 \uc911\uad6d \ud310\ub9e4\ub294 '\uc5c4\uccad\ub09c \uad6d\uac00 \uc548\ubcf4'\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \uc2e4\uc218\ub77c\uace0 \ub9d0\ud558\ub2e4\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc758 CEO \ub2e4\ub9ac\uc624 \uc544\ubaa8\ub370\uc774\ub294 AI \uce69\uc744 \uc911\uad6d\uc5d0 \ud310\ub9e4\ud558\ub294 \uac83\uc774 '\uc5c4\uccad\ub09c \uad6d\uac00 \uc548\ubcf4'\uc5d0..."
-    },
     {
       "timestamp": "2026-01-20 14:12:00",
       "message": "[PROCESSING] Analyzing: Humans&, founded by ex-Anthropic, xAI, and Google staff to build collaborative AI, raised a $480M seed from Nvidia, Jeff Bezos, and others at a $4.48B valuation (Cade Metz/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 14:12:57",
       "message": "[PROCESSING] Analyzing: Sources: China broadens its probe into Temu owner PDD, dispatching 100+ investigators to its Shanghai HQ, after staff exchanged physical blows with regulators (John Liu/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-20 14:13:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: China broadens its probe into Temu owner PDD, dispatching 100+ investigators to its Shanghai HQ, after staff exchanged physical blows with regulators (John Liu/Bloomberg)"
     }
   ]
 }
