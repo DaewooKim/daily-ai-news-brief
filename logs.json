@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-20 14:18:27",
-  "status": "idle",
+  "last_updated": "2026-01-20 15:19:05",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-20 14:16:42",
-      "message": "[SUCCESS] Processed: \uc2a4\ub9c8\ud2b8 \uc81c\uc870\ub97c \uc704\ud55c \ud504\ub85c\uc138\uc11c\n  > Summary: \uc2a4\ub9c8\ud2b8 \uc81c\uc870\ub294 \uc0b0\uc5c5 IoT, \uc778\uacf5\uc9c0\ub2a5 \ubc0f \ub370\uc774\ud130 \ubd84\uc11d \ub4f1\uc758 \ub514\uc9c0\ud138 \uae30\uc220\uc744 \uc0b0\uc5c5 \ud504\ub85c\uc138\uc2a4\uc5d0 ..."
+      "timestamp": "2026-01-20 15:18:50",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-20 14:16:44",
-      "message": "[PROCESSING] Analyzing: \uc81c\ud488\uc744 \ub9cc\ub4e4\uba74\uc11c \ub3c8\uc744 \ubc84\ub294 \ubc95..."
+      "timestamp": "2026-01-20 15:18:50",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-20 14:16:47",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc81c\ud488\uc744 \ub9cc\ub4e4\uba74\uc11c \ub3c8\uc744 \ubc84\ub294 \ubc95"
+      "timestamp": "2026-01-20 15:18:50",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-20 14:16:48",
-      "message": "[SKIP] Content too short: Ethernovia raises more than $9..."
+      "timestamp": "2026-01-20 15:19:05",
+      "message": "Found 135 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-20 14:16:50",
-      "message": "[SKIP] Content too short: Tacnode emerges from stealth w..."
-    },
-    {
-      "timestamp": "2026-01-20 14:16:51",
-      "message": "[SKIP] Content too short: Modulate\u2019s Ensemble Listening ..."
-    },
-    {
-      "timestamp": "2026-01-20 14:16:53",
-      "message": "[SKIP] Content too short: Global 2000 companies lag on d..."
-    },
-    {
-      "timestamp": "2026-01-20 14:16:55",
-      "message": "[SKIP] Content too short: HackerOne launches Good Faith ..."
-    },
-    {
-      "timestamp": "2026-01-20 14:16:56",
-      "message": "[SKIP] Content too short: Legato raises $7M to corral in..."
-    },
-    {
-      "timestamp": "2026-01-20 14:16:58",
-      "message": "[SKIP] Content too short: Anthropic\u2019s official Git MCP s..."
-    },
-    {
-      "timestamp": "2026-01-20 14:16:59",
-      "message": "[SKIP] Content too short: Reps launches to help teams tr..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:01",
-      "message": "[SKIP] Content too short: Sophos introduces Workspace Pr..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:03",
-      "message": "[SKIP] Content too short: UK mulls social media ban for ..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:04",
-      "message": "[SKIP] Content too short: AI chip developer FuriosaAI re..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:06",
-      "message": "[SKIP] Content too short: NYSE previews platform for tok..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:07",
-      "message": "[SKIP] Content too short: China\u2019s Moonshot AI to close o..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:09",
-      "message": "[SKIP] Content too short: OpenAI reveals its data center..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:11",
-      "message": "[SKIP] Content too short: As AI raises the cost of hospi..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:13",
-      "message": "[SKIP] Content too short: Indirect prompt injection in G..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:15",
-      "message": "[SKIP] Content too short: IBM\u2019s newest consulting servic..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:16",
-      "message": "[SKIP] Content too short: OpenAI backer Sequoia Capital ..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:18",
-      "message": "[SKIP] Content too short: Human-in-the-loop has hit the ..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:19",
-      "message": "[SKIP] Content too short: 2026 data predictions: Scaling..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:21",
-      "message": "[SKIP] Content too short: Meta to stop selling Quest hea..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:23",
-      "message": "[SKIP] Content too short: OpenAI to start testing ChatGP..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:24",
-      "message": "[SKIP] Content too short: Database maker ClickHouse rais..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:26",
-      "message": "[SKIP] Content too short: 13 signals shaping the race to..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:28",
-      "message": "[SKIP] Content too short: Data retrieval and embeddings ..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:30",
-      "message": "[SKIP] Content too short: AI lifts Alphabet to $4T valua..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:32",
-      "message": "[SKIP] Content too short: After backlash, X restricts Gr..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:33",
-      "message": "[SKIP] Content too short: OpenAI quietly launches ChatGP..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:34",
-      "message": "[SKIP] Content too short: Warehouse automation startup M..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:36",
-      "message": "[SKIP] Content too short: Nvidia\u2019s NVentures backs Harmo..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:38",
-      "message": "[PROCESSING] Analyzing: TRENDnet TL2-F7080 Review a Cheap 8-Port 10G Web Managed Switch..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:42",
-      "message": "[SKIP] Irrelevant (AI Filter): TRENDnet TL2-F7080 Review a Cheap 8-Port 10G Web Managed Switch"
-    },
-    {
-      "timestamp": "2026-01-20 14:17:43",
-      "message": "[PROCESSING] Analyzing: TP-Link TX201 2.5GbE PCIe Adapter Review..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:47",
-      "message": "[SKIP] Irrelevant (AI Filter): TP-Link TX201 2.5GbE PCIe Adapter Review"
-    },
-    {
-      "timestamp": "2026-01-20 14:17:48",
-      "message": "[PROCESSING] Analyzing: Seagate Shipping 32TB HAMR Hard Drives for Server, NAS, & Surveillance Markets..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:52",
-      "message": "[SKIP] Irrelevant (AI Filter): Seagate Shipping 32TB HAMR Hard Drives for Server, NAS, & Surveillance Markets"
-    },
-    {
-      "timestamp": "2026-01-20 14:17:54",
-      "message": "[PROCESSING] Analyzing: MikroTik CRS804 DDQ Announced 4-Port 400GbE Switch..."
-    },
-    {
-      "timestamp": "2026-01-20 14:17:56",
-      "message": "[SKIP] Irrelevant (AI Filter): MikroTik CRS804 DDQ Announced 4-Port 400GbE Switch"
-    },
-    {
-      "timestamp": "2026-01-20 14:17:58",
-      "message": "[PROCESSING] Analyzing: FS QSFP112 400Gbps DACs Mini Review..."
-    },
-    {
-      "timestamp": "2026-01-20 14:18:01",
-      "message": "[SKIP] Irrelevant (AI Filter): FS QSFP112 400Gbps DACs Mini Review"
-    },
-    {
-      "timestamp": "2026-01-20 14:18:02",
-      "message": "[PROCESSING] Analyzing: SiFive To Adopt NVLInk Fusion For Future Data Center RISC-V CPU Designs..."
-    },
-    {
-      "timestamp": "2026-01-20 14:18:08",
-      "message": "[SUCCESS] Processed: SiFive, \ubbf8\ub798 \ub370\uc774\ud130 \uc13c\ud130 RISC-V CPU \uc124\uacc4\ub97c \uc704\ud574 NVLink Fusion\uc744 \ucc44\ud0dd\ud558\ub2e4\n  > Summary: SiFive\ub294 \ubbf8\ub798\uc758 RISC-V \ub370\uc774\ud130 \uc13c\ud130 CPU \uc124\uacc4\ub97c \uc704\ud574 NVLink Fusion..."
-    },
-    {
-      "timestamp": "2026-01-20 14:18:10",
-      "message": "[PROCESSING] Analyzing: Building an agentic memory system for GitHub Copilot..."
-    },
-    {
-      "timestamp": "2026-01-20 14:18:17",
-      "message": "[SUCCESS] Processed: GitHub Copilot\uc744 \uc704\ud55c \uc5d0\uc774\uc804\ud2f1 \uba54\ubaa8\ub9ac \uc2dc\uc2a4\ud15c \uad6c\ucd95\n  > Summary: GitHub Copilot\uc744 \uc5d0\uc774\uc804\ud2b8 \uc0dd\ud0dc\uacc4\ub85c \ubc1c\uc804\uc2dc\ud0a4\uae30 \uc704\ud55c \ube44\uc804\uc744 \uc81c\uc2dc\ud558\uba70, \uc5d0\uc774\uc804\ud2b8\ub4e4..."
-    },
-    {
-      "timestamp": "2026-01-20 14:18:18",
-      "message": "Completed! New: 100, Updated: 0"
-    },
-    {
-      "timestamp": "2026-01-20 14:18:22",
-      "message": "Saved 100 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-20 14:18:25",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-20 15:19:05",
+      "message": "[PROCESSING] Analyzing: Amazon\u2019s CEO says tariffs are starting to \u2018creep into\u2019 pricing..."
     }
   ]
 }
