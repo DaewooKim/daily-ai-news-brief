@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 18:45:00",
+  "last_updated": "2026-01-20 18:45:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 18:44:13",
-      "message": "[PROCESSING] Analyzing: The best iPad deals you can get right now..."
-    },
     {
       "timestamp": "2026-01-20 18:44:15",
       "message": "[SKIP] Irrelevant (AI Filter): The best iPad deals you can get right now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 18:45:00",
       "message": "Reprocessing: Unlocking health insights: Estimating advanced walking metrics with smartwatches"
+    },
+    {
+      "timestamp": "2026-01-20 18:45:01",
+      "message": "[SKIP] Content too short: Unlocking health insights: Est..."
     }
   ]
 }
