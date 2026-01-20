@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 19:56:09",
+  "last_updated": "2026-01-20 19:56:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 19:55:24",
-      "message": "[SUCCESS] Processed: \ud154\ub9c1\ud06c \ubc18\ub3c4\uccb4, CES 2026\uc5d0\uc11c AIoT \ubb34\uc120 \ud601\uc2e0\uc744 \uc120\ubcf4\uc774\ub2e4\n  > Summary: 2026\ub144 1\uc6d4 9\uc77c, CES\uac00 \ubbf8\uad6d \ub77c\uc2a4\ubca0\uac00\uc2a4\uc5d0\uc11c \uc131\uacf5\uc801\uc73c\ub85c \uc885\ub8cc\ub418\uc5c8\uc73c\uba70, \uc18c\ube44\uc790 \uc804\uc790 ..."
-    },
     {
       "timestamp": "2026-01-20 19:55:26",
       "message": "Reprocessing: CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 19:56:09",
       "message": "[PROCESSING] Analyzing: Netflix adds a real-time voting feature for its Star Search reboot, available on mobile, smart TVs, and streaming devices, but not on a browser (Ivan Mehta/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-20 19:56:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix adds a real-time voting feature for its Star Search reboot, available on mobile, smart TVs, and streaming devices, but not on a browser (Ivan Mehta/TechCrunch)"
     }
   ]
 }
