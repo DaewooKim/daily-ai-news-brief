@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 13:00:10",
+  "last_updated": "2026-01-20 13:00:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 12:59:21",
-      "message": "Found 63 articles within the last 2 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-20 12:59:21",
       "message": "[PROCESSING] Analyzing: Netflix revises Warner Bros. bid to an all-cash offer..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 13:00:10",
       "message": "[PROCESSING] Analyzing: Bungie\u2019s Marathon shooter launches on March 5th..."
+    },
+    {
+      "timestamp": "2026-01-20 13:00:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Bungie\u2019s Marathon shooter launches on March 5th"
     }
   ]
 }
