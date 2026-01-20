@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 23:16:08",
+  "last_updated": "2026-01-20 23:16:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 23:15:32",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-20 23:15:32",
       "message": "[PROCESSING] Analyzing: Netflix earned $1.5 billion from ads in 2025..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 23:16:08",
       "message": "[PROCESSING] Analyzing: Netflix\u2019s Star Search will let you vote to decide who wins..."
+    },
+    {
+      "timestamp": "2026-01-20 23:16:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix\u2019s Star Search will let you vote to decide who wins"
     }
   ]
 }
