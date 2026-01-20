@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 21:03:53",
+  "last_updated": "2026-01-20 21:03:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 21:03:04",
-      "message": "[SUCCESS] Processed: AI \uc2dc\ub300\uc5d0 \ub9de\ucdb0 \ub370\uc774\ud130 \uc13c\ud130 \uc870\uc815: \uc18d\ub3c4\uc5d0\uc11c \ubbfc\ucca9\uc131\uc73c\ub85c\n  > Summary: AI\uc758 \ubc1c\uc804\uc740 \ub370\uc774\ud130 \uc13c\ud130 \uc124\uacc4\ub97c \ubcc0\ud601\ud558\uace0 \uc788\uc73c\uba70, \ubcc0\ud654\ud558\ub294 \uc791\uc5c5 \ubd80\ud558\uc5d0 \ub9de\ucdb0 \ubbfc\ucca9\uc131, \ud655..."
-    },
     {
       "timestamp": "2026-01-20 21:03:05",
       "message": "[PROCESSING] Analyzing: AI Data Center Boom Risks Roiling Global Carmaker Supply Chains..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 21:03:53",
       "message": "[PROCESSING] Analyzing: Netflix adds a real-time voting feature for its Star Search reboot, available on mobile, smart TVs, and streaming devices, but not on a browser (Ivan Mehta/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-20 21:03:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix adds a real-time voting feature for its Star Search reboot, available on mobile, smart TVs, and streaming devices, but not on a browser (Ivan Mehta/TechCrunch)"
     }
   ]
 }
