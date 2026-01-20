@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 14:06:44",
+  "last_updated": "2026-01-20 14:06:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 14:05:52",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-20 14:05:52",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 14:06:44",
       "message": "[PROCESSING] Analyzing: How much can a city take?..."
+    },
+    {
+      "timestamp": "2026-01-20 14:06:46",
+      "message": "[SKIP] Irrelevant (AI Filter): How much can a city take?"
     }
   ]
 }
