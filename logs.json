@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 14:06:47",
+  "last_updated": "2026-01-20 14:06:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 14:06:06",
-      "message": "Found 139 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-20 14:06:06",
       "message": "[PROCESSING] Analyzing: How BYD beat Tesla..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 14:06:47",
       "message": "[PROCESSING] Analyzing: A second US Sphere could come to Maryland..."
+    },
+    {
+      "timestamp": "2026-01-20 14:06:50",
+      "message": "[SKIP] Irrelevant (AI Filter): A second US Sphere could come to Maryland"
     }
   ]
 }
