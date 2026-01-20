@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 22:08:39",
+  "last_updated": "2026-01-20 22:08:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 22:08:02",
-      "message": "Found 141 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-20 22:08:02",
       "message": "[PROCESSING] Analyzing: Nova Launcher\u2019s new owner might offer a version with ads..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 22:08:39",
       "message": "[PROCESSING] Analyzing: How BYD beat Tesla..."
+    },
+    {
+      "timestamp": "2026-01-20 22:08:42",
+      "message": "[SKIP] Irrelevant (AI Filter): How BYD beat Tesla"
     }
   ]
 }
