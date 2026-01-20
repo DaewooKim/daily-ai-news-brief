@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 16:29:03",
+  "last_updated": "2026-01-20 16:29:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 16:28:23",
-      "message": "[PROCESSING] Analyzing: Amazon\u2019s CEO says tariffs are starting to \u2018creep into\u2019 pricing..."
-    },
     {
       "timestamp": "2026-01-20 16:28:26",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon\u2019s CEO says tariffs are starting to \u2018creep into\u2019 pricing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 16:29:03",
       "message": "Reprocessing: Unlocking health insights: Estimating advanced walking metrics with smartwatches"
+    },
+    {
+      "timestamp": "2026-01-20 16:29:05",
+      "message": "[SKIP] Content too short: Unlocking health insights: Est..."
     }
   ]
 }
