@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 14:12:35",
+  "last_updated": "2026-01-20 14:12:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 14:11:31",
-      "message": "[SUCCESS] Processed: \uc0c8\ub85c\uc6b4 'AI \ud31f', \ubbf8\uad6d\uc758 \uc791\uc740 \ub3c4\uc2dc\ub4e4\uc5d0 \uc800\uc9c0\uc5f0 \ucef4\ud4e8\ud305 \uc81c\uacf5\n  > Summary: \uc5f0\uacb0\ub41c \ubaa8\ub4c8\ud615 \ucef4\ud4e8\ud305 \ud074\ub7ec\uc2a4\ud130\uac00 \ubbf8\uad6d\uc758 \uc791\uc740 \ub3c4\uc2dc\ub4e4\uc5d0\uc11c \uc800\uc9c0\uc5f0 AI \ubc30\ud3ec\ub97c \uac00\uc18d\ud654\ud558\uc5ec \ucd94\ub860..."
-    },
     {
       "timestamp": "2026-01-20 14:11:32",
       "message": "[PROCESSING] Analyzing: Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation (Aditya Soni/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 14:12:35",
       "message": "[PROCESSING] Analyzing: Meta VP of Public Policy Simon Milner, the company's most senior Asia-Pacific policy executive, plans to leave after 14 years to retire from full-time work (Newley Purnell/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-20 14:12:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta VP of Public Policy Simon Milner, the company's most senior Asia-Pacific policy executive, plans to leave after 14 years to retire from full-time work (Newley Purnell/Bloomberg)"
     }
   ]
 }
