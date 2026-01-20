@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 23:16:05",
+  "last_updated": "2026-01-20 23:16:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 23:15:21",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-20 23:15:21",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 23:16:05",
       "message": "[PROCESSING] Analyzing: The best iPad deals you can get right now..."
+    },
+    {
+      "timestamp": "2026-01-20 23:16:07",
+      "message": "[SKIP] Irrelevant (AI Filter): The best iPad deals you can get right now"
     }
   ]
 }
