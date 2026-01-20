@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 22:11:58",
+  "last_updated": "2026-01-20 22:12:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 22:11:16",
-      "message": "[PROCESSING] Analyzing: Netflix reports Q4 revenue up 18% YoY to $12B vs. $11.97B est., 325M paid subs, 2025 revenue up 16% to $45.2B, plans to increase content spend by 10% in 2026 (Lucas Shaw/Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-20 22:11:18",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix reports Q4 revenue up 18% YoY to $12B vs. $11.97B est., 325M paid subs, 2025 revenue up 16% to $45.2B, plans to increase content spend by 10% in 2026 (Lucas Shaw/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 22:11:58",
       "message": "[PROCESSING] Analyzing: Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU's DMA, plans to shut down, blaming \"still-evolving and complex business terms\" (Tim Hardwick/MacRumors)..."
+    },
+    {
+      "timestamp": "2026-01-20 22:12:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU's DMA, plans to shut down, blaming \"still-evolving and complex business terms\" (Tim Hardwick/MacRumors)"
     }
   ]
 }
