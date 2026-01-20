@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 18:50:27",
+  "last_updated": "2026-01-20 18:50:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 18:49:57",
-      "message": "[PROCESSING] Analyzing: \uc81c\ud488\uc744 \ub9cc\ub4e4\uba74\uc11c \ub3c8\uc744 \ubc84\ub294 \ubc95..."
-    },
     {
       "timestamp": "2026-01-20 18:50:00",
       "message": "[SKIP] Irrelevant (AI Filter): \uc81c\ud488\uc744 \ub9cc\ub4e4\uba74\uc11c \ub3c8\uc744 \ubc84\ub294 \ubc95"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 18:50:27",
       "message": "[SKIP] Content too short: Legato raises $7M to corral in..."
+    },
+    {
+      "timestamp": "2026-01-20 18:50:28",
+      "message": "Reprocessing: Anthropic\u2019s official Git MCP server hit by chained flaws that enable file access and code execution"
     }
   ]
 }
