@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 16:35:20",
+  "last_updated": "2026-01-20 16:35:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 16:34:51",
-      "message": "[SKIP] Content too short: OpenAI to start testing ChatGP..."
-    },
     {
       "timestamp": "2026-01-20 16:34:52",
       "message": "Reprocessing: Database maker ClickHouse raises $400M, acquires AI observability startup Langfuse"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 16:35:20",
       "message": "[PROCESSING] Analyzing: FS QSFP112 400Gbps DACs Mini Review..."
+    },
+    {
+      "timestamp": "2026-01-20 16:35:23",
+      "message": "[SKIP] Irrelevant (AI Filter): FS QSFP112 400Gbps DACs Mini Review"
     }
   ]
 }
