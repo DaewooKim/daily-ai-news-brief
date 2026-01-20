@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-20 23:19:30",
+  "last_updated": "2026-01-20 23:19:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-20 23:18:48",
-      "message": "Reprocessing: Sources: AI inference startup Baseten raised $300M led by IVP and CapitalG at a $5B valuation, more than doubling its previous valuation; Nvidia invested $150M (Kate Clark/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-01-20 23:18:50",
       "message": "[PROCESSING] Analyzing: Sources: AI inference startup Baseten raised $300M led by IVP and CapitalG at a $5B valuation, more than doubling its previous valuation; Nvidia invested $150M (Kate Clark/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-20 23:19:30",
       "message": "[PROCESSING] Analyzing: SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways..."
+    },
+    {
+      "timestamp": "2026-01-20 23:19:32",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
     }
   ]
 }
