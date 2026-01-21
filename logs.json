@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 10:28:00",
+  "last_updated": "2026-01-21 10:28:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 10:27:25",
-      "message": "[SUCCESS] Processed: CES 2026: AMD\uc640 Nvidia\uc758 \ubb3c\ub9ac\uc801 AI \uc2a4\ud1a0\ub9ac\ub294 \uc5b4\ub5bb\uac8c \uc313\uc774\ub098?\n  > Summary: CES 2026\uc740 \uae30\uc220 \uc0b0\uc5c5\uc5d0\uc11c \uc8fc\uc694 \ud2b8\ub80c\ub4dc\ub97c \uc608\uce21\ud558\ub294 \uc911\uc694\ud55c \ud589\uc0ac\ub85c \uc5ec\uaca8\uc9c4\ub2e4. 2026\ub144..."
-    },
     {
       "timestamp": "2026-01-21 10:27:26",
       "message": "[PROCESSING] Analyzing: PTP is the New NTP: How Data Centers Are Achieving Real-Time Precision..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 10:28:00",
       "message": "[PROCESSING] Analyzing: Barret Zoph says Thinking Machines Lab fired him only after learning he was leaving, and at no time did the company cite his performance or unethical conduct (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-01-21 10:28:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Barret Zoph says Thinking Machines Lab fired him only after learning he was leaving, and at no time did the company cite his performance or unethical conduct (Wall Street Journal)"
     }
   ]
 }
