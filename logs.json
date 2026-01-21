@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 11:35:26",
+  "last_updated": "2026-01-21 11:35:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 11:34:47",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI begins offering its chatbot ads to dozens of advertisers, initially charging per ad view, not per ad click, and asks them for <$1M commitments (The Information)..."
-    },
     {
       "timestamp": "2026-01-21 11:34:49",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: OpenAI begins offering its chatbot ads to dozens of advertisers, initially charging per ad view, not per ad click, and asks them for <$1M commitments (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 11:35:26",
       "message": "[PROCESSING] Analyzing: Low Temperature Cu-Cu Bonding for Advanced Packaging (NYCU)..."
+    },
+    {
+      "timestamp": "2026-01-21 11:35:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Low Temperature Cu-Cu Bonding for Advanced Packaging (NYCU)"
     }
   ]
 }
