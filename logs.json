@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 06:01:01",
+  "last_updated": "2026-01-21 06:01:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 06:00:04",
-      "message": "Reprocessing: X says it has open sourced its \"core recommendation system\" on GitHub and that the system \"ranks everything using a Grok-based transformer model\" (Lucas Ropek/TechCrunch)"
-    },
     {
       "timestamp": "2026-01-21 06:00:06",
       "message": "[PROCESSING] Analyzing: X says it has open sourced its \"core recommendation system\" on GitHub and that the system \"ranks everything using a Grok-based transformer model\" (Lucas Ropek/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 06:01:01",
       "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
+    },
+    {
+      "timestamp": "2026-01-21 06:01:02",
+      "message": "Reprocessing: CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing"
     }
   ]
 }
