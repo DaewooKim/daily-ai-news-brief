@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 07:08:11",
+  "last_updated": "2026-01-21 07:08:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 07:07:33",
-      "message": "Reprocessing: Sources: Applied Compute, which lets companies customize models with their own data, is in talks to raise funding at a $1.3B valuation, up from $500M in October (The Information)"
-    },
     {
       "timestamp": "2026-01-21 07:07:34",
       "message": "[PROCESSING] Analyzing: Sources: Applied Compute, which lets companies customize models with their own data, is in talks to raise funding at a $1.3B valuation, up from $500M in October (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 07:08:11",
       "message": "[PROCESSING] Analyzing: CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics..."
+    },
+    {
+      "timestamp": "2026-01-21 07:08:13",
+      "message": "[SKIP] Irrelevant (AI Filter): CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics"
     }
   ]
 }
