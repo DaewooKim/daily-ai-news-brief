@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 11:32:51",
+  "last_updated": "2026-01-21 11:32:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 11:31:57",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-21 11:32:11",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 11:32:51",
       "message": "[PROCESSING] Analyzing: Nova Launcher\u2019s new owner might offer a version with ads..."
+    },
+    {
+      "timestamp": "2026-01-21 11:32:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Nova Launcher\u2019s new owner might offer a version with ads"
     }
   ]
 }
