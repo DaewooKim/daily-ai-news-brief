@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 04:51:13",
+  "last_updated": "2026-01-21 04:51:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 04:50:38",
-      "message": "[PROCESSING] Analyzing: AI for self empowerment..."
-    },
     {
       "timestamp": "2026-01-21 04:50:41",
       "message": "[SUCCESS] Processed: \uc790\uae30 \uad8c\ud55c \uac15\ud654\ub97c \uc704\ud55c AI\n  > Summary: AI\ub294 \uc778\uac04\uc758 \uc5ed\ub7c9\uc744 \ud655\uc7a5\ud558\uc5ec \uc0dd\uc0b0\uc131, \uc131\uc7a5 \ubc0f \uae30\ud68c\ub97c \uc2e4\ud604\ud560 \uc218 \uc788\ub3c4\ub85d \ub3c4\uc640\uc90d\ub2c8\ub2e4. \uc774\ub294..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 04:51:13",
       "message": "[PROCESSING] Analyzing: Trump administration wants tech companies to buy $15B of power plants they may not use..."
+    },
+    {
+      "timestamp": "2026-01-21 04:51:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Trump administration wants tech companies to buy $15B of power plants they may not use"
     }
   ]
 }
