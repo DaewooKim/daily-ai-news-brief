@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 23:50:42",
+  "last_updated": "2026-01-21 23:50:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 23:50:03",
-      "message": "Reprocessing: Sources: AI chip startup SambaNova is seeking to raise $300M to $500M after talks to sell the company to Intel for about $1.6B, including debt, stalled (Bloomberg)"
-    },
     {
       "timestamp": "2026-01-21 23:50:05",
       "message": "[PROCESSING] Analyzing: Sources: AI chip startup SambaNova is seeking to raise $300M to $500M after talks to sell the company to Intel for about $1.6B, including debt, stalled (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 23:50:42",
       "message": "[PROCESSING] Analyzing: Entegris Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-01-21 23:50:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Entegris Announces CFO Transition"
     }
   ]
 }
