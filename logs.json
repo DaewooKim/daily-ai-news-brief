@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 07:08:14",
+  "last_updated": "2026-01-21 07:08:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 07:07:38",
-      "message": "[SUCCESS] Processed: \uc815\ubcf4 \ucd9c\ucc98: \ud68c\uc0ac\ub4e4\uc774 \uc790\uc2e0\uc758 \ub370\uc774\ud130\ub85c \ubaa8\ub378\uc744 \uc0ac\uc6a9\uc790\ud654\ud560 \uc218 \uc788\uac8c \ud574\uc8fc\ub294 Applied Compute, 10\uc6d4 5\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 13\uc5b5 \ub2ec\ub7ec \uac00\uce58\ub85c \uc790\uae08 \uc870\ub2ec \ub17c\uc758 \uc911\n  > Summary: Applied Compute\ub294 \uae30\uc5c5\ub4e4\uc774 \uc790\uc2e0\uc758 \ub370\uc774\ud130\ub85c \ubaa8\ub378\uc744 \uc0ac\uc6a9\uc790\ud654\ud560 \uc218 \uc788\ub3c4\ub85d\u5e2e\u52a9\ud558\ub294..."
-    },
     {
       "timestamp": "2026-01-21 07:07:39",
       "message": "[PROCESSING] Analyzing: The EC introduces draft revisions to the EU's Cybersecurity Act to phase out equipment from high-risk suppliers in critical sectors, a move criticized by Huawei (Foo Yun Chee/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 07:08:14",
       "message": "[PROCESSING] Analyzing: SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways..."
+    },
+    {
+      "timestamp": "2026-01-21 07:08:16",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
     }
   ]
 }
