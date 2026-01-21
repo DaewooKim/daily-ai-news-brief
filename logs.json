@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 21:35:45",
+  "last_updated": "2026-01-21 21:35:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 21:35:06",
-      "message": "[SUCCESS] Processed: \uc9c0\ub2a5\uc758 \uac00\uce58\uc640 \ud568\uaed8 \uc131\uc7a5\ud558\ub294 \uc0ac\uc5c5\n  > Summary: OpenAI\uc758 \ube44\uc988\ub2c8\uc2a4 \ubaa8\ub378\uc740 ChatGPT \ucc44\ud0dd\uc758 \uc2ec\ud654\uc5d0 \uc758\ud574 \ucd94\uc9c4\ub418\uba70, \uad6c\ub3c5 \uc11c\ube44\uc2a4, ..."
-    },
     {
       "timestamp": "2026-01-21 21:35:08",
       "message": "[PROCESSING] Analyzing: Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 21:35:45",
       "message": "[SKIP] Irrelevant (AI Filter): Telink Semiconductor at CES 2026: True 8K Wireless Gaming Breakthrough"
+    },
+    {
+      "timestamp": "2026-01-21 21:35:46",
+      "message": "Reprocessing: CES 2026: ECOVACS Expands from Home Cleaning to Service Robotics across Indoor and Outdoor Use"
     }
   ]
 }
