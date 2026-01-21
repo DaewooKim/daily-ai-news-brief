@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 10:28:38",
+  "last_updated": "2026-01-21 10:28:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 10:27:59",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 \uc18c\ube44\uc790\uc758 \uacf5\uacf5\uc694\uae08\uc744 \uc62c\ub9ac\uc9c0 \uc54a\uae30 \uc704\ud574 Stargate \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc5d0\ub108\uc9c0 \uad00\ub828 \uc778\ud504\ub77c \uac1c\ubc1c \ube44\uc6a9\uc744 \ubd80\ub2f4\ud558\uaca0\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 Stargate \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \ud544\uc694\ub85c \ud558\ub294 \uc5d0\ub108\uc9c0 \uad00\ub828 \uc778\ud504\ub77c\uc758 \uac1c\ubc1c \ube44\uc6a9..."
-    },
     {
       "timestamp": "2026-01-21 10:28:00",
       "message": "[PROCESSING] Analyzing: Barret Zoph says Thinking Machines Lab fired him only after learning he was leaving, and at no time did the company cite his performance or unethical conduct (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 10:28:38",
       "message": "[PROCESSING] Analyzing: Low Temperature Cu-Cu Bonding for Advanced Packaging (NYCU)..."
+    },
+    {
+      "timestamp": "2026-01-21 10:28:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Low Temperature Cu-Cu Bonding for Advanced Packaging (NYCU)"
     }
   ]
 }
