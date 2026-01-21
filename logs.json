@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 12:39:23",
+  "last_updated": "2026-01-21 12:39:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 12:38:44",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-21 12:38:44",
       "message": "[PROCESSING] Analyzing: Burritos from Heaven: Are drones the future of delivery?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 12:39:23",
       "message": "[PROCESSING] Analyzing: Netflix will revamp its mobile UI this year..."
+    },
+    {
+      "timestamp": "2026-01-21 12:39:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix will revamp its mobile UI this year"
     }
   ]
 }
