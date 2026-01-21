@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 10:28:53",
+  "last_updated": "2026-01-21 10:28:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 10:28:12",
-      "message": "[PROCESSING] Analyzing: G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub (Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-21 10:28:16",
       "message": "[SUCCESS] Processed: G42 CEO Peng Xiao: AI \uce69\uc774 UAE\uc5d0 \ub3c4\ucc29\ud560 \uc608\uc815\n  > Summary: G42\uc758 CEO\uc778 \ud391 \uc0e4\uc624\ub294 Nvidia, AMD, Cerebras\uc5d0\uc11c \uc81c\uc791\ud55c AI \uce69\uc774 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 10:28:53",
       "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
+    },
+    {
+      "timestamp": "2026-01-21 10:28:54",
+      "message": "Reprocessing: CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing"
     }
   ]
 }
