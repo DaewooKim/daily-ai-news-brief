@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 08:14:55",
+  "last_updated": "2026-01-21 08:14:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 08:14:16",
-      "message": "Reprocessing: G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub (Bloomberg)"
-    },
     {
       "timestamp": "2026-01-21 08:14:17",
       "message": "[PROCESSING] Analyzing: G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 08:14:55",
       "message": "[PROCESSING] Analyzing: SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways..."
+    },
+    {
+      "timestamp": "2026-01-21 08:14:57",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
     }
   ]
 }
