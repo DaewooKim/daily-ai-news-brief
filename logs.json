@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 14:55:56",
+  "last_updated": "2026-01-21 14:55:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 14:55:17",
-      "message": "Reprocessing: Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI (Sarah Perez/TechCrunch)"
-    },
     {
       "timestamp": "2026-01-21 14:55:18",
       "message": "[PROCESSING] Analyzing: Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI (Sarah Perez/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 14:55:56",
       "message": "[PROCESSING] Analyzing: SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways..."
+    },
+    {
+      "timestamp": "2026-01-21 14:55:59",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
     }
   ]
 }
