@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 00:28:40",
+  "last_updated": "2026-01-21 00:28:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 00:28:12",
-      "message": "[SKIP] Content too short: IBM\u2019s newest consulting servic..."
-    },
     {
       "timestamp": "2026-01-21 00:28:13",
       "message": "Reprocessing: OpenAI backer Sequoia Capital in talks to join Anthropic\u2019s proposed $25B megaround"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 00:28:40",
       "message": "[PROCESSING] Analyzing: FS QSFP112 400Gbps DACs Mini Review..."
+    },
+    {
+      "timestamp": "2026-01-21 00:28:42",
+      "message": "[SKIP] Irrelevant (AI Filter): FS QSFP112 400Gbps DACs Mini Review"
     }
   ]
 }
