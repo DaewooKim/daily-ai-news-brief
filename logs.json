@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 03:46:34",
+  "last_updated": "2026-01-21 03:46:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 03:46:01",
-      "message": "[SUCCESS] Processed: G42 CEO \ud391 \uc154\uc624, UAE\uc5d0 Nvidia, AMD \ubc0f Cerebras\uc758 AI \uce69 \ubc30\uc1a1\uc774 \uba87 \ub2ec \uc774\ub0b4\uc5d0 \ub3c4\ucc29\ud560 \uac83\uc774\ub77c\uace0 \ub9d0\ud558\ub2e4\n  > Summary: G42\uc758 CEO\uc778 \ud391 \uc154\uc624\ub294 UAE\uac00 200MW \ud5c8\ube0c\ub97c \uad6c\ucd95\ud568\uc5d0 \ub530\ub77c, Nvidia, AM..."
-    },
     {
       "timestamp": "2026-01-21 03:46:02",
       "message": "Reprocessing: Sources: Applied Compute, which lets companies customize models with their own data, is in talks to raise funding at a $1.3B valuation, up from $500M in October (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 03:46:34",
       "message": "[PROCESSING] Analyzing: The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers (April Rubin/Axios)..."
+    },
+    {
+      "timestamp": "2026-01-21 03:46:36",
+      "message": "[SKIP] Irrelevant (AI Filter): The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers (April Rubin/Axios)"
     }
   ]
 }
