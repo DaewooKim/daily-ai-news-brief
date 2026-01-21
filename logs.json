@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 18:18:20",
+  "last_updated": "2026-01-21 18:18:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 18:17:35",
-      "message": "[PROCESSING] Analyzing: Greene Tweed Welcomes Thomas J. Castle as New Chief Operating  Officer..."
-    },
     {
       "timestamp": "2026-01-21 18:17:36",
       "message": "[SKIP] Irrelevant (AI Filter): Greene Tweed Welcomes Thomas J. Castle as New Chief Operating  Officer"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 18:18:20",
       "message": "[SKIP] Content too short: Sumo Logic targets data pipeli..."
+    },
+    {
+      "timestamp": "2026-01-21 18:18:21",
+      "message": "Reprocessing: Pentera Labs warns vulnerable demo apps are being actively exploited in the wild"
     }
   ]
 }
