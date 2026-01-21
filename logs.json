@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 14:55:52",
+  "last_updated": "2026-01-21 14:55:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 14:55:10",
-      "message": "[PROCESSING] Analyzing: European VC funding rose 9% YoY to hit $58B in 2025, below North America's 46% YoY rise; AI led with $17.5B, followed by biotech's $13.4B and hardware's $10.8B (Gen\u00e9 Teare/Crunchbase News)..."
-    },
     {
       "timestamp": "2026-01-21 14:55:15",
       "message": "[SUCCESS] Processed: \uc720\ub7fd VC \uc790\uae08 \uc9c0\uc6d0\uc774 \uc804\ub144 \ub300\ube44 9% \uc99d\uac00\ud558\uc5ec 2025\ub144 580\uc5b5 \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec\ud588\uc73c\uba70, \ubd81\ubbf8\ub294 46% \uc99d\uac00; AI\uac00 175\uc5b5 \ub2ec\ub7ec\ub85c \uc120\ub450, \uc774\uc5b4 \uc0dd\uba85\uacf5\ud559 134\uc5b5 \ub2ec\ub7ec, \ud558\ub4dc\uc6e8\uc5b4 108\uc5b5 \ub2ec\ub7ec\n  > Summary: \uc720\ub7fd\uc758 \ubca4\ucc98 \uce90\ud53c\ud0c8 \uc790\uae08 \uc9c0\uc6d0\uc774 \uc804\ub144 \ub300\ube44 9% \uc99d\uac00\ud558\uc5ec 2025\ub144 580\uc5b5 \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec\ud588..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 14:55:52",
       "message": "[PROCESSING] Analyzing: CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics..."
+    },
+    {
+      "timestamp": "2026-01-21 14:55:55",
+      "message": "[SKIP] Irrelevant (AI Filter): CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics"
     }
   ]
 }
