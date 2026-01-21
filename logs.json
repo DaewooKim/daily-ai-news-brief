@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-21 13:45:53",
+  "last_updated": "2026-01-21 13:45:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-21 13:45:14",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-21 13:45:14",
       "message": "[PROCESSING] Analyzing: Detective games get extra cryptic with TR-49\u2019s code-breaking mystery..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-21 13:45:53",
       "message": "[PROCESSING] Analyzing: Netflix will revamp its mobile UI this year..."
+    },
+    {
+      "timestamp": "2026-01-21 13:45:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix will revamp its mobile UI this year"
     }
   ]
 }
