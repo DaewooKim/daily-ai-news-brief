@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 15:15:37",
+  "last_updated": "2026-01-22 15:15:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 15:14:54",
-      "message": "[PROCESSING] Analyzing: NYT and CCDH analysis: Grok created and shared 1.8M+ sexualized images of women between December 31 and January 8, after Elon Musk promoted the feature on X (New York Times)..."
-    },
     {
       "timestamp": "2026-01-22 15:14:57",
       "message": "[SKIP] Irrelevant (AI Filter): NYT and CCDH analysis: Grok created and shared 1.8M+ sexualized images of women between December 31 and January 8, after Elon Musk promoted the feature on X (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 15:15:37",
       "message": "[PROCESSING] Analyzing: SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways..."
+    },
+    {
+      "timestamp": "2026-01-22 15:15:39",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
     }
   ]
 }
