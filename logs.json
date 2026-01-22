@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 19:40:21",
+  "last_updated": "2026-01-22 19:40:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 19:39:33",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-22 19:39:33",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 19:40:21",
       "message": "[PROCESSING] Analyzing: Free TV startup Telly only had 35,000 units in people\u2019s homes last fall..."
+    },
+    {
+      "timestamp": "2026-01-22 19:40:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Free TV startup Telly only had 35,000 units in people\u2019s homes last fall"
     }
   ]
 }
