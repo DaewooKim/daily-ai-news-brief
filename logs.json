@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 20:49:22",
+  "last_updated": "2026-01-22 20:49:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 20:48:43",
-      "message": "[SUCCESS] Processed: LiveKit, \uc74c\uc131 \ubc0f \uc601\uc0c1 AI \ubaa8\ub378 \uad6c\ucd95 \ub3c4\uad6c \uc81c\uacf5, 1\uc5b5 \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 C \ud22c\uc790 \uc720\uce58\n  > Summary: LiveKit\uc740 ChatGPT\uc758 \uc74c\uc131 \ubaa8\ub4dc\ub97c \ud3ec\ud568\ud55c \uc74c\uc131, \uc601\uc0c1 \ubc0f \ubb3c\ub9ac\uc801 AI \ubaa8\ub378 \uad6c\ucd95..."
-    },
     {
       "timestamp": "2026-01-22 20:48:44",
       "message": "[PROCESSING] Analyzing: The curl project plans to end its HackerOne bug bounty program at the end of January, citing a surge in low-quality AI-generated vulnerability reports (Lawrence Abrams/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 20:49:22",
       "message": "[PROCESSING] Analyzing: Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications..."
+    },
+    {
+      "timestamp": "2026-01-22 20:49:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications"
     }
   ]
 }
