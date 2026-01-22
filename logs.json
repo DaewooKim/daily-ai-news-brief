@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 21:58:12",
+  "last_updated": "2026-01-22 21:58:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 21:57:44",
-      "message": "[SKIP] Content too short: Sumo Logic targets data pipeli..."
-    },
     {
       "timestamp": "2026-01-22 21:57:46",
       "message": "Reprocessing: Pentera Labs warns vulnerable demo apps are being actively exploited in the wild"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 21:58:12",
       "message": "[PROCESSING] Analyzing: TP-Link TX201 2.5GbE PCIe Adapter Review..."
+    },
+    {
+      "timestamp": "2026-01-22 21:58:14",
+      "message": "[SKIP] Irrelevant (AI Filter): TP-Link TX201 2.5GbE PCIe Adapter Review"
     }
   ]
 }
