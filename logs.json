@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 11:56:18",
+  "last_updated": "2026-01-22 11:56:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 11:55:50",
-      "message": "[SUCCESS] Processed: \uc138\uc77c\uc988\ud3ec\uc2a4 \uc5f0\uad6c: C-suite \uc804\ubc18\uc5d0\uc11c \uc2e0\ub8b0\uac00 \ub2a5\ub3d9\uc801 AI \ud655\uc7a5\uc758 \uc5f4\uc1e0\n  > Summary: \uc138\uc77c\uc988\ud3ec\uc2a4\uc758 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74, 2025\ub144\uae4c\uc9c0 \uacbd\uc601\uc9c4\ub4e4\uc774 \ub2a5\ub3d9\uc801 AI \uc804\ub7b5\uc744 \uad6c\ucd95\ud558\ub294 \ub370 \uc788\uc5b4..."
-    },
     {
       "timestamp": "2026-01-22 11:55:52",
       "message": "[PROCESSING] Analyzing: \ub0b4\uac00 \uc2e4\uc81c\ub85c \uc88b\uc740 \uc870\uc5b8\uc744 \uc5bb\ub294 \ubc29\ubc95..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 11:56:18",
       "message": "Reprocessing: Healthcare AI startup OpenEvidence raises $250M at $12B valuation"
+    },
+    {
+      "timestamp": "2026-01-22 11:56:19",
+      "message": "[SKIP] Content too short: Healthcare AI startup OpenEvid..."
     }
   ]
 }
