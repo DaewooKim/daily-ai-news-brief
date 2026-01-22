@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 13:01:10",
+  "last_updated": "2026-01-22 13:01:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 13:00:29",
-      "message": "[SUCCESS] Processed: \uad6c\uae00 \ub525\ub9c8\uc778\ub4dc, \uc815\uc11c\uc801\uc73c\ub85c \uc9c0\ub2a5\uc801\uc778 \uc74c\uc131 \uc778\ud130\ud398\uc774\uc2a4\ub97c \uad6c\ucd95\ud558\ub294 \ud734\uba3c AI\uc640 \ub77c\uc774\uc13c\uc2a4 \uacc4\uc57d \uccb4\uacb0\n  > Summary: \uad6c\uae00 \ub525\ub9c8\uc778\ub4dc\ub294 \uac10\uc815\uc801\uc73c\ub85c \uc9c0\ub2a5\uc801\uc778 \uc74c\uc131 \uc778\ud130\ud398\uc774\uc2a4\ub97c \uad6c\ucd95\ud558\ub294 Hume AI\uc640 \ub77c\uc774\uc13c\uc2a4 \uacc4..."
-    },
     {
       "timestamp": "2026-01-22 13:00:30",
       "message": "[PROCESSING] Analyzing: Vinted CEO Thomas Plantenga says the Lithuania-based secondhand retailer plans to spend tens of millions of dollars to expand in the US in the coming months (Aimee Look/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 13:01:10",
       "message": "[PROCESSING] Analyzing: Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications..."
+    },
+    {
+      "timestamp": "2026-01-22 13:01:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications"
     }
   ]
 }
