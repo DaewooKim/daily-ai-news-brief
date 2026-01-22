@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 07:31:38",
+  "last_updated": "2026-01-22 07:31:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 07:30:50",
-      "message": "[PROCESSING] Analyzing: BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B (Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-22 07:30:54",
       "message": "[SKIP] Irrelevant (AI Filter): BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 07:31:38",
       "message": "[SKIP] Irrelevant (AI Filter): Entegris Announces CFO Transition"
+    },
+    {
+      "timestamp": "2026-01-22 07:31:39",
+      "message": "Reprocessing: CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics"
     }
   ]
 }
