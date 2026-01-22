@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 17:31:01",
+  "last_updated": "2026-01-22 17:31:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 17:30:30",
-      "message": "[SUCCESS] Processed: TrueFoundry, \ubaa8\ub378 \uc911\ub2e8 \uc2dc \uae30\uc5c5 AI \ud2b8\ub798\ud53d\uc744 \uc790\ub3d9\uc73c\ub85c \ub9ac\ub77c\uc6b0\ud305\ud558\ub294 TrueFailover \ucd9c\uc2dc\n  > Summary: TrueFoundry\ub294 AI \uacf5\uae09\uc790\uc758 \uc911\ub2e8 \ubc0f \ud488\uc9c8 \uc800\ud558\ub97c \uc790\ub3d9\uc73c\ub85c \uac10\uc9c0\ud558\uc5ec \ud2b8\ub798\ud53d\uc744 \ubc31\uc5c5..."
-    },
     {
       "timestamp": "2026-01-22 17:30:32",
       "message": "[PROCESSING] Analyzing: \ub0b4\uac00 \uc2e4\uc81c\ub85c \uc88b\uc740 \uc870\uc5b8\uc744 \uc5bb\ub294 \ubc29\ubc95..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 17:31:01",
       "message": "Reprocessing: Silent Push launches Traffic Origin to expose the true source of obfuscated web traffic"
+    },
+    {
+      "timestamp": "2026-01-22 17:31:02",
+      "message": "[SKIP] Content too short: Silent Push launches Traffic O..."
     }
   ]
 }
