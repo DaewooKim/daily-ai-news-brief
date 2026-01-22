@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 17:30:10",
+  "last_updated": "2026-01-22 17:30:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 17:29:28",
-      "message": "[PROCESSING] Analyzing: The Most Precious Resource..."
-    },
     {
       "timestamp": "2026-01-22 17:29:33",
       "message": "[SUCCESS] Processed: \uac00\uc7a5 \uc18c\uc911\ud55c \uc790\uc6d0\n  > Summary: \uc774 \uae30\uc0ac\ub294 \ube14\ub85d\uc787(Blockit)\uc774\ub77c\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc774 LLM(\ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378)\uc758 \ud798\uc744 \uc774\uc6a9\ud558\uc5ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 17:30:10",
       "message": "[PROCESSING] Analyzing: Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus..."
+    },
+    {
+      "timestamp": "2026-01-22 17:30:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus"
     }
   ]
 }
