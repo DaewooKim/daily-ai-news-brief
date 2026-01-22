@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 17:27:12",
+  "last_updated": "2026-01-22 17:27:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 17:26:14",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-22 17:26:30",
       "message": "Found 162 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 17:27:12",
       "message": "[SKIP] Content too short: Small models, big results: Ach..."
+    },
+    {
+      "timestamp": "2026-01-22 17:27:13",
+      "message": "Reprocessing: Our approach to age prediction"
     }
   ]
 }
