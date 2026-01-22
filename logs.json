@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 04:12:22",
+  "last_updated": "2026-01-22 04:12:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 04:11:37",
-      "message": "[PROCESSING] Analyzing: Here are the best Kindle deals right now..."
-    },
     {
       "timestamp": "2026-01-22 04:11:40",
       "message": "[SKIP] Irrelevant (AI Filter): Here are the best Kindle deals right now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 04:12:22",
       "message": "[PROCESSING] Analyzing: A timeline of the US semiconductor market in 2025..."
+    },
+    {
+      "timestamp": "2026-01-22 04:12:26",
+      "message": "[SKIP] Irrelevant (AI Filter): A timeline of the US semiconductor market in 2025"
     }
   ]
 }
