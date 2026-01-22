@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 18:36:13",
+  "last_updated": "2026-01-22 18:36:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 18:35:34",
-      "message": "[PROCESSING] Analyzing: Inside the turmoil at Thinking Machines; sources say Meta discussed buying TML, and CTO Barret Zoph had been in talks since October 2025 about an OpenAI return (New York Times)..."
-    },
     {
       "timestamp": "2026-01-22 18:35:36",
       "message": "[SKIP] Irrelevant (AI Filter): Inside the turmoil at Thinking Machines; sources say Meta discussed buying TML, and CTO Barret Zoph had been in talks since October 2025 about an OpenAI return (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 18:36:13",
       "message": "[PROCESSING] Analyzing: Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications..."
+    },
+    {
+      "timestamp": "2026-01-22 18:36:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications"
     }
   ]
 }
