@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 20:48:51",
+  "last_updated": "2026-01-22 20:48:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 20:48:13",
-      "message": "[SUCCESS] Processed: CES 2026, \ubb3c\ub9ac\uc801 AI\uc758 \ud0c4\uc0dd\uc744 \uc54c\ub9ac\ub2e4\n  > Summary: CES 2026\uac00 \ub9c9\uc744 \ub0b4\ub9ac\uba70, AI\uac00 \ubaa8\ub2c8\ud130\ub97c \ub118\uc5b4 \ubb3c\ub9ac\uc801 \uc138\uacc4\ub85c \ub300\uaddc\ubaa8\ub85c \uc9c4\ucd9c\ud558\ub294 \ud574\uac00..."
-    },
     {
       "timestamp": "2026-01-22 20:48:15",
       "message": "[PROCESSING] Analyzing: Are Laser-Based Spark Plugs a Viable Option for Igniting ICE Fuel?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 20:48:51",
       "message": "[PROCESSING] Analyzing: Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels (On Substack)..."
+    },
+    {
+      "timestamp": "2026-01-22 20:48:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels (On Substack)"
     }
   ]
 }
