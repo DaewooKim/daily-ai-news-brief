@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 15:18:08",
+  "last_updated": "2026-01-22 15:18:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 15:17:34",
-      "message": "[SKIP] Content too short: Sumo Logic targets data pipeli..."
-    },
     {
       "timestamp": "2026-01-22 15:17:36",
       "message": "Reprocessing: Pentera Labs warns vulnerable demo apps are being actively exploited in the wild"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 15:18:08",
       "message": "[PROCESSING] Analyzing: The 2026 VGA Monitor at STH Sceptre 24-inch Prime Monitor E248W-19203R..."
+    },
+    {
+      "timestamp": "2026-01-22 15:18:10",
+      "message": "[SKIP] Irrelevant (AI Filter): The 2026 VGA Monitor at STH Sceptre 24-inch Prime Monitor E248W-19203R"
     }
   ]
 }
