@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 16:21:29",
+  "last_updated": "2026-01-22 16:21:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 16:20:44",
-      "message": "[PROCESSING] Analyzing: Zanskar thinks 1 TW of geothermal power is being overlooked..."
-    },
     {
       "timestamp": "2026-01-22 16:20:46",
       "message": "[SKIP] Irrelevant (AI Filter): Zanskar thinks 1 TW of geothermal power is being overlooked"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 16:21:29",
       "message": "[PROCESSING] Analyzing: FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan..."
+    },
+    {
+      "timestamp": "2026-01-22 16:21:32",
+      "message": "[SKIP] Irrelevant (AI Filter): FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan"
     }
   ]
 }
