@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 20:46:57",
+  "last_updated": "2026-01-22 20:46:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 20:46:16",
-      "message": "[PROCESSING] Analyzing: Ring claims it&#8217;s not giving ICE access to its cameras..."
-    },
     {
       "timestamp": "2026-01-22 20:46:22",
       "message": "[SUCCESS] Processed: \ub9c1\uc740 ICE\uc5d0 \uce74\uba54\ub77c \uc811\uadfc\uc744 \uc81c\uacf5\ud558\uc9c0 \uc54a\ub294\ub2e4\uace0 \uc8fc\uc7a5\ud558\ub2e4\n  > Summary: \ub9c1\uc740 \uc790\uc0ac\uc758 \ube44\ub514\uc624 \ub3c4\uc5b4\ubca8\uacfc \uce74\uba54\ub77c\uac00 ICE\uc5d0 \uc601\uc0c1\uc744 \uc804\uc1a1\ud558\uc9c0 \uc54a\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \ud3ec\uad04\uc801\uc778..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 20:46:57",
       "message": "[SKIP] Irrelevant (AI Filter): Xbox Developer Direct 2026: the biggest games and announcements"
+    },
+    {
+      "timestamp": "2026-01-22 20:46:58",
+      "message": "Reprocessing: Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs"
     }
   ]
 }
