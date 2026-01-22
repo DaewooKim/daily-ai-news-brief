@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 21:55:29",
+  "last_updated": "2026-01-22 21:55:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 21:54:52",
-      "message": "[PROCESSING] Analyzing: Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-01-22 21:54:54",
       "message": "[SKIP] Irrelevant (AI Filter): Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock (Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 21:55:29",
       "message": "[PROCESSING] Analyzing: Railway, a cloud platform for software deployment, raised a $100M Series B led by TQ Ventures, bringing its total funding to $130M+, says it has ARR of $10M+ (Chris Metinko/Axios)..."
+    },
+    {
+      "timestamp": "2026-01-22 21:55:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Railway, a cloud platform for software deployment, raised a $100M Series B led by TQ Ventures, bringing its total funding to $130M+, says it has ARR of $10M+ (Chris Metinko/Axios)"
     }
   ]
 }
