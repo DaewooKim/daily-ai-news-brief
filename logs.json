@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-22 20:46:55",
+  "last_updated": "2026-01-22 20:46:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-22 20:46:16",
-      "message": "Found 166 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-22 20:46:16",
       "message": "[PROCESSING] Analyzing: Ring claims it&#8217;s not giving ICE access to its cameras..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-22 20:46:55",
       "message": "[PROCESSING] Analyzing: Xbox Developer Direct 2026: the biggest games and announcements..."
+    },
+    {
+      "timestamp": "2026-01-22 20:46:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox Developer Direct 2026: the biggest games and announcements"
     }
   ]
 }
