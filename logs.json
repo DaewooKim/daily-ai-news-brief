@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 05:39:12",
+  "last_updated": "2026-01-23 05:39:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 05:38:30",
-      "message": "[PROCESSING] Analyzing: Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-01-23 05:38:32",
       "message": "[SKIP] Irrelevant (AI Filter): Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock (Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 05:39:12",
       "message": "[PROCESSING] Analyzing: Entegris Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-01-23 05:39:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Entegris Announces CFO Transition"
     }
   ]
 }
