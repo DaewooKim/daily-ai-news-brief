@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 16:38:27",
+  "last_updated": "2026-01-23 16:38:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 16:37:44",
-      "message": "Found 173 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-23 16:37:44",
       "message": "[PROCESSING] Analyzing: Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 16:38:27",
       "message": "[SKIP] Content too short: Small models, big results: Ach..."
+    },
+    {
+      "timestamp": "2026-01-23 16:38:29",
+      "message": "Reprocessing: Our approach to age prediction"
     }
   ]
 }
