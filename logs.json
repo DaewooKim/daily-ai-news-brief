@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 00:08:53",
+  "last_updated": "2026-01-23 00:08:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 00:07:57",
-      "message": "[SUCCESS] Processed: \uc74c\uc131, \ube44\ub514\uc624 \ubc0f \ubb3c\ub9ac\uc801 AI \ubaa8\ub378 \uad6c\ucd95 \ub3c4\uad6c\ub97c \uc81c\uacf5\ud558\ub294 LiveKit, 10\uc5b5 \ub2ec\ub7ec \ud3c9\uac00\ub85c 1\uc5b5 \ub2ec\ub7ec \uc2dc\ub9ac\uc988 C \uc790\uae08 \uc870\ub2ec\n  > Summary: LiveKit\ub294 ChatGPT\uc758 \uc74c\uc131 \ubaa8\ub4dc\ub97c \ud3ec\ud568\ud55c \uc74c\uc131, \ube44\ub514\uc624 \ubc0f \ubb3c\ub9ac\uc801 AI \ubaa8\ub378\uc744 ..."
-    },
     {
       "timestamp": "2026-01-23 00:07:58",
       "message": "[PROCESSING] Analyzing: The curl project plans to end its HackerOne bug bounty program at the end of January, citing a surge in low-quality AI-generated vulnerability reports (Lawrence Abrams/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 00:08:53",
       "message": "[PROCESSING] Analyzing: Entegris Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-01-23 00:08:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Entegris Announces CFO Transition"
     }
   ]
 }
