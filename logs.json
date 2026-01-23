@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 10:02:40",
+  "last_updated": "2026-01-23 10:02:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 10:02:03",
-      "message": "[SUCCESS] Processed: CES 2026 \uc2e0\ud638, \ubb3c\ub9ac\uc801 AI\uac00 \ud0dc\uc5b4\ub09c \ud574\n  > Summary: CES 2026\uc774 \ub9c9\uc744 \ub0b4\ub9ac\uba70, AI\uac00 \ubaa8\ub2c8\ud130\ub97c \ub118\uc5b4 \ubb3c\ub9ac\uc801 \uc138\uacc4\ub85c \ub300\uaddc\ubaa8\ub85c \uc9c4\ucd9c\ud560 \ud574\uac00 ..."
-    },
     {
       "timestamp": "2026-01-23 10:02:04",
       "message": "[PROCESSING] Analyzing: Are Laser-Based Spark Plugs a Viable Option for Igniting ICE Fuel?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 10:02:40",
       "message": "[PROCESSING] Analyzing: The US' TikTok deal is a win for ByteDance: it will keep and license the algorithm instead of selling it, and continue to run TikTok's commercial activities (Jim Secreto/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-01-23 10:02:43",
+      "message": "[SKIP] Irrelevant (AI Filter): The US' TikTok deal is a win for ByteDance: it will keep and license the algorithm instead of selling it, and continue to run TikTok's commercial activities (Jim Secreto/Financial Times)"
     }
   ]
 }
