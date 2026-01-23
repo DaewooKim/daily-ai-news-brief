@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 15:32:05",
+  "last_updated": "2026-01-23 15:32:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 15:31:19",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-23 15:31:19",
       "message": "[PROCESSING] Analyzing: The end of the Sony era in TVs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 15:32:05",
       "message": "[SKIP] Content too short: Small models, big results: Ach..."
+    },
+    {
+      "timestamp": "2026-01-23 15:32:06",
+      "message": "Reprocessing: Our approach to age prediction"
     }
   ]
 }
