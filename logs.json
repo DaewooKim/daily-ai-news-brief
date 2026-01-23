@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23 16:38:17",
+  "last_updated": "2026-01-23 16:38:19",
   "status": "running",
   "logs": [
     {
@@ -73,6 +73,10 @@
     {
       "timestamp": "2026-01-23 16:38:17",
       "message": "[SUCCESS] Processed: \uc778\ud154\uc740 \uc5ec\uc804\ud788 \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\uc9c0\ub9cc, \ub354 \ub098\uc544\uc9c8 \uc218 \uc788\ub2e4\n  > Summary: \uc778\ud154\uc740 \uc624\ub79c \uc2dc\uac04 \ub3d9\uc548 \ub450 \ucf54\uc5b4 \uc11c\ubc84 CPU \uc804\ub7b5\uc744 \ucd94\uc9c4\ud574\uc654\uc2b5\ub2c8\ub2e4. \uc774\ub7ec\ud55c \uc81c\ud488 \ucc28\ubcc4\ud654 \ubc29..."
+    },
+    {
+      "timestamp": "2026-01-23 16:38:19",
+      "message": "Reprocessing: Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs"
     }
   ]
 }
