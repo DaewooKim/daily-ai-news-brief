@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 11:09:28",
+  "last_updated": "2026-01-23 11:09:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 11:08:50",
-      "message": "[PROCESSING] Analyzing: BitGo closed up ~2.7% at $18.49 per share in its NYSE debut on Thursday which saw shares jump as much as 36% intraday, after raising $212.8M in its IPO (Kyle Baird/The Block)..."
-    },
     {
       "timestamp": "2026-01-23 11:08:51",
       "message": "[SKIP] Irrelevant (AI Filter): BitGo closed up ~2.7% at $18.49 per share in its NYSE debut on Thursday which saw shares jump as much as 36% intraday, after raising $212.8M in its IPO (Kyle Baird/The Block)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 11:09:28",
       "message": "[PROCESSING] Analyzing: Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications..."
+    },
+    {
+      "timestamp": "2026-01-23 11:09:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications"
     }
   ]
 }
