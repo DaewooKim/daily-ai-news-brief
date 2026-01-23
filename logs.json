@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 21:06:06",
+  "last_updated": "2026-01-23 21:06:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 21:05:33",
-      "message": "[PROCESSING] Analyzing: Source: Databricks obtained $1.8B in fresh debt and now has over $7B in debt ahead of a potential IPO; it raised $4B+ in December at a $134B valuation (Jordan Novet/CNBC)..."
-    },
     {
       "timestamp": "2026-01-23 21:05:35",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Databricks obtained $1.8B in fresh debt and now has over $7B in debt ahead of a potential IPO; it raised $4B+ in December at a $134B valuation (Jordan Novet/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 21:06:06",
       "message": "[PROCESSING] Analyzing: Sources: UBS plans to make cryptocurrency investing available for some private banking clients in Switzerland, starting with bitcoin and ether (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-23 21:06:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: UBS plans to make cryptocurrency investing available for some private banking clients in Switzerland, starting with bitcoin and ether (Bloomberg)"
     }
   ]
 }
