@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 00:08:31",
+  "last_updated": "2026-01-23 00:08:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 00:07:38",
-      "message": "[SUCCESS] Processed: \uc778\ud154, 4\ubd84\uae30 \uc218\uc775 4% \uac10\uc18c, 137\uc5b5 \ub2ec\ub7ec \ubcf4\uace0; 600\uc5b5 \ub2ec\ub7ec\uc758 \uc21c\uc190\uc2e4\n  > Summary: \uc778\ud154\uc740 4\ubd84\uae30 \ub3d9\uc548 \uc804\ub144 \ub300\ube44 4% \uac10\uc18c\ud55c 137\uc5b5 \ub2ec\ub7ec\uc758 \uc218\uc775\uc744 \ubcf4\uace0\ud588\uc2b5\ub2c8\ub2e4. \uc608\uc0c1\ud588\ub358 ..."
-    },
     {
       "timestamp": "2026-01-23 00:07:40",
       "message": "[PROCESSING] Analyzing: Analysis: the top US tech companies spent $109M on DC lobbying in 2025, topping $100M for the first time; Meta spent $26.29M, Amazon $17.78M, and Google $13.1M (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 00:08:31",
       "message": "[PROCESSING] Analyzing: Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction..."
+    },
+    {
+      "timestamp": "2026-01-23 00:08:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction"
     }
   ]
 }
