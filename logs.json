@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 01:16:23",
+  "last_updated": "2026-01-23 01:16:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 01:15:55",
-      "message": "[PROCESSING] Analyzing: \uc81c\ud488\uc744 \ub9cc\ub4e4\uba74\uc11c \ub3c8\uc744 \ubc84\ub294 \ubc95..."
-    },
     {
       "timestamp": "2026-01-23 01:15:57",
       "message": "[SKIP] Irrelevant (AI Filter): \uc81c\ud488\uc744 \ub9cc\ub4e4\uba74\uc11c \ub3c8\uc744 \ubc84\ub294 \ubc95"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 01:16:23",
       "message": "[SKIP] Content too short: Keyfactor and IBM Consulting l..."
+    },
+    {
+      "timestamp": "2026-01-23 01:16:24",
+      "message": "Reprocessing: Skeleton Key attack shows how hackers are bypassing malware defenses using legitimate software"
     }
   ]
 }
