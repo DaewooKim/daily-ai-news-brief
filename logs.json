@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 10:03:05",
+  "last_updated": "2026-01-23 10:03:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 10:02:32",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ud074\ub85c\ub4dc\uac00 \uacc4\uc18d \uc774\uaca8\ub0b4\uba74\uc11c \uc131\ub2a5 \uc5d4\uc9c0\ub2c8\uc5b4 \ucc44\uc6a9\uc6a9 \uacfc\uc81c\ub97c \uc7ac\uc124\uacc4\ud574\uc57c \ud588\ub358 \ubc29\ubc95 \uacf5\uac1c\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \uc131\ub2a5 \uc5d4\uc9c0\ub2c8\uc5b4 \ucc44\uc6a9\uc744 \uc704\ud55c \uacfc\uc81c\ub97c \uc7ac\uc124\uacc4\ud55c \uacfc\uc815\uc5d0 \ub300\ud574 \uc124\uba85\ud558\uace0, \ud074\ub85c\ub4dc\uac00 \ud55c ..."
-    },
     {
       "timestamp": "2026-01-23 10:02:34",
       "message": "[PROCESSING] Analyzing: Sources: Revolut scrapped plans to buy a US lender and will instead apply for a US banking license, betting Trump's lighter touch on approvals will be faster (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 10:03:05",
       "message": "[PROCESSING] Analyzing: ByteDance strikes a deal with a group of non-Chinese investors to create a new TikTok US entity and avoid a federal ban, concluding a six-year legal saga (New York Times)..."
+    },
+    {
+      "timestamp": "2026-01-23 10:03:08",
+      "message": "[SKIP] Irrelevant (AI Filter): ByteDance strikes a deal with a group of non-Chinese investors to create a new TikTok US entity and avoid a federal ban, concluding a six-year legal saga (New York Times)"
     }
   ]
 }
