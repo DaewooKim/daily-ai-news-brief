@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 18:51:32",
+  "last_updated": "2026-01-23 18:51:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 18:50:45",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-23 18:50:55",
       "message": "Found 174 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 18:51:32",
       "message": "[PROCESSING] Analyzing: Anbernic\u2019s next wireless controller adds a screen and heart rate monitoring..."
+    },
+    {
+      "timestamp": "2026-01-23 18:51:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Anbernic\u2019s next wireless controller adds a screen and heart rate monitoring"
     }
   ]
 }
