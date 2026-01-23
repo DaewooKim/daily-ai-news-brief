@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 06:45:01",
+  "last_updated": "2026-01-23 06:45:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 06:44:28",
-      "message": "[SUCCESS] Processed: \uc0d8 \uc62c\ud2b8\uba3c, OpenAI\uac00 \uc9c0\ub09c \ud55c \ub2ec \ub3d9\uc548 API \uc0ac\uc5c5\ub9cc\uc73c\ub85c \uc5f0\uac04 \ubc18\ubcf5 \uc218\uc775 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1 \ucd94\uac00\ud588\ub2e4\uace0 \ub9d0\ud558\ub2e4\n  > Summary: \uc0d8 \uc62c\ud2b8\uba3c\uc740 OpenAI\uac00 ChatGPT \uc678\uc5d0\ub3c4 API \uc0ac\uc5c5\ub9cc\uc73c\ub85c \ud55c \ub2ec \ub3d9\uc548 10\uc5b5 \ub2ec\ub7ec..."
-    },
     {
       "timestamp": "2026-01-23 06:44:29",
       "message": "[PROCESSING] Analyzing: The US' TikTok deal is a win for ByteDance: it will keep and license the algorithm instead of selling it, and continue to run TikTok's commercial activities (Jim Secreto/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 06:45:01",
       "message": "[PROCESSING] Analyzing: Apple accuses the European Commission of \"political delay tactics\", as the EC seems to be preparing to blame Apple for the shutdown of the Setapp app store (Mark Gurman/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-23 06:45:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple accuses the European Commission of \"political delay tactics\", as the EC seems to be preparing to blame Apple for the shutdown of the Setapp app store (Mark Gurman/Bloomberg)"
     }
   ]
 }
