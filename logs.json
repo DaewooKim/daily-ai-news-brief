@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 06:45:07",
+  "last_updated": "2026-01-23 06:45:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 06:44:37",
-      "message": "[SUCCESS] Processed: \uc778\ud154, AI \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc0ac\uc6a9\ub418\ub294 \uc11c\ubc84 \uce69 \uc218\uc694 \ucda9\uc871\uc5d0 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\ub2e4\uace0 \ubc1d\ud600\n  > Summary: \uc778\ud154\uc740 AI \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc0ac\uc6a9\ub418\ub294 \uc11c\ubc84 \uce69\uc758 \uc218\uc694\ub97c \ucda9\uc871\ud558\ub294 \ub370 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\uc73c\uba70,..."
-    },
     {
       "timestamp": "2026-01-23 06:44:38",
       "message": "[PROCESSING] Analyzing: Sources: China's review of Meta's Manus deal was spurred by what officials called \"selling young crops\", a concern over cross-border transfer of emerging tech (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 06:45:07",
       "message": "[PROCESSING] Analyzing: Epic v. Google: Epic and Google have a secret deal involving Unreal Engine, Fortnite, and Android, with Epic spending $800M over six years on Google services (The Verge)..."
+    },
+    {
+      "timestamp": "2026-01-23 06:45:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Epic v. Google: Epic and Google have a secret deal involving Unreal Engine, Fortnite, and Android, with Epic spending $800M over six years on Google services (The Verge)"
     }
   ]
 }
