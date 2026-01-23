@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-23 22:13:31",
+  "last_updated": "2026-01-23 22:13:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-23 22:12:38",
-      "message": "Reprocessing: Chip Industry Week In Review"
-    },
     {
       "timestamp": "2026-01-23 22:12:39",
       "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-23 22:13:31",
       "message": "[PROCESSING] Analyzing: Entegris Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-01-23 22:13:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Entegris Announces CFO Transition"
     }
   ]
 }
