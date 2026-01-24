@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-24 23:23:40",
+  "last_updated": "2026-01-24 23:23:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-24 23:23:09",
-      "message": "Reprocessing: Source: OpenAI mulls new tools to help business users understand the financial benefits of using its products and has made changes to its sales force strategy (The Information)"
-    },
     {
       "timestamp": "2026-01-24 23:23:10",
       "message": "[PROCESSING] Analyzing: Source: OpenAI mulls new tools to help business users understand the financial benefits of using its products and has made changes to its sales force strategy (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-24 23:23:40",
       "message": "[PROCESSING] Analyzing: Sources: Grab's planned acquisition of GoTo has hit a snag over Indonesian carrier Telkomsel's unwillingness to sell its ~2% stake in GoTo at current valuations (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-01-24 23:23:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Grab's planned acquisition of GoTo has hit a snag over Indonesian carrier Telkomsel's unwillingness to sell its ~2% stake in GoTo at current valuations (Bloomberg)"
     }
   ]
 }
