@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-24 01:32:34",
+  "last_updated": "2026-01-24 01:32:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-24 01:31:51",
-      "message": "[PROCESSING] Analyzing: Scintil Photonics, Presto Engineering and CEA-Leti Receive Bpifrance Grant for the CanopAI Project to Advance Photonic Integration for AI and Data Centers..."
-    },
     {
       "timestamp": "2026-01-24 01:31:58",
       "message": "[SUCCESS] Processed: Scintil Photonics, Presto Engineering \ubc0f CEA-Leti, AI \ubc0f \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc704\ud55c \ud3ec\ud1a0\ub2c9 \ud1b5\ud569 \ubc1c\uc804\uc744 \uc704\ud55c Bpifrance \ubcf4\uc870\uae08 \uc218\ub839\n  > Summary: Scintil Photonics, Presto Engineering \ubc0f CEA-Leti\uac00 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-24 01:32:34",
       "message": "[PROCESSING] Analyzing: CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics..."
+    },
+    {
+      "timestamp": "2026-01-24 01:32:36",
+      "message": "[SKIP] Irrelevant (AI Filter): CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics"
     }
   ]
 }
