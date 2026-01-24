@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-24 17:54:59",
+  "last_updated": "2026-01-24 17:55:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-24 17:54:26",
-      "message": "Found 179 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-24 17:54:26",
       "message": "[PROCESSING] Analyzing: ICE has killed another person in Minneapolis..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-24 17:54:59",
       "message": "[SKIP] Content too short: Introducing GIST: The next sta..."
+    },
+    {
+      "timestamp": "2026-01-24 17:55:00",
+      "message": "Reprocessing: Small models, big results: Achieving superior intent extraction through decomposition"
     }
   ]
 }
