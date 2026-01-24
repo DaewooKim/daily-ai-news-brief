@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-24 20:06:56",
+  "last_updated": "2026-01-24 20:06:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-24 20:06:20",
-      "message": "[SUCCESS] Processed: \ub2e4\ubcf4\uc2a4\uc5d0\uc11c\uc758 \uae30\uc220 CEO\ub4e4\uc740 AI\uc5d0 \ub300\ud574 \uc790\ub791\ud558\uace0 \ub9d0\ub2e4\ud23c\ud558\ub2e4\n  > Summary: \uc774\ubc88 \uc8fc \uc138\uacc4\uacbd\uc81c\ud3ec\ub7fc \ud68c\uc758\uc5d0\uc11c\ub294 \ub2e4\ubcf4\uc2a4\uac00 \uace0\uae09 \uae30\uc220 \ucee8\ud37c\ub7f0\uc2a4\ub85c \ubcc0\ubaa8\ud55c \ub4ef\ud55c \ubaa8\uc2b5\uc774 \ubcf4\uc600\ub2e4...."
-    },
     {
       "timestamp": "2026-01-24 20:06:21",
       "message": "Reprocessing: A new test for AI labs: Are you even trying to make money?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-24 20:06:56",
       "message": "[PROCESSING] Analyzing: FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan..."
+    },
+    {
+      "timestamp": "2026-01-24 20:06:58",
+      "message": "[SKIP] Irrelevant (AI Filter): FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan"
     }
   ]
 }
