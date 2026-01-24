@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-24 22:18:17",
+  "last_updated": "2026-01-24 22:18:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-24 22:17:47",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc774 \uc790\uc0ac\uc758 \uc81c\ud488 \uc0ac\uc6a9\uc73c\ub85c \uc5bb\ub294 \uc7ac\uc815\uc801 \uc774\uc810\uc744 \uc774\ud574\ud560 \uc218 \uc788\ub3c4\ub85d \ub3c4\uc640\uc8fc\ub294 \uc0c8\ub85c\uc6b4 \ub3c4\uad6c\ub97c \ubaa8\uc0c9\ud558\uace0 \uc788\uc73c\uba70, \ud310\ub9e4 \uc804\ub7b5\uc744 \ubcc0\uacbd\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc774 \uc790\uc0ac\uc758 \uc81c\ud488\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc5bb\ub294 \uc7ac\uc815\uc801 \uc774\uc810\uc744 \uc774\ud574\ud560 \uc218 \uc788..."
-    },
     {
       "timestamp": "2026-01-24 22:17:48",
       "message": "[PROCESSING] Analyzing: Nifty Gateway, the NFT trading platform which had facilitated $300M in sales by mid-2021, enters withdrawal-only mode and plans to shut down on Feb. 23, 2026 (CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-24 22:18:17",
       "message": "[PROCESSING] Analyzing: TikTok users in the US were presented with a new privacy policy; the changes were part of the app's ownership transition and now allow precise location tracking (Reece Rogers/Wired)..."
+    },
+    {
+      "timestamp": "2026-01-24 22:18:19",
+      "message": "[SKIP] Irrelevant (AI Filter): TikTok users in the US were presented with a new privacy policy; the changes were part of the app's ownership transition and now allow precise location tracking (Reece Rogers/Wired)"
     }
   ]
 }
