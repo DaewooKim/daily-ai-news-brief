@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-24 05:56:34",
+  "last_updated": "2026-01-24 05:56:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-24 05:55:54",
-      "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
-    },
     {
       "timestamp": "2026-01-24 05:55:58",
       "message": "[SUCCESS] Processed: \ubc18\ub3c4\uccb4 \uc0b0\uc5c5 \uc8fc\uac04 \ub9ac\ubdf0\n  > Summary: TSMC\ub294 \uace0\uae09 \ud328\ud0a4\uc9d5 \uae30\uc220\uc744 \uc704\ud574 Fab 14\uc758 \uc131\uc219 \ub178\ub4dc \uc0dd\uc0b0\ub2a5\ub825\uc744 15%\uc5d0\uc11c 20% ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-24 05:56:34",
       "message": "[PROCESSING] Analyzing: Entegris Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-01-24 05:56:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Entegris Announces CFO Transition"
     }
   ]
 }
