@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-25 17:53:12",
+  "last_updated": "2026-01-25 17:53:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-25 17:52:37",
-      "message": "Reprocessing: Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs"
-    },
     {
       "timestamp": "2026-01-25 17:52:38",
       "message": "[PROCESSING] Analyzing: Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-25 17:53:12",
       "message": "[PROCESSING] Analyzing: Italy\u2019s Quiet Exposure to China in Automotive and Power Chips..."
+    },
+    {
+      "timestamp": "2026-01-25 17:53:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Italy\u2019s Quiet Exposure to China in Automotive and Power Chips"
     }
   ]
 }
