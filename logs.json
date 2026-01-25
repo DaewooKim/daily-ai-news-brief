@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-25 14:35:57",
+  "last_updated": "2026-01-25 14:36:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-25 14:34:59",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-25 14:34:59",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-25 14:35:57",
       "message": "[PROCESSING] Analyzing: This coming-of-age adventure game made me feel a little too seen..."
+    },
+    {
+      "timestamp": "2026-01-25 14:36:01",
+      "message": "[SKIP] Irrelevant (AI Filter): This coming-of-age adventure game made me feel a little too seen"
     }
   ]
 }
