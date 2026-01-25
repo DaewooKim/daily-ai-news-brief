@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-25 21:10:20",
+  "last_updated": "2026-01-25 21:10:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-25 21:09:43",
-      "message": "Reprocessing: Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year (Sherwood News)"
-    },
     {
       "timestamp": "2026-01-25 21:09:45",
       "message": "[PROCESSING] Analyzing: Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year (Sherwood News)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-25 21:10:20",
       "message": "[PROCESSING] Analyzing: Texas Tech to Dedicate $24 Million Toward Multipurpose Clean-Room Facility..."
+    },
+    {
+      "timestamp": "2026-01-25 21:10:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Texas Tech to Dedicate $24 Million Toward Multipurpose Clean-Room Facility"
     }
   ]
 }
