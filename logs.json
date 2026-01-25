@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-25 14:36:50",
+  "last_updated": "2026-01-25 14:36:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-25 14:36:10",
-      "message": "Reprocessing: Introducing GIST: The next stage in smart sampling"
-    },
     {
       "timestamp": "2026-01-25 14:36:12",
       "message": "[SKIP] Content too short: Introducing GIST: The next sta..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-25 14:36:50",
       "message": "[PROCESSING] Analyzing: FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan..."
+    },
+    {
+      "timestamp": "2026-01-25 14:36:53",
+      "message": "[SKIP] Irrelevant (AI Filter): FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan"
     }
   ]
 }
