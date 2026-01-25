@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-25 11:22:05",
+  "last_updated": "2026-01-25 11:22:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-25 11:21:25",
-      "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
-    },
     {
       "timestamp": "2026-01-25 11:21:29",
       "message": "[SUCCESS] Processed: \uce69 \uc0b0\uc5c5 \uc8fc\uac04 \ub9ac\ubdf0\n  > Summary: TSMC\ub294 \uace0\uae09 \ud328\ud0a4\uc9d5 \uae30\uc220\uc744 \uc704\ud574 Fab 14\uc758 \uad6c\ud615 \ub178\ub4dc \uc6a9\ub7c9\uc744 15%\uc5d0\uc11c 20% \uc904\uc77c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-25 11:22:05",
       "message": "[PROCESSING] Analyzing: SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways..."
+    },
+    {
+      "timestamp": "2026-01-25 11:22:07",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways"
     }
   ]
 }
