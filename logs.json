@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 13:22:57",
+  "last_updated": "2026-01-26 13:23:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 13:22:17",
-      "message": "Reprocessing: Small models, big results: Achieving superior intent extraction through decomposition"
-    },
     {
       "timestamp": "2026-01-26 13:22:18",
       "message": "[SKIP] Content too short: Small models, big results: Ach..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 13:22:57",
       "message": "[PROCESSING] Analyzing: FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan..."
+    },
+    {
+      "timestamp": "2026-01-26 13:23:00",
+      "message": "[SKIP] Irrelevant (AI Filter): FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan"
     }
   ]
 }
