@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 12:16:30",
+  "last_updated": "2026-01-26 12:16:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 12:15:56",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-26 12:15:56",
       "message": "[PROCESSING] Analyzing: Microsoft\u2019s first Windows 11 update of 2026 has been a mess..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 12:16:30",
       "message": "[PROCESSING] Analyzing: Microsoft handed the government encryption keys for customer data..."
+    },
+    {
+      "timestamp": "2026-01-26 12:16:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft handed the government encryption keys for customer data"
     }
   ]
 }
