@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 23:16:10",
+  "last_updated": "2026-01-26 23:16:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 23:15:29",
-      "message": "[SUCCESS] Processed: \ud558\uc774\ud37c\uc2a4\ucf00\uc77c AI\uac00 \uc804\ub825\ub9dd\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\ub294 \ubc29\ubc95\n  > Summary: AI \ucea0\ud37c\uc2a4\uac00 \uc9d1\uc911\uc801\uc774\uace0 \uc9c0\uc18d\uc801\uc778 \uc804\ub825\uc744 \uc694\uad6c\ud568\uc5d0 \ub530\ub77c \uc804\ub825\ub9dd\uc774 \ube60\ub974\uac8c \ubcc0\ud654\ud558\uace0 \uc788\ub2e4. \uc555..."
-    },
     {
       "timestamp": "2026-01-26 23:15:31",
       "message": "[PROCESSING] Analyzing: StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ (Eudora Wang/DealStreetAsia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 23:16:10",
       "message": "[PROCESSING] Analyzing: Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation (Angus Loten/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-01-26 23:16:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation (Angus Loten/Wall Street Journal)"
     }
   ]
 }
