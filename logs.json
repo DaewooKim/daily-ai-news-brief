@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 01:30:44",
+  "last_updated": "2026-01-26 01:30:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 01:30:14",
-      "message": "[PROCESSING] Analyzing: AMD Appoints KC McClure to Board of Directors..."
-    },
     {
       "timestamp": "2026-01-26 01:30:18",
       "message": "[SUCCESS] Processed: AMD \uc774\uc0ac\ud68c\uc5d0 KC McClure \uc784\uba85\n  > Summary: AMD\ub294 KC McClure\ub97c \uc774\uc0ac\ud68c\uc5d0 \uc784\uba85\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4. McClure\ub294 \ucd5c\uadfc Acce..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 01:30:44",
       "message": "[SKIP] Content too short: Unstructured data forces a ret..."
+    },
+    {
+      "timestamp": "2026-01-26 01:30:45",
+      "message": "Reprocessing: Hybrid cloud moves from infrastructure choice to AI execution layer"
     }
   ]
 }
