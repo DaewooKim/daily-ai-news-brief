@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 21:02:21",
+  "last_updated": "2026-01-26 21:02:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 21:01:35",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-26 21:01:49",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 21:02:21",
       "message": "[PROCESSING] Analyzing: OpenAI is working out how much to charge for ChatGPT ads..."
+    },
+    {
+      "timestamp": "2026-01-26 21:02:23",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI is working out how much to charge for ChatGPT ads"
     }
   ]
 }
