@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 00:25:32",
+  "last_updated": "2026-01-26 00:25:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 00:24:54",
-      "message": "[PROCESSING] Analyzing: A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour (Bethan Staton/Financial Times)..."
-    },
     {
       "timestamp": "2026-01-26 00:24:58",
       "message": "[SUCCESS] Processed: AI \ubaa8\ub378 \ud6c8\ub828\uc744 \uc704\ud574 \uc57d 3\ub9cc \uc804\ubb38\uac00\uc5d0\uac8c \ud558\ub8e8 \uc57d 2\ubc31\ub9cc \ub2ec\ub7ec\ub97c \uc9c0\uae09\ud558\ub294 Mercor \ud504\ub85c\ud544\n  > Summary: Mercor\ub294 \uc57d 3\ub9cc \uba85\uc758 \uc804\ubb38\uac00\uc5d0\uac8c \ud3c9\uade0 1\uc2dc\uac04\ub2f9 95\ub2ec\ub7ec\ub97c \uc9c0\uae09\ud558\uba70 AI \ubaa8\ub378\uc744 \ud6c8\ub828..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 00:25:32",
       "message": "[PROCESSING] Analyzing: Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction..."
+    },
+    {
+      "timestamp": "2026-01-26 00:25:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction"
     }
   ]
 }
