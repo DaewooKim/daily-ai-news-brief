@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 14:30:16",
+  "last_updated": "2026-01-26 14:30:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 14:29:33",
-      "message": "[PROCESSING] Analyzing: OpenAI says nearly 1.3M weekly users are discussing \"advanced topics in hard science\" in January, with an average of 8.4M ChatGPT messages on those topics (Ashley Gold/Axios)..."
-    },
     {
       "timestamp": "2026-01-26 14:29:38",
       "message": "[SUCCESS] Processed: OpenAI, 1.3M \uc8fc\uac04 \uc0ac\uc6a9\uc790\ub4e4\uc774 '\uace0\uae09 \uacfc\ud559 \uc8fc\uc81c'\uc5d0 \ub300\ud574 \ub17c\uc758\ud558\uace0 \uc788\ub2e4\uace0 \ubc1d\ud600\n  > Summary: OpenAI\uc5d0 \ub530\ub974\uba74, 1\uc6d4\uc5d0\ub294 \uc57d 130\ub9cc \uba85\uc758 \uc0ac\uc6a9\uc790\uac00 '\uace0\uae09 \uacfc\ud559 \uc8fc\uc81c'\uc5d0 \ub300\ud574 \ub17c\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 14:30:16",
       "message": "Reprocessing: The pillars of a successful artificial intelligence strategy"
+    },
+    {
+      "timestamp": "2026-01-26 14:30:18",
+      "message": "[SKIP] Content too short: The pillars of a successful ar..."
     }
   ]
 }
