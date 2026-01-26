@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 13:24:20",
+  "last_updated": "2026-01-26 13:24:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 13:23:41",
-      "message": "[SUCCESS] Processed: NPU\uc5d0\uc11c\uc758 \ud6c8\ub828, \uc591\uc790\ud654 \ubc0f \ud558\ub4dc\uc6e8\uc5b4 \ud1b5\ud569\uc758 \uade0\ud615\n  > Summary: AI/ML\uc740 \ub370\uc774\ud130 \uc13c\ud130\uc640 \uc5e3\uc9c0 \uc7a5\uce58\uc5d0\uc11c\uc758 \uc2e0\uacbd \ucc98\ub9ac \uc7a5\uce58(NPU) \uc124\uacc4 \ud65c\ub3d9\uc5d0 \ud070 \uc601\ud5a5\uc744..."
-    },
     {
       "timestamp": "2026-01-26 13:23:42",
       "message": "Reprocessing: Overview of ALD-Driven Oxide Semiconductors for High Density, Low Power Memory Architectures (imec, Hanyang Univ.)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 13:24:20",
       "message": "[PROCESSING] Analyzing: \uc5b4\ub824\uc6b4 \ubc29\uc2dd\uc73c\ub85c \ubb38\uc81c \ud574\uacb0\ud558\uae30..."
+    },
+    {
+      "timestamp": "2026-01-26 13:24:22",
+      "message": "[SKIP] Irrelevant (AI Filter): \uc5b4\ub824\uc6b4 \ubc29\uc2dd\uc73c\ub85c \ubb38\uc81c \ud574\uacb0\ud558\uae30"
     }
   ]
 }
