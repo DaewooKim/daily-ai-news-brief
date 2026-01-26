@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 18:50:10",
+  "last_updated": "2026-01-26 18:50:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 18:49:28",
-      "message": "Found 143 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-26 18:49:28",
       "message": "[PROCESSING] Analyzing: Even the big dick subreddit is mad about ICE..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 18:50:10",
       "message": "[SKIP] Irrelevant (AI Filter): A powerful AMD gaming desktop is hundreds off at Costco"
+    },
+    {
+      "timestamp": "2026-01-26 18:50:11",
+      "message": "Reprocessing: Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs"
     }
   ]
 }
