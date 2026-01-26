@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 05:48:21",
+  "last_updated": "2026-01-26 05:48:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 05:47:38",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \uc0bc\uc131, Nvidia\uc5d0 HBM4 \uce69 \uacf5\uae09\uc744 \uc704\ud55c \ucd5c\uc885 \uc778\uc99d \ub2e8\uacc4\uc5d0 \uc9c4\uc785\ud558\uba70 2\uc6d4 \ub300\ub7c9 \uc0dd\uc0b0 \ubaa9\ud45c; \uc0bc\uc131 \uc8fc\uac00\ub294 3.2% \uc0c1\uc2b9\n  > Summary: \uc0bc\uc131\uc804\uc790\uac00 Nvidia\uc5d0 \ucd5c\uc2e0 AI \uba54\ubaa8\ub9ac \uce69\uc778 HBM4\uc758 \uacf5\uae09\uc744 \uc704\ud55c \ucd5c\uc885 \uc778\uc99d \ub2e8\uacc4\uc5d0 ..."
-    },
     {
       "timestamp": "2026-01-26 05:47:39",
       "message": "[PROCESSING] Analyzing: HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content (Manish Singh/India Dispatch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 05:48:21",
       "message": "[PROCESSING] Analyzing: Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications..."
+    },
+    {
+      "timestamp": "2026-01-26 05:48:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications"
     }
   ]
 }
