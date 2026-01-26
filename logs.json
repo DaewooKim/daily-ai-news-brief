@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 23:16:13",
+  "last_updated": "2026-01-26 23:16:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 23:15:35",
-      "message": "[SUCCESS] Processed: StepFun, \uc911\uad6d\uc758 LLM \uac1c\ubc1c AI \uc2a4\ud0c0\ud2b8\uc5c5, \uc790\ub3d9\ucc28 \uc81c\uc870\uc0ac Geely \ubc0f \uc624\ud3ec, \ud638\ub108\uc640 \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0 \ud6c4 \uc57d 7\uc5b5 1700\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B+ \ud22c\uc790 \uc720\uce58\n  > Summary: StepFun\uc740 LLM \uac1c\ubc1c\uc5d0 \ud2b9\ud654\ub41c \uc911\uad6d\uc758 AI \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c, \uc790\ub3d9\ucc28 \uc81c\uc870\uc0ac Geely ..."
-    },
     {
       "timestamp": "2026-01-26 23:15:37",
       "message": "[PROCESSING] Analyzing: Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice (M.G. Siegler/Spyglass)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 23:16:13",
       "message": "[PROCESSING] Analyzing: Towards Efficient Self-Powered Screens Using Organic Semiconductors..."
+    },
+    {
+      "timestamp": "2026-01-26 23:16:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Towards Efficient Self-Powered Screens Using Organic Semiconductors"
     }
   ]
 }
