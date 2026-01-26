@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 22:10:46",
+  "last_updated": "2026-01-26 22:10:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 22:10:04",
-      "message": "Reprocessing: Qwen releases Qwen3-Max-Thinking, its flagship reasoning model that it says demonstrates performance comparable to models such as GPT-5.2 Thinking and Opus 4.5 (Qwen)"
-    },
     {
       "timestamp": "2026-01-26 22:10:05",
       "message": "[PROCESSING] Analyzing: Qwen releases Qwen3-Max-Thinking, its flagship reasoning model that it says demonstrates performance comparable to models such as GPT-5.2 Thinking and Opus 4.5 (Qwen)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 22:10:46",
       "message": "[PROCESSING] Analyzing: Browser-based attacks hit 95% of enterprises \u2014 and traditional security tools never saw them coming..."
+    },
+    {
+      "timestamp": "2026-01-26 22:10:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Browser-based attacks hit 95% of enterprises \u2014 and traditional security tools never saw them coming"
     }
   ]
 }
