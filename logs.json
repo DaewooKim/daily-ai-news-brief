@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 16:40:01",
+  "last_updated": "2026-01-26 16:40:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 16:39:22",
-      "message": "[SKIP] Content too short: Small models, big results: Ach..."
-    },
     {
       "timestamp": "2026-01-26 16:39:24",
       "message": "[PROCESSING] Analyzing: Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 16:40:01",
       "message": "[PROCESSING] Analyzing: Integrated Risk and Capital Strategies Drive Digital Growth and Resilience..."
+    },
+    {
+      "timestamp": "2026-01-26 16:40:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Integrated Risk and Capital Strategies Drive Digital Growth and Resilience"
     }
   ]
 }
