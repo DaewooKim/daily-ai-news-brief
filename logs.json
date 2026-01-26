@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 18:50:07",
+  "last_updated": "2026-01-26 18:50:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 18:49:13",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-26 18:49:28",
       "message": "Found 143 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 18:50:07",
       "message": "[PROCESSING] Analyzing: A powerful AMD gaming desktop is hundreds off at Costco..."
+    },
+    {
+      "timestamp": "2026-01-26 18:50:10",
+      "message": "[SKIP] Irrelevant (AI Filter): A powerful AMD gaming desktop is hundreds off at Costco"
     }
   ]
 }
