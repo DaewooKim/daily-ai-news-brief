@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 14:27:32",
+  "last_updated": "2026-01-26 14:27:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 14:26:48",
-      "message": "Found 143 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-26 14:26:48",
       "message": "[PROCESSING] Analyzing: As Marvel pivots back to the Avengers, Wonder Man goes its own way..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 14:27:32",
       "message": "[PROCESSING] Analyzing: Sony\u2019s first clip earbuds don\u2019t quite hit the mark..."
+    },
+    {
+      "timestamp": "2026-01-26 14:27:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Sony\u2019s first clip earbuds don\u2019t quite hit the mark"
     }
   ]
 }
