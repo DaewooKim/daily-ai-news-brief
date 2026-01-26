@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 16:39:18",
+  "last_updated": "2026-01-26 16:39:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 16:38:36",
-      "message": "[PROCESSING] Analyzing: Payment processors were against CSAM until Grok started making it..."
-    },
     {
       "timestamp": "2026-01-26 16:38:39",
       "message": "[SKIP] Irrelevant (AI Filter): Payment processors were against CSAM until Grok started making it"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 16:39:18",
       "message": "Reprocessing: Introducing GIST: The next stage in smart sampling"
+    },
+    {
+      "timestamp": "2026-01-26 16:39:20",
+      "message": "[SKIP] Content too short: Introducing GIST: The next sta..."
     }
   ]
 }
