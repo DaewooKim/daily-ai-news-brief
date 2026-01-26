@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-26 19:57:10",
+  "last_updated": "2026-01-26 19:57:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-26 19:56:26",
-      "message": "Reprocessing: Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute"
-    },
     {
       "timestamp": "2026-01-26 19:56:28",
       "message": "[PROCESSING] Analyzing: Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-26 19:57:10",
       "message": "[PROCESSING] Analyzing: FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan..."
+    },
+    {
+      "timestamp": "2026-01-26 19:57:13",
+      "message": "[SKIP] Irrelevant (AI Filter): FuelCell Energy, SDCL Connect for 450 MW Fuel Cell Power Plan"
     }
   ]
 }
