@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 06:49:42",
+  "last_updated": "2026-01-27 06:49:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 06:48:56",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-27 06:49:10",
       "message": "Found 139 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 06:49:42",
       "message": "[PROCESSING] Analyzing: TikTokers are heading to UpScrolled following US takeover..."
+    },
+    {
+      "timestamp": "2026-01-27 06:49:44",
+      "message": "[SKIP] Irrelevant (AI Filter): TikTokers are heading to UpScrolled following US takeover"
     }
   ]
 }
