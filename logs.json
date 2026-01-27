@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-27 04:43:31",
-  "status": "idle",
+  "last_updated": "2026-01-27 05:44:00",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-27 04:42:17",
-      "message": "Reprocessing: Hotel software maker Mews nabs $300M at $2.5B valuation"
+      "timestamp": "2026-01-27 05:43:48",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-27 04:42:18",
-      "message": "[SKIP] Content too short: Hotel software maker Mews nabs..."
+      "timestamp": "2026-01-27 05:43:49",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-27 04:42:19",
-      "message": "Reprocessing: Report: Databricks raises $1.8B in debt financing"
+      "timestamp": "2026-01-27 05:43:49",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-27 04:42:21",
-      "message": "[SKIP] Content too short: Report: Databricks raises $1.8..."
+      "timestamp": "2026-01-27 05:44:00",
+      "message": "Found 139 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-27 04:42:22",
-      "message": "Reprocessing: Metadata management moves to the center of AI scale challenges"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:23",
-      "message": "[SKIP] Content too short: Metadata management moves to t..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:25",
-      "message": "Reprocessing: Unstructured data forces a rethink of enterprise AI platforms"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:26",
-      "message": "[SKIP] Content too short: Unstructured data forces a ret..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:27",
-      "message": "Reprocessing: Hybrid cloud moves from infrastructure choice to AI execution layer"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:29",
-      "message": "[SKIP] Content too short: Hybrid cloud moves from infras..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:30",
-      "message": "Reprocessing: Fei-Fei Li\u2019s World Labs reportedly raising funding at $5B valuation"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:31",
-      "message": "[SKIP] Content too short: Fei-Fei Li\u2019s World Labs report..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:33",
-      "message": "Reprocessing: BitGo kicks off what could be a huge year for IPOs"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:34",
-      "message": "[SKIP] Content too short: BitGo kicks off what could be ..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:35",
-      "message": "Reprocessing: That was a long wait, but TikTok US is finally a done deal"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:37",
-      "message": "[SKIP] Content too short: That was a long wait, but TikT..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:38",
-      "message": "Reprocessing: Intelligent cloud infrastructure startup Railway gets $100M to simplify application deployment"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:39",
-      "message": "[SKIP] Content too short: Intelligent cloud infrastructu..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:41",
-      "message": "Reprocessing: Capital One to acquire corporate card provider Brex in $5.15B deal"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:42",
-      "message": "[SKIP] Content too short: Capital One to acquire corpora..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:43",
-      "message": "Reprocessing: Inferact launches with $150M in funding to commercialize vLLM"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:45",
-      "message": "[SKIP] Content too short: Inferact launches with $150M i..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:46",
-      "message": "Reprocessing: Intel\u2019s revival hits a bump in the road as its guidance falls short of expectations"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:47",
-      "message": "[SKIP] Content too short: Intel\u2019s revival hits a bump in..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:48",
-      "message": "Reprocessing: Google brings its Personal Intelligence personalization technology to AI Mode"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:50",
-      "message": "[SKIP] Content too short: Google brings its Personal Int..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:51",
-      "message": "Reprocessing: LiveKit raises $100M at $1B valuation to scale real-time AI and media platform"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:53",
-      "message": "[SKIP] Content too short: LiveKit raises $100M at $1B va..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:54",
-      "message": "Reprocessing: Yelp to acquire AI lead management startup Hatch for up to $300M"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:55",
-      "message": "[SKIP] Content too short: Yelp to acquire AI lead manage..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:57",
-      "message": "Reprocessing: Industrial cybersecurity startup Claroty nabs $150M funding round"
-    },
-    {
-      "timestamp": "2026-01-27 04:42:58",
-      "message": "[SKIP] Content too short: Industrial cybersecurity start..."
-    },
-    {
-      "timestamp": "2026-01-27 04:42:59",
-      "message": "Reprocessing: Nutanix builds for enterprise AI as infrastructure turns hybrid"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:01",
-      "message": "[SKIP] Content too short: Nutanix builds for enterprise ..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:02",
-      "message": "[PROCESSING] Analyzing: Alta Labs Route10 Review A Neat 10G and PoE Gateway..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:04",
-      "message": "[SKIP] Irrelevant (AI Filter): Alta Labs Route10 Review A Neat 10G and PoE Gateway"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:05",
-      "message": "[PROCESSING] Analyzing: Tenda SE108 8-port 2.5GbE Fanless Switch Review with MaxLinear..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:07",
-      "message": "[SKIP] Irrelevant (AI Filter): Tenda SE108 8-port 2.5GbE Fanless Switch Review with MaxLinear"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:08",
-      "message": "[PROCESSING] Analyzing: Dynatron W23 Ampere AmpereOne 3U Active Cooler Review..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:10",
-      "message": "[SKIP] Irrelevant (AI Filter): Dynatron W23 Ampere AmpereOne 3U Active Cooler Review"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:11",
-      "message": "[PROCESSING] Analyzing: SanDisk Extreme PRO USB4 4TB Portable SSD Review..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:13",
-      "message": "[SKIP] Irrelevant (AI Filter): SanDisk Extreme PRO USB4 4TB Portable SSD Review"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:14",
-      "message": "[PROCESSING] Analyzing: QNAP QSW-L3208-2C6T Review A Versatile 8-Port 10GbE Combo Switch..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:16",
-      "message": "[SKIP] Irrelevant (AI Filter): QNAP QSW-L3208-2C6T Review A Versatile 8-Port 10GbE Combo Switch"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:18",
-      "message": "Reprocessing: Power agentic workflows in your terminal with GitHub Copilot CLI"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:19",
-      "message": "[PROCESSING] Analyzing: Power agentic workflows in your terminal with GitHub Copilot CLI..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:22",
-      "message": "[SUCCESS] Processed: \ud130\ubbf8\ub110\uc5d0\uc11c GitHub Copilot CLI\ub85c \uc5d0\uc774\uc804\ud2b8\uc801 \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \uc9c0\uc6d0\ud558\uae30\n  > Summary: GitHub Copilot CLI\ub294 2025\ub144 9\uc6d4 \uacf5\uac1c \ud504\ub9ac\ubdf0 \uc774\ud6c4 \uc815\uae30\uc801\uc778 \uc5c5\ub370\uc774\ud2b8\uc640 ..."
-    },
-    {
-      "timestamp": "2026-01-27 04:43:24",
-      "message": "Completed! New: 1, Updated: 39"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:27",
-      "message": "Saved 40 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-27 04:43:30",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-27 05:44:00",
+      "message": "[PROCESSING] Analyzing: TikTok is still down, here are all the latest updates..."
     }
   ]
 }
