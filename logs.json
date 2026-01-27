@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 09:02:57",
+  "last_updated": "2026-01-27 09:02:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 09:02:12",
-      "message": "[PROCESSING] Analyzing: Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18's 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes (John Gruber/Daring Fireball)..."
-    },
     {
       "timestamp": "2026-01-27 09:02:14",
       "message": "[SKIP] Irrelevant (AI Filter): Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18's 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes (John Gruber/Daring Fireball)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 09:02:57",
       "message": "Reprocessing: Anthropic CEO warns humanity may not be ready for advanced AI"
+    },
+    {
+      "timestamp": "2026-01-27 09:02:58",
+      "message": "[SKIP] Content too short: Anthropic CEO warns humanity m..."
     }
   ]
 }
