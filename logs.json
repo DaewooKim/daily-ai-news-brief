@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 15:39:06",
+  "last_updated": "2026-01-27 15:39:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 15:38:23",
-      "message": "[SUCCESS] Processed: \ud558\uc774\ud37c\uc2a4\ucf00\uc77c AI\uac00 \uc804\ub825\ub9dd\uc744 \uc7ac\ud3b8\ud558\ub2e4\n  > Summary: AI \ucea0\ud37c\uc2a4\uac00 \uc9d1\uc911\uc801\uc774\uace0 \uc9c0\uc18d\uc801\uc778 \uc804\ub825\uc744 \uc694\uad6c\ud568\uc5d0 \ub530\ub77c \uc804\ub825\ub9dd\uc774 \ube60\ub974\uac8c \uc9c4\ud654\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-01-27 15:38:25",
       "message": "[PROCESSING] Analyzing: WhatsApp launches Strict Account Settings, a high-security mode to protect high-risk users like journalists and public figures from sophisticated cyberattacks (Raphael Satter/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 15:39:06",
       "message": "[PROCESSING] Analyzing: Internal Slack message: Sam Altman tells OpenAI staff that \"What's happening with ICE is going too far\" and he hopes President Trump \"will rise to this moment\" (New York Times)..."
+    },
+    {
+      "timestamp": "2026-01-27 15:39:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Internal Slack message: Sam Altman tells OpenAI staff that \"What's happening with ICE is going too far\" and he hopes President Trump \"will rise to this moment\" (New York Times)"
     }
   ]
 }
