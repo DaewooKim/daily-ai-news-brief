@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 10:08:24",
+  "last_updated": "2026-01-27 10:08:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 10:07:43",
-      "message": "[PROCESSING] Analyzing: YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options (Murad Hemmadi/The Logic)..."
-    },
     {
       "timestamp": "2026-01-27 10:07:45",
       "message": "[SKIP] Irrelevant (AI Filter): YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options (Murad Hemmadi/The Logic)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 10:08:24",
       "message": "[PROCESSING] Analyzing: Browser-based attacks hit 95% of enterprises \u2014 and traditional security tools never saw them coming..."
+    },
+    {
+      "timestamp": "2026-01-27 10:08:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Browser-based attacks hit 95% of enterprises \u2014 and traditional security tools never saw them coming"
     }
   ]
 }
