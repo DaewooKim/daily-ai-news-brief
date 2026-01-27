@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 20:06:40",
+  "last_updated": "2026-01-27 20:06:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 20:06:00",
-      "message": "[SUCCESS] Processed: \ub525\uc2dc\ud06c, OpenAI\uac00 \uac1c\ubc1c\ud55c CLIP \ud504\ub808\uc784\uc6cc\ud06c\ub97c \uc54c\ub9ac\ubc14\ubc14\uc758 Qwen2-0.5b\ub85c \uad50\uccb4\ud55c \uc5c5\uadf8\ub808\uc774\ub4dc\ub41c \uad11\ud559 \ubb38\uc790 \uc778\uc2dd \ubaa8\ub378 DeepSeek-OCR 2 \ucd9c\uc2dc\n  > Summary: \uc911\uad6d AI \uc2a4\ud0c0\ud2b8\uc5c5 \ub525\uc2dc\ud06c\uac00 \uc54c\ub9ac\ubc14\ubc14\uac00 \uac1c\ubc1c\ud55c \uc624\ud508\uc18c\uc2a4 \ubaa8\ub378\uc778 Qwen2-0.5b\ub97c \ucc44\ud0dd\ud558..."
-    },
     {
       "timestamp": "2026-01-27 20:06:02",
       "message": "[PROCESSING] Analyzing: France plans to replace Microsoft Teams and Zoom with French-made and Outscale-hosted Visio by 2027, as part of a push to drop US software vendors in government (Pascale Davies/Euronews)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 20:06:40",
       "message": "[PROCESSING] Analyzing: Towards Efficient Self-Powered Screens Using Organic Semiconductors..."
+    },
+    {
+      "timestamp": "2026-01-27 20:06:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Towards Efficient Self-Powered Screens Using Organic Semiconductors"
     }
   ]
 }
