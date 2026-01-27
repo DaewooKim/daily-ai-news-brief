@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 18:57:58",
+  "last_updated": "2026-01-27 18:58:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 18:57:12",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-27 18:57:12",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 18:57:58",
       "message": "[PROCESSING] Analyzing: Pornhub will block new users in the UK next month..."
+    },
+    {
+      "timestamp": "2026-01-27 18:58:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Pornhub will block new users in the UK next month"
     }
   ]
 }
