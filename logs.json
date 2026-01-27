@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 01:25:12",
+  "last_updated": "2026-01-27 01:25:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 01:24:29",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-27 01:24:40",
       "message": "Found 139 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 01:25:12",
       "message": "[PROCESSING] Analyzing: Internal chats show how social media companies discussed teen engagement..."
+    },
+    {
+      "timestamp": "2026-01-27 01:25:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Internal chats show how social media companies discussed teen engagement"
     }
   ]
 }
