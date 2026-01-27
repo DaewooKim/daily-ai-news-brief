@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 11:11:54",
+  "last_updated": "2026-01-27 11:11:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 11:11:03",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-27 11:11:16",
       "message": "Found 139 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 11:11:54",
       "message": "[PROCESSING] Analyzing: Apple\u2019s luxe AirPods Max have dropped to one of their lowest prices ever..."
+    },
+    {
+      "timestamp": "2026-01-27 11:11:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple\u2019s luxe AirPods Max have dropped to one of their lowest prices ever"
     }
   ]
 }
