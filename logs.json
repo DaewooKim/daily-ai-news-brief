@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 19:00:41",
+  "last_updated": "2026-01-27 19:00:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 19:00:00",
-      "message": "[SUCCESS] Processed: Ai2, SERA\ub85c \uc2dc\uc791\ud558\ub294 \uc624\ud508 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \ucd9c\uc2dc - 32B \ubc0f 8B \ud30c\ub77c\ubbf8\ud130 \ubaa8\ub378 \ud3ec\ud568\n  > Summary: Ai2\ub294 Private \ucf54\ub4dc \ubca0\uc774\uc2a4\uc5d0 \uc801\uc751\ud560 \uc218 \uc788\ub3c4\ub85d \uc124\uacc4\ub41c 32B \ubc0f 8B \ud30c\ub77c\ubbf8\ud130 \ubaa8..."
-    },
     {
       "timestamp": "2026-01-27 19:00:01",
       "message": "[PROCESSING] Analyzing: Sonos announces the Amp Multi, a large digital amplifier and its first new device in over a year, ending a pause in hardware releases as it focused on software (Chris Welch/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 19:00:41",
       "message": "[PROCESSING] Analyzing: Chungnam National University Team Pioneers Defect-Free High-Quality Graphene Electrodes..."
+    },
+    {
+      "timestamp": "2026-01-27 19:00:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Chungnam National University Team Pioneers Defect-Free High-Quality Graphene Electrodes"
     }
   ]
 }
