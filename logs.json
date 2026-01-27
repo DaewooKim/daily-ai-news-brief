@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 05:45:02",
+  "last_updated": "2026-01-27 05:45:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 05:44:21",
-      "message": "[SKIP] Irrelevant (AI Filter): OpenAI\u2019s president is a Trump mega-donor"
-    },
     {
       "timestamp": "2026-01-27 05:44:22",
       "message": "[PROCESSING] Analyzing: Google will settle its Assistant spying lawsuit for $68 million..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 05:45:02",
       "message": "Reprocessing: Introducing GIST: The next stage in smart sampling"
+    },
+    {
+      "timestamp": "2026-01-27 05:45:03",
+      "message": "[SKIP] Content too short: Introducing GIST: The next sta..."
     }
   ]
 }
