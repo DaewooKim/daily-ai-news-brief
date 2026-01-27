@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-27 11:13:59",
+  "last_updated": "2026-01-27 11:14:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-27 11:13:15",
-      "message": "[PROCESSING] Analyzing: US court filings detail Anthropic's Project Panama, an effort to \"destructively scan\" up to 2M books with a hydraulic \"cutting machine\" led by an ex-Google exec (Washington Post)..."
-    },
     {
       "timestamp": "2026-01-27 11:13:19",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \ubc95\uc6d0 \ubb38\uc11c, \uc804 \uad6c\uae00 \uc784\uc6d0\uc774 \uc774\ub044\ub294 \uc218\uc555 '\uc808\ub2e8 \uae30\uacc4'\ub85c 200\ub9cc \uad8c\uc758 \ucc45\uc744 '\ud30c\uad34\uc801\uc73c\ub85c \uc2a4\uce94'\ud558\ub294 \uc564\ud2b8\ub85c\ud53d\uc758 \ud504\ub85c\uc81d\ud2b8 \ud30c\ub098\ub9c8\ub97c \uc0c1\uc138\ud788 \uc124\uba85\ud558\ub2e4\n  > Summary: \uc6cc\uc2f1\ud134 \ud3ec\uc2a4\ud2b8\uc5d0 \ub530\ub974\uba74, \uc778\uacf5\uc9c0\ub2a5 \uc2a4\ud0c0\ud2b8\uc5c5 \uc564\ud2b8\ub85c\ud53d\uc774 \uc870\uc6a9\ud788 \uc9c4\ud589\ud558\ub824\ub358 \ub300\uaddc\ubaa8 \ud504\ub85c\uc81d\ud2b8\uc778 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-27 11:13:59",
       "message": "[PROCESSING] Analyzing: Khosla Ventures' Vinod Khosla and Ethan Choi disavow Keith Rabois' comments on an ICE shooting; Rabois said the man killed by agents was committing a \"felony\" (Julie Bort/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-27 11:14:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Khosla Ventures' Vinod Khosla and Ethan Choi disavow Keith Rabois' comments on an ICE shooting; Rabois said the man killed by agents was committing a \"felony\" (Julie Bort/TechCrunch)"
     }
   ]
 }
