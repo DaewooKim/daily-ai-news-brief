@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 15:50:05",
+  "last_updated": "2026-01-28 15:50:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 15:49:11",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-28 15:49:25",
       "message": "Found 155 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 15:50:05",
       "message": "[SKIP] Irrelevant (AI Filter): Bluesky is testing \u2018live\u2019 features to take on X"
+    },
+    {
+      "timestamp": "2026-01-28 15:50:07",
+      "message": "Reprocessing: Grok is the most antisemitic chatbot according to the ADL"
     }
   ]
 }
