@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 11:27:15",
+  "last_updated": "2026-01-28 11:27:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 11:26:38",
-      "message": "[PROCESSING] Analyzing: ASML CEO Christophe Fouquet says the company plans to cut 1,700 jobs, or 4% of its workforce, mainly in its Tech and IT organizations; ASML jumps 5%+ pre-market (Sarah Jacob/Bloomberg)..."
-    },
     {
       "timestamp": "2026-01-28 11:26:40",
       "message": "[SKIP] Irrelevant (AI Filter): ASML CEO Christophe Fouquet says the company plans to cut 1,700 jobs, or 4% of its workforce, mainly in its Tech and IT organizations; ASML jumps 5%+ pre-market (Sarah Jacob/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 11:27:15",
       "message": "[SUCCESS] Processed: RF EDA\uc758 \ucc28\uc138\ub300 \ud68c\ub85c \uc2dc\ubbac\ub808\uc774\uc158\n  > Summary: RF \uc804\uc790 \uc124\uacc4 \uc790\ub3d9\ud654(Electronic Design Automation, EDA)\uac00 \uc0c8..."
+    },
+    {
+      "timestamp": "2026-01-28 11:27:17",
+      "message": "Reprocessing: Automated High-Speed Interface Routing in Multi-Die Designs"
     }
   ]
 }
