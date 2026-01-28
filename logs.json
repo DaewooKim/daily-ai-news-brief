@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 05:57:08",
+  "last_updated": "2026-01-28 05:57:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 05:56:32",
-      "message": "[SUCCESS] Processed: \ud558\uc774\ud37c\uc2a4\ucf00\uc77c AI\uac00 \uc804\ub825\ub9dd\uc744 \uc7ac\uad6c\uc131\ud558\ub294 \ubc29\ubc95\n  > Summary: AI \ucea0\ud37c\uc2a4\uac00 \uc9d1\uc911\uc801\uc774\uace0 \uac70\uc758 \uc5f0\uc18d\uc801\uc778 \uc804\ub825\uc744 \uc694\uad6c\ud568\uc5d0 \ub530\ub77c \uc804\ub825\ub9dd\uc774 \ube60\ub974\uac8c \ubc1c\uc804\ud558\uace0 \uc788\uc2b5..."
-    },
     {
       "timestamp": "2026-01-28 05:56:34",
       "message": "[PROCESSING] Analyzing: Sources: Elon Musk has proposed timing SpaceX's IPO with a rare planetary alignment and his June birthday; SpaceX seeks as much as $50B at a ~$1.5T valuation (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 05:57:08",
       "message": "[PROCESSING] Analyzing: Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours (Arsheeya Bajwa/Reuters)..."
+    },
+    {
+      "timestamp": "2026-01-28 05:57:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours (Arsheeya Bajwa/Reuters)"
     }
   ]
 }
