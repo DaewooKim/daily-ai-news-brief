@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 19:14:01",
+  "last_updated": "2026-01-28 19:14:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 19:13:15",
-      "message": "[PROCESSING] Analyzing: EMEA Youth & Wellbeing Grant..."
-    },
     {
       "timestamp": "2026-01-28 19:13:19",
       "message": "[SUCCESS] Processed: EMA \uccad\uc18c\ub144 \ubc0f \uc6f0\ube59 \uadf8\ub79c\ud2b8\n  > Summary: EMEA \uccad\uc18c\ub144 \ubc0f \uc6f0\ube59 \uadf8\ub79c\ud2b8\uc5d0 \uc2e0\uccad\ud558\uc138\uc694. \uc774 \ud504\ub85c\uadf8\ub7a8\uc740 AI \uc2dc\ub300\uc758 \uccad\uc18c\ub144 \uc548\uc804\uacfc \uc6f0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 19:14:01",
       "message": "[SKIP] Irrelevant (AI Filter): TechCrunch Disrupt 2026: Plus-one passes are almost gone and only 3 days remain"
+    },
+    {
+      "timestamp": "2026-01-28 19:14:03",
+      "message": "Reprocessing: The AI infrastructure boom shows no sign of slowing down"
     }
   ]
 }
