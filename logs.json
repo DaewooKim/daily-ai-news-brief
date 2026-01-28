@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 15:53:58",
+  "last_updated": "2026-01-28 15:54:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 15:53:13",
-      "message": "[SUCCESS] Processed: RF EDA\uc758 \ucc28\uc138\ub300 \ud68c\ub85c \uc2dc\ubbac\ub808\uc774\uc158\n  > Summary: RF \uc804\uc790 \uc124\uacc4 \uc790\ub3d9\ud654(Electronic Design Automation, EDA)\uac00 \ubcc0..."
-    },
     {
       "timestamp": "2026-01-28 15:53:15",
       "message": "Reprocessing: Automated High-Speed Interface Routing in Multi-Die Designs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 15:53:58",
       "message": "[PROCESSING] Analyzing: Excelitas Launches Ultra-Low-Power Pyrodetector..."
+    },
+    {
+      "timestamp": "2026-01-28 15:54:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Excelitas Launches Ultra-Low-Power Pyrodetector"
     }
   ]
 }
