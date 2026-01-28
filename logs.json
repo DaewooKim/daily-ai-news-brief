@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 19:12:49",
+  "last_updated": "2026-01-28 19:12:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 19:12:09",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-01-28 19:12:09",
       "message": "[PROCESSING] Analyzing: Spotify says it paid out $11 billion in royalties in 2025..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 19:12:49",
       "message": "[SKIP] Irrelevant (AI Filter): Snap is turning its smart glasses team into its own company"
+    },
+    {
+      "timestamp": "2026-01-28 19:12:50",
+      "message": "Reprocessing: Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare"
     }
   ]
 }
