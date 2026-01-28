@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 20:21:48",
+  "last_updated": "2026-01-28 20:21:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 20:21:13",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \ub77c\ubca8\ub7ec \ud578\ub4dc\uc250\uc774\ud06c, \uc5ec\ub7ec \ub2e4\ub978 \uae30\uc5c5\uc758 \uc778\uc218 \ud6c4\ubcf4 Cleanlab \uc778\uc218\n  > Summary: \ud578\ub4dc\uc250\uc774\ud06c\uac00 \uc5ec\ub7ec \ub2e4\ub978 \uae30\uc5c5\ub4e4\uc758 \uc778\uc218 \ud6c4\ubcf4\uc600\ub358 Cleanlab\ub97c \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc778\uc218\uc758 ..."
-    },
     {
       "timestamp": "2026-01-28 20:21:14",
       "message": "Reprocessing: Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta\u2019s Llama"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 20:21:48",
       "message": "[PROCESSING] Analyzing: Renesas MCUs Now Accessible Via MIKROE In Multi-Year Deal..."
+    },
+    {
+      "timestamp": "2026-01-28 20:21:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Renesas MCUs Now Accessible Via MIKROE In Multi-Year Deal"
     }
   ]
 }
