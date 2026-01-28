@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 05:57:17",
+  "last_updated": "2026-01-28 05:57:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 05:56:47",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: C3.ai\uac00 Automation Anywhere\uc640 \ud569\ubcd1 \ud611\uc0c1 \uc911, \uc774 \uac70\ub798\ub85c \uc0c1\uc7a5\ub420 \uc608\uc815; C3.ai\uc758 \uc2dc\uac00 \ucd1d\uc561\uc740 \ud604\uc7ac \uc57d 17\uc5b5 \ub2ec\ub7ec\ub85c 2020\ub144\uc758 \uac00\uce58\uc758 10\ubd84\uc758 1\n  > Summary: C3.ai\ub294 Automation Anywhere\uc640 \ud569\ubcd1 \ud611\uc0c1\uc744 \uc9c4\ud589 \uc911\uc774\ub2e4. \uc774 \uac70\ub798\ub97c \ud1b5..."
-    },
     {
       "timestamp": "2026-01-28 05:56:49",
       "message": "[PROCESSING] Analyzing: Amazon partners with Harris Farm to offer fresh food delivery in Australia for the first time, starting in inner Sydney, free for Prime members on AU$100 orders (Carrie LaFrenz/Australian Financial Review)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 05:57:17",
       "message": "[PROCESSING] Analyzing: Veeco and imec Develop 300mm Compatible Process to Enable Integration of Barium Titanate on Silicon photonics..."
+    },
+    {
+      "timestamp": "2026-01-28 05:57:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Veeco and imec Develop 300mm Compatible Process to Enable Integration of Barium Titanate on Silicon photonics"
     }
   ]
 }
