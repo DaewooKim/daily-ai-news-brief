@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 13:40:04",
+  "last_updated": "2026-01-28 13:40:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 13:39:16",
-      "message": "Reprocessing: SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand (Dylan Butts/CNBC)"
-    },
     {
       "timestamp": "2026-01-28 13:39:18",
       "message": "[PROCESSING] Analyzing: SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand (Dylan Butts/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 13:40:04",
       "message": "[PROCESSING] Analyzing: Excelitas Launches Ultra-Low-Power Pyrodetector..."
+    },
+    {
+      "timestamp": "2026-01-28 13:40:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Excelitas Launches Ultra-Low-Power Pyrodetector"
     }
   ]
 }
