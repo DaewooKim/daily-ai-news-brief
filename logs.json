@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 20:25:27",
+  "last_updated": "2026-01-28 20:25:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 20:25:00",
-      "message": "[SKIP] Content too short: Texas Instruments\u2019 stock rises..."
-    },
     {
       "timestamp": "2026-01-28 20:25:01",
       "message": "Reprocessing: Moonshot AI releases open-source Kimi K2.5 model with 1T parameters"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 20:25:27",
       "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco..."
+    },
+    {
+      "timestamp": "2026-01-28 20:25:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco"
     }
   ]
 }
