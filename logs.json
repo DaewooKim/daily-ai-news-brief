@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 15:50:15",
+  "last_updated": "2026-01-28 15:50:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 15:49:30",
-      "message": "[PROCESSING] Analyzing: This soft humanoid robot is designed to be \u2018physically safe and socially approachable\u2019..."
-    },
     {
       "timestamp": "2026-01-28 15:49:35",
       "message": "[SUCCESS] Processed: \uc774 \ubd80\ub4dc\ub7ec\uc6b4 \ud734\uba38\ub178\uc774\ub4dc \ub85c\ubd07\uc740 '\uc2e0\uccb4\uc801\uc73c\ub85c \uc548\uc804\ud558\uace0 \uc0ac\ud68c\uc801\uc73c\ub85c \uc811\uadfc\ud558\uae30 \uc26c\uc6b4' \uac83\uc73c\ub85c \uc124\uacc4\ub418\uc5c8\ub2e4\n  > Summary: \uc2a4\ud0c0\ud2b8\uc5c5 \ud30c\uc6b0\ub098 \ub85c\ubcf4\ud2f1\uc2a4\uac00 3.5\ud53c\ud2b8 \ub192\uc774\uc758 \uc0c8\ub85c\uc6b4 \ud734\uba38\ub178\uc774\ub4dc \ub85c\ubd07 \uc2a4\ud504\ub77c\uc6b0\ud2b8\ub97c \uacf5\uac1c\ud588\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 15:50:15",
       "message": "Reprocessing: ATLAS: Practical scaling laws for multilingual models"
+    },
+    {
+      "timestamp": "2026-01-28 15:50:16",
+      "message": "[SKIP] Content too short: ATLAS: Practical scaling laws ..."
     }
   ]
 }
