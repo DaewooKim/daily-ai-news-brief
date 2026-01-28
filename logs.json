@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-28 10:21:36",
+  "last_updated": "2026-01-28 10:21:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-28 10:20:50",
-      "message": "[SUCCESS] Processed: AI \ub0b4\ubd80\uace0\ubc1c\uc790 \uc774\ub2c8\uc154\ud2f0\ube0c\ub294 OpenAI\uac00 \ucd5c\uadfc \ub0b4\ubd80\uace0\ubc1c\uc790 \uc815\ucc45\uc744 \uc5c5\ub370\uc774\ud2b8\ud588\ub2e4\uace0 \ub9d0\ud55c\ub2e4.\n  > Summary: AI \ub0b4\ubd80\uace0\ubc1c\uc790 \uc774\ub2c8\uc154\ud2f0\ube0c\ub294 OpenAI\uac00 \ucd5c\uadfc \ub0b4\ubd80\uace0\ubc1c\uc790 \uc815\ucc45\uc744 \uc5c5\ub370\uc774\ud2b8\ud588\ub2e4\uace0 \ubcf4\uace0\ud588\ub2e4...."
-    },
     {
       "timestamp": "2026-01-28 10:20:51",
       "message": "[PROCESSING] Analyzing: Sources: Elon Musk proposes timing SpaceX's IPO with a rare planetary alignment and his June birthday; SpaceX seeks to raise up to $50B at a ~$1.5T valuation (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-28 10:21:36",
       "message": "[PROCESSING] Analyzing: Excelitas Launches Ultra-Low-Power Pyrodetector..."
+    },
+    {
+      "timestamp": "2026-01-28 10:21:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Excelitas Launches Ultra-Low-Power Pyrodetector"
     }
   ]
 }
