@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 17:29:37",
+  "last_updated": "2026-01-29 17:29:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 17:28:58",
-      "message": "Reprocessing: Powering tax donations with AI powered personalized recommendations"
-    },
     {
       "timestamp": "2026-01-29 17:29:00",
       "message": "[PROCESSING] Analyzing: Powering tax donations with AI powered personalized recommendations..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 17:29:37",
       "message": "[PROCESSING] Analyzing: Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump..."
+    },
+    {
+      "timestamp": "2026-01-29 17:29:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump"
     }
   ]
 }
