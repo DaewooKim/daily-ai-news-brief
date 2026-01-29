@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 06:21:06",
+  "last_updated": "2026-01-29 06:21:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 06:20:32",
-      "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8\uac00 \ub9c1\ud06c\ub97c \ud074\ub9ad\ud560 \ub54c \ub370\uc774\ud130\ub97c \uc548\uc804\ud558\uac8c \uc720\uc9c0\ud558\ub294 \ubc29\ubc95\n  > Summary: \uc774 \uae00\uc5d0\uc11c\ub294 OpenAI\uac00 AI \uc5d0\uc774\uc804\ud2b8\uac00 \ub9c1\ud06c\ub97c \uc5f4 \ub54c \uc0ac\uc6a9\uc790 \ub370\uc774\ud130\ub97c \ubcf4\ud638\ud558\ub294 \ubc29\ubc95\uc5d0 ..."
-    },
     {
       "timestamp": "2026-01-29 06:20:33",
       "message": "Reprocessing: PVH reimagines the future of fashion with OpenAI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 06:21:06",
       "message": "[PROCESSING] Analyzing: Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump..."
+    },
+    {
+      "timestamp": "2026-01-29 06:21:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump"
     }
   ]
 }
