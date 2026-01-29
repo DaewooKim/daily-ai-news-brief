@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 23:05:13",
+  "last_updated": "2026-01-29 23:05:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 23:04:37",
-      "message": "[SUCCESS] Processed: \ub300\uaddc\ubaa8 AI\uac00 \uc804\ub825\ub9dd\uc744 \uc5b4\ub5bb\uac8c \uc7ac\ud3b8\ud558\uace0 \uc788\ub294\uac00\n  > Summary: AI \ucea0\ud37c\uc2a4\uac00 \uc9d1\uc911\uc801\uc774\uace0 \uac70\uc758 \uc9c0\uc18d\uc801\uc778 \uc804\ub825\uc744 \uc694\uad6c\ud568\uc5d0 \ub530\ub77c \uc804\ub825\ub9dd\uc774 \ube60\ub974\uac8c \ubc1c\uc804\ud558\uace0 \uc788\ub2e4..."
-    },
     {
       "timestamp": "2026-01-29 23:04:39",
       "message": "[PROCESSING] Analyzing: Sources: SpaceX is considering a potential merger with Tesla, an idea some investors are pushing, while separately exploring a tie-up between SpaceX and xAI (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 23:05:13",
       "message": "[PROCESSING] Analyzing: Appfigures: Sora's app downloads dropped 32% month-over-month in December and 45% in January to 1.2M; consumer spending on the app fell 32% MoM as of January (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-01-29 23:05:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Appfigures: Sora's app downloads dropped 32% month-over-month in December and 45% in January to 1.2M; consumer spending on the app fell 32% MoM as of January (Sarah Perez/TechCrunch)"
     }
   ]
 }
