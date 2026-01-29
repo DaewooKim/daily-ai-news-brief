@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 18:36:16",
+  "last_updated": "2026-01-29 18:36:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 18:35:30",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI\uc758 \uc790\uccb4 \ub370\uc774\ud130 \uc5d0\uc774\uc804\ud2b8 \ub0b4\ubd80\n  > Summary: \uc624\ud508AI\ub294 \ub300\ub7c9\uc758 \ub370\uc774\ud130\uc14b\uc744 \ucc98\ub9ac\ud558\uace0 \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \ud1b5\ucc30\ub825\uc744 \uc2e0\uc18d\ud558\uac8c \uc81c\uacf5\ud558\ub294 \uc778\ud558\uc6b0\uc2a4 ..."
-    },
     {
       "timestamp": "2026-01-29 18:35:32",
       "message": "Reprocessing: EMEA Youth & Wellbeing Grant"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 18:36:16",
       "message": "[PROCESSING] Analyzing: Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019..."
+    },
+    {
+      "timestamp": "2026-01-29 18:36:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019"
     }
   ]
 }
