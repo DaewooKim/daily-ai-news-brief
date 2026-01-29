@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 23:04:23",
+  "last_updated": "2026-01-29 23:04:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 23:03:48",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, \uc624\ud508AI\uc5d0 500\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \ud611\uc0c1 \uc911\n  > Summary: \uc544\ub9c8\uc874\uc774 \uc624\ud508AI\uc5d0 500\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud558\ub294 \ud611\uc0c1\uc5d0 \ub4e4\uc5b4\uac14\ub2e4\ub294 \ubcf4\uace0\uac00 \ub098\uc624\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774..."
-    },
     {
       "timestamp": "2026-01-29 23:03:50",
       "message": "[PROCESSING] Analyzing: Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 23:04:23",
       "message": "[PROCESSING] Analyzing: Can Advanced Nuclear Reactors Solve the Data Center Power Puzzle?..."
+    },
+    {
+      "timestamp": "2026-01-29 23:04:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Can Advanced Nuclear Reactors Solve the Data Center Power Puzzle?"
     }
   ]
 }
