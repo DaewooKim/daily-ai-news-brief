@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 07:29:36",
+  "last_updated": "2026-01-29 07:29:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 07:28:56",
-      "message": "Reprocessing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI"
-    },
     {
       "timestamp": "2026-01-29 07:28:57",
       "message": "[PROCESSING] Analyzing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 07:29:36",
       "message": "[PROCESSING] Analyzing: Touchscreen controllers target automotive displays..."
+    },
+    {
+      "timestamp": "2026-01-29 07:29:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Touchscreen controllers target automotive displays"
     }
   ]
 }
