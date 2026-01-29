@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 17:28:24",
+  "last_updated": "2026-01-29 17:28:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 17:27:27",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-29 17:27:27",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 17:28:24",
       "message": "[PROCESSING] Analyzing: Arco is a brilliant and beautiful sci-fi film inspired by animation legends..."
+    },
+    {
+      "timestamp": "2026-01-29 17:28:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Arco is a brilliant and beautiful sci-fi film inspired by animation legends"
     }
   ]
 }
