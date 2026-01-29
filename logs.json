@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 14:10:56",
+  "last_updated": "2026-01-29 14:10:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 14:10:13",
-      "message": "[SUCCESS] Processed: EMASS\uac00 \ud56d\uc0c1 \ucf1c\uc838 \uc788\ub294 \uc5e3\uc9c0 AI\ub97c \ud5a5\uc0c1\uc2dc\ud0a4\ub294 16nm ECS-DoT \ubc18\ub3c4\uccb4\ub97c \uc131\uacf5\uc801\uc73c\ub85c \uc124\uacc4\ud558\uc5ec \uc0dd\uc0b0\uc5d0 \ub4e4\uc5b4\uac14\ub2e4\n  > Summary: EMASS\ub294 16nm ECS-DoT \uc2dc\uc2a4\ud15c \uc628 \uce69\uc744 \uc131\uacf5\uc801\uc73c\ub85c \uc124\uacc4\ud558\uc5ec TSMC\uc5d0\uc11c \uc0dd\uc0b0\uc5d0..."
-    },
     {
       "timestamp": "2026-01-29 14:10:14",
       "message": "Reprocessing: SK hynix to Establish U.S. Arm Specialized in AI Solutions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 14:10:56",
       "message": "[PROCESSING] Analyzing: Touchscreen controllers target automotive displays..."
+    },
+    {
+      "timestamp": "2026-01-29 14:10:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Touchscreen controllers target automotive displays"
     }
   ]
 }
