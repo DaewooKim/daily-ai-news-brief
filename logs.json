@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 03:04:21",
+  "last_updated": "2026-01-29 03:04:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 03:03:41",
-      "message": "[SKIP] Irrelevant (AI Filter): ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours (Samantha Subin/CNBC)"
-    },
     {
       "timestamp": "2026-01-29 03:03:42",
       "message": "[PROCESSING] Analyzing: Microsoft says capital expenditures for Q2 hit $37.5B, exceeding analyst estimates for $36.2B; MSFT drops 4%+ after hours (Matt Day/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 03:04:21",
       "message": "Reprocessing: SEMI Outlines 2026 U.S. Policy Priorities to Support Semiconductor Growth, Innovation, and Supply Chain Stability"
+    },
+    {
+      "timestamp": "2026-01-29 03:04:23",
+      "message": "[PROCESSING] Analyzing: SEMI Outlines 2026 U.S. Policy Priorities to Support Semiconductor Growth, Innovation, and Supply Chain Stability..."
     }
   ]
 }
