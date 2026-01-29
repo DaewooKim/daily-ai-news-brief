@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 23:07:10",
+  "last_updated": "2026-01-29 23:07:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 23:06:41",
-      "message": "[PROCESSING] Analyzing: \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694..."
-    },
     {
       "timestamp": "2026-01-29 23:06:43",
       "message": "[SKIP] Irrelevant (AI Filter): \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 23:07:10",
       "message": "Reprocessing: ServiceNow\u2019s stock slides on iffy subscription revenue forecast"
+    },
+    {
+      "timestamp": "2026-01-29 23:07:11",
+      "message": "[SKIP] Content too short: ServiceNow\u2019s stock slides on i..."
     }
   ]
 }
