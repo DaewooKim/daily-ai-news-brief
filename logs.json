@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 13:00:36",
+  "last_updated": "2026-01-29 13:00:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 12:59:55",
-      "message": "Reprocessing: EMEA Youth & Wellbeing Grant"
-    },
     {
       "timestamp": "2026-01-29 12:59:56",
       "message": "[PROCESSING] Analyzing: EMEA Youth & Wellbeing Grant..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 13:00:36",
       "message": "[PROCESSING] Analyzing: The conference where founders scale: TechCrunch Founder Summit 2026 tickets are now live at the lowest prices..."
+    },
+    {
+      "timestamp": "2026-01-29 13:00:38",
+      "message": "[SKIP] Irrelevant (AI Filter): The conference where founders scale: TechCrunch Founder Summit 2026 tickets are now live at the lowest prices"
     }
   ]
 }
