@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-29 20:55:15",
-  "status": "idle",
+  "last_updated": "2026-01-29 21:55:51",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-29 20:53:52",
-      "message": "Reprocessing: Microsoft\u2019s stock declines after Azure cloud growth dips below 40%"
+      "timestamp": "2026-01-29 21:55:39",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-29 20:53:53",
-      "message": "[SKIP] Content too short: Microsoft\u2019s stock declines aft..."
+      "timestamp": "2026-01-29 21:55:40",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-29 20:53:55",
-      "message": "Reprocessing: Waabi raises $750M as Uber separately commits up to $250M for robotaxi partnership"
+      "timestamp": "2026-01-29 21:55:40",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-29 20:53:56",
-      "message": "[SKIP] Content too short: Waabi raises $750M as Uber sep..."
+      "timestamp": "2026-01-29 21:55:51",
+      "message": "Found 175 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-29 20:53:58",
-      "message": "Reprocessing: OpenAI, Anthropic reportedly raising billions of dollars in new funding"
-    },
-    {
-      "timestamp": "2026-01-29 20:53:59",
-      "message": "[SKIP] Content too short: OpenAI, Anthropic reportedly r..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:01",
-      "message": "Reprocessing: Dynatrace Intelligence aims to advance autonomous software operations"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:02",
-      "message": "[SKIP] Content too short: Dynatrace Intelligence aims to..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:03",
-      "message": "Reprocessing: Amazon lays off 16,000 employees to prioritize growth areas"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:05",
-      "message": "[SKIP] Content too short: Amazon lays off 16,000 employe..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:06",
-      "message": "Reprocessing: Customer service is emerging as the proving ground for enterprise AI, says Zendesk CEO"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:08",
-      "message": "[SKIP] Content too short: Customer service is emerging a..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:09",
-      "message": "Reprocessing: Google lets the browser take control with major updates to Gemini in Chrome"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:10",
-      "message": "[SKIP] Content too short: Google lets the browser take c..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:12",
-      "message": "Reprocessing: Sentra.app raises $5M to build AI teammate to organize enterprise memory"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:13",
-      "message": "[SKIP] Content too short: Sentra.app raises $5M to build..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:14",
-      "message": "Reprocessing: Pecan AI unveils a predictive agent that automates business forecasting"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:16",
-      "message": "[SKIP] Content too short: Pecan AI unveils a predictive ..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:17",
-      "message": "Reprocessing: Assembled rolls out automated schedule generation for customer support"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:18",
-      "message": "[SKIP] Content too short: Assembled rolls out automated ..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:20",
-      "message": "Reprocessing: Mesh Security raises $12M to scale cybersecurity mesh execution platform"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:21",
-      "message": "[SKIP] Content too short: Mesh Security raises $12M to s..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:23",
-      "message": "Reprocessing: The biggest AI bottleneck isn\u2019t GPUs. It\u2019s data resilience"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:24",
-      "message": "[SKIP] Content too short: The biggest AI bottleneck isn\u2019..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:26",
-      "message": "Reprocessing: Abstract Security partners with Netskope to bring real-time detection into security data streams"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:27",
-      "message": "[SKIP] Content too short: Abstract Security partners wit..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:29",
-      "message": "Reprocessing: Adaptive6 scores $28M in early funding to find and fix cloud cost inefficiencies"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:30",
-      "message": "[SKIP] Content too short: Adaptive6 scores $28M in early..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:32",
-      "message": "Reprocessing: Datatruck raises $12M to scale AI-native operating system for long-haul trucking"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:33",
-      "message": "[SKIP] Content too short: Datatruck raises $12M to scale..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:34",
-      "message": "Reprocessing: Apiiro introduces Guardian Agent to secure AI-driven software development"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:36",
-      "message": "[SKIP] Content too short: Apiiro introduces Guardian Age..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:37",
-      "message": "Reprocessing: Platform Engineering brings multicloud support to its formae infrastructure-as-code platform"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:39",
-      "message": "[SKIP] Content too short: Platform Engineering brings mu..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:40",
-      "message": "Reprocessing: Rein Security launches with a focus on real-time production application security"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:41",
-      "message": "[SKIP] Content too short: Rein Security launches with a ..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:43",
-      "message": "Reprocessing: Factify gets $73M in seed funding to replace antiquated PDF files with intelligent documents"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:44",
-      "message": "[SKIP] Content too short: Factify gets $73M in seed fund..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:46",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:48",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:49",
-      "message": "[PROCESSING] Analyzing: Alta Labs Route10 Review A Neat 10G and PoE Gateway..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:51",
-      "message": "[SKIP] Irrelevant (AI Filter): Alta Labs Route10 Review A Neat 10G and PoE Gateway"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:53",
-      "message": "[PROCESSING] Analyzing: Tenda SE108 8-port 2.5GbE Fanless Switch Review with MaxLinear..."
-    },
-    {
-      "timestamp": "2026-01-29 20:54:55",
-      "message": "[SKIP] Irrelevant (AI Filter): Tenda SE108 8-port 2.5GbE Fanless Switch Review with MaxLinear"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:57",
-      "message": "Reprocessing: Power agentic workflows in your terminal with GitHub Copilot CLI"
-    },
-    {
-      "timestamp": "2026-01-29 20:54:58",
-      "message": "[PROCESSING] Analyzing: Power agentic workflows in your terminal with GitHub Copilot CLI..."
-    },
-    {
-      "timestamp": "2026-01-29 20:55:03",
-      "message": "[SUCCESS] Processed: \ud130\ubbf8\ub110\uc5d0\uc11c GitHub Copilot CLI\ub85c \uc5d0\uc774\uc804\ud2f1 \uc6cc\ud06c\ud50c\ub85c\uc6b0 \uac15\ud654\ud558\uae30\n  > Summary: GitHub Copilot CLI\uac00 2025\ub144 9\uc6d4\uc5d0 \uacf5\uac1c \uc2dc\uc0ac\ub418\uba74\uc11c, \uc0ac\uc6a9\uc790\ub4e4\uc740 \ud130\ubbf8\ub110 ..."
-    },
-    {
-      "timestamp": "2026-01-29 20:55:04",
-      "message": "Completed! New: 4, Updated: 49"
-    },
-    {
-      "timestamp": "2026-01-29 20:55:11",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-29 20:55:14",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-29 21:55:51",
+      "message": "[PROCESSING] Analyzing: Apple just had a record-breaking iPhone quarter..."
     }
   ]
 }
