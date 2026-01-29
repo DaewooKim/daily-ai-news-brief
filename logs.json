@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 20:50:43",
+  "last_updated": "2026-01-29 20:50:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 20:50:06",
-      "message": "[PROCESSING] Analyzing: Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot..."
-    },
     {
       "timestamp": "2026-01-29 20:50:10",
       "message": "[SUCCESS] Processed: \uc0ac\ud2f0\uc544 \ub098\ub378\ub77c, \uc0ac\ub78c\ub4e4\uc774 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc758 \ucf54\ud30c\uc77c\ub7ff AI\ub97c \ub9ce\uc774 \uc0ac\uc6a9\ud558\uace0 \uc788\ub2e4\uace0 \uc8fc\uc7a5\ud558\ub2e4\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 CEO \uc0ac\ud2f0\uc544 \ub098\ub378\ub77c\uac00 AI \uc0ac\uc6a9\ub7c9\uc5d0 \ub300\ud55c \uc218\uce58\ub97c \uacf5\uc720\ud558\uba70, \uc790\uc0ac\uc758 AI \uc11c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 20:50:43",
       "message": "[PROCESSING] Analyzing: The Data Center Surge Has a Hidden Source of Carbon Emissions..."
+    },
+    {
+      "timestamp": "2026-01-29 20:50:45",
+      "message": "[SKIP] Irrelevant (AI Filter): The Data Center Surge Has a Hidden Source of Carbon Emissions"
     }
   ]
 }
