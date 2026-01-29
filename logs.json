@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 15:15:38",
+  "last_updated": "2026-01-29 15:15:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 15:14:58",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \uac1c\uc778\ud654 \ucd94\ucc9c\uc73c\ub85c \uc138\uae08 \uae30\ubd80 \uc9c0\uc6d0\n  > Summary: TRUSTBANK\ub294 Recursive\uc640 \ud611\ub825\ud558\uc5ec OpenAI \ubaa8\ub378\uc744 \ud65c\uc6a9\ud55c Choice A..."
-    },
     {
       "timestamp": "2026-01-29 15:15:00",
       "message": "[PROCESSING] Analyzing: Google Maps now lets you access Gemini while walking and cycling..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 15:15:38",
       "message": "[PROCESSING] Analyzing: Radar Sensors Navigate Verona\u2019s Five-Century-Old Streets..."
+    },
+    {
+      "timestamp": "2026-01-29 15:15:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Radar Sensors Navigate Verona\u2019s Five-Century-Old Streets"
     }
   ]
 }
