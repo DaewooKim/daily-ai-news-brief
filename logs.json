@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 23:05:20",
+  "last_updated": "2026-01-29 23:05:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 23:04:48",
-      "message": "[SUCCESS] Processed: \uc0cc\ub514\uc2a4\ud06c, AI \ub355\ubd84\uc5d0 \uc218\uc694 \uc99d\uac00\ub85c 2\ubd84\uae30 \ub9e4\ucd9c 61% \uc99d\uac00, \uc21c\uc774\uc775 672% \uc0c1\uc2b9 \ubcf4\uace0\n  > Summary: \uc0cc\ub514\uc2a4\ud06c\ub294 2\ubd84\uae30\uc5d0 3.03\uc5b5 \ub2ec\ub7ec\uc758 \ub9e4\ucd9c\uc744 \uae30\ub85d\ud558\uba70 \uc9c0\ub09c\ud574 \uac19\uc740 \uae30\uac04\ubcf4\ub2e4 61% \uc99d\uac00\ud588\ub2e4..."
-    },
     {
       "timestamp": "2026-01-29 23:04:50",
       "message": "[PROCESSING] Analyzing: Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates (Todd Spangler/Variety)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 23:05:20",
       "message": "[PROCESSING] Analyzing: Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)..."
+    },
+    {
+      "timestamp": "2026-01-29 23:05:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)"
     }
   ]
 }
