@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-29 13:00:14",
+  "last_updated": "2026-01-29 13:00:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-29 12:59:36",
-      "message": "Reprocessing: Updating Classifier Evasion for Vision Language Models"
-    },
     {
       "timestamp": "2026-01-29 12:59:38",
       "message": "[PROCESSING] Analyzing: Updating Classifier Evasion for Vision Language Models..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-29 13:00:14",
       "message": "[PROCESSING] Analyzing: Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019..."
+    },
+    {
+      "timestamp": "2026-01-29 13:00:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019"
     }
   ]
 }
