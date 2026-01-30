@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 15:45:00",
+  "last_updated": "2026-01-30 15:45:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 15:44:33",
-      "message": "[SKIP] Content too short: Microsoft\u2019s stock declines aft..."
-    },
     {
       "timestamp": "2026-01-30 15:44:34",
       "message": "Reprocessing: Waabi raises $750M as Uber separately commits up to $250M for robotaxi partnership"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 15:45:00",
       "message": "[PROCESSING] Analyzing: Alta Labs Route10 Review A Neat 10G and PoE Gateway..."
+    },
+    {
+      "timestamp": "2026-01-30 15:45:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Alta Labs Route10 Review A Neat 10G and PoE Gateway"
     }
   ]
 }
