@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 15:40:45",
+  "last_updated": "2026-01-30 15:40:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 15:40:10",
-      "message": "[SUCCESS] Processed: ChatGPT\uc5d0\uc11c GPT-4o, GPT-4.1, GPT-4.1 mini \ubc0f OpenAI o4-mini\ub97c \ud1f4\uc5ed\ud569\ub2c8\ub2e4\n  > Summary: 2026\ub144 2\uc6d4 13\uc77c, GPT-5\uc758 \ud1f4\uc5ed\uacfc \ud568\uaed8 GPT-4o, GPT-4.1, GPT-4..."
-    },
     {
       "timestamp": "2026-01-30 15:40:11",
       "message": "Reprocessing: EMEA Youth & Wellbeing Grant"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 15:40:45",
       "message": "[PROCESSING] Analyzing: Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019..."
+    },
+    {
+      "timestamp": "2026-01-30 15:40:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019"
     }
   ]
 }
