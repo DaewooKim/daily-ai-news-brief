@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 15:40:00",
+  "last_updated": "2026-01-30 15:40:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 15:39:21",
-      "message": "[PROCESSING] Analyzing: Who\u2019s afraid of the new TikTok?..."
-    },
     {
       "timestamp": "2026-01-30 15:39:23",
       "message": "[SKIP] Irrelevant (AI Filter): Who\u2019s afraid of the new TikTok?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 15:40:00",
       "message": "Reprocessing: ATLAS: Practical scaling laws for multilingual models"
+    },
+    {
+      "timestamp": "2026-01-30 15:40:01",
+      "message": "[SKIP] Content too short: ATLAS: Practical scaling laws ..."
     }
   ]
 }
