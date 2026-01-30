@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 14:33:02",
+  "last_updated": "2026-01-30 14:33:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 14:32:12",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-30 14:32:12",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 14:33:02",
       "message": "[PROCESSING] Analyzing: The best foldable phone you can buy..."
+    },
+    {
+      "timestamp": "2026-01-30 14:33:04",
+      "message": "[SKIP] Irrelevant (AI Filter): The best foldable phone you can buy"
     }
   ]
 }
