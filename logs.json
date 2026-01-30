@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 14:36:23",
+  "last_updated": "2026-01-30 14:36:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 14:35:38",
-      "message": "Reprocessing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI"
-    },
     {
       "timestamp": "2026-01-30 14:35:39",
       "message": "[PROCESSING] Analyzing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 14:36:23",
       "message": "[PROCESSING] Analyzing: Mikroe and Renesas Partner on MCU Development Tools..."
+    },
+    {
+      "timestamp": "2026-01-30 14:36:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Mikroe and Renesas Partner on MCU Development Tools"
     }
   ]
 }
