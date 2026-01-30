@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 23:27:49",
+  "last_updated": "2026-01-30 23:27:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 23:26:58",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-01-30 23:27:13",
       "message": "Found 188 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 23:27:49",
       "message": "[PROCESSING] Analyzing: This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard..."
+    },
+    {
+      "timestamp": "2026-01-30 23:27:51",
+      "message": "[SKIP] Irrelevant (AI Filter): This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard"
     }
   ]
 }
