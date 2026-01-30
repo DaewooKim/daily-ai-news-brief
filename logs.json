@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 14:34:00",
+  "last_updated": "2026-01-30 14:34:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 14:33:20",
-      "message": "[PROCESSING] Analyzing: Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT..."
-    },
     {
       "timestamp": "2026-01-30 14:33:25",
       "message": "[SUCCESS] Processed: ChatGPT\uc5d0\uc11c GPT-4o, GPT-4.1, GPT-4.1 mini \ubc0f OpenAI o4-mini \uc740\ud1f4\n  > Summary: 2026\ub144 2\uc6d4 13\uc77c\uc5d0 GPT-5(\uc778\uc2a4\ud134\ud2b8, \uc53d\ud0b9, \ud504\ub85c)\uc758 \uc740\ud1f4 \ubc1c\ud45c\uc640 \ud568\uaed8 ChatG..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 14:34:00",
       "message": "[SKIP] Irrelevant (AI Filter): Mark Zuckerberg says a future without smart glasses is \u2018hard to imagine\u2019"
+    },
+    {
+      "timestamp": "2026-01-30 14:34:02",
+      "message": "Reprocessing: Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta\u2019s Llama"
     }
   ]
 }
