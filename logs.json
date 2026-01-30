@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 00:12:01",
+  "last_updated": "2026-01-30 00:12:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 00:11:20",
-      "message": "[PROCESSING] Analyzing: Debate Rages Over AI Bubble vs. Boom..."
-    },
     {
       "timestamp": "2026-01-30 00:11:23",
       "message": "[SUCCESS] Processed: AI \ubc84\ube14 \ub300 \ud638\ud669\uc5d0 \ub300\ud55c \ub17c\uc7c1\n  > Summary: AI \uc778\ud504\ub77c\uc5d0 \ub300\ud55c \uc9c0\ucd9c\uc774 \uc0c8\ub85c\uc6b4 \uc815\uc810\uc5d0 \ub3c4\ub2ec\ud568\uc5d0 \ub530\ub77c \ub370\uc774\ud130 \uc13c\ud130 \ud22c\uc790\uc5d0 \ub300\ud55c \uc7a5\uae30\uc801\uc778 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 00:12:01",
       "message": "[PROCESSING] Analyzing: Microsoft shares fell ~10% on Thursday following an earnings report that disappointed some investors, the stock's sharpest daily decline since March 2020 (Jordan Novet/CNBC)..."
+    },
+    {
+      "timestamp": "2026-01-30 00:12:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft shares fell ~10% on Thursday following an earnings report that disappointed some investors, the stock's sharpest daily decline since March 2020 (Jordan Novet/CNBC)"
     }
   ]
 }
