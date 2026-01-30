@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 16:46:40",
+  "last_updated": "2026-01-30 16:46:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 16:45:45",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-01-30 16:45:45",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 16:46:40",
       "message": "[PROCESSING] Analyzing: Apple\u2019s sci-fi detective show Sugar is coming back in June..."
+    },
+    {
+      "timestamp": "2026-01-30 16:46:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple\u2019s sci-fi detective show Sugar is coming back in June"
     }
   ]
 }
