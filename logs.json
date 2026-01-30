@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 12:23:05",
+  "last_updated": "2026-01-30 12:23:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 12:22:21",
-      "message": "[SUCCESS] Processed: EMASS, 16nm ECS-DoT\ub97c \ud0ed \uc544\uc6c3\ud558\uc5ec \ud56d\uc0c1 \ucf1c\uc838 \uc788\ub294 \uc5e3\uc9c0 AI\ub97c \ubc1c\uc804\uc2dc\ud0a4\ub2e4\n  > Summary: EMASS\ub294 16nm ECS-DoT \uc2dc\uc2a4\ud15c \uc628 \uce69(SoC)\uc758 \uc131\uacf5\uc801\uc778 \ud0ed \uc544\uc6c3\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-01-30 12:22:22",
       "message": "Reprocessing: SK hynix to Establish U.S. Arm Specialized in AI Solutions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 12:23:05",
       "message": "[PROCESSING] Analyzing: Excelitas Launches Ultra-Low-Power Pyrodetector..."
+    },
+    {
+      "timestamp": "2026-01-30 12:23:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Excelitas Launches Ultra-Low-Power Pyrodetector"
     }
   ]
 }
