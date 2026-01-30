@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 06:48:56",
+  "last_updated": "2026-01-30 06:48:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 06:48:19",
-      "message": "[PROCESSING] Analyzing: The next chapter for AI in the EU..."
-    },
     {
       "timestamp": "2026-01-30 06:48:22",
       "message": "[SUCCESS] Processed: EU \ub0b4 AI\uc758 \ub2e4\uc74c \ucc55\ud130\n  > Summary: OpenAI\uac00 \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130, \ud30c\ud2b8\ub108\uc2ed \ubc0f \uc774\ub2c8\uc154\ud2f0\ube0c\uc640 \ud568\uaed8 EU \uacbd\uc81c \uccad\uc0ac\uc9c4 2.0\uc744 \ucd9c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 06:48:56",
       "message": "[PROCESSING] Analyzing: Radar Sensors Navigate Verona\u2019s Five-Century-Old Streets..."
+    },
+    {
+      "timestamp": "2026-01-30 06:48:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Radar Sensors Navigate Verona\u2019s Five-Century-Old Streets"
     }
   ]
 }
