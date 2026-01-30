@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-30 07:56:18",
+  "last_updated": "2026-01-30 07:56:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-30 07:55:35",
-      "message": "Reprocessing: Perplexity signs a deal with Microsoft; sources say the $750M, three-year commitment will let Perplexity deploy AI models through Microsoft's Foundry service (Bloomberg)"
-    },
     {
       "timestamp": "2026-01-30 07:55:36",
       "message": "[PROCESSING] Analyzing: Perplexity signs a deal with Microsoft; sources say the $750M, three-year commitment will let Perplexity deploy AI models through Microsoft's Foundry service (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-30 07:56:18",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Announces Operational Efficiency Plan..."
+    },
+    {
+      "timestamp": "2026-01-30 07:56:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Announces Operational Efficiency Plan"
     }
   ]
 }
