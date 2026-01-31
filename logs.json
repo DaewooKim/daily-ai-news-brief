@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-31 05:04:52",
+  "last_updated": "2026-01-31 05:04:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-31 05:04:06",
-      "message": "[PROCESSING] Analyzing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI..."
-    },
     {
       "timestamp": "2026-01-31 05:04:11",
       "message": "[SUCCESS] Processed: EMASS, 16nm ECS-DoT \uc124\uacc4 \uc644\ub8cc, \ud56d\uc0c1 \ucf1c\uc838 \uc788\ub294 \uc5e3\uc9c0 AI\ub97c \uc9c4\uc804\uc2dc\ud0a4\ub2e4\n  > Summary: EMASS\ub294 16nm ECS-DoT \uc2dc\uc2a4\ud15c \uc628 \uce69\uc758 \uc124\uacc4\ub97c \uc644\ub8cc\ud558\uace0 TSMC\uc5d0\uc11c \uc81c\uc791\uc5d0 \ub4e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-31 05:04:52",
       "message": "[PROCESSING] Analyzing: Excelitas Launches Ultra-Low-Power Pyrodetector..."
+    },
+    {
+      "timestamp": "2026-01-31 05:04:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Excelitas Launches Ultra-Low-Power Pyrodetector"
     }
   ]
 }
