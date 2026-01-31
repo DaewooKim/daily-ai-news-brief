@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-31 22:44:55",
+  "last_updated": "2026-01-31 22:44:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-31 22:44:04",
-      "message": "[PROCESSING] Analyzing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI..."
-    },
     {
       "timestamp": "2026-01-31 22:44:09",
       "message": "[SUCCESS] Processed: EMASS\uc758 16nm ECS-DoT \ud14c\uc774\ud504 \uc544\uc6c3, \ud56d\uc0c1 \ucf1c\uc9c4 \uc5e3\uc9c0 AI \ubc1c\uc804\n  > Summary: EMASS\ub294 16nm ECS-DoT \uc2dc\uc2a4\ud15c \uc628 \uce69(SoC)\uc758 \uc131\uacf5\uc801\uc778 \ud14c\uc774\ud504 \uc544\uc6c3\uc744 \ubc1c\ud45c\ud588..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-31 22:44:55",
       "message": "[PROCESSING] Analyzing: \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694..."
+    },
+    {
+      "timestamp": "2026-01-31 22:44:57",
+      "message": "[SKIP] Irrelevant (AI Filter): \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694"
     }
   ]
 }
