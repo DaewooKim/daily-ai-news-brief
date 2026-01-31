@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-31 02:50:10",
+  "last_updated": "2026-01-31 02:50:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-31 02:49:35",
-      "message": "Reprocessing: Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT"
-    },
     {
       "timestamp": "2026-01-31 02:49:37",
       "message": "[PROCESSING] Analyzing: Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-31 02:50:10",
       "message": "[PROCESSING] Analyzing: Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works..."
+    },
+    {
+      "timestamp": "2026-01-31 02:50:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works"
     }
   ]
 }
