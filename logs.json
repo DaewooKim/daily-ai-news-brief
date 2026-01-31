@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-01-31 11:45:22",
-  "status": "idle",
+  "last_updated": "2026-01-31 12:45:59",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-01-31 11:44:07",
-      "message": "Reprocessing: Ethos shares slide 11% after life insurance platform debuts on Nasdaq"
+      "timestamp": "2026-01-31 12:45:45",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-01-31 11:44:08",
-      "message": "[SKIP] Content too short: Ethos shares slide 11% after l..."
+      "timestamp": "2026-01-31 12:45:46",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-01-31 11:44:09",
-      "message": "Reprocessing: Sandisk, Western Digital beat expectations as cloud and AI data center storage demand accelerates"
+      "timestamp": "2026-01-31 12:45:46",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-01-31 11:44:11",
-      "message": "[SKIP] Content too short: Sandisk, Western Digital beat ..."
+      "timestamp": "2026-01-31 12:45:59",
+      "message": "Found 186 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-01-31 11:44:12",
-      "message": "Reprocessing: AI is coming to an enterprise near you and Zscaler aims to secure it"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:14",
-      "message": "[SKIP] Content too short: AI is coming to an enterprise ..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:15",
-      "message": "Reprocessing: Virtue AI debuts AgentSuite platform to help enterprises secure AI agents"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:16",
-      "message": "[SKIP] Content too short: Virtue AI debuts AgentSuite pl..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:18",
-      "message": "Reprocessing: RobCo nabs $100M to scale autonomous industrial robotics platform"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:19",
-      "message": "[SKIP] Content too short: RobCo nabs $100M to scale auto..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:20",
-      "message": "Reprocessing: GPU cluster marketplace PaleBlueDot AI raises $150M at $1B valuation"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:22",
-      "message": "[SKIP] Content too short: GPU cluster marketplace PaleBl..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:23",
-      "message": "Reprocessing: SAP tops estimates but cloud backlog miss rattles investors"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:24",
-      "message": "[SKIP] Content too short: SAP tops estimates but cloud b..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:26",
-      "message": "Reprocessing: Lorikeet launches Coach: an analytics agent to perk up AI customer support"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:27",
-      "message": "[SKIP] Content too short: Lorikeet launches Coach: an an..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:29",
-      "message": "Reprocessing: ServiceNow\u2019s stock slides on iffy subscription revenue forecast"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:30",
-      "message": "[SKIP] Content too short: ServiceNow\u2019s stock slides on i..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:31",
-      "message": "Reprocessing: UK government to allow publishers to opt out of Google data scraping for AI Overview"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:32",
-      "message": "[SKIP] Content too short: UK government to allow publish..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:34",
-      "message": "Reprocessing: Google DeepMind open-sources AlphaGenome medical research model"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:35",
-      "message": "[SKIP] Content too short: Google DeepMind open-sources A..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:36",
-      "message": "Reprocessing: Meta\u2019s stock surges on strong earnings, revenue and bullish guidance"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:38",
-      "message": "[SKIP] Content too short: Meta\u2019s stock surges on strong ..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:39",
-      "message": "Reprocessing: Tesla earnings top estimates as Musk pivots company from cars to robots"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:40",
-      "message": "[SKIP] Content too short: Tesla earnings top estimates a..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:42",
-      "message": "Reprocessing: Strong revenue performance sends IBM stock soaring after-hours"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:43",
-      "message": "[SKIP] Content too short: Strong revenue performance sen..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:44",
-      "message": "Reprocessing: Decagon AI raises $250M at $4.5B valuation to scale AI concierge platform"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:46",
-      "message": "[SKIP] Content too short: Decagon AI raises $250M at $4...."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:47",
-      "message": "Reprocessing: Microsoft\u2019s stock declines after Azure cloud growth dips below 40%"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:49",
-      "message": "[SKIP] Content too short: Microsoft\u2019s stock declines aft..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:50",
-      "message": "Reprocessing: Waabi raises $750M as Uber separately commits up to $250M for robotaxi partnership"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:51",
-      "message": "[SKIP] Content too short: Waabi raises $750M as Uber sep..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:53",
-      "message": "Reprocessing: OpenAI, Anthropic reportedly raising billions of dollars in new funding"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:54",
-      "message": "[SKIP] Content too short: OpenAI, Anthropic reportedly r..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:55",
-      "message": "Reprocessing: Dynatrace Intelligence aims to advance autonomous software operations"
-    },
-    {
-      "timestamp": "2026-01-31 11:44:57",
-      "message": "[SKIP] Content too short: Dynatrace Intelligence aims to..."
-    },
-    {
-      "timestamp": "2026-01-31 11:44:58",
-      "message": "[PROCESSING] Analyzing: Using the Dell Pro Max with GB10 to Profit within 12 Months..."
-    },
-    {
-      "timestamp": "2026-01-31 11:45:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Using the Dell Pro Max with GB10 to Profit within 12 Months"
-    },
-    {
-      "timestamp": "2026-01-31 11:45:01",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco..."
-    },
-    {
-      "timestamp": "2026-01-31 11:45:03",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco"
-    },
-    {
-      "timestamp": "2026-01-31 11:45:04",
-      "message": "[PROCESSING] Analyzing: Alta Labs Route10 Review A Neat 10G and PoE Gateway..."
-    },
-    {
-      "timestamp": "2026-01-31 11:45:06",
-      "message": "[SKIP] Irrelevant (AI Filter): Alta Labs Route10 Review A Neat 10G and PoE Gateway"
-    },
-    {
-      "timestamp": "2026-01-31 11:45:07",
-      "message": "Reprocessing: Power agentic workflows in your terminal with GitHub Copilot CLI"
-    },
-    {
-      "timestamp": "2026-01-31 11:45:09",
-      "message": "[PROCESSING] Analyzing: Power agentic workflows in your terminal with GitHub Copilot CLI..."
-    },
-    {
-      "timestamp": "2026-01-31 11:45:13",
-      "message": "[SUCCESS] Processed: \ud130\ubbf8\ub110\uc5d0\uc11c GitHub Copilot CLI\ub85c \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\uc6b0 \uc2e4\ud589\ud558\uae30\n  > Summary: GitHub Copilot CLI\ub294 2025\ub144 9\uc6d4 \uacf5\uac1c \ud504\ub9ac\ubdf0 \uc774\ud6c4 \uc5c5\ub370\uc774\ud2b8\uac00 \uc9c4\ud589\ub418\uace0 ..."
-    },
-    {
-      "timestamp": "2026-01-31 11:45:14",
-      "message": "Completed! New: 1, Updated: 48"
-    },
-    {
-      "timestamp": "2026-01-31 11:45:18",
-      "message": "Saved 49 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-01-31 11:45:21",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-01-31 12:45:59",
+      "message": "[PROCESSING] Analyzing: The latest Instax printer is a pricey but worthy upgrade..."
     }
   ]
 }
