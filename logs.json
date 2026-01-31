@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-31 18:20:30",
+  "last_updated": "2026-01-31 18:20:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-31 18:19:51",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \uc778\uc218 \uae30\uc220\uc744 \uc0ac\uc6a9\ud558\ub294 \ub9c8\uc774\uc560\ubbf8\uc758 Indigo, Rubicon Founders \uc8fc\ub3c4\ub85c 5000\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \uc870\ub2ec\n  > Summary: \ub9c8\uc774\uc560\ubbf8\uc5d0 \ubcf8\uc0ac\ub97c \ub454 Indigo\ub294 \uc758\uc0ac\ub4e4\uc5d0\uac8c \uc758\ub8cc \ucc45\uc784 \ubcf4\ud5d8\uc744 \uc81c\uacf5\ud558\uae30 \uc704\ud574 AI \uae30\ubc18\uc758..."
-    },
     {
       "timestamp": "2026-01-31 18:19:52",
       "message": "Reprocessing: Q&A with AMD CTO Mark Papermaster, who says AMD is the first customer for TSMC's 2nm process, on AMD's rise since he joined in 2011, AI in chip design, and more (Dr. Ian Cutress/More Than Moore)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-31 18:20:30",
       "message": "[PROCESSING] Analyzing: Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)..."
+    },
+    {
+      "timestamp": "2026-01-31 18:20:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)"
     }
   ]
 }
