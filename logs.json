@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-31 10:36:58",
+  "last_updated": "2026-01-31 10:37:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-31 10:36:17",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \uc9c1\ubb34\uc5d0 \ub300\ud55c \uc601\ud5a5\uc740 \uc608\uc0c1\uacfc \ub2e4\ub97c \uc218 \uc788\ub2e4\n  > Summary: AI\ub294 \ubc18\ubcf5\uc801\uc774\uace0 \ucd08\uae30 \uc218\uc900\uc758 \uc5c5\ubb34\ub97c \uc790\ub3d9\ud654\ud558\uc5ec \uc5d4\uc9c0\ub2c8\uc5b4\uac00 \ubcf4\ub2e4 \uc0c1\uae09 \uc9c1\ucc45\uc5d0\uc11c \uc2dc\uc791\ud560 \uc218 ..."
-    },
     {
       "timestamp": "2026-01-31 10:36:18",
       "message": "Reprocessing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-31 10:36:58",
       "message": "[PROCESSING] Analyzing: Touchscreen controllers target automotive displays..."
+    },
+    {
+      "timestamp": "2026-01-31 10:37:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Touchscreen controllers target automotive displays"
     }
   ]
 }
