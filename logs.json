@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-01-31 20:31:32",
+  "last_updated": "2026-01-31 20:31:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-01-31 20:30:58",
-      "message": "Reprocessing: EMEA Youth & Wellbeing Grant"
-    },
     {
       "timestamp": "2026-01-31 20:31:00",
       "message": "[PROCESSING] Analyzing: EMEA Youth & Wellbeing Grant..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-01-31 20:31:32",
       "message": "[PROCESSING] Analyzing: Canada Accelerates Quantum Aspirations..."
+    },
+    {
+      "timestamp": "2026-01-31 20:31:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Canada Accelerates Quantum Aspirations"
     }
   ]
 }
