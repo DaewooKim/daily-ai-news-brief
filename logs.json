@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-01 02:02:02",
+  "last_updated": "2026-02-01 02:02:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-01 02:01:17",
-      "message": "Reprocessing: AI\u2019s Impact On Engineering Jobs May Be Different Than Expected"
-    },
     {
       "timestamp": "2026-02-01 02:01:18",
       "message": "[PROCESSING] Analyzing: AI\u2019s Impact On Engineering Jobs May Be Different Than Expected..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-01 02:02:02",
       "message": "[PROCESSING] Analyzing: Touchscreen controllers target automotive displays..."
+    },
+    {
+      "timestamp": "2026-02-01 02:02:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Touchscreen controllers target automotive displays"
     }
   ]
 }
