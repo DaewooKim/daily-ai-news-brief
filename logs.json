@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-01 02:00:18",
+  "last_updated": "2026-02-01 02:00:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-01 01:59:41",
-      "message": "[PROCESSING] Analyzing: EMEA Youth & Wellbeing Grant..."
-    },
     {
       "timestamp": "2026-02-01 01:59:47",
       "message": "[SUCCESS] Processed: EMEA \uccad\uc18c\ub144 \ubc0f \uc6f0\ube59 \uae30\uae08\n  > Summary: EMEA \uccad\uc18c\ub144 \ubc0f \uc6f0\ube59 \uae30\uae08\uc5d0 \uc9c0\uc6d0\ud558\uc2ed\uc2dc\uc624. \uc774 \ud504\ub85c\uadf8\ub7a8\uc740 AI \uc2dc\ub300\uc5d0 \uccad\uc18c\ub144\uc758 \uc548\uc804\uacfc ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-01 02:00:18",
       "message": "[PROCESSING] Analyzing: Renesas MCUs Now Accessible Via MIKROE In Multi-Year Deal..."
+    },
+    {
+      "timestamp": "2026-02-01 02:00:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Renesas MCUs Now Accessible Via MIKROE In Multi-Year Deal"
     }
   ]
 }
