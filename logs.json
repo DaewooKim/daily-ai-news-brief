@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-01 20:36:25",
+  "last_updated": "2026-02-01 20:36:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-01 20:35:50",
-      "message": "Reprocessing: EMEA Youth & Wellbeing Grant"
-    },
     {
       "timestamp": "2026-02-01 20:35:52",
       "message": "[PROCESSING] Analyzing: EMEA Youth & Wellbeing Grant..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-01 20:36:25",
       "message": "[PROCESSING] Analyzing: Radar Sensors Navigate Verona\u2019s Five-Century-Old Streets..."
+    },
+    {
+      "timestamp": "2026-02-01 20:36:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Radar Sensors Navigate Verona\u2019s Five-Century-Old Streets"
     }
   ]
 }
