@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-01 22:05:53",
+  "last_updated": "2026-02-01 22:05:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-01 22:05:20",
-      "message": "[SUCCESS] Processed: Kubernetes \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c \uc2dc\uac04 \uae30\ubc18 \uacf5\uc815 \uacf5\uc720\ub85c GPU \ud560\ub2f9 \uade0\ud615 \uc720\uc9c0\n  > Summary: NVIDIA Run:ai v2.24\ub294 \uc2dc\uac04 \uae30\ubc18 \uacf5\uc815 \uacf5\uc720\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uc2a4\ucf00\uc904\ub9c1 \ubaa8\ub4dc\ub97c \ub3c4\uc785..."
-    },
     {
       "timestamp": "2026-02-01 22:05:21",
       "message": "Reprocessing: Towards a science of scaling agent systems: When and why agent systems work"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-01 22:05:53",
       "message": "[PROCESSING] Analyzing: How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations..."
+    },
+    {
+      "timestamp": "2026-02-01 22:05:55",
+      "message": "[SKIP] Irrelevant (AI Filter): How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations"
     }
   ]
 }
