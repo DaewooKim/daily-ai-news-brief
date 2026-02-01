@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-02-01 00:58:04",
-  "status": "idle",
+  "last_updated": "2026-02-01 01:58:42",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-02-01 00:56:53",
-      "message": "[SKIP] Content too short: Apple posts record quarterly r..."
+      "timestamp": "2026-02-01 01:58:26",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-02-01 00:56:54",
-      "message": "Reprocessing: PwC expands Google Cloud alliance with $400M push into AI-driven security operations"
+      "timestamp": "2026-02-01 01:58:28",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-02-01 00:56:55",
-      "message": "[SKIP] Content too short: PwC expands Google Cloud allia..."
+      "timestamp": "2026-02-01 01:58:28",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-02-01 00:56:56",
-      "message": "Reprocessing: Apple acquires AI startup Q.ai for reported $2B"
+      "timestamp": "2026-02-01 01:58:42",
+      "message": "Found 170 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-02-01 00:56:58",
-      "message": "[SKIP] Content too short: Apple acquires AI startup Q.ai..."
-    },
-    {
-      "timestamp": "2026-02-01 00:56:59",
-      "message": "Reprocessing: Ethos shares slide 11% after life insurance platform debuts on Nasdaq"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:00",
-      "message": "[SKIP] Content too short: Ethos shares slide 11% after l..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:02",
-      "message": "Reprocessing: Sandisk, Western Digital beat expectations as cloud and AI data center storage demand accelerates"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:03",
-      "message": "[SKIP] Content too short: Sandisk, Western Digital beat ..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:04",
-      "message": "Reprocessing: AI is coming to an enterprise near you and Zscaler aims to secure it"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:06",
-      "message": "[SKIP] Content too short: AI is coming to an enterprise ..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:07",
-      "message": "Reprocessing: Virtue AI debuts AgentSuite platform to help enterprises secure AI agents"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:08",
-      "message": "[SKIP] Content too short: Virtue AI debuts AgentSuite pl..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:10",
-      "message": "Reprocessing: RobCo nabs $100M to scale autonomous industrial robotics platform"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:11",
-      "message": "[SKIP] Content too short: RobCo nabs $100M to scale auto..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:12",
-      "message": "Reprocessing: GPU cluster marketplace PaleBlueDot AI raises $150M at $1B valuation"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:14",
-      "message": "[SKIP] Content too short: GPU cluster marketplace PaleBl..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:15",
-      "message": "Reprocessing: SAP tops estimates but cloud backlog miss rattles investors"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:16",
-      "message": "[SKIP] Content too short: SAP tops estimates but cloud b..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:18",
-      "message": "Reprocessing: Lorikeet launches Coach: an analytics agent to perk up AI customer support"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:19",
-      "message": "[SKIP] Content too short: Lorikeet launches Coach: an an..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:20",
-      "message": "Reprocessing: ServiceNow\u2019s stock slides on iffy subscription revenue forecast"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:22",
-      "message": "[SKIP] Content too short: ServiceNow\u2019s stock slides on i..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:23",
-      "message": "Reprocessing: UK government to allow publishers to opt out of Google data scraping for AI Overview"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:24",
-      "message": "[SKIP] Content too short: UK government to allow publish..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:26",
-      "message": "Reprocessing: Google DeepMind open-sources AlphaGenome medical research model"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:27",
-      "message": "[SKIP] Content too short: Google DeepMind open-sources A..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:28",
-      "message": "Reprocessing: Meta\u2019s stock surges on strong earnings, revenue and bullish guidance"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:29",
-      "message": "[SKIP] Content too short: Meta\u2019s stock surges on strong ..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:31",
-      "message": "Reprocessing: Tesla earnings top estimates as Musk pivots company from cars to robots"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:32",
-      "message": "[SKIP] Content too short: Tesla earnings top estimates a..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:33",
-      "message": "Reprocessing: Strong revenue performance sends IBM stock soaring after-hours"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:35",
-      "message": "[SKIP] Content too short: Strong revenue performance sen..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:36",
-      "message": "Reprocessing: Decagon AI raises $250M at $4.5B valuation to scale AI concierge platform"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:37",
-      "message": "[SKIP] Content too short: Decagon AI raises $250M at $4...."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:39",
-      "message": "Reprocessing: Microsoft\u2019s stock declines after Azure cloud growth dips below 40%"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:40",
-      "message": "[SKIP] Content too short: Microsoft\u2019s stock declines aft..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:42",
-      "message": "Reprocessing: Waabi raises $750M as Uber separately commits up to $250M for robotaxi partnership"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:43",
-      "message": "[SKIP] Content too short: Waabi raises $750M as Uber sep..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:44",
-      "message": "Reprocessing: OpenAI, Anthropic reportedly raising billions of dollars in new funding"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:45",
-      "message": "[SKIP] Content too short: OpenAI, Anthropic reportedly r..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:47",
-      "message": "[PROCESSING] Analyzing: GigaPlus GP-S25-2402 Review A Cheap 24-port 2.5GbE and 2-port 10G Switch..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:49",
-      "message": "[SKIP] Irrelevant (AI Filter): GigaPlus GP-S25-2402 Review A Cheap 24-port 2.5GbE and 2-port 10G Switch"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:50",
-      "message": "[PROCESSING] Analyzing: Using the Dell Pro Max with GB10 to Profit within 12 Months..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:52",
-      "message": "[SKIP] Irrelevant (AI Filter): Using the Dell Pro Max with GB10 to Profit within 12 Months"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:53",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco..."
-    },
-    {
-      "timestamp": "2026-02-01 00:57:55",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco"
-    },
-    {
-      "timestamp": "2026-02-01 00:57:56",
-      "message": "Completed! New: 0, Updated: 46"
-    },
-    {
-      "timestamp": "2026-02-01 00:58:00",
-      "message": "Saved 46 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-02-01 00:58:03",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-02-01 01:58:42",
+      "message": "[PROCESSING] Analyzing: \u201cNo more Minnesota nice, Minneapolis will strike\u201d..."
     }
   ]
 }
