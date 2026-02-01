@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-01 15:08:23",
+  "last_updated": "2026-02-01 15:08:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-01 15:07:50",
-      "message": "Reprocessing: EMEA Youth & Wellbeing Grant"
-    },
     {
       "timestamp": "2026-02-01 15:07:51",
       "message": "[PROCESSING] Analyzing: EMEA Youth & Wellbeing Grant..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-01 15:08:23",
       "message": "[PROCESSING] Analyzing: The Data Center Surge Has a Hidden Source of Carbon Emissions..."
+    },
+    {
+      "timestamp": "2026-02-01 15:08:25",
+      "message": "[SKIP] Irrelevant (AI Filter): The Data Center Surge Has a Hidden Source of Carbon Emissions"
     }
   ]
 }
