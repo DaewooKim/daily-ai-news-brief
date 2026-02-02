@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 17:55:57",
+  "last_updated": "2026-02-02 17:55:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 17:55:11",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, \uc624\ud508AI\uc5d0 500\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \ub17c\uc758 \uc911\uc774\ub77c\ub294 \ubcf4\ub3c4\n  > Summary: \uc544\ub9c8\uc874\uc774 \uc624\ud508AI\uc5d0 500\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud560 \uac00\ub2a5\uc131\uc5d0 \ub300\ud55c \ub17c\uc758\uac00 \uc9c4\ud589 \uc911\uc774\ub77c\ub294 \ubcf4\ub3c4\uac00 \ub098\uc654..."
-    },
     {
       "timestamp": "2026-02-02 17:55:13",
       "message": "[PROCESSING] Analyzing: Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 17:55:57",
       "message": "[PROCESSING] Analyzing: Canada Accelerates Quantum Aspirations..."
+    },
+    {
+      "timestamp": "2026-02-02 17:55:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Canada Accelerates Quantum Aspirations"
     }
   ]
 }
