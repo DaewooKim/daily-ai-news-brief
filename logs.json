@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 19:08:23",
+  "last_updated": "2026-02-02 19:08:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 19:07:32",
-      "message": "[SUCCESS] Processed: \uc54c\ud30c\uc640 \uc624\uba54\uac00 \ubc18\ub3c4\uccb4, \uac15\ub825\ud55c \u03b1MOS E2 600V \uc288\ud37c \uc815\uc158 MOSFET \ud50c\ub7ab\ud3fc \uacf5\uac1c\n  > Summary: \uc54c\ud30c\uc640 \uc624\uba54\uac00 \ubc18\ub3c4\uccb4\uac00 600V \uc288\ud37c \uc815\uc158 MOSFET \ud50c\ub7ab\ud3fc\uc778 \u03b1MOS E2\ub97c \uacf5\uac1c\ud588\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-02-02 19:07:33",
       "message": "Reprocessing: EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 19:08:23",
       "message": "[PROCESSING] Analyzing: \ud3ec\uc2a4\ud305\uc744 \uba48\ucd94\uace0 \ub290\ub080 \uac83\ub4e4..."
+    },
+    {
+      "timestamp": "2026-02-02 19:08:25",
+      "message": "[SKIP] Irrelevant (AI Filter): \ud3ec\uc2a4\ud305\uc744 \uba48\ucd94\uace0 \ub290\ub080 \uac83\ub4e4"
     }
   ]
 }
