@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 11:15:41",
+  "last_updated": "2026-02-02 11:15:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 11:14:48",
-      "message": "Reprocessing: Benchmark For AI-Aided Chip Design That Evaluates LLMs Across 3 Critical Tasks (UCSD, Columbia)"
-    },
     {
       "timestamp": "2026-02-02 11:14:49",
       "message": "[PROCESSING] Analyzing: Benchmark For AI-Aided Chip Design That Evaluates LLMs Across 3 Critical Tasks (UCSD, Columbia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 11:15:41",
       "message": "[PROCESSING] Analyzing: Touchscreen controllers target automotive displays..."
+    },
+    {
+      "timestamp": "2026-02-02 11:15:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Touchscreen controllers target automotive displays"
     }
   ]
 }
