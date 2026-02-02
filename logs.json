@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 02:29:59",
+  "last_updated": "2026-02-02 02:30:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 02:29:28",
-      "message": "[PROCESSING] Analyzing: Enterprises are measuring the wrong part of RAG..."
-    },
     {
       "timestamp": "2026-02-02 02:29:33",
       "message": "[SUCCESS] Processed: \uae30\uc5c5\uc774 RAG\uc758 \uc798\ubabb\ub41c \ubd80\ubd84\uc744 \uce21\uc815\ud558\uace0 \uc788\ub2e4\n  > Summary: \uae30\uc5c5\ub4e4\uc740 LLM\uc744 \uace0\uc720\ud55c \ub370\uc774\ud130\uc5d0 \uae30\ubc18\ud558\uac8c \ud558\ub824\ub294 RAG\ub97c \ube60\ub974\uac8c \ucc44\ud0dd\ud558\uace0 \uc788\uc9c0\ub9cc, \ub9ce\uc740 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 02:29:59",
       "message": "[SKIP] Content too short: Chinese chipmakers Montage, Ax..."
+    },
+    {
+      "timestamp": "2026-02-02 02:30:00",
+      "message": "Reprocessing: Mito AI raises $4.5M to empower video professionals with AI tools"
     }
   ]
 }
