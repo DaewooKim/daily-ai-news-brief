@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 02:29:58",
+  "last_updated": "2026-02-02 02:29:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 02:29:26",
-      "message": "[SUCCESS] Processed: SK \ucf00\uc774\ud30c\uc6b4\ub4dc\ub9ac, 4\uc138\ub300 200V \uace0\uc804\uc555 0.18 \ub9c8\uc774\ud06c\ub860 BCD \uacf5\uc815 \ucd9c\uc2dc\n  > Summary: SK \ucf00\uc774\ud30c\uc6b4\ub4dc\ub9ac\uac00 4\uc138\ub300 200V \uace0\uc804\uc555 0.18 \ub9c8\uc774\ud06c\ub860 BCD \uacf5\uc815\uc744 \ucd9c\uc2dc\ud558\uc5ec \uc81c\ud488 ..."
-    },
     {
       "timestamp": "2026-02-02 02:29:28",
       "message": "[PROCESSING] Analyzing: Enterprises are measuring the wrong part of RAG..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 02:29:58",
       "message": "Reprocessing: Chinese chipmakers Montage, Axera file for Hong Kong IPOs"
+    },
+    {
+      "timestamp": "2026-02-02 02:29:59",
+      "message": "[SKIP] Content too short: Chinese chipmakers Montage, Ax..."
     }
   ]
 }
