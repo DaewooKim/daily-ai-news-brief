@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 01:22:26",
+  "last_updated": "2026-02-02 01:22:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 01:21:46",
-      "message": "[SUCCESS] Processed: OpenAI \ud2b8\ub9ac\ud1a4\uc744 \uc704\ud55c CUDA \ud0c0\uc77c IR \ubc31\uc5d4\ub4dc\ub85c GPU \ud504\ub85c\uadf8\ub798\ubc0d \ubc1c\uc804\n  > Summary: NVIDIA CUDA \ud0c0\uc77c\uc740 NVIDIA \ud150\uc11c \ucf54\uc5b4\ub97c \uc704\ud574 \ud3ec\ud130\ube14\uc131\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 GPU ..."
-    },
     {
       "timestamp": "2026-02-02 01:21:48",
       "message": "Reprocessing: Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 01:22:26",
       "message": "[PROCESSING] Analyzing: How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations..."
+    },
+    {
+      "timestamp": "2026-02-02 01:22:28",
+      "message": "[SKIP] Irrelevant (AI Filter): How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations"
     }
   ]
 }
