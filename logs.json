@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 19:06:25",
+  "last_updated": "2026-02-02 19:06:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 19:05:29",
-      "message": "[SUCCESS] Processed: \ubaa8\uc9c8\ub77c, Firefox 148\ubd80\ud130 \ubaa8\ub4e0 AI \uae30\ub2a5 \ube44\ud65c\uc131\ud654 \uac00\ub2a5\n  > Summary: \ubaa8\uc9c8\ub77c\uac00 \uc0ac\uc6a9\uc790 \ud53c\ub4dc\ubc31\uc5d0 \ub530\ub77c Firefox 148 \ubc84\uc804\ubd80\ud130 \ub370\uc2a4\ud06c\ud0d1 \ube0c\ub77c\uc6b0\uc800\uc5d0\uc11c \ubaa8\ub4e0 A..."
-    },
     {
       "timestamp": "2026-02-02 19:05:30",
       "message": "[PROCESSING] Analyzing: Meta gives $65M to two super PACs to elect California state candidates, regardless of party, whom it views as supportive of the AI and tech industry (Christine Mui/Politico)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 19:06:25",
       "message": "[PROCESSING] Analyzing: Notepad++ and security researchers say Chinese state-sponsored threat actors were likely behind the hijacking of its update traffic from June to December 2025 (Bill Toulas/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-02-02 19:06:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Notepad++ and security researchers say Chinese state-sponsored threat actors were likely behind the hijacking of its update traffic from June to December 2025 (Bill Toulas/BleepingComputer)"
     }
   ]
 }
