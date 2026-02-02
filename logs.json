@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 15:41:36",
+  "last_updated": "2026-02-02 15:41:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 15:40:47",
-      "message": "Reprocessing: xAI rolls out Grok Imagine 1.0, which it says can generate 720p 10-second videos with better audio, and says Imagine generated 1.245B videos in the past 30 days (@xai)"
-    },
     {
       "timestamp": "2026-02-02 15:40:49",
       "message": "[PROCESSING] Analyzing: xAI rolls out Grok Imagine 1.0, which it says can generate 720p 10-second videos with better audio, and says Imagine generated 1.245B videos in the past 30 days (@xai)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 15:41:36",
       "message": "[PROCESSING] Analyzing: Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)..."
+    },
+    {
+      "timestamp": "2026-02-02 15:41:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)"
     }
   ]
 }
