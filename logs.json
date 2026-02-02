@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-02-02 18:02:16",
-  "status": "idle",
+  "last_updated": "2026-02-02 19:02:53",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-02-02 18:00:53",
-      "message": "[SUCCESS] Processed: Kioxia, QLC UFS 4.1 \uc784\ubca0\ub514\ub4dc \ud50c\ub798\uc2dc \uba54\ubaa8\ub9ac \uc0d8\ud50c\ub9c1 \ubc1c\ud45c\n  > Summary: Kioxia America Inc.\ub294 4\ube44\ud2b8 \uc140\uc744 \uc0ac\uc6a9\ud558\ub294 QLC \uae30\uc220 \uae30\ubc18\uc758 \uc0c8\ub85c\uc6b4 UF..."
+      "timestamp": "2026-02-02 19:02:36",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-02-02 18:00:54",
-      "message": "[PROCESSING] Analyzing: \ud3ec\uc2a4\ud305\uc744 \uba48\ucd94\uace0 \ub290\ub080 \uac83\ub4e4..."
+      "timestamp": "2026-02-02 19:02:37",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-02-02 18:00:56",
-      "message": "[SKIP] Irrelevant (AI Filter): \ud3ec\uc2a4\ud305\uc744 \uba48\ucd94\uace0 \ub290\ub080 \uac83\ub4e4"
+      "timestamp": "2026-02-02 19:02:37",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-02-02 18:00:58",
-      "message": "[PROCESSING] Analyzing: \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694..."
+      "timestamp": "2026-02-02 19:02:53",
+      "message": "Found 139 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-02-02 18:01:00",
-      "message": "[SKIP] Irrelevant (AI Filter): \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694"
-    },
-    {
-      "timestamp": "2026-02-02 18:01:01",
-      "message": "[SKIP] Content too short: LimX raises $200M to build emb..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:02",
-      "message": "[SKIP] Content too short: On theCUBE Pod: Stock market w..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:04",
-      "message": "[SKIP] Content too short: Snowflake bypasses Microsoft t..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:05",
-      "message": "[SKIP] Content too short: Oracle unveils $50B fundraisin..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:07",
-      "message": "[SKIP] Content too short: Alphabet\u2019s robotaxi startup Wa..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:09",
-      "message": "[SKIP] Content too short: Microsoft investors fret as ca..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:10",
-      "message": "[SKIP] Content too short: Expanding cyberattack surface ..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:11",
-      "message": "[SKIP] Content too short: Anthropic debuts Claude Cowork..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:13",
-      "message": "[SKIP] Content too short: Poetiq nabs $45.8M in seed fun..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:14",
-      "message": "[SKIP] Content too short: Chinese chipmakers Montage, Ax..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:15",
-      "message": "[SKIP] Content too short: Mito AI raises $4.5M to empowe..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:17",
-      "message": "[SKIP] Content too short: Musk mulls a megacorp as AI de..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:18",
-      "message": "[SKIP] Content too short: Elon Musk reportedly consideri..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:19",
-      "message": "[SKIP] Content too short: Google introduces Project Geni..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:21",
-      "message": "[SKIP] Content too short: Cisco Foundation AI debuts age..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:22",
-      "message": "[SKIP] Content too short: Apple posts record quarterly r..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:24",
-      "message": "[SKIP] Content too short: PwC expands Google Cloud allia..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:25",
-      "message": "[SKIP] Content too short: Apple acquires AI startup Q.ai..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:26",
-      "message": "[SKIP] Content too short: Ethos shares slide 11% after l..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:28",
-      "message": "[SKIP] Content too short: Sandisk, Western Digital beat ..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:29",
-      "message": "[SKIP] Content too short: AI is coming to an enterprise ..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:31",
-      "message": "[SKIP] Content too short: Virtue AI debuts AgentSuite pl..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:32",
-      "message": "[SKIP] Content too short: RobCo nabs $100M to scale auto..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:34",
-      "message": "[SKIP] Content too short: GPU cluster marketplace PaleBl..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:35",
-      "message": "[SKIP] Content too short: SAP tops estimates but cloud b..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:36",
-      "message": "[SKIP] Content too short: Lorikeet launches Coach: an an..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:38",
-      "message": "[SKIP] Content too short: ServiceNow\u2019s stock slides on i..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:39",
-      "message": "[SKIP] Content too short: UK government to allow publish..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:41",
-      "message": "[SKIP] Content too short: Google DeepMind open-sources A..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:42",
-      "message": "[SKIP] Content too short: Meta\u2019s stock surges on strong ..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:43",
-      "message": "[PROCESSING] Analyzing: BrosTrend 5GbE PCIe Adapter Realtek RTL8126 NIC Review..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:45",
-      "message": "[SKIP] Irrelevant (AI Filter): BrosTrend 5GbE PCIe Adapter Realtek RTL8126 NIC Review"
-    },
-    {
-      "timestamp": "2026-02-02 18:01:47",
-      "message": "[PROCESSING] Analyzing: GigaPlus GP-S25-2402 Review A Cheap 24-port 2.5GbE and 2-port 10G Switch..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:49",
-      "message": "[SKIP] Irrelevant (AI Filter): GigaPlus GP-S25-2402 Review A Cheap 24-port 2.5GbE and 2-port 10G Switch"
-    },
-    {
-      "timestamp": "2026-02-02 18:01:50",
-      "message": "[PROCESSING] Analyzing: Lenovo ThinkStation PX Workstation Review Intel Xeon for Large Scale Workloads..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:54",
-      "message": "[SUCCESS] Processed: \ub808\ub178\ubc84 \uc53d\ud06c\uc2a4\ud14c\uc774\uc158 PX \uc6cc\ud06c\uc2a4\ud14c\uc774\uc158 \ub9ac\ubdf0 \uc778\ud154 \uc81c\uc628 \ub300\uaddc\ubaa8 \uc791\uc5c5 \ubd80\ud558 \ucc98\ub9ac\uc6a9\n  > Summary: \ub808\ub178\ubc84 \uc53d\ud06c\uc2a4\ud14c\uc774\uc158 PX \uc6cc\ud06c\uc2a4\ud14c\uc774\uc158\uc758 \ub9ac\ubdf0\uc5d0\uc11c\ub294 \uc778\ud154 \uc81c\uc628\uc774 \ud0d1\uc7ac\ub41c \uc774 \uc6cc\ud06c\uc2a4\ud14c\uc774\uc158\uc774 \uc5b4..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:55",
-      "message": "[PROCESSING] Analyzing: Using the Dell Pro Max with GB10 to Profit within 12 Months..."
-    },
-    {
-      "timestamp": "2026-02-02 18:01:57",
-      "message": "[SKIP] Irrelevant (AI Filter): Using the Dell Pro Max with GB10 to Profit within 12 Months"
-    },
-    {
-      "timestamp": "2026-02-02 18:01:59",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco..."
-    },
-    {
-      "timestamp": "2026-02-02 18:02:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-8FP-2G Review a 10-Port PoE Managed Switch from Cisco"
-    },
-    {
-      "timestamp": "2026-02-02 18:02:02",
-      "message": "[PROCESSING] Analyzing: How to maximize GitHub Copilot\u2019s agentic capabilities..."
-    },
-    {
-      "timestamp": "2026-02-02 18:02:07",
-      "message": "[SUCCESS] Processed: GitHub Copilot\uc758 \uc5d0\uc774\uc804\ud2b8 \uae30\ub2a5\uc744 \uadf9\ub300\ud654\ud558\ub294 \ubc29\ubc95\n  > Summary: \uc774 \uac00\uc774\ub4dc\ub294 GitHub Copilot\uc758 \uc5d0\uc774\uc804\ud2b8 \ubaa8\ub4dc\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc2dc\uc2a4\ud15c \uc124\uacc4, \ub9ac\ud329\ud1a0\ub9c1 ..."
-    },
-    {
-      "timestamp": "2026-02-02 18:02:09",
-      "message": "Completed! New: 107, Updated: 0"
-    },
-    {
-      "timestamp": "2026-02-02 18:02:12",
-      "message": "Saved 107 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-02-02 18:02:15",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-02-02 19:02:53",
+      "message": "[PROCESSING] Analyzing: Raspberry Pi is raising prices again as memory shortages continue..."
     }
   ]
 }
