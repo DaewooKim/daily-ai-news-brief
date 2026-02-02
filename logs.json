@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 20:13:52",
+  "last_updated": "2026-02-02 20:13:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 20:13:13",
-      "message": "[PROCESSING] Analyzing: Oracle is selling $25B of bonds to help finance its AI buildout, in what is set to be the biggest high-grade US offering since Meta's $30B bond sale last year (Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-02 20:13:17",
       "message": "[SUCCESS] Processed: \uc624\ub77c\ud074, \uc778\uacf5\uc9c0\ub2a5 \uad6c\ucd95 \uc790\uae08\uc744 \ub9c8\ub828\ud558\uae30 \uc704\ud574 250\uc5b5 \ub2ec\ub7ec\uc758 \ucc44\uad8c \ubc1c\ud589\n  > Summary: \uc624\ub77c\ud074\uc774 \uc778\uacf5\uc9c0\ub2a5 \ud504\ub85c\uc81d\ud2b8\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 250\uc5b5 \ub2ec\ub7ec\uc758 \ud22c\uc790\ub4f1\uae09 \ucc44\uad8c\uc744 \ubc1c\ud589\ud569\ub2c8\ub2e4. \uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 20:13:52",
       "message": "[SKIP] Irrelevant (AI Filter): The Verification Conundrum"
+    },
+    {
+      "timestamp": "2026-02-02 20:13:54",
+      "message": "Reprocessing: Solving Real-World AI Bottlenecks"
     }
   ]
 }
