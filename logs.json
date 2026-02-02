@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 17:57:59",
+  "last_updated": "2026-02-02 17:58:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 17:57:08",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 CRM \uc11c\ube44\uc2a4 \uac1c\ubc1c\ud558\ub294 Day AI, Sequoia \uc8fc\ub3c4\ub85c 2\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \ud22c\uc790 \uc720\uce58\n  > Summary: AI \uae30\ubc18 CRM \uc11c\ube44\uc2a4\uc778 Day AI\uac00 \ub370\uc774\ud130 \uc785\ub825, \ud68c\uc758 \uc900\ube44, \ub178\ud2b8 \uc791\uc131 \ub4f1\uc744 \uc790\ub3d9\ud654..."
-    },
     {
       "timestamp": "2026-02-02 17:57:09",
       "message": "[PROCESSING] Analyzing: Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding (Raphael Satter/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 17:57:59",
       "message": "[PROCESSING] Analyzing: How food delivery is reshaping US mealtimes, as some users spend thousands; NRA data shows nearly 75% of 2024 restaurant orders were not eaten in a restaurant (Priya Krishna/New York Times)..."
+    },
+    {
+      "timestamp": "2026-02-02 17:58:01",
+      "message": "[SKIP] Irrelevant (AI Filter): How food delivery is reshaping US mealtimes, as some users spend thousands; NRA data shows nearly 75% of 2024 restaurant orders were not eaten in a restaurant (Priya Krishna/New York Times)"
     }
   ]
 }
