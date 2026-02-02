@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 21:21:58",
+  "last_updated": "2026-02-02 21:22:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 21:21:32",
-      "message": "[PROCESSING] Analyzing: \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694..."
-    },
     {
       "timestamp": "2026-02-02 21:21:34",
       "message": "[SKIP] Irrelevant (AI Filter): \u201cASAP\u201d \uac19\uc740 \ubaa8\ud638\ud558\uace0 \uc555\ubc15\uac10\uc744 \uc8fc\ub294 \ub2e8\uc5b4\ub97c \ud53c\ud558\uc138\uc694"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 21:21:58",
       "message": "Reprocessing: Anthropic debuts Claude Cowork plugins to help users automate more tasks"
+    },
+    {
+      "timestamp": "2026-02-02 21:22:00",
+      "message": "[SKIP] Content too short: Anthropic debuts Claude Cowork..."
     }
   ]
 }
