@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 17:53:50",
+  "last_updated": "2026-02-02 17:53:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 17:53:00",
-      "message": "[SUCCESS] Processed: \ube45 \ube14\ub8e8, \uc628\ud504\ub808\ubbf8\uc2a4 GenAI\ub97c \ub300\ub7c9\uc73c\ub85c \ud310\ub9e4\ud560 \uc900\ube44 \uc644\ub8cc\n  > Summary: \uc774 \uae30\uc0ac\ub294 GenAI \ubaa8\ub378 \uac1c\ubc1c\uc758 \ucd5c\uc2e0 \ub3d9\ud5a5\uc744 \ub2e4\ub8e8\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc288\ud37c 8 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\uc640 ..."
-    },
     {
       "timestamp": "2026-02-02 17:53:02",
       "message": "[PROCESSING] Analyzing: Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 17:53:50",
       "message": "[PROCESSING] Analyzing: Coalition demands federal Grok ban over nonconsensual sexual content..."
+    },
+    {
+      "timestamp": "2026-02-02 17:53:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Coalition demands federal Grok ban over nonconsensual sexual content"
     }
   ]
 }
