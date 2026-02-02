@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-02 04:38:25",
+  "last_updated": "2026-02-02 04:38:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-02 04:37:49",
-      "message": "[SUCCESS] Processed: OpenAI Triton\uc744 \uc704\ud55c CUDA Tile IR \ubc31\uc5d4\ub4dc\ub85c GPU \ud504\ub85c\uadf8\ub798\ubc0d \ubc1c\uc804\n  > Summary: NVIDIA CUDA Tile\uc740 NVIDIA \ud150\uc11c \ucf54\uc5b4\ub97c \uc704\ud55c \ud3ec\ud130\ube14 GPU \ud504\ub85c\uadf8\ub798\ubc0d \ubaa8..."
-    },
     {
       "timestamp": "2026-02-02 04:37:51",
       "message": "Reprocessing: Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-02 04:38:25",
       "message": "[PROCESSING] Analyzing: How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations..."
+    },
+    {
+      "timestamp": "2026-02-02 04:38:27",
+      "message": "[SKIP] Irrelevant (AI Filter): How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations"
     }
   ]
 }
