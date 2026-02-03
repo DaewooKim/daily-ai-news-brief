@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 17:11:31",
+  "last_updated": "2026-02-03 17:11:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 17:10:47",
-      "message": "[SUCCESS] Processed: \uc624\ubc84\ub79c\ub4dc AI, \uad70\uc0ac \ubaa9\uc801\uc758 \uc624\ud504\ub85c\ub4dc \ub85c\ubd07 \ubc0f \uc790\uc728 \ucc28\ub7c9 \uac1c\ubc1c\uc744 \uc704\ud574 1\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: \uc2dc\uc560\ud2c0\uc5d0 \ubcf8\uc0ac\ub97c \ub454 \ubc29\uc704 \uae30\uc5c5 \uc624\ubc84\ub79c\ub4dc AI\uac00 \uad70\uc0ac \ubaa9\uc801\uc744 \uc704\ud55c \uc624\ud504\ub85c\ub4dc \ub85c\ubd07 \ubc0f \uc790\uc728 \ucc28..."
-    },
     {
       "timestamp": "2026-02-03 17:10:49",
       "message": "[PROCESSING] Analyzing: Grindr is testing a subscription tier called Edge with AI-powered personalized matches and more, with prices ranging from $80 to $200 a week (Henry Chandonnet/Business Insider)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 17:11:31",
       "message": "[PROCESSING] Analyzing: PayPal names HP CEO Enrique Lores as CEO, replacing interim CEO Alex Chriss on March 1, and reports Q4 revenue up 4% YoY to $8.68B, below est.; PYPL drops 15%+ (Paige Smith/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-02-03 17:11:33",
+      "message": "[SKIP] Irrelevant (AI Filter): PayPal names HP CEO Enrique Lores as CEO, replacing interim CEO Alex Chriss on March 1, and reports Q4 revenue up 4% YoY to $8.68B, below est.; PYPL drops 15%+ (Paige Smith/Bloomberg)"
     }
   ]
 }
