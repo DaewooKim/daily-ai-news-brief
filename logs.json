@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 22:44:10",
+  "last_updated": "2026-02-03 22:44:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 22:43:25",
-      "message": "[PROCESSING] Analyzing: AMD reports Q4 revenue up 34% YoY to $10.3B, Data Center revenue up 39% to $5.4B, forecasts Q1 revenue below the highest projections; AMD drops 5%+ after hours (Ian King/Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-03 22:43:29",
       "message": "[SUCCESS] Processed: AMD, 4\ubd84\uae30 \ub9e4\ucd9c 34% \uc99d\uac00\ud558\uc5ec 103\uc5b5 \ub2ec\ub7ec, \ub370\uc774\ud130 \uc13c\ud130 \ub9e4\ucd9c 39% \uc99d\uac00\ud558\uc5ec 54\uc5b5 \ub2ec\ub7ec, 1\ubd84\uae30 \ub9e4\ucd9c \uc804\ub9dd\uc740 \ucd5c\uace0 \uc608\uc0c1 \ud558\ud68c; AMD, \uc2dc\uac04 \uc678 \uac70\ub798\uc5d0\uc11c 5% \uc774\uc0c1 \ud558\ub77d\n  > Summary: AMD\ub294 4\ubd84\uae30 \ub9e4\ucd9c\uc774 \uc804\ub144 \ub300\ube44 34% \uc99d\uac00\ud55c 103\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \ub370..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 22:44:10",
       "message": "[PROCESSING] Analyzing: AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter..."
+    },
+    {
+      "timestamp": "2026-02-03 22:44:12",
+      "message": "[SKIP] Irrelevant (AI Filter): AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter"
     }
   ]
 }
