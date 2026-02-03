@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 16:06:53",
+  "last_updated": "2026-02-03 16:06:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 16:06:05",
-      "message": "[SKIP] Content too short: Snowflake bypasses Microsoft t..."
-    },
     {
       "timestamp": "2026-02-03 16:06:08",
       "message": "Reprocessing: Oracle unveils $50B fundraising plan to fuel AI data center ambitions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 16:06:53",
       "message": "[PROCESSING] Analyzing: BrosTrend 5GbE PCIe Adapter Realtek RTL8126 NIC Review..."
+    },
+    {
+      "timestamp": "2026-02-03 16:06:57",
+      "message": "[SKIP] Irrelevant (AI Filter): BrosTrend 5GbE PCIe Adapter Realtek RTL8126 NIC Review"
     }
   ]
 }
