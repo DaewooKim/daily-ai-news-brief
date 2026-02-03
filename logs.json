@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 19:25:12",
+  "last_updated": "2026-02-03 19:25:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 19:24:17",
-      "message": "[PROCESSING] Analyzing: At the Cisco AI Summit, Intel CEO Lip-Bu Tan says the company plans to build GPUs and has already hired a chief GPU architect (Jeffrey Dastin/Reuters)..."
-    },
     {
       "timestamp": "2026-02-03 19:24:22",
       "message": "[SUCCESS] Processed: \uc2dc\uc2a4\ucf54 AI \uc11c\ubc0b\uc5d0\uc11c \uc778\ud154 CEO \ub9bd-\ubd80 \ud0c4, \ud68c\uc0ac\uac00 GPU\ub97c \uc81c\uc791\ud560 \uacc4\ud68d\uc774\uba70 \uc218\uc11d GPU \uc544\ud0a4\ud14d\ud2b8\ub97c \uc774\ubbf8 \uc601\uc785\ud588\ub2e4\uace0 \ubc1c\ud45c\ud558\ub2e4\n  > Summary: \uc2dc\uc2a4\ucf54 AI \uc11c\ubc0b\uc5d0\uc11c \uc778\ud154 CEO \ub9bd-\ubd80 \ud0c4\uc740 \ud68c\uc0ac\uac00 \uadf8\ub798\ud53d \ucc98\ub9ac \uc7a5\uce58(GPU)\ub97c \uc81c\uc791\ud560 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 19:25:12",
       "message": "[PROCESSING] Analyzing: Crypto.com launches prediction market platform OG ahead of the Super Bowl, following 40-fold WoW growth in its event contracts business over the past six months (Lydia Beyoud/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-02-03 19:25:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto.com launches prediction market platform OG ahead of the Super Bowl, following 40-fold WoW growth in its event contracts business over the past six months (Lydia Beyoud/Bloomberg)"
     }
   ]
 }
