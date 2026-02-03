@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 09:24:54",
+  "last_updated": "2026-02-03 09:24:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 09:24:06",
-      "message": "[SUCCESS] Processed: \uac00\uc815\uc774 \ub9de\ub2e4\uba74, SpaceX-xAI\ub294 \ubc1c\uc0ac\ubd80\ud130 \uada4\ub3c4 \ub300\uc5ed\ud3ed, \ucd5c\ucca8\ub2e8 AI \ubaa8\ub378\uc5d0 \uc774\ub974\uae30\uae4c\uc9c0 \uc644\uc804\ud55c \uae30\ub2a5\uc744 \ubcf4\uc720\ud560 \uc218 \uc788\uc73c\uba70, \uc5b4\ub514\uc5d0\uc11c\ub098 AI\ub97c \uc8fc\ubb38\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: SpaceX\uac00 \uc5d8\ub860 \uba38\uc2a4\ud06c\uc758 \ub610 \ub2e4\ub978 \ud68c\uc0ac\ub97c \uacf5\uc2dd\uc801\uc73c\ub85c \uc778\uc218\ud558\uc5ec xAI\ub97c \uc18c\uc720\ud558\uac8c \ub418\uc5c8\ub2e4\uace0..."
-    },
     {
       "timestamp": "2026-02-03 09:24:08",
       "message": "[PROCESSING] Analyzing: Staff memo: xAI says both xAI and SpaceX will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 (Grace Kay/Business Insider)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 09:24:54",
       "message": "[PROCESSING] Analyzing: EUV Tech Celebrates Grand Opening of First Global Office in Singapore..."
+    },
+    {
+      "timestamp": "2026-02-03 09:24:56",
+      "message": "[SKIP] Irrelevant (AI Filter): EUV Tech Celebrates Grand Opening of First Global Office in Singapore"
     }
   ]
 }
