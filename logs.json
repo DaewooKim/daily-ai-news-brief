@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 17:12:05",
+  "last_updated": "2026-02-03 17:12:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 17:11:20",
-      "message": "[PROCESSING] Analyzing: Sources: HP CEO Enrique Lores leaving to become PayPal CEO blindsided HP, whose board rushed to launch a CEO search process; Lores had worked for HP since 1989 (Rohan Goswami/Semafor)..."
-    },
     {
       "timestamp": "2026-02-03 17:11:22",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: HP CEO Enrique Lores leaving to become PayPal CEO blindsided HP, whose board rushed to launch a CEO search process; Lores had worked for HP since 1989 (Rohan Goswami/Semafor)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 17:12:05",
       "message": "[SUCCESS] Processed: \ub2e4\ud2b8\ube0c\ub9ad\uc2a4\uc758 \uc11c\ubc84\ub9ac\uc2a4 \ub370\uc774\ud130\ubca0\uc774\uc2a4, \uae30\uc5c5\ub4e4\uc774 \uc5d0\uc774\uc804\ud2f1 AI\ub97c \uc704\ud574 \uc900\ube44\ud558\uba74\uc11c \uc571 \uac1c\ubc1c \uc2dc\uac04\uc744 \uba87 \ub2ec\uc5d0\uc11c \uba70\uce60\ub85c \ub2e8\ucd95\n  > Summary: \ub2e4\ud2b8\ube0c\ub9ad\uc2a4\uac00 \uc0c8\ub85c\uc6b4 \uc11c\ubc84\ub9ac\uc2a4 \uc6b4\uc601 \ub370\uc774\ud130\ubca0\uc774\uc2a4 \uc11c\ube44\uc2a4\uc778 Lakebase\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774..."
+    },
+    {
+      "timestamp": "2026-02-03 17:12:08",
+      "message": "Reprocessing: Vercel rebuilt v0 to tackle the 90% problem: Connecting AI-generated code to existing production infrastructure, not prototypes"
     }
   ]
 }
