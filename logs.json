@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 07:11:01",
+  "last_updated": "2026-02-03 07:11:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 07:10:11",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-02-03 07:10:11",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 07:11:01",
       "message": "[SUCCESS] Processed: \uc5d0\uc774\uc804\ud2f1 \uc6cc\ud06c\ud50c\ub85c\uc6b0 \uc0cc\ub4dc\ubc15\uc2a4\ud654 \ubc0f \uc2e4\ud589 \uc704\ud5d8 \uad00\ub9ac\uc5d0 \ub300\ud55c \uc2e4\uc6a9\uc801\uc778 \ubcf4\uc548 \uc9c0\uce68\n  > Summary: AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\ub294 \uac1c\ubc1c\uc790\ub4e4\uc774 \uc791\uc5c5\uc744 \ub354 \ube60\ub974\uac8c \uc218\ud589\ud558\ub3c4\ub85d \ub3c4\uc640\uc8fc\uc9c0\ub9cc, \uc0ac\uc6a9\uc790\uc758 \uad8c\ud55c\uacfc ..."
+    },
+    {
+      "timestamp": "2026-02-03 07:11:02",
+      "message": "Reprocessing: Inside OpenAI\u2019s in-house data agent"
     }
   ]
 }
