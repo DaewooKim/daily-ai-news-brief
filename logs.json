@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 18:18:37",
+  "last_updated": "2026-02-03 18:18:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 18:17:55",
-      "message": "[SUCCESS] Processed: AI\ub97c \ud65c\uc6a9\ud574 50\uac1c \uc5b8\uc5b4\ub85c \ubb34\ub8cc 24/7 1\ucc28 \uc9c4\ub8cc\ub97c \uc81c\uacf5\ud558\ub294 Lotus Health, CRV \ubc0f Kleiner Perkins \uc8fc\ub3c4\ub85c 3,500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \uc790\uae08 \uc720\uce58\n  > Summary: Lotus Health\ub294 AI\ub97c \uc774\uc6a9\ud558\uc5ec 50\uac1c \uc5b8\uc5b4\ub85c \ubb34\ub8cc 24/7 1\ucc28 \uc9c4\ub8cc \uc11c\ube44\uc2a4\ub97c ..."
-    },
     {
       "timestamp": "2026-02-03 18:17:57",
       "message": "[PROCESSING] Analyzing: AI agent social network Moltbook grew from 30K+ users on January 30 to 1.5M+ on February 2; researchers say some of the viral posts were likely human-scripted (Hayden Field/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 18:18:37",
       "message": "[PROCESSING] Analyzing: The Verification Conundrum..."
+    },
+    {
+      "timestamp": "2026-02-03 18:18:40",
+      "message": "[SKIP] Irrelevant (AI Filter): The Verification Conundrum"
     }
   ]
 }
