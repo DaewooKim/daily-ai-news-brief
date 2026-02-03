@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 21:37:58",
+  "last_updated": "2026-02-03 21:38:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 21:37:13",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, AI \uae30\uc5c5\uc5d0 \ucf58\ud150\uce20 \ub77c\uc774\uc13c\uc2a4 \uc81c\uacf5\uc744 \uc704\ud55c \ud37c\ube14\ub9ac\uc154 \ucf58\ud150\uce20 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \ucd9c\uc2dc\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uac00 Cond\u00e9 Nast, Hearst, AP \ub4f1\uacfc \ud30c\ud2b8\ub108\uc2ed\uc744 \ud1b5\ud574 \ud37c\ube14\ub9ac\uc154 \ucf58..."
-    },
     {
       "timestamp": "2026-02-03 21:37:14",
       "message": "[PROCESSING] Analyzing: Bitcoin dived below the $73,000 mark on Tuesday, hitting its lowest price since November 2024 as heavy selling resumes amid mounting geopolitical concerns (Liz Napolitano/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 21:37:58",
       "message": "[PROCESSING] Analyzing: The Verification Conundrum..."
+    },
+    {
+      "timestamp": "2026-02-03 21:38:00",
+      "message": "[SKIP] Irrelevant (AI Filter): The Verification Conundrum"
     }
   ]
 }
