@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-03 21:38:20",
+  "last_updated": "2026-02-03 21:38:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-03 21:37:26",
-      "message": "[PROCESSING] Analyzing: Apptopia: ChatGPT's US market share fell from 69.1% to 45.3% between Jan. 2025 and Jan. 2026; Gemini rose from 14.7% to 25.1%, Grok rose from 1.6% to 15.2% (Alex Kantrowitz/Big Technology)..."
-    },
     {
       "timestamp": "2026-02-03 21:37:32",
       "message": "[SUCCESS] Processed: Apptopia: \ucc57GPT\uc758 \ubbf8\uad6d \uc2dc\uc7a5 \uc810\uc720\uc728\uc774 2025\ub144 1\uc6d4\uc5d0\uc11c 2026\ub144 1\uc6d4 \uc0ac\uc774\uc5d0 69.1%\uc5d0\uc11c 45.3%\ub85c \uac10\uc18c; \uc81c\ubbf8\ub2c8\ub294 14.7%\uc5d0\uc11c 25.1%\ub85c, \uadf8\ub85d\uc740 1.6%\uc5d0\uc11c 15.2%\ub85c \uc99d\uac00\n  > Summary: Apptopia\uc758 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, ChatGPT\uc758 \ubbf8\uad6d \uc2dc\uc7a5 \uc810\uc720\uc728\uc774 2025\ub144 1\uc6d4\uc5d0\uc11c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-03 21:38:20",
       "message": "[SUCCESS] Processed: \uc560\ud50c, '\uc5d0\uc774\uc804\ud2f1 \ucf54\ub529' \ucd94\uc9c4\uc744 \uc704\ud574 \uc548\ud2b8\ub85c\ud53d\uc758 \ud074\ub85c\ub4dc\uc640 \uc624\ud508AI\uc758 \ucf54\ub4dc\uc5d1\uc2a4\ub97c Xcode 26.3\uc5d0 \ud1b5\ud569\ud558\ub2e4\n  > Summary: \uc560\ud50c\uc740 Xcode 26.3\uc5d0 \uc548\ud2b8\ub85c\ud53d\uc758 \ud074\ub85c\ub4dc \uc5d0\uc774\uc804\ud2b8\uc640 \uc624\ud508AI\uc758 \ucf54\ub4dc\uc5d1\uc2a4\ub97c \ud1b5\ud569\ud558\uc5ec \uc778..."
+    },
+    {
+      "timestamp": "2026-02-03 21:38:21",
+      "message": "Reprocessing: Vercel rebuilt v0 to tackle the 90% problem: Connecting AI-generated code to existing production infrastructure, not prototypes"
     }
   ]
 }
