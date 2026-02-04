@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 19:39:08",
+  "last_updated": "2026-02-04 19:39:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 19:38:13",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-04 19:38:28",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 19:39:08",
       "message": "[PROCESSING] Analyzing: Fallout\u2019s season 2 finale left plenty unanswered as it expanded in scope..."
+    },
+    {
+      "timestamp": "2026-02-04 19:39:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Fallout\u2019s season 2 finale left plenty unanswered as it expanded in scope"
     }
   ]
 }
