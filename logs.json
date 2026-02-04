@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 04:13:18",
+  "last_updated": "2026-02-04 04:13:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 04:12:40",
-      "message": "[PROCESSING] Analyzing: On an earnings call, AMD CEO Lisa Su says Microsoft's next-gen Xbox \"is progressing well to support a launch in 2027\" and will feature an AMD semi-custom SoC (Tom Warren/The Verge)..."
-    },
     {
       "timestamp": "2026-02-04 04:12:42",
       "message": "[SKIP] Irrelevant (AI Filter): On an earnings call, AMD CEO Lisa Su says Microsoft's next-gen Xbox \"is progressing well to support a launch in 2027\" and will feature an AMD semi-custom SoC (Tom Warren/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 04:13:18",
       "message": "[SKIP] Irrelevant (AI Filter): EUV Tech Celebrates Grand Opening of First Global Office in Singapore"
+    },
+    {
+      "timestamp": "2026-02-04 04:13:20",
+      "message": "Reprocessing: Vercel rebuilt v0 to tackle the 90% problem: Connecting AI-generated code to existing production infrastructure, not prototypes"
     }
   ]
 }
