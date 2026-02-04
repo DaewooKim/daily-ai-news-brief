@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 18:35:28",
+  "last_updated": "2026-02-04 18:35:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 18:34:43",
-      "message": "Reprocessing: AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR (Kate Clark/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-02-04 18:34:44",
       "message": "[PROCESSING] Analyzing: AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR (Kate Clark/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 18:35:28",
       "message": "[PROCESSING] Analyzing: Archer Develops Early Biochip Prototype..."
+    },
+    {
+      "timestamp": "2026-02-04 18:35:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Archer Develops Early Biochip Prototype"
     }
   ]
 }
