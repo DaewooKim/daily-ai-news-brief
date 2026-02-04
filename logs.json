@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 20:45:36",
+  "last_updated": "2026-02-04 20:45:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 20:44:54",
-      "message": "[PROCESSING] Analyzing: GitHub adds Claude and Codex AI coding agents..."
-    },
     {
       "timestamp": "2026-02-04 20:44:58",
       "message": "[SUCCESS] Processed: GitHub, Claude \ubc0f Codex AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \ucd94\uac00\n  > Summary: GitHub\ub294 Anthropic\uc758 Claude\uc640 OpenAI\uc758 Codex AI \ucf54\ub529 \uc5d0\uc774\uc804..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 20:45:36",
       "message": "[PROCESSING] Analyzing: ElevenLabs raises $500M from Sequoia at an $11 billion valuation..."
+    },
+    {
+      "timestamp": "2026-02-04 20:45:39",
+      "message": "[SKIP] Irrelevant (AI Filter): ElevenLabs raises $500M from Sequoia at an $11 billion valuation"
     }
   ]
 }
