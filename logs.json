@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 20:47:23",
+  "last_updated": "2026-02-04 20:47:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 20:46:41",
-      "message": "[SUCCESS] Processed: GitHub, Claude \ubc0f Codex AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\ub97c GitHub, GitHub Mobile, Visual Studio Code\uc5d0 \ud1b5\ud569\n  > Summary: GitHub\ub294 Claude \ubc0f Codex AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\ub97c GitHub, GitHub ..."
-    },
     {
       "timestamp": "2026-02-04 20:46:42",
       "message": "[PROCESSING] Analyzing: Microsoft says cybersecurity head Charlie Bell will move into a position focused on engineering quality; Hayete Gallot will return from Google to run security (Jordan Novet/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 20:47:23",
       "message": "[PROCESSING] Analyzing: Archer Develops Early Biochip Prototype..."
+    },
+    {
+      "timestamp": "2026-02-04 20:47:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Archer Develops Early Biochip Prototype"
     }
   ]
 }
