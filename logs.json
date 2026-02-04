@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 22:57:05",
+  "last_updated": "2026-02-04 22:57:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 22:56:28",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-04 22:56:28",
       "message": "[PROCESSING] Analyzing: Google&#8217;s annual revenue tops $400 billion for the first time..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 22:57:05",
       "message": "[SUCCESS] Processed: AMD\uac00 \ub9c8\uce68\ub0b4 \ubd84\uae30\ubcc4 GPU \ud310\ub9e4\ub85c CPU\ubcf4\ub2e4 \ub354 \ub9ce\uc740 \uc218\uc775\uc744 \uc62c\ub9ac\ub2e4\n  > Summary: AMD\ub294 \uc911\uad6d\uc5d0\uc11c MI308 GPU\uc5d0 \ub300\ud55c \ud310\ub9e4 \ub77c\uc774\uc13c\uc2a4\ub97c \ubc1b\uace0 Q4 2025\uc5d0\uc11c GPU ..."
+    },
+    {
+      "timestamp": "2026-02-04 22:57:07",
+      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
     }
   ]
 }
