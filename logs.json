@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 08:34:20",
+  "last_updated": "2026-02-04 08:34:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 08:33:43",
-      "message": "[SUCCESS] Processed: \ub3c5\uc810: \ud3ec\uc9c0\ud2b8\ub860, Nvidia\uc758 AI \uce69\uc5d0 \ub9de\uc11c\uae30 \uc704\ud574 2\uc5b5 3\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \uc870\ub2ec\n  > Summary: \ud3ec\uc9c0\ud2b8\ub860\uc774 Nvidia\uc758 AI \uce69\uc5d0 \ub3c4\uc804\ud558\uae30 \uc704\ud574 2\uc5b5 3\ucc9c\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 B \uc790\uae08\uc744 \uc870..."
-    },
     {
       "timestamp": "2026-02-04 08:33:44",
       "message": "Reprocessing: OpenAI launches new macOS app for agentic coding"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 08:34:20",
       "message": "[PROCESSING] Analyzing: How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations..."
+    },
+    {
+      "timestamp": "2026-02-04 08:34:22",
+      "message": "[SKIP] Irrelevant (AI Filter): How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations"
     }
   ]
 }
