@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 21:51:33",
+  "last_updated": "2026-02-04 21:51:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 21:50:55",
-      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
-    },
     {
       "timestamp": "2026-02-04 21:50:57",
       "message": "[PROCESSING] Analyzing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 21:51:33",
       "message": "[PROCESSING] Analyzing: ElevenLabs raises $500M from Sequoia at an $11 billion valuation..."
+    },
+    {
+      "timestamp": "2026-02-04 21:51:35",
+      "message": "[SKIP] Irrelevant (AI Filter): ElevenLabs raises $500M from Sequoia at an $11 billion valuation"
     }
   ]
 }
