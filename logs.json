@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 12:59:03",
+  "last_updated": "2026-02-04 12:59:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 12:58:24",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, AI \ub300\ud654\uc5d0\uc11c\uc758 \uce68\uc785\uc131 \uad11\uace0 prospects\uc744 \ud328\ub7ec\ub514\ud558\ub294 \uc288\ud37c\ubcfc 30\ucd08 \uad11\uace0 \uacc4\ud68d\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \uc288\ud37c\ubcfc \uc911\uc5d0 AI \ub300\ud654\uc5d0\uc11c \uce68\uc785\uc131 \uad11\uace0\uc758 \uac00\ub2a5\uc131\uc744 \ud328\ub7ec\ub514\ud558\ub294 30\ucd08 \uad11\uace0\ub97c \ubc29\uc601..."
-    },
     {
       "timestamp": "2026-02-04 12:58:25",
       "message": "[PROCESSING] Analyzing: Texas Instruments plans to buy US chip company Silicon Labs in a $7.5B deal, paying $231/share in cash, closing in H1 2027; Silicon Labs has a $4.5B market cap (Nick Turner/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 12:59:03",
       "message": "[SKIP] Irrelevant (AI Filter): Archer Develops Early Biochip Prototype"
+    },
+    {
+      "timestamp": "2026-02-04 12:59:04",
+      "message": "[PROCESSING] Analyzing: AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter..."
     }
   ]
 }
