@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 14:03:01",
+  "last_updated": "2026-02-04 14:03:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 14:01:57",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-02-04 14:01:57",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 14:03:01",
       "message": "[PROCESSING] Analyzing: Borderlands 4 for Switch 2 is on \u2018pause\u2019..."
+    },
+    {
+      "timestamp": "2026-02-04 14:03:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Borderlands 4 for Switch 2 is on \u2018pause\u2019"
     }
   ]
 }
