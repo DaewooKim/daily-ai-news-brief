@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 19:41:19",
+  "last_updated": "2026-02-04 19:41:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 19:40:35",
-      "message": "Reprocessing: AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR (Kate Clark/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-02-04 19:40:37",
       "message": "[PROCESSING] Analyzing: AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR (Kate Clark/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 19:41:19",
       "message": "[PROCESSING] Analyzing: AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter..."
+    },
+    {
+      "timestamp": "2026-02-04 19:41:21",
+      "message": "[SKIP] Irrelevant (AI Filter): AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter"
     }
   ]
 }
