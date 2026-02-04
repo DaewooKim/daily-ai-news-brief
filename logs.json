@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 14:03:04",
+  "last_updated": "2026-02-04 14:03:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 14:01:57",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-04 14:02:12",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 14:03:04",
       "message": "[SKIP] Irrelevant (AI Filter): Borderlands 4 for Switch 2 is on \u2018pause\u2019"
+    },
+    {
+      "timestamp": "2026-02-04 14:03:06",
+      "message": "Reprocessing: Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk"
     }
   ]
 }
