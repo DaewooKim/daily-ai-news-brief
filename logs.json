@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-04 00:54:54",
+  "last_updated": "2026-02-04 00:54:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-04 00:54:20",
-      "message": "[SUCCESS] Processed: Peak XV\ub294 \ub0b4\ubd80 \uc758\uacac \ubd88\uc77c\uce58\ub85c \ud30c\ud2b8\ub108 \uc774\ud0c8\uc774 \ubc1c\uc0dd\ud588\ub2e4\uace0 \uc804\ud558\uba70 AI\uc5d0 \uc9d1\uc911\ud55c\ub2e4\uace0 \ubc1d\ud798\n  > Summary: Peak XV\ub294 \ub0b4\ubd80\uc801\uc778 \uc758\uacac \ubd88\uc77c\uce58\ub85c \ud30c\ud2b8\ub108\uac00 \uc774\ud0c8\ud588\uace0, \ubbf8\uad6d \uc0ac\ubb34\uc18c\ub97c \uc5f4\uba74\uc11c \ubcf4\ub4dc \uc5ed\ud560..."
-    },
     {
       "timestamp": "2026-02-04 00:54:21",
       "message": "Reprocessing: OpenAI launches new macOS app for agentic coding"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-04 00:54:54",
       "message": "[PROCESSING] Analyzing: How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations..."
+    },
+    {
+      "timestamp": "2026-02-04 00:54:56",
+      "message": "[SKIP] Irrelevant (AI Filter): How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations"
     }
   ]
 }
