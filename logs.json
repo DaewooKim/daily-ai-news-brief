@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 21:59:51",
+  "last_updated": "2026-02-05 21:59:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 21:59:17",
-      "message": "Reprocessing: GPT-5.3-Codex System Card"
-    },
     {
       "timestamp": "2026-02-05 21:59:19",
       "message": "[PROCESSING] Analyzing: GPT-5.3-Codex System Card..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 21:59:51",
       "message": "[PROCESSING] Analyzing: ElevenLabs raises $500M from Sequoia at an $11 billion valuation..."
+    },
+    {
+      "timestamp": "2026-02-05 21:59:53",
+      "message": "[SKIP] Irrelevant (AI Filter): ElevenLabs raises $500M from Sequoia at an $11 billion valuation"
     }
   ]
 }
