@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 16:29:30",
+  "last_updated": "2026-02-05 16:29:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 16:28:51",
-      "message": "Reprocessing: Arm CEO Rene Haas says investor fears about AI hurting software companies are a \"micro-hysteria\" that exceeds the reality of how businesses are using AI tools (Michael Acton/Financial Times)"
-    },
     {
       "timestamp": "2026-02-05 16:28:53",
       "message": "[PROCESSING] Analyzing: Arm CEO Rene Haas says investor fears about AI hurting software companies are a \"micro-hysteria\" that exceeds the reality of how businesses are using AI tools (Michael Acton/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 16:29:30",
       "message": "[PROCESSING] Analyzing: EUV Tech Celebrates Grand Opening of First Global Office in Singapore..."
+    },
+    {
+      "timestamp": "2026-02-05 16:29:32",
+      "message": "[SKIP] Irrelevant (AI Filter): EUV Tech Celebrates Grand Opening of First Global Office in Singapore"
     }
   ]
 }
