@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 09:54:36",
+  "last_updated": "2026-02-05 09:54:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 09:54:02",
-      "message": "[PROCESSING] Analyzing: Sources: HP, Dell, Acer, and Asus are considering sourcing memory chips from Chinese chipmakers; HP and Dell are currently qualifying DRAM products from CXMT (Nikkei Asia)..."
-    },
     {
       "timestamp": "2026-02-05 09:54:04",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: HP, Dell, Acer, and Asus are considering sourcing memory chips from Chinese chipmakers; HP and Dell are currently qualifying DRAM products from CXMT (Nikkei Asia)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 09:54:36",
       "message": "[PROCESSING] Analyzing: Wi-Fi 7 for IoT..."
+    },
+    {
+      "timestamp": "2026-02-05 09:54:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-Fi 7 for IoT"
     }
   ]
 }
