@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 23:06:16",
+  "last_updated": "2026-02-05 23:06:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 23:05:41",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874\uacfc \uad6c\uae00\uc774 AI \uc790\ubcf8 \uc9c0\ucd9c \uacbd\uc7c1\uc5d0\uc11c \uc774\uae30\uace0 \uc788\uc9c0\ub9cc, \uadf8 \uc0c1\uc740 \ubb34\uc5c7\uc778\uac00?\n  > Summary: 2026\ub144 \uc544\ub9c8\uc874\uc740 2000\uc5b5 \ub2ec\ub7ec\uc758 \uc790\ubcf8 \uc9c0\ucd9c\uc744 \uacc4\ud68d\ud558\uace0 \uc788\uc73c\uba70, \uad6c\uae00\uc740 1750\uc5b5 \ub2ec\ub7ec..."
-    },
     {
       "timestamp": "2026-02-05 23:05:42",
       "message": "Reprocessing: OpenAI launches new agentic coding model only minutes after Anthropic drops its own"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 23:06:16",
       "message": "[PROCESSING] Analyzing: How to Select High-Performance Capacitors for\u00a0GaN\u00a0and\u00a0SiC\u00a0Power Systems..."
+    },
+    {
+      "timestamp": "2026-02-05 23:06:18",
+      "message": "[SKIP] Irrelevant (AI Filter): How to Select High-Performance Capacitors for\u00a0GaN\u00a0and\u00a0SiC\u00a0Power Systems"
     }
   ]
 }
