@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-05 12:05:24",
+  "last_updated": "2026-02-05 12:05:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 12:04:44",
-      "message": "[PROCESSING] Analyzing: Arm CEO Rene Haas says investor fears about AI hurting software companies are a \"micro-hysteria\" that exceeds the reality of how businesses use AI tools (Michael Acton/Financial Times)..."
-    },
-    {
-      "timestamp": "2026-02-05 12:04:49",
-      "message": "[SUCCESS] Processed: ARM CEO Rene Haas\ub294 AI\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\uc5d0 \ud574\ub97c \ub07c\uce5c\ub2e4\ub294 \ud22c\uc790\uc790\ub4e4\uc758 \uc6b0\ub824\uac00 '\ubbf8\uc138 \ud788\uc2a4\ud14c\ub9ac'\ub77c\uace0 \ub9d0\ud55c\ub2e4.\n  > Summary: Arm\uc758 CEO\uc778 Rene Haas\ub294 AI\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5\uc5d0 \ub300\ud55c \ud22c\uc790\uc790\ub4e4..."
-    },
     {
       "timestamp": "2026-02-05 12:04:50",
       "message": "[PROCESSING] Analyzing: Analog chipmaker SiTime agrees to acquire Tokyo-based Renesas' timing unit for $1.5B in cash and 4.13M shares in a ~$2.9B deal, set to close by the end of 2026 (Bloomberg)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-05 12:05:24",
       "message": "[PROCESSING] Analyzing: Mixer Technology For Advanced Communications, Part 1: Mixer Basics..."
+    },
+    {
+      "timestamp": "2026-02-05 12:05:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Mixer Technology For Advanced Communications, Part 1: Mixer Basics"
+    },
+    {
+      "timestamp": "2026-02-05 12:05:27",
+      "message": "Reprocessing: Scaling Ultra-Low-Power Edge Intelligence For Smart Devices"
     }
   ]
 }
