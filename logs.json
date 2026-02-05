@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-05 16:28:59",
+  "last_updated": "2026-02-05 16:29:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 16:28:19",
-      "message": "[PROCESSING] Analyzing: OpenAI launches Frontier, an AI agent management platform that provides shared context, onboarding, and permission boundaries, for \"a limited set of customers\" (Robert Hart/The Verge)..."
-    },
-    {
-      "timestamp": "2026-02-05 16:28:22",
-      "message": "[SUCCESS] Processed: OpenAI, \uc81c\ud55c\ub41c \uace0\uac1d\uc744 \uc704\ud55c AI \uc5d0\uc774\uc804\ud2b8 \uad00\ub9ac \ud50c\ub7ab\ud3fc Frontier \ucd9c\uc2dc\n  > Summary: OpenAI\uac00 \uc81c\ud55c\ub41c \uace0\uac1d\uc744 \uc704\ud55c AI \uc5d0\uc774\uc804\ud2b8 \uad00\ub9ac \ud50c\ub7ab\ud3fc\uc778 Frontier\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-02-05 16:28:24",
       "message": "Reprocessing: AI interpretability startup Goodfire raised a $150M Series B at a $1.25B valuation, taking its total funding to $209M, and is working on retraining AI models (Rebecca Torrence/Bloomberg)"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-05 16:28:59",
       "message": "[PROCESSING] Analyzing: Securing Hardware For The Quantum Era..."
+    },
+    {
+      "timestamp": "2026-02-05 16:29:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Securing Hardware For The Quantum Era"
+    },
+    {
+      "timestamp": "2026-02-05 16:29:02",
+      "message": "[PROCESSING] Analyzing: The True Cost Of CMMC Non-Compliance..."
     }
   ]
 }
