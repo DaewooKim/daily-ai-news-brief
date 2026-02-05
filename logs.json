@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 23:08:27",
+  "last_updated": "2026-02-05 23:08:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 23:07:54",
-      "message": "[SUCCESS] Processed: TTT-Discover, \uc778\uac04 \uc804\ubb38\uac00\ubcf4\ub2e4 2\ubc30 \ube60\ub974\uac8c GPU \ucee4\ub110 \ucd5c\uc801\ud654 \u2014 \ucd94\ub860 \uc911 \ud6c8\ub828\n  > Summary: \uc2a4\ud0e0\ud3ec\ub4dc, \uc5d4\ube44\ub514\uc544, \ud22c\uac8c\ub354 AI\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \uc0c8\ub85c\uc6b4 \uae30\uc220 TTT-Discover\ub97c \uac1c\ubc1c\ud588..."
-    },
     {
       "timestamp": "2026-02-05 23:07:55",
       "message": "Reprocessing: OpenAI\u2019s GPT-5.3-Codex drops as Anthropic upgrades Claude \u2014 AI coding wars heat up ahead of Super Bowl ads"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 23:08:27",
       "message": "Reprocessing: Anthropic rolls out Claude Opus 4.6 with 1 million-token context support"
+    },
+    {
+      "timestamp": "2026-02-05 23:08:28",
+      "message": "[SKIP] Content too short: Anthropic rolls out Claude Opu..."
     }
   ]
 }
