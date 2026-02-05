@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 02:14:52",
+  "last_updated": "2026-02-05 02:14:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 02:14:15",
-      "message": "[PROCESSING] Analyzing: AMD Finally Makes More Money On GPUs Than CPUs In A Quarter..."
-    },
     {
       "timestamp": "2026-02-05 02:14:21",
       "message": "[SUCCESS] Processed: AMD, \ub4dc\ub514\uc5b4 \ubd84\uae30\ubcc4 GPU \ub9e4\ucd9c\uc774 CPU \ub9e4\ucd9c\uc744 \ucd08\uacfc\ud558\ub2e4\n  > Summary: AMD\ub294 MI308 GPU\uc5d0 \ub300\ud55c \uc218\uc694\uac00 \uae09\uc99d\ud558\uba70, \uc911\uad6d\uc5d0\uc11c \ud310\ub9e4 \ud5c8\uac00\ub97c \ubc1b\uc740 \ud6c4 2025..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 02:14:52",
       "message": "[PROCESSING] Analyzing: ElevenLabs raises $500M from Sequoia at an $11 billion valuation..."
+    },
+    {
+      "timestamp": "2026-02-05 02:14:54",
+      "message": "[SKIP] Irrelevant (AI Filter): ElevenLabs raises $500M from Sequoia at an $11 billion valuation"
     }
   ]
 }
