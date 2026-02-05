@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 18:42:09",
+  "last_updated": "2026-02-05 18:42:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 18:41:20",
-      "message": "[SUCCESS] Processed: OpenAI, 25% \ub354 \ube60\ub978 GPT-5.3-Codex \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 \uc791\uc5c5 \uc218\ud589 \uc2dc\uac04\uc774 \uae38\uc5b4\uc9c0\ub3c4\ub85d 25% \ub354 \ube60\ub974\uac8c \uc2e4\ud589\ub418\ub294 GPT-5.3-Cod..."
-    },
     {
       "timestamp": "2026-02-05 18:41:21",
       "message": "[PROCESSING] Analyzing: Anthropic says Opus 4.6 adds \"agent teams\" that can split larger tasks into segmented jobs and integrates Claude directly into PowerPoint via a side panel (Lucas Ropek/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 18:42:09",
       "message": "[PROCESSING] Analyzing: The True Cost Of CMMC Non-Compliance..."
+    },
+    {
+      "timestamp": "2026-02-05 18:42:11",
+      "message": "[SKIP] Irrelevant (AI Filter): The True Cost Of CMMC Non-Compliance"
     }
   ]
 }
