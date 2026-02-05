@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 18:39:18",
+  "last_updated": "2026-02-05 18:39:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 18:38:17",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-05 18:38:33",
       "message": "Found 164 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 18:39:18",
       "message": "[SUCCESS] Processed: AI \ubaa8\ub378 \uc99d\ub958\ub97c \uc704\ud55c \ub77c\uc774\uc120\uc2a4 \uc900\uc218 \ud569\uc131 \ub370\uc774\ud130 \ud30c\uc774\ud504\ub77c\uc778 \uad6c\ucd95 \ubc29\ubc95\n  > Summary: \uc804\ubb38\ud654\ub41c AI \ubaa8\ub378\uc740 \ud2b9\uc815 \uc791\uc5c5\uc744 \uc218\ud589\ud558\uac70\ub098 \ud2b9\uc815 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud574 \uc124\uacc4\ub429\ub2c8\ub2e4. \ud558\uc9c0\ub9cc..."
+    },
+    {
+      "timestamp": "2026-02-05 18:39:20",
+      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
     }
   ]
 }
