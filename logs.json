@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 01:11:17",
+  "last_updated": "2026-02-05 01:11:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 01:10:42",
-      "message": "Reprocessing: Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours (Reuters)"
-    },
     {
       "timestamp": "2026-02-05 01:10:43",
       "message": "[PROCESSING] Analyzing: Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 01:11:17",
       "message": "[PROCESSING] Analyzing: AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter..."
+    },
+    {
+      "timestamp": "2026-02-05 01:11:19",
+      "message": "[SKIP] Irrelevant (AI Filter): AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter"
     }
   ]
 }
