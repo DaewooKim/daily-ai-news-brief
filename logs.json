@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 05:33:18",
+  "last_updated": "2026-02-05 05:33:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 05:32:39",
-      "message": "[PROCESSING] Analyzing: Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours (Reuters)..."
-    },
     {
       "timestamp": "2026-02-05 05:32:41",
       "message": "[SKIP] Irrelevant (AI Filter): Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 05:33:18",
       "message": "[PROCESSING] Analyzing: Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification..."
+    },
+    {
+      "timestamp": "2026-02-05 05:33:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification"
     }
   ]
 }
