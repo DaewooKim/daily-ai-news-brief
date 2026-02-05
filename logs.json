@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 13:08:59",
+  "last_updated": "2026-02-05 13:09:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 13:08:24",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-05 13:08:24",
       "message": "[PROCESSING] Analyzing: Spotify\u2019s Page Match syncs your audiobooks and your physical ones..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 13:08:59",
       "message": "[SUCCESS] Processed: NVIDIA GPU \uac00\uc18d \uc5d4\ub4dc\ud3ec\uc778\ud2b8\ub97c \uc0ac\uc6a9\ud558\ub294 Kimi K2.5 \ub2e4\uc911 \ubaa8\ub2ec VLM\uc73c\ub85c \uad6c\ucd95\ud558\uae30\n  > Summary: Kimi K2.5\ub294 Kimi \ubaa8\ub378 \uac00\uc871\uc758 \ucd5c\uc2e0 \uc624\ud508 \ube44\uc804 \uc5b8\uc5b4 \ubaa8\ub378(VLM)\ub85c, \uc77c\ubc18 \uc6a9\ub3c4..."
+    },
+    {
+      "timestamp": "2026-02-05 13:09:00",
+      "message": "Reprocessing: \u200bSequential Attention: Making AI models leaner and faster without sacrificing accuracy"
     }
   ]
 }
