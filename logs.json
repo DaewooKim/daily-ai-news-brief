@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 19:46:59",
+  "last_updated": "2026-02-05 19:47:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 19:46:19",
-      "message": "[SUCCESS] Processed: GPT-5.3-Codex \uc2dc\uc2a4\ud15c \uce74\ub4dc\n  > Summary: GPT-5.3-Codex\ub294 \ud604\uc7ac\uae4c\uc9c0 \uac00\uc7a5 \uac15\ub825\ud55c \uc5d0\uc774\uc804\ud2f1 \ucf54\ub529 \ubaa8\ub378\ub85c, GPT-5.2-Co..."
-    },
     {
       "timestamp": "2026-02-05 19:46:20",
       "message": "Reprocessing: Introducing GPT-5.3-Codex"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 19:46:59",
       "message": "[PROCESSING] Analyzing: ElevenLabs raises $500M from Sequoia at an $11 billion valuation..."
+    },
+    {
+      "timestamp": "2026-02-05 19:47:01",
+      "message": "[SKIP] Irrelevant (AI Filter): ElevenLabs raises $500M from Sequoia at an $11 billion valuation"
     }
   ]
 }
