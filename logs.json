@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 18:42:12",
+  "last_updated": "2026-02-05 18:42:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 18:41:25",
-      "message": "[SUCCESS] Processed: \uc559\ud2b8\ub85c\ud53d, \uc624\ud478\uc2a4 4.6\uc5d0 '\uc5d0\uc774\uc804\ud2b8 \ud300' \ucd94\uac00 \ubc0f \ud074\ub85c\ub4dc\ub97c \ud30c\uc6cc\ud3ec\uc778\ud2b8 \uc0ac\uc774\ub4dc \ud328\ub110\uc5d0 \uc9c1\uc811 \ud1b5\ud569\n  > Summary: \uc559\ud2b8\ub85c\ud53d\uc774 \ucd5c\uc2e0 \ubaa8\ub378\uc778 \uc624\ud478\uc2a4 4.6\uc744 \ubc1c\ud45c\ud588\ub2e4. \uc774 \ubc84\uc804\uc5d0\uc11c\ub294 \ud070 \uc791\uc5c5\uc744 \ubd84\ud560\ud558\uc5ec \ucc98\ub9ac\ud560..."
-    },
     {
       "timestamp": "2026-02-05 18:41:27",
       "message": "[PROCESSING] Analyzing: Anthropic says Opus 4.6 supports a 1M context window in beta, scored 90.2% on BigLaw Bench, the highest for any Claude model, and boosts agentic capabilities (David Gewirtz/ZDNET)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 18:42:12",
       "message": "[PROCESSING] Analyzing: Mixer Technology For Advanced Communications, Part 1: Mixer Basics..."
+    },
+    {
+      "timestamp": "2026-02-05 18:42:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Mixer Technology For Advanced Communications, Part 1: Mixer Basics"
     }
   ]
 }
