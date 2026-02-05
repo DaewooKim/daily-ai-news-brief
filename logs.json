@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-05 07:44:03",
+  "last_updated": "2026-02-05 07:44:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-05 07:43:28",
-      "message": "[PROCESSING] Analyzing: Filing: Baidu announces a stock buyback program of as much as $5B through the end of 2028, and plans to issue its first dividend in 2026 (Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-05 07:43:30",
       "message": "[SKIP] Irrelevant (AI Filter): Filing: Baidu announces a stock buyback program of as much as $5B through the end of 2028, and plans to issue its first dividend in 2026 (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-05 07:44:03",
       "message": "Reprocessing: Anthropic\u2019s hilarious Super Bowl spot skewers potential AI ads \u2013 but OpenAI chief Sam Altman protests"
+    },
+    {
+      "timestamp": "2026-02-05 07:44:05",
+      "message": "[SKIP] Content too short: Anthropic\u2019s hilarious Super Bo..."
     }
   ]
 }
