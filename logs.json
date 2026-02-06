@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 03:33:10",
+  "last_updated": "2026-02-06 03:33:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 03:32:37",
-      "message": "[PROCESSING] Analyzing: Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B (Todd Spangler/Variety)..."
-    },
     {
       "timestamp": "2026-02-06 03:32:39",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B (Todd Spangler/Variety)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 03:33:10",
       "message": "[PROCESSING] Analyzing: How recruitment fraud turned cloud IAM into a $2 billion attack surface..."
+    },
+    {
+      "timestamp": "2026-02-06 03:33:12",
+      "message": "[SKIP] Irrelevant (AI Filter): How recruitment fraud turned cloud IAM into a $2 billion attack surface"
     }
   ]
 }
