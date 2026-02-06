@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 20:08:32",
+  "last_updated": "2026-02-06 20:08:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 20:07:51",
-      "message": "Reprocessing: SiTime to Acquire Renesas\u2019 Timing Business"
-    },
     {
       "timestamp": "2026-02-06 20:07:53",
       "message": "[PROCESSING] Analyzing: SiTime to Acquire Renesas\u2019 Timing Business..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 20:08:32",
       "message": "[PROCESSING] Analyzing: Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification..."
+    },
+    {
+      "timestamp": "2026-02-06 20:08:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification"
     }
   ]
 }
