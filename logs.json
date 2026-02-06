@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 21:15:19",
+  "last_updated": "2026-02-06 21:15:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 21:14:37",
-      "message": "[SUCCESS] Processed: SiTime, Renesas\uc758 \ud0c0\uc774\ubc0d \uc0ac\uc5c5\ubd80 \uc778\uc218 \uc608\uc815\n  > Summary: SiTime Corporation\uc740 Renesas Electronics\uc758 \ud0c0\uc774\ubc0d \uc0ac\uc5c5\ubd80\uc640 ..."
-    },
     {
       "timestamp": "2026-02-06 21:14:39",
       "message": "[PROCESSING] Analyzing: Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 21:15:19",
       "message": "[PROCESSING] Analyzing: Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification..."
+    },
+    {
+      "timestamp": "2026-02-06 21:15:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification"
     }
   ]
 }
