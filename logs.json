@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 10:06:55",
+  "last_updated": "2026-02-06 10:06:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 10:06:13",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-02-06 10:06:13",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 10:06:55",
       "message": "[PROCESSING] Analyzing: Who\u2019s who and what\u2019s what in TVs in 2026..."
+    },
+    {
+      "timestamp": "2026-02-06 10:06:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Who\u2019s who and what\u2019s what in TVs in 2026"
     }
   ]
 }
