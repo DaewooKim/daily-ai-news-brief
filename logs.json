@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 12:19:48",
+  "last_updated": "2026-02-06 12:19:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 12:19:09",
-      "message": "[SKIP] Irrelevant (AI Filter): The price of Bitcoin drops below $65,000"
-    },
     {
       "timestamp": "2026-02-06 12:19:11",
       "message": "[PROCESSING] Analyzing: Zuckerberg considered changing how Meta studies social issues after research got it in trouble..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 12:19:48",
       "message": "[SUCCESS] Processed: GPT-5.3-Codex \uc18c\uac1c\n  > Summary: GPT-5.3-Codex\ub294 \ucd5c\ucca8\ub2e8 \ucf54\ub529 \uc131\ub2a5\uacfc \uc77c\ubc18\uc801\uc778 \ucd94\ub860\uc744 \uacb0\ud569\ud55c Codex \ub124\uc774\ud2f0\ube0c ..."
+    },
+    {
+      "timestamp": "2026-02-06 12:19:49",
+      "message": "Reprocessing: GPT-5.3-Codex System Card"
     }
   ]
 }
