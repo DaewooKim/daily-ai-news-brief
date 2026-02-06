@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 13:28:24",
+  "last_updated": "2026-02-06 13:28:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 13:27:48",
-      "message": "[PROCESSING] Analyzing: Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)..."
-    },
     {
       "timestamp": "2026-02-06 13:27:51",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 13:28:24",
       "message": "[PROCESSING] Analyzing: Mixer Technology For Advanced Communications, Part 1: Mixer Basics..."
+    },
+    {
+      "timestamp": "2026-02-06 13:28:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Mixer Technology For Advanced Communications, Part 1: Mixer Basics"
     }
   ]
 }
