@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 10:07:07",
+  "last_updated": "2026-02-06 10:07:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 10:06:29",
-      "message": "[PROCESSING] Analyzing: Roblox is working to pull in adult players..."
-    },
     {
       "timestamp": "2026-02-06 10:06:31",
       "message": "[SKIP] Irrelevant (AI Filter): Roblox is working to pull in adult players"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 10:07:07",
       "message": "Reprocessing: \u200bSequential Attention: Making AI models leaner and faster without sacrificing accuracy"
+    },
+    {
+      "timestamp": "2026-02-06 10:07:09",
+      "message": "[SKIP] Content too short: \u200bSequential Attention: Making ..."
     }
   ]
 }
