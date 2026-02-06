@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-02-06 16:50:38",
-  "status": "idle",
+  "last_updated": "2026-02-06 17:51:19",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-02-06 16:49:20",
-      "message": "[SKIP] Content too short: Cybersecurity earnings season ..."
+      "timestamp": "2026-02-06 17:51:06",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-02-06 16:49:22",
-      "message": "Reprocessing: Five thoughts \u2013 plus a comment on the importance of leadership \u2013 from Cisco\u2019s AI Summit"
+      "timestamp": "2026-02-06 17:51:07",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-02-06 16:49:23",
-      "message": "[SKIP] Content too short: Five thoughts \u2013 plus a comment..."
+      "timestamp": "2026-02-06 17:51:07",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-02-06 16:49:25",
-      "message": "Reprocessing: OpenAI introduces Frontier agent management platform and new GPT-5.3-Codex model"
+      "timestamp": "2026-02-06 17:51:19",
+      "message": "Found 177 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-02-06 16:49:26",
-      "message": "[SKIP] Content too short: OpenAI introduces Frontier age..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:28",
-      "message": "Reprocessing: From backup to ResOps: How Commvault is reframing cyber resilience"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:29",
-      "message": "[SKIP] Content too short: From backup to ResOps: How Com..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:31",
-      "message": "Reprocessing: Process intelligence moves enterprise AI from PoC to ROI"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:32",
-      "message": "[SKIP] Content too short: Process intelligence moves ent..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:34",
-      "message": "Reprocessing: Cloud-native observability enters a new phase as the market pivots from volume to value"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:35",
-      "message": "[SKIP] Content too short: Cloud-native observability ent..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:36",
-      "message": "Reprocessing: Anthropic rolls out Claude Opus 4.6 with 1 million-token context support"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:38",
-      "message": "[SKIP] Content too short: Anthropic rolls out Claude Opu..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:39",
-      "message": "Reprocessing: Clearnote debuts legal AI platform for music and entertainment professionals"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:41",
-      "message": "[SKIP] Content too short: Clearnote debuts legal AI plat..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:42",
-      "message": "Reprocessing: Higgsfield launches \u2018vibe\u2019 editor for creating motion graphics"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:43",
-      "message": "[SKIP] Content too short: Higgsfield launches \u2018vibe\u2019 edi..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:45",
-      "message": "Reprocessing: Operant AI debuts Agent Protector to secure autonomous AI agents at scale"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:46",
-      "message": "[SKIP] Content too short: Operant AI debuts Agent Protec..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:48",
-      "message": "Reprocessing: SolarWinds bets on partners with richer incentives and deeper enablement"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:49",
-      "message": "[SKIP] Content too short: SolarWinds bets on partners wi..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:51",
-      "message": "Reprocessing: Nullify raises $12.5M to scale AI workforce for product security"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:52",
-      "message": "[SKIP] Content too short: Nullify raises $12.5M to scale..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:54",
-      "message": "Reprocessing: IBM invests in generative AI app design startup Anima"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:55",
-      "message": "[SKIP] Content too short: IBM invests in generative AI a..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:56",
-      "message": "Reprocessing: Anthropic\u2019s hilarious Super Bowl spot skewers potential AI ads \u2013 but OpenAI chief Sam Altman protests"
-    },
-    {
-      "timestamp": "2026-02-06 16:49:58",
-      "message": "[SKIP] Content too short: Anthropic\u2019s hilarious Super Bo..."
-    },
-    {
-      "timestamp": "2026-02-06 16:49:59",
-      "message": "Reprocessing: Shares of Qualcomm and Arm slide following latest earnings reports"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:01",
-      "message": "[SKIP] Content too short: Shares of Qualcomm and Arm sli..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:02",
-      "message": "Reprocessing: Resolve AI raises $125M at $1B valuation to automate application maintenance"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:04",
-      "message": "[SKIP] Content too short: Resolve AI raises $125M at $1B..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:05",
-      "message": "Reprocessing: TRM Labs raises $70M at $1B valuation as demand surges for blockchain intelligence"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:07",
-      "message": "[SKIP] Content too short: TRM Labs raises $70M at $1B va..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:08",
-      "message": "Reprocessing: Alphabet to jack up AI spending as Google Cloud and ad business revenues shine"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:10",
-      "message": "[SKIP] Content too short: Alphabet to jack up AI spendin..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:11",
-      "message": "Reprocessing: Cerebras raises $1B more for its wafer-size AI chip"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:13",
-      "message": "[SKIP] Content too short: Cerebras raises $1B more for i..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:14",
-      "message": "Reprocessing: Bedrock Robotics raises $270M to scale autonomous construction fleets"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:16",
-      "message": "[SKIP] Content too short: Bedrock Robotics raises $270M ..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:17",
-      "message": "Reprocessing: Tenable pops after blowout earnings and bullish 2026 outlook"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:19",
-      "message": "[SKIP] Content too short: Tenable pops after blowout ear..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:20",
-      "message": "[PROCESSING] Analyzing: Ubiquiti UniFi USW-Pro-XG-8-PoE Review A 10Gbase-T Standout Product..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:22",
-      "message": "[SKIP] Irrelevant (AI Filter): Ubiquiti UniFi USW-Pro-XG-8-PoE Review A 10Gbase-T Standout Product"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:24",
-      "message": "[PROCESSING] Analyzing: Sodola SL-SWTGW2C48NS 12-port Combo 10GbE Switch Review..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:25",
-      "message": "[SKIP] Irrelevant (AI Filter): Sodola SL-SWTGW2C48NS 12-port Combo 10GbE Switch Review"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:27",
-      "message": "[PROCESSING] Analyzing: Dell Pro 14 Plus Portable Monitor P1425 Quick Look..."
-    },
-    {
-      "timestamp": "2026-02-06 16:50:29",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell Pro 14 Plus Portable Monitor P1425 Quick Look"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:30",
-      "message": "Completed! New: 7, Updated: 44"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:34",
-      "message": "Saved 51 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-02-06 16:50:37",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-02-06 17:51:19",
+      "message": "[PROCESSING] Analyzing: Spotify\u2019s About the Song offers context and trivia about your favorite tracks..."
     }
   ]
 }
