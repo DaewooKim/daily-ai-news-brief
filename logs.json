@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 09:03:22",
+  "last_updated": "2026-02-06 09:03:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 09:02:47",
-      "message": "[SUCCESS] Processed: Sapiom, \uae30\uc5c5\uc774 AI \uc5d0\uc774\uc804\ud2b8\uac00 \ud544\uc694\ud55c \uc11c\ube44\uc2a4\ub97c \uc790\ub3d9\uc73c\ub85c \uad6c\ub9e4\ud560 \uc218 \uc788\ub3c4\ub85d \uc7ac\ubb34 \ub808\uc774\uc5b4\ub97c \uac1c\ubc1c \uc911\uc778 \uc2a4\ud0c0\ud2b8\uc5c5, Accel \uc8fc\ub3c4\uc73c\ub85c 1500\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub4dc \ud380\ub529\uc744 \uc720\uce58\n  > Summary: Sapiom\uc740 AI \uc5d0\uc774\uc804\ud2b8\uac00 \ud544\uc694\ud55c \uc11c\ube44\uc2a4\ub97c \uc790\ub3d9\uc73c\ub85c \uad6c\ub9e4\ud560 \uc218 \uc788\ub3c4\ub85d \ub3d5\ub294 \uc7ac\ubb34 \ub808\uc774\uc5b4..."
-    },
     {
       "timestamp": "2026-02-06 09:02:48",
       "message": "[PROCESSING] Analyzing: Tether acquires a 12% stake, worth $150M, in Gold.com, which enables access to physical and tokenized gold, and plans to integrate its gold-backed XAUT token (CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 09:03:22",
       "message": "[PROCESSING] Analyzing: Gelest Announces Collaboration with IBM to Test  Dry Resist EUV Lithography Precursors..."
+    },
+    {
+      "timestamp": "2026-02-06 09:03:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Gelest Announces Collaboration with IBM to Test  Dry Resist EUV Lithography Precursors"
     }
   ]
 }
