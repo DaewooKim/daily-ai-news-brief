@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 12:21:53",
+  "last_updated": "2026-02-06 12:21:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 12:21:14",
-      "message": "[PROCESSING] Analyzing: Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding (Hugh Son/CNBC)..."
-    },
     {
       "timestamp": "2026-02-06 12:21:20",
       "message": "[SUCCESS] Processed: \uace8\ub4dc\ub9cc\uc0ad\uc2a4, \uc778\uacf5\uc9c0\ub2a5 \uc5d0\uc774\uc804\ud2b8\ub85c \uc740\ud589\uc758 \uace0\uac1d \uc2ec\uc0ac \ubc0f \uc628\ubcf4\ub529 \uc5ed\ud560 \uc790\ub3d9\ud654 \uc608\uc815\n  > Summary: \uace8\ub4dc\ub9cc\uc0ad\uc2a4\ub294 \uc778\uacf5\uc9c0\ub2a5 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \uc564\ud2b8\ub85c\ud53d\uacfc \ud611\ub825\ud558\uc5ec \uc740\ud589\uc758 \uace0\uac1d \uc2ec\uc0ac \ubc0f \uc628\ubcf4\ub529\uc744 \ud3ec\ud568\ud55c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 12:21:53",
       "message": "[PROCESSING] Analyzing: A federal jury in Phoenix ordered Uber to pay $8.5M to a passenger who said a driver sexually assaulted her in 2023, the first case where Uber was found liable (Emily Steel/New York Times)..."
+    },
+    {
+      "timestamp": "2026-02-06 12:21:55",
+      "message": "[SKIP] Irrelevant (AI Filter): A federal jury in Phoenix ordered Uber to pay $8.5M to a passenger who said a driver sexually assaulted her in 2023, the first case where Uber was found liable (Emily Steel/New York Times)"
     }
   ]
 }
