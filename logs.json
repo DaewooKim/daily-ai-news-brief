@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 23:27:12",
+  "last_updated": "2026-02-06 23:27:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 23:26:39",
-      "message": "Reprocessing: Data Center Events 2026: Previewing the Biggest Data Center Conferences of the Year"
-    },
     {
       "timestamp": "2026-02-06 23:26:40",
       "message": "[PROCESSING] Analyzing: Data Center Events 2026: Previewing the Biggest Data Center Conferences of the Year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 23:27:12",
       "message": "[PROCESSING] Analyzing: Amazon's annual tax bill fell 87% YoY to $1.2B in 2025, as profits grew 45% to ~$90B, mostly due to GOP's depreciation breaks in the One Big Beautiful Bill (Brian Faler/Politico)..."
+    },
+    {
+      "timestamp": "2026-02-06 23:27:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon's annual tax bill fell 87% YoY to $1.2B in 2025, as profits grew 45% to ~$90B, mostly due to GOP's depreciation breaks in the One Big Beautiful Bill (Brian Faler/Politico)"
     }
   ]
 }
