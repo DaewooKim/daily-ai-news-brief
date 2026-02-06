@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 12:22:17",
+  "last_updated": "2026-02-06 12:22:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 12:21:40",
-      "message": "[PROCESSING] Analyzing: Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel (Marina Temkin/TechCrunch)..."
-    },
     {
       "timestamp": "2026-02-06 12:21:44",
       "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8\uac00 \ud544\uc694\ud55c \uc11c\ube44\uc2a4\ub97c \uc790\ub3d9\uc73c\ub85c \uad6c\ub9e4\ud560 \uc218 \uc788\ub3c4\ub85d \uae30\uc5c5\uc744 \uc704\ud55c \uae08\uc735 \ub808\uc774\uc5b4\ub97c \uac1c\ubc1c\ud558\ub294 Sapiom, Accel \uc8fc\ub3c4\ub85c 1500\ub9cc \ub2ec\ub7ec \uc2dc\ub4dc \ud22c\uc790 \uc720\uce58\n  > Summary: Sapiom\uc774 AI \uc5d0\uc774\uc804\ud2b8\uac00 \ud544\uc694\ud55c \uc11c\ube44\uc2a4\ub97c \uc790\ub3d9\uc73c\ub85c \uad6c\ub9e4\ud560 \uc218 \uc788\ub294 \uae08\uc735 \ub808\uc774\uc5b4\ub97c \uac1c\ubc1c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 12:22:17",
       "message": "[PROCESSING] Analyzing: AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter..."
+    },
+    {
+      "timestamp": "2026-02-06 12:22:19",
+      "message": "[SKIP] Irrelevant (AI Filter): AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter"
     }
   ]
 }
