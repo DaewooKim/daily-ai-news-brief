@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-06 11:15:08",
+  "last_updated": "2026-02-06 11:15:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-06 11:14:33",
-      "message": "[SUCCESS] Processed: IBM, Synopsys, 1.4nm \ub178\ub4dc\ub85c\uc758 \uc9c4\uc804\uc744 \uc704\ud55c \uc5f4 \ubaa8\ub378\ub9c1 \uae30\uc220 \uac1c\ubc1c\n  > Summary: IBM\uc740 Synopsys\uc640 \ud568\uaed8 \uac1c\ubc1c\ud55c \uc0c8\ub85c\uc6b4 \uc5f4 \ubaa8\ub378\ub9c1 \uae30\uc220\uc744 \ud1b5\ud574 1.4nm \ub178\ub4dc\ub85c \ub098..."
-    },
     {
       "timestamp": "2026-02-06 11:14:34",
       "message": "[PROCESSING] Analyzing: Manufacturing Sector Returns to Growth in January..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-06 11:15:08",
       "message": "[PROCESSING] Analyzing: Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-06 11:15:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)"
     }
   ]
 }
