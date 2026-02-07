@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-07 21:20:53",
+  "last_updated": "2026-02-07 21:20:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-07 21:20:20",
-      "message": "[SUCCESS] Processed: AWS \uc218\uc775, \ud074\ub77c\uc6b0\ub4dc \uc218\uc694 \uc99d\uac00\ub85c \uacc4\uc18d\ud574\uc11c \uc0c1\uc2b9\n  > Summary: AWS\ub294 2025\ub144 4\ubd84\uae30 AI\uac00 AWS \ucc44\ud0dd\uc744 \ucd09\uc9c4\ud568\uc5d0 \ub530\ub77c 13\ubd84\uae30 \ub9cc\uc5d0 \ucd5c\uace0\uc758 \uc218\uc775 ..."
-    },
     {
       "timestamp": "2026-02-07 21:20:22",
       "message": "Reprocessing: OpenAI launches\u00a0a way for enterprises to build and\u00a0manage AI agents"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-07 21:20:53",
       "message": "[PROCESSING] Analyzing: Community-First Data Centers: Engagement That Works..."
+    },
+    {
+      "timestamp": "2026-02-07 21:20:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Community-First Data Centers: Engagement That Works"
     }
   ]
 }
