@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-07 07:09:14",
+  "last_updated": "2026-02-07 07:09:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-07 07:08:40",
-      "message": "[PROCESSING] Analyzing: SiTime to Acquire Renesas\u2019 Timing Business..."
-    },
     {
       "timestamp": "2026-02-07 07:08:43",
       "message": "[SUCCESS] Processed: SiTime\uac00 Renesas\uc758 \ud0c0\uc774\ubc0d \uc0ac\uc5c5\ubd80 \uc778\uc218\n  > Summary: SiTime\ub294 Renesas\uc758 \ud0c0\uc774\ubc0d \uc0ac\uc5c5\ubd80\ub97c \uc778\uc218\ud558\uae30 \uc704\ud55c \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-07 07:09:14",
       "message": "[PROCESSING] Analyzing: Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification..."
+    },
+    {
+      "timestamp": "2026-02-07 07:09:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification"
     }
   ]
 }
