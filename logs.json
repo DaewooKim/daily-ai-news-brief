@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-07 06:03:24",
+  "last_updated": "2026-02-07 06:03:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-07 06:02:50",
-      "message": "[PROCESSING] Analyzing: SiTime to Acquire Renesas\u2019 Timing Business..."
-    },
     {
       "timestamp": "2026-02-07 06:02:54",
       "message": "[SUCCESS] Processed: SiTime, Renesas\uc758 \ud0c0\uc774\ubc0d \ube44\uc988\ub2c8\uc2a4 \uc778\uc218\n  > Summary: SiTime Corporation\uc774 Renesas Electronics\uc758 \ud0c0\uc774\ubc0d \ube44\uc988\ub2c8\uc2a4\ub97c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-07 06:03:24",
       "message": "[PROCESSING] Analyzing: Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification..."
+    },
+    {
+      "timestamp": "2026-02-07 06:03:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification"
     }
   ]
 }
