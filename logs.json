@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-07 09:20:17",
+  "last_updated": "2026-02-07 09:20:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-07 09:19:42",
-      "message": "[PROCESSING] Analyzing: Sources: London-based 9fin, a data provider for debt markets, is in talks to raise as much as $150M at a pre-money valuation of $1B, about 20x its ARR of ~$50M (Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-07 09:19:44",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: London-based 9fin, a data provider for debt markets, is in talks to raise as much as $150M at a pre-money valuation of $1B, about 20x its ARR of ~$50M (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-07 09:20:17",
       "message": "[PROCESSING] Analyzing: AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter..."
+    },
+    {
+      "timestamp": "2026-02-07 09:20:18",
+      "message": "[SKIP] Irrelevant (AI Filter): AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter"
     }
   ]
 }
