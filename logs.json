@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-07 01:41:43",
+  "last_updated": "2026-02-07 01:41:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-07 01:41:18",
-      "message": "[SKIP] Content too short: Cloud-native observability ent..."
-    },
     {
       "timestamp": "2026-02-07 01:41:20",
       "message": "Reprocessing: Anthropic rolls out Claude Opus 4.6 with 1 million-token context support"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-07 01:41:43",
       "message": "[PROCESSING] Analyzing: QNAP TS-h1290FX NAS Review The All Flash 25GbE NAS..."
+    },
+    {
+      "timestamp": "2026-02-07 01:41:47",
+      "message": "[SUCCESS] Processed: QNAP TS-h1290FX NAS \ub9ac\ubdf0: \uc62c \ud50c\ub798\uc2dc 25GbE NAS\n  > Summary: QNAP TS-h1290FX \ub9ac\ubdf0\uc5d0\uc11c\ub294 AMD EPYC\ub85c \uad6c\ub3d9\ub418\ub294 \uc62c \ud50c\ub798\uc2dc ZFS NAS..."
     }
   ]
 }
