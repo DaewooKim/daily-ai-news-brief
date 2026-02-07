@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-07 19:10:00",
+  "last_updated": "2026-02-07 19:10:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-07 19:09:29",
-      "message": "Reprocessing: Data Center Events 2026: Previewing the Biggest Data Center Conferences of the Year"
-    },
     {
       "timestamp": "2026-02-07 19:09:30",
       "message": "[PROCESSING] Analyzing: Data Center Events 2026: Previewing the Biggest Data Center Conferences of the Year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-07 19:10:00",
       "message": "[PROCESSING] Analyzing: RADICL, which offers threat detection and response services to SMBs supporting US defense industrial base and critical infrastructure, raised a $31M Series A (Duncan Riley/SiliconANGLE)..."
+    },
+    {
+      "timestamp": "2026-02-07 19:10:02",
+      "message": "[SKIP] Irrelevant (AI Filter): RADICL, which offers threat detection and response services to SMBs supporting US defense industrial base and critical infrastructure, raised a $31M Series A (Duncan Riley/SiliconANGLE)"
     }
   ]
 }
