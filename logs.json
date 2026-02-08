@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 16:56:39",
+  "last_updated": "2026-02-08 16:56:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 16:56:09",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc218\ud559\uc801 \ub2a5\ub825\uc744 \uc2dc\ud5d8\ud558\ub294 \"\uccab \ubc88\uc9f8 \uc99d\uba85\" \uc2e4\ud5d8 \ubc30\uacbd \uc804\ubb38\uac00\ub4e4\uacfc\uc758 Q&A\n  > Summary: \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 '\uccab \ubc88\uc9f8 \uc99d\uba85' \uc2e4\ud5d8\uc744 \ud1b5\ud574 AI\uc758 \uc218\ud559\uc801 \ub2a5\ub825\uc744 \ud14c\uc2a4\ud2b8\ud558\ub294 \uc218\ud559\uc790\ub4e4\uacfc\uc758 ..."
-    },
     {
       "timestamp": "2026-02-08 16:56:10",
       "message": "[PROCESSING] Analyzing: Sources: iPhone 17e with MagSafe is coming soon; iOS 26.4 beta with updated Siri slated for the week of Feb. 23, M5 MacBook Pros as early as the week of Mar. 2 (Mark Gurman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 16:56:39",
       "message": "[PROCESSING] Analyzing: Thermal Characterization For Power Semiconductor Packages (KATECH)..."
+    },
+    {
+      "timestamp": "2026-02-08 16:56:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermal Characterization For Power Semiconductor Packages (KATECH)"
     }
   ]
 }
