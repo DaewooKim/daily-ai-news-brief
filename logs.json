@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 03:52:18",
+  "last_updated": "2026-02-08 03:52:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 03:51:47",
-      "message": "[SUCCESS] Processed: \ubaa8\ub450\ub97c \uc704\ud574, \uc5b4\ub514\uc11c\ub098 \uc791\ub3d9\ud558\ub294 AI \ub9cc\ub4e4\uae30: \uc6b0\ub9ac\uc758 \ub85c\uceec\ub77c\uc774\uc81c\uc774\uc158 \uc811\uadfc\ubc95\n  > Summary: OpenAI\ub294 AI \ub85c\uceec\ub77c\uc774\uc81c\uc774\uc158\uc5d0 \ub300\ud55c \uc811\uadfc\ubc95\uc744 \uacf5\uc720\ud558\uba70, \uc548\uc804\uc131\uc744 \uc800\ud574\ud558\uc9c0 \uc54a\uc73c\uba74\uc11c \uae00..."
-    },
     {
       "timestamp": "2026-02-08 03:51:49",
       "message": "[PROCESSING] Analyzing: Korea privacy policy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 03:52:18",
       "message": "[PROCESSING] Analyzing: SiTime Bolsters Timing Portfolio with Renesas-Acquired Clocks..."
+    },
+    {
+      "timestamp": "2026-02-08 03:52:20",
+      "message": "[SKIP] Irrelevant (AI Filter): SiTime Bolsters Timing Portfolio with Renesas-Acquired Clocks"
     }
   ]
 }
