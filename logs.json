@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 20:10:46",
+  "last_updated": "2026-02-08 20:10:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 20:10:09",
-      "message": "[PROCESSING] Analyzing: You need to listen to the new Mandy, Indiana record: URGH..."
-    },
     {
       "timestamp": "2026-02-08 20:10:11",
       "message": "[SKIP] Irrelevant (AI Filter): You need to listen to the new Mandy, Indiana record: URGH"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 20:10:46",
       "message": "[SUCCESS] Processed: AWS\ub97c \ucd94\uc9c4\ud558\ub294 \uc30d\ub465\uc774 \uc5d4\uc9c4 \uc804\ub7b5\uc740 \uc798 \uc791\ub3d9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: \uc544\ub9c8\uc874\uc740 \uad6c\uae00\uacfc \uba54\ud0c0 \ud50c\ub7ab\ud3fc\ucc98\ub7fc AI\ub97c \uc628\ub77c\uc778 \uc18c\ub9e4, \uc6b4\uc1a1, \uad11\uace0 \ubc0f \uc544\ub9c8\uc874 \uc6f9 \uc11c\ube44\uc2a4 \ud074..."
+    },
+    {
+      "timestamp": "2026-02-08 20:10:47",
+      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
     }
   ]
 }
