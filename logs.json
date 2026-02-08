@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 12:34:47",
+  "last_updated": "2026-02-08 12:34:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 12:34:13",
-      "message": "[PROCESSING] Analyzing: AWS revenue continues to soar as cloud demand remains high..."
-    },
     {
       "timestamp": "2026-02-08 12:34:16",
       "message": "[SUCCESS] Processed: AWS \uc218\uc775\uc774 \uacc4\uc18d \uc99d\uac00\ud558\uba70 \ud074\ub77c\uc6b0\ub4dc \uc218\uc694\uac00 \ub192\uac8c \uc720\uc9c0\ub428\n  > Summary: AWS\ub294 2025\ub144 4\ubd84\uae30\uc5d0 AI\uac00 AWS \ucc44\ud0dd\uc744 \ucd09\uc9c4\ud568\uc5d0 \ub530\ub77c 13\ubd84\uae30 \ub9cc\uc5d0 \ucd5c\uace0\uc758 \uc218\uc775..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 12:34:47",
       "message": "[PROCESSING] Analyzing: European countries are moving toward social media bans for children, even as doubts persist over implementation and the risk of a new battle with US tech groups (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-02-08 12:34:48",
+      "message": "[SKIP] Irrelevant (AI Filter): European countries are moving toward social media bans for children, even as doubts persist over implementation and the risk of a new battle with US tech groups (Financial Times)"
     }
   ]
 }
