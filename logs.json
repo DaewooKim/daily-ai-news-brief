@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 04:57:54",
+  "last_updated": "2026-02-08 04:57:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 04:57:22",
-      "message": "[PROCESSING] Analyzing: AWS revenue continues to soar as cloud demand remains high..."
-    },
     {
       "timestamp": "2026-02-08 04:57:24",
       "message": "[SUCCESS] Processed: AWS \uc218\uc775, \ud074\ub77c\uc6b0\ub4dc \uc218\uc694 \uc99d\uac00\ub85c \uacc4\uc18d \uc0c1\uc2b9\n  > Summary: AWS\ub294 2025\ub144 4\ubd84\uae30\uc5d0 AI\uc758 \ub3c4\uc785\uc73c\ub85c \uc778\ud574 AWS \ucc44\ud0dd\uc774 \uc99d\uac00\ud558\uba74\uc11c 13\ubd84\uae30 \ub9cc\uc5d0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 04:57:54",
       "message": "[PROCESSING] Analyzing: Sources: Mercor rival micro1 has told investors it is now generating $200M in recurring revenue; Mercor is offering micro1 employees signing bonuses up to $2M (Anna Tong/Forbes)..."
+    },
+    {
+      "timestamp": "2026-02-08 04:57:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Mercor rival micro1 has told investors it is now generating $200M in recurring revenue; Mercor is offering micro1 employees signing bonuses up to $2M (Anna Tong/Forbes)"
     }
   ]
 }
