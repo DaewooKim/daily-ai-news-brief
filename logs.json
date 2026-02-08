@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 14:45:24",
+  "last_updated": "2026-02-08 14:45:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 14:44:48",
-      "message": "[PROCESSING] Analyzing: AWS revenue continues to soar as cloud demand remains high..."
-    },
     {
       "timestamp": "2026-02-08 14:44:51",
       "message": "[SUCCESS] Processed: AWS \uc218\uc775, \ud074\ub77c\uc6b0\ub4dc \uc218\uc694 \uc99d\uac00\ub85c \uacc4\uc18d \uc0c1\uc2b9\n  > Summary: AWS\ub294 2025\ub144 4\ubd84\uae30\uc5d0 AI \ub355\ubd84\uc5d0 AWS \ucc44\ud0dd\uc774 \ucd09\uc9c4\ub418\uba70 13 \ubd84\uae30 \ub9cc\uc5d0 \uac00\uc7a5 \ub192\uc740..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 14:45:24",
       "message": "[PROCESSING] Analyzing: Analysis: World Liberty Financial has earned the Trump family at least $1.2B in cash since its launch, while the Witkoff family has earned at least $200M (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-02-08 14:45:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Analysis: World Liberty Financial has earned the Trump family at least $1.2B in cash since its launch, while the Witkoff family has earned at least $200M (Wall Street Journal)"
     }
   ]
 }
