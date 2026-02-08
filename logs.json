@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 22:23:02",
+  "last_updated": "2026-02-08 22:23:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 22:22:28",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \uae08\uc735\uc774 \uc0c8\ub85c\uc6b4 \uc2dc\ub300\uc5d0 \uc811\uc5b4\ub4e4\ub2e4: \uacbd\uc601\uc9c4\uc774 \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d\n  > Summary: AI \uc778\ud504\ub77c \uae08\uc735\uc774 \uae09\uaca9\ud788 \uc9c4\ud654\ud558\uace0 \uc788\uc73c\uba70, CFO\ub4e4\uc740 \ucef4\ud4e8\ud305 \ubc0f \uc790\ubcf8 \ud6a8\uc728\uc131\uc744 \ud655\uc7a5\ud558\uae30 ..."
-    },
     {
       "timestamp": "2026-02-08 22:22:30",
       "message": "Reprocessing: Data Center Events 2026: Previewing the Biggest Data Center Conferences of the Year"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 22:23:02",
       "message": "[PROCESSING] Analyzing: This year's projected capex ramp-up will all but wipe out free cash flow for Amazon, Google, and Meta, potentially forcing stock buyback cuts or more borrowing (Martin Peers/The Information)..."
+    },
+    {
+      "timestamp": "2026-02-08 22:23:03",
+      "message": "[SKIP] Irrelevant (AI Filter): This year's projected capex ramp-up will all but wipe out free cash flow for Amazon, Google, and Meta, potentially forcing stock buyback cuts or more borrowing (Martin Peers/The Information)"
     }
   ]
 }
