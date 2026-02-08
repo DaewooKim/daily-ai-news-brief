@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 23:27:08",
+  "last_updated": "2026-02-08 23:27:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 23:26:34",
-      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
-    },
     {
       "timestamp": "2026-02-08 23:26:36",
       "message": "[PROCESSING] Analyzing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 23:27:08",
       "message": "[PROCESSING] Analyzing: Crypto.com places $70M bet on AI.com domain ahead of Super Bowl..."
+    },
+    {
+      "timestamp": "2026-02-08 23:27:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto.com places $70M bet on AI.com domain ahead of Super Bowl"
     }
   ]
 }
