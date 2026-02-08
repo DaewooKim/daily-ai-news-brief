@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 17:59:59",
+  "last_updated": "2026-02-08 18:00:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 17:59:17",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-08 17:59:28",
       "message": "Found 164 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 17:59:59",
       "message": "[SKIP] Irrelevant (AI Filter): GOG is already working on native Linux support"
+    },
+    {
+      "timestamp": "2026-02-08 18:00:00",
+      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
     }
   ]
 }
