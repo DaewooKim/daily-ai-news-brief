@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-08 19:05:56",
+  "last_updated": "2026-02-08 19:05:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-08 19:05:21",
-      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
-    },
     {
       "timestamp": "2026-02-08 19:05:22",
       "message": "[PROCESSING] Analyzing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-08 19:05:56",
       "message": "[PROCESSING] Analyzing: How Elon Musk is rewriting the rules on founder power..."
+    },
+    {
+      "timestamp": "2026-02-08 19:05:57",
+      "message": "[SKIP] Irrelevant (AI Filter): How Elon Musk is rewriting the rules on founder power"
     }
   ]
 }
