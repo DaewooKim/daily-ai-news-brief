@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 19:43:14",
+  "last_updated": "2026-02-09 19:43:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 19:42:44",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-09 19:42:44",
       "message": "[PROCESSING] Analyzing: Apple is killing the old HomeKit tomorrow..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 19:43:14",
       "message": "[SUCCESS] Processed: NVIDIA TensorRT LLM \uc790\ub3d9 \ubc30\ud3ec\ub85c \ucd94\ub860 \ucd5c\uc801\ud654 \uc790\ub3d9\ud654\ud558\uae30\n  > Summary: NVIDIA TensorRT LLM\uc740 \ub300\uaddc\ubaa8 \uc5b8\uc5b4 \ubaa8\ub378(LLM)\uc744 \uc704\ud55c \uace0\uc131\ub2a5 \ucd94\ub860 \uc5d4\uc9c4\uc744..."
+    },
+    {
+      "timestamp": "2026-02-09 19:43:15",
+      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
     }
   ]
 }
