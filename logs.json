@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 09:14:01",
+  "last_updated": "2026-02-09 09:14:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 09:13:23",
-      "message": "[PROCESSING] Analyzing: OpenAI\u2019s supposedly \u2018leaked\u2019 Super Bowl ad with ear buds and a shiny orb was a hoax..."
-    },
     {
       "timestamp": "2026-02-09 09:13:25",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI\u2019s supposedly \u2018leaked\u2019 Super Bowl ad with ear buds and a shiny orb was a hoax"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 09:14:01",
       "message": "Reprocessing: \u200bSequential Attention: Making AI models leaner and faster without sacrificing accuracy"
+    },
+    {
+      "timestamp": "2026-02-09 09:14:03",
+      "message": "[SKIP] Content too short: \u200bSequential Attention: Making ..."
     }
   ]
 }
