@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 01:37:08",
+  "last_updated": "2026-02-09 01:37:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 01:36:31",
-      "message": "[PROCESSING] Analyzing: YouTube Music starts putting lyrics behind a paywall..."
-    },
     {
       "timestamp": "2026-02-09 01:36:33",
       "message": "[SKIP] Irrelevant (AI Filter): YouTube Music starts putting lyrics behind a paywall"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 01:37:08",
       "message": "Reprocessing: \u200bSequential Attention: Making AI models leaner and faster without sacrificing accuracy"
+    },
+    {
+      "timestamp": "2026-02-09 01:37:10",
+      "message": "[SKIP] Content too short: \u200bSequential Attention: Making ..."
     }
   ]
 }
