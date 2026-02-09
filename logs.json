@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 21:55:35",
+  "last_updated": "2026-02-09 21:55:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 21:54:52",
-      "message": "[PROCESSING] Analyzing: Testing ads in ChatGPT..."
-    },
     {
       "timestamp": "2026-02-09 21:54:55",
       "message": "[SUCCESS] Processed: ChatGPT\uc5d0\uc11c \uad11\uace0 \ud14c\uc2a4\ud2b8\n  > Summary: OpenAI\uac00 ChatGPT\uc5d0\uc11c \uad11\uace0 \ud14c\uc2a4\ud2b8\ub97c \uc2dc\uc791\ud558\uc5ec \ubb34\ub8cc \uc811\uadfc\uc744 \uc9c0\uc6d0\ud569\ub2c8\ub2e4. \uad11\uace0\ub294 \uba85..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 21:55:35",
       "message": "[SUCCESS] Processed: \uc548\ud2b8\ub85c\ud53d, \uc778\ub3c4 \ud655\uc7a5\uc774 \uc774\ubbf8 \uc874\uc7ac\ud558\ub294 \uc774\ub984\uc744 \uac00\uc9c4 \uc9c0\uc5ed \ud68c\uc0ac\uc640 \ucda9\ub3cc\n  > Summary: \uc778\ub3c4\uc758 \uc548\ud2b8\ub85c\ud53d \uc18c\ud504\ud2b8\uc6e8\uc5b4\uac00 \ubbf8\uad6d\uc758 AI \ub300\uae30\uc5c5\uc744 \uc0c1\ub300\ub85c \uc774\ub984 \ubd84\uc7c1\uc73c\ub85c \ubc95\uc6d0\uc5d0 \uc18c\uc1a1\uc744 \uc81c\uae30..."
+    },
+    {
+      "timestamp": "2026-02-09 21:55:37",
+      "message": "Reprocessing: ChatGPT rolls out ads"
     }
   ]
 }
