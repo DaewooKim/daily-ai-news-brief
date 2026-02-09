@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-02-09 19:43:49",
+  "last_updated": "2026-02-09 19:43:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 19:43:15",
-      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
-    },
-    {
-      "timestamp": "2026-02-09 19:43:17",
-      "message": "[PROCESSING] Analyzing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints..."
-    },
-    {
-      "timestamp": "2026-02-09 19:43:21",
-      "message": "[SUCCESS] Processed: NVIDIA GPU \uac00\uc18d \uc5d4\ub4dc\ud3ec\uc778\ud2b8\ub97c \uc774\uc6a9\ud55c Kimi K2.5 \uba40\ud2f0\ubaa8\ub2ec VLM\uc73c\ub85c \ube4c\ub4dc\ud558\uae30\n  > Summary: Kimi K2.5\ub294 Kimi \ubaa8\ub378 \uc2dc\ub9ac\uc988\uc758 \ucd5c\uc2e0 \uc624\ud508 \ube44\uc804 \uc5b8\uc5b4 \ubaa8\ub378(VLM)\uc785\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-02-09 19:43:22",
-      "message": "Reprocessing: How AI trained on birds is surfacing underwater mysteries"
-    },
     {
       "timestamp": "2026-02-09 19:43:24",
       "message": "[PROCESSING] Analyzing: How AI trained on birds is surfacing underwater mysteries..."
@@ -81,6 +65,22 @@
     {
       "timestamp": "2026-02-09 19:43:49",
       "message": "[PROCESSING] Analyzing: Introducing GPT-5.3-Codex..."
+    },
+    {
+      "timestamp": "2026-02-09 19:43:52",
+      "message": "[SUCCESS] Processed: GPT-5.3-Codex \uc18c\uac1c\n  > Summary: GPT-5.3-Codex\ub294 \ucca8\ub2e8 \ucf54\ub529 \uc131\ub2a5\uacfc \uc77c\ubc18\uc801\uc778 \ucd94\ub860\uc744 \uacb0\ud569\ud55c Codex-native..."
+    },
+    {
+      "timestamp": "2026-02-09 19:43:53",
+      "message": "[PROCESSING] Analyzing: Call\u00a0for\u00a0speakers: TechCrunch Founder Summit 2026..."
+    },
+    {
+      "timestamp": "2026-02-09 19:43:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Call\u00a0for\u00a0speakers: TechCrunch Founder Summit 2026"
+    },
+    {
+      "timestamp": "2026-02-09 19:43:55",
+      "message": "[PROCESSING] Analyzing: Crypto.com places $70M bet on AI.com domain ahead of Super Bowl..."
     }
   ]
 }
