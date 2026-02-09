@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 20:50:42",
+  "last_updated": "2026-02-09 20:50:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 20:50:07",
-      "message": "Reprocessing: OpenAI says it has started testing ads in ChatGPT in the US for logged-in adult users on the Free and Go tiers and that the ads do not change ChatGPT answers (OpenAI)"
-    },
     {
       "timestamp": "2026-02-09 20:50:08",
       "message": "[PROCESSING] Analyzing: OpenAI says it has started testing ads in ChatGPT in the US for logged-in adult users on the Free and Go tiers and that the ads do not change ChatGPT answers (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 20:50:42",
       "message": "[PROCESSING] Analyzing: Thermal Characterization For Power Semiconductor Packages (KATECH)..."
+    },
+    {
+      "timestamp": "2026-02-09 20:50:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermal Characterization For Power Semiconductor Packages (KATECH)"
     }
   ]
 }
