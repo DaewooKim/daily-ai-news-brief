@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-02-09 19:37:33",
+  "last_updated": "2026-02-09 19:37:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 19:36:56",
-      "message": "Starting automatic background collection..."
-    },
-    {
-      "timestamp": "2026-02-09 19:36:57",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-02-09 19:36:57",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-09 19:37:11",
       "message": "Found 155 articles within the last 5 days. Starting processing..."
@@ -77,6 +65,22 @@
     {
       "timestamp": "2026-02-09 19:37:33",
       "message": "[PROCESSING] Analyzing: Discord will require a face scan or ID for full access next month..."
+    },
+    {
+      "timestamp": "2026-02-09 19:37:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Discord will require a face scan or ID for full access next month"
+    },
+    {
+      "timestamp": "2026-02-09 19:37:37",
+      "message": "Reprocessing: Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy"
+    },
+    {
+      "timestamp": "2026-02-09 19:37:37",
+      "message": "[PROCESSING] Analyzing: Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy..."
+    },
+    {
+      "timestamp": "2026-02-09 19:37:39",
+      "message": "[SUCCESS] Processed: NVIDIA TensorRT LLM \uc790\ub3d9 \ubc30\ud3ec\ub85c \ucd94\ub860 \ucd5c\uc801\ud654 \uc790\ub3d9\ud654\n  > Summary: NVIDIA TensorRT LLM\uc740 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378(LLM)\uc744 \uc704\ud55c \uace0\uc131\ub2a5 \ucd94\ub860 \uc5d4\uc9c4\uc744 ..."
     }
   ]
 }
