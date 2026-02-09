@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 15:50:53",
+  "last_updated": "2026-02-09 15:50:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 15:50:16",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-09 15:50:16",
       "message": "[PROCESSING] Analyzing: YouTube TV\u2019s sports-focused package will cost $64.99 / month..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 15:50:53",
       "message": "[PROCESSING] Analyzing: OpenAI\u2019s supposedly \u2018leaked\u2019 Super Bowl ad with ear buds and a shiny orb was a hoax..."
+    },
+    {
+      "timestamp": "2026-02-09 15:50:55",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI\u2019s supposedly \u2018leaked\u2019 Super Bowl ad with ear buds and a shiny orb was a hoax"
     }
   ]
 }
