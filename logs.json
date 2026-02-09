@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 15:50:49",
+  "last_updated": "2026-02-09 15:50:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 15:50:01",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-02-09 15:50:01",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 15:50:49",
       "message": "[PROCESSING] Analyzing: This whistle fights fascists..."
+    },
+    {
+      "timestamp": "2026-02-09 15:50:51",
+      "message": "[SKIP] Irrelevant (AI Filter): This whistle fights fascists"
     }
   ]
 }
