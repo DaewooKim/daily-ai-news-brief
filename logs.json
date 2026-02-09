@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 20:50:14",
+  "last_updated": "2026-02-09 20:50:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 20:49:32",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \uba54\ubaa8\ub9ac \uc704\uae30\uc5d0\uc11c NOR \ud50c\ub798\uc2dc \uc8fc\ubaa9\n  > Summary: DRAM\uacfc NAND \ud50c\ub798\uc2dc \ubd80\uc871\uc5d0 \uc774\uc5b4 NOR \ud50c\ub798\uc2dc \uba54\ubaa8\ub9ac\uc5d0\uc11c\ub3c4 \uacf5\uae09 \uc704\uae30\uac00 \ubc1c\uc0dd\ud558\uace0 \uc788..."
-    },
     {
       "timestamp": "2026-02-09 20:49:34",
       "message": "[PROCESSING] Analyzing: Imec to Open R&D Center in Qatar..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 20:50:14",
       "message": "[PROCESSING] Analyzing: Lyft launches teen accounts in the US more than two years after Uber, with safety features such as PIN verification, real-time tracking, and audio recordings (Samantha Subin/CNBC)..."
+    },
+    {
+      "timestamp": "2026-02-09 20:50:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Lyft launches teen accounts in the US more than two years after Uber, with safety features such as PIN verification, real-time tracking, and audio recordings (Samantha Subin/CNBC)"
     }
   ]
 }
