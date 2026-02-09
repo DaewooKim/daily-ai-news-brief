@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-09 19:10:36",
+  "last_updated": "2026-02-09 19:10:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-09 19:08:29",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-09 19:08:44",
       "message": "Found 155 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-09 19:10:36",
       "message": "[SUCCESS] Processed: NVIDIA \ud150\uc11cRT LLM \uc790\ub3d9 \ubc30\ud3ec\ub85c \ucd94\ub860 \ucd5c\uc801\ud654 \uc790\ub3d9\ud654\n  > Summary: NVIDIA \ud150\uc11cRT LLM\uc740 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378(LLM)\uc744 \uc704\ud55c \uace0\uc131\ub2a5 \ucd94\ub860 \uc5d4\uc9c4\uc744 \uad6c\ucd95\ud560 ..."
+    },
+    {
+      "timestamp": "2026-02-09 19:10:47",
+      "message": "Reprocessing: Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints"
     }
   ]
 }
