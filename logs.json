@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 06:46:04",
+  "last_updated": "2026-02-10 06:46:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 06:45:26",
-      "message": "[PROCESSING] Analyzing: Bringing ChatGPT to GenAI.mil..."
-    },
     {
       "timestamp": "2026-02-10 06:45:31",
       "message": "[SUCCESS] Processed: GenAI.mil\uc5d0 ChatGPT \ub3c4\uc785\n  > Summary: OpenAI for Government\ub294 U.S. \ubc29\uc704\ud300\uc744 \uc704\ud574 \uc548\uc804\ud558\uace0 \ubcf4\uc548\uc774 \uac15\ud654\ub41c A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 06:46:04",
       "message": "[PROCESSING] Analyzing: The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features..."
+    },
+    {
+      "timestamp": "2026-02-10 06:46:06",
+      "message": "[SKIP] Irrelevant (AI Filter): The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features"
     }
   ]
 }
