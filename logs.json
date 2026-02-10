@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 05:40:47",
+  "last_updated": "2026-02-10 05:40:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 05:40:10",
-      "message": "Reprocessing: TSMC 3-nm Upgrade in Japan to Catch up With Demand"
-    },
     {
       "timestamp": "2026-02-10 05:40:11",
       "message": "[PROCESSING] Analyzing: TSMC 3-nm Upgrade in Japan to Catch up With Demand..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 05:40:47",
       "message": "[PROCESSING] Analyzing: Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC's US investment commitments (Aime Williams/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-02-10 05:40:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC's US investment commitments (Aime Williams/Financial Times)"
     }
   ]
 }
