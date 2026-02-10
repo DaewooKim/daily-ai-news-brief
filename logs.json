@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 19:06:14",
+  "last_updated": "2026-02-10 19:06:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 19:05:30",
-      "message": "[PROCESSING] Analyzing: Microsoft is automatically replacing Secure Boot certificates for older PCs before they start to expire later in 2026; Secure Boot was first introduced in 2011 (Jess Weatherbed/The Verge)..."
-    },
     {
       "timestamp": "2026-02-10 19:05:33",
       "message": "[SKIP] Irrelevant (AI Filter): Microsoft is automatically replacing Secure Boot certificates for older PCs before they start to expire later in 2026; Secure Boot was first introduced in 2011 (Jess Weatherbed/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 19:06:14",
       "message": "[PROCESSING] Analyzing: The EU grants Google unconditional antitrust approval for Google's $32B acquisition of cybersecurity startup Wiz, saying it does not raise competition concerns (Foo Yun Chee/Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-10 19:06:16",
+      "message": "[SKIP] Irrelevant (AI Filter): The EU grants Google unconditional antitrust approval for Google's $32B acquisition of cybersecurity startup Wiz, saying it does not raise competition concerns (Foo Yun Chee/Reuters)"
     }
   ]
 }
