@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 14:37:31",
+  "last_updated": "2026-02-10 14:37:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 14:36:50",
-      "message": "[PROCESSING] Analyzing: \uc624\ub298 \ubb50 \uc785\uc9c0? | \uae30\uc628\ubcc4 \uc637\ucc28\ub9bc..."
-    },
     {
       "timestamp": "2026-02-10 14:36:52",
       "message": "[SKIP] Irrelevant (AI Filter): \uc624\ub298 \ubb50 \uc785\uc9c0? | \uae30\uc628\ubcc4 \uc637\ucc28\ub9bc"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 14:37:31",
       "message": "Reprocessing: Cisco targets high-speed AI networking with 102.4Tbps chip, liquid-cooled switches"
+    },
+    {
+      "timestamp": "2026-02-10 14:37:33",
+      "message": "[SKIP] Content too short: Cisco targets high-speed AI ne..."
     }
   ]
 }
