@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 07:52:02",
+  "last_updated": "2026-02-10 07:52:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 07:51:26",
-      "message": "Reprocessing: Testing ads in ChatGPT"
-    },
     {
       "timestamp": "2026-02-10 07:51:28",
       "message": "[PROCESSING] Analyzing: Testing ads in ChatGPT..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 07:52:02",
       "message": "[PROCESSING] Analyzing: Crypto.com places $70M bet on AI.com domain ahead of Super Bowl..."
+    },
+    {
+      "timestamp": "2026-02-10 07:52:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto.com places $70M bet on AI.com domain ahead of Super Bowl"
     }
   ]
 }
