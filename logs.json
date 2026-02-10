@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 13:28:09",
+  "last_updated": "2026-02-10 13:28:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 13:27:37",
-      "message": "[PROCESSING] Analyzing: \uc624\ub298 \ubb50 \uc785\uc9c0? | \uae30\uc628\ubcc4 \uc637\ucc28\ub9bc..."
-    },
     {
       "timestamp": "2026-02-10 13:27:39",
       "message": "[SKIP] Irrelevant (AI Filter): \uc624\ub298 \ubb50 \uc785\uc9c0? | \uae30\uc628\ubcc4 \uc637\ucc28\ub9bc"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 13:28:09",
       "message": "Reprocessing: OpenAI starts displaying ads to some ChatGPT users in the US"
+    },
+    {
+      "timestamp": "2026-02-10 13:28:10",
+      "message": "[SKIP] Content too short: OpenAI starts displaying ads t..."
     }
   ]
 }
