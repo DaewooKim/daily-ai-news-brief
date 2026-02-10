@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 06:47:14",
+  "last_updated": "2026-02-10 06:47:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 06:46:41",
-      "message": "[SUCCESS] Processed: \ud30c\ub9ac \uc18c\uc7ac\uc758 \uc628\ub77c\uc778 \uae30\uc5c5 \ud589\uc0ac \uc608\uc57d \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \ub098\ubd80(Naboo), \ub77c\uc774\ud2b8\uc2a4\ud53c\ub4dc \uc8fc\ub3c4 \ud558\uc5d0 7\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \ud380\ub529 \uc720\uce58\n  > Summary: \ud30c\ub9ac \uae30\ubc18\uc758 \uc628\ub77c\uc778 \uae30\uc5c5 \ud589\uc0ac \uc608\uc57d \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \ub098\ubd80\uac00 \ub77c\uc774\ud2b8\uc2a4\ud53c\ub4dc\uc758 \uc8fc\ub3c4\ub85c 7\ucc9c\ub9cc \ub2ec\ub7ec ..."
-    },
     {
       "timestamp": "2026-02-10 06:46:42",
       "message": "[PROCESSING] Analyzing: A court filing in the iyO-OpenAI trademark case reveals OpenAI won't use the name \"io\" for its AI device, which isn't expected to ship before February 2027 (Maxwell Zeff/Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 06:47:14",
       "message": "[PROCESSING] Analyzing: Overview of Interface Dipole Engineering:  Formation Mechanisms, Control Methods, And Emerging Applications (SNU, Sejong U.)..."
+    },
+    {
+      "timestamp": "2026-02-10 06:47:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Overview of Interface Dipole Engineering:  Formation Mechanisms, Control Methods, And Emerging Applications (SNU, Sejong U.)"
     }
   ]
 }
