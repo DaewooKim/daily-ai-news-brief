@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 20:11:58",
+  "last_updated": "2026-02-10 20:12:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 20:11:18",
-      "message": "[SUCCESS] Processed: ChatGPT\uc5d0\uc11c \uad11\uace0 \ud14c\uc2a4\ud2b8\n  > Summary: OpenAI\ub294 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ubb34\ub8cc \uc811\uadfc\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 ChatGPT\uc5d0\uc11c \uad11\uace0 \ud14c\uc2a4\ud2b8\ub97c \uc2dc\uc791\ud588..."
-    },
     {
       "timestamp": "2026-02-10 20:11:19",
       "message": "Reprocessing: Bringing ChatGPT to GenAI.mil"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 20:11:58",
       "message": "[PROCESSING] Analyzing: Call\u00a0for\u00a0speakers: TechCrunch Founder Summit 2026..."
+    },
+    {
+      "timestamp": "2026-02-10 20:12:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Call\u00a0for\u00a0speakers: TechCrunch Founder Summit 2026"
     }
   ]
 }
