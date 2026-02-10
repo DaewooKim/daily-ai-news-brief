@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 15:44:50",
+  "last_updated": "2026-02-10 15:44:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 15:44:06",
-      "message": "[PROCESSING] Analyzing: Cadence rolls out ChipStack, an AI agent to help chipmakers like Nvidia speed up the complex chip design process by up to 10x by building a \"mental model\" (Stephen Nellis/Reuters)..."
-    },
     {
       "timestamp": "2026-02-10 15:44:10",
       "message": "[SUCCESS] Processed: Cadence, AI \uc5d0\uc774\uc804\ud2b8 ChipStack \ucd9c\uc2dc: Nvidia\uc640 \uac19\uc740 \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4\uc758 \ubcf5\uc7a1\ud55c \uce69 \uc124\uacc4 \ud504\ub85c\uc138\uc2a4 \uac00\uc18d\ud654\n  > Summary: Cadence Design Systems\ub294 \ud654\uc694\uc77c\uc5d0 Nvidia\uc640 \uac19\uc740 \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4\uac00 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 15:44:50",
       "message": "[PROCESSING] Analyzing: Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering..."
+    },
+    {
+      "timestamp": "2026-02-10 15:44:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering"
     }
   ]
 }
