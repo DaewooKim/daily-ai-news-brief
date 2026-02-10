@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 08:59:55",
+  "last_updated": "2026-02-10 08:59:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 08:59:14",
-      "message": "[SUCCESS] Processed: PitchBook: \uc720\ub7fd VC \ud22c\uc790, 2025\ub144 \ud3ec\uc2a4\ud2b8 \ud32c\ub370\ubbf9 \ucd5c\uace0\uce58\uc778 660\uc5b5 \uc720\ub85c\ub85c \uc804\ub144 \ub300\ube44 5% \uc99d\uac00; AI \uad00\ub828 \uac70\ub798 \ube44\uc911 35% \uc774\uc0c1, 235\uc5b5 \uc720\ub85c\ub85c 2024\ub144\uc758 177\uc5b5 \uc720\ub85c\uc5d0\uc11c \uc99d\uac00\n  > Summary: PitchBook\uc5d0 \ub530\ub974\uba74, 2025\ub144 \uc720\ub7fd\uc758 \ubca4\ucc98 \uce90\ud53c\ud0c8 \ud22c\uc790\uac00 \uc804\ub144 \ub300\ube44 5% \uc99d\uac00\ud558\uc5ec..."
-    },
     {
       "timestamp": "2026-02-10 08:59:15",
       "message": "[PROCESSING] Analyzing: French President Emmanuel Macron says the US could retaliate against EU countries, including France and Spain, over plans to ban children from social media (Leila Abboud/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 08:59:55",
       "message": "[PROCESSING] Analyzing: Resistance In Advanced Packages Is Now A System-Level Problem..."
+    },
+    {
+      "timestamp": "2026-02-10 08:59:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Resistance In Advanced Packages Is Now A System-Level Problem"
     }
   ]
 }
