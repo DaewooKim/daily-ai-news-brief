@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 19:06:17",
+  "last_updated": "2026-02-10 19:06:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 19:05:34",
-      "message": "Reprocessing: Sources: KPMG negotiated a 14% lower fee for its 2025 audit by threatening to find a new accountant if Grant Thornton didn't pass on its cost savings from AI (Stephen Foley/Financial Times)"
-    },
     {
       "timestamp": "2026-02-10 19:05:36",
       "message": "[PROCESSING] Analyzing: Sources: KPMG negotiated a 14% lower fee for its 2025 audit by threatening to find a new accountant if Grant Thornton didn't pass on its cost savings from AI (Stephen Foley/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 19:06:17",
       "message": "[PROCESSING] Analyzing: The UK FCA adds Blockchain.com to its registry of licensed crypto companies; Blockchain.com withdrew its application in 2022 and pivoted operations to Lithuania (Jamie Crawley/CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-02-10 19:06:19",
+      "message": "[SKIP] Irrelevant (AI Filter): The UK FCA adds Blockchain.com to its registry of licensed crypto companies; Blockchain.com withdrew its application in 2022 and pivoted operations to Lithuania (Jamie Crawley/CoinDesk)"
     }
   ]
 }
