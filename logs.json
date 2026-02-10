@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 07:53:19",
+  "last_updated": "2026-02-10 07:53:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 07:52:44",
-      "message": "[PROCESSING] Analyzing: PitchBook: European VC investments rose 5% YoY to a post-pandemic high of \u20ac66B in 2025; AI-related deals accounted for 35%+, or \u20ac23.5B, up from \u20ac17.7B in 2024 (Financial Times)..."
-    },
     {
       "timestamp": "2026-02-10 07:52:49",
       "message": "[SUCCESS] Processed: PitchBook: \uc720\ub7fd VC \ud22c\uc790\uae08, 2025\ub144 \ud3ec\uc2a4\ud2b8 \ud32c\ub370\ubbf9 \ucd5c\uace0\uc778 660\uc5b5 \uc720\ub85c\ub85c \uc804\ub144 \ub300\ube44 5% \uc0c1\uc2b9; AI \uad00\ub828 \uac70\ub798\uac00 35% \uc774\uc0c1, \uc989 235\uc5b5 \uc720\ub85c\uc5d0 \ub2ec\ud574 2024\ub144 177\uc5b5 \uc720\ub85c\uc5d0\uc11c \uc99d\uac00\n  > Summary: PitchBook\uc5d0 \ub530\ub974\uba74, \uc720\ub7fd\uc758 \ubca4\ucc98 \uce90\ud53c\ud0c8 \ud22c\uc790\uae08\uc774 2025\ub144\uc5d0 \ud3ec\uc2a4\ud2b8 \ud32c\ub370\ubbf9 \ucd5c\uace0\uc778..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 07:53:19",
       "message": "[SKIP] Irrelevant (AI Filter): Overview of Interface Dipole Engineering:  Formation Mechanisms, Control Methods, And Emerging Applications (SNU, Sejong U.)"
+    },
+    {
+      "timestamp": "2026-02-10 07:53:21",
+      "message": "Reprocessing: Comprehensive System-Level Performance Model For p-SRAM-Based IMC (USC, UW-Madison)"
     }
   ]
 }
