@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 17:58:56",
+  "last_updated": "2026-02-10 17:58:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 17:58:18",
-      "message": "[SUCCESS] Processed: \uc2a4\ud398\uc778 \uae30\ubc18\uc758 \uba40\ud2f0\ubc84\uc2a4, \uc5d0\ub108\uc9c0 \ubc0f \ucef4\ud4e8\ud305 \ube44\uc6a9 \uc808\uac10\uc744 \uc704\ud55c LLM \ucd95\uc18c \uc704\ud574 \uc57d 5\uc5b5 \uc720\ub85c \uc870\ub2ec \ub17c\uc758 \uc911\n  > Summary: \uc2a4\ud398\uc778 \uc778\uacf5\uc9c0\ub2a5 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\uc778 \uba40\ud2f0\ubc84\uc2a4 \ucef4\ud4e8\ud305 SL\uc774 \uc57d 5\uc5b5 \uc720\ub85c\ub97c \uc870\ub2ec\ud558\uae30 \uc704\ud574 \ub17c..."
-    },
     {
       "timestamp": "2026-02-10 17:58:20",
       "message": "[PROCESSING] Analyzing: Singapore blames Chinese-backed hacking group UNC3886 for a months-long cyber-espionage campaign that targeted its four largest telecommunication companies (Zack Whittaker/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 17:58:56",
       "message": "[PROCESSING] Analyzing: Information Flow Verification Framework Integrating Static and Formal Verification Methods At The Pre-Silicon Stage (U. of Florida)..."
+    },
+    {
+      "timestamp": "2026-02-10 17:58:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Information Flow Verification Framework Integrating Static and Formal Verification Methods At The Pre-Silicon Stage (U. of Florida)"
     }
   ]
 }
