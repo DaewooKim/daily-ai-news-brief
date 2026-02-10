@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 20:14:18",
+  "last_updated": "2026-02-10 20:14:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 20:13:30",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: crypto exchange Kraken has fired its CFO, Stephanie Lemmerman, ahead of its long-awaited IPO; Lemmerman joined Kraken from Dapper Labs in November 2024 (Ian Allison/CoinDesk)"
-    },
     {
       "timestamp": "2026-02-10 20:13:32",
       "message": "[PROCESSING] Analyzing: Doc: the EU proposes banning crypto transactions with Russia to prevent the circumvention of sanctions through platforms like A7 and stablecoins like A7A5 (Andy Bounds/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 20:14:18",
       "message": "[PROCESSING] Analyzing: Monolithic Power Systems Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-02-10 20:14:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Monolithic Power Systems Announces CFO Transition"
     }
   ]
 }
