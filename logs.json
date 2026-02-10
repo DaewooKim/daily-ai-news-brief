@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 14:31:39",
+  "last_updated": "2026-02-10 14:31:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 14:30:33",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-02-10 14:30:35",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 14:31:39",
       "message": "[PROCESSING] Analyzing: Riot is already cutting staff on its new fighting game..."
+    },
+    {
+      "timestamp": "2026-02-10 14:31:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Riot is already cutting staff on its new fighting game"
     }
   ]
 }
