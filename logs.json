@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 16:49:17",
+  "last_updated": "2026-02-10 16:49:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 16:48:31",
-      "message": "[PROCESSING] Analyzing: Telegram is reportedly being slowed down and restricted in Russia..."
-    },
     {
       "timestamp": "2026-02-10 16:48:34",
       "message": "[SKIP] Irrelevant (AI Filter): Telegram is reportedly being slowed down and restricted in Russia"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 16:49:17",
       "message": "[SUCCESS] Processed: NVIDIA TensorRT LLM \uc790\ub3d9\ud654\ub41c \ucd94\ub860 \ucd5c\uc801\ud654\n  > Summary: NVIDIA TensorRT LLM\uc740 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378(LLM)\uc744 \uc704\ud55c \uace0\uc131\ub2a5 \ucd94\ub860 \uc5d4\uc9c4\uc744 ..."
+    },
+    {
+      "timestamp": "2026-02-10 16:49:18",
+      "message": "Reprocessing: Testing ads in ChatGPT"
     }
   ]
 }
