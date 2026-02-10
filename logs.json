@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 08:59:26",
+  "last_updated": "2026-02-10 08:59:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 08:58:46",
-      "message": "[SUCCESS] Processed: NOR \ud50c\ub798\uc2dc, AI \uc8fc\ub3c4 \uba54\ubaa8\ub9ac \uc555\ubc15 \ub2e4\uc74c \ucc28\ub840\n  > Summary: DRAM \ubc0f NAND \ud50c\ub798\uc2dc \ubd80\uc871\uc5d0 \uc774\uc5b4, \ub610 \ub2e4\ub978 \uba54\ubaa8\ub9ac \ubd80\ubb38\uc5d0\uc11c \uacf5\uae09 \uc704\uae30\uac00 \ub2e4\uac00\uc624\uace0 ..."
-    },
     {
       "timestamp": "2026-02-10 08:58:48",
       "message": "[PROCESSING] Analyzing: Imec to Open R&D Center in Qatar..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 08:59:26",
       "message": "[PROCESSING] Analyzing: Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC's US investment commitments (Aime Williams/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-02-10 08:59:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC's US investment commitments (Aime Williams/Financial Times)"
     }
   ]
 }
