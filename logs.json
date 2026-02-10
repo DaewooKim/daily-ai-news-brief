@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 17:58:42",
+  "last_updated": "2026-02-10 17:58:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 17:57:59",
-      "message": "[SUCCESS] Processed: \ub274\uc624, SMB\ub97c \uc704\ud55c \ud56d\uc0c1 \ucf1c\uc838 \uc788\ub294 \ud504\ub7f0\ud2b8 \ub370\uc2a4\ud06c \uc5ed\ud560\uc744 \ud558\ub294 AI \uc74c\uc131 \ubc0f \ud14d\uc2a4\ud2b8 \uc5d0\uc774\uc804\ud2b8\ub97c \uc81c\uacf5, 2,500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \uc790\uae08 \uc870\ub2ec... \n  > Summary: \ub274\uc624(Newo)\ub294 \uc911\uc18c\uae30\uc5c5(SMB)\uc744 \uc704\ud55c \ud56d\uc0c1 \ucf1c\uc838 \uc788\ub294 \ud504\ub7f0\ud2b8 \ub370\uc2a4\ud06c \uc5ed\ud560\uc744 \ud558\ub294 AI..."
-    },
     {
       "timestamp": "2026-02-10 17:58:00",
       "message": "[PROCESSING] Analyzing: Microsoft is automatically replacing Secure Boot certificates for older PCs before they expire later this year; Secure Boot was first introduced in 2011 (Jess Weatherbed/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 17:58:42",
       "message": "[PROCESSING] Analyzing: Doc: the EU proposes banning crypto transactions with Russia to prevent the circumvention of sanctions through platforms like A7 and stablecoins like A7A5 (Andy Bounds/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-02-10 17:58:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Doc: the EU proposes banning crypto transactions with Russia to prevent the circumvention of sanctions through platforms like A7 and stablecoins like A7A5 (Andy Bounds/Financial Times)"
     }
   ]
 }
