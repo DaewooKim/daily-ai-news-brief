@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 23:36:41",
+  "last_updated": "2026-02-10 23:36:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 23:36:03",
-      "message": "[PROCESSING] Analyzing: OpenAI upgrades its Responses API to support agent skills and a complete terminal shell..."
-    },
     {
       "timestamp": "2026-02-10 23:36:08",
       "message": "[SUCCESS] Processed: OpenAI, \uc751\ub2f5 API\ub97c \uc5d0\uc774\uc804\ud2b8 \uae30\uc220 \ubc0f \uc644\uc804 \ud130\ubbf8\ub110 \uc178 \uc9c0\uc6d0\uc73c\ub85c \uc5c5\uadf8\ub808\uc774\ub4dc\ud558\ub2e4\n  > Summary: OpenAI\ub294 \ucd5c\uadfc \uc751\ub2f5 API\ub97c \uc5c5\uadf8\ub808\uc774\ub4dc\ud558\uc5ec \uc5d0\uc774\uc804\ud2b8\uac00 \uc6f9 \uac80\uc0c9, \ud30c\uc77c \uac80\uc0c9 \ub4f1 \uc5ec\ub7ec ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 23:36:41",
       "message": "[SKIP] Content too short: World model startup Runway clo..."
+    },
+    {
+      "timestamp": "2026-02-10 23:36:43",
+      "message": "Reprocessing: AI agent identity startup Keycard acquires Anchor.dev"
     }
   ]
 }
