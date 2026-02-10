@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-10 22:29:07",
+  "last_updated": "2026-02-10 22:29:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-10 22:28:20",
-      "message": "[PROCESSING] Analyzing: Microsoft is automatically replacing Secure Boot certificates for older PCs before they start to expire later in 2026; Secure Boot was first introduced in 2011 (Jess Weatherbed/The Verge)..."
-    },
     {
       "timestamp": "2026-02-10 22:28:22",
       "message": "[SKIP] Irrelevant (AI Filter): Microsoft is automatically replacing Secure Boot certificates for older PCs before they start to expire later in 2026; Secure Boot was first introduced in 2011 (Jess Weatherbed/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-10 22:29:07",
       "message": "[PROCESSING] Analyzing: Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering..."
+    },
+    {
+      "timestamp": "2026-02-10 22:29:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering"
     }
   ]
 }
