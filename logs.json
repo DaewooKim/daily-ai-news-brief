@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 11:47:24",
+  "last_updated": "2026-02-11 11:47:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 11:46:44",
-      "message": "[PROCESSING] Analyzing: A profile of South Korea's SK Hynix, a once unloved memory chipmaker that now enjoys 58% operating margins and a $438B market cap amid the global HBM shortage (Daniel Tudor/Financial Times)..."
-    },
     {
       "timestamp": "2026-02-11 11:46:48",
       "message": "[SUCCESS] Processed: \ud55c\ub54c \uc0ac\ub791\ubc1b\uc9c0 \ubabb\ud588\ub358 \uba54\ubaa8\ub9ac \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4 SK hynix\uc758 \ud504\ub85c\ud544, \ud604\uc7ac \uae00\ub85c\ubc8c HBM \ubd80\uc871 \uc18d\uc5d0\uc11c 58%\uc758 \uc601\uc5c5 \uc774\uc775\ub960\uacfc 4380\uc5b5 \ub2ec\ub7ec\uc758 \uc2dc\uc7a5 \uac00\uce58\ub97c \uc790\ub791\ud558\ub2e4\n  > Summary: \ud55c\uad6d\uc758 SK hynix\ub294 \ud55c\ub54c \uc8fc\ubaa9\ubc1b\uc9c0 \ubabb\ud588\ub358 \uba54\ubaa8\ub9ac \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4\ub85c, \ud604\uc7ac \uae00\ub85c\ubc8c HB..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 11:47:24",
       "message": "[PROCESSING] Analyzing: South Korea's Science Ministry blames Coupang's massive 2025 data leak on management failures and accuses it of defying a government order to preserve data logs (Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-11 11:47:26",
+      "message": "[SKIP] Irrelevant (AI Filter): South Korea's Science Ministry blames Coupang's massive 2025 data leak on management failures and accuses it of defying a government order to preserve data logs (Reuters)"
     }
   ]
 }
