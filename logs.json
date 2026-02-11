@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 06:13:01",
+  "last_updated": "2026-02-11 06:13:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 06:12:23",
-      "message": "[SUCCESS] Processed: ChatGPT\ub97c GenAI.mil\uc5d0 \ub3c4\uc785\ud558\uae30\n  > Summary: OpenAI for Government\ub294 U.S. \uad6d\ubc29\ud300\uc744 \uc704\ud55c \uc548\uc804\ud558\uace0 \ubcf4\uc548\uc774 \uac15\ud654\ub41c A..."
-    },
     {
       "timestamp": "2026-02-11 06:12:25",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 06:13:01",
       "message": "[PROCESSING] Analyzing: Vega raises $120M Series B to rethink how enterprises detect cyber threats..."
+    },
+    {
+      "timestamp": "2026-02-11 06:13:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Vega raises $120M Series B to rethink how enterprises detect cyber threats"
     }
   ]
 }
