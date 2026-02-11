@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 20:43:28",
+  "last_updated": "2026-02-11 20:43:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 20:42:47",
-      "message": "[PROCESSING] Analyzing: Here are the brands bringing ads to ChatGPT..."
-    },
     {
       "timestamp": "2026-02-11 20:42:51",
       "message": "[SUCCESS] Processed: ChatGPT\uc5d0 \uad11\uace0\ub97c \uac00\uc838\uc624\ub294 \ube0c\ub79c\ub4dc\ub4e4\n  > Summary: OpenAI\uac00 ChatGPT\uc5d0\uc11c \uad11\uace0 \ud30c\uc77c\ub7ff\uc744 \uacf5\uc2dd \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \ud0c0\uac9f\uacfc \ud3ec\ub4dc \uac19\uc740 \uc8fc\uc694 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 20:43:28",
       "message": "[PROCESSING] Analyzing: Okay, now exactly half of xAI\u2019s founding team has left the company..."
+    },
+    {
+      "timestamp": "2026-02-11 20:43:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Okay, now exactly half of xAI\u2019s founding team has left the company"
     }
   ]
 }
