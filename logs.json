@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 00:42:23",
+  "last_updated": "2026-02-11 00:42:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 00:41:47",
-      "message": "[PROCESSING] Analyzing: Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday (Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-11 00:41:49",
       "message": "[SKIP] Irrelevant (AI Filter): Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 00:42:23",
       "message": "[PROCESSING] Analyzing: Monolithic Power Systems Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-02-11 00:42:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Monolithic Power Systems Announces CFO Transition"
     }
   ]
 }
