@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 20:45:00",
+  "last_updated": "2026-02-11 20:45:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 20:44:18",
-      "message": "[SUCCESS] Processed: TSMC, \uc77c\ubcf8\uc5d0\uc11c 3nm \uc5c5\uadf8\ub808\uc774\ub4dc\ub85c \uc218\uc694\ub97c \ub9de\ucd94\ub2e4\n  > Summary: TSMC\ub294 \uc77c\ubcf8\uc758 \uae30\uc874 \uc2dc\uc124\uc744 3nm \ub178\ub4dc\ub85c \uc5c5\uadf8\ub808\uc774\ub4dc\ud560 \uacc4\ud68d\uc744 \uc138\uc6b0\uace0 \uc788\uc73c\uba70, \uc774\ub294 \uad6d\ub0b4..."
-    },
     {
       "timestamp": "2026-02-11 20:44:20",
       "message": "[PROCESSING] Analyzing: Bluetooth Tracking Agents Use Existing Hardware to Close Gaps in Asset Tracking..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 20:45:00",
       "message": "[PROCESSING] Analyzing: Inertia, co-founded by ex-Twilio CEO Jeff Lawson to build one of the world's most powerful lasers for a grid-scale fusion power plant, raised a $450M Series A (Tim De Chant/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-02-11 20:45:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Inertia, co-founded by ex-Twilio CEO Jeff Lawson to build one of the world's most powerful lasers for a grid-scale fusion power plant, raised a $450M Series A (Tim De Chant/TechCrunch)"
     }
   ]
 }
