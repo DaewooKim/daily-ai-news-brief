@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 18:30:57",
+  "last_updated": "2026-02-11 18:30:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 18:30:17",
-      "message": "[SUCCESS] Processed: Z.ai, \uc790\uc0ac\uc758 \ub300\ud45c \uc624\ud508 \uc6e8\uc774\ud2b8 \ubaa8\ub378 GLM-5 \ucd9c\uc2dc, \uc624\ud508\uc18c\uc2a4 \ubaa8\ub378 \uc911 \ucd94\ub860, \ucf54\ub529 \ubc0f \uc5d0\uc774\uc804\ud2b8 \uc791\uc5c5\uc5d0\uc11c \ucd5c\uace0 \uc131\ub2a5 \uc8fc\uc7a5\n  > Summary: Z.ai\ub294 \ubcf5\uc7a1\ud55c \uc2dc\uc2a4\ud15c \uacf5\ud559\uacfc \uc7a5\uae30 \uc5d0\uc774\uc804\ud2b8 \uc791\uc5c5\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 GLM-5\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-02-11 18:30:19",
       "message": "Reprocessing: Source: OpenAI disbanded its mission alignment team in recent weeks and transferred its employees; team lead Joshua Achiam will take on a \"chief futurist\" role (Casey Newton/Platformer)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 18:30:57",
       "message": "[PROCESSING] Analyzing: The Opening, Midgame and Endgame in Startups..."
+    },
+    {
+      "timestamp": "2026-02-11 18:30:59",
+      "message": "[SKIP] Irrelevant (AI Filter): The Opening, Midgame and Endgame in Startups"
     }
   ]
 }
