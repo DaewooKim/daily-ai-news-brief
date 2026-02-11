@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 18:28:48",
+  "last_updated": "2026-02-11 18:28:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 18:28:00",
-      "message": "[PROCESSING] Analyzing: Attending GTC? Join Us For An Exclusive Roundtable Dinner On AI Data Platforms..."
-    },
     {
       "timestamp": "2026-02-11 18:28:03",
       "message": "[SUCCESS] Processed: GTC\uc5d0 \ucc38\uc11d\ud558\uc2ed\ub2c8\uae4c? AI \ub370\uc774\ud130 \ud50c\ub7ab\ud3fc\uc5d0 \ub300\ud55c \ub3c5\uc810 \uc6d0\ud0c1 \uc800\ub141\uc5d0 \ucc38\uc5ec\ud558\uc138\uc694\n  > Summary: \uc774 \uae30\uc0ac\ub294 GTC \uc774\ubca4\ud2b8\uc5d0 \ucc38\uc11d\ud558\ub294 \ubd84\ub4e4\uc744 \ub300\uc0c1\uc73c\ub85c AI \ub370\uc774\ud130 \ud50c\ub7ab\ud3fc\uc5d0 \ub300\ud55c \ub3c5\uc810\uc801\uc778 \uc6d0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 18:28:48",
       "message": "[PROCESSING] Analyzing: Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-02-11 18:28:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026"
     }
   ]
 }
