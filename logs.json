@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 18:29:08",
+  "last_updated": "2026-02-11 18:29:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 18:28:20",
-      "message": "[SUCCESS] Processed: ChatGPT\ub97c GenAI.mil\ub85c \ubc30\ud3ec\ud558\uae30\n  > Summary: OpenAI for Government\ub294 GenAI.mil\uc5d0\uc11c \ub9de\ucda4\ud615 ChatGPT\ub97c \ubc30\ud3ec..."
-    },
     {
       "timestamp": "2026-02-11 18:28:22",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 18:29:08",
       "message": "[PROCESSING] Analyzing: Boston Dynamics CEO\u00a0Robert Playter\u00a0steps\u00a0down after 30 years at the company..."
+    },
+    {
+      "timestamp": "2026-02-11 18:29:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Boston Dynamics CEO\u00a0Robert Playter\u00a0steps\u00a0down after 30 years at the company"
     }
   ]
 }
