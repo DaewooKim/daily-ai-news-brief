@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 06:14:22",
+  "last_updated": "2026-02-11 06:14:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 06:13:44",
-      "message": "[PROCESSING] Analyzing: Docs: London-based AI chip startup Olix, founded by James Dacombe, CEO of brain monitoring startup CoMind, raised $220M led by Hummingbird at a $1B+ valuation (Tim Bradshaw/Financial Times)..."
-    },
     {
       "timestamp": "2026-02-11 06:13:49",
       "message": "[SUCCESS] Processed: \uc601\uad6d \ub7f0\ub358\uc758 AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \uc62c\ub9ad\uc2a4, 2\uc5b5 2000\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uba70 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uac00\uce58 \ud3c9\uac00\n  > Summary: \ub7f0\ub358\uc5d0 \ubcf8\uc0ac\ub97c \ub454 AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \uc62c\ub9ad\uc2a4\uac00 \ub1cc \ubaa8\ub2c8\ud130\ub9c1 \uc2a4\ud0c0\ud2b8\uc5c5 CoMind\uc758 CEO\uc778 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 06:14:22",
       "message": "[PROCESSING] Analyzing: Samsung announces a Galaxy Unpacked event on February 25 at 10am PT in San Francisco, where it is expected to introduce the Galaxy S26 series (Max Buondonno/The Shortcut)..."
+    },
+    {
+      "timestamp": "2026-02-11 06:14:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Samsung announces a Galaxy Unpacked event on February 25 at 10am PT in San Francisco, where it is expected to introduce the Galaxy S26 series (Max Buondonno/The Shortcut)"
     }
   ]
 }
