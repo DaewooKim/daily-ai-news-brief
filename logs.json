@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 17:20:16",
+  "last_updated": "2026-02-11 17:20:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 17:19:30",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-11 17:19:41",
       "message": "Found 151 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 17:20:16",
       "message": "[PROCESSING] Analyzing: El Paso flights resume after Mexican cartel drones reportedly trigger airspace closure..."
+    },
+    {
+      "timestamp": "2026-02-11 17:20:18",
+      "message": "[SKIP] Irrelevant (AI Filter): El Paso flights resume after Mexican cartel drones reportedly trigger airspace closure"
     }
   ]
 }
