@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 17:21:14",
+  "last_updated": "2026-02-11 17:21:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 17:20:31",
-      "message": "[PROCESSING] Analyzing: Harness engineering: leveraging Codex in an agent-first world..."
-    },
     {
       "timestamp": "2026-02-11 17:20:35",
       "message": "[SUCCESS] Processed: \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ud65c\uc6a9: \uc5d0\uc774\uc804\ud2b8 \uc911\uc2ec\uc758 \uc138\uacc4\uc5d0\uc11c Codex \ud65c\uc6a9\ud558\uae30\n  > Summary: \uc774 \uae30\uc0ac\ub294 Ryan Lopopolo\uac00 \uae30\uc220 \uc2a4\ud0dc\ud504\uc758 \uc77c\uc6d0\uc73c\ub85c\uc11c Codex\ub97c \ud65c\uc6a9\ud558\ub294 \ubc29\ubc95\uc5d0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 17:21:14",
       "message": "[PROCESSING] Analyzing: Boston Dynamics CEO\u00a0Robert Playter\u00a0steps\u00a0down after 30 years at the company..."
+    },
+    {
+      "timestamp": "2026-02-11 17:21:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Boston Dynamics CEO\u00a0Robert Playter\u00a0steps\u00a0down after 30 years at the company"
     }
   ]
 }
