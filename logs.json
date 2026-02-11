@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-11 02:54:49",
+  "last_updated": "2026-02-11 02:54:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-11 02:54:15",
-      "message": "[PROCESSING] Analyzing: Q&A with Siemens CEO Roland Busch on the company's 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more (Nilay Patel/The Verge)..."
-    },
     {
       "timestamp": "2026-02-11 02:54:19",
       "message": "[SUCCESS] Processed: \uc9c0\uba58\uc2a4 CEO \ub864\ub79c\ub4dc \ubd80\uc26c\uc640\uc758 Q&A: \ud68c\uc0ac\uc758 170\ub144 \uc774\uc0c1 \uc5ed\uc0ac, \uc790\ub3d9\ud654, 32\ub9cc \uc9c1\uc6d0 \uad00\ub9ac, \ubbf8\uad6d \uc81c\uc870 \ud22c\uc790, LLM \ubcf4\uac15 \ub4f1\n  > Summary: \uc774\ubc88 \uc778\ud130\ubdf0\uc5d0\uc11c\ub294 \uc9c0\uba58\uc2a4 CEO \ub864\ub79c\ub4dc \ubd80\uc26c\uac00 \ud68c\uc0ac\uc758 170\ub144 \uc774\uc0c1\uc758 \uc5ed\uc0ac\uc640 \uc790\ub3d9\ud654, 32..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-11 02:54:49",
       "message": "[PROCESSING] Analyzing: Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-02-11 02:54:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday (Bloomberg)"
     }
   ]
 }
