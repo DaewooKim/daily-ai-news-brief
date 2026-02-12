@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 20:05:34",
+  "last_updated": "2026-02-12 20:05:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 20:04:46",
-      "message": "[SUCCESS] Processed: \uc804\uae30\ucc28\ub97c \uc704\ud55c \ucd5c\ucd08\uc758 AI \ub124\uc774\ud2f0\ube0c \ud480\uc2a4\ud0dd \uc18c\ub9e4 \uc2dc\uc7a5, Ever\uac00 Eclipse \uc8fc\ub3c4 \ud558\uc5d0 3100\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \uc790\uae08 \uc870\ub2ec\n  > Summary: Ever\ub294 \uc804\uae30\ucc28\ub97c \uc704\ud55c \ucd5c\ucd08\uc758 'AI \ub124\uc774\ud2f0\ube0c \ud480\uc2a4\ud0dd' \uc18c\ub9e4 \uc2dc\uc7a5\uc774\ub77c\uace0 \uc8fc\uc7a5\ud558\uba70, Ecl..."
-    },
     {
       "timestamp": "2026-02-12 20:04:48",
       "message": "[PROCESSING] Analyzing: Anthropic says its run-rate revenue hit $14B, growing over 10x annually in the past three years, and Claude Code's run-rate revenue hit $2.5B (Ashley Capoot/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 20:05:34",
       "message": "[PROCESSING] Analyzing: US DOJ antitrust chief Gail Slater says she is leaving, in a departure viewed as a victory for tech giants over some of MAGA's more populist voices (Axios)..."
+    },
+    {
+      "timestamp": "2026-02-12 20:05:36",
+      "message": "[SKIP] Irrelevant (AI Filter): US DOJ antitrust chief Gail Slater says she is leaving, in a departure viewed as a victory for tech giants over some of MAGA's more populist voices (Axios)"
     }
   ]
 }
