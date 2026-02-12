@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 22:23:19",
+  "last_updated": "2026-02-12 22:23:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 22:22:46",
-      "message": "[PROCESSING] Analyzing: \uc81c\ud504 \ubca0\uc774\uc870\uc2a4\uc758 \uc758\uc0ac\uacb0\uc815 \ubc29\uc2dd..."
-    },
     {
       "timestamp": "2026-02-12 22:22:49",
       "message": "[SKIP] Irrelevant (AI Filter): \uc81c\ud504 \ubca0\uc774\uc870\uc2a4\uc758 \uc758\uc0ac\uacb0\uc815 \ubc29\uc2dd"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 22:23:19",
       "message": "Reprocessing: Ai2 introduces AutoDiscovery, an automated scientific discovery AI system"
+    },
+    {
+      "timestamp": "2026-02-12 22:23:20",
+      "message": "[SKIP] Content too short: Ai2 introduces AutoDiscovery, ..."
     }
   ]
 }
