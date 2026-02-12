@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 18:58:31",
+  "last_updated": "2026-02-12 18:58:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 18:57:50",
-      "message": "Reprocessing: MiniMax releases M2.5, claiming the model delivers on the \"intelligence too cheap to meter\" promise, priced at $0.30/1M input tokens and $1.20/1M output tokens (MiniMax)"
-    },
     {
       "timestamp": "2026-02-12 18:57:51",
       "message": "[PROCESSING] Analyzing: MiniMax releases M2.5, claiming the model delivers on the \"intelligence too cheap to meter\" promise, priced at $0.30/1M input tokens and $1.20/1M output tokens (MiniMax)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 18:58:31",
       "message": "[PROCESSING] Analyzing: New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable..."
+    },
+    {
+      "timestamp": "2026-02-12 18:58:33",
+      "message": "[SKIP] Irrelevant (AI Filter): New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable"
     }
   ]
 }
