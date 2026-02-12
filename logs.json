@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 06:43:19",
+  "last_updated": "2026-02-12 06:43:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 06:42:43",
-      "message": "[PROCESSING] Analyzing: The US CBP signs a one-year Clearview AI deal, granting access to its facial recognition tool for \"tactical targeting\" and \"strategic counter-network analysis\" (Dell Cameron/Wired)..."
-    },
     {
       "timestamp": "2026-02-12 06:42:47",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc138\uad00\uad6d\uacbd\ubcf4\ud638\uad6d, \uc804\uc220\uc801 \ud0c0\uac9f\ud305 \ubc0f \uc804\ub7b5\uc801 \ubc18\ub124\ud2b8\uc6cc\ud06c \ubd84\uc11d\uc744 \uc704\ud574 Clearview AI\uc640 1\ub144 \uacc4\uc57d \uccb4\uacb0\n  > Summary: \ubbf8\uad6d \uc138\uad00\uad6d\uacbd\ubcf4\ud638\uad6d(CBP)\uc774 Clearview AI\uc640 1\ub144 \uacc4\uc57d\uc744 \uccb4\uacb0\ud558\uc5ec, \uc218\uc2ed\uc5b5 \uac1c\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 06:43:19",
       "message": "[PROCESSING] Analyzing: New Biosensor Technology Could Improve Glucose Monitoring..."
+    },
+    {
+      "timestamp": "2026-02-12 06:43:21",
+      "message": "[SKIP] Irrelevant (AI Filter): New Biosensor Technology Could Improve Glucose Monitoring"
     }
   ]
 }
