@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 18:55:42",
+  "last_updated": "2026-02-12 18:55:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 18:55:04",
-      "message": "[PROCESSING] Analyzing: Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech..."
-    },
     {
       "timestamp": "2026-02-12 18:55:07",
       "message": "[SKIP] Irrelevant (AI Filter): Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 18:55:42",
       "message": "Reprocessing: Scheduling in a changing world: Maximizing throughput with time-varying capacity"
+    },
+    {
+      "timestamp": "2026-02-12 18:55:43",
+      "message": "[SKIP] Content too short: Scheduling in a changing world..."
     }
   ]
 }
