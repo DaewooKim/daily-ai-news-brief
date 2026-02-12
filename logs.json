@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 15:35:14",
+  "last_updated": "2026-02-12 15:35:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 15:34:34",
-      "message": "[PROCESSING] Analyzing: Bringing ChatGPT to GenAI.mil..."
-    },
     {
       "timestamp": "2026-02-12 15:34:38",
       "message": "[SUCCESS] Processed: GenAI.mil\uc5d0 ChatGPT \ub3c4\uc785\n  > Summary: OpenAI for Government\ub294 \ubbf8\uad6d \ubc29\uc704 \ud300\uc744 \uc704\ud574 GenAI.mil\uc5d0 \ub9de\ucda4\ud615 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 15:35:14",
       "message": "[PROCESSING] Analyzing: E-Fuses Grow Up and Go Industrial..."
+    },
+    {
+      "timestamp": "2026-02-12 15:35:16",
+      "message": "[SKIP] Irrelevant (AI Filter): E-Fuses Grow Up and Go Industrial"
     }
   ]
 }
