@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 19:00:00",
+  "last_updated": "2026-02-12 19:00:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 18:59:31",
-      "message": "[PROCESSING] Analyzing: \ucd08\uae30 \uc2a4\ucf00\uc77c\uc5c5 \ub2e8\uacc4\uc5d0\uc11c \uac00\uc7a5 \uc911\uc694\ud55c \ube44\uc6a9\uc740 CAC\uac00 \uc544\ub2c8\ub77c \ubc14\ub85c \uc2dc\uac04\uc774\ub2e4..."
-    },
     {
       "timestamp": "2026-02-12 18:59:33",
       "message": "[SKIP] Irrelevant (AI Filter): \ucd08\uae30 \uc2a4\ucf00\uc77c\uc5c5 \ub2e8\uacc4\uc5d0\uc11c \uac00\uc7a5 \uc911\uc694\ud55c \ube44\uc6a9\uc740 CAC\uac00 \uc544\ub2c8\ub77c \ubc14\ub85c \uc2dc\uac04\uc774\ub2e4"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 19:00:00",
       "message": "Reprocessing: AI startup The Biological Computing Co. raises $25M to swap out silicon for lab-grown brains"
+    },
+    {
+      "timestamp": "2026-02-12 19:00:02",
+      "message": "[SKIP] Content too short: AI startup The Biological Comp..."
     }
   ]
 }
