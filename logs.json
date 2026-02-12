@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 10:02:29",
+  "last_updated": "2026-02-12 10:02:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 10:01:45",
-      "message": "[PROCESSING] Analyzing: TSMC 3-nm Upgrade in Japan to Catch up With Demand..."
-    },
     {
       "timestamp": "2026-02-12 10:01:48",
       "message": "[SUCCESS] Processed: TSMC, \uc77c\ubcf8\uc5d0\uc11c 3nm \uc5c5\uadf8\ub808\uc774\ub4dc\ub85c \uc218\uc694\uc5d0 \ub9de\ucd94\ub2e4\n  > Summary: TSMC\ub294 \uc77c\ubcf8\uc758 \uae30\uc874 \uc2dc\uc124\uc744 3nm \ub178\ub4dc\ub85c \uc5c5\uadf8\ub808\uc774\ub4dc\ud560 \uacc4\ud68d\uc744 \ubc1c\ud45c\ud558\uc5ec \uad6d\ub0b4 \ubc0f \uae00\ub85c\ubc8c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 10:02:29",
       "message": "[PROCESSING] Analyzing: Microsoft fixed a vulnerability in Notepad in Windows 11 allowing attackers to execute remote programs by tricking users into clicking malicious Markdown links (Lawrence Abrams/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-02-12 10:02:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft fixed a vulnerability in Notepad in Windows 11 allowing attackers to execute remote programs by tricking users into clicking malicious Markdown links (Lawrence Abrams/BleepingComputer)"
     }
   ]
 }
