@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 04:30:40",
+  "last_updated": "2026-02-12 04:30:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 04:30:04",
-      "message": "[SUCCESS] Processed: TSMC, \uc77c\ubcf8\uc5d0\uc11c 3nm \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \ud1b5\ud574 \uc218\uc694\uc5d0 \ub9de\ucd94\ub2e4\n  > Summary: TSMC\ub294 \uc77c\ubcf8\uc758 \uae30\uc874 \uc2dc\uc124\uc744 3nm \uacf5\uc815\uc73c\ub85c \uc5c5\uadf8\ub808\uc774\ub4dc\ud560 \uacc4\ud68d\uc744 \uc138\uc6b0\uace0 \uc788\uc73c\uba70, \uc774\ub294 \uad6d..."
-    },
     {
       "timestamp": "2026-02-12 04:30:05",
       "message": "[PROCESSING] Analyzing: Bluetooth Tracking Agents Use Existing Hardware to Close Gaps in Asset Tracking..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 04:30:40",
       "message": "[PROCESSING] Analyzing: Cisco reports Q2 revenue up 10% YoY to $15.35B, vs. $15.12B est., and forecasts Q3 adjusted EPS only in line with estimates; CSCO drops 7%+ after hours (Jordan Novet/CNBC)..."
+    },
+    {
+      "timestamp": "2026-02-12 04:30:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Cisco reports Q2 revenue up 10% YoY to $15.35B, vs. $15.12B est., and forecasts Q3 adjusted EPS only in line with estimates; CSCO drops 7%+ after hours (Jordan Novet/CNBC)"
     }
   ]
 }
