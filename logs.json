@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 02:18:48",
+  "last_updated": "2026-02-12 02:18:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 02:18:10",
-      "message": "Reprocessing: EssilorLuxottica says it sold over 7M Meta AI glasses in 2025, up from the 2M that the company sold in 2023 and 2024 combined (Samantha Subin/CNBC)"
-    },
     {
       "timestamp": "2026-02-12 02:18:11",
       "message": "[PROCESSING] Analyzing: EssilorLuxottica says it sold over 7M Meta AI glasses in 2025, up from the 2M that the company sold in 2023 and 2024 combined (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 02:18:48",
       "message": "[PROCESSING] Analyzing: Monolithic Power Systems Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-02-12 02:18:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Monolithic Power Systems Announces CFO Transition"
     }
   ]
 }
