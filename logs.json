@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 18:58:04",
+  "last_updated": "2026-02-12 18:58:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 18:57:18",
-      "message": "[PROCESSING] Analyzing: GPT-5.3-Codex-Spark is OpenAI's first AI model to run on chips from Nvidia rival Cerebras; OpenAI says Codex has more than 1M weekly active users (Rachel Metz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-12 18:57:22",
       "message": "[SUCCESS] Processed: GPT-5.3-Codex-Spark\ub294 OpenAI\uc758 \uccab \ubc88\uc9f8 AI \ubaa8\ub378\ub85c Nvidia \uacbd\uc7c1\uc0ac\uc778 Cerebras\uc758 \uce69\uc5d0\uc11c \uc791\ub3d9\ud569\ub2c8\ub2e4.\n  > Summary: OpenAI\uac00 Cerebras Systems Inc.\uc758 \uce69\uc5d0\uc11c \uc791\ub3d9\ud558\ub294 \uccab \ubc88\uc9f8 \uc778\uacf5\uc9c0\ub2a5 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 18:58:04",
       "message": "[SKIP] Irrelevant (AI Filter): Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60fps gaming; Fire TV users previously had to sideload it (Kris Holt/Engadget)"
+    },
+    {
+      "timestamp": "2026-02-12 18:58:05",
+      "message": "Reprocessing: AI Inference Needs A Mix-And-Match Memory Strategy"
     }
   ]
 }
