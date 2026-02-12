@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 08:54:31",
+  "last_updated": "2026-02-12 08:54:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 08:53:49",
-      "message": "[PROCESSING] Analyzing: OpenAI disbands mission alignment team..."
-    },
     {
       "timestamp": "2026-02-12 08:53:52",
       "message": "[SUCCESS] Processed: OpenAI\ub294 \ubbf8\uc158 \uc815\ub82c \ud300\uc744 \ud574\uccb4\ud569\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 \ubbf8\uc158 \uc815\ub82c \ud300\uc744 \ud574\uccb4\ud558\uace0 \ud300 \ub9ac\ub354\uc5d0\uac8c \uc0c8\ub85c\uc6b4 \uc5ed\ud560\ub85c OpenAI\uc758 \ucd5c\uace0 \ubbf8\ub798..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 08:54:31",
       "message": "[PROCESSING] Analyzing: Ams Osram Sells Sensor Business to Infineon to Focus on Digital Photonics..."
+    },
+    {
+      "timestamp": "2026-02-12 08:54:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Ams Osram Sells Sensor Business to Infineon to Focus on Digital Photonics"
     }
   ]
 }
