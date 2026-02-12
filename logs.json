@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 23:28:53",
+  "last_updated": "2026-02-12 23:28:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 23:28:11",
-      "message": "[PROCESSING] Analyzing: In a memo to US lawmakers, OpenAI accused DeepSeek of using distillation techniques to train the next generation of R1 and \"free-ride\" on leading US AI models (Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-12 23:28:16",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uad6d\ud68c\uc5d0 \ubcf4\ub0b8 \uba54\ubaa8\uc5d0\uc11c OpenAI\ub294 DeepSeek\uc774 \ub2e4\uc74c \uc138\ub300 R1 \ud559\uc2b5\uc744 \uc704\ud574 \uc99d\ub958 \uae30\ubc95\uc744 \uc0ac\uc6a9\ud558\uace0 \uc788\ub2e4\ub294 \ud610\uc758\ub97c \uc81c\uae30\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 \ubbf8\uad6d \uad6d\ud68c\uc5d0 \ubcf4\ub0b8 \uba54\ubaa8\uc5d0\uc11c \uc911\uad6d \uacbd\uc7c1\uc0ac DeepSeek\uc774 \uc99d\ub958 \uae30\ubc95\uc744 \uc0ac\uc6a9\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 23:28:53",
       "message": "[SKIP] Irrelevant (AI Filter): Cisco stock falls 12%+ as rising memory prices put pressure on the networking company's margins; it is the stock's worst day since 2022 (Lola Murti/CNBC)"
+    },
+    {
+      "timestamp": "2026-02-12 23:28:55",
+      "message": "Reprocessing: An interview with OpenAI president Greg Brockman on donating $50M to AI and pro-Trump super PACs, why such donations serve a larger AI mission, and more (Maxwell Zeff/Wired)"
     }
   ]
 }
