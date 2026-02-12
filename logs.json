@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 22:22:00",
+  "last_updated": "2026-02-12 22:22:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 22:21:20",
-      "message": "[PROCESSING] Analyzing: Sources: Palo Alto Networks ordered the removal of direct attributions to China from a Unit 42 report on a hacking campaign over fears of retaliation from China (Reuters)..."
-    },
     {
       "timestamp": "2026-02-12 22:21:22",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Palo Alto Networks ordered the removal of direct attributions to China from a Unit 42 report on a hacking campaign over fears of retaliation from China (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 22:22:00",
       "message": "[SKIP] Irrelevant (AI Filter): Omdia: Accelerating Depreciation of OLED and LCD Manufacturing Capacity Set to Improve FPD Profitability"
+    },
+    {
+      "timestamp": "2026-02-12 22:22:02",
+      "message": "Reprocessing: SEMI Reports 2025 Annual Worldwide Silicon Wafer Shipments and Revenue Results"
     }
   ]
 }
