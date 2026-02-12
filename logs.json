@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 18:55:32",
+  "last_updated": "2026-02-12 18:55:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 18:54:45",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-02-12 18:54:45",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 18:55:32",
       "message": "[PROCESSING] Analyzing: Spider-Noir looks like a hard-boiled thriller in first trailer..."
+    },
+    {
+      "timestamp": "2026-02-12 18:55:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Spider-Noir looks like a hard-boiled thriller in first trailer"
     }
   ]
 }
