@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-12 20:05:49",
+  "last_updated": "2026-02-12 20:05:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-12 20:05:07",
-      "message": "[PROCESSING] Analyzing: Sources: Palo Alto Networks ordered the removal of direct attributions to China from a Unit 42 report on a hacking campaign over fears of retaliation from China (Reuters)..."
-    },
     {
       "timestamp": "2026-02-12 20:05:10",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Palo Alto Networks ordered the removal of direct attributions to China from a Unit 42 report on a hacking campaign over fears of retaliation from China (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-12 20:05:49",
       "message": "Reprocessing: MiniMax releases M2.5, claiming the model delivers on the \"intelligence too cheap to meter\" promise, priced at $0.30/1M input tokens and $1.20/1M output tokens (MiniMax)"
+    },
+    {
+      "timestamp": "2026-02-12 20:05:50",
+      "message": "[PROCESSING] Analyzing: MiniMax releases M2.5, claiming the model delivers on the \"intelligence too cheap to meter\" promise, priced at $0.30/1M input tokens and $1.20/1M output tokens (MiniMax)..."
     }
   ]
 }
