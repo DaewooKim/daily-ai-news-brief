@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 20:40:47",
+  "last_updated": "2026-02-13 20:40:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 20:40:09",
-      "message": "[PROCESSING] Analyzing: Anthropic Raises $30B, Vows to Pay Data Center Energy Bill..."
-    },
     {
       "timestamp": "2026-02-13 20:40:13",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, 300\uc5b5 \ub2ec\ub7ec \ubaa8\uae08, \ub370\uc774\ud130 \uc13c\ud130 \uc5d0\ub108\uc9c0 \ube44\uc6a9 \uc9c0\ubd88 \uc57d\uc18d\n  > Summary: AI \ud68c\uc0ac \uc564\ud2b8\ub85c\ud53d\uc774 2026\ub144 \uc2dc\uc791 \uc774\ud6c4 \uae30\uc5c5 \uad6c\ub3c5\uc744 4\ubc30\ub85c \ub298\ub9ac\uba70 3,800\uc5b5 \ub2ec\ub7ec\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 20:40:47",
       "message": "[PROCESSING] Analyzing: The US DoD published and then deleted a document adding Alibaba, Baidu, and BYD to a list of companies with alleged connections to the Chinese military (Demetri Sevastopulo/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-02-13 20:40:49",
+      "message": "[SKIP] Irrelevant (AI Filter): The US DoD published and then deleted a document adding Alibaba, Baidu, and BYD to a list of companies with alleged connections to the Chinese military (Demetri Sevastopulo/Financial Times)"
     }
   ]
 }
