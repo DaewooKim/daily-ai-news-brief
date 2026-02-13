@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 18:28:43",
+  "last_updated": "2026-02-13 18:28:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 18:27:56",
-      "message": "[PROCESSING] Analyzing: SEMI Reports 2025 Annual Worldwide Silicon Wafer Shipments and Revenue Results..."
-    },
     {
       "timestamp": "2026-02-13 18:28:01",
       "message": "[SUCCESS] Processed: SEMI, 2025\ub144 \uc804\uc138\uacc4 \uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c \ucd9c\ud558\ub7c9 \ubc0f \uc218\uc775 \uacb0\uacfc \ubc1c\ud45c\n  > Summary: 2025\ub144 \uc804\uc138\uacc4 \uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c \ucd9c\ud558\ub7c9\uc774 5.8% \uc99d\uac00\ud558\uc5ec 12,973\ubc31\ub9cc \uc81c\uacf1\uc778\uce58\uc5d0 \ub2ec\ud588..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 18:28:43",
       "message": "[PROCESSING] Analyzing: \ub098\uce68\ubc18\uc740 \uc9c0\ub3c4\uac00 \uc544\ub2d9\ub2c8\ub2e4..."
+    },
+    {
+      "timestamp": "2026-02-13 18:28:45",
+      "message": "[SKIP] Irrelevant (AI Filter): \ub098\uce68\ubc18\uc740 \uc9c0\ub3c4\uac00 \uc544\ub2d9\ub2c8\ub2e4"
     }
   ]
 }
