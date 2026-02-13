@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 01:43:11",
+  "last_updated": "2026-02-13 01:43:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 01:42:37",
-      "message": "[PROCESSING] Analyzing: Apple's stock dropped 5% on Thursday, its worst day since April, following FTC scrutiny of Apple News and reports about delays with Siri (Jennifer Elias/CNBC)..."
-    },
     {
       "timestamp": "2026-02-13 01:42:39",
       "message": "[SKIP] Irrelevant (AI Filter): Apple's stock dropped 5% on Thursday, its worst day since April, following FTC scrutiny of Apple News and reports about delays with Siri (Jennifer Elias/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 01:43:11",
       "message": "[PROCESSING] Analyzing: Pinterest reports Q4 revenue up 14% YoY to $1.32B, vs. $1.33B est., MAUs up 12% to 619M, and forecasts Q1 revenue below estimates; PINS drops 17%+ after hours (Jonathan Vanian/CNBC)..."
+    },
+    {
+      "timestamp": "2026-02-13 01:43:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Pinterest reports Q4 revenue up 14% YoY to $1.32B, vs. $1.33B est., MAUs up 12% to 619M, and forecasts Q1 revenue below estimates; PINS drops 17%+ after hours (Jonathan Vanian/CNBC)"
     }
   ]
 }
