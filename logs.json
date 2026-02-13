@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 03:57:33",
+  "last_updated": "2026-02-13 03:57:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 03:56:57",
-      "message": "[SUCCESS] Processed: ERP \uc2dc\uc2a4\ud15c\uacfc \ud1b5\ud569\ub418\uc5b4 \uacf5\uae09\ub9dd\uc744 \uc790\ub3d9\ud654\ud558\ub294 \uc5d0\uc774\uc804\ud2f1 AI \ub808\uc774\uc5b4\ub97c \uc81c\uacf5\ud558\ub294 Didero\uac00 Chemistry\uc640 Headline\uc774 \uacf5\ub3d9 \uc8fc\ub3c4\ud55c 3000\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 A\ub97c \ubaa8\uae08\ud588\ub2e4.\n  > Summary: Didero\ub294 ERP \uc2dc\uc2a4\ud15c\uacfc \ud1b5\ud569\ub418\uc5b4 \uacf5\uae09\ub9dd\uc744 \uc790\ub3d9\ud654\ud558\ub294 \uc5d0\uc774\uc804\ud2f1 AI \ub808\uc774\uc5b4\ub97c \uc81c\uacf5\ud558\ub294..."
-    },
     {
       "timestamp": "2026-02-13 03:56:58",
       "message": "[PROCESSING] Analyzing: Instacart reports Q4 revenue up 12% YoY to $992M vs. $974M est., gross transaction value up 14% to $9.85B, gives strong Q1 guidance; CART jumps 14%+ after hours (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 03:57:33",
       "message": "[PROCESSING] Analyzing: New Biosensor Technology Could Improve Glucose Monitoring..."
+    },
+    {
+      "timestamp": "2026-02-13 03:57:35",
+      "message": "[SKIP] Irrelevant (AI Filter): New Biosensor Technology Could Improve Glucose Monitoring"
     }
   ]
 }
