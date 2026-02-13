@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 15:06:30",
+  "last_updated": "2026-02-13 15:06:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 15:05:47",
-      "message": "[PROCESSING] Analyzing: Apple's stock fell 5% on February 12, its worst day since April 2025, following FTC scrutiny of Apple News and reports of delays to Siri's anticipated AI update (Jennifer Elias/CNBC)..."
-    },
     {
       "timestamp": "2026-02-13 15:05:51",
       "message": "[SUCCESS] Processed: \uc560\ud50c \uc8fc\uac00, 2025\ub144 4\uc6d4 \uc774\ud6c4 \ucd5c\uc545\uc758 \ud558\ub8e8\ub97c \uae30\ub85d\ud558\uba70 5% \ud558\ub77d\n  > Summary: \uc560\ud50c\uc758 \uc8fc\uac00\ub294 2025\ub144 4\uc6d4 \uc774\ud6c4 \ucd5c\uc545\uc758 \ud558\ub8e8\uc778 2\uc6d4 12\uc77c\uc5d0 5% \ud558\ub77d\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 15:06:30",
       "message": "[PROCESSING] Analyzing: New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable..."
+    },
+    {
+      "timestamp": "2026-02-13 15:06:32",
+      "message": "[SKIP] Irrelevant (AI Filter): New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable"
     }
   ]
 }
