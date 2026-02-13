@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 18:27:48",
+  "last_updated": "2026-02-13 18:27:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 18:27:11",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI\uac00 GPT-4o\ub97c \ud1f4\uc5ed\uc2dc\ud0a4\uba74\uc11c \uc0ac\uc6a9\uc790\ub4e4\uc740 \uc783\uc5b4\ubc84\ub9b0 \uc720\uba38\ub7ec\uc2a4\ud558\uace0 \ub3c5\ud2b9\ud55c \ub3d9\ubc18\uc790\uc5d0 \ub300\ud574 \ubd84\ub178\uc640 \uc2ac\ud514\uc744 \ub290\ub080\ub2e4\n  > Summary: \uc624\ud508AI\uac00 \ubc1c\ub80c\ud0c0\uc778 \ub370\uc774\ub97c \uc55e\ub450\uace0 GPT-4o\ub97c \uc601\uad6c\ud788 \ud1f4\uc5ed\uc2dc\ud0a4\uba74\uc11c \uc0ac\uc6a9\uc790\ub4e4\uc740 \uc774 \uc720\uba38\ub7ec\uc2a4..."
-    },
     {
       "timestamp": "2026-02-13 18:27:13",
       "message": "[PROCESSING] Analyzing: Sources: ByteDance is in advanced talks to sell game studio Moonton, the developer of Mobile Legends: Bang Bang, to Saudi Arabia's Savvy Games for $6B to $7B (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 18:27:48",
       "message": "[PROCESSING] Analyzing: New Biosensor Technology Could Improve Glucose Monitoring..."
+    },
+    {
+      "timestamp": "2026-02-13 18:27:50",
+      "message": "[SKIP] Irrelevant (AI Filter): New Biosensor Technology Could Improve Glucose Monitoring"
     }
   ]
 }
