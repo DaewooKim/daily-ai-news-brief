@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 05:03:31",
+  "last_updated": "2026-02-13 05:03:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 05:02:56",
-      "message": "[PROCESSING] Analyzing: NHanced Takes Avalanche MRAM to Space..."
-    },
     {
       "timestamp": "2026-02-13 05:02:59",
       "message": "[SUCCESS] Processed: NHanced, Avalanche MRAM\uc744 \uc6b0\uc8fc\ub85c \uac00\uc838\uac04\ub2e4\n  > Summary: NHanced Semiconductors\ub294 \uc9c1\uc811\uc801\uc73c\ub85c \ubc29\uc0ac\uc120\uc5d0 \uacac\ub51c \uc218 \uc788\ub294 \uba54\ubaa8\ub9ac\ub97c \uc704\ud574..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 05:03:31",
       "message": "[PROCESSING] Analyzing: Apple's stock dropped 5% on Thursday, its worst day since April, following FTC scrutiny of Apple News and reports about delays with Siri (Jennifer Elias/CNBC)..."
+    },
+    {
+      "timestamp": "2026-02-13 05:03:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple's stock dropped 5% on Thursday, its worst day since April, following FTC scrutiny of Apple News and reports about delays with Siri (Jennifer Elias/CNBC)"
     }
   ]
 }
