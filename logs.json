@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 10:38:07",
+  "last_updated": "2026-02-13 10:38:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 10:37:29",
-      "message": "[PROCESSING] Analyzing: Bringing ChatGPT to GenAI.mil..."
-    },
     {
       "timestamp": "2026-02-13 10:37:33",
       "message": "[SUCCESS] Processed: GenAI.mil\uc5d0 ChatGPT \ub3c4\uc785\n  > Summary: OpenAI for Government\ub294 GenAI.mil\uc5d0 \ub9de\ucda4\ud615 ChatGPT\ub97c \ubc30\ud3ec\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 10:38:07",
       "message": "[PROCESSING] Analyzing: RISC-V Pivots from Academia to Industrial Heavyweight..."
+    },
+    {
+      "timestamp": "2026-02-13 10:38:09",
+      "message": "[SKIP] Irrelevant (AI Filter): RISC-V Pivots from Academia to Industrial Heavyweight"
     }
   ]
 }
