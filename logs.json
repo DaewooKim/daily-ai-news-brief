@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 11:48:02",
+  "last_updated": "2026-02-13 11:48:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 11:47:33",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc81c\ud504 \ubca0\uc774\uc870\uc2a4\uc758 \uc758\uc0ac\uacb0\uc815 \ubc29\uc2dd"
-    },
     {
       "timestamp": "2026-02-13 11:47:34",
       "message": "[PROCESSING] Analyzing: \ub098\uce68\ubc18\uc740 \uc9c0\ub3c4\uac00 \uc544\ub2d9\ub2c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 11:48:02",
       "message": "Reprocessing: OpenAI\u2019s rapid GPT-5.3-Codex model moves beyond simple coding tasks"
+    },
+    {
+      "timestamp": "2026-02-13 11:48:03",
+      "message": "[SKIP] Content too short: OpenAI\u2019s rapid GPT-5.3-Codex m..."
     }
   ]
 }
