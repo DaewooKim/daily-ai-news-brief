@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 01:45:09",
+  "last_updated": "2026-02-13 01:45:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 01:44:30",
-      "message": "[SUCCESS] Processed: \uc778\uacf5\uc9c0\ub2a5 \uae30\ubc18\uc758 6G \uc900\ube44 \uc194\ub8e8\uc158 \uc81c\uacf5\uc744 \uc704\ud55c \ud30c\ud2b8\ub108\uc2ed\n  > Summary: SynaXG Technologies\uc640 Tech Mahindra\uac00 \uc778\uacf5\uc9c0\ub2a5 \uae30\ubc18\uc758 \uc18c\ud504\ud2b8\uc6e8\uc5b4..."
-    },
     {
       "timestamp": "2026-02-13 01:44:31",
       "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 01:45:09",
       "message": "Reprocessing: OpenAI\u2019s rapid GPT-5.3-Codex model moves beyond simple coding tasks"
+    },
+    {
+      "timestamp": "2026-02-13 01:45:11",
+      "message": "[SKIP] Content too short: OpenAI\u2019s rapid GPT-5.3-Codex m..."
     }
   ]
 }
