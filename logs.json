@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 18:26:26",
+  "last_updated": "2026-02-13 18:26:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 18:25:49",
-      "message": "[PROCESSING] Analyzing: Anthropic\u2019s Super Bowl ads mocking AI with ads helped push Claude\u2019s app into the top 10..."
-    },
     {
       "timestamp": "2026-02-13 18:25:53",
       "message": "[SUCCESS] Processed: \uc564\uc18c\ud504\ub9ad\uc758 AI\ub97c \uc870\ub871\ud558\ub294 \uc288\ud37c\ubcfc \uad11\uace0\uac00 \ud074\ub85c\ub4dc \uc571\uc744 TOP 10\uc73c\ub85c \ubc00\uc5b4 \uc62c\ub9ac\ub294\ub370 \uae30\uc5ec\ud558\ub2e4\n  > Summary: \uc564\uc18c\ud504\ub9ad\uc758 \uc288\ud37c\ubcfc \uad11\uace0\uac00 AI\ub97c \uc870\ub871\ud558\uba70 \ud074\ub85c\ub4dc \uc571\uc758 \uc8fc\ubaa9\ub3c4\ub97c \ub192\uc600\uace0, \ucd5c\uadfc \ucd9c\uc2dc\ub41c \uc624\ud478\uc2a4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 18:26:26",
       "message": "[PROCESSING] Analyzing: Ams Osram Sells Sensor Business to Infineon to Focus on Digital Photonics..."
+    },
+    {
+      "timestamp": "2026-02-13 18:26:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Ams Osram Sells Sensor Business to Infineon to Focus on Digital Photonics"
     }
   ]
 }
