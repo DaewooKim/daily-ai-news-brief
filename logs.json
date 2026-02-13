@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 19:34:02",
+  "last_updated": "2026-02-13 19:34:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 19:33:27",
-      "message": "[PROCESSING] Analyzing: Anthropic Raises $30B, Vows to Pay Data Center Energy Bill..."
-    },
     {
       "timestamp": "2026-02-13 19:33:31",
       "message": "[SUCCESS] Processed: \uc548\ud2b8\ub85c\ud53d, 300\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uba70 \ub370\uc774\ud130 \uc13c\ud130 \uc5d0\ub108\uc9c0 \ube44\uc6a9 \uc9c0\uae09\uc744 \ub2e4\uc9d0\ud558\ub2e4\n  > Summary: AI \ud68c\uc0ac\uc778 \uc548\ud2b8\ub85c\ud53d\uc740 2026\ub144 \ucd08 \uc774\ud6c4 \uae30\uc5c5 \uad6c\ub3c5\uc744 4\ubc30 \uc99d\uac00\uc2dc\ud0a4\uba70 3,800\uc5b5 \ub2ec\ub7ec\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 19:34:02",
       "message": "[PROCESSING] Analyzing: Sources: ByteDance is in advanced talks to sell game studio Moonton, the developer of Mobile Legends: Bang Bang, to Saudi Arabia's Savvy Games for $6B to $7B (Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-13 19:34:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: ByteDance is in advanced talks to sell game studio Moonton, the developer of Mobile Legends: Bang Bang, to Saudi Arabia's Savvy Games for $6B to $7B (Reuters)"
     }
   ]
 }
