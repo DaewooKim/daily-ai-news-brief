@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 08:24:56",
+  "last_updated": "2026-02-13 08:24:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 08:24:21",
-      "message": "Reprocessing: The MPA urges ByteDance to curb its AI video model Seedance 2.0, saying the model engages in unauthorized use of US copyrighted material \"on a massive scale\" (Gene Maddaus/Variety)"
-    },
     {
       "timestamp": "2026-02-13 08:24:22",
       "message": "[PROCESSING] Analyzing: The MPA urges ByteDance to curb its AI video model Seedance 2.0, saying the model engages in unauthorized use of US copyrighted material \"on a massive scale\" (Gene Maddaus/Variety)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 08:24:56",
       "message": "[PROCESSING] Analyzing: Coinbase reports Q4 revenue down 22% YoY to $1.78B, vs. $1.84B est., transaction revenue down 37% to $983M, a net loss of $667M, vs. a $1.3B profit in Q4 2024 (Andr\u00e9 Beganski/Decrypt)..."
+    },
+    {
+      "timestamp": "2026-02-13 08:24:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Coinbase reports Q4 revenue down 22% YoY to $1.78B, vs. $1.84B est., transaction revenue down 37% to $983M, a net loss of $667M, vs. a $1.3B profit in Q4 2024 (Andr\u00e9 Beganski/Decrypt)"
     }
   ]
 }
