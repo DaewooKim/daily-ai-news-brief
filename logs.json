@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 10:39:05",
+  "last_updated": "2026-02-13 10:39:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 10:38:28",
-      "message": "[PROCESSING] Analyzing: Companies like Stripe, OpenAI, Anthropic, and SpaceX are letting workers cash out before their IPOs, a move once seen as taboo and lacking long-term commitment (Kate Clark/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-02-13 10:38:32",
       "message": "[SUCCESS] Processed: \uc2a4\ud2b8\ub77c\uc774\ud504, \uc624\ud508AI, \uc564\uc2a4\ub85c\ud53d \ub4f1, \uae30\uc5c5\ub4e4\uc774 IPO \uc774\uc804\uc5d0 \uc9c1\uc6d0\ub4e4\uc774 \ud604\uae08\ud654\ud560 \uc218 \uc788\ub3c4\ub85d \ud5c8\uc6a9\ud558\ub2e4\n  > Summary: \uc2a4\ud2b8\ub77c\uc774\ud504, \uc624\ud508AI, \uc564\uc2a4\ub85c\ud53d, \uadf8\ub9ac\uace0 \uc2a4\ud398\uc774\uc2a4X\uc640 \uac19\uc740 \uae30\uc5c5\ub4e4\uc774 IPO \uc774\uc804\uc5d0 \uc9c1\uc6d0\ub4e4\uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 10:39:05",
       "message": "[PROCESSING] Analyzing: Russia confirms it has blocked WhatsApp, citing Meta's \"unwillingness to comply with Russian law\", and proposes that Russians switch to the state-owned Max app (Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-13 10:39:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Russia confirms it has blocked WhatsApp, citing Meta's \"unwillingness to comply with Russian law\", and proposes that Russians switch to the state-owned Max app (Reuters)"
     }
   ]
 }
