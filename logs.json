@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-13 05:02:47",
+  "last_updated": "2026-02-13 05:02:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-13 05:02:11",
-      "message": "[PROCESSING] Analyzing: Anthropic raises another $30B in Series G, with a new value of $380B..."
-    },
     {
       "timestamp": "2026-02-13 05:02:15",
       "message": "[SUCCESS] Processed: \uc548\ud2b8\ub85c\ud53d, \uc2dc\ub9ac\uc988 G\uc5d0\uc11c 300\uc5b5 \ub2ec\ub7ec \ucd94\uac00 \ud22c\uc790 \uc720\uce58, \uae30\uc5c5 \uac00\uce58 3,800\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud574\n  > Summary: AI \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \uc548\ud2b8\ub85c\ud53d\uc774 \ud22c\uc790 \uc720\uce58\uc5d0 \uc131\uacf5\ud558\uba70 \uc2dc\uac00 \ucd1d\uc561\uc774 3,800\uc5b5 \ub2ec\ub7ec\ub85c \ud3c9\uac00\ubc1b\uace0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-13 05:02:47",
       "message": "[PROCESSING] Analyzing: Ams Osram Sells Sensor Business to Infineon to Focus on Digital Photonics..."
+    },
+    {
+      "timestamp": "2026-02-13 05:02:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Ams Osram Sells Sensor Business to Infineon to Focus on Digital Photonics"
     }
   ]
 }
