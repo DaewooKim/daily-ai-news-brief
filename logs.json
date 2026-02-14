@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-14 02:11:01",
+  "last_updated": "2026-02-14 02:11:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-14 02:10:26",
-      "message": "[PROCESSING] Analyzing: 4chan\u2019s creator says \u2018Epstein had nothing to do\u2019 with creating infamous far-right board /pol/..."
-    },
     {
       "timestamp": "2026-02-14 02:10:29",
       "message": "[SKIP] Irrelevant (AI Filter): 4chan\u2019s creator says \u2018Epstein had nothing to do\u2019 with creating infamous far-right board /pol/"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-14 02:11:01",
       "message": "Reprocessing: Scheduling in a changing world: Maximizing throughput with time-varying capacity"
+    },
+    {
+      "timestamp": "2026-02-14 02:11:02",
+      "message": "[SKIP] Content too short: Scheduling in a changing world..."
     }
   ]
 }
