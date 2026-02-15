@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-15 18:23:00",
+  "last_updated": "2026-02-15 18:23:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-15 18:22:24",
-      "message": "Reprocessing: Automated MLIR-based HLS framework That Generates FPGA HW Designs From A Variety of CNN Layers (TU Dresden)"
-    },
     {
       "timestamp": "2026-02-15 18:22:25",
       "message": "[PROCESSING] Analyzing: Automated MLIR-based HLS framework That Generates FPGA HW Designs From A Variety of CNN Layers (TU Dresden)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-15 18:23:00",
       "message": "[PROCESSING] Analyzing: New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable..."
+    },
+    {
+      "timestamp": "2026-02-15 18:23:02",
+      "message": "[SKIP] Irrelevant (AI Filter): New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable"
     }
   ]
 }
