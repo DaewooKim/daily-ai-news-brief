@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-15 14:02:08",
+  "last_updated": "2026-02-15 14:02:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-15 14:01:43",
-      "message": "[SUCCESS] Processed: OpenAI, Nvidia\ub97c \ub118\uc5b4\uc11c\ub294 \uccab \uc8fc\uc694 \uc6c0\uc9c1\uc784\uc73c\ub85c Cerebras \uce69 \ubc30\ud3ec\n  > Summary: OpenAI\ub294 \ucd5c\uadfc GPT-5.3-Codex-Spark \ubaa8\ub378\uc744 \ucd9c\uc2dc\ud558\uba70 Cerebras S..."
-    },
     {
       "timestamp": "2026-02-15 14:01:44",
       "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-15 14:02:08",
       "message": "Reprocessing: Six shifts that will make or break enterprise AI"
+    },
+    {
+      "timestamp": "2026-02-15 14:02:10",
+      "message": "[SKIP] Content too short: Six shifts that will make or b..."
     }
   ]
 }
