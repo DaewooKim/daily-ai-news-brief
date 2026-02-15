@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-15 11:50:00",
+  "last_updated": "2026-02-15 11:50:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-15 11:49:15",
-      "message": "[PROCESSING] Analyzing: Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts (Rafe Rosner-Uddin/Financial Times)..."
-    },
     {
       "timestamp": "2026-02-15 11:49:19",
       "message": "[SUCCESS] Processed: \ud604\uc7ac \ubc0f \uc774\uc804 \uace0\uc704 \uc9c1\uc6d0\ub4e4\uc740 AWS\uac00 \uae30\uc5c5 AI \uacc4\uc57d \ud655\ubcf4\uc5d0\uc11c \uacbd\uc7c1\uc5c5\uccb4\uc5d0 \ub4a4\ucc98\uc9c0\uace0 \uc788\ub2e4\ub294 \uc6b0\ub824 \uc18d\uc5d0 \uc804\ub7b5\uc801 \uac1c\ud3b8\uc744 \uacaa\uace0 \uc788\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4\n  > Summary: \ud604\uc7ac \ubc0f \uc774\uc804\uc758 \uace0\uc704 \uc9c1\uc6d0\ub4e4\uc5d0 \ub530\ub974\uba74 AWS\ub294 \uae30\uc5c5 AI \uacc4\uc57d \ud655\ubcf4\uc5d0\uc11c \uacbd\uc7c1\uc5c5\uccb4\uc5d0 \ub4a4\ucc98\uc9c0\uace0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-15 11:50:00",
       "message": "[PROCESSING] Analyzing: Distinguished Researcher Elected to National Academy of Engineering..."
+    },
+    {
+      "timestamp": "2026-02-15 11:50:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Distinguished Researcher Elected to National Academy of Engineering"
     }
   ]
 }
