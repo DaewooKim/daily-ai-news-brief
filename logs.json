@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-15 23:48:51",
+  "last_updated": "2026-02-15 23:48:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-15 23:48:12",
-      "message": "Reprocessing: Carrier Mapping in Sub-2nm Node NSFETs with SSRM (imec, KU Leuven)"
-    },
     {
       "timestamp": "2026-02-15 23:48:13",
       "message": "[PROCESSING] Analyzing: Carrier Mapping in Sub-2nm Node NSFETs with SSRM (imec, KU Leuven)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-15 23:48:51",
       "message": "[PROCESSING] Analyzing: New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable..."
+    },
+    {
+      "timestamp": "2026-02-15 23:48:53",
+      "message": "[SKIP] Irrelevant (AI Filter): New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable"
     }
   ]
 }
