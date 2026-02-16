@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-16 16:16:05",
+  "last_updated": "2026-02-16 16:16:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 16:15:38",
-      "message": "[SUCCESS] Processed: OpenAI, Nvidia\ub97c \ub118\uc5b4 '\uc989\uac01\uc801\uc778' \ucf54\ub4dc \uc0dd\uc131\uc744 \uc704\ud55c Cerebras \uce69 \ubc30\ud3ec\n  > Summary: OpenAI\ub294 \ucd5c\uc2e0 GPT-5.3-Codex-Spark \ubaa8\ub378\uc744 \ucd9c\uc2dc\ud558\uba70 Cerebras S..."
-    },
     {
       "timestamp": "2026-02-16 16:15:39",
       "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-16 16:16:05",
       "message": "Reprocessing: Anthropic and Databricks raise billions more. Next stop: IPOs?"
+    },
+    {
+      "timestamp": "2026-02-16 16:16:06",
+      "message": "[SKIP] Content too short: Anthropic and Databricks raise..."
     }
   ]
 }
