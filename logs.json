@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-16 17:19:15",
+  "last_updated": "2026-02-16 17:19:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 17:18:36",
-      "message": "[PROCESSING] Analyzing: Introducing GPT-5.3-Codex-Spark..."
-    },
     {
       "timestamp": "2026-02-16 17:18:41",
       "message": "[SUCCESS] Processed: GPT-5.3-Codex-Spark \uc18c\uac1c\n  > Summary: GPT-5.3-Codex-Spark\ub97c \uc18c\uac1c\ud569\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 \uc2e4\uc2dc\uac04 \ucf54\ub529\uc744 \uc704\ud55c \uccab \ubc88\uc9f8 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-16 17:19:15",
       "message": "[PROCESSING] Analyzing: Beyond the Chiller: Rethinking PUE Through System-Level Energy Recovery..."
+    },
+    {
+      "timestamp": "2026-02-16 17:19:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Beyond the Chiller: Rethinking PUE Through System-Level Energy Recovery"
     }
   ]
 }
