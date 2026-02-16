@@ -1,86 +1,26 @@
 {
-  "last_updated": "2026-02-16 06:26:15",
+  "last_updated": "2026-02-16 07:26:45",
   "status": "running",
   "logs": [
     {
-      "timestamp": "2026-02-16 06:25:35",
-      "message": "[SKIP] Content too short: Okta targets \u2018shadow AI\u2019 with ..."
+      "timestamp": "2026-02-16 07:26:33",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-02-16 06:25:37",
-      "message": "[SKIP] Content too short: Aurasell launches AI-native Go..."
+      "timestamp": "2026-02-16 07:26:34",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-02-16 06:25:38",
-      "message": "[SKIP] Content too short: AI startup The Biological Comp..."
+      "timestamp": "2026-02-16 07:26:34",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-02-16 06:25:39",
-      "message": "[SKIP] Content too short: Opaque raises $24M at $300M va..."
+      "timestamp": "2026-02-16 07:26:45",
+      "message": "Found 150 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-02-16 06:25:41",
-      "message": "[SKIP] Content too short: Anthropic vows to protect cons..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:42",
-      "message": "[PROCESSING] Analyzing: UGREEN USB-A to RJ45 2.5GbE Adapter Review..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:44",
-      "message": "[SKIP] Irrelevant (AI Filter): UGREEN USB-A to RJ45 2.5GbE Adapter Review"
-    },
-    {
-      "timestamp": "2026-02-16 06:25:45",
-      "message": "[PROCESSING] Analyzing: This Silicom P3IMB-M-P2 is a Neat Intel ACC100 Card We Take a Quick Look..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:48",
-      "message": "[SUCCESS] Processed: \uc774 \uc2e4\ub9ac\ucf64 P3IMB-M-P2\ub294 \uc6b0\ub9ac\uac00 \ube60\ub974\uac8c \uc0b4\ud3b4\ubcf4\ub294 \uae54\ub054\ud55c \uc778\ud154 ACC100 \uce74\ub4dc\uc785\ub2c8\ub2e4\n  > Summary: \uc774 \uae30\uc0ac\ub294 \uc2e4\ub9ac\ucf64 P3IMB-M-P2\uc5d0 \ub300\ud55c \ub9ac\ubdf0\uc785\ub2c8\ub2e4. \uc774 \uce74\ub4dc\ub294 eASIC \uae30\ubc18\uc758 \uc778\ud154..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:50",
-      "message": "[PROCESSING] Analyzing: OpenAI GPT-5.3-Codex-Spark Now Running at 1K Tokens Per Second on BIG Cerebras Chips..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:53",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI GPT-5.3-\ucf54\ub371\uc2a4-\uc2a4\ud30c\ud06c, BIG \uc138\ub808\ube0c\ub77c\uc2a4 \uce69\uc5d0\uc11c \ucd08\ub2f9 1000\ud1a0\ud070 \uc2e4\ud589 \uc911\n  > Summary: \uc624\ud508AI\uc758 GPT-5.3-\ucf54\ub371\uc2a4-\uc2a4\ud30c\ud06c\uac00 \ub300\ud615 \uc138\ub808\ube0c\ub77c\uc2a4 WSE-3 \uce69\uc5d0\uc11c \ucd08\ub2f9 1000\ud1a0..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:55",
-      "message": "[PROCESSING] Analyzing: YuanLey AQC113-X1 10Gbase-T PCIe Network Card Review..."
-    },
-    {
-      "timestamp": "2026-02-16 06:25:57",
-      "message": "[SKIP] Irrelevant (AI Filter): YuanLey AQC113-X1 10Gbase-T PCIe Network Card Review"
-    },
-    {
-      "timestamp": "2026-02-16 06:25:58",
-      "message": "[PROCESSING] Analyzing: Lenovo ThinkStation P3 Tiny Gen2 Review NVIDIA Powered Workstation..."
-    },
-    {
-      "timestamp": "2026-02-16 06:26:02",
-      "message": "[SUCCESS] Processed: \ub808\ub178\ubc84 \uc53d\ud06c\uc2a4\ud14c\uc774\uc158 P3 \ud0c0\uc774\ub2c8 Gen2 \ub9ac\ubdf0: NVIDIA \uae30\ubc18 \uc6cc\ud06c\uc2a4\ud14c\uc774\uc158\n  > Summary: \ub808\ub178\ubc84\uc758 \uc53d\ud06c\uc2a4\ud14c\uc774\uc158 P3 \ud0c0\uc774\ub2c8 Gen2 \ubaa8\ub378\uc740 24\ucf54\uc5b4 CPU, \ucd5c\ub300 3\uac1c\uc758 NVMe ..."
-    },
-    {
-      "timestamp": "2026-02-16 06:26:03",
-      "message": "[PROCESSING] Analyzing: Automate repository tasks with GitHub Agentic Workflows..."
-    },
-    {
-      "timestamp": "2026-02-16 06:26:08",
-      "message": "[SUCCESS] Processed: GitHub \uc5d0\uc774\uc804\ud2f1 \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub85c \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac \uc791\uc5c5 \uc790\ub3d9\ud654\ud558\uae30\n  > Summary: GitHub \uc5d0\uc774\uc804\ud2f1 \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub294 \uc790\ub3d9\ud654\ub41c \uc8fc\ub3c4\ud615 \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \ud1b5\ud574 \uac1c\ubc1c\uc790\ub4e4\uc774 ..."
-    },
-    {
-      "timestamp": "2026-02-16 06:26:10",
-      "message": "Completed! New: 115, Updated: 0"
-    },
-    {
-      "timestamp": "2026-02-16 06:26:12",
-      "message": "Saved 115 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-02-16 06:26:15",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-02-16 07:26:45",
+      "message": "[PROCESSING] Analyzing: You need to watch the intensely surreal cult classic Possession..."
     }
   ]
 }
