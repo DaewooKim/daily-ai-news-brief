@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-16 10:48:46",
+  "last_updated": "2026-02-16 10:48:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 10:48:19",
-      "message": "[SUCCESS] Processed: \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc758 \uc885\ub9d0? \ucc9c\ub9cc\uc5d0\uc694.\n  > Summary: AI\ub294 \uc6b0\ub9ac\uac00 \uc81c\uc791\ud558\ub294 \uac83\uacfc \uc81c\uc791\uc790\uc758 \ubcc0\ud654\ub97c \uc774\ub04c\uace0 \uc788\uc9c0\ub9cc, \uc0dd\uc0b0\ub7c9 \uc790\uccb4\ub294 \ubcc0\ud558\uc9c0 \uc54a\ub294\ub2e4\uace0..."
-    },
-    {
-      "timestamp": "2026-02-16 10:48:20",
-      "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
-    },
     {
       "timestamp": "2026-02-16 10:48:22",
       "message": "[SKIP] Irrelevant (AI Filter): \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-16 10:48:46",
       "message": "Reprocessing: Anthropic and Databricks raise billions more. Next stop: IPOs?"
+    },
+    {
+      "timestamp": "2026-02-16 10:48:47",
+      "message": "[SKIP] Content too short: Anthropic and Databricks raise..."
+    },
+    {
+      "timestamp": "2026-02-16 10:48:48",
+      "message": "Reprocessing: Six shifts that will make or break enterprise AI"
     }
   ]
 }
