@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-16 05:13:44",
+  "last_updated": "2026-02-16 05:13:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 05:13:18",
-      "message": "[SUCCESS] Processed: OpenAI, Nvidia\ub97c \ub118\uc5b4\uc11c\ub294 \uccab \ubc88\uc9f8 \uc8fc\uc694 \uc6c0\uc9c1\uc784\uc73c\ub85c Cerebras \uce69 \ubc30\ud3ec\n  > Summary: OpenAI\uac00 near-instantaneous \uc751\ub2f5 \uc2dc\uac04\uc744 \uc704\ud574 \uc124\uacc4\ub41c \ucf54\ub529 \ubaa8\ub378 GPT..."
-    },
     {
       "timestamp": "2026-02-16 05:13:20",
       "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-16 05:13:44",
       "message": "Reprocessing: Anthropic and Databricks raise billions more. Next stop: IPOs?"
+    },
+    {
+      "timestamp": "2026-02-16 05:13:45",
+      "message": "[SKIP] Content too short: Anthropic and Databricks raise..."
     }
   ]
 }
