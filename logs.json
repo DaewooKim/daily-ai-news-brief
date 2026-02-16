@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-16 06:25:22",
+  "last_updated": "2026-02-16 06:25:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 06:24:56",
-      "message": "[SUCCESS] Processed: \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc758 \uc885\ub9d0? \ucc9c\ub9cc\uc5d0\uc694.\n  > Summary: AI\ub294 \ud604\uc7ac\uc758 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc0dd\ud0dc\uacc4\ub97c \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\uc9c0\ub9cc, \ub354 \ub9ce\uc740 \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc758 \ud544\uc694\uc131\uc740 \uc5ec\uc804\ud569..."
-    },
-    {
-      "timestamp": "2026-02-16 06:24:57",
-      "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
-    },
     {
       "timestamp": "2026-02-16 06:24:59",
       "message": "[SKIP] Irrelevant (AI Filter): \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-16 06:25:22",
       "message": "[SKIP] Content too short: OpenAI\u2019s rapid GPT-5.3-Codex m..."
+    },
+    {
+      "timestamp": "2026-02-16 06:25:23",
+      "message": "[SKIP] Content too short: Coinbase misses earnings estim..."
+    },
+    {
+      "timestamp": "2026-02-16 06:25:24",
+      "message": "[SKIP] Content too short: Anthropic closes $30B round af..."
     }
   ]
 }
