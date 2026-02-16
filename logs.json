@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-16 12:58:47",
+  "last_updated": "2026-02-16 12:58:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 12:58:16",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: \uc18c\ub2c8\ub294 AI \ubd90\uc73c\ub85c \uba54\ubaa8\ub9ac \uce69 \uc218\uc694\uac00 \uae09\uc99d\ud568\uc5d0 \ub530\ub77c \ucc28\uae30 \ud50c\ub808\uc774\uc2a4\ud14c\uc774\uc158 \ucf58\uc194 \ucd9c\uc2dc\ub97c 2028\ub144 \ub610\ub294 2029\ub144\uc73c\ub85c \ubbf8\ub8e8\ub294 \uac83\uc744 \uace0\ub824\ud558\uace0 \uc788\ub2e4.\n  > Summary: \uc18c\ub2c8\ub294 \ucc28\uae30 \ud50c\ub808\uc774\uc2a4\ud14c\uc774\uc158 \ucf58\uc194\uc758 \ucd9c\uc2dc\ub97c 2028\ub144\uc774\ub098 2029\ub144\uc73c\ub85c \ubbf8\ub8e8\ub294 \uac83\uc744 \uac80\ud1a0\ud558\uace0..."
-    },
     {
       "timestamp": "2026-02-16 12:58:18",
       "message": "[PROCESSING] Analyzing: London lawsuit: Getir co-founders Nazim Salur and Serkan Boran\u00e7\u0131l\u0131 sue Abu Dhabi's Mubadala for $700M, alleging a \"significant loss\" in breaking up Getir assets (Suzi Ring/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-16 12:58:47",
       "message": "[PROCESSING] Analyzing: CNT Nano Sandpaper For Atomic-Level Polishing (KAIST)..."
+    },
+    {
+      "timestamp": "2026-02-16 12:58:49",
+      "message": "[SKIP] Irrelevant (AI Filter): CNT Nano Sandpaper For Atomic-Level Polishing (KAIST)"
     }
   ]
 }
