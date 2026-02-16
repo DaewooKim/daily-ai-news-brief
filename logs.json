@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-16 16:13:31",
+  "last_updated": "2026-02-16 16:13:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-16 16:12:56",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-16 16:12:56",
       "message": "[PROCESSING] Analyzing: Here are the 50 best Presidents Day deals we\u2019ve found so far..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-16 16:13:31",
       "message": "[PROCESSING] Analyzing: Longtime NPR host David Greene sues Google over NotebookLM voice..."
+    },
+    {
+      "timestamp": "2026-02-16 16:13:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Longtime NPR host David Greene sues Google over NotebookLM voice"
     }
   ]
 }
