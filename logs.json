@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 04:07:25",
+  "last_updated": "2026-02-17 04:07:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 04:06:50",
-      "message": "[PROCESSING] Analyzing: Introducing GPT-5.3-Codex-Spark..."
-    },
     {
       "timestamp": "2026-02-17 04:06:53",
       "message": "[SUCCESS] Processed: GPT-5.3-Codex-Spark \uc18c\uac1c\n  > Summary: GPT-5.3-Codex-Spark\uac00 \uc18c\uac1c\ub429\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 \ucd5c\ucd08\uc758 \uc2e4\uc2dc\uac04 \ucf54\ub529 \ubaa8\ub378\ub85c, ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 04:07:25",
       "message": "[PROCESSING] Analyzing: NRC Intervention Tests the Data Center Case for SMRs in Texas..."
+    },
+    {
+      "timestamp": "2026-02-17 04:07:27",
+      "message": "[SKIP] Irrelevant (AI Filter): NRC Intervention Tests the Data Center Case for SMRs in Texas"
     }
   ]
 }
