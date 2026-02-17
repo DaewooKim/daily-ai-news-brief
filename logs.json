@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 07:23:16",
+  "last_updated": "2026-02-17 07:23:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 07:22:42",
-      "message": "[PROCESSING] Analyzing: Sources: US healthcare manufacturer Danaher is nearing a deal to buy medtech company Masimo for ~$10B; Masimo is in an IP dispute with Apple over Apple Watch (Financial Times)..."
-    },
     {
       "timestamp": "2026-02-17 07:22:44",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: US healthcare manufacturer Danaher is nearing a deal to buy medtech company Masimo for ~$10B; Masimo is in an IP dispute with Apple over Apple Watch (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 07:23:16",
       "message": "[SUCCESS] Processed: POET Technologies, \uace0\uae09 AI \uc5f0\uacb0\uc131\uc73c\ub85c \ub77c\uc774\ud2b8\uc6e8\uc774\ube0c \uc5b4\uc6cc\ub4dc \uc218\uc0c1\n  > Summary: POET Technologies Inc.\uac00 \ub77c\uc774\ud2b8\uc6e8\uc774\ube0c \ud601\uc2e0 \ub9ac\ubdf0\uc758 \uc81c13\ud68c \uc5f0\ub840 \uc2dc\uc0c1\uc2dd\uc5d0..."
+    },
+    {
+      "timestamp": "2026-02-17 07:23:18",
+      "message": "Reprocessing: AMD and TCS to Bring \u2018Helios\u2019 Rack-Scale AI Architecture to India"
     }
   ]
 }
