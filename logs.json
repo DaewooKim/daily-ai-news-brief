@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-17 19:26:55",
+  "last_updated": "2026-02-17 19:26:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 19:26:18",
-      "message": "[SUCCESS] Processed: OpenAI\uc758 OpenClaw \uc778\uc218, ChatGPT \uc2dc\ub300\uc758 \ub05d\uc744 \uc54c\ub9ac\ub2e4\n  > Summary: OpenAI\uac00 OpenClaw\ub97c \uc778\uc218\ud558\uba74\uc11c \ucc57\ubd07 \uc2dc\ub300\uc758 \uc885\ub9d0\uc744 \uace0\ud558\ub294 \uc2e0\ud638\ub97c \ubcf4\ub0c8\uc2b5\ub2c8\ub2e4. ..."
-    },
-    {
-      "timestamp": "2026-02-17 19:26:20",
-      "message": "Reprocessing: SurrealDB 3.0 wants to replace your five-database RAG stack with one"
-    },
     {
       "timestamp": "2026-02-17 19:26:21",
       "message": "[PROCESSING] Analyzing: SurrealDB 3.0 wants to replace your five-database RAG stack with one..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-17 19:26:55",
       "message": "Reprocessing: Mistral AI acquires AI infrastructure startup Koyeb"
+    },
+    {
+      "timestamp": "2026-02-17 19:26:56",
+      "message": "[SKIP] Content too short: Mistral AI acquires AI infrast..."
+    },
+    {
+      "timestamp": "2026-02-17 19:26:57",
+      "message": "Reprocessing: Wallarm warns APIs are fueling AI-era breaches at machine speed"
     }
   ]
 }
