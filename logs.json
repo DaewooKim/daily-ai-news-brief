@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 00:54:40",
+  "last_updated": "2026-02-17 00:54:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 00:54:15",
-      "message": "[SUCCESS] Processed: OpenAI, \uccab \ubc88\uc9f8 Nvidia \uc774\uc678\uc758 \uc8fc\uc694 \ud30c\ud2b8\ub108\uc2ed\uc73c\ub85c Cerebras \uce69\uc744 \ubc30\ud3ec\ud558\uc5ec '\uadfc\uc811 \uc989\uc2dc' \ucf54\ub4dc \uc0dd\uc131 \uc2dc\uc791\n  > Summary: OpenAI\ub294 \ube60\ub978 \uc751\ub2f5 \uc2dc\uac04\uc744 \ubaa9\ud45c\ub85c \ud55c \uc0c8\ub85c\uc6b4 \ucf54\ub4dc \uc0dd\uc131 \ubaa8\ub378 'GPT-5.3-Code..."
-    },
     {
       "timestamp": "2026-02-17 00:54:16",
       "message": "[PROCESSING] Analyzing: \uc815\ubcf4\ub294 \uacb0\ucf54 \uacf5\uc9dc\uc600\ub358 \uc801\uc774 \uc5c6\ub2e4. \uc55e\uc73c\ub85c\ub3c4 \uadf8\ub7f4 \uac83\uc774\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 00:54:40",
       "message": "Reprocessing: Sales software companies Seismic and Highspot to merge"
+    },
+    {
+      "timestamp": "2026-02-17 00:54:42",
+      "message": "[SKIP] Content too short: Sales software companies Seism..."
     }
   ]
 }
