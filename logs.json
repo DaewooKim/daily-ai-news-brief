@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 19:27:02",
+  "last_updated": "2026-02-17 19:27:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 19:26:34",
-      "message": "[SUCCESS] Processed: Qodo 2.1, \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc758 '\uae30\uc5b5\uc0c1\uc2e4' \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uc5ec 11%\uc758 \uc815\ubc00\ub3c4\ub97c \ud5a5\uc0c1\uc2dc\ud0b5\ub2c8\ub2e4.\n  > Summary: AI \uae30\ubc18 \ucf54\ub529 \ub3c4\uad6c\uc758 \ud55c\uacc4\uc778 \uae30\uc5b5 \uc0c1\uc2e4 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud574 Qodo\ub294 2.1 \ubc84\uc804\uc744 \ucd9c..."
-    },
     {
       "timestamp": "2026-02-17 19:26:36",
       "message": "[PROCESSING] Analyzing: Most ransomware playbooks don't address machine credentials. Attackers know it...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 19:27:02",
       "message": "Reprocessing: SurrealDB raises $23M to expand AI-native multimodel database"
+    },
+    {
+      "timestamp": "2026-02-17 19:27:04",
+      "message": "[SKIP] Content too short: SurrealDB raises $23M to expan..."
     }
   ]
 }
