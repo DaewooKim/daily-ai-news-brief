@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 21:39:26",
+  "last_updated": "2026-02-17 21:39:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 21:38:43",
-      "message": "[PROCESSING] Analyzing: SurrealDB 3.0 wants to replace your five-database RAG stack with one..."
-    },
     {
       "timestamp": "2026-02-17 21:38:49",
       "message": "[SUCCESS] Processed: \uc11c\ub9ac\uc5bcDB 3.0, \ub2f9\uc2e0\uc758 \ub2e4\uc12f \uac1c \ub370\uc774\ud130\ubca0\uc774\uc2a4 RAG \uc2a4\ud0dd\uc744 \ud558\ub098\ub85c \ub300\uccb4\ud558\uace0 \uc2f6\uc5b4\ud558\ub2e4\n  > Summary: \uc11c\ub9ac\uc5bcDB\ub294 AI \uc5d0\uc774\uc804\ud2b8\uc758 \uac80\uc0c9 \uc99d\uac15 \uc0dd\uc131(RAG) \uc2dc\uc2a4\ud15c\uc744 \uad6c\ucd95\ud558\ub294 \ub370 \uc788\uc5b4 \ub2e4\uc911 \ub370\uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 21:39:26",
       "message": "[SKIP] Content too short: Mistral AI acquires AI infrast..."
+    },
+    {
+      "timestamp": "2026-02-17 21:39:27",
+      "message": "Reprocessing: Wallarm warns APIs are fueling AI-era breaches at machine speed"
     }
   ]
 }
