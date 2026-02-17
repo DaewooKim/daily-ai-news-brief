@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 18:20:30",
+  "last_updated": "2026-02-17 18:20:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 18:19:54",
-      "message": "[SUCCESS] Processed: OpenAI\uc758 OpenClaw \uc778\uc218, ChatGPT \uc2dc\ub300\uc758 \uc2dc\uc791\uacfc \ub05d\uc744 \uc54c\ub9ac\ub2e4\n  > Summary: OpenAI\ub294 OpenClaw\uc758 \ucc3d\ub9bd\uc790 \ud53c\ud130 \uc2a4\ud0c0\uc778\ubc84\uac70\ub97c \uc601\uc785\ud558\uc5ec \uc790\uc728 \uc5d0\uc774\uc804\ud2b8 \uac1c\ubc1c\uc5d0 \uc9d1..."
-    },
     {
       "timestamp": "2026-02-17 18:19:56",
       "message": "Reprocessing: SurrealDB 3.0 wants to replace your five-database RAG stack with one"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 18:20:30",
       "message": "Reprocessing: Wallarm warns APIs are fueling AI-era breaches at machine speed"
+    },
+    {
+      "timestamp": "2026-02-17 18:20:31",
+      "message": "[SKIP] Content too short: Wallarm warns APIs are fueling..."
     }
   ]
 }
