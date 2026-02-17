@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 03:03:55",
+  "last_updated": "2026-02-17 03:03:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 03:03:18",
-      "message": "[SUCCESS] Processed: \uadf9\uc801 \uc720\uc804 \uad6c\uc18d\uc744 \uac00\uc9c4 \ub098\ub178 \ub808\uc774\uc800\ub85c \ub354 \uc801\uc740 \uc804\ub825\uacfc \ub192\uc740 \uc131\ub2a5\n  > Summary: \ub374\ub9c8\ud06c \uae30\uc220\ub300\ud559\uad50(DTU)\uc758 \uc5f0\uad6c\uc6d0\ub4e4\uc774 '\uadf9\uc801 \uc720\uc804 \uad6c\uc18d\uc744 \uac00\uc9c4 \ub098\ub178 \ub808\uc774\uc800'\ub77c\ub294 \uc81c\ubaa9\uc758 ..."
-    },
     {
       "timestamp": "2026-02-17 03:03:19",
       "message": "Reprocessing: Carrier Mapping in Sub-2nm Node NSFETs with SSRM (imec, KU Leuven)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 03:03:55",
       "message": "[PROCESSING] Analyzing: New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable..."
+    },
+    {
+      "timestamp": "2026-02-17 03:03:57",
+      "message": "[SKIP] Irrelevant (AI Filter): New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable"
     }
   ]
 }
