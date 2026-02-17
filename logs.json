@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-17 12:49:40",
+  "last_updated": "2026-02-17 12:49:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 12:49:13",
-      "message": "[PROCESSING] Analyzing: \uc815\ubcf4\ub294 \uacb0\ucf54 \uacf5\uc9dc\uc600\ub358 \uc801\uc774 \uc5c6\ub2e4. \uc55e\uc73c\ub85c\ub3c4 \uadf8\ub7f4 \uac83\uc774\ub2e4...."
-    },
-    {
-      "timestamp": "2026-02-17 12:49:15",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc815\ubcf4\ub294 \uacb0\ucf54 \uacf5\uc9dc\uc600\ub358 \uc801\uc774 \uc5c6\ub2e4. \uc55e\uc73c\ub85c\ub3c4 \uadf8\ub7f4 \uac83\uc774\ub2e4."
-    },
     {
       "timestamp": "2026-02-17 12:49:16",
       "message": "[PROCESSING] Analyzing: \uc88c\uc808\uc744 \ub51b\uace0 \ub098\uc544\uac00\ub294 \ubc95: \uc820\uc2a8 \ud669\uc774 \ub2f9\uc2e0\uc5d0\uac8c \u2018\uace0\ud1b5\uacfc \uc2dc\ub828\u2019\uc744 \uae30\uc6d0\ud558\ub294 \uc774\uc720..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-17 12:49:40",
       "message": "Reprocessing: OpenAI hires OpenClaw founder Peter Steinberger in push toward autonomous agents"
+    },
+    {
+      "timestamp": "2026-02-17 12:49:41",
+      "message": "[SKIP] Content too short: OpenAI hires OpenClaw founder ..."
+    },
+    {
+      "timestamp": "2026-02-17 12:49:42",
+      "message": "Reprocessing: TheCUBE Research 2026 predictions: The year of enterprise ROI"
     }
   ]
 }
