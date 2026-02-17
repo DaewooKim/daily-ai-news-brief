@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 04:10:38",
+  "last_updated": "2026-02-17 04:10:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 04:10:13",
-      "message": "[SKIP] Content too short: Coinbase misses earnings estim..."
-    },
     {
       "timestamp": "2026-02-17 04:10:15",
       "message": "Reprocessing: Anthropic closes $30B round after annualized revenue tops $14B"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 04:10:38",
       "message": "[PROCESSING] Analyzing: YuanLey AQC113-X1 10Gbase-T PCIe Network Card Review..."
+    },
+    {
+      "timestamp": "2026-02-17 04:10:40",
+      "message": "[SKIP] Irrelevant (AI Filter): YuanLey AQC113-X1 10Gbase-T PCIe Network Card Review"
     }
   ]
 }
