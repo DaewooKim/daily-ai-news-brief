@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 11:44:49",
+  "last_updated": "2026-02-17 11:44:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 11:44:22",
-      "message": "[SUCCESS] Processed: OpenAI, Nvidia\ub97c \ub118\uc5b4 '\uac70\uc758 \uc989\uac01\uc801\uc778' \ucf54\ub4dc \uc0dd\uc131\uc744 \uc704\ud55c Cerebras \uce69 \ubc30\ud3ec\n  > Summary: OpenAI\ub294 \ucd5c\uadfc 'GPT-5.3-Codex-Spark' \ubaa8\ub378\uc744 \ucd9c\uc2dc\ud558\uba70 Nvidia \uc678..."
-    },
     {
       "timestamp": "2026-02-17 11:44:24",
       "message": "[PROCESSING] Analyzing: \uc815\ubcf4\ub294 \uacb0\ucf54 \uacf5\uc9dc\uc600\ub358 \uc801\uc774 \uc5c6\ub2e4. \uc55e\uc73c\ub85c\ub3c4 \uadf8\ub7f4 \uac83\uc774\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 11:44:49",
       "message": "Reprocessing: OpenAI hires OpenClaw founder Peter Steinberger in push toward autonomous agents"
+    },
+    {
+      "timestamp": "2026-02-17 11:44:50",
+      "message": "[SKIP] Content too short: OpenAI hires OpenClaw founder ..."
     }
   ]
 }
