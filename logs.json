@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 18:18:13",
+  "last_updated": "2026-02-17 18:18:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 18:17:36",
-      "message": "[PROCESSING] Analyzing: SpendRule raises $2M, emerges from stealth to help hospitals track spending..."
-    },
     {
       "timestamp": "2026-02-17 18:17:39",
       "message": "[SUCCESS] Processed: SpendRule, stealth\uc5d0\uc11c \ub098\uc628 \ud6c4 \ubcd1\uc6d0 \uc9c0\ucd9c \ucd94\uc801\uc744 \ub3d5\uae30 \uc704\ud574 200\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: SpendRule\uc740 \uc9c0\ub09c \uc5ec\ub984\uc5d0 \ucd9c\ubc94\ud55c AI \uae30\ubc18 \ud50c\ub7ab\ud3fc\uc73c\ub85c, \uc758\ub8cc \uc2dc\uc2a4\ud15c\uc774 \uc9c0\ucd9c\uc744 \ucd94\uc801\ud560..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 18:18:13",
       "message": "[PROCESSING] Analyzing: Beyond the Chiller: Rethinking PUE Through System-Level Energy Recovery..."
+    },
+    {
+      "timestamp": "2026-02-17 18:18:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Beyond the Chiller: Rethinking PUE Through System-Level Energy Recovery"
     }
   ]
 }
