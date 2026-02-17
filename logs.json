@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 19:26:57",
+  "last_updated": "2026-02-17 19:26:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 19:26:21",
-      "message": "[PROCESSING] Analyzing: SurrealDB 3.0 wants to replace your five-database RAG stack with one..."
-    },
     {
       "timestamp": "2026-02-17 19:26:26",
       "message": "[SUCCESS] Processed: SurrealDB 3.0\ub294 \ub2f9\uc2e0\uc758 \ub2e4\uc12f \uac1c \ub370\uc774\ud130\ubca0\uc774\uc2a4 RAG \uc2a4\ud0dd\uc744 \ud558\ub098\ub85c \ub300\uccb4\ud558\uace0\uc790 \ud569\ub2c8\ub2e4\n  > Summary: SurrealDB\uac00 \uc0c8\ub85c\uc6b4 3.0 \ubc84\uc804\uc744 \ucd9c\uc2dc\ud558\uba70, \ubcf5\uc7a1\ud55c AI \uc5d0\uc774\uc804\ud2b8 \uc2dc\uc2a4\ud15c\uc5d0\uc11c \ub370\uc774\ud130..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 19:26:57",
       "message": "Reprocessing: Wallarm warns APIs are fueling AI-era breaches at machine speed"
+    },
+    {
+      "timestamp": "2026-02-17 19:26:59",
+      "message": "[SKIP] Content too short: Wallarm warns APIs are fueling..."
     }
   ]
 }
