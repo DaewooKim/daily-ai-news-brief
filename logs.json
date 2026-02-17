@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 18:20:41",
+  "last_updated": "2026-02-17 18:20:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 18:20:12",
-      "message": "[SKIP] Irrelevant (AI Filter): Most ransomware playbooks don't address machine credentials. Attackers know it."
-    },
     {
       "timestamp": "2026-02-17 18:20:14",
       "message": "[PROCESSING] Analyzing: \uc815\ubcf4\ub294 \uacb0\ucf54 \uacf5\uc9dc\uc600\ub358 \uc801\uc774 \uc5c6\ub2e4. \uc55e\uc73c\ub85c\ub3c4 \uadf8\ub7f4 \uac83\uc774\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 18:20:41",
       "message": "Reprocessing: Glean adds a bit more sheen to its enterprise AI assistant"
+    },
+    {
+      "timestamp": "2026-02-17 18:20:42",
+      "message": "[SKIP] Content too short: Glean adds a bit more sheen to..."
     }
   ]
 }
