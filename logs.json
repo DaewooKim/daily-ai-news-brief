@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-17 18:19:05",
+  "last_updated": "2026-02-17 18:19:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-17 18:18:22",
-      "message": "[PROCESSING] Analyzing: Anthropic launches Claude Sonnet 4.6 with improvements in coding, consistency, and more, for Free and Pro users; it features a 1M token context window in beta (Anthropic)..."
-    },
     {
       "timestamp": "2026-02-17 18:18:25",
       "message": "[SUCCESS] Processed: \uc548\ud2b8\ub85c\ud53d, \ubb34\ub8cc \ubc0f \ud504\ub85c \uc0ac\uc6a9\uc790\ub97c \uc704\ud55c \ucf54\ub529, \uc77c\uad00\uc131 \ubc0f \uae30\ud0c0 \uac1c\uc120 \uc0ac\ud56d\uc744 \uac16\ucd98 Claude Sonnet 4.6 \ucd9c\uc2dc; \ubca0\ud0c0\uc5d0\uc11c 100\ub9cc \ud1a0\ud070 \ucee8\ud14d\uc2a4\ud2b8 \ucc3d \uc81c\uacf5\n  > Summary: \uc548\ud2b8\ub85c\ud53d\uc774 Claude Sonnet 4.6\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 \ucf54\ub529 \ubc0f \ucef4\ud4e8\ud130 \uc0ac\uc6a9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-17 18:19:05",
       "message": "[PROCESSING] Analyzing: Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)..."
+    },
+    {
+      "timestamp": "2026-02-17 18:19:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)"
     }
   ]
 }
