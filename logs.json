@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 05:17:27",
+  "last_updated": "2026-02-18 05:17:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 05:17:00",
-      "message": "[PROCESSING] Analyzing: Most ransomware playbooks don't address machine credentials. Attackers know it...."
-    },
     {
       "timestamp": "2026-02-18 05:17:02",
       "message": "[SKIP] Irrelevant (AI Filter): Most ransomware playbooks don't address machine credentials. Attackers know it."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 05:17:27",
       "message": "Reprocessing: VulnCheck raises $25M to expand real-time exploit intelligence platform"
+    },
+    {
+      "timestamp": "2026-02-18 05:17:29",
+      "message": "[SKIP] Content too short: VulnCheck raises $25M to expan..."
     }
   ]
 }
