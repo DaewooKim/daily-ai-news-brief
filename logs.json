@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 17:18:03",
+  "last_updated": "2026-02-18 17:18:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 17:17:34",
-      "message": "[PROCESSING] Analyzing: Most ransomware playbooks don't address machine credentials. Attackers know it...."
-    },
     {
       "timestamp": "2026-02-18 17:17:36",
       "message": "[SKIP] Irrelevant (AI Filter): Most ransomware playbooks don't address machine credentials. Attackers know it."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 17:18:03",
       "message": "Reprocessing: Network observability startup Selector reels in $32M"
+    },
+    {
+      "timestamp": "2026-02-18 17:18:05",
+      "message": "[SKIP] Content too short: Network observability startup ..."
     }
   ]
 }
