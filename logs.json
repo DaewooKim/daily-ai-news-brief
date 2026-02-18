@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 05:16:18",
+  "last_updated": "2026-02-18 05:16:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 05:15:41",
-      "message": "[PROCESSING] Analyzing: Yotta says it is investing $2B to deploy Nvidia's Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia's largest AI superclusters (Himanshi Lohchab/The Economic Times)..."
-    },
     {
       "timestamp": "2026-02-18 05:15:45",
       "message": "[SUCCESS] Processed: Yotta\ub294 \uc778\ub3c4 \ub178\uc774\ub2e4 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc5d0 Nvidia\uc758 Blackwell B300 GPU\ub97c \ubc30\uce58\ud558\uae30 \uc704\ud574 20\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Yotta\ub294 \uc778\ub3c4 \ub178\uc774\ub2e4\uc5d0 \uc704\uce58\ud55c \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\uc5d0 Nvidia\uc758 \ucd5c\uc2e0 AI \uce69\uc778 Bl..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 05:16:18",
       "message": "[SKIP] Irrelevant (AI Filter): Stripe's stablecoin firm Bridge wins conditional approval from the US OCC to form a national trust bank, which would allow it to issue and manage stablecoins (Krisztian Sandor/CoinDesk)"
+    },
+    {
+      "timestamp": "2026-02-18 05:16:19",
+      "message": "Reprocessing: Carrier Mapping in Sub-2nm Node NSFETs with SSRM (imec, KU Leuven)"
     }
   ]
 }
