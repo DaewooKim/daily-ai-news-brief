@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 05:16:07",
+  "last_updated": "2026-02-18 05:16:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 05:15:27",
-      "message": "[SUCCESS] Processed: AI\uac00 CES 2026\uc5d0\uc11c AV \ubaa8\uba58\ud140\uc744 \uc8fc\ub3c4\ud558\ub2e4\n  > Summary: CES 2026\uc5d0\uc11c\ub294 \uac70\uc758 \ubaa8\ub4e0 \uc81c\ud488 \ubc0f \uc11c\ube44\uc2a4 \uc138\uadf8\uba3c\ud2b8\uc5d0 \uac78\uccd0 \uc790\ub3d9\ucc28 \uacf5\uae09\uc5c5\uccb4\ub4e4\uc774 \ucc38\uac00\ud588..."
-    },
     {
       "timestamp": "2026-02-18 05:15:29",
       "message": "[PROCESSING] Analyzing: NRC Intervention Tests the Data Center Case for SMRs in Texas..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 05:16:07",
       "message": "[PROCESSING] Analyzing: Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday's close; the offering is oversubscribed (Anthony Hughes/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-02-18 05:16:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday's close; the offering is oversubscribed (Anthony Hughes/Bloomberg)"
     }
   ]
 }
