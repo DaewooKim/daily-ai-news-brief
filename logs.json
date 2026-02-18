@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 12:50:33",
+  "last_updated": "2026-02-18 12:50:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 12:49:56",
-      "message": "Found 139 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-18 12:49:56",
       "message": "Reprocessing: Perplexity joins anti-ad camp as AI companies battle over trust and revenue"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 12:50:33",
       "message": "[PROCESSING] Analyzing: Amazon Fire TV\u2019s new interface is now rolling out in the US..."
+    },
+    {
+      "timestamp": "2026-02-18 12:50:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon Fire TV\u2019s new interface is now rolling out in the US"
     }
   ]
 }
