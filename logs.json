@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 10:42:42",
+  "last_updated": "2026-02-18 10:42:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 10:42:00",
-      "message": "Reprocessing: Perplexity says it has no plans to further pursue ads, which it introduced in 2024, after phasing them out in late 2025 over fears they would erode user trust (Cristina Criddle/Financial Times)"
-    },
     {
       "timestamp": "2026-02-18 10:42:02",
       "message": "[PROCESSING] Analyzing: Perplexity says it has no plans to further pursue ads, which it introduced in 2024, after phasing them out in late 2025 over fears they would erode user trust (Cristina Criddle/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 10:42:42",
       "message": "[PROCESSING] Analyzing: Most ransomware playbooks don't address machine credentials. Attackers know it...."
+    },
+    {
+      "timestamp": "2026-02-18 10:42:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Most ransomware playbooks don't address machine credentials. Attackers know it."
     }
   ]
 }
