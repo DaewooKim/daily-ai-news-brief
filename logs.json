@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 05:16:16",
+  "last_updated": "2026-02-18 05:16:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 05:15:40",
-      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, \uc778\ub3c4\uc5d0\uc11c AI \uc2a4\ud0c0\ud2b8\uc5c5 \uc790\uae08\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 Peak XV \ubc0f \uae30\ud0c0 VC \ud68c\uc0ac\uc640 \ud611\ub825 \uc911; 4,000\uac1c \uc774\uc0c1\uc758 \uc778\ub3c4 AI \uc2a4\ud0c0\ud2b8\uc5c5\uc774 \uae00\ub85c\ubc8c \uc2a4\ud0c0\ud2b8\uc5c5 \ud504\ub85c\uadf8\ub7a8\uc5d0 \uac00\uc785\n  > Summary: \uc5d4\ube44\ub514\uc544\ub294 \uc778\ub3c4\uc5d0\uc11c Peak XV \ubc0f \uae30\ud0c0 \ubca4\ucc98 \uc790\ubcf8 \ud68c\uc0ac\uc640 \ud611\ub825\ud558\uc5ec AI \uc2a4\ud0c0\ud2b8\uc5c5\uc5d0 \uc790\uae08..."
-    },
     {
       "timestamp": "2026-02-18 05:15:41",
       "message": "[PROCESSING] Analyzing: Yotta says it is investing $2B to deploy Nvidia's Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia's largest AI superclusters (Himanshi Lohchab/The Economic Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 05:16:16",
       "message": "[PROCESSING] Analyzing: Stripe's stablecoin firm Bridge wins conditional approval from the US OCC to form a national trust bank, which would allow it to issue and manage stablecoins (Krisztian Sandor/CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-02-18 05:16:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Stripe's stablecoin firm Bridge wins conditional approval from the US OCC to form a national trust bank, which would allow it to issue and manage stablecoins (Krisztian Sandor/CoinDesk)"
     }
   ]
 }
