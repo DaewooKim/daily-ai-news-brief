@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-18 03:07:03",
+  "last_updated": "2026-02-18 03:07:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-18 03:06:35",
-      "message": "[PROCESSING] Analyzing: Most ransomware playbooks don't address machine credentials. Attackers know it...."
-    },
     {
       "timestamp": "2026-02-18 03:06:37",
       "message": "[SKIP] Irrelevant (AI Filter): Most ransomware playbooks don't address machine credentials. Attackers know it."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-18 03:07:03",
       "message": "[SKIP] Content too short: Palo Alto Networks shares fall..."
+    },
+    {
+      "timestamp": "2026-02-18 03:07:04",
+      "message": "Reprocessing: Palo Alto Networks acquires file security startup Koi for reported $400M"
     }
   ]
 }
