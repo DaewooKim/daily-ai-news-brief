@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 06:23:51",
+  "last_updated": "2026-02-19 06:23:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 06:23:11",
-      "message": "[PROCESSING] Analyzing: Sources: Accenture told execs promotions would require \"regular adoption\" of AI and is tracking individual weekly logins to its AI tools for some senior staff (Financial Times)..."
-    },
     {
       "timestamp": "2026-02-19 06:23:16",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc561\uc13c\uce04\uc5b4, \uacbd\uc601\uc9c4\uc5d0\uac8c \uc2b9\uc9c4\uc744 \uc704\ud574\uc11c\ub294 AI\uc758 '\uc815\uae30\uc801\uc778 \ud65c\uc6a9'\uc774 \ud544\uc694\ud558\ub2e4\uace0 \ud1b5\ubcf4\ud558\uba70 \uc77c\ubd80 \uace0\uc704 \uc9c1\uc6d0\uc758 AI \ub3c4\uad6c\uc5d0 \ub300\ud55c \uc8fc\uac04 \ub85c\uadf8\uc778 \ucd94\uc801\n  > Summary: \uc561\uc13c\uce04\uc5b4\ub294 \uacbd\uc601\uc9c4\uc5d0\uac8c \uc2b9\uc9c4\uc744 \uc704\ud574 AI\uc758 \uc815\uae30\uc801\uc778 \ud65c\uc6a9\uc774 \ud544\uc694\ud558\ub2e4\uace0 \uc54c\ub838\uc2b5\ub2c8\ub2e4. \ub610\ud55c, \uc77c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 06:23:51",
       "message": "[PROCESSING] Analyzing: Sources: the US State Department is developing an online portal at \"freedom.gov\" to let users in Europe and elsewhere view content banned by their governments (Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-19 06:23:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the US State Department is developing an online portal at \"freedom.gov\" to let users in Europe and elsewhere view content banned by their governments (Reuters)"
     }
   ]
 }
