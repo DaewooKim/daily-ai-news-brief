@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 19:31:35",
+  "last_updated": "2026-02-19 19:31:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 19:30:46",
-      "message": "Reprocessing: CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale"
-    },
     {
       "timestamp": "2026-02-19 19:30:48",
       "message": "[PROCESSING] Analyzing: CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 19:31:35",
       "message": "[PROCESSING] Analyzing: LoRa Alliance 2025 Report Highlights LoRaWAN Growth..."
+    },
+    {
+      "timestamp": "2026-02-19 19:31:37",
+      "message": "[SKIP] Irrelevant (AI Filter): LoRa Alliance 2025 Report Highlights LoRaWAN Growth"
     }
   ]
 }
