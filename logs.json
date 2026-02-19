@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 18:22:37",
+  "last_updated": "2026-02-19 18:22:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 18:22:03",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-19 18:22:03",
       "message": "[PROCESSING] Analyzing: Texas is suing TP-Link over its ties to China..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 18:22:37",
       "message": "[PROCESSING] Analyzing: Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization..."
+    },
+    {
+      "timestamp": "2026-02-19 18:22:41",
+      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544 \ub2e4\uc911 \uc778\uc2a4\ud134\uc2a4 GPU\uc640 NUMA \ub178\ub4dc \ub85c\uceec\ud654\ub85c \ub370\uc774\ud130 \ucc98\ub9ac \uac00\uc18d\ud654\n  > Summary: \uc774 \uae30\uc0ac\ub294 NVIDIA\uc758 Ampere, Hopper, Blackwell \ub370\uc774\ud130 \uc13c\ud130 GPU..."
     }
   ]
 }
