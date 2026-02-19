@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 19:29:53",
+  "last_updated": "2026-02-19 19:29:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 19:29:13",
-      "message": "[PROCESSING] Analyzing: OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW..."
-    },
     {
       "timestamp": "2026-02-19 19:29:17",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, \uc778\ub3c4\uc5d0\uc11c 100MW AI \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc744 \uc704\ud574 \ud0c0\ud0c0\uc640 \uacc4\uc57d \uccb4\uacb0, 1GW \ubaa9\ud45c\n  > Summary: \uc624\ud508AI\ub294 \uc778\ub3c4\uc5d0\uc11c 100MW\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud558\uae30 \uc704\ud574 \ud0c0\ud0c0\uc640 \ud611\ub825\ud558\uba70, ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 19:29:53",
       "message": "[PROCESSING] Analyzing: NRC Intervention Tests the Data Center Case for SMRs in Texas..."
+    },
+    {
+      "timestamp": "2026-02-19 19:29:56",
+      "message": "[SKIP] Irrelevant (AI Filter): NRC Intervention Tests the Data Center Case for SMRs in Texas"
     }
   ]
 }
