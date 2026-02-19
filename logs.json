@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 19:30:43",
+  "last_updated": "2026-02-19 19:30:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 19:30:08",
-      "message": "[SUCCESS] Processed: \ub808\ub527\uc774 \ucee4\ubba4\ub2c8\ud2f0 \ucd94\ucc9c\uc744 \uae30\ubc18\uc73c\ub85c \uad11\uace0\uc8fc \uc81c\ud488\uc744 \ubcf4\uc5ec\uc8fc\ub294 AI \uac80\uc0c9 \uae30\ub2a5\uc744 \ud14c\uc2a4\ud2b8 \uc911\uc785\ub2c8\ub2e4\n  > Summary: \ub808\ub527\uc740 \ucee4\ubba4\ub2c8\ud2f0 \ucd94\ucc9c\uc744 \ubc14\ud0d5\uc73c\ub85c \uad11\uace0\uc8fc \uc81c\ud488\uacfc \ub9e4\uce6d\ud558\ub294 \uc0c8\ub85c\uc6b4 AI \uac80\uc0c9 \ub3c4\uad6c\ub97c \ud14c\uc2a4\ud2b8\ud558\uace0..."
-    },
     {
       "timestamp": "2026-02-19 19:30:09",
       "message": "[PROCESSING] Analyzing: Cleveland-based Eagle Wireless, which makes cellular modules used in IoT devices, raised a $30M Series B as the US seeks to reduce its reliance on China (Chris Metinko/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 19:30:43",
       "message": "[PROCESSING] Analyzing: Wi-Fi 7 Moves To The IoT..."
+    },
+    {
+      "timestamp": "2026-02-19 19:30:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-Fi 7 Moves To The IoT"
     }
   ]
 }
