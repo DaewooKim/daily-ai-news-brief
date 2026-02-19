@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 16:11:48",
+  "last_updated": "2026-02-19 16:11:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 16:11:05",
-      "message": "Reprocessing: OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW"
-    },
     {
       "timestamp": "2026-02-19 16:11:07",
       "message": "[PROCESSING] Analyzing: OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 16:11:48",
       "message": "[PROCESSING] Analyzing: NRC Intervention Tests the Data Center Case for SMRs in Texas..."
+    },
+    {
+      "timestamp": "2026-02-19 16:11:50",
+      "message": "[SKIP] Irrelevant (AI Filter): NRC Intervention Tests the Data Center Case for SMRs in Texas"
     }
   ]
 }
