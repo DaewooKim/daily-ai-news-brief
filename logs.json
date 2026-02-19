@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-19 11:49:10",
+  "last_updated": "2026-02-19 11:49:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 11:48:34",
-      "message": "[PROCESSING] Analyzing: The biggest app in the whole wide world..."
-    },
-    {
-      "timestamp": "2026-02-19 11:48:36",
-      "message": "[SKIP] Irrelevant (AI Filter): The biggest app in the whole wide world"
-    },
     {
       "timestamp": "2026-02-19 11:48:38",
       "message": "[PROCESSING] Analyzing: Mark Zuckerberg and his Ray-Ban entourage have their day in court..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-19 11:49:10",
       "message": "[SUCCESS] Processed: NVIDIA Run:ai\ub97c \ud1b5\ud55c GPU \ubd84\ud560\ub85c \ub300\ub7c9\uc758 \ud1a0\ud070 \ucc98\ub9ac\ub7c9 \ud574\uc81c\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c \ub192\uc740 \ucc98\ub9ac\ub7c9\uacfc \ud6a8\uc728\uc801\uc778 \uc790\uc6d0 \uc0ac\uc6a9, \uc608\uce21 \uac00\ub2a5\ud55c \ub300\uae30 \uc2dc\uac04..."
+    },
+    {
+      "timestamp": "2026-02-19 11:49:11",
+      "message": "Reprocessing: Teaching AI to read a map"
+    },
+    {
+      "timestamp": "2026-02-19 11:49:12",
+      "message": "[SKIP] Content too short: Teaching AI to read a map..."
     }
   ]
 }
