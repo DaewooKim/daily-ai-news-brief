@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 15:06:00",
+  "last_updated": "2026-02-19 15:06:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 15:05:19",
-      "message": "[SUCCESS] Processed: NVIDIA Run:ai\ub97c \ud1b5\ud55c GPU \ubd84\ud560\ub85c \ub9c9\ub300\ud55c \ud1a0\ud070 \ucc98\ub9ac\ub7c9 \uc7a0\uae08 \ud574\uc81c\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \ub192\uc740 \ucc98\ub9ac\ub7c9\uacfc \uc790\uc6d0 \ud6a8\uc728\uc131\uc744 \ub2ec\uc131\ud558\ub294 \uac83\uc774 \uc911\uc694\ud558\ub2e4. NV..."
-    },
     {
       "timestamp": "2026-02-19 15:05:21",
       "message": "Reprocessing: Teaching AI to read a map"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 15:06:00",
       "message": "[PROCESSING] Analyzing: Google Teams Up with CTC Global for Grid Intelligence..."
+    },
+    {
+      "timestamp": "2026-02-19 15:06:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Google Teams Up with CTC Global for Grid Intelligence"
     }
   ]
 }
