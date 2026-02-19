@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-19 05:18:14",
+  "last_updated": "2026-02-19 05:18:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-19 05:17:36",
-      "message": "[SUCCESS] Processed: \ud14d\uc0ac\uc2a4\uac00 \ubd81\ubc84\uc9c0\ub2c8\uc544\ub97c \ub370\uc774\ud130 \uc13c\ud130 \uc218\ub3c4\ub85c \ucd94\uc6d4\ud560 \uc218 \uc788\uc744\uae4c?\n  > Summary: JLL\uc758 \ucd5c\uadfc \ubd84\uc11d\uc5d0 \ub530\ub974\uba74, \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uc704\uce58\uac00 \ubcc0\ud654\ud558\uace0 \uc788\uc73c\uba70, \uc6a9\ub7c9 \uae09\uc99d, \uc784\ub300..."
-    },
     {
       "timestamp": "2026-02-19 05:17:37",
       "message": "Reprocessing: Beyond GPUs: Why Memory Is the Next Frontier in AI Infrastructure Efficiency"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-19 05:18:14",
       "message": "[PROCESSING] Analyzing: Crypto lending firm Ledn sold $188M in securitized bonds backed by bitcoin loans, making it the first deal of its kind in the market for asset-backed debt (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-02-19 05:18:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto lending firm Ledn sold $188M in securitized bonds backed by bitcoin loans, making it the first deal of its kind in the market for asset-backed debt (Bloomberg)"
     }
   ]
 }
