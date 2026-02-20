@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-20 02:05:04",
+  "last_updated": "2026-02-20 02:05:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 02:04:28",
-      "message": "[PROCESSING] Analyzing: How tech companies, including Meta and OpenAI, are building data centers with their own private power plants, a risky bet that will increase carbon emissions (Evan Halper/Washington Post)..."
-    },
     {
       "timestamp": "2026-02-20 02:04:32",
       "message": "[SUCCESS] Processed: \uba54\ud0c0\uc640 \uc624\ud508AI\ub97c \ud3ec\ud568\ud55c \uae30\uc220 \uae30\uc5c5\ub4e4\uc774 \uc790\uc0ac \uc804\ub825 \uacf5\uae09 \uc2dc\uc124\uc744 \uac16\ucd98 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uad6c\ucd95\ud558\uace0 \uc788\ub2e4. \uc774\ub294 \ud0c4\uc18c \ubc30\ucd9c\uc744 \ub298\ub9b4 \uc704\ud5d8\uc774 \uc788\ub294 \ub3c4\ubc15\uc774\ub2e4.\n  > Summary: \uae30\uc220 \uae30\uc5c5\ub4e4\uc774 \uc790\uc0ac \uc804\ub825 \uacf5\uae09 \uc2dc\uc124\uc744 \uac16\ucd98 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uad6c\ucd95\ud558\uace0 \uc788\ub2e4\ub294 \ub0b4\uc6a9\uc774\ub2e4. \uba54\ud0c0\uc640..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-20 02:05:04",
       "message": "[PROCESSING] Analyzing: Wi-Fi 7 Moves To The IoT..."
+    },
+    {
+      "timestamp": "2026-02-20 02:05:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Wi-Fi 7 Moves To The IoT"
     }
   ]
 }
