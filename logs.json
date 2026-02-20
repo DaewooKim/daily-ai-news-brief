@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-20 06:24:50",
+  "last_updated": "2026-02-20 06:24:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 06:24:09",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-02-20 06:24:09",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-20 06:24:21",
       "message": "Found 162 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-20 06:24:50",
       "message": "[SKIP] Irrelevant (AI Filter): Texas is suing TP-Link over its ties to China"
+    },
+    {
+      "timestamp": "2026-02-20 06:24:51",
+      "message": "Reprocessing: Teaching AI to read a map"
+    },
+    {
+      "timestamp": "2026-02-20 06:24:52",
+      "message": "[SKIP] Content too short: Teaching AI to read a map..."
     }
   ]
 }
