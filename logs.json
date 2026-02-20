@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-20 02:03:05",
+  "last_updated": "2026-02-20 02:03:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 02:02:20",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-20 02:02:32",
       "message": "Found 161 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-20 02:03:05",
       "message": "[PROCESSING] Analyzing: Texas is suing TP-Link over its ties to China..."
+    },
+    {
+      "timestamp": "2026-02-20 02:03:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Texas is suing TP-Link over its ties to China"
     }
   ]
 }
