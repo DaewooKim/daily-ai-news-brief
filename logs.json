@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-20 09:42:00",
+  "last_updated": "2026-02-20 09:42:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 09:41:24",
-      "message": "[SUCCESS] Processed: OpenAI, Reliance, JioHotstar\uc5d0 AI \uac80\uc0c9 \ucd94\uac00\ub97c \uc704\ud55c \ud30c\ud2b8\ub108\uc2ed\n  > Summary: OpenAI\uc640 Reliance\uac00 \ud30c\ud2b8\ub108\uc2ed\uc744 \uacb0\uc131\ud574 JioHotstar\uc5d0 AI \uac80\uc0c9 \uae30\ub2a5\uc744 ..."
-    },
     {
       "timestamp": "2026-02-20 09:41:25",
       "message": "Reprocessing: For open source programs, AI coding tools are a mixed blessing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-20 09:42:00",
       "message": "[PROCESSING] Analyzing: NRC Intervention Tests the Data Center Case for SMRs in Texas..."
+    },
+    {
+      "timestamp": "2026-02-20 09:42:02",
+      "message": "[SKIP] Irrelevant (AI Filter): NRC Intervention Tests the Data Center Case for SMRs in Texas"
     }
   ]
 }
