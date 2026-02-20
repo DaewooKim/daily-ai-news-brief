@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-20 17:19:15",
+  "last_updated": "2026-02-20 17:19:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 17:18:38",
-      "message": "Found 162 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-20 17:18:38",
       "message": "[PROCESSING] Analyzing: Smart glasses in court are a privacy nightmare..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-20 17:19:15",
       "message": "[PROCESSING] Analyzing: The wellness wild west\u2019s latest skincare fad is salmon sperm..."
+    },
+    {
+      "timestamp": "2026-02-20 17:19:17",
+      "message": "[SKIP] Irrelevant (AI Filter): The wellness wild west\u2019s latest skincare fad is salmon sperm"
     }
   ]
 }
