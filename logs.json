@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-20 06:27:18",
+  "last_updated": "2026-02-20 06:27:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 06:26:35",
-      "message": "[PROCESSING] Analyzing: CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale..."
-    },
     {
       "timestamp": "2026-02-20 06:26:41",
       "message": "[SUCCESS] Processed: CEA-Leti, \uce69 \uc2a4\ucf00\uc77c\uc5d0\uc11c \ubc30\ud130\ub9ac\ub85c \ub3d9\uc791\ud558\ub294 \ucd08\uace0\uc18d EPR \ubd84\uad11\uae30\ub97c \uac80\uc99d\ud558\ub2e4\n  > Summary: CEA-Leti\uc640 CEA-IRIG-SyMMES\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \ubc30\ud130\ub9ac\ub85c \uad6c\ub3d9\ub418\ub294 \uce69 \uc2a4\ucf00\uc77c \uc804..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-20 06:27:18",
       "message": "[PROCESSING] Analyzing: LoRa Alliance 2025 Report Highlights LoRaWAN Growth..."
+    },
+    {
+      "timestamp": "2026-02-20 06:27:20",
+      "message": "[SKIP] Irrelevant (AI Filter): LoRa Alliance 2025 Report Highlights LoRaWAN Growth"
     }
   ]
 }
