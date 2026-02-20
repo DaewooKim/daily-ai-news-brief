@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-20 06:26:42",
+  "last_updated": "2026-02-20 06:26:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-20 06:26:06",
-      "message": "[PROCESSING] Analyzing: Sources: Amazon's AI tools caused at least two AWS outages, including a 13-hour disruption in December after its Kiro AI deleted and recreated an environment (Rafe Rosner-Uddin/Financial Times)..."
-    },
-    {
-      "timestamp": "2026-02-20 06:26:10",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: \uc544\ub9c8\uc874\uc758 AI \ub3c4\uad6c\uac00 \ucd5c\uc18c \ub450 \ubc88\uc758 AWS \uc911\ub2e8\uc744 \ucd08\ub798\ud588\uc73c\uba70, \uadf8 \uc911 \ud558\ub098\ub294 Kiro AI\uac00 \ud658\uacbd\uc744 \uc0ad\uc81c\ud558\uace0 \uc7ac\uc0dd\uc131\ud55c \ud6c4 13\uc2dc\uac04 \ub3d9\uc548 \uc9c0\uc18d\ub41c \uc911\ub2e8\uc785\ub2c8\ub2e4.\n  > Summary: \uc544\ub9c8\uc874\uc758 AI \ub3c4\uad6c\uac00 \ucd5c\uc18c \ub450 \ubc88\uc758 AWS \uc911\ub2e8\uc744 \ucd08\ub798\ud588\uc2b5\ub2c8\ub2e4. \ud2b9\ud788, Kiro AI\uac00 \ud658..."
-    },
     {
       "timestamp": "2026-02-20 06:26:12",
       "message": "[PROCESSING] Analyzing: Los Angeles County sues Roblox, alleging it engaged in deceptive business practices that exposed children to sexual content, exploitation, and online predators (Jonathan Lloyd/NBC Los Angeles)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-20 06:26:42",
       "message": "[PROCESSING] Analyzing: Hammond Power Solutions to Acquire AEG Power Solutions..."
+    },
+    {
+      "timestamp": "2026-02-20 06:26:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Hammond Power Solutions to Acquire AEG Power Solutions"
+    },
+    {
+      "timestamp": "2026-02-20 06:26:45",
+      "message": "[PROCESSING] Analyzing: EV Group Unveils Next-Generation EVG120 Resist Processing System for \ufeff \ufeffHigh-Volume Manufacturing..."
     }
   ]
 }
