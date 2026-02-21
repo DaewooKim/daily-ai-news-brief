@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-21 00:01:21",
+  "last_updated": "2026-02-21 00:01:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-21 00:00:32",
-      "message": "[SUCCESS] Processed: \uc778\ub3c4, \ubc18\ub3c4\uccb4 \ubc0f \ucca8\ub2e8 \uc81c\uc870\ub97c \uc704\ud55c \uc548\uc804\ud55c \uacf5\uae09\ub9dd \uad6c\ucd95\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 \ubbf8\uad6d \uc8fc\ub3c4\uc758 Pax Silica \uc774\ub2c8\uc154\ud2f0\ube0c\uc5d0 \uac00\uc785\n  > Summary: \uc778\ub3c4\uac00 \ubbf8\uad6d \uc8fc\ub3c4\uc758 Pax Silica \uc774\ub2c8\uc154\ud2f0\ube0c\uc5d0 \uac00\uc785\ud558\uc5ec \ubc18\ub3c4\uccb4 \ubc0f \ucca8\ub2e8 \uc81c\uc870\uc640 \uac19\uc740 ..."
-    },
     {
       "timestamp": "2026-02-21 00:00:34",
       "message": "[PROCESSING] Analyzing: Source: OpenAI is projecting that its revenue will exceed $280B in 2030; last month, OpenAI said its annualized revenue grew to $20B+ in 2025 (Shirin Ghaffary/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-21 00:01:21",
       "message": "[PROCESSING] Analyzing: Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications..."
+    },
+    {
+      "timestamp": "2026-02-21 00:01:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications"
     }
   ]
 }
