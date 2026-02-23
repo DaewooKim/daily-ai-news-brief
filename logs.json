@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 17:49:42",
+  "last_updated": "2026-02-23 17:49:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 17:49:00",
-      "message": "[PROCESSING] Analyzing: Sources: Microsoft was forced to announce Xbox leadership changes early on Friday because the news had begun to leak to IGN, causing a day of internal chaos (Tom Warren/The Verge)..."
-    },
     {
       "timestamp": "2026-02-23 17:49:02",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Microsoft was forced to announce Xbox leadership changes early on Friday because the news had begun to leak to IGN, causing a day of internal chaos (Tom Warren/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 17:49:42",
       "message": "[PROCESSING] Analyzing: Researchers baked 3x inference speedups directly into LLM weights \u2014 without speculative decoding..."
+    },
+    {
+      "timestamp": "2026-02-23 17:49:47",
+      "message": "[SUCCESS] Processed: \uc5f0\uad6c\uc790\ub4e4\uc774 \ucd94\uce21\uc801 \ub514\ucf54\ub529 \uc5c6\uc774 LLM \uac00\uc911\uce58\uc5d0 3\ubc30 \ucd94\ub860 \uc18d\ub3c4\ub97c \uc9c1\uc811 \uad6c\uc6cc \ub123\ub2e4\n  > Summary: \uba54\ub9b4\ub79c\ub4dc \ub300\ud559\uad50, \ub85c\ub80c\uc2a4 \ub9ac\ubc84\ubaa8\uc5b4 \uad6d\ub9bd \uc5f0\uad6c\uc18c, \uceec\ub7fc\ube44\uc544 \ub300\ud559\uad50\uc640 TogetherAI\uc758 \uc5f0..."
     }
   ]
 }
