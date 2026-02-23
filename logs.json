@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 14:29:20",
+  "last_updated": "2026-02-23 14:29:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 14:28:40",
-      "message": "[PROCESSING] Analyzing: OpenAI announces Frontier Alliance Partners..."
-    },
     {
       "timestamp": "2026-02-23 14:28:43",
       "message": "[SUCCESS] Processed: OpenAI, \ud504\ub860\ud2f0\uc5b4 \uc5bc\ub77c\uc774\uc5b8\uc2a4 \ud30c\ud2b8\ub108 \ubc1c\ud45c\n  > Summary: OpenAI\ub294 \uae30\uc5c5\ub4e4\uc774 AI \ud30c\uc77c\ub7ff\uc5d0\uc11c \ud504\ub85c\ub355\uc158\uc73c\ub85c \uc774\ub3d9\ud560 \uc218 \uc788\ub3c4\ub85d \ub3d5\uae30 \uc704\ud574 \ud504\ub860\ud2f0\uc5b4 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 14:29:20",
       "message": "[PROCESSING] Analyzing: TechCrunch Disrupt\u00a02026 Super Early Bird rates end in\u00a01\u00a0week..."
+    },
+    {
+      "timestamp": "2026-02-23 14:29:22",
+      "message": "[SKIP] Irrelevant (AI Filter): TechCrunch Disrupt\u00a02026 Super Early Bird rates end in\u00a01\u00a0week"
     }
   ]
 }
