@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 16:40:08",
+  "last_updated": "2026-02-23 16:40:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 16:39:22",
-      "message": "Found 145 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-23 16:39:22",
       "message": "[PROCESSING] Analyzing: Discord distances itself from Persona age verification after user backlash..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 16:40:08",
       "message": "[PROCESSING] Analyzing: CPU-Only Compute Still Matters To A Lot Of HPC Centers..."
+    },
+    {
+      "timestamp": "2026-02-23 16:40:11",
+      "message": "[SKIP] Irrelevant (AI Filter): CPU-Only Compute Still Matters To A Lot Of HPC Centers"
     }
   ]
 }
