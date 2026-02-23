@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 13:22:58",
+  "last_updated": "2026-02-23 13:23:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 13:22:20",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-23 13:22:20",
       "message": "[PROCESSING] Analyzing: Nothing couldn\u2019t wait to show off the Phone 4A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 13:22:58",
       "message": "[PROCESSING] Analyzing: 6 days left to lock in the lowest TechCrunch Disrupt 2026 rates..."
+    },
+    {
+      "timestamp": "2026-02-23 13:23:01",
+      "message": "[SKIP] Irrelevant (AI Filter): 6 days left to lock in the lowest TechCrunch Disrupt 2026 rates"
     }
   ]
 }
