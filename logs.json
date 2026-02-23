@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 23:15:53",
+  "last_updated": "2026-02-23 23:15:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 23:15:08",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-23 23:15:21",
       "message": "Found 139 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 23:15:53",
       "message": "[SKIP] Irrelevant (AI Filter): CPU-Only Compute Still Matters To A Lot Of HPC Centers"
+    },
+    {
+      "timestamp": "2026-02-23 23:15:55",
+      "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
     }
   ]
 }
