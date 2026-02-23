@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 22:11:20",
+  "last_updated": "2026-02-23 22:11:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 22:10:44",
-      "message": "Reprocessing: OpenAI calls in the consultants for its enterprise push"
-    },
     {
       "timestamp": "2026-02-23 22:10:45",
       "message": "[PROCESSING] Analyzing: OpenAI calls in the consultants for its enterprise push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 22:11:20",
       "message": "[PROCESSING] Analyzing: Why creators are ditching ad revenue for chocolate bars and fintech acquisitions..."
+    },
+    {
+      "timestamp": "2026-02-23 22:11:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Why creators are ditching ad revenue for chocolate bars and fintech acquisitions"
     }
   ]
 }
