@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 13:24:56",
+  "last_updated": "2026-02-23 13:24:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 13:24:10",
-      "message": "[SUCCESS] Processed: GPU\ub97c \ub118\uc5b4\uc11c: \uba54\ubaa8\ub9ac\uac00 AI \uc778\ud504\ub77c \ud6a8\uc728\uc131\uc758 \ub2e4\uc74c \uacbd\uacc4\uc778 \uc774\uc720\n  > Summary: Compute Express Link\uc640 \uac19\uc740 \uae30\uc900\ub4e4\uc774 \uba54\ubaa8\ub9ac \uc6a9\ub7c9 \ud655\uc7a5\uc744 \uc704\ud55c \uc911\uc694\ud55c \ub3c4\uad6c..."
-    },
     {
       "timestamp": "2026-02-23 13:24:12",
       "message": "[PROCESSING] Analyzing: Uber launches Uber Autonomous Solutions, offering services like insurance, roadside assistance, and \"AV mission control\" tools, and will offer fleet financing (Rafe Rosner-Uddin/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 13:24:56",
       "message": "[PROCESSING] Analyzing: Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications..."
+    },
+    {
+      "timestamp": "2026-02-23 13:24:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications"
     }
   ]
 }
