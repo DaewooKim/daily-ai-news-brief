@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-23 20:01:49",
+  "last_updated": "2026-02-23 20:01:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-23 20:01:10",
-      "message": "[SUCCESS] Processed: IEDM: \uc804\ub825 \ubb38\uc81c, \uc8fc\uc694 \ub3c4\uc804 \uacfc\uc81c\ub85c \ub5a0\uc624\ub974\ub2e4\n  > Summary: \uad6d\uc81c \uc804\uc790 \uc18c\uc790 \ud68c\uc758(IEDM)\uc5d0\uc11c \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \uc804\ub825 \uc18c\ubaa8 \uc704\uae30\uac00 \uc8fc\ubaa9\ubc1b\uc558\ub2e4. AI \ubaa8\ub378..."
-    },
     {
       "timestamp": "2026-02-23 20:01:12",
       "message": "Reprocessing: Oxide Semiconductors and Ferroelectrics Command Attention at IEDM"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-23 20:01:49",
       "message": "Reprocessing: Databricks streaming data ingestion service is now available"
+    },
+    {
+      "timestamp": "2026-02-23 20:01:50",
+      "message": "[SKIP] Content too short: Databricks streaming data inge..."
     }
   ]
 }
