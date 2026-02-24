@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 12:23:34",
+  "last_updated": "2026-02-24 12:23:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 12:22:59",
-      "message": "[SUCCESS] Processed: \uba54\ud0c0, 1000\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uac70\ub798\ub85c AMD \uc778\uc2a4\ud305\ud06c\ud2b8 GPU \ucd5c\ub300 6GW \uc778\uc218\uc5d0 \ud569\uc758\n  > Summary: \uc6d4\uc2a4\ud2b8\ub9ac\ud2b8\uc800\ub110\uc5d0 \ub530\ub974\uba74, \uba54\ud0c0\ub294 AMD \uc778\uc2a4\ud305\ud06c\ud2b8 GPU \ucd5c\ub300 6GW\ub97c 1000\uc5b5 \ub2ec\ub7ec \uc774..."
-    },
     {
       "timestamp": "2026-02-24 12:23:01",
       "message": "[PROCESSING] Analyzing: Court docs: the IRS seeks $16B in back taxes and penalties from Meta, arguing it failed to report ~$54B in overseas profits; in December 2025, Meta sued the IRS (Jesse Drucker/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 12:23:34",
       "message": "[PROCESSING] Analyzing: A court-appointed administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and hasten Terraform's fall (Vicky Ge Huang/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-02-24 12:23:36",
+      "message": "[SKIP] Irrelevant (AI Filter): A court-appointed administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and hasten Terraform's fall (Vicky Ge Huang/Wall Street Journal)"
     }
   ]
 }
