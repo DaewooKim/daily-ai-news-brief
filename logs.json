@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-24 20:05:50",
+  "last_updated": "2026-02-24 20:05:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 20:05:04",
-      "message": "[PROCESSING] Analyzing: AMD Says \u201cHelios\u201d Racks And MI400 Series GPUs On Track For 2H 2026..."
-    },
-    {
-      "timestamp": "2026-02-24 20:05:09",
-      "message": "[SUCCESS] Processed: AMD\ub294 'Helios' \ub799\uacfc MI400 \uc2dc\ub9ac\uc988 GPU\uac00 2026\ub144 \ud558\ubc18\uae30 \ucd9c\uc2dc\ub420 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: AMD\uac00 \uc778\uacf5\uc9c0\ub2a5 \ucd94\ub860 \ubca4\uce58\ub9c8\ud06c \ud14c\uc2a4\ud2b8\uc778 InferenceX\uc5d0 \ub300\ud55c \uc5c5\ub370\uc774\ud2b8\ub97c \ubc1c\ud45c\ud558\uba74\uc11c,..."
-    },
     {
       "timestamp": "2026-02-24 20:05:10",
       "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-24 20:05:50",
       "message": "Reprocessing: Google\u2019s Cloud AI leads on the three frontiers of model capability"
+    },
+    {
+      "timestamp": "2026-02-24 20:05:51",
+      "message": "[PROCESSING] Analyzing: Google\u2019s Cloud AI leads on the three frontiers of model capability..."
+    },
+    {
+      "timestamp": "2026-02-24 20:05:55",
+      "message": "[SUCCESS] Processed: \uad6c\uae00\uc758 \ud074\ub77c\uc6b0\ub4dc AI, \ubaa8\ub378 \ub2a5\ub825\uc758 \uc138 \uac00\uc9c0 \ucd5c\uc804\uc120\uc5d0\uc11c \uc120\ub450\uc8fc\uc790\n  > Summary: AI \ubaa8\ub378\uc740 \uc6d0\uc2dc \uc9c0\ub2a5, \uc751\ub2f5 \uc2dc\uac04, \uadf8\ub9ac\uace0 '\ud655\uc7a5\uc131'\uc774\ub77c\uace0 \ubd80\ub97c \uc218 \uc788\ub294 \uc138 \ubc88\uc9f8 \uc18d\uc131\uc744..."
     }
   ]
 }
