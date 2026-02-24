@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 08:00:43",
+  "last_updated": "2026-02-24 08:00:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 08:00:06",
-      "message": "[SUCCESS] Processed: \ud30c\ub974\ud2f0\ud074\uc758 AI \ub274\uc2a4 \uc571, \uc0ac\uc6a9\uc790\uac00 \ub4e3\uc9c0 \uc54a\uc544\ub3c4 \ud765\ubbf8\ub85c\uc6b4 \ud31f\uce90\uc2a4\ud2b8 \ud074\ub9bd\uc744 \ucc3e\uc544\uc90d\ub2c8\ub2e4\n  > Summary: AI \ub274\uc2a4 \uc571\uc778 \ud30c\ub974\ud2f0\ud074\uc740 \uc774\uc81c \ud31f\uce90\uc2a4\ud2b8\uc758 \ud575\uc2ec \uc21c\uac04\uc744 \uac00\uc838\uc640 \uc0ac\uc6a9\uc790\uac00 \uad00\ub828 \uc774\uc57c\uae30\ub97c \uc77d\ub294..."
-    },
     {
       "timestamp": "2026-02-24 08:00:08",
       "message": "[PROCESSING] Analyzing: 5\u00a0days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 08:00:43",
       "message": "[PROCESSING] Analyzing: Achieving Zero Runtime Errors..."
+    },
+    {
+      "timestamp": "2026-02-24 08:00:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Achieving Zero Runtime Errors"
     }
   ]
 }
