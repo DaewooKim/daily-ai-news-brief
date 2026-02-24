@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 17:52:59",
+  "last_updated": "2026-02-24 17:53:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 17:52:22",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-24 17:52:22",
       "message": "[PROCESSING] Analyzing: PlayStation\u2019s Wolverine game hits PS5 in September..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 17:52:59",
       "message": "[SKIP] Irrelevant (AI Filter): CPU-Only Compute Still Matters To A Lot Of HPC Centers"
+    },
+    {
+      "timestamp": "2026-02-24 17:53:00",
+      "message": "Reprocessing: AMD Says \u201cHelios\u201d Racks And MI400 Series GPUs On Track For 2H 2026"
     }
   ]
 }
