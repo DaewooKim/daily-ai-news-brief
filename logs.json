@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 20:06:35",
+  "last_updated": "2026-02-24 20:06:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 20:05:57",
-      "message": "Reprocessing: OpenAI calls in the consultants for its enterprise push"
-    },
     {
       "timestamp": "2026-02-24 20:05:59",
       "message": "[PROCESSING] Analyzing: OpenAI calls in the consultants for its enterprise push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 20:06:35",
       "message": "[PROCESSING] Analyzing: Kraken launches what it claims are the first regulated perpetual futures contracts based on tokenized stocks, available to non-US users and trading 24/7 (Krisztian Sandor/CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-02-24 20:06:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Kraken launches what it claims are the first regulated perpetual futures contracts based on tokenized stocks, available to non-US users and trading 24/7 (Krisztian Sandor/CoinDesk)"
     }
   ]
 }
