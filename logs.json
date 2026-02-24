@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 19:01:20",
+  "last_updated": "2026-02-24 19:01:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 19:00:40",
-      "message": "[PROCESSING] Analyzing: Waymo opens its robotaxi service to \"select riders\" in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities (Lora Kolodny/CNBC)..."
-    },
     {
       "timestamp": "2026-02-24 19:00:45",
       "message": "[SUCCESS] Processed: \uc6e8\uc774\ubaa8, \ub308\ub7ec\uc2a4, \ud734\uc2a4\ud134, \uc0cc\uc548\ud1a0\ub2c8\uc624, \uc62c\ub79c\ub3c4\uc5d0\uc11c '\uc120\ud0dd\ub41c \uc2b9\uac1d'\uc744 \uc704\ud55c \ub85c\ubd07\ud0dd\uc2dc \uc11c\ube44\uc2a4 \uac1c\uc2dc, \ubbf8\uad6d 10\uac1c \ub3c4\uc2dc\ub85c \uc0ac\uc5c5 \ud655\ub300\n  > Summary: \uc54c\ud30c\ubcb3 \uc18c\uc18d \uc6e8\uc774\ubaa8\uac00 \ub308\ub7ec\uc2a4, \ud734\uc2a4\ud134, \uc0cc\uc548\ud1a0\ub2c8\uc624, \uc62c\ub79c\ub3c4\uc5d0\uc11c '\uc120\ud0dd\ub41c \uc2b9\uac1d'\uc744 \ub300\uc0c1\uc73c\ub85c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 19:01:20",
       "message": "[PROCESSING] Analyzing: Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP..."
+    },
+    {
+      "timestamp": "2026-02-24 19:01:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP"
     }
   ]
 }
