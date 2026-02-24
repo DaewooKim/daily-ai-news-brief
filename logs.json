@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 12:24:03",
+  "last_updated": "2026-02-24 12:24:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 12:23:27",
-      "message": "[PROCESSING] Analyzing: Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement (Reuters)..."
-    },
     {
       "timestamp": "2026-02-24 12:23:29",
       "message": "[SKIP] Irrelevant (AI Filter): Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 12:24:03",
       "message": "Reprocessing: SambaNova steps up its challenge to Nvidia with new chip, $350M funding and a powerful ally in Intel"
+    },
+    {
+      "timestamp": "2026-02-24 12:24:05",
+      "message": "[SKIP] Content too short: SambaNova steps up its challen..."
     }
   ]
 }
