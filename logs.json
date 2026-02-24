@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 09:05:40",
+  "last_updated": "2026-02-24 09:05:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 09:05:00",
-      "message": "[SUCCESS] Processed: AMD\ub294 '\ud5ec\ub9ac\uc624\uc2a4' \ub799\uacfc MI400 \uc2dc\ub9ac\uc988 GPU\uac00 2026\ub144 \ud558\ubc18\uae30\uc5d0 \ucd9c\uc2dc\ub420 \uac83\uc774\ub77c\uace0 \ub9d0\ud588\ub2e4\n  > Summary: AMD\ub294 '\ud5ec\ub9ac\uc624\uc2a4' \ub799\uacfc MI400 \uc2dc\ub9ac\uc988 GPU\uac00 2026\ub144 \ud558\ubc18\uae30\uc5d0 \ucd9c\uc2dc\ub420 \uacc4\ud68d\uc774\ub77c\uace0..."
-    },
     {
       "timestamp": "2026-02-24 09:05:02",
       "message": "[PROCESSING] Analyzing: CPU-Only Compute Still Matters To A Lot Of HPC Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 09:05:40",
       "message": "[PROCESSING] Analyzing: 5\u00a0days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates..."
+    },
+    {
+      "timestamp": "2026-02-24 09:05:42",
+      "message": "[SKIP] Irrelevant (AI Filter): 5\u00a0days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates"
     }
   ]
 }
