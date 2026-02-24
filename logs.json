@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 23:24:02",
+  "last_updated": "2026-02-24 23:24:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 23:23:24",
-      "message": "Reprocessing: OpenAI COO says \u2018we have not yet really seen AI penetrate enterprise business processes\u2019"
-    },
     {
       "timestamp": "2026-02-24 23:23:25",
       "message": "[PROCESSING] Analyzing: OpenAI COO says \u2018we have not yet really seen AI penetrate enterprise business processes\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 23:24:02",
       "message": "[PROCESSING] Analyzing: NASA Return to Venus Depends on New Class of Ceramic Sensor..."
+    },
+    {
+      "timestamp": "2026-02-24 23:24:04",
+      "message": "[SKIP] Irrelevant (AI Filter): NASA Return to Venus Depends on New Class of Ceramic Sensor"
     }
   ]
 }
