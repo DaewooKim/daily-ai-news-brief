@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 02:34:50",
+  "last_updated": "2026-02-24 02:34:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 02:34:07",
-      "message": "[SUCCESS] Processed: DOD \uad00\uacc4\uc790\uac00 xAI\uac00 \uad70\uc5d0\uc11c Grok\uc744 \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c \uc0ac\uc6a9\ud558\ub3c4\ub85d \ub3d9\uc758\ud588\ub2e4\uace0 \ub9d0\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: DOD \uad00\uacc4\uc790\ub294 xAI\uac00 \uad70\uc758 \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok\uc758 \uc0ac\uc6a9\uc744 \ud5c8\uc6a9\ud558\uace0 '\ubaa8\ub4e0 \ud569\ubc95\uc801\uc778 ..."
-    },
     {
       "timestamp": "2026-02-24 02:34:09",
       "message": "Reprocessing: Sources: AI chipmaker Cerebras confidentially files for a US IPO after withdrawing a previous IPO last year, and a listing could take place as soon as April (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 02:34:50",
       "message": "[PROCESSING] Analyzing: Irresistible Materials and TOK Announce Strategic EUV \u00a0Collaboration..."
+    },
+    {
+      "timestamp": "2026-02-24 02:34:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Irresistible Materials and TOK Announce Strategic EUV \u00a0Collaboration"
     }
   ]
 }
