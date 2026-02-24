@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 21:10:56",
+  "last_updated": "2026-02-24 21:10:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 21:10:05",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-24 21:10:16",
       "message": "Found 144 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 21:10:56",
       "message": "[SKIP] Irrelevant (AI Filter): CPU-Only Compute Still Matters To A Lot Of HPC Centers"
+    },
+    {
+      "timestamp": "2026-02-24 21:10:57",
+      "message": "Reprocessing: AMD Says \u201cHelios\u201d Racks And MI400 Series GPUs On Track For 2H 2026"
     }
   ]
 }
