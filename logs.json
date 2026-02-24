@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-02-24 15:39:24",
+  "last_updated": "2026-02-24 15:39:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 15:38:31",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-02-24 15:38:43",
-      "message": "Found 143 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-24 15:38:43",
       "message": "[PROCESSING] Analyzing: ADT just bought the company that invented Wi-Fi motion sensing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-02-24 15:39:24",
       "message": "[SUCCESS] Processed: AMD\ub294 \u201cHelios\u201d \ub799 \ubc0f MI400 \uc2dc\ub9ac\uc988 GPU\uac00 2026\ub144 \ud558\ubc18\uae30\uc5d0 \ucd9c\uc2dc\ub420 \uc608\uc815\uc774\ub77c\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4\n  > Summary: AMD\ub294 InferenceX AI \ucd94\ub860 \ubca4\uce58\ub9c8\ud06c \ud14c\uc2a4\ud2b8 \uc5c5\ub370\uc774\ud2b8\ub97c \ubc1c\ud45c\ud558\uba70, 'Helios..."
+    },
+    {
+      "timestamp": "2026-02-24 15:39:26",
+      "message": "[PROCESSING] Analyzing: CPU-Only Compute Still Matters To A Lot Of HPC Centers..."
+    },
+    {
+      "timestamp": "2026-02-24 15:39:29",
+      "message": "[SKIP] Irrelevant (AI Filter): CPU-Only Compute Still Matters To A Lot Of HPC Centers"
     }
   ]
 }
