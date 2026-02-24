@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 18:59:06",
+  "last_updated": "2026-02-24 18:59:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 18:58:16",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-02-24 18:58:16",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 18:59:06",
       "message": "[PROCESSING] Analyzing: ADT just bought the company that invented Wi-Fi motion sensing..."
+    },
+    {
+      "timestamp": "2026-02-24 18:59:09",
+      "message": "[SKIP] Irrelevant (AI Filter): ADT just bought the company that invented Wi-Fi motion sensing"
     }
   ]
 }
