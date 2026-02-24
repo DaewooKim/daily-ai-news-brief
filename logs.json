@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 06:56:38",
+  "last_updated": "2026-02-24 06:56:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 06:56:04",
-      "message": "[SUCCESS] Processed: \uad6d\ubc29\ubd80 \uad00\uacc4\uc790\ub294 xAI\uac00 \uad70\uc0ac \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok \uc0ac\uc6a9\uc744 \ud5c8\ub77d\ud558\uace0 \"\ubaa8\ub4e0 \ud569\ubc95\uc801 \uc0ac\uc6a9\" \uae30\uc900\uc5d0 \ub3d9\uc758\ud588\ub2e4\uace0 \ub9d0\ud588\uc73c\uba70, \uc774\ub294 Anthropic\uc774 \uac70\ubd80\ud55c \uac83\uc774\ub77c\uace0 \uc804\ud588\ub2e4 (Axios)\n  > Summary: Axios\uc5d0 \ub530\ub974\uba74, \ubbf8\uad6d \uad6d\ubc29\ubd80 \uad00\uacc4\uc790\ub294 xAI\uac00 \uad70\uc0ac \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok\ub97c \uc0ac\uc6a9\ud558..."
-    },
     {
       "timestamp": "2026-02-24 06:56:05",
       "message": "[PROCESSING] Analyzing: Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M (Salvador Rodriguez/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 06:56:38",
       "message": "Reprocessing: Pure Storage to rebrand as Everpure, acquire data management startup 1touch"
+    },
+    {
+      "timestamp": "2026-02-24 06:56:39",
+      "message": "[SKIP] Content too short: Pure Storage to rebrand as Eve..."
     }
   ]
 }
