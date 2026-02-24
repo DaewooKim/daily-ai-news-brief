@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 10:13:00",
+  "last_updated": "2026-02-24 10:13:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 10:12:27",
-      "message": "[SUCCESS] Processed: DOD \uad00\uacc4\uc790\uac00 xAI\uac00 \uad70\uc0ac \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \ub3d9\uc758\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4.\n  > Summary: DOD \uad00\uacc4\uc790\ub294 xAI\uac00 \uad70\uc0ac \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok\uc744 \uc0ac\uc6a9\ud558\ub294 \uac83\uc5d0 \ub3d9\uc758\ud588\uc73c\uba70, Ant..."
-    },
     {
       "timestamp": "2026-02-24 10:12:28",
       "message": "[PROCESSING] Analyzing: Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M (Salvador Rodriguez/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 10:13:00",
       "message": "Reprocessing: Pure Storage to rebrand as Everpure, acquire data management startup 1touch"
+    },
+    {
+      "timestamp": "2026-02-24 10:13:01",
+      "message": "[SKIP] Content too short: Pure Storage to rebrand as Eve..."
     }
   ]
 }
