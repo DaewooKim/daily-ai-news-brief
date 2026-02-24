@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 01:29:02",
+  "last_updated": "2026-02-24 01:29:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 01:28:21",
-      "message": "[SUCCESS] Processed: \ud0c0\uc54c\ub77c\uc2a4, \ube44\ubc94\ud55c \ud1a0\ud070 \uc18d\ub3c4\ub97c \uc704\ud55c \uadf9\ud55c \uc804\ubb38\ud654\n  > Summary: \uc778\uacf5\uc9c0\ub2a5 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ud0c0\uc54c\ub77c\uc2a4\uac00 \ube44\ubc94\ud55c \uc131\ub2a5\uc744 \uc790\ub791\ud558\ub294 \uccab \ubc88\uc9f8 \uce69\uc778 HC1\uc744 \uc120\ubcf4\uc774\uace0 \uc788..."
-    },
     {
       "timestamp": "2026-02-24 01:28:22",
       "message": "[PROCESSING] Analyzing: Achieving Zero Runtime Errors..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 01:29:02",
       "message": "[PROCESSING] Analyzing: Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M (Salvador Rodriguez/CNBC)..."
+    },
+    {
+      "timestamp": "2026-02-24 01:29:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M (Salvador Rodriguez/CNBC)"
     }
   ]
 }
