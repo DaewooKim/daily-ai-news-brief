@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 00:23:28",
+  "last_updated": "2026-02-24 00:23:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 00:22:48",
-      "message": "[PROCESSING] Analyzing: A DOD official says xAI has agreed to let the military use Grok in classified systems and agreed to the \"all lawful use\" standard, which Anthropic has refused (Axios)..."
-    },
     {
       "timestamp": "2026-02-24 00:22:52",
       "message": "[SUCCESS] Processed: DOD \uad00\uacc4\uc790\uac00 xAI\uac00 \uad70\ub300\uc758 \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok \uc0ac\uc6a9\uc744 \ud5c8\uc6a9\ud588\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4.\n  > Summary: DOD \uad00\uacc4\uc790\uc5d0 \ub530\ub974\uba74, xAI\ub294 \uad70\ub300\uac00 \uae30\ubc00 \uc2dc\uc2a4\ud15c\uc5d0\uc11c Grok\ub97c \uc0ac\uc6a9\ud558\ub3c4\ub85d \ud5c8\uc6a9\ud558\uc600\uace0,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 00:23:28",
       "message": "[PROCESSING] Analyzing: Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN..."
+    },
+    {
+      "timestamp": "2026-02-24 00:23:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN"
     }
   ]
 }
