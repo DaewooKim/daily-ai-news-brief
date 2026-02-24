@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-24 21:15:30",
+  "last_updated": "2026-02-24 21:15:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-24 21:14:59",
-      "message": "Reprocessing: Databricks streaming data ingestion service is now available"
-    },
     {
       "timestamp": "2026-02-24 21:15:00",
       "message": "[SKIP] Content too short: Databricks streaming data inge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-24 21:15:30",
       "message": "[PROCESSING] Analyzing: Nicgiga 5GbE Realtek RTL8126 PCIe Network Adapter Review..."
+    },
+    {
+      "timestamp": "2026-02-24 21:15:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Nicgiga 5GbE Realtek RTL8126 PCIe Network Adapter Review"
     }
   ]
 }
