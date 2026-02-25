@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 03:45:45",
+  "last_updated": "2026-02-25 03:45:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 03:45:08",
-      "message": "[SUCCESS] Processed: AMD, '\ud5ec\ub9ac\uc624\uc2a4' \uc11c\ubc84\uc640 MI400 \uc2dc\ub9ac\uc988 GPU 2026\ub144 \ud558\ubc18\uae30 \ucd9c\uc2dc \uc608\uace0\n  > Summary: AMD\ub294 \uc790\uc0ac\uc758 '\ud5ec\ub9ac\uc624\uc2a4' \uc11c\ubc84\uc640 MI400 \uc2dc\ub9ac\uc988 GPU\uac00 2026\ub144 \ud558\ubc18\uae30\uc5d0 \ucd9c\uc2dc\ub420 ..."
-    },
     {
       "timestamp": "2026-02-25 03:45:09",
       "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 03:45:45",
       "message": "[PROCESSING] Analyzing: Canva acquires startups working on animation and marketing..."
+    },
+    {
+      "timestamp": "2026-02-25 03:45:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Canva acquires startups working on animation and marketing"
     }
   ]
 }
