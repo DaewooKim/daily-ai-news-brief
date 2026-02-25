@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 23:29:11",
+  "last_updated": "2026-02-25 23:29:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 23:28:28",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-25 23:28:40",
       "message": "Found 149 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 23:29:11",
       "message": "[SKIP] Content too short: CPU-Only Compute Still Matters..."
+    },
+    {
+      "timestamp": "2026-02-25 23:29:12",
+      "message": "Reprocessing: AMD Says \u201cHelios\u201d Racks And MI400 Series GPUs On Track For 2H 2026"
     }
   ]
 }
