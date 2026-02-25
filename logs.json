@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 02:41:24",
+  "last_updated": "2026-02-25 02:41:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 02:40:46",
-      "message": "[SUCCESS] Processed: \uad6c\uae00 \ud074\ub77c\uc6b0\ub4dc AI, \ubaa8\ub378 \ub2a5\ub825\uc758 \uc138 \uac00\uc9c0 \ucd5c\uc804\uc120\uc5d0\uc11c \uc120\ub3c4\ud558\ub2e4\n  > Summary: AI \ubaa8\ub378\ub4e4\uc774 \ub3d9\uc2dc\uc5d0 \uc138 \uac00\uc9c0 \ucd5c\uc804\uc120, \uc989 \uc21c\uc218 \uc9c0\ub2a5, \uc751\ub2f5 \uc2dc\uac04, \uadf8\ub9ac\uace0 '\ud655\uc7a5\uc131'\uc774\ub77c ..."
-    },
     {
       "timestamp": "2026-02-25 02:40:48",
       "message": "Reprocessing: OpenAI calls in the consultants for its enterprise push"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 02:41:24",
       "message": "[PROCESSING] Analyzing: Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input (Mark Gurman/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-02-25 02:41:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input (Mark Gurman/Bloomberg)"
     }
   ]
 }
