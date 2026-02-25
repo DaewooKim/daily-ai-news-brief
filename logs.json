@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 16:54:12",
+  "last_updated": "2026-02-25 16:54:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 16:53:34",
-      "message": "[PROCESSING] Analyzing: Blog Review: Feb. 25..."
-    },
     {
       "timestamp": "2026-02-25 16:53:38",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 2\uc6d4 25\uc77c\n  > Summary: Cadence\uc758 Mick Posner\ub294 \ubca4\ub354 \ubc0f CPU \uc911\ub9bd \uc544\ud0a4\ud14d\ucc98\ub97c \uc81c\uacf5\ud558\ub294 Found..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 16:54:12",
       "message": "Reprocessing: HP\u2019s stock falls after management tempers full-year expectations amid soaring memory costs"
+    },
+    {
+      "timestamp": "2026-02-25 16:54:13",
+      "message": "[SKIP] Content too short: HP\u2019s stock falls after managem..."
     }
   ]
 }
