@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 14:39:24",
+  "last_updated": "2026-02-25 14:39:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 14:38:44",
-      "message": "[PROCESSING] Analyzing: You can now make Alexa\u2019s AI personality more friendly, blunt, or chilled out..."
-    },
     {
       "timestamp": "2026-02-25 14:38:49",
       "message": "[SUCCESS] Processed: \uc774\uc81c Alexa\uc758 AI \uc131\uaca9\uc744 \ub354 \uce5c\uadfc\ud558\uac8c, \uc9c1\uc124\uc801\uc774\uac8c, \ub610\ub294 \ucc28\ubd84\ud558\uac8c \ub9cc\ub4e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: \uc544\ub9c8\uc874\uc774 Alexa\uc758 \ub300\ud654 \ubc0f \ubc18\uc751 \ubc29\uc2dd\uc5d0 \ub300\ud574 \ub354 \ub9ce\uc740 \uc81c\uc5b4\uad8c\uc744 \uc0ac\uc6a9\uc790\uc5d0\uac8c \uc81c\uacf5\ud558\uace0 \uc788\uc2b5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 14:39:24",
       "message": "[SKIP] Content too short: AMD Says \u201cHelios\u201d Racks And MI..."
+    },
+    {
+      "timestamp": "2026-02-25 14:39:25",
+      "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
     }
   ]
 }
