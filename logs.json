@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 01:35:54",
+  "last_updated": "2026-02-25 01:35:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 01:35:08",
-      "message": "[SUCCESS] Processed: \uad6c\uae00\uc758 \ud074\ub77c\uc6b0\ub4dc AI, \ubaa8\ub378 \ub2a5\ub825\uc758 \uc138 \uac00\uc9c0 \ucd5c\uc804\uc120\uc5d0\uc11c \uc120\ub3c4\ud558\ub2e4\n  > Summary: AI \ubaa8\ub378\uc740 \uc6d0\uc2dc \uc9c0\ub2a5, \uc751\ub2f5 \uc2dc\uac04, \uadf8\ub9ac\uace0 '\ud655\uc7a5\uc131'\uc774\ub77c\uace0 \ubd80\ub97c \uc218 \uc788\ub294 \uc138 \ubc88\uc9f8 \ud488\uc9c8\uc758..."
-    },
     {
       "timestamp": "2026-02-25 01:35:09",
       "message": "Reprocessing: OpenAI calls in the consultants for its enterprise push"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 01:35:54",
       "message": "[PROCESSING] Analyzing: A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits (Greg Otto/CyberScoop)..."
+    },
+    {
+      "timestamp": "2026-02-25 01:35:56",
+      "message": "[SKIP] Irrelevant (AI Filter): A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits (Greg Otto/CyberScoop)"
     }
   ]
 }
