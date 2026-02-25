@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 00:29:44",
+  "last_updated": "2026-02-25 00:29:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 00:29:05",
-      "message": "[SUCCESS] Processed: \uc2a4\ud398\uc778 '\uc18c\ub2c9\ucf58' \uba40\ud2f0\ubc84\uc2a4 \ucef4\ud4e8\ud305, \ubb34\ub8cc \uc555\ucd95 AI \ubaa8\ub378 \ucd9c\uc2dc\n  > Summary: \uc2a4\ud398\uc778 \uc2a4\ud0c0\ud2b8\uc5c5 \uba40\ud2f0\ubc84\uc2a4 \ucef4\ud4e8\ud305\uc774 \uc0c8\ub85c\uc6b4 \ud558\uc774\ud37c\ub178\ubc14 60B \ubaa8\ub378\uc744 \ud5c8\uae45\ud398\uc774\uc2a4\uc5d0 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-02-25 00:29:07",
       "message": "[PROCESSING] Analyzing: Google adds a way to create automated workflows to Opal..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 00:29:44",
       "message": "[PROCESSING] Analyzing: NASA Return to Venus Depends on New Class of Ceramic Sensor..."
+    },
+    {
+      "timestamp": "2026-02-25 00:29:46",
+      "message": "[SKIP] Irrelevant (AI Filter): NASA Return to Venus Depends on New Class of Ceramic Sensor"
     }
   ]
 }
