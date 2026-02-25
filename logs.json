@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-25 14:41:36",
+  "last_updated": "2026-02-25 14:41:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-25 14:40:53",
-      "message": "[PROCESSING] Analyzing: Alibaba Cloud releases a cheap AI coding tool built on open-source models like Alibaba's Qwen 3.5, as well as Zhipu, Moonshot, and MiniMax models (Saritha Rai/Bloomberg)..."
-    },
     {
       "timestamp": "2026-02-25 14:40:58",
       "message": "[SUCCESS] Processed: \uc54c\ub9ac\ubc14\ubc14 \ud074\ub77c\uc6b0\ub4dc, \uc54c\ub9ac\ubc14\ubc14\uc758 Qwen 3.5, Zhipu, Moonshot, MiniMax \ubaa8\ub378 \ub4f1 \uc624\ud508 \uc18c\uc2a4 \ubaa8\ub378\uc744 \uae30\ubc18\uc73c\ub85c \ud55c \uc800\ub834\ud55c AI \ucf54\ub529 \ub3c4\uad6c \ucd9c\uc2dc\n  > Summary: \uc54c\ub9ac\ubc14\ubc14 \ud074\ub77c\uc6b0\ub4dc\uac00 Qwen 3.5 \ubc0f \uc5ec\ub7ec \uc624\ud508 \uc18c\uc2a4 \ubaa8\ub378\uc744 \ud65c\uc6a9\ud55c \uc800\ub834\ud55c AI \ucf54\ub529 \ub3c4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-25 14:41:36",
       "message": "[PROCESSING] Analyzing: Sources: Japan's FTC raids Microsoft's Japan offices as part of a probe into whether Azure customers were improperly hindered from using other cloud services (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-02-25 14:41:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Japan's FTC raids Microsoft's Japan offices as part of a probe into whether Azure customers were improperly hindered from using other cloud services (Nikkei Asia)"
     }
   ]
 }
