@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 12:43:37",
+  "last_updated": "2026-02-26 12:43:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 12:43:03",
-      "message": "[PROCESSING] Analyzing: 8 billion tokens a day forced AT&T to rethink AI orchestration \u2014 and cut costs by 90%..."
-    },
     {
       "timestamp": "2026-02-26 12:43:08",
       "message": "[SUCCESS] Processed: \ud558\ub8e8 80\uc5b5 \uac1c\uc758 \ud1a0\ud070 \uc0ac\uc6a9\uc73c\ub85c AT&T\ub294 AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uc744 \uc7ac\uace0\ud558\uace0 \ube44\uc6a9\uc744 90% \uc808\uac10\ud560 \uc218 \uc788\uc5c8\ub2e4\n  > Summary: AT&T\ub294 \ud558\ub8e8 80\uc5b5 \uac1c\uc758 \ud1a0\ud070\uc744 \uc0ac\uc6a9\ud558\uba74\uc11c AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uc744 \uc7ac\uc124\uacc4\ud558\uc5ec \ube44\uc6a9\uc744 90..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 12:43:37",
       "message": "Reprocessing: Vast Forward keynote analysis from theCUBE: Rebuilding the operating system for the AI era"
+    },
+    {
+      "timestamp": "2026-02-26 12:43:39",
+      "message": "[SKIP] Content too short: Vast Forward keynote analysis ..."
     }
   ]
 }
