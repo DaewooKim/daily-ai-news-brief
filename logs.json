@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 03:54:46",
+  "last_updated": "2026-02-26 03:54:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 03:54:10",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI, \uba54\ud0c0 AI \uc5f0\uad6c\uc6d0 \ub8e8\uc624\ubc0d \ud33d \uace0\uc6a9\n  > Summary: \uc624\ud508AI\uac00 \uba54\ud0c0 \ud50c\ub7ab\ud3fc\uc758 AI \uc5f0\uad6c\uc6d0 \ub8e8\uc624\ubc0d \ud33d\uc744 \uace0\uc6a9\ud588\ub2e4. \ud33d\uc740 \uc57d 7\uac1c\uc6d4 \uc804 \uc560\ud50c\uc5d0\uc11c ..."
-    },
     {
       "timestamp": "2026-02-26 03:54:11",
       "message": "[PROCESSING] Analyzing: Cisco warns of critical SD-WAN bug that was actively exploited in zero-day attacks since 2023, as CISA and international partners issue emergency directives (Lawrence Abrams/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 03:54:46",
       "message": "[PROCESSING] Analyzing: Three New ALD/MLD Processes for Co-organic Thin Films (Aalto University, RUB et al.)..."
+    },
+    {
+      "timestamp": "2026-02-26 03:54:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Three New ALD/MLD Processes for Co-organic Thin Films (Aalto University, RUB et al.)"
     }
   ]
 }
