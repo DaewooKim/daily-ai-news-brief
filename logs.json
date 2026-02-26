@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 22:45:31",
+  "last_updated": "2026-02-26 22:45:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 22:44:59",
-      "message": "[PROCESSING] Analyzing: FTC declines to enforce a kids privacy law for data collected to verify users\u2019 ages..."
-    },
     {
       "timestamp": "2026-02-26 22:45:02",
       "message": "[SKIP] Irrelevant (AI Filter): FTC declines to enforce a kids privacy law for data collected to verify users\u2019 ages"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 22:45:31",
       "message": "[SKIP] Content too short: AMD Says \u201cHelios\u201d Racks And MI..."
+    },
+    {
+      "timestamp": "2026-02-26 22:45:32",
+      "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
     }
   ]
 }
