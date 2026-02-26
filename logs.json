@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 13:48:24",
+  "last_updated": "2026-02-26 13:48:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 13:47:42",
-      "message": "[SUCCESS] Processed: AMD, \uba54\ud0c0, AI \uacbd\uc7c1 \uc2ec\ud654\uc5d0 \ub530\ub978 1000\uc5b5 \ub2ec\ub7ec, 6GW \uce69 \uacc4\uc57d \uccb4\uacb0\n  > Summary: AMD\uc640 \uba54\ud0c0\uac00 AI \uacbd\uc7c1\uc774 \uaca9\ud654\ub428\uc5d0 \ub530\ub77c 1000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 6GW \uce69 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588..."
-    },
     {
       "timestamp": "2026-02-26 13:47:43",
       "message": "[PROCESSING] Analyzing: eBay says it plans to cut ~800 jobs, or ~6% of its full-time employees, after laying off ~500 people in early 2023 and ~1,000 staff in early 2024 (Jo Constantz/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 13:48:24",
       "message": "[PROCESSING] Analyzing: 40 PCB Design Tips Every Designer Should Know: eBook..."
+    },
+    {
+      "timestamp": "2026-02-26 13:48:27",
+      "message": "[SKIP] Irrelevant (AI Filter): 40 PCB Design Tips Every Designer Should Know: eBook"
     }
   ]
 }
