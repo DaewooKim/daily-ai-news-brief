@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 13:46:45",
+  "last_updated": "2026-02-26 13:46:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 13:46:08",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-26 13:46:08",
       "message": "[PROCESSING] Analyzing: Burger King will use AI to check if employees say \u2018please\u2019 and \u2018thank you\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 13:46:45",
       "message": "Reprocessing: AMD Says \u201cHelios\u201d Racks And MI400 Series GPUs On Track For 2H 2026"
+    },
+    {
+      "timestamp": "2026-02-26 13:46:47",
+      "message": "[SKIP] Content too short: AMD Says \u201cHelios\u201d Racks And MI..."
     }
   ]
 }
