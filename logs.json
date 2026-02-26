@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 20:31:43",
+  "last_updated": "2026-02-26 20:31:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 20:31:07",
-      "message": "Found 158 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-26 20:31:07",
       "message": "[PROCESSING] Analyzing: Qualcomm won&#8217;t be announcing Windows gaming handhelds at GDC after all..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 20:31:43",
       "message": "[PROCESSING] Analyzing: HBO Max&#8217;s password-sharing crackdown is going global..."
+    },
+    {
+      "timestamp": "2026-02-26 20:31:45",
+      "message": "[SKIP] Irrelevant (AI Filter): HBO Max&#8217;s password-sharing crackdown is going global"
     }
   ]
 }
