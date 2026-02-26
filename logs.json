@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 01:43:42",
+  "last_updated": "2026-02-26 01:43:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 01:43:04",
-      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, 4\ubd84\uae30 \ub9e4\ucd9c 73% \uc99d\uac00, 681\uc5b5 3\ucc9c\ub9cc \ub2ec\ub7ec \ubcf4\uace0... \ub370\uc774\ud130 \uc13c\ud130 \ub9e4\ucd9c 75% \uc99d\uac00\n  > Summary: \uc5d4\ube44\ub514\uc544\ub294 4\ubd84\uae30 \ub9e4\ucd9c\uc774 \uc804\ub144 \ub300\ube44 73% \uc99d\uac00\ud55c 681\uc5b5 3\ucc9c\ub9cc \ub2ec\ub7ec\uc5d0 \ub2ec\ud558\uba70, \ub370\uc774\ud130 ..."
-    },
     {
       "timestamp": "2026-02-26 01:43:05",
       "message": "[PROCESSING] Analyzing: Salesforce reports Q4 revenue up 12% YoY to $11.2B, vs. $11.18B est., forecasts Q1 revenue above estimates, and announces a $50B share repurchase program (Zaheer Kachwala/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 01:43:42",
       "message": "[PROCESSING] Analyzing: Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP..."
+    },
+    {
+      "timestamp": "2026-02-26 01:43:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP"
     }
   ]
 }
