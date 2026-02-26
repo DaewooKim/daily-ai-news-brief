@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 22:46:09",
+  "last_updated": "2026-02-26 22:46:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 22:45:31",
-      "message": "[SKIP] Content too short: AMD Says \u201cHelios\u201d Racks And MI..."
-    },
     {
       "timestamp": "2026-02-26 22:45:32",
       "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 22:46:09",
       "message": "[PROCESSING] Analyzing: OpenAI COO says ads will be \u2018an iterative process\u2019..."
+    },
+    {
+      "timestamp": "2026-02-26 22:46:11",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI COO says ads will be \u2018an iterative process\u2019"
     }
   ]
 }
