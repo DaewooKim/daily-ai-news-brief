@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 00:35:09",
+  "last_updated": "2026-02-26 00:35:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 00:34:28",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-26 00:34:41",
       "message": "Found 149 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 00:35:09",
       "message": "[SKIP] Content too short: AMD Says \u201cHelios\u201d Racks And MI..."
+    },
+    {
+      "timestamp": "2026-02-26 00:35:11",
+      "message": "Reprocessing: Making Softmax More Efficient with NVIDIA Blackwell Ultra"
     }
   ]
 }
