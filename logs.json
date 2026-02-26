@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 16:01:09",
+  "last_updated": "2026-02-26 16:01:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 16:00:29",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-26 16:00:29",
       "message": "[PROCESSING] Analyzing: HBO Max&#8217;s password-sharing crackdown is going global..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 16:01:09",
       "message": "Reprocessing: CPU-Only Compute Still Matters To A Lot Of HPC Centers"
+    },
+    {
+      "timestamp": "2026-02-26 16:01:10",
+      "message": "[SKIP] Content too short: CPU-Only Compute Still Matters..."
     }
   ]
 }
