@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 04:59:31",
+  "last_updated": "2026-02-26 04:59:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 04:58:54",
-      "message": "[PROCESSING] Analyzing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy..."
-    },
     {
       "timestamp": "2026-02-26 04:58:58",
       "message": "[SUCCESS] Processed: \uc815\ud655\uc131\uc744 \uc783\uc9c0 \uc54a\uc73c\uba74\uc11c \ub192\uc740 \ucc98\ub9ac\ub7c9\uc744 \uc704\ud55c NVFP4 \uc800\uc815\ubc00 \ubaa8\ub378 \ud6c8\ub828 \uc0ac\uc6a9\n  > Summary: AI \ubaa8\ub378\uacfc \ub370\uc774\ud130\uc14b\uc758 \ud06c\uae30\uac00 \uacc4\uc18d \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uae30\uc874\uc758 \uace0\uc815\ubc00 BF16 \ud6c8\ub828 \ubc29\uc2dd\ub9cc\uc73c\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 04:59:31",
       "message": "[SUCCESS] Processed: \uacf5\uae09\ub9dd \ub9ac\ub354\ub4e4\uc740 \uc5d0\uc774\uc804\ud2f1 AI\uac00 \ucd08\uae09 \ucc44\uc6a9\uc744 \uc904\uc77c \uac83\uc73c\ub85c \ubcf4\uace0 \uc788\ub2e4\n  > Summary: AI\uc758 \ud1b5\ud569\uc774 \uae00\ub85c\ubc8c \uacf5\uae09\ub9dd\uc5d0\uc11c \uc804\ud1b5\uc801\uc778 \ucd08\uae09 \uc9c1\ubb34\ub97c \uac10\uc18c\uc2dc\ud0ac \uac83\uc73c\ub85c \uc608\uc0c1\ub418\uba70, \uae30\uc5c5\ub4e4\uc740 ..."
+    },
+    {
+      "timestamp": "2026-02-26 04:59:33",
+      "message": "Reprocessing: HPE Expands Juniper PTX Line to Power AI Data Center Fabric"
     }
   ]
 }
