@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 23:56:33",
+  "last_updated": "2026-02-26 23:56:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 23:56:02",
-      "message": "[PROCESSING] Analyzing: MIPI Alliance Upgrades Specs for JEDEC UFS..."
-    },
     {
       "timestamp": "2026-02-26 23:56:07",
       "message": "[SUCCESS] Processed: MIPI \uc5bc\ub77c\uc774\uc5b8\uc2a4, JEDEC UFS \uc0ac\uc591 \uc5c5\ub370\uc774\ud2b8\n  > Summary: MIPI \uc5bc\ub77c\uc774\uc5b8\uc2a4\uac00 JEDEC UFS 5.0\uc744 \uc704\ud55c UniPro \ubc0f M-PHY \uc0ac\uc591\uc758 \ub450..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 23:56:33",
       "message": "[SKIP] Content too short: Salesforce launches telco-spec..."
+    },
+    {
+      "timestamp": "2026-02-26 23:56:34",
+      "message": "Reprocessing: Versa rolls out Sovereign SASE-as-a-Service to keep data and control planes within national borders"
     }
   ]
 }
