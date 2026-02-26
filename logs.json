@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 14:54:14",
+  "last_updated": "2026-02-26 14:54:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 14:52:54",
-      "message": "[PROCESSING] Analyzing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy..."
-    },
     {
       "timestamp": "2026-02-26 14:52:59",
       "message": "[SUCCESS] Processed: \uc815\ud655\uc131\uc744 \uc783\uc9c0 \uc54a\uace0 \ub354 \ub192\uc740 \ucc98\ub9ac\ub7c9\uc744 \uc704\ud55c NVFP4 \uc800\uc815\ubc00\ub3c4 \ubaa8\ub378 \ud6c8\ub828 \uc0ac\uc6a9\n  > Summary: AI \ubaa8\ub378\uacfc \ub370\uc774\ud130\uc14b\uc758 \ud06c\uae30\uac00 \uacc4\uc18d \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uae30\uc874\uc758 \uace0\uc815\ubc00 BF16 \ud6c8\ub828\ub9cc\uc73c\ub85c\ub294 \ub354..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 14:54:14",
       "message": "[PROCESSING] Analyzing: US tells diplomats to lobby against foreign data sovereignty laws..."
+    },
+    {
+      "timestamp": "2026-02-26 14:54:16",
+      "message": "[SKIP] Irrelevant (AI Filter): US tells diplomats to lobby against foreign data sovereignty laws"
     }
   ]
 }
