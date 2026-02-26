@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-02-26 12:45:23",
-  "status": "idle",
+  "last_updated": "2026-02-26 13:46:08",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-02-26 12:43:58",
-      "message": "Reprocessing: Atlassian embeds agents into Jira and embraces MCP for third-party integrations"
+      "timestamp": "2026-02-26 13:45:54",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-02-26 12:43:59",
-      "message": "[SKIP] Content too short: Atlassian embeds agents into J..."
+      "timestamp": "2026-02-26 13:45:56",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-02-26 12:44:01",
-      "message": "Reprocessing: Lightrun debuts real-time AI site reliability engineer for autonomous software remediation"
+      "timestamp": "2026-02-26 13:45:56",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-02-26 12:44:02",
-      "message": "[SKIP] Content too short: Lightrun debuts real-time AI s..."
+      "timestamp": "2026-02-26 13:46:08",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-02-26 12:44:04",
-      "message": "Reprocessing: HP\u2019s stock falls after management tempers full-year expectations amid soaring memory costs"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:05",
-      "message": "[SKIP] Content too short: HP\u2019s stock falls after managem..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:06",
-      "message": "Reprocessing: Workday\u2019s stock slumps again on weak guidance and AI disruption fears"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:08",
-      "message": "[SKIP] Content too short: Workday\u2019s stock slumps again o..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:10",
-      "message": "Reprocessing: Chip startup MatX raises $500M to speed up large language models"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:11",
-      "message": "[SKIP] Content too short: Chip startup MatX raises $500M..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:12",
-      "message": "Reprocessing: Even as Anthropic moves deeper into enterprise, it hits a wall at DOD"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:14",
-      "message": "[SKIP] Content too short: Even as Anthropic moves deeper..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:15",
-      "message": "Reprocessing: Edge AI chip startup Axelera AI raises $250M+ funding round"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:17",
-      "message": "[SKIP] Content too short: Edge AI chip startup Axelera A..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:18",
-      "message": "Reprocessing: AI accounting startup Basis secures $100M at $1.15B valuation as firms adopt agent-based workflows"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:19",
-      "message": "[SKIP] Content too short: AI accounting startup Basis se..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:21",
-      "message": "Reprocessing: Profound raises $96M at $1B valuation for AI discovery monitoring platform"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:23",
-      "message": "[SKIP] Content too short: Profound raises $96M at $1B va..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:24",
-      "message": "Reprocessing: AMD shares jump 8% on $100B+ AI chip deal with Meta"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:26",
-      "message": "[SKIP] Content too short: AMD shares jump 8% on $100B+ A..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:27",
-      "message": "Reprocessing: From lab to revenue: Infleqtion\u2019s quantum sensing strategy meets Nvidia\u2019s GPU ecosystem"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:29",
-      "message": "[SKIP] Content too short: From lab to revenue: Infleqtio..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:30",
-      "message": "Reprocessing: Amazon\u2019s new AI video transformation tool optimizes live broadcasts for vertical screens in real time"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:31",
-      "message": "[SKIP] Content too short: Amazon\u2019s new AI video transfor..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:33",
-      "message": "Reprocessing: IBM taps Deepgram to add real-time speech to watsonx Orchestrate"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:34",
-      "message": "[SKIP] Content too short: IBM taps Deepgram to add real-..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:36",
-      "message": "Reprocessing: Aikido Security unveils Infinite, an automated self-securing software solution"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:37",
-      "message": "[SKIP] Content too short: Aikido Security unveils Infini..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:39",
-      "message": "Reprocessing: Vouched launches Agent Checkpoint to bring transparency and control to AI agents"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:40",
-      "message": "[SKIP] Content too short: Vouched launches Agent Checkpo..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:42",
-      "message": "Reprocessing: Harness announces general availability of software artifact registry for DevOps"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:43",
-      "message": "[SKIP] Content too short: Harness announces general avai..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:44",
-      "message": "Reprocessing: NVIDIA Reports Q4\u2019FY2026 Earnings: Data Center and ProViz Drive Revenue Records"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:46",
-      "message": "[PROCESSING] Analyzing: NVIDIA Reports Q4\u2019FY2026 Earnings: Data Center and ProViz Drive Revenue Records..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:50",
-      "message": "[SUCCESS] Processed: NVIDIA\uac00 FY2026 4\ubd84\uae30 \uc2e4\uc801 \ubc1c\ud45c: \ub370\uc774\ud130 \uc13c\ud130 \ubc0f ProViz\uac00 \uc218\uc775 \uae30\ub85d\uc744 \uc8fc\ub3c4\n  > Summary: NVIDIA\ub294 2026 \ud68c\uacc4\uc5f0\ub3c4 4\ubd84\uae30 \ubc0f \uc804\uccb4 \ud68c\uacc4\uc5f0\ub3c4\uc758 \uc2e4\uc801\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. AI \ubd90\uc758..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:52",
-      "message": "Reprocessing: AMD Intros Single-Socket EPYC 8005 \u201cSorano\u201d CPUs For Telco and Edge"
-    },
-    {
-      "timestamp": "2026-02-26 12:44:53",
-      "message": "[PROCESSING] Analyzing: AMD Intros Single-Socket EPYC 8005 \u201cSorano\u201d CPUs For Telco and Edge..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:57",
-      "message": "[SUCCESS] Processed: AMD, \ud1b5\uc2e0\uc0ac \ubc0f \uc5e3\uc9c0\ub97c \uc704\ud55c \ub2e8\uc77c \uc18c\ucf13 EPYC 8005 '\uc18c\ub77c\ub178' CPU \ucd9c\uc2dc\n  > Summary: AMD\ub294 MWC\ub97c \uc55e\ub450\uace0 EPYC 8005 '\uc18c\ub77c\ub178' \uc2dc\ub9ac\uc988 \ud504\ub85c\uc138\uc11c\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-02-26 12:44:59",
-      "message": "Reprocessing: AMD and Meta Announce a Massive 6GW Deal"
-    },
-    {
-      "timestamp": "2026-02-26 12:45:00",
-      "message": "[PROCESSING] Analyzing: AMD and Meta Announce a Massive 6GW Deal..."
-    },
-    {
-      "timestamp": "2026-02-26 12:45:03",
-      "message": "[SUCCESS] Processed: AMD\uc640 \uba54\ud0c0, \ub300\uaddc\ubaa8 6GW \uac70\ub798 \ubc1c\ud45c\n  > Summary: AMD\uc640 \uba54\ud0c0\ub294 AMD\uc758 \ub799 \uc2a4\ucf00\uc77c AI \uc544\ud0a4\ud14d\ucc98 \ubc0f GPU\uc640 EPYC CPU\ub97c \uc704\ud55c \ub300\uaddc..."
-    },
-    {
-      "timestamp": "2026-02-26 12:45:05",
-      "message": "[PROCESSING] Analyzing: GL.iNet Flint 3 BE9300 WiFi 7 2.5GbE Router Review Good In Many Ways..."
-    },
-    {
-      "timestamp": "2026-02-26 12:45:07",
-      "message": "[SKIP] Irrelevant (AI Filter): GL.iNet Flint 3 BE9300 WiFi 7 2.5GbE Router Review Good In Many Ways"
-    },
-    {
-      "timestamp": "2026-02-26 12:45:08",
-      "message": "[PROCESSING] Analyzing: YuanLey YS50-0800 Review An 8-Port 5GbE Realtek-based Switch..."
-    },
-    {
-      "timestamp": "2026-02-26 12:45:10",
-      "message": "[SKIP] Irrelevant (AI Filter): YuanLey YS50-0800 Review An 8-Port 5GbE Realtek-based Switch"
-    },
-    {
-      "timestamp": "2026-02-26 12:45:12",
-      "message": "[PROCESSING] Analyzing: Dell UltraSharp 52 6K Review This is Just AWESOME\u2026 But..."
-    },
-    {
-      "timestamp": "2026-02-26 12:45:13",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell UltraSharp 52 6K Review This is Just AWESOME\u2026 But"
-    },
-    {
-      "timestamp": "2026-02-26 12:45:15",
-      "message": "Completed! New: 5, Updated: 45"
-    },
-    {
-      "timestamp": "2026-02-26 12:45:19",
-      "message": "Saved 50 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-02-26 12:45:22",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-02-26 13:46:08",
+      "message": "[PROCESSING] Analyzing: Burger King will use AI to check if employees say \u2018please\u2019 and \u2018thank you\u2019..."
     }
   ]
 }
