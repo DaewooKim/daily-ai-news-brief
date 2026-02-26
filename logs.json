@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-26 17:08:24",
+  "last_updated": "2026-02-26 17:08:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-26 17:07:32",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-26 17:07:45",
       "message": "Found 157 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-26 17:08:24",
       "message": "[PROCESSING] Analyzing: Xbox is in danger. Will Microsoft fix it or kill it?..."
+    },
+    {
+      "timestamp": "2026-02-26 17:08:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox is in danger. Will Microsoft fix it or kill it?"
     }
   ]
 }
