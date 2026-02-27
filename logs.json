@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 21:03:11",
+  "last_updated": "2026-02-27 21:03:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 21:02:25",
-      "message": "[SUCCESS] Processed: \ucd94\ub860\uc774 \ub2e4\uc74c AI \uce69 \uc804\uc120\uc774 \ub41c\ub2e4\n  > Summary: \uc804\ubb38\uac00\ub4e4\uc740 GPU\uac00 \uacc4\uc18d\ud574\uc11c \uc9c0\ubc30\ub97c \ud560 \uac83\uc774\ub77c\uace0 \ub9d0\ud558\uc9c0\ub9cc, \uae30\uc5c5\uc5d0\uc11c\uc758 \ucd94\ub860\uc5d0 \ub300\ud55c \uc218\uc694 \uc99d..."
-    },
     {
       "timestamp": "2026-02-27 21:02:26",
       "message": "[PROCESSING] Analyzing: Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 21:03:11",
       "message": "[PROCESSING] Analyzing: India-based Ultrahuman launches the $479 Ring Pro, available for pre-order globally, excluding the US, after the ITC ruled in favor of Oura in a patent dispute (Jagmeet Singh/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-02-27 21:03:13",
+      "message": "[SKIP] Irrelevant (AI Filter): India-based Ultrahuman launches the $479 Ring Pro, available for pre-order globally, excluding the US, after the ITC ruled in favor of Oura in a patent dispute (Jagmeet Singh/TechCrunch)"
     }
   ]
 }
