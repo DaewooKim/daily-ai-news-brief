@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 18:43:48",
+  "last_updated": "2026-02-27 18:43:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 18:43:19",
-      "message": "[PROCESSING] Analyzing: Here&#8217;s your first look at Kratos in Amazon&#8217;s God of War show..."
-    },
     {
       "timestamp": "2026-02-27 18:43:22",
       "message": "[SKIP] Irrelevant (AI Filter): Here&#8217;s your first look at Kratos in Amazon&#8217;s God of War show"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 18:43:48",
       "message": "[SKIP] Content too short: AMD Says \u201cHelios\u201d Racks And MI..."
+    },
+    {
+      "timestamp": "2026-02-27 18:43:50",
+      "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
     }
   ]
 }
