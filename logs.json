@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 17:36:56",
+  "last_updated": "2026-02-27 17:36:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 17:36:19",
-      "message": "Reprocessing: OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank"
-    },
     {
       "timestamp": "2026-02-27 17:36:21",
       "message": "[PROCESSING] Analyzing: OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 17:36:56",
       "message": "[SUCCESS] Processed: NVIDIA Run:ai \ubc0f NVIDIA NIM\uc73c\ub85c GPU \ud65c\uc6a9 \uadf9\ub300\ud654\ud558\uae30\n  > Summary: \uc870\uc9c1\ub4e4\uc774 LLM\uc744 \ubc30\ud3ec\ud558\uba74\uc11c \ub2e4\uc591\ud55c \uc790\uc6d0 \uc694\uad6c \uc0ac\ud56d\uc744 \uac00\uc9c4 \ucd94\ub860 \uc791\uc5c5\uc5d0 \uc9c1\uba74\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
+    },
+    {
+      "timestamp": "2026-02-27 17:36:58",
+      "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
     }
   ]
 }
