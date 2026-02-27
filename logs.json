@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 14:17:36",
+  "last_updated": "2026-02-27 14:17:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 14:16:48",
-      "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
-    },
     {
       "timestamp": "2026-02-27 14:16:53",
       "message": "[SUCCESS] Processed: FPGA \uae30\ubc18 GNN \uc804\ucc98\ub9ac \ubcd1\ubaa9 \ud604\uc0c1\uc744 \ud574\uacb0\ud558\ub294 \uac00\uc18d\uae30 (KAIST \uc678)\n  > Summary: KAIST\uc640 \uc911\uad6d\uc758 \uc5ec\ub7ec \ub300\ud559 \uc5f0\uad6c\uc9c4\uc774 FPGA \uae30\ubc18 \uac00\uc18d\uae30 \u2018AutoGNN\u2019\uc5d0 \uad00\ud55c \uae30\uc220..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 14:17:36",
       "message": "[PROCESSING] Analyzing: Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP..."
+    },
+    {
+      "timestamp": "2026-02-27 14:17:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP"
     }
   ]
 }
