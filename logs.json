@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 05:24:43",
+  "last_updated": "2026-02-27 05:24:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 05:23:59",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-27 05:24:10",
       "message": "Found 161 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 05:24:43",
       "message": "[SKIP] Content too short: Some More Game Theory, This Ti..."
+    },
+    {
+      "timestamp": "2026-02-27 05:24:44",
+      "message": "Reprocessing: CPU-Only Compute Still Matters To A Lot Of HPC Centers"
     }
   ]
 }
