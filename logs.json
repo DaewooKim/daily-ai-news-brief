@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 16:29:07",
+  "last_updated": "2026-02-27 16:29:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 16:28:17",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-02-27 16:28:29",
       "message": "Found 174 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 16:29:07",
       "message": "[PROCESSING] Analyzing: TCL&#8217;s $7,000+ flagship TV is ready to fight..."
+    },
+    {
+      "timestamp": "2026-02-27 16:29:10",
+      "message": "[SKIP] Irrelevant (AI Filter): TCL&#8217;s $7,000+ flagship TV is ready to fight"
     }
   ]
 }
