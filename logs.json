@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 20:59:43",
+  "last_updated": "2026-02-27 20:59:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 20:59:01",
-      "message": "[SUCCESS] Processed: OpenAI, \ud504\ub860\ud2f0\uc5b4 \uc5bc\ub77c\uc774\uc5b8\uc2a4 \ud30c\ud2b8\ub108 \ubc1c\ud45c\n  > Summary: OpenAI\ub294 \uae30\uc5c5\ub4e4\uc774 AI \ud30c\uc77c\ub7ff\uc5d0\uc11c \uc0dd\uc0b0\uc73c\ub85c \uc774\ub3d9\ud560 \uc218 \uc788\ub3c4\ub85d \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ud504\ub860\ud2f0\uc5b4 ..."
-    },
     {
       "timestamp": "2026-02-27 20:59:03",
       "message": "[PROCESSING] Analyzing: Musk bashes OpenAI in deposition, saying \u2018nobody committed suicide because of Grok\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 20:59:43",
       "message": "[PROCESSING] Analyzing: Jack Dorsey just halved the size of Block\u2019s employee base \u2014 and he says your company is next..."
+    },
+    {
+      "timestamp": "2026-02-27 20:59:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Jack Dorsey just halved the size of Block\u2019s employee base \u2014 and he says your company is next"
     }
   ]
 }
