@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 09:50:01",
+  "last_updated": "2026-02-27 09:50:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 09:49:23",
-      "message": "[PROCESSING] Analyzing: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings..."
-    },
     {
       "timestamp": "2026-02-27 09:49:26",
       "message": "[SKIP] Irrelevant (AI Filter): Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 09:50:01",
       "message": "[SKIP] Irrelevant (AI Filter): Intuit reports Q2 revenue up 17% YoY to $4.65B, vs. $4.53B est., and forecasts Q3 revenue growth of ~10% and EPS below expectations; INTU drops 5%+ after hours (Kelly Cloonan/Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-02-27 09:50:02",
+      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
     }
   ]
 }
