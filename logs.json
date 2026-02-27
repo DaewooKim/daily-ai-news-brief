@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 19:53:00",
+  "last_updated": "2026-02-27 19:53:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 19:52:23",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874\uc740 OpenAI \uc9c0\ubd84\ub2f9 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uac00\uaca9\uc758 \uc57d 16\ubc30\ub97c \uc9c0\ubd88\ud558\uace0 \uc788\uc73c\uba70, \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc758 \ub3c5\uc810\uad8c\uc740 \uc804\ud600 \ud655\ubcf4\ud558\uc9c0 \ubabb\ud588\uace0, \uc774\ub294 AI\uc5d0\uc11c \ub2a6\uac8c \uc2dc\uc791\ud55c \ub300\uac00\ub97c \ubcf4\uc5ec\uc900\ub2e4.\n  > Summary: \uc544\ub9c8\uc874\uc774 OpenAI\uc5d0 \ub300\ud55c \uc9c0\ubd84\uc744 \ud655\ubcf4\ud558\uae30 \uc704\ud574 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\ubcf4\ub2e4 16\ubc30 \ub354 \ub9ce\uc740 \ube44\uc6a9\uc744..."
-    },
     {
       "timestamp": "2026-02-27 19:52:25",
       "message": "[PROCESSING] Analyzing: OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events (Kate Knibbs/Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 19:53:00",
       "message": "[PROCESSING] Analyzing: TikTok returns to Albania after a year-long ban, ostensibly linked to the death of a teenage boy, expired; Albania says TikTok has tightened safety measures (Reuters)..."
+    },
+    {
+      "timestamp": "2026-02-27 19:53:02",
+      "message": "[SKIP] Irrelevant (AI Filter): TikTok returns to Albania after a year-long ban, ostensibly linked to the death of a teenage boy, expired; Albania says TikTok has tightened safety measures (Reuters)"
     }
   ]
 }
