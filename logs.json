@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 16:31:53",
+  "last_updated": "2026-02-27 16:31:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 16:31:10",
-      "message": "[SUCCESS] Processed: OpenAI\uc758 ChatGPT, \uc8fc\uac04 \ud65c\uc131 \uc0ac\uc6a9\uc790 9\uc5b5 \uba85 \uc774\uc0c1\n  > Summary: OpenAI\ub294 ChatGPT\uc758 \uc8fc\uac04 \ud65c\uc131 \uc0ac\uc6a9\uc790 \uc218\uac00 9\uc5b5 \uba85\uc744 \ub118\uc5c8\uc73c\uba70, 5\ucc9c\ub9cc \uba85 \uc774\uc0c1..."
-    },
     {
       "timestamp": "2026-02-27 16:31:12",
       "message": "[PROCESSING] Analyzing: Sam Altman says OpenAI shares Anthropic's red lines with respect to AI use by the military, which are \"an issue for the whole industry\" (Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 16:31:53",
       "message": "[PROCESSING] Analyzing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis..."
+    },
+    {
+      "timestamp": "2026-02-27 16:31:54",
+      "message": "[SKIP] Irrelevant (AI Filter): An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis"
     }
   ]
 }
