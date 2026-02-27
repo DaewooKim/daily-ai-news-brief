@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-27 16:29:04",
+  "last_updated": "2026-02-27 16:29:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-27 16:28:16",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-02-27 16:28:17",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-27 16:29:04",
       "message": "[PROCESSING] Analyzing: Netflix isn&#8217;t buying Warner Bros: all of the latest updates..."
+    },
+    {
+      "timestamp": "2026-02-27 16:29:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix isn&#8217;t buying Warner Bros: all of the latest updates"
     }
   ]
 }
