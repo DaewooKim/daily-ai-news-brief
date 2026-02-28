@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 20:20:52",
+  "last_updated": "2026-02-28 20:20:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 20:20:22",
-      "message": "Found 165 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-02-28 20:20:22",
       "message": "[PROCESSING] Analyzing: The Rubin Observatory\u2019s alert system sent 800,000 pings on its first night..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 20:20:52",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-02-28 20:20:53",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
