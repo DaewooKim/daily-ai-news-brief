@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 13:48:16",
+  "last_updated": "2026-02-28 13:48:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 13:47:42",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc778\ub3c4\uc758 IT \uc0b0\uc5c5\uc5d0 \ub300\ud55c \ub514\ud50c\ub808\uc774\uc158\uc801 \uc601\ud5a5\n  > Summary: \uc778\ub3c4\uc758 IT \uc0b0\uc5c5\uc740 24\ub144\uac04 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc218\ucd9c\uc758 \uac10\uc18c\ub97c \uacbd\ud5d8\ud558\uc9c0 \uc54a\uc558\uc73c\ub098, \uc778\uacf5\uc9c0\ub2a5(AI)\uc758..."
-    },
     {
       "timestamp": "2026-02-28 13:47:43",
       "message": "Reprocessing: Tests of 12+ AI-detection tools show many capable of spotting basic fakes, but struggle with complex images; few analyze video, and most identified fake audio (Stuart A. Thompson/New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 13:48:16",
       "message": "[PROCESSING] Analyzing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis..."
+    },
+    {
+      "timestamp": "2026-02-28 13:48:18",
+      "message": "[SKIP] Irrelevant (AI Filter): An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis"
     }
   ]
 }
