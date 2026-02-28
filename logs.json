@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 00:28:58",
+  "last_updated": "2026-02-28 00:28:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 00:28:20",
-      "message": "[SUCCESS] Processed: NVIDIA \ube14\ub799\uc6f0 \uc6b8\ud2b8\ub77c\ub85c \uc18c\ud504\ud2b8\ub9e5\uc2a4 \ud6a8\uc728\uc131 \ud5a5\uc0c1\n  > Summary: LLM\uc758 \ucee8\ud14d\uc2a4\ud2b8 \uae38\uc774\uac00 \uae09\uaca9\ud788 \uc99d\uac00\ud558\uace0 \uc788\uc73c\uba70, \uc544\ud0a4\ud14d\ucc98\ub294 Multi-Head Laten..."
-    },
     {
       "timestamp": "2026-02-28 00:28:21",
       "message": "Reprocessing: Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 00:28:58",
       "message": "Reprocessing: ChatGPT reaches 900M weekly active users"
+    },
+    {
+      "timestamp": "2026-02-28 00:28:59",
+      "message": "[PROCESSING] Analyzing: ChatGPT reaches 900M weekly active users..."
     }
   ]
 }
