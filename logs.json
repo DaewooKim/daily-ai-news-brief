@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 01:38:05",
+  "last_updated": "2026-02-28 01:38:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 01:37:26",
-      "message": "[SUCCESS] Processed: \uc0d8 \uc62c\ud2b8\uba3c, \uc9c1\uc6d0\ub4e4\uc5d0\uac8c \ubbf8\uad6d \uad6d\ubc29\ubd80\uac00 OpenAI\uac00 \uc790\uccb4 '\uc548\uc804 \uc2a4\ud0dd'\uc744 \uad6c\ucd95\ud560 \uc218 \uc788\ub3c4\ub85d \ud5c8\uc6a9\ud558\uace0 \ubaa8\ub378\uc774 \uc791\uc5c5\uc744 \uac70\ubd80\ud560 \uacbd\uc6b0 OpenAI\uc5d0 \uac15\uc81c\ub85c \ub530\ub974\ub3c4\ub85d \ud558\uc9c0 \uc54a\uaca0\ub2e4\uace0 \ub9d0\ud588\ub2e4\n  > Summary: \uc0d8 \uc62c\ud2b8\uba3c\uc740 OpenAI \uc9c1\uc6d0\ub4e4\uc5d0\uac8c DOD\uac00 OpenAI\uac00 \uc790\uccb4 \uc548\uc804 \uc2a4\ud0dd\uc744 \uad6c\ucd95\ud560 \uc218 \uc788..."
-    },
     {
       "timestamp": "2026-02-28 01:37:27",
       "message": "[PROCESSING] Analyzing: A federal judge issues a preliminary injunction blocking Virginia from enforcing a new law restricting children's social media use, on First Amendment grounds (Jonathan Stempel/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 01:38:05",
       "message": "[PROCESSING] Analyzing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis..."
+    },
+    {
+      "timestamp": "2026-02-28 01:38:07",
+      "message": "[SKIP] Irrelevant (AI Filter): An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis"
     }
   ]
 }
