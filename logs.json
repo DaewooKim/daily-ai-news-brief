@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 22:34:18",
+  "last_updated": "2026-02-28 22:34:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 22:33:51",
-      "message": "[PROCESSING] Analyzing: MIPI Alliance Upgrades Specs for JEDEC UFS..."
-    },
     {
       "timestamp": "2026-02-28 22:33:55",
       "message": "[SUCCESS] Processed: MIPI Alliance, JEDEC UFS \uc0ac\uc591 \uc5c5\uadf8\ub808\uc774\ub4dc\n  > Summary: MIPI Alliance\ub294 \ubaa8\ubc14\uc77c, PC \ubc0f \uc790\ub3d9\ucc28 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc758 \uc5e3\uc9c0 AI\ub97c \uaca8\ub0e5\ud558\uc5ec U..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 22:34:18",
       "message": "[SKIP] Content too short: AI workloads are exposing the ..."
+    },
+    {
+      "timestamp": "2026-02-28 22:34:19",
+      "message": "Reprocessing: The AI boom is turning flash storage into a critical infrastructure battleground"
     }
   ]
 }
