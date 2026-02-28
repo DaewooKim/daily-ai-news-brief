@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 02:44:59",
+  "last_updated": "2026-02-28 02:45:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 02:44:19",
-      "message": "[SUCCESS] Processed: AMD\uc640 \uba54\ud0c0, AI \uacbd\uc7c1\uc774 \ub728\uac70\uc6cc\uc9c0\uba74\uc11c 1000\uc5b5 \ub2ec\ub7ec, 6GW \uce69 \uac70\ub798 \uccb4\uacb0\n  > Summary: AMD\uc640 \uba54\ud0c0\uac00 AI \uacbd\uc7c1\uc744 \uac15\ud654\ud558\uae30 \uc704\ud574 1000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 6GW \uce69 \uac70\ub798\ub97c \uccb4\uacb0\ud588..."
-    },
     {
       "timestamp": "2026-02-28 02:44:20",
       "message": "[PROCESSING] Analyzing: Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 02:44:59",
       "message": "[SKIP] Irrelevant (AI Filter): An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis"
+    },
+    {
+      "timestamp": "2026-02-28 02:45:00",
+      "message": "Reprocessing: First AI-Driven SoC Verification Solution Created"
     }
   ]
 }
