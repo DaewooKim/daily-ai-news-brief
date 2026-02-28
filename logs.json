@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 06:05:22",
+  "last_updated": "2026-02-28 06:05:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 06:04:42",
-      "message": "[PROCESSING] Analyzing: Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)..."
-    },
     {
       "timestamp": "2026-02-28 06:04:46",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd: DeepSeek, \ub2e4\uc74c \uc8fc \uba40\ud2f0\ubaa8\ub2ec \ubaa8\ub378 V4 \ucd9c\uc2dc \uacc4\ud68d \ubc0f Huawei, \uc911\uad6d AI \uce69 \uc81c\uc870\uc5c5\uccb4 Cambricon\uacfc \ud611\ub825\ud574 V4 \uc81c\ud488 \ucd5c\uc801\ud654\n  > Summary: DeepSeek\ub294 \ub2e4\uc74c \uc8fc \uba40\ud2f0\ubaa8\ub2ec \ubaa8\ub378 V4\ub97c \ucd9c\uc2dc\ud560 \uacc4\ud68d\uc774\uba70, Huawei\uc640 \uc911\uad6d AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 06:05:22",
       "message": "[PROCESSING] Analyzing: Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP..."
+    },
+    {
+      "timestamp": "2026-02-28 06:05:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP"
     }
   ]
 }
