@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 07:11:20",
+  "last_updated": "2026-02-28 07:11:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 07:10:44",
-      "message": "[SUCCESS] Processed: AMD, \uba54\ud0c0, AI \uacbd\uc7c1\uc774 \uce58\uc5f4\ud574\uc9c0\ub294 \uac00\uc6b4\ub370 1000\uc5b5 \ub2ec\ub7ec, 6GW \uce69 \uacc4\uc57d \uccb4\uacb0\n  > Summary: AMD\uc640 \uba54\ud0c0\uac00 1000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 6GW \uce69 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\uc2b5\ub2c8\ub2e4. \uc774\ubc88 \ud611\uc815\uc740 \uace0\uc704\ud5d8..."
-    },
     {
       "timestamp": "2026-02-28 07:10:45",
       "message": "[PROCESSING] Analyzing: Sources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years (Tim Culpan/Culpium)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 07:11:20",
       "message": "[PROCESSING] Analyzing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors..."
+    },
+    {
+      "timestamp": "2026-02-28 07:11:22",
+      "message": "[SKIP] Irrelevant (AI Filter): CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
     }
   ]
 }
