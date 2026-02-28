@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 10:29:51",
+  "last_updated": "2026-02-28 10:29:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 10:29:18",
-      "message": "[SUCCESS] Processed: AMD\uc640 \uba54\ud0c0, AI \uacbd\uc7c1 \uc2ec\ud654 \uc18d 1000\uc5b5 \ub2ec\ub7ec, 6GW \uce69 \uacc4\uc57d \uccb4\uacb0\n  > Summary: AMD\uc640 \uba54\ud0c0\ub294 AI \uae30\uc220 \uacbd\uc7c1\uc774 \uce58\uc5f4\ud574\uc9c0\ub294 \uac00\uc6b4\ub370 1000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 6GW \uce69 \uacc4\uc57d..."
-    },
     {
       "timestamp": "2026-02-28 10:29:19",
       "message": "Reprocessing: Tests of 12+ AI-detection tools show many capable of spotting basic fakes, but struggle with complex images; few analyze video, and most identified fake audio (Stuart A. Thompson/New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 10:29:51",
       "message": "[PROCESSING] Analyzing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors..."
+    },
+    {
+      "timestamp": "2026-02-28 10:29:52",
+      "message": "[SKIP] Irrelevant (AI Filter): CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
     }
   ]
 }
