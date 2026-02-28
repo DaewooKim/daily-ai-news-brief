@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 08:18:05",
+  "last_updated": "2026-02-28 08:18:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 08:17:25",
-      "message": "[PROCESSING] Analyzing: Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)..."
-    },
     {
       "timestamp": "2026-02-28 08:17:29",
       "message": "[SUCCESS] Processed: \ub525\uc2dc\ud06c, \ub2e4\uc74c \uc8fc \ub2e4\uc911 \ubaa8\ub2ec \ubaa8\ub378 V4 \ubc1c\ud45c \uacc4\ud68d \ubc0f \ud654\uc6e8\uc774, \uc911\uad6d AI \uce69 \uc81c\uc870\uc0ac \uce84\ube0c\ub9ac\ucf58\uacfc \ud611\ub825\n  > Summary: \ub525\uc2dc\ud06c\ub294 \ub2e4\uc74c \uc8fc\uc5d0 \ub2e4\uc911 \ubaa8\ub2ec \ubaa8\ub378 V4\ub97c \ucd9c\uc2dc\ud560 \uacc4\ud68d\uc774\uba70, \ud654\uc6e8\uc774 \ubc0f \uc911\uad6d AI \uce69 \uc81c\uc870..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 08:18:05",
       "message": "[PROCESSING] Analyzing: Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN..."
+    },
+    {
+      "timestamp": "2026-02-28 08:18:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN"
     }
   ]
 }
