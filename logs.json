@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-02-28 06:05:05",
+  "last_updated": "2026-02-28 06:05:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-02-28 06:04:30",
-      "message": "[SUCCESS] Processed: AMD, \uba54\ud0c0, AI \uacbd\uc7c1 \uc2ec\ud654\ub85c 1000\uc5b5 \ub2ec\ub7ec, 6GW \uce69 \uac70\ub798 \uccb4\uacb0\n  > Summary: AMD\uc640 \uba54\ud0c0\uac00 AI \uacbd\uc7c1\uc774 \uc2ec\ud654\ub418\ub294 \uac00\uc6b4\ub370 1000\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 6GW \uce69 \uac70\ub798\ub97c \uccb4\uacb0..."
-    },
     {
       "timestamp": "2026-02-28 06:04:32",
       "message": "[PROCESSING] Analyzing: Coupang reports Q4 revenue up 11% YoY to $8.8B, below $8.9B est., and a net loss of $26M, versus $131M net profit in Q4 2024, hurt by fallout from a data breach (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-02-28 06:05:05",
       "message": "[PROCESSING] Analyzing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis..."
+    },
+    {
+      "timestamp": "2026-02-28 06:05:06",
+      "message": "[SKIP] Irrelevant (AI Filter): An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis"
     }
   ]
 }
