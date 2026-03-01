@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-01 17:46:16",
+  "last_updated": "2026-03-01 17:46:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 17:45:29",
-      "message": "[PROCESSING] Analyzing: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-03-01 17:45:33",
-      "message": "[SUCCESS] Processed: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-01 17:45:35",
       "message": "Reprocessing: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-01 17:46:16",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 17:46:17",
+      "message": "Reprocessing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
+    },
+    {
+      "timestamp": "2026-03-01 17:46:18",
+      "message": "[PROCESSING] Analyzing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors..."
     }
   ]
 }
