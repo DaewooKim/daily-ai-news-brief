@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 22:17:21",
+  "last_updated": "2026-03-01 22:17:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 22:16:26",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-01 22:16:26",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 22:17:21",
       "message": "[PROCESSING] Analyzing: Resident Evil Requiem leans too much on the series\u2019 past..."
+    },
+    {
+      "timestamp": "2026-03-01 22:17:25",
+      "message": "[SUCCESS] Processed: Resident Evil Requiem leans too much on the series\u2019 past\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
