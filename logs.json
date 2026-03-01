@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-01 04:01:00",
+  "last_updated": "2026-03-01 04:01:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 03:59:50",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-03-01 03:59:50",
-      "message": "Reprocessing: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019"
-    },
     {
       "timestamp": "2026-03-01 03:59:51",
       "message": "[PROCESSING] Analyzing: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-01 04:01:00",
       "message": "Reprocessing: The Witcher is a perfect fit for Reigns\u2019 Tinder-like roleplaying"
+    },
+    {
+      "timestamp": "2026-03-01 04:01:01",
+      "message": "[PROCESSING] Analyzing: The Witcher is a perfect fit for Reigns\u2019 Tinder-like roleplaying..."
+    },
+    {
+      "timestamp": "2026-03-01 04:01:05",
+      "message": "[SUCCESS] Processed: The Witcher is a perfect fit for Reigns\u2019 Tinder-like roleplaying\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
