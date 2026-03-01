@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 20:03:10",
+  "last_updated": "2026-03-01 20:03:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 20:02:26",
-      "message": "Reprocessing: Source describes the failed Pentagon-Anthropic talks: through the end, the Pentagon wanted to use Anthropic's AI to analyze bulk data collected about Americans (Ross Andersen/The Atlantic)"
-    },
     {
       "timestamp": "2026-03-01 20:02:27",
       "message": "[PROCESSING] Analyzing: Source describes the failed Pentagon-Anthropic talks: through the end, the Pentagon wanted to use Anthropic's AI to analyze bulk data collected about Americans (Ross Andersen/The Atlantic)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 20:03:10",
       "message": "[PROCESSING] Analyzing: Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger (Dan Gallagher/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-01 20:03:14",
+      "message": "[SUCCESS] Processed: Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger (Dan Gallagher/Wall Street Journal)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
