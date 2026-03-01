@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 18:52:16",
+  "last_updated": "2026-03-01 18:52:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 18:51:33",
-      "message": "Reprocessing: SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse"
-    },
     {
       "timestamp": "2026-03-01 18:51:34",
       "message": "[PROCESSING] Analyzing: SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 18:52:16",
       "message": "[PROCESSING] Analyzing: So, we\u2019re getting Prada Meta AI glasses, right?..."
+    },
+    {
+      "timestamp": "2026-03-01 18:52:20",
+      "message": "[SUCCESS] Processed: So, we\u2019re getting Prada Meta AI glasses, right?\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
