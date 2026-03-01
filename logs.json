@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 22:17:28",
+  "last_updated": "2026-03-01 22:17:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 22:16:38",
-      "message": "Reprocessing: Portable Sonos Play speaker leaks on Canadian Best Buy"
-    },
     {
       "timestamp": "2026-03-01 22:16:39",
       "message": "[PROCESSING] Analyzing: Portable Sonos Play speaker leaks on Canadian Best Buy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 22:17:28",
       "message": "[PROCESSING] Analyzing: How MLB can make baseball relevant on a fast-changing internet..."
+    },
+    {
+      "timestamp": "2026-03-01 22:17:32",
+      "message": "[SUCCESS] Processed: How MLB can make baseball relevant on a fast-changing internet\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
