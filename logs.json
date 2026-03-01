@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 02:54:29",
+  "last_updated": "2026-03-01 02:54:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 02:53:51",
-      "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
-    },
     {
       "timestamp": "2026-03-01 02:53:52",
       "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 02:54:29",
       "message": "[PROCESSING] Analyzing: AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue..."
+    },
+    {
+      "timestamp": "2026-03-01 02:54:33",
+      "message": "[SUCCESS] Processed: AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
