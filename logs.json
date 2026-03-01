@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 02:53:51",
+  "last_updated": "2026-03-01 02:53:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 02:52:53",
-      "message": "[PROCESSING] Analyzing: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019..."
-    },
     {
       "timestamp": "2026-03-01 02:53:01",
       "message": "[SUCCESS] Processed: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 02:53:51",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-01 02:53:52",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
