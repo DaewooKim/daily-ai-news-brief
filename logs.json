@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 05:09:11",
+  "last_updated": "2026-03-01 05:09:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 05:08:36",
-      "message": "Reprocessing: Tenways nearly perfects the shareable city e-bike"
-    },
     {
       "timestamp": "2026-03-01 05:08:37",
       "message": "[PROCESSING] Analyzing: Tenways nearly perfects the shareable city e-bike..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 05:09:11",
       "message": "[PROCESSING] Analyzing: Pentagon moves to designate Anthropic as a supply-chain risk..."
+    },
+    {
+      "timestamp": "2026-03-01 05:09:15",
+      "message": "[SUCCESS] Processed: Pentagon moves to designate Anthropic as a supply-chain risk\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
