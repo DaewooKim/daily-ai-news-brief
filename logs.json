@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 12:03:07",
+  "last_updated": "2026-03-01 12:03:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 12:02:42",
-      "message": "[SUCCESS] Processed: MIPI Alliance Upgrades Specs for JEDEC UFS\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-01 12:02:43",
       "message": "Reprocessing: Ahead of MWC Barcelona, Nvidia bets AI-native platforms will carry telecom into 6G"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 12:03:07",
       "message": "Reprocessing: AI workloads are exposing the limits of the cloud, demanding a total stack overhaul"
+    },
+    {
+      "timestamp": "2026-03-01 12:03:08",
+      "message": "[SKIP] Content too short: AI workloads are exposing the ..."
     }
   ]
 }
