@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 04:04:14",
+  "last_updated": "2026-03-01 04:04:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 04:03:31",
-      "message": "Reprocessing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)"
-    },
     {
       "timestamp": "2026-03-01 04:03:32",
       "message": "[PROCESSING] Analyzing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 04:04:14",
       "message": "[PROCESSING] Analyzing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors..."
+    },
+    {
+      "timestamp": "2026-03-01 04:04:19",
+      "message": "[SUCCESS] Processed: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
