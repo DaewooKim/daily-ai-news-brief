@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 05:09:57",
+  "last_updated": "2026-03-01 05:09:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 05:09:11",
-      "message": "[PROCESSING] Analyzing: Pentagon moves to designate Anthropic as a supply-chain risk..."
-    },
     {
       "timestamp": "2026-03-01 05:09:15",
       "message": "[SUCCESS] Processed: Pentagon moves to designate Anthropic as a supply-chain risk\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 05:09:57",
       "message": "[SUCCESS] Processed: How RFID Labels Could Help Tackle $540B Food Waste Losses in 2026\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 05:09:59",
+      "message": "Reprocessing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019"
     }
   ]
 }
