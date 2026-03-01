@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 07:24:31",
+  "last_updated": "2026-03-01 07:24:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 07:23:46",
-      "message": "[PROCESSING] Analyzing: Xiaomi\u2019s tracker doesn\u2019t need a case to clip to your keys..."
-    },
     {
       "timestamp": "2026-03-01 07:23:52",
       "message": "[SUCCESS] Processed: Xiaomi\u2019s tracker doesn\u2019t need a case to clip to your keys\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 07:24:31",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-01 07:24:32",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
