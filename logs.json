@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 02:56:37",
+  "last_updated": "2026-03-01 02:56:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 02:55:50",
-      "message": "Reprocessing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)"
-    },
     {
       "timestamp": "2026-03-01 02:55:51",
       "message": "[PROCESSING] Analyzing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 02:56:37",
       "message": "[PROCESSING] Analyzing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis..."
+    },
+    {
+      "timestamp": "2026-03-01 02:56:42",
+      "message": "[SUCCESS] Processed: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
