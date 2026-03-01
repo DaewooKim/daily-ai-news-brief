@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 04:03:04",
+  "last_updated": "2026-03-01 04:03:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 04:02:21",
-      "message": "Reprocessing: So, we\u2019re getting Prada Meta AI glasses, right?"
-    },
     {
       "timestamp": "2026-03-01 04:02:22",
       "message": "[PROCESSING] Analyzing: So, we\u2019re getting Prada Meta AI glasses, right?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 04:03:04",
       "message": "[PROCESSING] Analyzing: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings..."
+    },
+    {
+      "timestamp": "2026-03-01 04:03:09",
+      "message": "[SUCCESS] Processed: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
