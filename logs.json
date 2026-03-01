@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 05:13:32",
+  "last_updated": "2026-03-01 05:13:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 05:13:01",
-      "message": "[PROCESSING] Analyzing: Enterprise MCP adoption is outpacing security controls..."
-    },
     {
       "timestamp": "2026-03-01 05:13:05",
       "message": "[SUCCESS] Processed: Enterprise MCP adoption is outpacing security controls\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 05:13:32",
       "message": "Reprocessing: AI at scale is demanding a fundamentally different data architecture"
+    },
+    {
+      "timestamp": "2026-03-01 05:13:33",
+      "message": "[SKIP] Content too short: AI at scale is demanding a fun..."
     }
   ]
 }
