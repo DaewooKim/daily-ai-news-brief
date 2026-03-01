@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 20:04:59",
+  "last_updated": "2026-03-01 20:05:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 20:04:12",
-      "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
-    },
     {
       "timestamp": "2026-03-01 20:04:17",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 20:04:59",
       "message": "[SUCCESS] Processed: Enterprise MCP adoption is outpacing security controls\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 20:05:01",
+      "message": "Reprocessing: Ahead of MWC Barcelona, Nvidia bets AI-native platforms will carry telecom into 6G"
     }
   ]
 }
