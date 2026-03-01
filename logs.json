@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 21:11:42",
+  "last_updated": "2026-03-01 21:11:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 21:10:59",
-      "message": "Reprocessing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019"
-    },
     {
       "timestamp": "2026-03-01 21:11:00",
       "message": "[PROCESSING] Analyzing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 21:11:42",
       "message": "[PROCESSING] Analyzing: Nvidia partners with Cisco, Nokia, and others to build 6G networks based on open, software-defined AI radio access networking (AI-RAN) architecture (Kyt Dotson/SiliconANGLE)..."
+    },
+    {
+      "timestamp": "2026-03-01 21:11:47",
+      "message": "[SUCCESS] Processed: Nvidia partners with Cisco, Nokia, and others to build 6G networks based on open, software-defined AI radio access networking (AI-RAN) architecture (Kyt Dotson/SiliconANGLE)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
