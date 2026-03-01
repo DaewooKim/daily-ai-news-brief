@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 17:48:18",
+  "last_updated": "2026-03-01 17:48:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 17:47:50",
-      "message": "Reprocessing: Autodesk tops earnings estimates as billings surge 33%"
-    },
     {
       "timestamp": "2026-03-01 17:47:51",
       "message": "[SKIP] Content too short: Autodesk tops earnings estimat..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 17:48:18",
       "message": "[PROCESSING] Analyzing: 10Gtek Intel i350 Quad Port 1GbE NIC Review..."
+    },
+    {
+      "timestamp": "2026-03-01 17:48:22",
+      "message": "[SUCCESS] Processed: 10Gtek Intel i350 Quad Port 1GbE NIC Review\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
