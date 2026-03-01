@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 12:00:30",
+  "last_updated": "2026-03-01 12:00:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 11:59:45",
-      "message": "Reprocessing: Exploring the Next-Gen of Network Communication"
-    },
     {
       "timestamp": "2026-03-01 11:59:47",
       "message": "[PROCESSING] Analyzing: Exploring the Next-Gen of Network Communication..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 12:00:30",
       "message": "[PROCESSING] Analyzing: Multiple AWS developers say they are asked to take on new roles with AI tools' assistance, and engineers are now required to complete technical writing tasks (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-03-01 12:00:35",
+      "message": "[SUCCESS] Processed: Multiple AWS developers say they are asked to take on new roles with AI tools' assistance, and engineers are now required to complete technical writing tasks (Financial Times)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
