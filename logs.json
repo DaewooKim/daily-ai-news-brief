@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 15:28:00",
+  "last_updated": "2026-03-01 15:28:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 15:27:03",
-      "message": "[PROCESSING] Analyzing: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-01 15:27:17",
       "message": "[SUCCESS] Processed: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 15:28:00",
       "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 15:28:01",
+      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
     }
   ]
 }
