@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 15:23:14",
+  "last_updated": "2026-03-01 15:23:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 15:22:17",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-01 15:22:29",
       "message": "Found 160 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 15:23:14",
       "message": "[PROCESSING] Analyzing: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019..."
+    },
+    {
+      "timestamp": "2026-03-01 15:23:19",
+      "message": "[SUCCESS] Processed: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
