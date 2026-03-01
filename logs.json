@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 17:45:36",
+  "last_updated": "2026-03-01 17:45:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 17:44:51",
-      "message": "Reprocessing: [Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an \"extremely scary precedent\", OpenAI rushed its deal to \"de-escalate things\", and more (Sam Altman/@sama)"
-    },
     {
       "timestamp": "2026-03-01 17:44:53",
       "message": "[PROCESSING] Analyzing: [Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an \"extremely scary precedent\", OpenAI rushed its deal to \"de-escalate things\", and more (Sam Altman/@sama)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 17:45:36",
       "message": "[PROCESSING] Analyzing: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)..."
+    },
+    {
+      "timestamp": "2026-03-01 17:45:40",
+      "message": "[SUCCESS] Processed: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
