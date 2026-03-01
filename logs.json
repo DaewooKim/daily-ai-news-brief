@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 19:59:44",
+  "last_updated": "2026-03-01 19:59:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 19:58:58",
-      "message": "[PROCESSING] Analyzing: Resident Evil Requiem leans too much on the series\u2019 past..."
-    },
     {
       "timestamp": "2026-03-01 19:59:03",
       "message": "[SUCCESS] Processed: Resident Evil Requiem leans too much on the series\u2019 past\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 19:59:44",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-01 19:59:45",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
