@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 02:55:50",
+  "last_updated": "2026-03-01 02:55:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 02:54:59",
-      "message": "[PROCESSING] Analyzing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019..."
-    },
     {
       "timestamp": "2026-03-01 02:55:03",
       "message": "[SUCCESS] Processed: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 02:55:50",
       "message": "Reprocessing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)"
+    },
+    {
+      "timestamp": "2026-03-01 02:55:51",
+      "message": "[PROCESSING] Analyzing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)..."
     }
   ]
 }
