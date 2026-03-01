@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 06:19:46",
+  "last_updated": "2026-03-01 06:19:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 06:18:58",
-      "message": "[PROCESSING] Analyzing: Sources: Commands around the world, including the US Central Command in the Middle East, use Anthropic's Claude AI tool for a range of military operations (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-03-01 06:19:03",
       "message": "[SUCCESS] Processed: Sources: Commands around the world, including the US Central Command in the Middle East, use Anthropic's Claude AI tool for a range of military operations (Wall Street Journal)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 06:19:46",
       "message": "[SUCCESS] Processed: Xiaomi launches the \u20ac15 Xiaomi tag, an AirTag-like device that works with both Apple Find My and Android Find Hub, and the \u20ac300 Xiaomi Watch 5, in Europe (Ivan Mehta/TechCrunch)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 06:19:47",
+      "message": "Reprocessing: Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect (Wall Street Journal)"
     }
   ]
 }
