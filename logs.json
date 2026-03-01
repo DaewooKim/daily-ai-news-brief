@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 15:23:51",
+  "last_updated": "2026-03-01 15:23:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 15:23:14",
-      "message": "[PROCESSING] Analyzing: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019..."
-    },
     {
       "timestamp": "2026-03-01 15:23:19",
       "message": "[SUCCESS] Processed: Polymarket defends its decision to allow betting on war as \u2018invaluable\u2019\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 15:23:51",
       "message": "Reprocessing: Some More Game Theory, This Time On The AMD-Meta Platforms Deal"
+    },
+    {
+      "timestamp": "2026-03-01 15:23:53",
+      "message": "[SKIP] Content too short: Some More Game Theory, This Ti..."
     }
   ]
 }
