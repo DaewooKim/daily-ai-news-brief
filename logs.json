@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 04:03:18",
+  "last_updated": "2026-03-01 04:03:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 04:02:35",
-      "message": "Reprocessing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019"
-    },
     {
       "timestamp": "2026-03-01 04:02:37",
       "message": "[PROCESSING] Analyzing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 04:03:18",
       "message": "[PROCESSING] Analyzing: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-01 04:03:23",
+      "message": "[SUCCESS] Processed: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
