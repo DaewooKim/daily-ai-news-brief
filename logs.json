@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 08:36:10",
+  "last_updated": "2026-03-01 08:36:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 08:35:22",
-      "message": "[PROCESSING] Analyzing: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)..."
-    },
     {
       "timestamp": "2026-03-01 08:35:27",
       "message": "[SUCCESS] Processed: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 08:36:10",
       "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
+    },
+    {
+      "timestamp": "2026-03-01 08:36:11",
+      "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
     }
   ]
 }
