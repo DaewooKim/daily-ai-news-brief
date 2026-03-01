@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 16:36:50",
+  "last_updated": "2026-03-01 16:36:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 16:36:06",
-      "message": "Reprocessing: Sources: the Pentagon used Claude in its major air attack in Iran, hours after Trump declared that the federal government will end its use of Anthropic's tools (Wall Street Journal)"
-    },
     {
       "timestamp": "2026-03-01 16:36:07",
       "message": "[PROCESSING] Analyzing: Sources: the Pentagon used Claude in its major air attack in Iran, hours after Trump declared that the federal government will end its use of Anthropic's tools (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 16:36:50",
       "message": "[PROCESSING] Analyzing: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption..."
+    },
+    {
+      "timestamp": "2026-03-01 16:36:54",
+      "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
