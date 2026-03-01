@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 14:19:02",
+  "last_updated": "2026-03-01 14:19:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 14:18:15",
-      "message": "[PROCESSING] Analyzing: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)..."
-    },
     {
       "timestamp": "2026-03-01 14:18:19",
       "message": "[SUCCESS] Processed: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 14:19:02",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 14:19:03",
+      "message": "Reprocessing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
     }
   ]
 }
