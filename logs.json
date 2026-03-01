@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 11:59:03",
+  "last_updated": "2026-03-01 11:59:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 11:58:20",
-      "message": "Reprocessing: Making Softmax More Efficient with NVIDIA Blackwell Ultra"
-    },
     {
       "timestamp": "2026-03-01 11:58:21",
       "message": "[PROCESSING] Analyzing: Making Softmax More Efficient with NVIDIA Blackwell Ultra..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 11:59:03",
       "message": "[PROCESSING] Analyzing: Jack Dorsey just halved the size of Block\u2019s employee base \u2014 and he says your company is next..."
+    },
+    {
+      "timestamp": "2026-03-01 11:59:08",
+      "message": "[SUCCESS] Processed: Jack Dorsey just halved the size of Block\u2019s employee base \u2014 and he says your company is next\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
