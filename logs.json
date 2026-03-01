@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 05:10:00",
+  "last_updated": "2026-03-01 05:10:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 05:09:16",
-      "message": "Reprocessing: ChatGPT reaches 900M weekly active users"
-    },
     {
       "timestamp": "2026-03-01 05:09:17",
       "message": "[PROCESSING] Analyzing: ChatGPT reaches 900M weekly active users..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 05:10:00",
       "message": "[PROCESSING] Analyzing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019..."
+    },
+    {
+      "timestamp": "2026-03-01 05:10:04",
+      "message": "[SUCCESS] Processed: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
