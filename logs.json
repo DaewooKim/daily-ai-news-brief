@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 05:12:10",
+  "last_updated": "2026-03-01 05:12:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 05:10:47",
-      "message": "Reprocessing: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-01 05:10:48",
       "message": "[PROCESSING] Analyzing: Polymarket trades on contracts tied to strikes on Iran hit $529M, and six new accounts profited a total of $1M by betting on the US to strike Iran by Feb. 28 (Emily Nicolle/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 05:12:10",
       "message": "[PROCESSING] Analyzing: Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-01 05:12:15",
+      "message": "[SUCCESS] Processed: Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect (Wall Street Journal)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
