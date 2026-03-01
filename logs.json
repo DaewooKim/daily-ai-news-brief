@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 17:47:02",
+  "last_updated": "2026-03-01 17:47:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 17:46:25",
-      "message": "[PROCESSING] Analyzing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis..."
-    },
     {
       "timestamp": "2026-03-01 17:46:30",
       "message": "[SUCCESS] Processed: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 17:47:02",
       "message": "Reprocessing: Trump orders federal agencies to stop using Anthropic products"
+    },
+    {
+      "timestamp": "2026-03-01 17:47:04",
+      "message": "[SKIP] Content too short: Trump orders federal agencies ..."
     }
   ]
 }
