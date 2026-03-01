@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 08:35:34",
+  "last_updated": "2026-03-01 08:35:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 08:34:46",
-      "message": "[PROCESSING] Analyzing: Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger (Dan Gallagher/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-03-01 08:34:51",
       "message": "[SUCCESS] Processed: Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger (Dan Gallagher/Wall Street Journal)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 08:35:34",
       "message": "[SUCCESS] Processed: OpenAI says its DOD agreement upholds its redlines and \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's\" (OpenAI)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-01 08:35:36",
+      "message": "Reprocessing: AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours (Issie Lapowsky/Bloomberg)"
     }
   ]
 }
