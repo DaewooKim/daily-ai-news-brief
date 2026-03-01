@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-01 21:10:17",
+  "last_updated": "2026-03-01 21:10:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-01 21:09:33",
-      "message": "Reprocessing: OpenAI reveals more details about its agreement with the Pentagon"
-    },
     {
       "timestamp": "2026-03-01 21:09:34",
       "message": "[PROCESSING] Analyzing: OpenAI reveals more details about its agreement with the Pentagon..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-01 21:10:17",
       "message": "[PROCESSING] Analyzing: Last 24 hours\u00a0to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year..."
+    },
+    {
+      "timestamp": "2026-03-01 21:10:22",
+      "message": "[SUCCESS] Processed: Last 24 hours\u00a0to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
