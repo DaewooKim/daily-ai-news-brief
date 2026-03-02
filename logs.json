@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-02 04:02:49",
+  "last_updated": "2026-03-02 04:02:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 04:01:55",
-      "message": "Starting automatic background collection..."
-    },
-    {
-      "timestamp": "2026-03-02 04:01:56",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-02 04:01:56",
       "message": "Fetching RSS feeds..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-02 04:02:49",
       "message": "Reprocessing: Portable Sonos Play speaker leaks on Canadian Best Buy"
+    },
+    {
+      "timestamp": "2026-03-02 04:02:50",
+      "message": "[PROCESSING] Analyzing: Portable Sonos Play speaker leaks on Canadian Best Buy..."
+    },
+    {
+      "timestamp": "2026-03-02 04:02:55",
+      "message": "[SUCCESS] Processed: Portable Sonos Play speaker leaks on Canadian Best Buy\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
