@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:42:08",
+  "last_updated": "2026-03-02 21:42:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:41:21",
-      "message": "Reprocessing: Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran (Echo Wang/Reuters)"
-    },
     {
       "timestamp": "2026-03-02 21:41:23",
       "message": "[PROCESSING] Analyzing: Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran (Echo Wang/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:42:08",
       "message": "[PROCESSING] Analyzing: SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art (Blake Brittain/Reuters)..."
+    },
+    {
+      "timestamp": "2026-03-02 21:42:13",
+      "message": "[SUCCESS] Processed: SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art (Blake Brittain/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
