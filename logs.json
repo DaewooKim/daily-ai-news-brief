@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 06:27:03",
+  "last_updated": "2026-03-02 06:27:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 06:26:19",
-      "message": "Reprocessing: Source describes the failed Pentagon-Anthropic talks: through the end, the Pentagon wanted to use Anthropic's AI to analyze bulk data collected about Americans (Ross Andersen/The Atlantic)"
-    },
     {
       "timestamp": "2026-03-02 06:26:20",
       "message": "[PROCESSING] Analyzing: Source describes the failed Pentagon-Anthropic talks: through the end, the Pentagon wanted to use Anthropic's AI to analyze bulk data collected about Americans (Ross Andersen/The Atlantic)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 06:27:03",
       "message": "[PROCESSING] Analyzing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors..."
+    },
+    {
+      "timestamp": "2026-03-02 06:27:08",
+      "message": "[SUCCESS] Processed: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
