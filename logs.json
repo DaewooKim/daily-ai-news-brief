@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 04:09:17",
+  "last_updated": "2026-03-02 04:09:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 04:08:53",
-      "message": "[SUCCESS] Processed: Enterprise MCP adoption is outpacing security controls\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-02 04:08:54",
       "message": "Reprocessing: Report: Nvidia is working on a top secret AI inference chip that could debut next month"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 04:09:17",
       "message": "Reprocessing: AI at scale is demanding a fundamentally different data architecture"
+    },
+    {
+      "timestamp": "2026-03-02 04:09:19",
+      "message": "[SKIP] Content too short: AI at scale is demanding a fun..."
     }
   ]
 }
