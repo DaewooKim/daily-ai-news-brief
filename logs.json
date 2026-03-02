@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:41:46",
+  "last_updated": "2026-03-02 21:41:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:40:55",
-      "message": "Reprocessing: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings"
-    },
     {
       "timestamp": "2026-03-02 21:40:56",
       "message": "[PROCESSING] Analyzing: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:41:46",
       "message": "[PROCESSING] Analyzing: Anthropic's $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company's contract dispute with the Pentagon (Dan Primack/Axios)..."
+    },
+    {
+      "timestamp": "2026-03-02 21:41:51",
+      "message": "[SUCCESS] Processed: Anthropic's $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company's contract dispute with the Pentagon (Dan Primack/Axios)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
