@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 19:24:09",
+  "last_updated": "2026-03-02 19:24:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 19:23:24",
-      "message": "Reprocessing: Netflix backs out of Warner Bros. bidding war after Paramount raises offer"
-    },
     {
       "timestamp": "2026-03-02 19:23:26",
       "message": "[SKIP] Content too short: Netflix backs out of Warner Br..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 19:24:09",
       "message": "[PROCESSING] Analyzing: MNN M156F01 15.6in Portable Monitor Mini-Review..."
+    },
+    {
+      "timestamp": "2026-03-02 19:24:14",
+      "message": "[SUCCESS] Processed: MNN M156F01 15.6in Portable Monitor Mini-Review\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
