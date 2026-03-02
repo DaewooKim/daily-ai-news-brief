@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 14:36:17",
+  "last_updated": "2026-03-02 14:36:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 14:35:31",
-      "message": "Reprocessing: Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Zheping Huang/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-02 14:35:33",
       "message": "[PROCESSING] Analyzing: Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Zheping Huang/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 14:36:17",
       "message": "[PROCESSING] Analyzing: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption..."
+    },
+    {
+      "timestamp": "2026-03-02 14:36:22",
+      "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
