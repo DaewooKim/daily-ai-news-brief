@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 18:07:39",
+  "last_updated": "2026-03-02 18:07:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 18:06:02",
-      "message": "[SUCCESS] Processed: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-02 18:06:04",
       "message": "[PROCESSING] Analyzing: Anthropic's $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company's contract dispute with the Pentagon (Dan Primack/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 18:07:39",
       "message": "[SUCCESS] Processed: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 18:07:40",
+      "message": "Reprocessing: Sources: at Apple's request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while abiding by Apple's privacy standards (The Information)"
     }
   ]
 }
