@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 16:53:27",
+  "last_updated": "2026-03-02 16:53:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 16:52:42",
-      "message": "Reprocessing: An update on our mental health-related work"
-    },
     {
       "timestamp": "2026-03-02 16:52:44",
       "message": "[PROCESSING] Analyzing: An update on our mental health-related work..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 16:53:27",
       "message": "[PROCESSING] Analyzing: SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse..."
+    },
+    {
+      "timestamp": "2026-03-02 16:53:32",
+      "message": "[SUCCESS] Processed: SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
