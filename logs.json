@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 16:58:54",
+  "last_updated": "2026-03-02 16:58:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 16:58:08",
-      "message": "Reprocessing: Optimizing Chip Efficiency Starts at the Engineered Substrate"
-    },
     {
       "timestamp": "2026-03-02 16:58:09",
       "message": "[PROCESSING] Analyzing: Optimizing Chip Efficiency Starts at the Engineered Substrate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 16:58:54",
       "message": "[PROCESSING] Analyzing: Enterprise MCP adoption is outpacing security controls..."
+    },
+    {
+      "timestamp": "2026-03-02 16:58:58",
+      "message": "[SUCCESS] Processed: Enterprise MCP adoption is outpacing security controls\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
