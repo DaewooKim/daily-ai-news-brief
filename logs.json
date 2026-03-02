@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 20:32:22",
+  "last_updated": "2026-03-02 20:32:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 20:31:32",
-      "message": "[PROCESSING] Analyzing: Nvidia says it plans to invest $2B each in photonic product makers Lumentum and Coherent to support the companies' R&D and manufacturing operations in the US (Reuters)..."
-    },
     {
       "timestamp": "2026-03-02 20:31:37",
       "message": "[SUCCESS] Processed: Nvidia says it plans to invest $2B each in photonic product makers Lumentum and Coherent to support the companies' R&D and manufacturing operations in the US (Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 20:32:22",
       "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 20:32:24",
+      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
     }
   ]
 }
