@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 15:45:57",
+  "last_updated": "2026-03-02 15:46:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 15:45:10",
-      "message": "Reprocessing: Apple unveils the iPhone 17e, offering a 6.1-inch display, a 3nm A19 chip, a C1X modem, a 48MP Fusion camera, and more, for $599+ and shipping from March 11 (Apple)"
-    },
     {
       "timestamp": "2026-03-02 15:45:12",
       "message": "[PROCESSING] Analyzing: Apple unveils the iPhone 17e, offering a 6.1-inch display, a 3nm A19 chip, a C1X modem, a 48MP Fusion camera, and more, for $599+ and shipping from March 11 (Apple)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 15:45:57",
       "message": "[PROCESSING] Analyzing: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)..."
+    },
+    {
+      "timestamp": "2026-03-02 15:46:01",
+      "message": "[SUCCESS] Processed: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
