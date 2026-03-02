@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 06:22:24",
+  "last_updated": "2026-03-02 06:22:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 06:21:40",
-      "message": "[PROCESSING] Analyzing: Lenovo made a Framework-like laptop with modular ports \u2014 and a second screen..."
-    },
     {
       "timestamp": "2026-03-02 06:21:44",
       "message": "[SUCCESS] Processed: Lenovo made a Framework-like laptop with modular ports \u2014 and a second screen\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 06:22:24",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-02 06:22:25",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
