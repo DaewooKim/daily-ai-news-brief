@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 07:36:25",
+  "last_updated": "2026-03-02 07:36:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 07:35:38",
-      "message": "[PROCESSING] Analyzing: Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement (New York Times)..."
-    },
     {
       "timestamp": "2026-03-02 07:35:42",
       "message": "[SUCCESS] Processed: Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement (New York Times)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 07:36:25",
       "message": "[SUCCESS] Processed: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 07:36:26",
+      "message": "Reprocessing: An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis"
     }
   ]
 }
