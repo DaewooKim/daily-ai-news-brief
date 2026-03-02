@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-02 18:12:40",
-  "status": "idle",
+  "last_updated": "2026-03-02 19:13:13",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-02 18:11:11",
-      "message": "Reprocessing: OpenAI raises $110B at $730B valuation, expands AWS and Nvidia partnerships"
+      "timestamp": "2026-03-02 19:13:00",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-02 18:11:13",
-      "message": "[SKIP] Content too short: OpenAI raises $110B at $730B v..."
+      "timestamp": "2026-03-02 19:13:01",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-02 18:11:14",
-      "message": "Reprocessing: For imagination-speed animation, Pixar depends on lightning-fast storage infrastructure"
+      "timestamp": "2026-03-02 19:13:01",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-02 18:11:16",
-      "message": "[SKIP] Content too short: For imagination-speed animatio..."
+      "timestamp": "2026-03-02 19:13:13",
+      "message": "Found 153 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-02 18:11:17",
-      "message": "Reprocessing: AI at scale is demanding a fundamentally different data architecture"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:19",
-      "message": "[SKIP] Content too short: AI at scale is demanding a fun..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:20",
-      "message": "Reprocessing: AI workloads are exposing the limits of the cloud, demanding a total stack overhaul"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:21",
-      "message": "[SKIP] Content too short: AI workloads are exposing the ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:23",
-      "message": "Reprocessing: The AI boom is turning flash storage into a critical infrastructure battleground"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:24",
-      "message": "[SKIP] Content too short: The AI boom is turning flash s..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:25",
-      "message": "Reprocessing: Vast Data bets big on unified AI and cybersecurity with expanding partner ecosystem"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:27",
-      "message": "[SKIP] Content too short: Vast Data bets big on unified ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:28",
-      "message": "Reprocessing: Inside Cisco and Vast Data\u2019s play to simplify \u2014 and secure \u2014 production-ready AI infrastructure"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:30",
-      "message": "[SKIP] Content too short: Inside Cisco and Vast Data\u2019s p..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:31",
-      "message": "Reprocessing: Anthropic\u2019s battles multiply, OpenAI raises its megaround and the SaaSpocalypse widens \u2014 but Dell cashes in"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:32",
-      "message": "[SKIP] Content too short: Anthropic\u2019s battles multiply, ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:34",
-      "message": "Reprocessing: Multitude Insights raises $10M to modernize intelligence sharing for law enforcement"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:35",
-      "message": "[SKIP] Content too short: Multitude Insights raises $10M..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:36",
-      "message": "Reprocessing: Figma\u2019s orchestration bet: Why MCP network effects redefine software defensibility"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:38",
-      "message": "[SKIP] Content too short: Figma\u2019s orchestration bet: Why..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:39",
-      "message": "Reprocessing: Google and Meta reportedly strike new, multibillion-dollar AI chip deal"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:41",
-      "message": "[SKIP] Content too short: Google and Meta reportedly str..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:42",
-      "message": "Reprocessing: Netflix backs out of Warner Bros. bidding war after Paramount raises offer"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:44",
-      "message": "[SKIP] Content too short: Netflix backs out of Warner Br..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:45",
-      "message": "Reprocessing: Revel raises $150M to help engineers test complex physical systems faster"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:46",
-      "message": "[SKIP] Content too short: Revel raises $150M to help eng..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:48",
-      "message": "Reprocessing: CoreWeave\u2019s stock drops on mixed results and plans to scale up AI spending"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:49",
-      "message": "[SKIP] Content too short: CoreWeave\u2019s stock drops on mix..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:50",
-      "message": "Reprocessing: Dell\u2019s stock pops as soaring AI demand drives stellar 39% revenue increase"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:52",
-      "message": "[SKIP] Content too short: Dell\u2019s stock pops as soaring A..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:53",
-      "message": "Reprocessing: ServiceNow debuts Autonomous Workforce, EmployeeWorks automation tools"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:55",
-      "message": "[SKIP] Content too short: ServiceNow debuts Autonomous W..."
-    },
-    {
-      "timestamp": "2026-03-02 18:11:56",
-      "message": "Reprocessing: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips"
-    },
-    {
-      "timestamp": "2026-03-02 18:11:57",
-      "message": "[PROCESSING] Analyzing: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:02",
-      "message": "[SUCCESS] Processed: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:03",
-      "message": "Reprocessing: BrosTrend S1-V2 8-Port 2.5GbE Fanless Switch Review Slightly More Than a Metal Case"
-    },
-    {
-      "timestamp": "2026-03-02 18:12:05",
-      "message": "[PROCESSING] Analyzing: BrosTrend S1-V2 8-Port 2.5GbE Fanless Switch Review Slightly More Than a Metal Case..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:09",
-      "message": "[SUCCESS] Processed: BrosTrend S1-V2 8-Port 2.5GbE Fanless Switch Review Slightly More Than a Metal Case\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:11",
-      "message": "Reprocessing: 10Gtek Intel i350 Quad Port 1GbE NIC Review"
-    },
-    {
-      "timestamp": "2026-03-02 18:12:12",
-      "message": "[PROCESSING] Analyzing: 10Gtek Intel i350 Quad Port 1GbE NIC Review..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:17",
-      "message": "[SUCCESS] Processed: 10Gtek Intel i350 Quad Port 1GbE NIC Review\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:18",
-      "message": "Reprocessing: Buying Servers in 2026 is Tough but Here Are Our Buyer\u2019s Tips"
-    },
-    {
-      "timestamp": "2026-03-02 18:12:20",
-      "message": "[PROCESSING] Analyzing: Buying Servers in 2026 is Tough but Here Are Our Buyer\u2019s Tips..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:24",
-      "message": "[SUCCESS] Processed: Buying Servers in 2026 is Tough but Here Are Our Buyer\u2019s Tips\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:26",
-      "message": "Reprocessing: MNN M156F01 15.6in Portable Monitor Mini-Review"
-    },
-    {
-      "timestamp": "2026-03-02 18:12:27",
-      "message": "[PROCESSING] Analyzing: MNN M156F01 15.6in Portable Monitor Mini-Review..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:32",
-      "message": "[SUCCESS] Processed: MNN M156F01 15.6in Portable Monitor Mini-Review\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
-    {
-      "timestamp": "2026-03-02 18:12:33",
-      "message": "Completed! New: 10, Updated: 94"
-    },
-    {
-      "timestamp": "2026-03-02 18:12:36",
-      "message": "Saved 104 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-02 18:12:39",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-02 19:13:13",
+      "message": "[PROCESSING] Analyzing: You could be an influencer without even realizing it..."
     }
   ]
 }
