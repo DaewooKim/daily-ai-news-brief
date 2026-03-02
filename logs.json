@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:42:46",
+  "last_updated": "2026-03-02 21:42:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:42:00",
-      "message": "Reprocessing: X announces a \"Paid Partnership\" label that creators can apply to their posts to indicate they're ads; until now, creators relied on hashtags to label posts (Sarah Perez/TechCrunch)"
-    },
     {
       "timestamp": "2026-03-02 21:42:01",
       "message": "[PROCESSING] Analyzing: X announces a \"Paid Partnership\" label that creators can apply to their posts to indicate they're ads; until now, creators relied on hashtags to label posts (Sarah Perez/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:42:46",
       "message": "[PROCESSING] Analyzing: Apple updates the iPad Air with M4, featuring an 8-core CPU, 9-core GPU, 12GB of unified memory, an N1 networking chip, for $599+ and $799+ in 11\" or 13\" sizes (Apple)..."
+    },
+    {
+      "timestamp": "2026-03-02 21:42:51",
+      "message": "[SUCCESS] Processed: Apple updates the iPad Air with M4, featuring an 8-core CPU, 9-core GPU, 12GB of unified memory, an N1 networking chip, for $599+ and $799+ in 11\" or 13\" sizes (Apple)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
