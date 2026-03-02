@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 11:06:20",
+  "last_updated": "2026-03-02 11:06:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 11:05:34",
-      "message": "Reprocessing: Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP (Om Malik/On my Om)"
-    },
     {
       "timestamp": "2026-03-02 11:05:36",
       "message": "[PROCESSING] Analyzing: Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP (Om Malik/On my Om)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 11:06:20",
       "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
+    },
+    {
+      "timestamp": "2026-03-02 11:06:24",
+      "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
