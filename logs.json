@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 22:53:27",
+  "last_updated": "2026-03-02 22:53:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 22:52:42",
-      "message": "Reprocessing: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)"
-    },
     {
       "timestamp": "2026-03-02 22:52:43",
       "message": "[PROCESSING] Analyzing: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 22:53:27",
       "message": "[PROCESSING] Analyzing: The Anthropic-DOD skirmish is the first major public debate on control over frontier AI, and institutions behaved erratically, maliciously, and without clarity (Dean W. Ball/Hyperdimensional)..."
+    },
+    {
+      "timestamp": "2026-03-02 22:53:31",
+      "message": "[SUCCESS] Processed: The Anthropic-DOD skirmish is the first major public debate on control over frontier AI, and institutions behaved erratically, maliciously, and without clarity (Dean W. Ball/Hyperdimensional)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
