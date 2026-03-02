@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 08:42:46",
+  "last_updated": "2026-03-02 08:42:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 08:42:00",
-      "message": "Reprocessing: Anthropic\u2019s Claude rises to No. 1 in the App Store following Pentagon dispute"
-    },
     {
       "timestamp": "2026-03-02 08:42:02",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s Claude rises to No. 1 in the App Store following Pentagon dispute..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 08:42:46",
       "message": "[PROCESSING] Analyzing: Jack Dorsey just halved the size of Block\u2019s employee base \u2014 and he says your company is next..."
+    },
+    {
+      "timestamp": "2026-03-02 08:42:51",
+      "message": "[SUCCESS] Processed: Jack Dorsey just halved the size of Block\u2019s employee base \u2014 and he says your company is next\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
