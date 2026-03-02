@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 18:03:46",
+  "last_updated": "2026-03-02 18:03:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 18:03:03",
-      "message": "Reprocessing: So Far, Nobody Turns Tokens Into Money Like Nvidia"
-    },
     {
       "timestamp": "2026-03-02 18:03:04",
       "message": "[SKIP] Content too short: So Far, Nobody Turns Tokens In..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 18:03:46",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s Claude reports widespread outage..."
+    },
+    {
+      "timestamp": "2026-03-02 18:03:50",
+      "message": "[SUCCESS] Processed: Anthropic\u2019s Claude reports widespread outage\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
