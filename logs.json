@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 04:03:04",
+  "last_updated": "2026-03-02 04:03:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 04:02:19",
-      "message": "Reprocessing: The new Yoga 9i 2-in-1 from Lenovo has an angled \u2018canvas mode\u2019 for easier note-taking"
-    },
     {
       "timestamp": "2026-03-02 04:02:20",
       "message": "[PROCESSING] Analyzing: The new Yoga 9i 2-in-1 from Lenovo has an angled \u2018canvas mode\u2019 for easier note-taking..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 04:03:04",
       "message": "[PROCESSING] Analyzing: Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets..."
+    },
+    {
+      "timestamp": "2026-03-02 04:03:09",
+      "message": "[SUCCESS] Processed: Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
