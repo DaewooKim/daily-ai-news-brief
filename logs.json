@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:43:35",
+  "last_updated": "2026-03-02 21:43:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:42:46",
-      "message": "[PROCESSING] Analyzing: Apple updates the iPad Air with M4, featuring an 8-core CPU, 9-core GPU, 12GB of unified memory, an N1 networking chip, for $599+ and $799+ in 11\" or 13\" sizes (Apple)..."
-    },
     {
       "timestamp": "2026-03-02 21:42:51",
       "message": "[SUCCESS] Processed: Apple updates the iPad Air with M4, featuring an 8-core CPU, 9-core GPU, 12GB of unified memory, an N1 networking chip, for $599+ and $799+ in 11\" or 13\" sizes (Apple)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:43:35",
       "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 21:43:36",
+      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
     }
   ]
 }
