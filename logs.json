@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 00:36:42",
+  "last_updated": "2026-03-02 00:36:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 00:36:01",
-      "message": "[SKIP] Content too short: So Far, Nobody Turns Tokens In..."
-    },
     {
       "timestamp": "2026-03-02 00:36:03",
       "message": "Reprocessing: SambaNova Pits Its Engineering Against Nvidia For Agentic AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 00:36:42",
       "message": "[PROCESSING] Analyzing: OpenAI reveals more details about its agreement with the Pentagon..."
+    },
+    {
+      "timestamp": "2026-03-02 00:36:46",
+      "message": "[SUCCESS] Processed: OpenAI reveals more details about its agreement with the Pentagon\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
