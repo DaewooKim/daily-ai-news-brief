@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:41:38",
+  "last_updated": "2026-03-02 21:41:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:40:48",
-      "message": "Reprocessing: AWS Middle East Outage After Data Center Hit by Unidentified Objects"
-    },
     {
       "timestamp": "2026-03-02 21:40:49",
       "message": "[PROCESSING] Analyzing: AWS Middle East Outage After Data Center Hit by Unidentified Objects..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:41:38",
       "message": "[PROCESSING] Analyzing: A profile of Palmer Luckey and his startup Anduril, which has more than $6B in global contracts, had roughly $2B in revenue last year, and is valued at ~$31B (New York Times)..."
+    },
+    {
+      "timestamp": "2026-03-02 21:41:43",
+      "message": "[SUCCESS] Processed: A profile of Palmer Luckey and his startup Anduril, which has more than $6B in global contracts, had roughly $2B in revenue last year, and is valued at ~$31B (New York Times)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
