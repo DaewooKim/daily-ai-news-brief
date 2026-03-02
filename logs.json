@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 22:56:07",
+  "last_updated": "2026-03-02 22:56:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 22:55:22",
-      "message": "[PROCESSING] Analyzing: Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse..."
-    },
     {
       "timestamp": "2026-03-02 22:55:26",
       "message": "[SUCCESS] Processed: Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 22:56:07",
       "message": "[SKIP] Content too short: AI reshapes network economics ..."
+    },
+    {
+      "timestamp": "2026-03-02 22:56:08",
+      "message": "Reprocessing: Telcos bet on sovereign AI factories to unlock edge monetization"
     }
   ]
 }
