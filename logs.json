@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 18:09:26",
+  "last_updated": "2026-03-02 18:09:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 18:08:37",
-      "message": "[SUCCESS] Processed: Anthropic says \"a fix has been implemented\" at 15:25 UTC after elevated errors on claude.ai, Claude Code, and some API methods starting at 11:49 UTC (Mayank Parmar/BleepingComputer)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-02 18:08:38",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 18:09:26",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 18:09:27",
+      "message": "Reprocessing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
     }
   ]
 }
