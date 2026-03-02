@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 07:35:09",
+  "last_updated": "2026-03-02 07:35:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 07:34:25",
-      "message": "Reprocessing: Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips (Sharon Klyne/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-02 07:34:27",
       "message": "[PROCESSING] Analyzing: Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips (Sharon Klyne/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 07:35:09",
       "message": "[PROCESSING] Analyzing: Ted Sarandos interview on the scenario planning Netflix did before Paramount's final WBD bid, how if Paramount's deal closes there'll be cuts of $16B+, and more (Lucas Shaw/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-02 07:35:13",
+      "message": "[SUCCESS] Processed: Ted Sarandos interview on the scenario planning Netflix did before Paramount's final WBD bid, how if Paramount's deal closes there'll be cuts of $16B+, and more (Lucas Shaw/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
