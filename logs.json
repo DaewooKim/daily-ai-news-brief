@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 14:35:00",
+  "last_updated": "2026-03-02 14:35:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 14:34:09",
-      "message": "[PROCESSING] Analyzing: Apple updates the iPad Air with M4, including an 8-core CPU and 9-core GPU, 12GB of unified memory, N1 networking chip, starting at $599 and $799 in 11\" or 13\" (Apple)..."
-    },
     {
       "timestamp": "2026-03-02 14:34:13",
       "message": "[SUCCESS] Processed: Apple updates the iPad Air with M4, including an 8-core CPU and 9-core GPU, 12GB of unified memory, N1 networking chip, starting at $599 and $799 in 11\" or 13\" (Apple)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 14:35:00",
       "message": "[SUCCESS] Processed: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 14:35:02",
+      "message": "Reprocessing: ASML CTO Marco Pieters says ASML plans to expand beyond EUV into advanced packaging, bonding, and connecting, and is building AI-based machine inspection tools (Max A. Cherney/Reuters)"
     }
   ]
 }
