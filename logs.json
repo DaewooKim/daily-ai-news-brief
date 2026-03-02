@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 08:44:49",
+  "last_updated": "2026-03-02 08:44:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 08:43:59",
-      "message": "[PROCESSING] Analyzing: MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display (Julian Chokkattu/Wired)..."
-    },
     {
       "timestamp": "2026-03-02 08:44:03",
       "message": "[SUCCESS] Processed: MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display (Julian Chokkattu/Wired)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 08:44:49",
       "message": "[SUCCESS] Processed: AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore (Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 08:44:50",
+      "message": "Reprocessing: Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP (Om Malik/On my Om)"
     }
   ]
 }
