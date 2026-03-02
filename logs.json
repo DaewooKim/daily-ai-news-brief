@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 14:36:25",
+  "last_updated": "2026-03-02 14:36:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 14:35:39",
-      "message": "Reprocessing: Q&A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more (Jordyn Holman/New York Times)"
-    },
     {
       "timestamp": "2026-03-02 14:35:41",
       "message": "[PROCESSING] Analyzing: Q&A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more (Jordyn Holman/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 14:36:25",
       "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
+    },
+    {
+      "timestamp": "2026-03-02 14:36:29",
+      "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
