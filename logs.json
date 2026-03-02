@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 13:25:40",
+  "last_updated": "2026-03-02 13:25:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 13:24:51",
-      "message": "[PROCESSING] Analyzing: Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-02 13:24:56",
       "message": "[SUCCESS] Processed: Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 13:25:40",
       "message": "[SUCCESS] Processed: A look at the research into using metal-organic frameworks as photoresists for cutting-edge silicon etching, as ASML aims to move from EUV to X-ray lithography (Christopher Mims/Wall Street Journal)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 13:25:42",
+      "message": "Reprocessing: Accelerate Your IP Selection With Smart Solido Library Profiler"
     }
   ]
 }
