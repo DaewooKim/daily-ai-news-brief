@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 18:02:45",
+  "last_updated": "2026-03-02 18:02:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 18:01:59",
-      "message": "Reprocessing: Here&#8217;s the upgrade to my favorite phone camera of last year"
-    },
     {
       "timestamp": "2026-03-02 18:02:00",
       "message": "[PROCESSING] Analyzing: Here&#8217;s the upgrade to my favorite phone camera of last year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 18:02:45",
       "message": "[PROCESSING] Analyzing: The best mobile tech announced at MWC 2026 so far..."
+    },
+    {
+      "timestamp": "2026-03-02 18:02:49",
+      "message": "[SUCCESS] Processed: The best mobile tech announced at MWC 2026 so far\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
