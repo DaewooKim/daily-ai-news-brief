@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 13:21:01",
+  "last_updated": "2026-03-02 13:21:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 13:20:15",
-      "message": "[PROCESSING] Analyzing: Qualcomm\u2019s new chip is geared toward wearable AI gadgets..."
-    },
     {
       "timestamp": "2026-03-02 13:20:20",
       "message": "[SUCCESS] Processed: Qualcomm\u2019s new chip is geared toward wearable AI gadgets\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 13:21:01",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-02 13:21:02",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
