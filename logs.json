@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 05:16:32",
+  "last_updated": "2026-03-02 05:16:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 05:15:46",
-      "message": "[PROCESSING] Analyzing: A Waymo robotaxi stopped in the middle of a road and blocked an ambulance near a mass shooting site in Austin; Waymo confirms it was en route for rider pickup (Nicole Cobler/Axios)..."
-    },
     {
       "timestamp": "2026-03-02 05:15:50",
       "message": "[SUCCESS] Processed: A Waymo robotaxi stopped in the middle of a road and blocked an ambulance near a mass shooting site in Austin; Waymo confirms it was en route for rider pickup (Nicole Cobler/Axios)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 05:16:32",
       "message": "[SUCCESS] Processed: Australia's eSafety Commissioner threatens action against app stores and search engines if AI services operating in Australia don't verify user ages by March 9 (Byron Kaye/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 05:16:34",
+      "message": "Reprocessing: Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity (Meir Orbach/CTech)"
     }
   ]
 }
