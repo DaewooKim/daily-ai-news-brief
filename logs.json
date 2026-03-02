@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 06:26:54",
+  "last_updated": "2026-03-02 06:26:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 06:26:05",
-      "message": "[PROCESSING] Analyzing: Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement (New York Times)..."
-    },
     {
       "timestamp": "2026-03-02 06:26:10",
       "message": "[SUCCESS] Processed: Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement (New York Times)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 06:26:54",
       "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 06:26:55",
+      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
     }
   ]
 }
