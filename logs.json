@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 09:57:04",
+  "last_updated": "2026-03-02 09:57:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 09:56:19",
-      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
-    },
     {
       "timestamp": "2026-03-02 09:56:21",
       "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 09:57:04",
       "message": "[PROCESSING] Analyzing: Enterprise MCP adoption is outpacing security controls..."
+    },
+    {
+      "timestamp": "2026-03-02 09:57:08",
+      "message": "[SUCCESS] Processed: Enterprise MCP adoption is outpacing security controls\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
