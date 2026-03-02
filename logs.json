@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 08:44:43",
+  "last_updated": "2026-03-02 08:44:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 08:43:56",
-      "message": "[SUCCESS] Processed: Wall Street\u2019s Sour Response to Nvidia\u2019s Record Earnings\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-02 08:43:57",
       "message": "Reprocessing: MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display (Julian Chokkattu/Wired)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 08:44:43",
       "message": "Reprocessing: AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore (Reuters)"
+    },
+    {
+      "timestamp": "2026-03-02 08:44:44",
+      "message": "[PROCESSING] Analyzing: AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore (Reuters)..."
     }
   ]
 }
