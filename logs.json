@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:37:12",
+  "last_updated": "2026-03-02 21:37:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:36:22",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-02 21:36:22",
       "message": "[PROCESSING] Analyzing: How the new iPhone 17E stacks up against Apple\u2019s pricier phones..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:37:12",
       "message": "[PROCESSING] Analyzing: Here&#8217;s the upgrade to my favorite phone camera of last year..."
+    },
+    {
+      "timestamp": "2026-03-02 21:37:17",
+      "message": "[SUCCESS] Processed: Here&#8217;s the upgrade to my favorite phone camera of last year\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
