@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 19:20:09",
+  "last_updated": "2026-03-02 19:20:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 19:19:24",
-      "message": "Reprocessing: Sources: at Apple's request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while abiding by Apple's privacy standards (The Information)"
-    },
     {
       "timestamp": "2026-03-02 19:19:25",
       "message": "[PROCESSING] Analyzing: Sources: at Apple's request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while abiding by Apple's privacy standards (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 19:20:09",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
+    },
+    {
+      "timestamp": "2026-03-02 19:20:13",
+      "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
