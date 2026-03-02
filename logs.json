@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 20:31:40",
+  "last_updated": "2026-03-02 20:31:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 20:30:54",
-      "message": "Reprocessing: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)"
-    },
     {
       "timestamp": "2026-03-02 20:30:55",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 20:31:40",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
+    },
+    {
+      "timestamp": "2026-03-02 20:31:44",
+      "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
