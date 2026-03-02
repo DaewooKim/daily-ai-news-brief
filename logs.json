@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:42:53",
+  "last_updated": "2026-03-02 21:42:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:42:07",
-      "message": "Reprocessing: SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art (Blake Brittain/Reuters)"
-    },
     {
       "timestamp": "2026-03-02 21:42:08",
       "message": "[PROCESSING] Analyzing: SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art (Blake Brittain/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:42:53",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
+    },
+    {
+      "timestamp": "2026-03-02 21:42:58",
+      "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
