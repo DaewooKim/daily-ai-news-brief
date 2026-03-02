@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 20:26:01",
+  "last_updated": "2026-03-02 20:26:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 20:25:13",
-      "message": "Reprocessing: You could be an influencer without even realizing it"
-    },
     {
       "timestamp": "2026-03-02 20:25:15",
       "message": "[PROCESSING] Analyzing: You could be an influencer without even realizing it..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 20:26:01",
       "message": "[PROCESSING] Analyzing: Magic Keyboard cases for the latest iPad Pro are up to $85 off..."
+    },
+    {
+      "timestamp": "2026-03-02 20:26:07",
+      "message": "[SUCCESS] Processed: Magic Keyboard cases for the latest iPad Pro are up to $85 off\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
