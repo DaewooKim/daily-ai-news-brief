@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 19:22:35",
+  "last_updated": "2026-03-02 19:22:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 19:22:05",
-      "message": "[PROCESSING] Analyzing: Renesas, GF Partner to Strengthen Supply Chain..."
-    },
     {
       "timestamp": "2026-03-02 19:22:10",
       "message": "[SUCCESS] Processed: Renesas, GF Partner to Strengthen Supply Chain\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 19:22:35",
       "message": "Reprocessing: Ahead of MWC Barcelona, Nvidia bets AI-native platforms will carry telecom into 6G"
+    },
+    {
+      "timestamp": "2026-03-02 19:22:37",
+      "message": "[SKIP] Content too short: Ahead of MWC Barcelona, Nvidia..."
     }
   ]
 }
