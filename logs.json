@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 20:32:02",
+  "last_updated": "2026-03-02 20:32:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 20:31:16",
-      "message": "Reprocessing: Apple unveils the iPhone 17e, offering a 6.1-inch display, a 3nm A19 chip, a C1X modem, a 48MP Fusion camera, and more, for $599+ and shipping from March 11 (Apple)"
-    },
     {
       "timestamp": "2026-03-02 20:31:18",
       "message": "[PROCESSING] Analyzing: Apple unveils the iPhone 17e, offering a 6.1-inch display, a 3nm A19 chip, a C1X modem, a 48MP Fusion camera, and more, for $599+ and shipping from March 11 (Apple)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 20:32:02",
       "message": "[PROCESSING] Analyzing: Making Hybrid Bonding Better..."
+    },
+    {
+      "timestamp": "2026-03-02 20:32:07",
+      "message": "[SUCCESS] Processed: Making Hybrid Bonding Better\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
