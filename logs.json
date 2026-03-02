@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-02 01:45:44",
+  "last_updated": "2026-03-02 01:45:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 01:45:04",
-      "message": "Reprocessing: So Far, Nobody Turns Tokens Into Money Like Nvidia"
-    },
-    {
-      "timestamp": "2026-03-02 01:45:05",
-      "message": "[SKIP] Content too short: So Far, Nobody Turns Tokens In..."
-    },
     {
       "timestamp": "2026-03-02 01:45:06",
       "message": "Reprocessing: SambaNova Pits Its Engineering Against Nvidia For Agentic AI"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-02 01:45:44",
       "message": "Reprocessing: OpenAI reveals more details about its agreement with the Pentagon"
+    },
+    {
+      "timestamp": "2026-03-02 01:45:46",
+      "message": "[PROCESSING] Analyzing: OpenAI reveals more details about its agreement with the Pentagon..."
+    },
+    {
+      "timestamp": "2026-03-02 01:45:50",
+      "message": "[SUCCESS] Processed: OpenAI reveals more details about its agreement with the Pentagon\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
