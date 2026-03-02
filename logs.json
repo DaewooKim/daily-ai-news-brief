@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 21:43:15",
+  "last_updated": "2026-03-02 21:43:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 21:42:30",
-      "message": "Reprocessing: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)"
-    },
     {
       "timestamp": "2026-03-02 21:42:31",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 21:43:15",
       "message": "[PROCESSING] Analyzing: Making Hybrid Bonding Better..."
+    },
+    {
+      "timestamp": "2026-03-02 21:43:20",
+      "message": "[SUCCESS] Processed: Making Hybrid Bonding Better\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
