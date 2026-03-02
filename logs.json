@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 13:26:17",
+  "last_updated": "2026-03-02 13:26:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 13:25:28",
-      "message": "[PROCESSING] Analyzing: Frontier AI labs' policies around military use of their AI tools are incoherent, vague, and often prone to change, allowing leadership to preserve \"optionality\" (Sarah Shoker/fishbowlification)..."
-    },
     {
       "timestamp": "2026-03-02 13:25:33",
       "message": "[SUCCESS] Processed: Frontier AI labs' policies around military use of their AI tools are incoherent, vague, and often prone to change, allowing leadership to preserve \"optionality\" (Sarah Shoker/fishbowlification)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 13:26:17",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 13:26:19",
+      "message": "Reprocessing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
     }
   ]
 }
