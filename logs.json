@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 14:36:23",
+  "last_updated": "2026-03-02 14:36:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 14:35:37",
-      "message": "[SUCCESS] Processed: Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Zheping Huang/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-02 14:35:39",
       "message": "Reprocessing: Q&A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more (Jordyn Holman/New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 14:36:23",
       "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
+    },
+    {
+      "timestamp": "2026-03-02 14:36:25",
+      "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
     }
   ]
 }
