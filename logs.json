@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 15:41:20",
+  "last_updated": "2026-03-02 15:41:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 15:40:32",
-      "message": "[PROCESSING] Analyzing: Apple launches a new iPad Air with an upgraded M4 processor..."
-    },
     {
       "timestamp": "2026-03-02 15:40:37",
       "message": "[SUCCESS] Processed: Apple launches a new iPad Air with an upgraded M4 processor\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 15:41:20",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-02 15:41:22",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
