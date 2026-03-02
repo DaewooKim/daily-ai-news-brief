@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 18:08:30",
+  "last_updated": "2026-03-02 18:08:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 18:07:42",
-      "message": "[PROCESSING] Analyzing: Sources: at Apple's request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while abiding by Apple's privacy standards (The Information)..."
-    },
     {
       "timestamp": "2026-03-02 18:07:46",
       "message": "[SUCCESS] Processed: Sources: at Apple's request, Google investigated hosting servers inside its data centers to run a Gemini-based Siri while abiding by Apple's privacy standards (The Information)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 18:08:30",
       "message": "[SUCCESS] Processed: Qualcomm forms a \"strategic coalition\" to launch 6G in 2029 and unveils FastConnect 8800, an \"AI-native\" Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 (Will Sattelberg/9to5Google)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 18:08:31",
+      "message": "Reprocessing: Anthropic says \"a fix has been implemented\" at 15:25 UTC after elevated errors on claude.ai, Claude Code, and some API methods starting at 11:49 UTC (Mayank Parmar/BleepingComputer)"
     }
   ]
 }
