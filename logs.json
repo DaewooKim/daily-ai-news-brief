@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 14:35:41",
+  "last_updated": "2026-03-02 14:35:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 14:34:54",
-      "message": "Reprocessing: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)"
-    },
     {
       "timestamp": "2026-03-02 14:34:56",
       "message": "[PROCESSING] Analyzing: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 14:35:41",
       "message": "[PROCESSING] Analyzing: Q&A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more (Jordyn Holman/New York Times)..."
+    },
+    {
+      "timestamp": "2026-03-02 14:35:45",
+      "message": "[SUCCESS] Processed: Q&A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more (Jordyn Holman/New York Times)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
