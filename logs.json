@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 22:56:11",
+  "last_updated": "2026-03-02 22:56:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 22:55:29",
-      "message": "[PROCESSING] Analyzing: Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops..."
-    },
     {
       "timestamp": "2026-03-02 22:55:33",
       "message": "[SUCCESS] Processed: Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 22:56:11",
       "message": "Reprocessing: Tangled announces $4.5M round to build GitHub alternative built on Bluesky\u2019s AT protocol"
+    },
+    {
+      "timestamp": "2026-03-02 22:56:12",
+      "message": "[SKIP] Content too short: Tangled announces $4.5M round ..."
     }
   ]
 }
