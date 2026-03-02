@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 16:52:12",
+  "last_updated": "2026-03-02 16:52:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 16:51:25",
-      "message": "[PROCESSING] Analyzing: The best mobile tech announced at MWC 2026 so far..."
-    },
     {
       "timestamp": "2026-03-02 16:51:31",
       "message": "[SUCCESS] Processed: The best mobile tech announced at MWC 2026 so far\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 16:52:12",
       "message": "Reprocessing: VAST Data: What Controls The Data Is More Important Than What Stores It"
+    },
+    {
+      "timestamp": "2026-03-02 16:52:14",
+      "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
     }
   ]
 }
