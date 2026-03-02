@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 17:00:54",
+  "last_updated": "2026-03-02 17:00:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 17:00:15",
-      "message": "Reprocessing: ServiceNow debuts Autonomous Workforce, EmployeeWorks automation tools"
-    },
     {
       "timestamp": "2026-03-02 17:00:17",
       "message": "[SKIP] Content too short: ServiceNow debuts Autonomous W..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 17:00:54",
       "message": "[PROCESSING] Analyzing: MNN M156F01 15.6in Portable Monitor Mini-Review..."
+    },
+    {
+      "timestamp": "2026-03-02 17:00:59",
+      "message": "[SUCCESS] Processed: MNN M156F01 15.6in Portable Monitor Mini-Review\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
