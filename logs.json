@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 07:37:27",
+  "last_updated": "2026-03-02 07:37:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 07:36:56",
-      "message": "[PROCESSING] Analyzing: When AI lies: The rise of alignment faking in autonomous systems..."
-    },
     {
       "timestamp": "2026-03-02 07:37:00",
       "message": "[SUCCESS] Processed: When AI lies: The rise of alignment faking in autonomous systems\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 07:37:27",
       "message": "Reprocessing: OpenAI raises $110B at $730B valuation, expands AWS and Nvidia partnerships"
+    },
+    {
+      "timestamp": "2026-03-02 07:37:29",
+      "message": "[SKIP] Content too short: OpenAI raises $110B at $730B v..."
     }
   ]
 }
