@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 12:14:51",
+  "last_updated": "2026-03-02 12:14:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 12:14:00",
-      "message": "[PROCESSING] Analyzing: ASML CTO Marco Pieters says ASML plans to expand beyond EUV into advanced packaging, bonding, and connecting, and is building AI-based machine inspection tools (Max A. Cherney/Reuters)..."
-    },
     {
       "timestamp": "2026-03-02 12:14:04",
       "message": "[SUCCESS] Processed: ASML CTO Marco Pieters says ASML plans to expand beyond EUV into advanced packaging, bonding, and connecting, and is building AI-based machine inspection tools (Max A. Cherney/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 12:14:51",
       "message": "Reprocessing: Vitalik Buterin outlines a two-part plan to overhaul Ethereum's execution layer with a binary state tree and eventually move beyond the Ethereum virtual machine (Zack Abrams/The Block)"
+    },
+    {
+      "timestamp": "2026-03-02 12:14:52",
+      "message": "[PROCESSING] Analyzing: Vitalik Buterin outlines a two-part plan to overhaul Ethereum's execution layer with a binary state tree and eventually move beyond the Ethereum virtual machine (Zack Abrams/The Block)..."
     }
   ]
 }
