@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 16:57:46",
+  "last_updated": "2026-03-02 16:57:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 16:57:00",
-      "message": "Reprocessing: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)"
-    },
     {
       "timestamp": "2026-03-02 16:57:02",
       "message": "[PROCESSING] Analyzing: Kalshi CEO Tarek Mansour says the company would void certain bets related to Iran's Ali Khamenei and claims it doesn't \"list markets directly tied to death\" (Terrence O'Brien/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 16:57:46",
       "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
+    },
+    {
+      "timestamp": "2026-03-02 16:57:51",
+      "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
