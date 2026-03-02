@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 20:30:55",
+  "last_updated": "2026-03-02 20:31:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 20:30:09",
-      "message": "Reprocessing: Anthropic's $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company's contract dispute with the Pentagon (Dan Primack/Axios)"
-    },
     {
       "timestamp": "2026-03-02 20:30:11",
       "message": "[PROCESSING] Analyzing: Anthropic's $60B+ in funding, half of which came just last month, from over 200 investors is now at risk due to the company's contract dispute with the Pentagon (Dan Primack/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 20:30:55",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)..."
+    },
+    {
+      "timestamp": "2026-03-02 20:31:00",
+      "message": "[SUCCESS] Processed: Sources: OpenAI agreed to follow US laws that have allowed for mass surveillance in the past, and the DOD didn't budge from its demands over bulk analyzing data (Hayden Field/The Verge)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
