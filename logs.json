@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-02 22:53:12",
+  "last_updated": "2026-03-02 22:53:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 22:52:27",
-      "message": "Reprocessing: Alibaba releases the open-weight Qwen3.5 Small Model Series in 0.8B, 2B, 4B, and 9B sizes, claiming the 9B model rivals OpenAI's gpt-oss-120b on some benchmarks (Carl Franzen/VentureBeat)"
-    },
     {
       "timestamp": "2026-03-02 22:52:28",
       "message": "[PROCESSING] Analyzing: Alibaba releases the open-weight Qwen3.5 Small Model Series in 0.8B, 2B, 4B, and 9B sizes, claiming the 9B model rivals OpenAI's gpt-oss-120b on some benchmarks (Carl Franzen/VentureBeat)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-02 22:53:12",
       "message": "[PROCESSING] Analyzing: X announces a \"Paid Partnership\" label that creators can apply to their posts to indicate they're ads; until now, creators relied on hashtags to label posts (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-03-02 22:53:17",
+      "message": "[SUCCESS] Processed: X announces a \"Paid Partnership\" label that creators can apply to their posts to indicate they're ads; until now, creators relied on hashtags to label posts (Sarah Perez/TechCrunch)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
