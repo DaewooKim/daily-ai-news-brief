@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-02 12:16:18",
+  "last_updated": "2026-03-02 12:16:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-02 12:15:29",
-      "message": "[PROCESSING] Analyzing: Australian AI infrastructure company Firmus signs a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips (Sharon Klyne/Bloomberg)..."
-    },
-    {
-      "timestamp": "2026-03-02 12:15:33",
-      "message": "[SUCCESS] Processed: Australian AI infrastructure company Firmus signs a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips (Sharon Klyne/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-02 12:15:35",
       "message": "Reprocessing: Early data show wages are rising for AI-exposed jobs that place a high value on a \"worker's tacit knowledge and experience\", as textbook knowledge loses value (J. Scott Davis/Federal Reserve Bank of Dallas)"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-02 12:16:18",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-02 12:16:19",
+      "message": "Reprocessing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
+    },
+    {
+      "timestamp": "2026-03-02 12:16:20",
+      "message": "[PROCESSING] Analyzing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors..."
     }
   ]
 }
