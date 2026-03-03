@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:02:47",
+  "last_updated": "2026-03-03 06:02:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:02:01",
-      "message": "Reprocessing: Sam Altman says \"the democratic process must stay in control, and we must democratize AI\" and no private company should decide the fate of the world (Sam Altman/@sama)"
-    },
     {
       "timestamp": "2026-03-03 06:02:03",
       "message": "[PROCESSING] Analyzing: Sam Altman says \"the democratic process must stay in control, and we must democratize AI\" and no private company should decide the fate of the world (Sam Altman/@sama)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:02:47",
       "message": "[PROCESSING] Analyzing: Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation (Sankalp Phartiyal/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-03 06:02:51",
+      "message": "[SUCCESS] Processed: Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation (Sankalp Phartiyal/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
