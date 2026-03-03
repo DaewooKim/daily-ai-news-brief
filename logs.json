@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 10:51:18",
+  "last_updated": "2026-03-03 10:51:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 10:50:30",
-      "message": "[PROCESSING] Analyzing: AWS says its facilities in the Middle East are facing power and connectivity issues after drones \"directly struck\" its infrastructure in the UAE and Bahrain (Annie Palmer/CNBC)..."
-    },
     {
       "timestamp": "2026-03-03 10:50:34",
       "message": "[SUCCESS] Processed: AWS says its facilities in the Middle East are facing power and connectivity issues after drones \"directly struck\" its infrastructure in the UAE and Bahrain (Annie Palmer/CNBC)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 10:51:18",
       "message": "[SUCCESS] Processed: Research Bits: Mar. 3\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 10:51:19",
+      "message": "Reprocessing: Chip Industry Technical Paper Roundup: Mar. 3"
     }
   ]
 }
