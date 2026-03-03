@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 03:40:09",
+  "last_updated": "2026-03-03 03:40:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 03:39:22",
-      "message": "[PROCESSING] Analyzing: AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain (Annie Palmer/CNBC)..."
-    },
     {
       "timestamp": "2026-03-03 03:39:27",
       "message": "[SUCCESS] Processed: AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain (Annie Palmer/CNBC)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 03:40:09",
       "message": "[SUCCESS] Processed: Sources: amid negotiations with the DOD, Anthropic submitted a bid to compete in a $100M DOD contest to develop voice-controlled, autonomous drone swarming tech (Katrina Manson/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 03:40:10",
+      "message": "Reprocessing: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)"
     }
   ]
 }
