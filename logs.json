@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 04:51:59",
+  "last_updated": "2026-03-03 04:52:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 04:51:12",
-      "message": "[PROCESSING] Analyzing: Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation (Sankalp Phartiyal/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-03 04:51:16",
       "message": "[SUCCESS] Processed: Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation (Sankalp Phartiyal/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 04:51:59",
       "message": "[SUCCESS] Processed: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 04:52:01",
+      "message": "Reprocessing: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)"
     }
   ]
 }
