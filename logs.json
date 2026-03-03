@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 04:50:50",
+  "last_updated": "2026-03-03 04:50:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 04:50:04",
-      "message": "Reprocessing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019"
-    },
     {
       "timestamp": "2026-03-03 04:50:05",
       "message": "[PROCESSING] Analyzing: MWC 2026: Telecom High-Stakes Bet on the \u2018IQ Era\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 04:50:50",
       "message": "[PROCESSING] Analyzing: Ayar Labs, which is replacing the copper wiring in semiconductors with fiber optics, raised a $500M Series E led by Neuberger Berman at a $3.8B valuation (Robbie Whelan/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-03 04:50:55",
+      "message": "[SUCCESS] Processed: Ayar Labs, which is replacing the copper wiring in semiconductors with fiber optics, raised a $500M Series E led by Neuberger Berman at a $3.8B valuation (Robbie Whelan/Wall Street Journal)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
