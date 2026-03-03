@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 02:32:18",
+  "last_updated": "2026-03-03 02:32:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 02:31:52",
-      "message": "Reprocessing: Trump orders federal agencies to stop using Anthropic products"
-    },
     {
       "timestamp": "2026-03-03 02:31:53",
       "message": "[SKIP] Content too short: Trump orders federal agencies ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 02:32:18",
       "message": "[PROCESSING] Analyzing: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips..."
+    },
+    {
+      "timestamp": "2026-03-03 02:32:23",
+      "message": "[SUCCESS] Processed: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
