@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 00:05:21",
+  "last_updated": "2026-03-03 00:05:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 00:04:33",
-      "message": "[PROCESSING] Analyzing: Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran (Echo Wang/Reuters)..."
-    },
     {
       "timestamp": "2026-03-03 00:04:37",
       "message": "[SUCCESS] Processed: Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran (Echo Wang/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 00:05:21",
       "message": "Reprocessing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)"
+    },
+    {
+      "timestamp": "2026-03-03 00:05:22",
+      "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
     }
   ]
 }
