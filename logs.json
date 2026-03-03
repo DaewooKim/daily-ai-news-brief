@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 00:08:52",
+  "last_updated": "2026-03-03 00:08:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 00:08:27",
-      "message": "Reprocessing: OpenAI raises $110B at $730B valuation, expands AWS and Nvidia partnerships"
-    },
     {
       "timestamp": "2026-03-03 00:08:28",
       "message": "[SKIP] Content too short: OpenAI raises $110B at $730B v..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 00:08:52",
       "message": "[PROCESSING] Analyzing: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips..."
+    },
+    {
+      "timestamp": "2026-03-03 00:08:57",
+      "message": "[SUCCESS] Processed: AMD Launches Ryzen AI 400 & PRO 400 Desktop Chips\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
