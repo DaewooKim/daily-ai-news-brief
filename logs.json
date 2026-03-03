@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:15:36",
+  "last_updated": "2026-03-03 13:15:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:14:46",
-      "message": "[PROCESSING] Analyzing: Senator Ron Wyden, the top Democrat on the Senate Finance Committee, vows to \"pull out all the stops\" to fight back after the US moved to bar Anthropic (Steven T. Dennis/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-03 13:14:51",
       "message": "[SUCCESS] Processed: Senator Ron Wyden, the top Democrat on the Senate Finance Committee, vows to \"pull out all the stops\" to fight back after the US moved to bar Anthropic (Steven T. Dennis/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:15:36",
       "message": "[SUCCESS] Processed: New Challenges In Signoff\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 13:15:37",
+      "message": "Reprocessing: Research Bits: Mar. 3"
     }
   ]
 }
