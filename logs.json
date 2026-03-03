@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 00:04:40",
+  "last_updated": "2026-03-03 00:04:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 00:03:55",
-      "message": "[SUCCESS] Processed: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-03 00:03:56",
       "message": "[PROCESSING] Analyzing: The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 00:04:40",
       "message": "[PROCESSING] Analyzing: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)..."
+    },
+    {
+      "timestamp": "2026-03-03 00:04:44",
+      "message": "[SUCCESS] Processed: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
