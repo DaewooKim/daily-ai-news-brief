@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 20:11:59",
+  "last_updated": "2026-03-03 20:12:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 20:11:27",
-      "message": "Reprocessing: Inside IISc Bangalore\u2019s CeNSE Lab: From Wafer to Finished Device"
-    },
     {
       "timestamp": "2026-03-03 20:11:28",
       "message": "[PROCESSING] Analyzing: Inside IISc Bangalore\u2019s CeNSE Lab: From Wafer to Finished Device..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 20:11:59",
       "message": "[PROCESSING] Analyzing: AWS Middle East Outage After Data Center Hit by Unidentified Objects..."
+    },
+    {
+      "timestamp": "2026-03-03 20:12:01",
+      "message": "[SKIP] Irrelevant (AI Filter): AWS Middle East Outage After Data Center Hit by Unidentified Objects"
     }
   ]
 }
