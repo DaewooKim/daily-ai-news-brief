@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 04:52:42",
+  "last_updated": "2026-03-03 04:52:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 04:51:59",
-      "message": "[SUCCESS] Processed: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-03 04:52:01",
       "message": "Reprocessing: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 04:52:42",
       "message": "Reprocessing: Making Hybrid Bonding Better"
+    },
+    {
+      "timestamp": "2026-03-03 04:52:44",
+      "message": "[PROCESSING] Analyzing: Making Hybrid Bonding Better..."
     }
   ]
 }
