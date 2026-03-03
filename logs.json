@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 02:29:24",
+  "last_updated": "2026-03-03 02:29:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 02:28:35",
-      "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
-    },
     {
       "timestamp": "2026-03-03 02:28:40",
       "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 02:29:24",
       "message": "[SUCCESS] Processed: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 02:29:26",
+      "message": "Reprocessing: CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors"
     }
   ]
 }
