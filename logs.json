@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:03:40",
+  "last_updated": "2026-03-03 06:03:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:02:53",
-      "message": "Reprocessing: OpenAI and the DOD have agreed to add more surveillance protections to the recent AI deal; sources: Altman approached DOD's Emil Michael to rework the deal (Maria Curi/Axios)"
-    },
     {
       "timestamp": "2026-03-03 06:02:54",
       "message": "[PROCESSING] Analyzing: OpenAI and the DOD have agreed to add more surveillance protections to the recent AI deal; sources: Altman approached DOD's Emil Michael to rework the deal (Maria Curi/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:03:40",
       "message": "[PROCESSING] Analyzing: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-03 06:03:44",
+      "message": "[SUCCESS] Processed: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
