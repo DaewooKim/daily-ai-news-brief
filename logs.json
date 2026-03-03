@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 10:52:05",
+  "last_updated": "2026-03-03 10:52:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 10:51:19",
-      "message": "Reprocessing: Chip Industry Technical Paper Roundup: Mar. 3"
-    },
     {
       "timestamp": "2026-03-03 10:51:21",
       "message": "[PROCESSING] Analyzing: Chip Industry Technical Paper Roundup: Mar. 3..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 10:52:05",
       "message": "[PROCESSING] Analyzing: Making Hybrid Bonding Better..."
+    },
+    {
+      "timestamp": "2026-03-03 10:52:10",
+      "message": "[SUCCESS] Processed: Making Hybrid Bonding Better\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
