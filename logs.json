@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 01:18:25",
+  "last_updated": "2026-03-03 01:18:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 01:17:39",
-      "message": "Reprocessing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)"
-    },
     {
       "timestamp": "2026-03-03 01:17:41",
       "message": "[PROCESSING] Analyzing: An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 01:18:25",
       "message": "[PROCESSING] Analyzing: Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse..."
+    },
+    {
+      "timestamp": "2026-03-03 01:18:29",
+      "message": "[SUCCESS] Processed: Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
