@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 03:40:59",
+  "last_updated": "2026-03-03 03:41:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 03:40:12",
-      "message": "[PROCESSING] Analyzing: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)..."
-    },
     {
       "timestamp": "2026-03-03 03:40:16",
       "message": "[SUCCESS] Processed: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 03:40:59",
       "message": "[SUCCESS] Processed: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 03:41:01",
+      "message": "Reprocessing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)"
     }
   ]
 }
