@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 00:02:29",
+  "last_updated": "2026-03-03 00:02:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 00:01:45",
-      "message": "Reprocessing: Pentagon moves to designate Anthropic as a supply-chain risk"
-    },
     {
       "timestamp": "2026-03-03 00:01:47",
       "message": "[PROCESSING] Analyzing: Pentagon moves to designate Anthropic as a supply-chain risk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 00:02:29",
       "message": "[PROCESSING] Analyzing: Nokia Bets the Network on Nvidia in AI and 6G Pivot..."
+    },
+    {
+      "timestamp": "2026-03-03 00:02:33",
+      "message": "[SUCCESS] Processed: Nokia Bets the Network on Nvidia in AI and 6G Pivot\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
