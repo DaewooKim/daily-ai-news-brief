@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 01:17:33",
+  "last_updated": "2026-03-03 01:17:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 01:16:46",
-      "message": "Reprocessing: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)"
-    },
     {
       "timestamp": "2026-03-03 01:16:48",
       "message": "[PROCESSING] Analyzing: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 01:17:33",
       "message": "[PROCESSING] Analyzing: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption..."
+    },
+    {
+      "timestamp": "2026-03-03 01:17:38",
+      "message": "[SUCCESS] Processed: A GPU Microarchitecture Optimized for Fully Homomorphic Encryption\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
