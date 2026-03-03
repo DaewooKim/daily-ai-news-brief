@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 00:07:57",
+  "last_updated": "2026-03-03 00:07:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 00:07:30",
-      "message": "[PROCESSING] Analyzing: Renesas, GF Partner to Strengthen Supply Chain..."
-    },
     {
       "timestamp": "2026-03-03 00:07:34",
       "message": "[SUCCESS] Processed: Renesas, GF Partner to Strengthen Supply Chain\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 00:07:57",
       "message": "Reprocessing: AI memory gold rush sparks high-speed bot assault on DDR5 inventory"
+    },
+    {
+      "timestamp": "2026-03-03 00:07:59",
+      "message": "[SKIP] Content too short: AI memory gold rush sparks hig..."
     }
   ]
 }
