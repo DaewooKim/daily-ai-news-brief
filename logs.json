@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:15:01",
+  "last_updated": "2026-03-03 13:15:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:14:14",
-      "message": "Reprocessing: Sources: in the EU, US criticism over censorship has been met with disbelief and anger, and some Big Tech lobbyists acknowledge US accusations are overstated (Financial Times)"
-    },
     {
       "timestamp": "2026-03-03 13:14:16",
       "message": "[PROCESSING] Analyzing: Sources: in the EU, US criticism over censorship has been met with disbelief and anger, and some Big Tech lobbyists acknowledge US accusations are overstated (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:15:01",
       "message": "[PROCESSING] Analyzing: A look at the US DOJ's December 2025 lawsuit that alleged a smuggling ring illegally exported or tried to export $160M+ in advanced Nvidia AI chips to China (Eliot Chen/The Wire China)..."
+    },
+    {
+      "timestamp": "2026-03-03 13:15:05",
+      "message": "[SUCCESS] Processed: A look at the US DOJ's December 2025 lawsuit that alleged a smuggling ring illegally exported or tried to export $160M+ in advanced Nvidia AI chips to China (Eliot Chen/The Wire China)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
