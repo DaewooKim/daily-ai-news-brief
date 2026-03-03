@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:09:48",
+  "last_updated": "2026-03-03 13:09:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:08:57",
-      "message": "[PROCESSING] Analyzing: Apple might use Google servers to store data for its upgraded AI Siri..."
-    },
     {
       "timestamp": "2026-03-03 13:09:06",
       "message": "[SUCCESS] Processed: Apple might use Google servers to store data for its upgraded AI Siri\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:09:48",
       "message": "Reprocessing: Nvidia Sees The Light On Silicon Photonics And Maybe Optical Switching"
+    },
+    {
+      "timestamp": "2026-03-03 13:09:49",
+      "message": "[SKIP] Content too short: Nvidia Sees The Light On Silic..."
     }
   ]
 }
