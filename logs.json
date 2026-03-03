@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 03:35:43",
+  "last_updated": "2026-03-03 03:35:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 03:34:16",
-      "message": "[PROCESSING] Analyzing: You could be an influencer without even realizing it..."
-    },
     {
       "timestamp": "2026-03-03 03:34:20",
       "message": "[SUCCESS] Processed: You could be an influencer without even realizing it\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 03:35:43",
       "message": "[SKIP] Content too short: VAST Data: What Controls The D..."
+    },
+    {
+      "timestamp": "2026-03-03 03:35:45",
+      "message": "Reprocessing: So Far, Nobody Turns Tokens Into Money Like Nvidia"
     }
   ]
 }
