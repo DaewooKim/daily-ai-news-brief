@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:06:31",
+  "last_updated": "2026-03-03 06:06:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:06:00",
-      "message": "[PROCESSING] Analyzing: Renesas, GF Partner to Strengthen Supply Chain..."
-    },
     {
       "timestamp": "2026-03-03 06:06:04",
       "message": "[SUCCESS] Processed: Renesas, GF Partner to Strengthen Supply Chain\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:06:31",
       "message": "Reprocessing: Nvidia invests $4B in co-packaged optics suppliers Lumentum, Coherent"
+    },
+    {
+      "timestamp": "2026-03-03 06:06:32",
+      "message": "[SKIP] Content too short: Nvidia invests $4B in co-packa..."
     }
   ]
 }
