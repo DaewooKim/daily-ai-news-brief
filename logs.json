@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 02:28:27",
+  "last_updated": "2026-03-03 02:28:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 02:27:42",
-      "message": "Reprocessing: The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI (Reuters)"
-    },
     {
       "timestamp": "2026-03-03 02:27:43",
       "message": "[PROCESSING] Analyzing: The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 02:28:27",
       "message": "[PROCESSING] Analyzing: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)..."
+    },
+    {
+      "timestamp": "2026-03-03 02:28:32",
+      "message": "[SUCCESS] Processed: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
