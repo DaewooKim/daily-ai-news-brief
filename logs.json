@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 02:30:56",
+  "last_updated": "2026-03-03 02:30:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 02:30:11",
-      "message": "[PROCESSING] Analyzing: Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops..."
-    },
     {
       "timestamp": "2026-03-03 02:30:16",
       "message": "[SUCCESS] Processed: Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 02:30:56",
       "message": "Reprocessing: MongoDB\u2019s stock craters as lower guidance whips up investors\u2019 AI software fears"
+    },
+    {
+      "timestamp": "2026-03-03 02:30:57",
+      "message": "[SKIP] Content too short: MongoDB\u2019s stock craters as low..."
     }
   ]
 }
