@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 08:26:16",
+  "last_updated": "2026-03-03 08:26:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 08:25:31",
-      "message": "Reprocessing: A look at the US DOJ's December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China (Eliot Chen/The Wire China)"
-    },
     {
       "timestamp": "2026-03-03 08:25:33",
       "message": "[PROCESSING] Analyzing: A look at the US DOJ's December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China (Eliot Chen/The Wire China)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 08:26:16",
       "message": "[PROCESSING] Analyzing: AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain (Annie Palmer/CNBC)..."
+    },
+    {
+      "timestamp": "2026-03-03 08:26:20",
+      "message": "[SUCCESS] Processed: AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain (Annie Palmer/CNBC)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
