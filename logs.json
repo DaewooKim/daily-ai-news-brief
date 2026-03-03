@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:06:12",
+  "last_updated": "2026-03-03 06:06:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:05:28",
-      "message": "[SUCCESS] Processed: Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-03 06:05:29",
       "message": "Reprocessing: Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:06:12",
       "message": "Reprocessing: Analysis: How Salesforce aims to help telcos grow revenue with Agentforce for Communications"
+    },
+    {
+      "timestamp": "2026-03-03 06:06:14",
+      "message": "[SKIP] Content too short: Analysis: How Salesforce aims ..."
     }
   ]
 }
