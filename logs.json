@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:17:29",
+  "last_updated": "2026-03-03 13:17:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:16:39",
-      "message": "[PROCESSING] Analyzing: Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)..."
-    },
     {
       "timestamp": "2026-03-03 13:16:44",
       "message": "[SUCCESS] Processed: Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:17:29",
       "message": "[SUCCESS] Processed: Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 13:17:31",
+      "message": "Reprocessing: When AI lies: The rise of alignment faking in autonomous systems"
     }
   ]
 }
