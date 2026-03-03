@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 12:03:20",
+  "last_updated": "2026-03-03 12:03:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 12:02:36",
-      "message": "Reprocessing: Sam Altman says rushing the DOD deal on Friday \"looked opportunistic and sloppy\" but OpenAI was \"trying to de-escalate things and avoid a much worse outcome\" (Katherine Li/Business Insider)"
-    },
     {
       "timestamp": "2026-03-03 12:02:37",
       "message": "[PROCESSING] Analyzing: Sam Altman says rushing the DOD deal on Friday \"looked opportunistic and sloppy\" but OpenAI was \"trying to de-escalate things and avoid a much worse outcome\" (Katherine Li/Business Insider)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 12:03:20",
       "message": "[PROCESSING] Analyzing: Research Bits: Mar. 3..."
+    },
+    {
+      "timestamp": "2026-03-03 12:03:24",
+      "message": "[SUCCESS] Processed: Research Bits: Mar. 3\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
