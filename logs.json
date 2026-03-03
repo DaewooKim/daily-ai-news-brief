@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:16:06",
+  "last_updated": "2026-03-03 13:16:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:15:16",
-      "message": "[PROCESSING] Analyzing: Sam Altman says OpenAI is amending its DOD contract to ensure \"the AI system\" is not \"intentionally used for domestic surveillance of US persons and nationals\" (George Hammond/Financial Times)..."
-    },
     {
       "timestamp": "2026-03-03 13:15:21",
       "message": "[SUCCESS] Processed: Sam Altman says OpenAI is amending its DOD contract to ensure \"the AI system\" is not \"intentionally used for domestic surveillance of US persons and nationals\" (George Hammond/Financial Times)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:16:06",
       "message": "[SUCCESS] Processed: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 13:16:08",
+      "message": "Reprocessing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)"
     }
   ]
 }
