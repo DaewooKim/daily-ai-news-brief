@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 03:40:37",
+  "last_updated": "2026-03-03 03:40:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 03:39:50",
-      "message": "[PROCESSING] Analyzing: Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk's purchase, and xAI borrowed $5B via bonds and loans in June (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-03 03:39:55",
       "message": "[SUCCESS] Processed: Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk's purchase, and xAI borrowed $5B via bonds and loans in June (Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 03:40:37",
       "message": "[SUCCESS] Processed: Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap (Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 03:40:39",
+      "message": "Reprocessing: Iranians turn to Starlink, decentralized messaging apps, and VPNs to circumvent an internet blackout; NetBlocks says connectivity is at 1% of ordinary levels (Bloomberg)"
     }
   ]
 }
