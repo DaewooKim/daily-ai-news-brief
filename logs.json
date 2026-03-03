@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:15:28",
+  "last_updated": "2026-03-03 13:15:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:14:39",
-      "message": "[PROCESSING] Analyzing: Investigation: Sama data annotators in Nairobi say they often view private footage from Meta's Ray-Ban glasses, like bathroom visits; some footage is blurred (SvD)..."
-    },
     {
       "timestamp": "2026-03-03 13:14:44",
       "message": "[SUCCESS] Processed: Investigation: Sama data annotators in Nairobi say they often view private footage from Meta's Ray-Ban glasses, like bathroom visits; some footage is blurred (SvD)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:15:28",
       "message": "[SUCCESS] Processed: Sam Altman says rushing the DOD deal on Friday \"looked opportunistic and sloppy\" but OpenAI was \"trying to de-escalate things and avoid a much worse outcome\" (Katherine Li/Business Insider)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 13:15:30",
+      "message": "Reprocessing: New Challenges In Signoff"
     }
   ]
 }
