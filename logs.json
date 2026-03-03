@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:01:00",
+  "last_updated": "2026-03-03 06:01:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:00:15",
-      "message": "Reprocessing: SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse"
-    },
     {
       "timestamp": "2026-03-03 06:00:16",
       "message": "[PROCESSING] Analyzing: SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:01:00",
       "message": "[PROCESSING] Analyzing: Nokia Bets the Network on Nvidia in AI and 6G Pivot..."
+    },
+    {
+      "timestamp": "2026-03-03 06:01:04",
+      "message": "[SUCCESS] Processed: Nokia Bets the Network on Nvidia in AI and 6G Pivot\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
