@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 01:16:26",
+  "last_updated": "2026-03-03 01:16:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 01:15:39",
-      "message": "Reprocessing: The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI (Reuters)"
-    },
     {
       "timestamp": "2026-03-03 01:15:40",
       "message": "[PROCESSING] Analyzing: The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 01:16:26",
       "message": "[PROCESSING] Analyzing: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)..."
+    },
+    {
+      "timestamp": "2026-03-03 01:16:30",
+      "message": "[SUCCESS] Processed: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
