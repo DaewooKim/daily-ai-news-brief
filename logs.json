@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 12:02:01",
+  "last_updated": "2026-03-03 12:02:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 12:01:14",
-      "message": "Reprocessing: AWS Middle East Outage After Data Center Hit by Unidentified Objects"
-    },
     {
       "timestamp": "2026-03-03 12:01:15",
       "message": "[PROCESSING] Analyzing: AWS Middle East Outage After Data Center Hit by Unidentified Objects..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 12:02:01",
       "message": "[PROCESSING] Analyzing: Senator Ron Wyden, the top Democrat on the Senate Finance Committee, vows to \"pull out all the stops\" to fight back after the US moved to bar Anthropic (Steven T. Dennis/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-03 12:02:06",
+      "message": "[SUCCESS] Processed: Senator Ron Wyden, the top Democrat on the Senate Finance Committee, vows to \"pull out all the stops\" to fight back after the US moved to bar Anthropic (Steven T. Dennis/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
