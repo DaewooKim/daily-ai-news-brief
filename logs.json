@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 00:05:22",
+  "last_updated": "2026-03-03 00:05:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 00:04:37",
-      "message": "[SUCCESS] Processed: Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran (Echo Wang/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-03 00:04:39",
       "message": "Reprocessing: ByteDance shares details about its \"Project Swan\" headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS (David Heaney/UploadVR)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 00:05:22",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
+    },
+    {
+      "timestamp": "2026-03-03 00:05:26",
+      "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
