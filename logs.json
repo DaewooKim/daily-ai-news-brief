@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 03:38:06",
+  "last_updated": "2026-03-03 03:38:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 03:37:22",
-      "message": "Reprocessing: Anthropic\u2019s Claude rises to No. 1 in the App Store following Pentagon dispute"
-    },
     {
       "timestamp": "2026-03-03 03:37:23",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s Claude rises to No. 1 in the App Store following Pentagon dispute..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 03:38:06",
       "message": "[PROCESSING] Analyzing: Nvidia Sells Arm Shares, Signals Realignment of AI Portfolio..."
+    },
+    {
+      "timestamp": "2026-03-03 03:38:11",
+      "message": "[SUCCESS] Processed: Nvidia Sells Arm Shares, Signals Realignment of AI Portfolio\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
