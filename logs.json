@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:05:09",
+  "last_updated": "2026-03-03 06:05:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:04:24",
-      "message": "Reprocessing: Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)"
-    },
     {
       "timestamp": "2026-03-03 06:04:26",
       "message": "[PROCESSING] Analyzing: Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:05:09",
       "message": "[PROCESSING] Analyzing: Engineering Considerations for Flexible Heaters in Semiconductor Fabrication..."
+    },
+    {
+      "timestamp": "2026-03-03 06:05:14",
+      "message": "[SUCCESS] Processed: Engineering Considerations for Flexible Heaters in Semiconductor Fabrication\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
