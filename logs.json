@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 04:52:44",
+  "last_updated": "2026-03-03 04:52:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 04:52:01",
-      "message": "Reprocessing: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-03 04:52:02",
       "message": "[PROCESSING] Analyzing: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 04:52:44",
       "message": "[PROCESSING] Analyzing: Making Hybrid Bonding Better..."
+    },
+    {
+      "timestamp": "2026-03-03 04:52:48",
+      "message": "[SUCCESS] Processed: Making Hybrid Bonding Better\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
