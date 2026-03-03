@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 11:57:13",
+  "last_updated": "2026-03-03 11:57:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 11:56:09",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-03 11:56:25",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 11:57:13",
       "message": "[SUCCESS] Processed: Mastodon now has a button for sharing content from other websites\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 11:57:14",
+      "message": "Reprocessing: You could be an influencer without even realizing it"
     }
   ]
 }
