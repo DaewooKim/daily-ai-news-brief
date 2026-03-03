@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:00:24",
+  "last_updated": "2026-03-03 06:00:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 05:59:39",
-      "message": "Reprocessing: Anthropic\u2019s Claude reports widespread outage"
-    },
     {
       "timestamp": "2026-03-03 05:59:40",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s Claude reports widespread outage..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:00:24",
       "message": "[PROCESSING] Analyzing: Pentagon moves to designate Anthropic as a supply-chain risk..."
+    },
+    {
+      "timestamp": "2026-03-03 06:00:28",
+      "message": "[SUCCESS] Processed: Pentagon moves to designate Anthropic as a supply-chain risk\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
