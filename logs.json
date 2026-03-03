@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 07:16:00",
+  "last_updated": "2026-03-03 07:16:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 07:15:14",
-      "message": "Reprocessing: Sources: amid negotiations with the DOD, Anthropic submitted a bid to compete in a $100M DOD contest to develop voice-controlled, autonomous drone swarming tech (Katrina Manson/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-03 07:15:16",
       "message": "[PROCESSING] Analyzing: Sources: amid negotiations with the DOD, Anthropic submitted a bid to compete in a $100M DOD contest to develop voice-controlled, autonomous drone swarming tech (Katrina Manson/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 07:16:00",
       "message": "[PROCESSING] Analyzing: Making Hybrid Bonding Better..."
+    },
+    {
+      "timestamp": "2026-03-03 07:16:05",
+      "message": "[SUCCESS] Processed: Making Hybrid Bonding Better\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
