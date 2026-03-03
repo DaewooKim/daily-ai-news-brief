@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 06:03:54",
+  "last_updated": "2026-03-03 06:03:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 06:03:07",
-      "message": "Reprocessing: Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk's purchase, and xAI borrowed $5B via bonds and loans in June (Bloomberg)"
-    },
     {
       "timestamp": "2026-03-03 06:03:09",
       "message": "[PROCESSING] Analyzing: Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk's purchase, and xAI borrowed $5B via bonds and loans in June (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 06:03:54",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
+    },
+    {
+      "timestamp": "2026-03-03 06:03:58",
+      "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
