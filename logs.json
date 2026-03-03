@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 03:41:06",
+  "last_updated": "2026-03-03 03:41:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 03:40:19",
-      "message": "[PROCESSING] Analyzing: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-03 03:40:23",
       "message": "[SUCCESS] Processed: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 03:41:06",
       "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 03:41:08",
+      "message": "Reprocessing: Extending Formal Verification to Sequential Circuits (U. of Bremen)"
     }
   ]
 }
