@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 04:46:44",
+  "last_updated": "2026-03-03 04:46:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 04:45:57",
-      "message": "Reprocessing: Apple\u2019s cheapest AirPods have hit $89"
-    },
     {
       "timestamp": "2026-03-03 04:45:59",
       "message": "[PROCESSING] Analyzing: Apple\u2019s cheapest AirPods have hit $89..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 04:46:44",
       "message": "[PROCESSING] Analyzing: AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule..."
+    },
+    {
+      "timestamp": "2026-03-03 04:46:49",
+      "message": "[SUCCESS] Processed: AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
