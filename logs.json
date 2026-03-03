@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 01:16:16",
+  "last_updated": "2026-03-03 01:16:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 01:15:26",
-      "message": "[PROCESSING] Analyzing: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)..."
-    },
     {
       "timestamp": "2026-03-03 01:15:30",
       "message": "[SUCCESS] Processed: Filing: PayPay is seeking to raise up to $1.1B at a valuation of up to $13.4B in its US IPO, selling nearly 55M shares priced between $17 and $20 apiece (Arasu Kannagi Basil/Reuters)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 01:16:16",
       "message": "[SUCCESS] Processed: Alibaba releases the open-weight Qwen3.5 Small Model Series in 0.8B, 2B, 4B, and 9B sizes, claiming the 9B model rivals OpenAI's gpt-oss-120b on some benchmarks (Carl Franzen/VentureBeat)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
+    },
+    {
+      "timestamp": "2026-03-03 01:16:17",
+      "message": "Reprocessing: Sources: SoftBank-owned Japanese payments app PayPay delays its IPO roadshow that was scheduled to launch Monday, as markets were rattled by the strikes in Iran (Echo Wang/Reuters)"
     }
   ]
 }
