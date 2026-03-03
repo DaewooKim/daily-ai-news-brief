@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 12:00:46",
+  "last_updated": "2026-03-03 12:00:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 11:59:59",
-      "message": "Reprocessing: Inside IISc Bengaluru\u2019s CeNSE Lab: From Wafer to Finished Device"
-    },
     {
       "timestamp": "2026-03-03 12:00:00",
       "message": "[PROCESSING] Analyzing: Inside IISc Bengaluru\u2019s CeNSE Lab: From Wafer to Finished Device..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 12:00:46",
       "message": "[PROCESSING] Analyzing: Multi-Location Inventory Management for Electronics Manufacturers..."
+    },
+    {
+      "timestamp": "2026-03-03 12:00:50",
+      "message": "[SUCCESS] Processed: Multi-Location Inventory Management for Electronics Manufacturers\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
