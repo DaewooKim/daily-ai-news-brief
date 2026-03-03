@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:16:00",
+  "last_updated": "2026-03-03 13:16:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:15:13",
-      "message": "[SUCCESS] Processed: Sam Altman says \"the democratic process must stay in control, and we must democratize AI\" and no private company should decide the fate of the world (Sam Altman/@sama)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
-    },
     {
       "timestamp": "2026-03-03 13:15:14",
       "message": "Reprocessing: Sam Altman says OpenAI is amending its DOD contract to ensure \"the AI system\" is not \"intentionally used for domestic surveillance of US persons and nationals\" (George Hammond/Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:16:00",
       "message": "Reprocessing: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)"
+    },
+    {
+      "timestamp": "2026-03-03 13:16:02",
+      "message": "[PROCESSING] Analyzing: 5 Systems-Level Attack Surfaces That Are Architectural Consequences of Edge-Local Deployment (Imperial College London)..."
     }
   ]
 }
