@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 13:14:53",
+  "last_updated": "2026-03-03 13:14:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 13:14:06",
-      "message": "Reprocessing: Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran's crypto ecosystem was worth $7.8B (Chainalysis)"
-    },
     {
       "timestamp": "2026-03-03 13:14:07",
       "message": "[PROCESSING] Analyzing: Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran's crypto ecosystem was worth $7.8B (Chainalysis)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 13:14:53",
       "message": "[PROCESSING] Analyzing: Sam Altman says the DOD affirmed that OpenAI's tools wouldn't be used by agencies like the NSA, and services to them would need a further contract modification (Dylan Butts/CNBC)..."
+    },
+    {
+      "timestamp": "2026-03-03 13:14:58",
+      "message": "[SUCCESS] Processed: Sam Altman says the DOD affirmed that OpenAI's tools wouldn't be used by agencies like the NSA, and services to them would need a further contract modification (Dylan Butts/CNBC)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
