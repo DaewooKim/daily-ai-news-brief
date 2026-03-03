@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 02:25:50",
+  "last_updated": "2026-03-03 02:25:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 02:25:06",
-      "message": "Reprocessing: Pentagon moves to designate Anthropic as a supply-chain risk"
-    },
     {
       "timestamp": "2026-03-03 02:25:07",
       "message": "[PROCESSING] Analyzing: Pentagon moves to designate Anthropic as a supply-chain risk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 02:25:50",
       "message": "[PROCESSING] Analyzing: Strengthening Semiconductor Obsolescence Management Through Traceability..."
+    },
+    {
+      "timestamp": "2026-03-03 02:25:55",
+      "message": "[SUCCESS] Processed: Strengthening Semiconductor Obsolescence Management Through Traceability\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
