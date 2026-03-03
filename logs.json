@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-03 04:52:23",
+  "last_updated": "2026-03-03 04:52:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-03 04:51:39",
-      "message": "Reprocessing: MongoDB reports Q4 revenue up 27% YoY to $695.1M, vs. $670M est., and forecasts Q1 adjusted earnings per share below estimates; MDB drops 22%+ after hours (Angela Palumbo/Barron's Online)"
-    },
     {
       "timestamp": "2026-03-03 04:51:41",
       "message": "[PROCESSING] Analyzing: MongoDB reports Q4 revenue up 27% YoY to $695.1M, vs. $670M est., and forecasts Q1 adjusted earnings per share below estimates; MDB drops 22%+ after hours (Angela Palumbo/Barron's Online)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-03 04:52:23",
       "message": "[PROCESSING] Analyzing: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)..."
+    },
+    {
+      "timestamp": "2026-03-03 04:52:27",
+      "message": "[SUCCESS] Processed: Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)\n  > Summary: Error using AI model: Error code: 429 - {'error': ..."
     }
   ]
 }
