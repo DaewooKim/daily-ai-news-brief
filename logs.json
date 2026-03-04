@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-04 16:00:22",
+  "last_updated": "2026-03-04 16:00:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-04 15:59:46",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-04 15:59:46",
       "message": "[PROCESSING] Analyzing: Google\u2019s Pixel 10 is the best Android phone available, and it\u2019s $200 off..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-04 16:00:22",
       "message": "Reprocessing: Nvidia Sees The Light On Silicon Photonics And Maybe Optical Switching"
+    },
+    {
+      "timestamp": "2026-03-04 16:00:24",
+      "message": "[SKIP] Content too short: Nvidia Sees The Light On Silic..."
     }
   ]
 }
