@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-04 10:31:30",
+  "last_updated": "2026-03-04 10:31:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-04 10:30:56",
-      "message": "Reprocessing: Updated: AWS Middle East Outage After Data Centers Hit by Drone Strikes"
-    },
     {
       "timestamp": "2026-03-04 10:30:58",
       "message": "[PROCESSING] Analyzing: Updated: AWS Middle East Outage After Data Centers Hit by Drone Strikes..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-04 10:31:30",
       "message": "[PROCESSING] Analyzing: Electronic Warfare: Vying for Control of the Electromagnetic Spectrum..."
+    },
+    {
+      "timestamp": "2026-03-04 10:31:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Electronic Warfare: Vying for Control of the Electromagnetic Spectrum"
     }
   ]
 }
