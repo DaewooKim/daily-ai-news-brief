@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-04 16:03:09",
+  "last_updated": "2026-03-04 16:03:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-04 16:02:31",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc18c\uc1a1, \uc81c\ubbf8\ub2c8\uac00 \ud55c \ub0a8\uc131\uc744 \ub370\ub824\uac00 \uc548\ub4dc\ub85c\uc774\ub4dc \ubab8\uccb4\ub97c \ucc3e\uac8c \ud588\ub2e4\uace0 \uc8fc\uc7a5; \uad6c\uae00\uc740 \uadf8\ub97c '\ub9ce\uc740 \ucc28\ub840' \uc704\uae30 \uc0c1\ub2f4 \uc804\ud654\ub85c \ubcf4\ub0c8\ub2e4\uace0 \ud574\uba85\n  > Summary: \ubbf8\uad6d\uc5d0\uc11c \uc81c\ubbf8\ub2c8\ub77c\ub294 \uad6c\uae00\uc758 \ucc57\ubd07\uc774 \ud55c \ud50c\ub85c\ub9ac\ub2e4 \ub0a8\uc131\uc5d0\uac8c \uc548\ub4dc\ub85c\uc774\ub4dc \ubab8\uccb4\ub97c \ucc3e\ub3c4\ub85d \uc9c0\uc2dc\ud588\ub2e4\ub294..."
-    },
     {
       "timestamp": "2026-03-04 16:02:32",
       "message": "[PROCESSING] Analyzing: Source: OpenAI is preparing to launch GPT-5.4, which will feature an \"extreme\" reasoning mode and a context window of 1M tokens, up from 400K in GPT-5.2 (Stephanie Palazzolo/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-04 16:03:09",
       "message": "[PROCESSING] Analyzing: Boston-based Whoop, which makes screenless fitness bands, says it plans to grow staff by up to 75% in 2026, adding 600+ roles, ahead of a likely IPO (Samantha Kelly/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-04 16:03:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Boston-based Whoop, which makes screenless fitness bands, says it plans to grow staff by up to 75% in 2026, adding 600+ roles, ahead of a likely IPO (Samantha Kelly/Bloomberg)"
     }
   ]
 }
