@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-04 01:45:11",
+  "last_updated": "2026-03-04 01:45:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-04 01:44:40",
-      "message": "[PROCESSING] Analyzing: An internal DHS document shows CBP used location data sourced from the online ad industry to track phone locations; ICE has bought access to similar tools (Joseph Cox/404 Media)..."
-    },
     {
       "timestamp": "2026-03-04 01:44:41",
       "message": "[SKIP] Irrelevant (AI Filter): An internal DHS document shows CBP used location data sourced from the online ad industry to track phone locations; ICE has bought access to similar tools (Joseph Cox/404 Media)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-04 01:45:11",
       "message": "[SKIP] Irrelevant (AI Filter): Engineering Considerations for Flexible Heaters in Semiconductor Fabrication"
+    },
+    {
+      "timestamp": "2026-03-04 01:45:13",
+      "message": "Reprocessing: GPT-5.3 Instant cuts hallucinations by 26.8% as OpenAI shifts focus from speed to accuracy"
     }
   ]
 }
