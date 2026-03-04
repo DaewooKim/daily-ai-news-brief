@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-04 08:16:59",
+  "last_updated": "2026-03-04 08:17:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-04 08:16:25",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-04 08:16:25",
       "message": "[PROCESSING] Analyzing: Anker\u2019s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-04 08:16:59",
       "message": "Reprocessing: Nvidia Sees The Light On Silicon Photonics And Maybe Optical Switching"
+    },
+    {
+      "timestamp": "2026-03-04 08:17:00",
+      "message": "[SKIP] Content too short: Nvidia Sees The Light On Silic..."
     }
   ]
 }
