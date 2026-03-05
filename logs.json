@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 15:19:04",
+  "last_updated": "2026-03-05 15:19:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 15:18:26",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \uc790\ub3d9\ud654\ub97c \ud65c\uc6a9\ud55c Reclaim Security, Acrew Capital \uc8fc\ub3c4 \ud558\uc5d0 2\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \ubc0f 600\ub9cc \ub2ec\ub7ec \uc2dc\ub4dc \ud22c\uc790 \uc720\uce58\n  > Summary: Reclaim Security\ub294 \uc704\ud611 \ub178\ucd9c\uc744 \uc644\ud654\ud558\uae30 \uc704\ud574 AI \uae30\ubc18 \uc790\ub3d9\ud654\ub97c \uc0ac\uc6a9\ud558\ub294 \ud68c..."
-    },
     {
       "timestamp": "2026-03-05 15:18:27",
       "message": "[PROCESSING] Analyzing: NYSE parent company ICE invests in crypto exchange OKX at a $25B valuation, without sharing the investment's size or terms, and will take a seat on OKX's board (Ben Weiss/Fortune)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 15:19:04",
       "message": "[PROCESSING] Analyzing: Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers..."
+    },
+    {
+      "timestamp": "2026-03-05 15:19:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers"
     }
   ]
 }
