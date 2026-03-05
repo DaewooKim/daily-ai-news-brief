@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 16:25:02",
+  "last_updated": "2026-03-05 16:25:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 16:24:22",
-      "message": "[PROCESSING] Analyzing: EPRI Report: US Data Center Grid Strain Casts Cloud Over AI Race..."
-    },
     {
       "timestamp": "2026-03-05 16:24:26",
       "message": "[SUCCESS] Processed: EPRI \ubcf4\uace0\uc11c: \ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130 \uc804\ub825\ub9dd \uae34\uc7a5\uc774 AI \uacbd\uc7c1\uc5d0 \uadf8\ub9bc\uc790\ub97c \ub4dc\ub9ac\uc6b0\ub2e4\n  > Summary: AI \uacbd\uc7c1\uacfc \uc804\ub825 \uc218\uc694\uac00 \uc5ee\uc778 \uac00\uc6b4\ub370, \ubbf8\uad6d\uc740 \uc804\ub825\ub9dd\uc758 \uc694\uad6c\uac00 \ub2f9\ubd84\uac04 \uc904\uc5b4\ub4e4\uc9c0 \uc54a\uc744 \uac83\uc774\ub77c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 16:25:02",
       "message": "[PROCESSING] Analyzing: Revolut, which has about 70M clients in 40 markets, applies for a US bank charter and appoints former Visa executive Cetin Duransoy as its new US CEO (Reuters)..."
+    },
+    {
+      "timestamp": "2026-03-05 16:25:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Revolut, which has about 70M clients in 40 markets, applies for a US bank charter and appoints former Visa executive Cetin Duransoy as its new US CEO (Reuters)"
     }
   ]
 }
