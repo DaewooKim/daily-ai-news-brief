@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 06:28:39",
+  "last_updated": "2026-03-05 06:28:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 06:28:01",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: OpenAI\uac00 2\uc6d4 \ub9d0 \uae30\uc900\uc73c\ub85c \uc5f0\uac04 250\uc5b5 \ub2ec\ub7ec\uc758 \uc218\uc775\uc744 \uae30\ub85d\ud588\uc73c\uba70, 2025\ub144 \ub9d0 \uae30\uc900 214\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c \uc99d\uac00\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: \uc18c\uc2dd\ud1b5\uc5d0 \ub530\ub974\uba74 OpenAI\ub294 \uc9c0\ub09c\ub2ec \ub9d0 \uae30\uc900\uc73c\ub85c \uc5f0\uac04 250\uc5b5 \ub2ec\ub7ec\uc758 \uc218\uc775\uc744 \uae30\ub85d\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-03-05 06:28:02",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI has picked two law firms to prepare its IPO, which could come as soon as Q4, in one of its first concrete steps toward a public listing (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 06:28:39",
       "message": "[PROCESSING] Analyzing: TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology..."
+    },
+    {
+      "timestamp": "2026-03-05 06:28:41",
+      "message": "[SKIP] Irrelevant (AI Filter): TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology"
     }
   ]
 }
