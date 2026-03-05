@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 14:10:53",
+  "last_updated": "2026-03-05 14:10:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 14:10:12",
-      "message": "Reprocessing: Cursor has reportedly surpassed $2B in annualized revenue"
-    },
     {
       "timestamp": "2026-03-05 14:10:14",
       "message": "[PROCESSING] Analyzing: Cursor has reportedly surpassed $2B in annualized revenue..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 14:10:53",
       "message": "[PROCESSING] Analyzing: Updated: AWS Middle East Outage After Data Centers Hit by Drone Strikes..."
+    },
+    {
+      "timestamp": "2026-03-05 14:10:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Updated: AWS Middle East Outage After Data Centers Hit by Drone Strikes"
     }
   ]
 }
