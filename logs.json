@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 13:04:16",
+  "last_updated": "2026-03-05 13:04:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 13:03:39",
-      "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
-    },
     {
       "timestamp": "2026-03-05 13:03:42",
       "message": "[SUCCESS] Processed: MIPS, GlobalFoundries Bet on Physical AI\n  > Summary: MIPS\ub294 \ucd5c\uadfc Synopsys\uc758 ARC \ud504\ub85c\uc138\uc11c IP \uc0ac\uc5c5 \ubd80\ubb38 \uc778\uc218\ub85c \uc784\ubca0\ub514\ub4dc \ud504\ub85c\uc138\uc11c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 13:04:16",
       "message": "[PROCESSING] Analyzing: China's Hang Seng Tech Index, which includes Chinese tech giants like Tencent and Alibaba, is down 28% since October 2025, shedding nearly $600B in market value (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-05 13:04:17",
+      "message": "[SKIP] Irrelevant (AI Filter): China's Hang Seng Tech Index, which includes Chinese tech giants like Tencent and Alibaba, is down 28% since October 2025, shedding nearly $600B in market value (Bloomberg)"
     }
   ]
 }
