@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 00:51:25",
+  "last_updated": "2026-03-05 00:51:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 00:50:09",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-05 00:50:09",
       "message": "[PROCESSING] Analyzing: Seven tech giants signed Trump\u2019s pledge to keep electricity costs from spiking around data centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 00:51:25",
       "message": "Reprocessing: Nvidia Sees The Light On Silicon Photonics And Maybe Optical Switching"
+    },
+    {
+      "timestamp": "2026-03-05 00:51:27",
+      "message": "[SKIP] Content too short: Nvidia Sees The Light On Silic..."
     }
   ]
 }
