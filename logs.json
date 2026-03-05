@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 12:01:00",
+  "last_updated": "2026-03-05 12:01:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 12:00:32",
-      "message": "[SKIP] Content too short: JetStream Security, Guild.ai a..."
-    },
     {
       "timestamp": "2026-03-05 12:00:33",
       "message": "Reprocessing: CrowdStrike beats earnings and revenue estimates, issues in-line fiscal 2027 outlook"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 12:01:00",
       "message": "[PROCESSING] Analyzing: Minisforum MS-02 Ultra Review the New Home Lab King..."
+    },
+    {
+      "timestamp": "2026-03-05 12:01:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Minisforum MS-02 Ultra Review the New Home Lab King"
     }
   ]
 }
