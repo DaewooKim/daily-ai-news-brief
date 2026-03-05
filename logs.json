@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 23:06:19",
+  "last_updated": "2026-03-05 23:06:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 23:05:45",
-      "message": "Found 166 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-05 23:05:45",
       "message": "[PROCESSING] Analyzing: The Pentagon formally labels Anthropic a supply-chain risk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 23:06:19",
       "message": "Reprocessing: Nvidia Sees The Light On Silicon Photonics And Maybe Optical Switching"
+    },
+    {
+      "timestamp": "2026-03-05 23:06:20",
+      "message": "[SKIP] Content too short: Nvidia Sees The Light On Silic..."
     }
   ]
 }
