@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 04:15:01",
+  "last_updated": "2026-03-05 04:15:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 04:14:27",
-      "message": "[SUCCESS] Processed: cuTile.jl, NVIDIA CUDA \uae30\ubc18 \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d\uc744 Julia\ub85c \uac00\uc838\uc628\ub2e4\n  > Summary: NVIDIA CUDA Tile\uc740 NVIDIA CUDA \ud504\ub85c\uadf8\ub798\ubc0d\uc5d0 \ub9e4\uc6b0 \uc911\uc694\ud55c \ucd94\uac00 \uae30\ub2a5\uc73c..."
-    },
     {
       "timestamp": "2026-03-05 04:14:29",
       "message": "Reprocessing: Teaching LLMs to reason like Bayesians"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 04:15:01",
       "message": "[PROCESSING] Analyzing: X says it will suspend creators from revenue-sharing program for unlabeled AI posts of \u2018armed conflict\u2019..."
+    },
+    {
+      "timestamp": "2026-03-05 04:15:03",
+      "message": "[SKIP] Irrelevant (AI Filter): X says it will suspend creators from revenue-sharing program for unlabeled AI posts of \u2018armed conflict\u2019"
     }
   ]
 }
