@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 18:40:45",
+  "last_updated": "2026-03-05 18:40:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 18:39:55",
-      "message": "[SUCCESS] Processed: \uace0\uc704 \uad6d\ubc29 \uad00\ub9ac\uac00 \ubc1d\ud600\ub0b8 \ud39c\ud0c0\uace4\uc740 \uc564\ud2b8\ub85c\ud53d\uc5d0 \ud68c\uc0ac\uc640 \uc81c\ud488\uc774 \uacf5\uae09\ub9dd \uc704\ud5d8\uc73c\ub85c \uac04\uc8fc\ub41c\ub2e4\uace0 \uacf5\uc2dd \ud1b5\ubcf4\ud588\ub2e4\n  > Summary: \ubbf8\uad6d \uad6d\ubc29\ubd80\ub294 \uc564\ud2b8\ub85c\ud53d PBC\uc5d0 \ub300\ud574 \uacf5\uc2dd\uc801\uc73c\ub85c \ud1b5\ubcf4\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4. \uc774\ubc88 \ud1b5\ubcf4\uc5d0\uc11c\ub294 \uc564\ud2b8\ub85c..."
-    },
     {
       "timestamp": "2026-03-05 18:39:57",
       "message": "[PROCESSING] Analyzing: OpenAI says users can now use ChatGPT directly in Microsoft Excel and Google Sheets and debuts a suite of financial-services tools to better tackle office work (Rachel Metz/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 18:40:45",
       "message": "[PROCESSING] Analyzing: The FBI arrests the son of a federal contractor who managed critical services and charges him with stealing ~$46M in crypto from the US Marshals Service (Sander Lutz/Decrypt)..."
+    },
+    {
+      "timestamp": "2026-03-05 18:40:47",
+      "message": "[SKIP] Irrelevant (AI Filter): The FBI arrests the son of a federal contractor who managed critical services and charges him with stealing ~$46M in crypto from the US Marshals Service (Sander Lutz/Decrypt)"
     }
   ]
 }
