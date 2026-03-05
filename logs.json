@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 00:56:16",
+  "last_updated": "2026-03-05 00:56:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 00:54:40",
-      "message": "[PROCESSING] Analyzing: OpenAI releases a dedicated Codex app for Windows with native sandboxing and support for PowerShell developer environments, after launching on macOS a month ago (Igor Bonifacic/Engadget)..."
-    },
     {
       "timestamp": "2026-03-05 00:54:57",
       "message": "[SUCCESS] Processed: OpenAI, Windows\uc6a9 \uc804\uc6a9 Codex \uc571 \ucd9c\uc2dc - \ub124\uc774\ud2f0\ube0c \uc0cc\ub4dc\ubc15\uc2f1 \ubc0f PowerShell \uac1c\ubc1c \ud658\uacbd \uc9c0\uc6d0\n  > Summary: OpenAI\uac00 Windows\uc6a9 \uc804\uc6a9 Codex \uc571\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc571\uc740 \ub124\uc774\ud2f0\ube0c \uc0cc\ub4dc\ubc15..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 00:56:16",
       "message": "[PROCESSING] Analyzing: Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members (Matt Kapko/CyberScoop)..."
+    },
+    {
+      "timestamp": "2026-03-05 00:56:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members (Matt Kapko/CyberScoop)"
     }
   ]
 }
