@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 03:10:05",
+  "last_updated": "2026-03-05 03:10:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 03:09:28",
-      "message": "Reprocessing: Updated: AWS Middle East Outage After Data Centers Hit by Drone Strikes"
-    },
     {
       "timestamp": "2026-03-05 03:09:30",
       "message": "[PROCESSING] Analyzing: Updated: AWS Middle East Outage After Data Centers Hit by Drone Strikes..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 03:10:05",
       "message": "[PROCESSING] Analyzing: Pasqal, a French startup that builds quantum processors using neutral atom technology, plans to go public via a SPAC merger at a $2B pre-money valuation (Bailey Lipschultz/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-05 03:10:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Pasqal, a French startup that builds quantum processors using neutral atom technology, plans to go public via a SPAC merger at a $2B pre-money valuation (Bailey Lipschultz/Bloomberg)"
     }
   ]
 }
