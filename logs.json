@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 13:02:39",
+  "last_updated": "2026-03-05 13:02:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 13:01:51",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-05 13:02:03",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 13:02:39",
       "message": "[PROCESSING] Analyzing: Epic and Google have signed a special deal for a new class of &#8216;metaverse&#8217; apps..."
+    },
+    {
+      "timestamp": "2026-03-05 13:02:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Epic and Google have signed a special deal for a new class of &#8216;metaverse&#8217; apps"
     }
   ]
 }
