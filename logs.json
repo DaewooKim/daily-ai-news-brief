@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-05 10:50:33",
+  "last_updated": "2026-03-05 10:50:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 10:49:47",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-03-05 10:49:58",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-05 10:49:58",
       "message": "[PROCESSING] Analyzing: Bill Gates&#8217; nuclear company is the first to get approval to build next-gen reactor..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-05 10:50:33",
       "message": "Reprocessing: Ayar Labs Gets $500 Million To Ramp Photonics Into 2028 AI Systems"
+    },
+    {
+      "timestamp": "2026-03-05 10:50:35",
+      "message": "[SKIP] Content too short: Ayar Labs Gets $500 Million To..."
+    },
+    {
+      "timestamp": "2026-03-05 10:50:36",
+      "message": "Reprocessing: With Cisco Outshift, Agentic AI Is Teed Up For the Internet Of Cognition"
     }
   ]
 }
