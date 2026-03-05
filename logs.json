@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 22:02:36",
+  "last_updated": "2026-03-05 22:02:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 22:01:50",
-      "message": "[PROCESSING] Analyzing: GPT-5.4 is priced at $2.50/1M input and $15/1M output tokens while GPT-5.4 Pro is $30/1M input and $180/1M output tokens, more than GPT-5.2 and GPT-5.2 Pro (Carl Franzen/VentureBeat)..."
-    },
     {
       "timestamp": "2026-03-05 22:01:55",
       "message": "[SUCCESS] Processed: GPT-5.4\uc758 \uac00\uaca9\uc740 1\ubc31\ub9cc \uc785\ub825 \ud1a0\ud070\ub2f9 $2.50, 1\ubc31\ub9cc \ucd9c\ub825 \ud1a0\ud070\ub2f9 $15\uc774\uba70, GPT-5.4 Pro\ub294 1\ubc31\ub9cc \uc785\ub825 \ud1a0\ud070\ub2f9 $30, 1\ubc31\ub9cc \ucd9c\ub825 \ud1a0\ud070\ub2f9 $180\uc785\ub2c8\ub2e4.\n  > Summary: GPT-5.4\uc758 \uac00\uaca9\uc740 \uc785\ub825\uc5d0 \ub300\ud574 1\ubc31\ub9cc \ud1a0\ud070\ub2f9 $2.50, \ucd9c\ub825\uc5d0 \ub300\ud574 $15\uc785\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 22:02:36",
       "message": "[PROCESSING] Analyzing: SEMI FlexTech Announces 2026 FLEXI Award Winners for Outstanding Achievements in Flexible Electronics..."
+    },
+    {
+      "timestamp": "2026-03-05 22:02:38",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI FlexTech Announces 2026 FLEXI Award Winners for Outstanding Achievements in Flexible Electronics"
     }
   ]
 }
