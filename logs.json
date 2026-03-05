@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 23:07:23",
+  "last_updated": "2026-03-05 23:07:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 23:06:44",
-      "message": "[PROCESSING] Analyzing: Reasoning models struggle to control their chains of thought, and that\u2019s good..."
-    },
     {
       "timestamp": "2026-03-05 23:06:48",
       "message": "[SUCCESS] Processed: \ucd94\ub860 \ubaa8\ub378\uc774 \uc0ac\uace0\uc758 \ud750\ub984\uc744 \uc81c\uc5b4\ud558\ub294 \ub370 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\uc73c\uba70, \uadf8\uac83\uc740 \uc88b\ub2e4\n  > Summary: OpenAI\uac00 CoT-Control\uc744 \uc18c\uac1c\ud588\uc73c\uba70, \ucd94\ub860 \ubaa8\ub378\uc774 \uc0ac\uace0\uc758 \ud750\ub984\uc744 \uc81c\uc5b4\ud558\ub294 \ub370 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 23:07:23",
       "message": "[SKIP] Content too short: GPT-5.3 Instant System Card..."
+    },
+    {
+      "timestamp": "2026-03-05 23:07:24",
+      "message": "Reprocessing: AWS launches a new AI agent platform specifically for healthcare"
     }
   ]
 }
