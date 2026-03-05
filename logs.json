@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 13:03:50",
+  "last_updated": "2026-03-05 13:03:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 13:03:16",
-      "message": "[SUCCESS] Processed: AI\uc640 \ud559\uc2b5 \uc131\uacfc \uc774\ud574\ud558\uae30\n  > Summary: OpenAI\ub294 \ub2e4\uc591\ud55c \uad50\uc721 \ud658\uacbd\uc5d0\uc11c \uc2dc\uac04\uc774 \uc9c0\ub0a8\uc5d0 \ub530\ub77c AI\uac00 \ud559\uc0dd \ud559\uc2b5\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5\uc744 ..."
-    },
     {
       "timestamp": "2026-03-05 13:03:17",
       "message": "Reprocessing: GPT-5.3 Instant System Card"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 13:03:50",
       "message": "[PROCESSING] Analyzing: Building an Enterprise-Aligned Edge Strategy: Five Essentials for I&amp;O Leaders..."
+    },
+    {
+      "timestamp": "2026-03-05 13:03:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Building an Enterprise-Aligned Edge Strategy: Five Essentials for I&amp;O Leaders"
     }
   ]
 }
