@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 10:52:06",
+  "last_updated": "2026-03-05 10:52:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 10:51:30",
-      "message": "Reprocessing: MIPS, GlobalFoundries Bet on Physical AI"
-    },
     {
       "timestamp": "2026-03-05 10:51:31",
       "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 10:52:06",
       "message": "[PROCESSING] Analyzing: In its latest quarterly report, Capcom says \"PC sales account for approximately 50% of total unit sales, and we expect this ratio to continue increasing\" (Shaun Prescott/PC Gamer)..."
+    },
+    {
+      "timestamp": "2026-03-05 10:52:08",
+      "message": "[SKIP] Irrelevant (AI Filter): In its latest quarterly report, Capcom says \"PC sales account for approximately 50% of total unit sales, and we expect this ratio to continue increasing\" (Shaun Prescott/PC Gamer)"
     }
   ]
 }
