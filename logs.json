@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 08:38:57",
+  "last_updated": "2026-03-05 08:38:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 08:38:23",
-      "message": "[SUCCESS] Processed: cuTile.jl, NVIDIA\uc758 CUDA \ud0c0\uc77c \uae30\ubc18 \ud504\ub85c\uadf8\ub798\ubc0d\uc744 \uc904\ub9ac\uc544\ub85c \uac00\uc838\uc624\ub2e4\n  > Summary: NVIDIA CUDA Tile\uc740 \ud150\uc11c \ucf54\uc5b4 \ubc0f \uae30\ud0c0 \ud2b9\uc218 \ud558\ub4dc\uc6e8\uc5b4\uc5d0 \ub300\ud55c \uc790\ub3d9 \uc561\uc138\uc2a4\ub97c \uac00..."
-    },
     {
       "timestamp": "2026-03-05 08:38:24",
       "message": "Reprocessing: Teaching LLMs to reason like Bayesians"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 08:38:57",
       "message": "[PROCESSING] Analyzing: Cursor has reportedly surpassed $2B in annualized revenue..."
+    },
+    {
+      "timestamp": "2026-03-05 08:38:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Cursor has reportedly surpassed $2B in annualized revenue"
     }
   ]
 }
