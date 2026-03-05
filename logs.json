@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 20:55:28",
+  "last_updated": "2026-03-05 20:55:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 20:54:45",
-      "message": "[PROCESSING] Analyzing: OpenAI says users can now use ChatGPT directly in Microsoft Excel and Google Sheets and debuts a suite of financial-services tools to better tackle office work (Rachel Metz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-05 20:54:48",
       "message": "[SUCCESS] Processed: OpenAI, \uc0ac\uc6a9\uc790\uac00 Microsoft Excel \ubc0f Google Sheets\uc5d0\uc11c ChatGPT\ub97c \uc9c1\uc811 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub2e4\uace0 \ubc1c\ud45c\ud558\uba70 \uc0ac\ubb34 \uc791\uc5c5\uc744 \ub354 \uc798 \ucc98\ub9ac\ud558\uae30 \uc704\ud55c \uae08\uc735 \uc11c\ube44\uc2a4 \ub3c4\uad6c \ubaa8\uc74c\uc744 \uc120\ubcf4\uc774\ub2e4\n  > Summary: OpenAI\ub294 \uc774\uc81c \uc0ac\uc6a9\uc790\uac00 Microsoft Excel\uacfc Google Sheets \ub0b4\uc5d0\uc11c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 20:55:28",
       "message": "[PROCESSING] Analyzing: Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers..."
+    },
+    {
+      "timestamp": "2026-03-05 20:55:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers"
     }
   ]
 }
