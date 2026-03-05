@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-05 20:55:08",
+  "last_updated": "2026-03-05 20:55:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-05 20:54:26",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ud654\uc774\ud2b8\uce7c\ub77c \uc9c1\uc5c5\uc758 AI \uc8fc\ub3c4 \ud30c\uad34\uc5d0 \ub300\ud55c \uc870\uae30 \uacbd\uace0 \uc2dc\uc2a4\ud15c \ucd9c\uc2dc\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ud654\uc774\ud2b8\uce7c\ub77c \uc9c1\uc5c5\uc758 AI \uc8fc\ub3c4 \ud30c\uad34 \uac00\ub2a5\uc131\uc5d0 \ub300\ud55c \uc870\uae30 \uacbd\uace0 \uc2dc\uc2a4\ud15c\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-03-05 20:54:28",
       "message": "[PROCESSING] Analyzing: Microsoft's new gaming CEO, Asha Sharma, teases the next-gen Xbox, codenamed Project Helix, saying it \"will lead in performance and play your Xbox and PC games\" (Jay Peters/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-05 20:55:08",
       "message": "[PROCESSING] Analyzing: Apple implemented geoblocking in January 2026 to prevent US-based users from downloading or updating ByteDance's Chinese apps, even with a Chinese Apple account (Zeyi Yang/Wired)..."
+    },
+    {
+      "timestamp": "2026-03-05 20:55:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple implemented geoblocking in January 2026 to prevent US-based users from downloading or updating ByteDance's Chinese apps, even with a Chinese Apple account (Zeyi Yang/Wired)"
     }
   ]
 }
