@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-05 17:36:21",
-  "status": "idle",
+  "last_updated": "2026-03-05 18:36:59",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-05 17:34:58",
-      "message": "Reprocessing: Microsoft open-sources multimodal reasoning model with 15B parameters"
+      "timestamp": "2026-03-05 18:36:44",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-05 17:35:00",
-      "message": "[SKIP] Content too short: Microsoft open-sources multimo..."
+      "timestamp": "2026-03-05 18:36:45",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-05 17:35:01",
-      "message": "Reprocessing: Broadcom\u2019s AI chip business jumps 106% as it cruises to another solid earnings and revenue beat"
+      "timestamp": "2026-03-05 18:36:45",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-05 17:35:03",
-      "message": "[SKIP] Content too short: Broadcom\u2019s AI chip business ju..."
+      "timestamp": "2026-03-05 18:36:59",
+      "message": "Found 158 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-05 17:35:04",
-      "message": "Reprocessing: Humanoid robot maker Neura Robotics reportedly raising $1.2B in funding"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:06",
-      "message": "[SKIP] Content too short: Humanoid robot maker Neura Rob..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:07",
-      "message": "Reprocessing: Okta tops earnings and revenue expectations as identity platform targets AI agents"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:09",
-      "message": "[SKIP] Content too short: Okta tops earnings and revenue..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:10",
-      "message": "Reprocessing: Rambus targets AI memory bottlenecks with new HBM4E controller IP"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:12",
-      "message": "[SKIP] Content too short: Rambus targets AI memory bottl..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:13",
-      "message": "Reprocessing: Reclaim Security, ArmorCode raise funding to automate exposure management"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:14",
-      "message": "[SKIP] Content too short: Reclaim Security, ArmorCode ra..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:16",
-      "message": "Reprocessing: Telco transformation is coming \u2014 but people, not AI, will decide which enterprises win the race"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:17",
-      "message": "[SKIP] Content too short: Telco transformation is coming..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:19",
-      "message": "Reprocessing: The post-quantum security shift is forcing enterprises to rethink cryptography"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:20",
-      "message": "[SKIP] Content too short: The post-quantum security shif..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:22",
-      "message": "Reprocessing: Agentic orchestration confronts the growing complexity of enterprise IT"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:23",
-      "message": "[SKIP] Content too short: Agentic orchestration confront..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:25",
-      "message": "Reprocessing: Unleash raises $35M to rein in AI-driven software risk"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:26",
-      "message": "[SKIP] Content too short: Unleash raises $35M to rein in..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:27",
-      "message": "Reprocessing: Checkr launches Identity Verification to combat AI-driven hiring fraud"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:29",
-      "message": "[SKIP] Content too short: Checkr launches Identity Verif..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:30",
-      "message": "Reprocessing: Exclusive: American Express partners with and invests in AI operations startup Traversal"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:32",
-      "message": "[SKIP] Content too short: Exclusive: American Express pa..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:33",
-      "message": "Reprocessing: The AI edge boom is giving telecom a new strategic role"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:35",
-      "message": "[SKIP] Content too short: The AI edge boom is giving tel..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:36",
-      "message": "Reprocessing: Google launches speedy Gemini 3.1 Flash-Lite model in preview"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:38",
-      "message": "[SKIP] Content too short: Google launches speedy Gemini ..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:39",
-      "message": "Reprocessing: Box brushes aside fears of AI\u2019s threat with powerful earnings beat"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:40",
-      "message": "[SKIP] Content too short: Box brushes aside fears of AI\u2019..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:42",
-      "message": "Reprocessing: Intel unveils cutting-edge Xeon 6+ CPUs with 288 cores, targeting AI-ready networks"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:44",
-      "message": "[SKIP] Content too short: Intel unveils cutting-edge Xeo..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:45",
-      "message": "Reprocessing: OpenAI makes ChatGPT feel less \u2018cringe\u2019 with GPT-5.3 Instant update"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:46",
-      "message": "[SKIP] Content too short: OpenAI makes ChatGPT feel less..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:48",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-12XS Review A Neat 12-Port 10GbE Managed Switch..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:50",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-12XS Review A Neat 12-Port 10GbE Managed Switch"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:51",
-      "message": "[PROCESSING] Analyzing: Minisforum MS-02 Ultra Review the New Home Lab King..."
-    },
-    {
-      "timestamp": "2026-03-05 17:35:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Minisforum MS-02 Ultra Review the New Home Lab King"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:55",
-      "message": "Reprocessing: AMD Launches Ryzen AI 400 and PRO 400 Desktop Chips"
-    },
-    {
-      "timestamp": "2026-03-05 17:35:56",
-      "message": "[PROCESSING] Analyzing: AMD Launches Ryzen AI 400 and PRO 400 Desktop Chips..."
-    },
-    {
-      "timestamp": "2026-03-05 17:36:01",
-      "message": "[SUCCESS] Processed: AMD, Ryzen AI 400 \ubc0f PRO 400 \ub370\uc2a4\ud06c\ud0d1 \uce69 \ubc1c\ud45c\n  > Summary: AMD\ub294 2026 \ubaa8\ubc14\uc77c \uc6d4\ub4dc \ucf69\uadf8\ub808\uc2a4\uc5d0\uc11c Ryzen AI 400 \uce69\uc758 \ub370\uc2a4\ud06c\ud0d1 \ubc84\uc804\uc744 \ucd9c..."
-    },
-    {
-      "timestamp": "2026-03-05 17:36:03",
-      "message": "Reprocessing: BrosTrend S1-V2 8-Port 2.5GbE Fanless Switch Review Slightly More Than a Metal Case"
-    },
-    {
-      "timestamp": "2026-03-05 17:36:04",
-      "message": "[PROCESSING] Analyzing: BrosTrend S1-V2 8-Port 2.5GbE Fanless Switch Review Slightly More Than a Metal Case..."
-    },
-    {
-      "timestamp": "2026-03-05 17:36:07",
-      "message": "[SKIP] Irrelevant (AI Filter): BrosTrend S1-V2 8-Port 2.5GbE Fanless Switch Review Slightly More Than a Metal Case"
-    },
-    {
-      "timestamp": "2026-03-05 17:36:08",
-      "message": "Reprocessing: 10Gtek Intel i350 Quad Port 1GbE NIC Review"
-    },
-    {
-      "timestamp": "2026-03-05 17:36:10",
-      "message": "[PROCESSING] Analyzing: 10Gtek Intel i350 Quad Port 1GbE NIC Review..."
-    },
-    {
-      "timestamp": "2026-03-05 17:36:11",
-      "message": "[SKIP] Irrelevant (AI Filter): 10Gtek Intel i350 Quad Port 1GbE NIC Review"
-    },
-    {
-      "timestamp": "2026-03-05 17:36:13",
-      "message": "Completed! New: 12, Updated: 50"
-    },
-    {
-      "timestamp": "2026-03-05 17:36:17",
-      "message": "Saved 62 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-05 17:36:20",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-05 18:36:59",
+      "message": "[PROCESSING] Analyzing: Netflix is buying Ben Affleck\u2019s AI startup..."
     }
   ]
 }
