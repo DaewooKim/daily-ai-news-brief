@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 19:04:25",
+  "last_updated": "2026-03-06 19:04:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 19:03:50",
-      "message": "[SUCCESS] Processed: Descript\uac00 \uaddc\ubaa8\uc5d0 \ub9de\ucdb0 \ub2e4\uad6d\uc5b4 \ube44\ub514\uc624 \ub354\ube59\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub294 \ubc29\ubc95\n  > Summary: Descript\ub294 OpenAI \ubaa8\ub378\uc744 \ud65c\uc6a9\ud558\uc5ec \ub2e4\uad6d\uc5b4 \ube44\ub514\uc624 \ub354\ube59\uc744 \ub300\uaddc\ubaa8\ub85c \uc9c4\ud589\ud569\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-03-06 19:03:52",
       "message": "Reprocessing: Introducing GPT-5.4"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 19:04:25",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s Claude found 22 vulnerabilities in Firefox over two weeks..."
+    },
+    {
+      "timestamp": "2026-03-06 19:04:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic\u2019s Claude found 22 vulnerabilities in Firefox over two weeks"
     }
   ]
 }
