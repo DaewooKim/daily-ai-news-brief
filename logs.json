@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 15:45:42",
+  "last_updated": "2026-03-06 15:45:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 15:45:04",
-      "message": "[PROCESSING] Analyzing: Hayden AI, which raised $180M for its traffic management system, sues its ex-CEO Chris Carson Jr. for allegedly using its data to start a competitor and more (William Hicks/San Francisco Business ...)..."
-    },
     {
       "timestamp": "2026-03-06 15:45:08",
       "message": "[SUCCESS] Processed: 180M \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud55c \uad50\ud1b5 \uad00\ub9ac \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c Hayden AI, \uc804 CEO Chris Carson Jr.\ub97c \uace0\uc18c\ud558\ub2e4\n  > Summary: Hayden AI\ub294 1\uc5b5 8\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud55c \uad50\ud1b5 \uad00\ub9ac \uc2dc\uc2a4\ud15c\uc744 \uac00\uc9c4 \uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54\uc758 AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 15:45:42",
       "message": "[PROCESSING] Analyzing: Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers..."
+    },
+    {
+      "timestamp": "2026-03-06 15:45:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers"
     }
   ]
 }
