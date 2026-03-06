@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 16:50:01",
+  "last_updated": "2026-03-06 16:50:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 16:49:21",
-      "message": "[PROCESSING] Analyzing: The best iPad deals you can get right now..."
-    },
     {
       "timestamp": "2026-03-06 16:49:24",
       "message": "[SKIP] Irrelevant (AI Filter): The best iPad deals you can get right now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 16:50:01",
       "message": "[SUCCESS] Processed: cuTile.jl\uac00 NVIDIA CUDA \ud0c0\uc77c \uae30\ubc18 \ud504\ub85c\uadf8\ub798\ubc0d\uc744 Julia\uc5d0 \ub3c4\uc785\ud558\ub2e4\n  > Summary: NVIDIA CUDA Tile\uc740 CUDA \ud504\ub85c\uadf8\ub798\ubc0d\uc5d0 \uc911\uc694\ud55c \ucd94\uac00 \uae30\ub2a5\uc73c\ub85c, \ud150\uc11c \ucf54\uc5b4 \ubc0f..."
+    },
+    {
+      "timestamp": "2026-03-06 16:50:02",
+      "message": "Reprocessing: Teaching LLMs to reason like Bayesians"
     }
   ]
 }
