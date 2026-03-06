@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 13:32:07",
+  "last_updated": "2026-03-06 13:32:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 13:31:30",
-      "message": "[SUCCESS] Processed: MIPS, GlobalFoundries\uac00 \ubb3c\ub9ac\uc801 AI\uc5d0 \ubca0\ud305\ud558\ub2e4\n  > Summary: MIPS\ub294 \ucd5c\uadfc Synopsys\uc758 ARC \ud504\ub85c\uc138\uc11c IP \ube44\uc988\ub2c8\uc2a4\ub97c \uc778\uc218\ud558\uba74\uc11c \uc784\ubca0\ub514\ub4dc \ud504\ub85c..."
-    },
     {
       "timestamp": "2026-03-06 13:31:31",
       "message": "Reprocessing: RDHx: A Simple, Affordable Path to Lower Data Center Energy Use"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 13:32:07",
       "message": "[PROCESSING] Analyzing: US federal regulators say banks don't need extra capital against losses when dealing with blockchain-based securities, calling their rules \"technology neutral\" (Reuters)..."
+    },
+    {
+      "timestamp": "2026-03-06 13:32:08",
+      "message": "[SKIP] Irrelevant (AI Filter): US federal regulators say banks don't need extra capital against losses when dealing with blockchain-based securities, calling their rules \"technology neutral\" (Reuters)"
     }
   ]
 }
