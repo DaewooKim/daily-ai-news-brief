@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 17:56:57",
+  "last_updated": "2026-03-06 17:56:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 17:56:23",
-      "message": "[PROCESSING] Analyzing: Amazon.com is back up and running after a Thursday night outage..."
-    },
     {
       "timestamp": "2026-03-06 17:56:26",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon.com is back up and running after a Thursday night outage"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 17:56:57",
       "message": "[SUCCESS] Processed: cuTile.jl, NVIDIA CUDA \ud0c0\uc77c \uae30\ubc18 \ud504\ub85c\uadf8\ub798\ubc0d\uc744 \uc904\ub9ac\uc544\uc5d0 \uc81c\uacf5\n  > Summary: NVIDIA CUDA Tile\uc740 NVIDIA CUDA \ud504\ub85c\uadf8\ub798\ubc0d\uc5d0 \uc911\uc694\ud55c \ucd94\uac00 \uae30\ub2a5\uc73c\ub85c, ..."
+    },
+    {
+      "timestamp": "2026-03-06 17:56:59",
+      "message": "Reprocessing: Teaching LLMs to reason like Bayesians"
     }
   ]
 }
