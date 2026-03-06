@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 21:21:57",
+  "last_updated": "2026-03-06 21:21:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 21:21:15",
-      "message": "[SUCCESS] Processed: \ub2e4\uc911 \uc791\uc5c5 \ubd80\ud558\uc5d0 \ub300\ud55c \uba54\ubaa8\ub9ac \ub0b4 AI \uac00\uc18d\uae30 \ucd5c\uc801\ud654 (KAUST, Compumacy)\n  > Summary: KAUST\uc640 Compumacy\uc758 \uc5f0\uad6c\uc790\ub4e4\uc740 \uba54\ubaa8\ub9ac \ub0b4 \uacc4\uc0b0 \uac00\uc18d\uae30\ub97c \uc704\ud55c \ud558\ub4dc\uc6e8\uc5b4-\uc791\uc5c5 \ubd80..."
-    },
     {
       "timestamp": "2026-03-06 21:21:17",
       "message": "Reprocessing: SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 21:21:57",
       "message": "[PROCESSING] Analyzing: \ub4f1\ub300 \ud50c\ub808\uc774\ubd81 (The Lighthouse Playbook)..."
+    },
+    {
+      "timestamp": "2026-03-06 21:21:59",
+      "message": "[SKIP] Irrelevant (AI Filter): \ub4f1\ub300 \ud50c\ub808\uc774\ubd81 (The Lighthouse Playbook)"
     }
   ]
 }
