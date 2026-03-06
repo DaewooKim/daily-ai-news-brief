@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 02:26:43",
+  "last_updated": "2026-03-06 02:26:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 02:26:11",
-      "message": "Found 168 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-06 02:26:11",
       "message": "[PROCESSING] Analyzing: Amazon.com says things are fixed after some issues with logging in and checking out..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 02:26:43",
       "message": "Reprocessing: Ayar Labs Gets $500 Million To Ramp Photonics Into 2028 AI Systems"
+    },
+    {
+      "timestamp": "2026-03-06 02:26:44",
+      "message": "[SKIP] Content too short: Ayar Labs Gets $500 Million To..."
     }
   ]
 }
