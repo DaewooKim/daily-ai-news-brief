@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 03:34:22",
+  "last_updated": "2026-03-06 03:34:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 03:33:48",
-      "message": "[SUCCESS] Processed: cuTile.jl, NVIDIA CUDA \ud0c0\uc77c \uae30\ubc18 \ud504\ub85c\uadf8\ub798\ubc0d\uc744 \uc904\ub9ac\uc544\ub85c \uac00\uc838\uc624\ub2e4\n  > Summary: NVIDIA CUDA Tile\uc740 NVIDIA CUDA \ud504\ub85c\uadf8\ub798\ubc0d\uc758 \uc911\uc694\ud55c \ucd94\uac00 \uc0ac\ud56d\uc73c\ub85c \ud150..."
-    },
     {
       "timestamp": "2026-03-06 03:33:49",
       "message": "Reprocessing: Teaching LLMs to reason like Bayesians"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 03:34:22",
       "message": "Reprocessing: GPT-5.3 Instant System Card"
+    },
+    {
+      "timestamp": "2026-03-06 03:34:23",
+      "message": "[SKIP] Content too short: GPT-5.3 Instant System Card..."
     }
   ]
 }
