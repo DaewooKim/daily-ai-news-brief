@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 17:59:00",
+  "last_updated": "2026-03-06 17:59:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 17:58:22",
-      "message": "Reprocessing: MIPS, GlobalFoundries Bet on Physical AI"
-    },
     {
       "timestamp": "2026-03-06 17:58:23",
       "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 17:59:00",
       "message": "[PROCESSING] Analyzing: Source: the 2024 cyber-attack by the Scattered Spider group on Transport For London resulted in the theft of personal data of ~10M people (Joe Tidy/BBC)..."
+    },
+    {
+      "timestamp": "2026-03-06 17:59:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: the 2024 cyber-attack by the Scattered Spider group on Transport For London resulted in the theft of personal data of ~10M people (Joe Tidy/BBC)"
     }
   ]
 }
