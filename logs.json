@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-06 13:32:34",
+  "last_updated": "2026-03-06 13:32:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-06 13:31:58",
-      "message": "[PROCESSING] Analyzing: Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-06 13:32:02",
       "message": "[SUCCESS] Processed: \uc18c\ud504\ud2b8\ubc45\ud06c, OpenAI \ud22c\uc790 \uc790\uae08 \uc870\ub2ec \uc704\ud574 \ucd5c\ub300 400\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub300\ucd9c \ubaa8\uc0c9\n  > Summary: \uc18c\ud504\ud2b8\ubc45\ud06c \uadf8\ub8f9\uc774 OpenAI\uc5d0 \ub300\ud55c \ud22c\uc790 \uc790\uae08\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ucd5c\ub300 400\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-06 13:32:34",
       "message": "[PROCESSING] Analyzing: Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers..."
+    },
+    {
+      "timestamp": "2026-03-06 13:32:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers"
     }
   ]
 }
