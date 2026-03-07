@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 08:24:59",
+  "last_updated": "2026-03-07 08:25:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 08:23:56",
-      "message": "[PROCESSING] Analyzing: At MWC, Intel Outlines CPU-Driven Case for Telecom Networks..."
-    },
     {
       "timestamp": "2026-03-07 08:23:59",
       "message": "[SUCCESS] Processed: MWC\uc5d0\uc11c \uc778\ud154, \ud1b5\uc2e0 \ub124\ud2b8\uc6cc\ud06c\ub97c \uc704\ud55c CPU \uc911\uc2ec\uc758 \uc0ac\ub840 \uac1c\uc694\n  > Summary: 2026\ub144 \ubc14\ub974\uc140\ub85c\ub098\uc5d0\uc11c \uc5f4\ub9b0 \ubaa8\ubc14\uc77c \uc6d4\ub4dc \ucf69\uadf8\ub808\uc2a4(MWC)\uc5d0\uc11c \uae30\uc220 \uc81c\uacf5\uc5c5\uccb4\ub4e4\uc740 AI \uae30..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 08:24:59",
       "message": "[PROCESSING] Analyzing: Google's TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse (Jessica Lyons/The Register)..."
+    },
+    {
+      "timestamp": "2026-03-07 08:25:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Google's TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse (Jessica Lyons/The Register)"
     }
   ]
 }
