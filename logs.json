@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 09:32:02",
+  "last_updated": "2026-03-07 09:32:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 09:31:26",
-      "message": "[PROCESSING] Analyzing: Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders (Dustin Volz/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-03-07 09:31:29",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders (Dustin Volz/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 09:32:02",
       "message": "[SKIP] Irrelevant (AI Filter): Engineering Considerations for Flexible Heaters in Semiconductor Fabrication"
+    },
+    {
+      "timestamp": "2026-03-07 09:32:04",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
