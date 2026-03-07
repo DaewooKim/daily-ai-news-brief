@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 15:03:09",
+  "last_updated": "2026-03-07 15:03:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 15:02:23",
-      "message": "[PROCESSING] Analyzing: SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry..."
-    },
     {
       "timestamp": "2026-03-07 15:02:29",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc0c1\uc6d0 \uc758\uc6d0 \ud1a0\ub4dc \uc601, \ubbf8\uad6d \uce69 \uc0b0\uc5c5 \uc9c0\uc6d0\uc5d0 \ub300\ud55c \uc815\ubd80 \ub9ac\ub354\uc2ed \uc0c1 \uc218\uc0c1\n  > Summary: SEMI\ub294 \ubbf8\uad6d \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc5d0 \ub300\ud55c extraordinary\ud55c \uc9c0\uc6d0\uc744 \uc778\uc815\ud558\uc5ec \ud1a0\ub4dc \uc601 \uc0c1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 15:03:09",
       "message": "Reprocessing: OpenAI introduces Codex Security to help developers fix software vulnerabilities"
+    },
+    {
+      "timestamp": "2026-03-07 15:03:11",
+      "message": "[SKIP] Content too short: OpenAI introduces Codex Securi..."
     }
   ]
 }
