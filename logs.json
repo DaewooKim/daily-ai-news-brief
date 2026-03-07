@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 18:21:07",
+  "last_updated": "2026-03-07 18:21:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 18:20:30",
-      "message": "[PROCESSING] Analyzing: US investors are pushing Asian fund managers to create special vehicles so they can invest in Asia while avoiding US investment restrictions on Chinese tech (Financial Times)..."
-    },
     {
       "timestamp": "2026-03-07 18:20:32",
       "message": "[SKIP] Irrelevant (AI Filter): US investors are pushing Asian fund managers to create special vehicles so they can invest in Asia while avoiding US investment restrictions on Chinese tech (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 18:21:07",
       "message": "[info] Timestamp updated for: LangChain's CEO argues that better models alone won't get your AI agent to production"
+    },
+    {
+      "timestamp": "2026-03-07 18:21:09",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
