@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 16:08:48",
+  "last_updated": "2026-03-07 16:08:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 16:08:10",
-      "message": "[SKIP] Irrelevant (AI Filter): The US' February jobs report shows the tech sector's post-2022 job losses are now outpacing past downturns in 2008 and 2020 (Business Insider)"
-    },
     {
       "timestamp": "2026-03-07 16:08:11",
       "message": "[PROCESSING] Analyzing: In a Twitter shareholder trial, former CEO Parag Agrawal and CFO Ned Segal disputed Musk's claims that they lied to him about the percentage of spam accounts (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 16:08:48",
       "message": "[SKIP] Irrelevant (AI Filter): CSconnected Announces \u00a31M Investment in Final Call to Supply Chain Development Program"
+    },
+    {
+      "timestamp": "2026-03-07 16:08:49",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
