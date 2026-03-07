@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 15:01:30",
+  "last_updated": "2026-03-07 15:01:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 15:00:56",
-      "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
-    },
     {
       "timestamp": "2026-03-07 15:01:00",
       "message": "[SUCCESS] Processed: MIPS, GlobalFoundries\uac00 \ubb3c\ub9ac\uc801 AI\uc5d0 \ubca0\ud305\ud558\ub2e4\n  > Summary: MIPS\ub294 \ucd5c\uadfc Synopsys\uc758 ARC \ud504\ub85c\uc138\uc11c IP \uc0ac\uc5c5\ubd80\ub97c \uc778\uc218\ud558\uba70 \uc784\ubca0\ub514\ub4dc \ud504\ub85c\uc138\uc11c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 15:01:30",
       "message": "[PROCESSING] Analyzing: The US' February jobs report shows the tech sector's post-2022 job losses are now outpacing past downturns in 2008 and 2020 (Business Insider)..."
+    },
+    {
+      "timestamp": "2026-03-07 15:01:32",
+      "message": "[SKIP] Irrelevant (AI Filter): The US' February jobs report shows the tech sector's post-2022 job losses are now outpacing past downturns in 2008 and 2020 (Business Insider)"
     }
   ]
 }
