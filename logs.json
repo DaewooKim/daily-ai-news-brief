@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 13:55:06",
+  "last_updated": "2026-03-07 13:55:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 13:54:33",
-      "message": "Reprocessing: MIPS, GlobalFoundries Bet on Physical AI"
-    },
     {
       "timestamp": "2026-03-07 13:54:34",
       "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 13:55:06",
       "message": "[PROCESSING] Analyzing: Google's TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse (Jessica Lyons/The Register)..."
+    },
+    {
+      "timestamp": "2026-03-07 13:55:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Google's TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse (Jessica Lyons/The Register)"
     }
   ]
 }
