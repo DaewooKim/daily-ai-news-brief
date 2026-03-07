@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 15:03:05",
+  "last_updated": "2026-03-07 15:03:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 15:02:15",
-      "message": "[PROCESSING] Analyzing: Optimizing In-Memory AI Accelerators Across Multiple Workloads (KAUST, Compumacy)..."
-    },
     {
       "timestamp": "2026-03-07 15:02:21",
       "message": "[SUCCESS] Processed: \uc5ec\ub7ec \uc791\uc5c5\uc5d0 \ub300\ud55c \uc778\uba54\ubaa8\ub9ac AI \uac00\uc18d\uae30 \ucd5c\uc801\ud654 (KAUST, Compumacy)\n  > Summary: KAUST\uc640 Compumacy\uc758 \uc5f0\uad6c\uc9c4\uc740 \uc778\uba54\ubaa8\ub9ac \ucef4\ud4e8\ud305 \uac00\uc18d\uae30\ub97c \uc704\ud55c \ud558\ub4dc\uc6e8\uc5b4-\uc791\uc5c5 \uacf5\ub3d9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 15:03:05",
       "message": "[SKIP] Irrelevant (AI Filter): \ub4f1\ub300 \ud50c\ub808\uc774\ubd81 (The Lighthouse Playbook)"
+    },
+    {
+      "timestamp": "2026-03-07 15:03:07",
+      "message": "Reprocessing: Anthropic launches Claude Marketplace with third-party cloud services"
     }
   ]
 }
