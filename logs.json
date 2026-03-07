@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 00:44:19",
+  "last_updated": "2026-03-07 00:44:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 00:43:54",
-      "message": "[SKIP] Content too short: Exclusive: LucidLink enables c..."
-    },
     {
       "timestamp": "2026-03-07 00:43:55",
       "message": "Reprocessing: Google Threat Intelligence Group warns enterprise systems increasingly targeted by zero-day exploits"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 00:44:19",
       "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-12XS Review A Neat 12-Port 10GbE Managed Switch..."
+    },
+    {
+      "timestamp": "2026-03-07 00:44:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-12XS Review A Neat 12-Port 10GbE Managed Switch"
     }
   ]
 }
