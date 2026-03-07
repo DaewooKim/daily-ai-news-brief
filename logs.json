@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 04:01:21",
+  "last_updated": "2026-03-07 04:01:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 04:00:42",
-      "message": "[PROCESSING] Analyzing: IDC: India's PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments (Jagmeet Singh/TechCrunch)..."
-    },
     {
       "timestamp": "2026-03-07 04:00:44",
       "message": "[SKIP] Irrelevant (AI Filter): IDC: India's PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments (Jagmeet Singh/TechCrunch)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 04:01:21",
       "message": "[SKIP] Irrelevant (AI Filter): Engineering Considerations for Flexible Heaters in Semiconductor Fabrication"
+    },
+    {
+      "timestamp": "2026-03-07 04:01:22",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
