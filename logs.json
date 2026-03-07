@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 00:42:34",
+  "last_updated": "2026-03-07 00:42:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 00:41:53",
-      "message": "[PROCESSING] Analyzing: Nintendo of America sues the US government, seeking a refund with interest for tariffs that the company says Trump implemented in \"unlawful\" EOs (Nicole Carpenter/Aftermath)..."
-    },
     {
       "timestamp": "2026-03-07 00:41:55",
       "message": "[SKIP] Irrelevant (AI Filter): Nintendo of America sues the US government, seeking a refund with interest for tariffs that the company says Trump implemented in \"unlawful\" EOs (Nicole Carpenter/Aftermath)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 00:42:34",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ud074\ub85c\ub4dc \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \ucd9c\uc2dc - \ub9ac\ud50c\ub9bf, \uae43\ub7a9, \ud558\ube44 \ub4f1\uc5d0\uc11c \ud074\ub85c\ub4dc \uae30\ubc18 \ub3c4\uad6c \uc811\uadfc \uc81c\uacf5\n  > Summary: \uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54\uc758 \uc2a4\ud0c0\ud2b8\uc5c5 \uc564\ud2b8\ub85c\ud53d\uc774 \uc0c8\ub85c\uc6b4 AI \uc81c\ud488\uacfc \uc11c\ube44\uc2a4\ub97c \ube60\ub974\uac8c \ucd9c\uc2dc\ud558\uba70 \ud074\ub85c\ub4dc \ub9c8\ucf13..."
+    },
+    {
+      "timestamp": "2026-03-07 00:42:35",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
