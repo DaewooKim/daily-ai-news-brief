@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 10:37:52",
+  "last_updated": "2026-03-07 10:37:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 10:37:17",
-      "message": "[PROCESSING] Analyzing: IDC: India's PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments (Jagmeet Singh/TechCrunch)..."
-    },
     {
       "timestamp": "2026-03-07 10:37:19",
       "message": "[SKIP] Irrelevant (AI Filter): IDC: India's PC market had its strongest year on record in 2025, with shipments up 10.2% YoY to 15.9M units; commercial buyers accounted for 52.9% of shipments (Jagmeet Singh/TechCrunch)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 10:37:52",
       "message": "[PROCESSING] Analyzing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss..."
+    },
+    {
+      "timestamp": "2026-03-07 10:37:58",
+      "message": "[SUCCESS] Processed: \uc2e0\uaddc KV \uce90\uc2dc \uc555\ucd95 \uae30\uc220, \uc815\ud655\ub3c4 \uc190\uc2e4 \uc5c6\uc774 LLM \uba54\ubaa8\ub9ac 50\ubc30 \uc808\uac10\n  > Summary: MIT \uc5f0\uad6c\ud300\uc774 \uac1c\ubc1c\ud55c \uc0c8\ub85c\uc6b4 KV \uce90\uc2dc \uc555\ucd95 \uae30\uc220\uc778 '\uc8fc\ubaa9 \uc77c\uce58'\uac00 LLM\uc758 \uba54\ubaa8\ub9ac\ub97c 5..."
     }
   ]
 }
