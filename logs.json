@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 05:06:45",
+  "last_updated": "2026-03-07 05:06:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 05:06:12",
-      "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
-    },
     {
       "timestamp": "2026-03-07 05:06:16",
       "message": "[SUCCESS] Processed: MIPS, GlobalFoundries Bet on Physical AI\n  > Summary: MIPS\ub294 \ucd5c\uadfc Synopsys\uc758 ARC \ud504\ub85c\uc138\uc11c IP \uc0ac\uc5c5\uc744 \uc778\uc218\ud558\uc5ec \uc784\ubca0\ub514\ub4dc \ud504\ub85c\uc138\uc11c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 05:06:45",
       "message": "[PROCESSING] Analyzing: Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders (Dustin Volz/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-07 05:06:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders (Dustin Volz/Wall Street Journal)"
     }
   ]
 }
