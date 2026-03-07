@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 13:55:57",
+  "last_updated": "2026-03-07 13:55:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 13:55:22",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October (Wall Street Journal)"
-    },
     {
       "timestamp": "2026-03-07 13:55:23",
       "message": "[PROCESSING] Analyzing: Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders (Dustin Volz/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 13:55:57",
       "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
+    },
+    {
+      "timestamp": "2026-03-07 13:55:58",
+      "message": "[PROCESSING] Analyzing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss..."
     }
   ]
 }
