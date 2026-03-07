@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 08:25:02",
+  "last_updated": "2026-03-07 08:25:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 08:24:00",
-      "message": "Reprocessing: MIPS, GlobalFoundries Bet on Physical AI"
-    },
     {
       "timestamp": "2026-03-07 08:24:01",
       "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 08:25:02",
       "message": "[PROCESSING] Analyzing: US investors are pushing Asian fund managers to create special vehicles so they can invest in Asia while avoiding US investment restrictions on Chinese tech (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-03-07 08:25:04",
+      "message": "[SKIP] Irrelevant (AI Filter): US investors are pushing Asian fund managers to create special vehicles so they can invest in Asia while avoiding US investment restrictions on Chinese tech (Financial Times)"
     }
   ]
 }
