@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-07 13:55:56",
+  "last_updated": "2026-03-07 13:55:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-07 13:55:20",
-      "message": "[PROCESSING] Analyzing: Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-03-07 13:55:22",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October (Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-07 13:55:56",
       "message": "[SKIP] Irrelevant (AI Filter): Engineering Considerations for Flexible Heaters in Semiconductor Fabrication"
+    },
+    {
+      "timestamp": "2026-03-07 13:55:57",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
