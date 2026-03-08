@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-08 05:20:05",
+  "last_updated": "2026-03-08 05:20:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-08 05:19:29",
-      "message": "[PROCESSING] Analyzing: A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow (Bobby Allyn/NPR)..."
-    },
     {
       "timestamp": "2026-03-08 05:19:32",
       "message": "[SKIP] Irrelevant (AI Filter): A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow (Bobby Allyn/NPR)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-08 05:20:05",
       "message": "[SKIP] Irrelevant (AI Filter): CSconnected Announces \u00a31M Investment in Final Call to Supply Chain Development Program"
+    },
+    {
+      "timestamp": "2026-03-08 05:20:07",
+      "message": "Reprocessing: New KV cache compaction technique cuts LLM memory 50x without accuracy loss"
     }
   ]
 }
