@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-08 08:36:30",
+  "last_updated": "2026-03-08 08:36:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-08 08:35:55",
-      "message": "Reprocessing: MIPS, GlobalFoundries Bet on Physical AI"
-    },
     {
       "timestamp": "2026-03-08 08:35:56",
       "message": "[PROCESSING] Analyzing: MIPS, GlobalFoundries Bet on Physical AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-08 08:36:30",
       "message": "[PROCESSING] Analyzing: Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B (Cory Weinberg/The Information)..."
+    },
+    {
+      "timestamp": "2026-03-08 08:36:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B (Cory Weinberg/The Information)"
     }
   ]
 }
