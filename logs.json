@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-08 00:55:03",
+  "last_updated": "2026-03-08 00:55:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-08 00:54:30",
-      "message": "[PROCESSING] Analyzing: Introducing GPT-5.4..."
-    },
     {
       "timestamp": "2026-03-08 00:54:34",
       "message": "[SUCCESS] Processed: GPT-5.4 \uc18c\uac1c\n  > Summary: GPT-5.4\ub294 OpenAI\uc758 \ucd5c\uc2e0 \ubaa8\ub378\ub85c, \uc804\ubb38\uc801\uc778 \uc791\uc5c5\uc744 \uc704\ud574 \uc124\uacc4\ub41c \uac00\uc7a5 \uac15\ub825\ud558\uace0 \ud6a8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-08 00:55:03",
       "message": "[PROCESSING] Analyzing: Grammarly\u2019s \u2018expert review\u2019 is just missing the actual experts..."
+    },
+    {
+      "timestamp": "2026-03-08 00:55:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Grammarly\u2019s \u2018expert review\u2019 is just missing the actual experts"
     }
   ]
 }
