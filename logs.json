@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 02:04:03",
+  "last_updated": "2026-03-12 02:04:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 02:03:00",
-      "message": "[SUCCESS] Processed: \uc559\ud2b8\ub85c\ud53d, \ud074\ub85c\ub4dc\ub97c \ud1b5\ud574 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc5d1\uc140\uacfc \ud30c\uc6cc\ud3ec\uc778\ud2b8 \uac04 \uacf5\uc720 \ucee8\ud14d\uc2a4\ud2b8 \uc81c\uacf5\n  > Summary: \uc559\ud2b8\ub85c\ud53d\uc740 \ud074\ub85c\ub4dc AI \ubaa8\ub378\uc5d0 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc744 \ucd94\uac00\ud558\uc5ec \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc5d1\uc140\uacfc \ud30c\uc6cc\ud3ec\uc778\ud2b8 \uac04\uc5d0..."
-    },
     {
       "timestamp": "2026-03-12 02:03:02",
       "message": "[PROCESSING] Analyzing: Google's Gemini Embedding 2 arrives with native multimodal support to cut costs and speed up your enterprise data stack..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 02:04:03",
       "message": "[PROCESSING] Analyzing: IAR Adds Long-Term Support Services to Development Platform..."
+    },
+    {
+      "timestamp": "2026-03-12 02:04:05",
+      "message": "[SKIP] Irrelevant (AI Filter): IAR Adds Long-Term Support Services to Development Platform"
     }
   ]
 }
