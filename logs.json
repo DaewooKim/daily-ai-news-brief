@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 03:08:09",
+  "last_updated": "2026-03-12 03:08:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 03:07:34",
-      "message": "[PROCESSING] Analyzing: Improving instruction hierarchy in frontier LLMs..."
-    },
     {
       "timestamp": "2026-03-12 03:07:37",
       "message": "[SUCCESS] Processed: \ud504\ub860\ud2f0\uc5b4 LLM\uc5d0\uc11c \uc9c0\uc2dc \uacc4\uce35 \uac1c\uc120\n  > Summary: IH-Challenge\ub294 \ubaa8\ub378\uc774 \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \uc9c0\uc2dc\ub97c \uc6b0\uc120\uc2dc\ud558\ub3c4\ub85d \ud6c8\ub828\uc2dc\ucf1c, \uc9c0\uc2dc \uacc4\uce35,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 03:08:09",
       "message": "[PROCESSING] Analyzing: WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net..."
+    },
+    {
+      "timestamp": "2026-03-12 03:08:11",
+      "message": "[SKIP] Irrelevant (AI Filter): WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net"
     }
   ]
 }
