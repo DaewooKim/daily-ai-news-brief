@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 05:24:52",
+  "last_updated": "2026-03-12 05:24:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 05:24:17",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 Promptfoo\ub97c \uc778\uc218\ud558\ub2e4\n  > Summary: OpenAI\ub294 \uac1c\ubc1c \uc911 AI \uc2dc\uc2a4\ud15c\uc758 \ucde8\uc57d\uc810\uc744 \uc2dd\ubcc4\ud558\uace0 \uc218\uc815\ud558\ub294 \ub370 \ub3c4\uc6c0\uc744 \uc8fc\ub294 AI \ubcf4\uc548..."
-    },
     {
       "timestamp": "2026-03-12 05:24:19",
       "message": "Reprocessing: AI \u2018actor\u2019 Tilly Norwood put out the worst song I\u2019ve ever heard"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 05:24:52",
       "message": "[PROCESSING] Analyzing: Beyond the Backplate: Optical MEMS Microphones Unlock High-fidelity Audio..."
+    },
+    {
+      "timestamp": "2026-03-12 05:24:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Beyond the Backplate: Optical MEMS Microphones Unlock High-fidelity Audio"
     }
   ]
 }
