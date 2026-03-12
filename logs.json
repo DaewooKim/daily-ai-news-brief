@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 22:27:11",
+  "last_updated": "2026-03-12 22:27:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 22:26:30",
-      "message": "[PROCESSING] Analyzing: Adobe CEO Shantanu Narayen will step down after a successor is named; he became CEO in 2007 and will remain as chair of the board; ADBE drops 6%+ after hours (Jordan Novet/CNBC)..."
-    },
     {
       "timestamp": "2026-03-12 22:26:34",
       "message": "[SKIP] Irrelevant (AI Filter): Adobe CEO Shantanu Narayen will step down after a successor is named; he became CEO in 2007 and will remain as chair of the board; ADBE drops 6%+ after hours (Jordan Novet/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 22:27:11",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-12 22:27:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
