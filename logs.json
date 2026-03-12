@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 11:05:12",
+  "last_updated": "2026-03-12 11:05:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 11:04:38",
-      "message": "[SUCCESS] Processed: AI\uc640 Lean \uc5b8\uc5b4\ub97c \uc0ac\uc6a9\ud558\uc5ec \ucf54\ub4dc\ub97c \uac80\uc99d\ud558\ub294 Axiom Math, 20\uc5b5 \ub2ec\ub7ec \uac00\uce58\ub85c 2\uc5b5 \ub2ec\ub7ec \uc870\ub2ec\n  > Summary: Axiom Math\ub294 AI\uc640 Lean \uc5b8\uc5b4\ub97c \ud65c\uc6a9\ud558\uc5ec \uc218\ud559 \ubb38\uc81c\ub97c \uc99d\uba85\ud558\ub294 \ubc29\uc2dd\uc73c\ub85c \ucf54\ub4dc\ub97c..."
-    },
     {
       "timestamp": "2026-03-12 11:04:39",
       "message": "[PROCESSING] Analyzing: Mastercard unveils a Crypto Partner Program with 85+ companies, including Binance, PayPal, and Ripple, to link blockchain tech with its payments infrastructure (CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 11:05:12",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-12 11:05:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
