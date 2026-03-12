@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 01:53:36",
+  "last_updated": "2026-03-12 01:53:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 01:52:49",
-      "message": "Found 170 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-12 01:52:49",
       "message": "[PROCESSING] Analyzing: One of Grammarly\u2019s \u2018experts\u2019 is suing the company over its identity-stealing AI feature..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 01:53:36",
       "message": "[PROCESSING] Analyzing: Alternative app store AltStore PAL is joining the fediverse..."
+    },
+    {
+      "timestamp": "2026-03-12 01:53:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Alternative app store AltStore PAL is joining the fediverse"
     }
   ]
 }
