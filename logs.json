@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 16:51:44",
+  "last_updated": "2026-03-12 16:51:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 16:50:52",
-      "message": "[PROCESSING] Analyzing: The team behind continuous batching says your idle GPUs should be running inference, not sitting dark..."
-    },
     {
       "timestamp": "2026-03-12 16:50:57",
       "message": "[SUCCESS] Processed: \uc9c0\uc18d \ubc30\uce58 \ud300\uc740 \uc720\ud734 GPU\uac00 \uc5b4\ub461\uac8c \uc549\uc544 \uc788\uc9c0 \ub9d0\uace0 \ucd94\ub860\uc744 \uc2e4\ud589\ud574\uc57c \ud55c\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4\n  > Summary: FriendliAI\ub294 \uc720\ud734 GPU \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c \ucd94\ub860 \uc791\uc5c5\uc744 \uc2e4\ud589\ud558\uc5ec \uc789\uc5ec \ud558\ub4dc\uc6e8\uc5b4\ub97c \uc218\uc775\ud654..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 16:51:44",
       "message": "[SKIP] Irrelevant (AI Filter): \uc804\ub7b5\uc801 \uc120\ud0dd: \ub450 \uac00\uc9c0 \uc635\uc158\uc774 \ubaa8\ub450 \uc88b\uc744 \ub54c"
+    },
+    {
+      "timestamp": "2026-03-12 16:51:45",
+      "message": "[SKIP] Content too short: From GPU clusters to AI factor..."
     }
   ]
 }
