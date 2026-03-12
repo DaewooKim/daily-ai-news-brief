@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 13:19:53",
+  "last_updated": "2026-03-12 13:19:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 13:19:13",
-      "message": "[SUCCESS] Processed: TI, \uc138 \ubc88\uc9f8 MCU \ud328\ubc00\ub9ac\uc5d0 NPU \ucd94\uac00\n  > Summary: 2026\ub144 \uc784\ubca0\ub514\ub4dc \uc6d4\ub4dc\uc5d0\uc11c TI\ub294 AM13E230x\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uc2e4\uc2dc\uac04 \ub9c8\uc774\ud06c\ub85c\ucee8\ud2b8\ub864\ub7ec \ud328..."
-    },
     {
       "timestamp": "2026-03-12 13:19:14",
       "message": "[PROCESSING] Analyzing: d-Matrix, Gimlet Labs Partner to Boost Agentic AI Inference Performance..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 13:19:53",
       "message": "[PROCESSING] Analyzing: IDS and ADRN study: 11 African governments spent $2B+ on Chinese-built surveillance tech that recognizes faces and monitors movements; Nigeria spent $470M (Kaamil Ahmed/The Guardian)..."
+    },
+    {
+      "timestamp": "2026-03-12 13:19:55",
+      "message": "[SKIP] Irrelevant (AI Filter): IDS and ADRN study: 11 African governments spent $2B+ on Chinese-built surveillance tech that recognizes faces and monitors movements; Nigeria spent $470M (Kaamil Ahmed/The Guardian)"
     }
   ]
 }
