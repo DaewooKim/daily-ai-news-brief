@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-12 21:23:54",
-  "status": "idle",
+  "last_updated": "2026-03-12 22:24:23",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-12 21:22:34",
-      "message": "[SKIP] Content too short: Grammarly shuts down \u2018Expert R..."
+      "timestamp": "2026-03-12 22:24:10",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-12 21:22:36",
-      "message": "Reprocessing: Anthropic launches an institute to tackle AI risks"
+      "timestamp": "2026-03-12 22:24:11",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-12 21:22:37",
-      "message": "[SKIP] Content too short: Anthropic launches an institut..."
+      "timestamp": "2026-03-12 22:24:11",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-12 21:22:38",
-      "message": "Reprocessing: Nvidia\u2019s Nemotron Super 3 model for agentic systems launches with five times higher throughput"
+      "timestamp": "2026-03-12 22:24:23",
+      "message": "Found 181 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-12 21:22:40",
-      "message": "[SKIP] Content too short: Nvidia\u2019s Nemotron Super 3 mode..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:41",
-      "message": "Reprocessing: Rivian\u2019s industrial automation spinoff Mind Robotics secures $500M in funding"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:42",
-      "message": "[SKIP] Content too short: Rivian\u2019s industrial automation..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:44",
-      "message": "Reprocessing: Despite an earnings beat and solid guidance, UiPath\u2019s stock slides after hours"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:45",
-      "message": "[SKIP] Content too short: Despite an earnings beat and s..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:47",
-      "message": "Reprocessing: Meta debuts internally developed AI chips for inference workloads"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:48",
-      "message": "[SKIP] Content too short: Meta debuts internally develop..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:49",
-      "message": "Reprocessing: Zendesk announces deal to acquire customer support AI startup Forethought"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:51",
-      "message": "[SKIP] Content too short: Zendesk announces deal to acqu..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:52",
-      "message": "Reprocessing: Cybersecurity startup Kai raises $125M to build agent-driven AI security platform"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:53",
-      "message": "[SKIP] Content too short: Cybersecurity startup Kai rais..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:55",
-      "message": "Reprocessing: The convergence crisis: Why AI adoption demands a new architectural blueprint"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:56",
-      "message": "[SKIP] Content too short: The convergence crisis: Why AI..."
-    },
-    {
-      "timestamp": "2026-03-12 21:22:57",
-      "message": "Reprocessing: Nvidia invests $2B in AI cloud operator Nebius"
-    },
-    {
-      "timestamp": "2026-03-12 21:22:59",
-      "message": "[SKIP] Content too short: Nvidia invests $2B in AI cloud..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:00",
-      "message": "Reprocessing: Four insights you may have missed from theCUBE\u2019s coverage of MWC Barcelona"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:01",
-      "message": "[SKIP] Content too short: Four insights you may have mis..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:03",
-      "message": "Reprocessing: Databricks launches data engineering copilot and acquires agent evaluation startup Quotient AI"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:04",
-      "message": "[SKIP] Content too short: Databricks launches data engin..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:05",
-      "message": "Reprocessing: What to expect at KubeCon + CloudNativeCon EU: Join theCUBE March 24\u201326"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:07",
-      "message": "[SKIP] Content too short: What to expect at KubeCon + Cl..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:08",
-      "message": "Reprocessing: Observability rises as AI factories push infrastructure limits"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:09",
-      "message": "[SKIP] Content too short: Observability rises as AI fact..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:11",
-      "message": "Reprocessing: Scaling AI agents in production \u2014 how HCLTech and Google Cloud are driving enterprise adoption"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:12",
-      "message": "[SKIP] Content too short: Scaling AI agents in productio..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:14",
-      "message": "Reprocessing: What to expect during the AWS Pi Day 20th Year Celebration: Join theCUBE March 14"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:15",
-      "message": "[SKIP] Content too short: What to expect during the AWS ..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:16",
-      "message": "Reprocessing: F5 announces platform-wide upgrades including Insight observability and AI security tools"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:18",
-      "message": "[SKIP] Content too short: F5 announces platform-wide upg..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:19",
-      "message": "Reprocessing: Canva\u2019s Magic Layers breathes new life into flat and AI-generated images"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:21",
-      "message": "[SKIP] Content too short: Canva\u2019s Magic Layers breathes ..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:22",
-      "message": "Reprocessing: New memory architecture targets AI inference bottlenecks"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:23",
-      "message": "[SKIP] Content too short: New memory architecture target..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:25",
-      "message": "Reprocessing: AMD Expands Ryzen AI Embedded P100 Family With 8 to 12 Core Parts"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:26",
-      "message": "[PROCESSING] Analyzing: AMD Expands Ryzen AI Embedded P100 Family With 8 to 12 Core Parts..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:30",
-      "message": "[SUCCESS] Processed: AMD, 8~12 \ucf54\uc5b4 \ubd80\ud488\uc73c\ub85c Ryzen AI Embedded P100 \ud328\ubc00\ub9ac \ud655\uc7a5\n  > Summary: AMD\uac00 Ryzen AI Embedded P100 \uc81c\ud488\uad70\uc744 \ud655\uc7a5\ud558\uba70 8\ucf54\uc5b4 \ubc0f 12\ucf54\uc5b4 \ubd80..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:31",
-      "message": "[PROCESSING] Analyzing: GigaPlus GP-S50-0800 Review An 8-Port 5GbE Switch..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:33",
-      "message": "[SKIP] Irrelevant (AI Filter): GigaPlus GP-S50-0800 Review An 8-Port 5GbE Switch"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:35",
-      "message": "Reprocessing: Continuous AI for accessibility: How GitHub transforms feedback into inclusion"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:36",
-      "message": "[PROCESSING] Analyzing: Continuous AI for accessibility: How GitHub transforms feedback into inclusion..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:41",
-      "message": "[SUCCESS] Processed: \uc811\uadfc\uc131\uc744 \uc704\ud55c \uc9c0\uc18d\uc801\uc778 AI: GitHub\uac00 \ud53c\ub4dc\ubc31\uc744 \ud3ec\uc6a9\uc73c\ub85c \ubcc0\ubaa8\uc2dc\ud0a4\ub294 \ubc29\ubc95\n  > Summary: GitHub\ub294 \uc811\uadfc\uc131 \ud53c\ub4dc\ubc31\uc744 \ud6a8\uc728\uc801\uc73c\ub85c \ucc98\ub9ac\ud558\uae30 \uc704\ud574 \uc0c8\ub85c\uc6b4 \uc2dc\uc2a4\ud15c\uc744 \uad6c\ucd95\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:43",
-      "message": "[PROCESSING] Analyzing: Under the hood: Security architecture of GitHub Agentic Workflows..."
-    },
-    {
-      "timestamp": "2026-03-12 21:23:45",
-      "message": "[SKIP] Irrelevant (AI Filter): Under the hood: Security architecture of GitHub Agentic Workflows"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:46",
-      "message": "Completed! New: 1, Updated: 58"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:50",
-      "message": "Saved 59 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-12 21:23:53",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-12 22:24:23",
+      "message": "[PROCESSING] Analyzing: Google Chrome is coming to Arm-powered Linux devices later this year..."
     }
   ]
 }
