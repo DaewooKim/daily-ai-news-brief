@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 18:00:06",
+  "last_updated": "2026-03-12 18:00:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 17:59:21",
-      "message": "Reprocessing: The team behind continuous batching says your idle GPUs should be running inference, not sitting dark"
-    },
     {
       "timestamp": "2026-03-12 17:59:23",
       "message": "[PROCESSING] Analyzing: The team behind continuous batching says your idle GPUs should be running inference, not sitting dark..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 18:00:06",
       "message": "[SKIP] Irrelevant (AI Filter): \uc804\ub7b5\uc801 \uc120\ud0dd: \ub450 \uac00\uc9c0 \uc635\uc158\uc774 \ubaa8\ub450 \uc88b\uc744 \ub54c"
+    },
+    {
+      "timestamp": "2026-03-12 18:00:07",
+      "message": "[SKIP] Content too short: Genspark launches Claw AI assi..."
     }
   ]
 }
