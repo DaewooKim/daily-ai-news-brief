@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 22:29:12",
+  "last_updated": "2026-03-12 22:29:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 22:28:41",
-      "message": "[PROCESSING] Analyzing: AMD Powers SolidRun's COM Express Type 6 Modules..."
-    },
     {
       "timestamp": "2026-03-12 22:28:47",
       "message": "[SUCCESS] Processed: AMD\uac00 SolidRun\uc758 COM Express Type 6 \ubaa8\ub4c8\uc744 \uc9c0\uc6d0\ud558\ub2e4\n  > Summary: SolidRun Ltd.\ub294 2026\ub144 Embedded World\uc5d0\uc11c AMD\uc758 Ryzen A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 22:29:12",
       "message": "Reprocessing: Kubernetes Ingress is hitting a transition point, and platform teams need a bigger strategy"
+    },
+    {
+      "timestamp": "2026-03-12 22:29:14",
+      "message": "[SKIP] Content too short: Kubernetes Ingress is hitting ..."
     }
   ]
 }
