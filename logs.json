@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 01:55:49",
+  "last_updated": "2026-03-12 01:55:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 01:55:09",
-      "message": "[SUCCESS] Processed: OpenAI, Promptfoo \uc778\uc218\n  > Summary: OpenAI\uac00 \uae30\uc5c5\ub4e4\uc774 AI \uc2dc\uc2a4\ud15c\uc758 \uac1c\ubc1c \uc911 \ucde8\uc57d\uc810\uc744 \uc2dd\ubcc4\ud558\uace0 \uc218\uc815\ud560 \uc218 \uc788\ub3c4\ub85d \ub3d5\ub294 A..."
-    },
     {
       "timestamp": "2026-03-12 01:55:10",
       "message": "[PROCESSING] Analyzing: AI \u2018actor\u2019 Tilly Norwood put out the worst song I\u2019ve ever heard..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 01:55:49",
       "message": "[PROCESSING] Analyzing: Amazon expands a program that lets customers shop from other retailers\u2019 sites..."
+    },
+    {
+      "timestamp": "2026-03-12 01:55:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon expands a program that lets customers shop from other retailers\u2019 sites"
     }
   ]
 }
