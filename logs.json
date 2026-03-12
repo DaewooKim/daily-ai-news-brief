@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 13:17:19",
+  "last_updated": "2026-03-12 13:17:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 13:16:28",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-12 13:16:41",
       "message": "Found 175 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 13:17:19",
       "message": "[PROCESSING] Analyzing: The Live Nation settlement has industry insiders baffled..."
+    },
+    {
+      "timestamp": "2026-03-12 13:17:22",
+      "message": "[SKIP] Irrelevant (AI Filter): The Live Nation settlement has industry insiders baffled"
     }
   ]
 }
