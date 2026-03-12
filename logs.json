@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 13:20:40",
+  "last_updated": "2026-03-12 13:20:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 13:19:56",
-      "message": "Reprocessing: Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation (Cade Metz/New York Times)"
-    },
     {
       "timestamp": "2026-03-12 13:19:58",
       "message": "[PROCESSING] Analyzing: Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation (Cade Metz/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 13:20:40",
       "message": "[PROCESSING] Analyzing: Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032..."
+    },
+    {
+      "timestamp": "2026-03-12 13:20:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032"
     }
   ]
 }
