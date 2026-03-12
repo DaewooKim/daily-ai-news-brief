@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 11:04:55",
+  "last_updated": "2026-03-12 11:04:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 11:04:17",
-      "message": "[SUCCESS] Processed: HPE, \uc8fc\ub2c8\ud37c\uac00 \uc774\ub044\ub294 \ub124\ud2b8\uc6cc\ud0b9 \ud638\ud669\uacfc \ud568\uaed8 AI \ubb3c\uacb0 \ud0c8\ud658\n  > Summary: IT \uc778\ud504\ub77c \ub300\uae30\uc5c5 HPE\uac00 \uc608\uc0c1\uc744 \uc6c3\ub3c4\ub294 1\ubd84\uae30 \uc2e4\uc801\uc744 \uae30\ub85d\ud558\uba70, \uc8fc\ub2c8\ud37c \uc778\uc218\ub85c \uc5bb\uc740 \uc774..."
-    },
     {
       "timestamp": "2026-03-12 11:04:18",
       "message": "[PROCESSING] Analyzing: Google Research launches Groundsource, a geo-tagged time series dataset created by using Gemini to extract 2.6M flood events from 5M historical news articles (Tim Fernholz/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 11:04:55",
       "message": "[PROCESSING] Analyzing: Sources: India is drafting new smartphone manufacturing incentives linking subsidies to exports and greater use of local components, benefiting Apple and others (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-12 11:04:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: India is drafting new smartphone manufacturing incentives linking subsidies to exports and greater use of local components, benefiting Apple and others (Bloomberg)"
     }
   ]
 }
