@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 15:42:00",
+  "last_updated": "2026-03-12 15:42:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 15:41:05",
-      "message": "[PROCESSING] Analyzing: Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032..."
-    },
     {
       "timestamp": "2026-03-12 15:41:07",
       "message": "[SKIP] Irrelevant (AI Filter): Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 15:42:00",
       "message": "[SUCCESS] Processed: ACM \ub9ac\uc11c\uce58, \uc5ec\ub7ec \uac1c\uc758 \uace0\uae09 \ud328\ud0a4\uc9d5 \uc7a5\ube44 \uc8fc\ubb38 \uc218\ub839\n  > Summary: ACM \ub9ac\uc11c\uce58\ub294 \ubc18\ub3c4\uccb4 \ubc0f \uace0\uae09 \ud328\ud0a4\uc9d5 \uc751\uc6a9\uc744 \uc704\ud55c \uc6e8\uc774\ud37c \ubc0f \ud328\ub110 \ucc98\ub9ac \uc194\ub8e8\uc158 \uacf5\uae09\uc5c5\uccb4\ub85c..."
+    },
+    {
+      "timestamp": "2026-03-12 15:42:02",
+      "message": "Reprocessing: The team behind continuous batching says your idle GPUs should be running inference, not sitting dark"
     }
   ]
 }
