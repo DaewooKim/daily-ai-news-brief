@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-12 02:06:02",
-  "status": "idle",
+  "last_updated": "2026-03-12 03:06:31",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-12 02:04:33",
-      "message": "[SKIP] Irrelevant (AI Filter): \uc804\ub7b5\uc801 \uc120\ud0dd: \ub450 \uac00\uc9c0 \uc635\uc158\uc774 \ubaa8\ub450 \uc88b\uc744 \ub54c"
+      "timestamp": "2026-03-12 03:06:18",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-12 02:04:34",
-      "message": "[SKIP] Content too short: Grammarly shuts down \u2018Expert R..."
+      "timestamp": "2026-03-12 03:06:19",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-12 02:04:36",
-      "message": "[SKIP] Content too short: Anthropic launches an institut..."
+      "timestamp": "2026-03-12 03:06:19",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-12 02:04:37",
-      "message": "[SKIP] Content too short: Nvidia\u2019s Nemotron Super 3 mode..."
+      "timestamp": "2026-03-12 03:06:31",
+      "message": "Found 170 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-12 02:04:38",
-      "message": "[SKIP] Content too short: Rivian\u2019s industrial automation..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:39",
-      "message": "[SKIP] Content too short: Despite an earnings beat and s..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:41",
-      "message": "[SKIP] Content too short: Meta debuts internally develop..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:42",
-      "message": "[SKIP] Content too short: Zendesk announces deal to acqu..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:43",
-      "message": "[SKIP] Content too short: Cybersecurity startup Kai rais..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:45",
-      "message": "[SKIP] Content too short: The convergence crisis: Why AI..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:46",
-      "message": "[SKIP] Content too short: Nvidia invests $2B in AI cloud..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:47",
-      "message": "[SKIP] Content too short: Four insights you may have mis..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:49",
-      "message": "[SKIP] Content too short: Databricks launches data engin..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:50",
-      "message": "[SKIP] Content too short: What to expect at KubeCon + Cl..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:51",
-      "message": "[SKIP] Content too short: Observability rises as AI fact..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:53",
-      "message": "[SKIP] Content too short: Scaling AI agents in productio..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:54",
-      "message": "[SKIP] Content too short: What to expect during the AWS ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:55",
-      "message": "[SKIP] Content too short: F5 announces platform-wide upg..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:57",
-      "message": "[SKIP] Content too short: Canva\u2019s Magic Layers breathes ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:58",
-      "message": "[SKIP] Content too short: New memory architecture target..."
-    },
-    {
-      "timestamp": "2026-03-12 02:04:59",
-      "message": "[SKIP] Content too short: Xscape debuts its first laser-..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:01",
-      "message": "[SKIP] Content too short: IO River introduces edge secur..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:02",
-      "message": "[SKIP] Content too short: Zymtrace raises $12.2M to opti..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:04",
-      "message": "[SKIP] Content too short: Netskope launches Netskope One..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:05",
-      "message": "[SKIP] Content too short: Fortanix expands Data Security..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:06",
-      "message": "[SKIP] Content too short: Ctera collapses boundary betwe..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:08",
-      "message": "[SKIP] Content too short: Meta told by Oversight Board b..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:09",
-      "message": "[SKIP] Content too short: Legora raises $550M to fuel U...."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:10",
-      "message": "[SKIP] Content too short: AI networking startup Nexthop ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:12",
-      "message": "[SKIP] Content too short: Meta Platforms buys Moltbook, ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:13",
-      "message": "[SKIP] Content too short: Kevin Mandia\u2019s Armadin raises ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:14",
-      "message": "[PROCESSING] Analyzing: Checking out the Supermicro NVIDIA B300 Solutions and What it Takes to Build an AI Factory..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:18",
-      "message": "[SUCCESS] Processed: \uc288\ud37c\ub9c8\uc774\ud06c\ub85c NVIDIA B300 \uc194\ub8e8\uc158 \ubc0f AI \uacf5\uc7a5 \uad6c\ucd95\uc5d0 \ud544\uc694\ud55c \uac83 \uc0b4\ud3b4\ubcf4\uae30\n  > Summary: \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 \uc288\ud37c\ub9c8\uc774\ud06c\ub85c\uc758 NVIDIA B300 \uc138\ub300\uc640 NVIDIA B200 \uc138\ub300\uc758 \ube44\uad50..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:20",
-      "message": "[PROCESSING] Analyzing: Intel Intros Core Ultra 250K and 270K Plus Chips Refreshing Desktop Arrow Lake for Enthusiasts..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:24",
-      "message": "[SUCCESS] Processed: \uc778\ud154, Enthusiasts\ub97c \uc704\ud55c \ub370\uc2a4\ud06c\ud0d1 \uc560\ub85c\uc6b0 \ub808\uc774\ud06c\ub97c \uc0c8\ub86d\uac8c \ud55c \ucf54\uc5b4 \uc6b8\ud2b8\ub77c 250K \ubc0f 270K \ud50c\ub7ec\uc2a4 \uce69 \uc18c\uac1c\n  > Summary: \uc778\ud154\uc740 \ucd5c\uc2e0 \ucf54\uc5b4 \uc6b8\ud2b8\ub77c 250K \ubc0f 270K \ud50c\ub7ec\uc2a4 \uce69\uc744 \ucd9c\uc2dc\ud558\uba70, \uc560\ub85c\uc6b0 \ub808\uc774\ud06c \ub77c\uc778\uc5c5..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:25",
-      "message": "[PROCESSING] Analyzing: Broadcom Launches Taurus BCM83640 A 3nm 400G Per Lane Optical DSP..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:29",
-      "message": "[SUCCESS] Processed: \ube0c\ub85c\ub4dc\ucef4, \ud0c0\uc6b0\ub8e8\uc2a4 BCM83640 3nm 400G \uad11 DSP \ucd9c\uc2dc\n  > Summary: \ube0c\ub85c\ub4dc\ucef4\uc774 \ucc28\uc138\ub300 \uace0\ubc00\ub3c4 \ubc0f \uace0\uc18d AI \ub124\ud2b8\uc6cc\ud0b9\uc744 \uc704\ud55c 3nm 400G PAM4 DSP\uc778 ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:30",
-      "message": "[PROCESSING] Analyzing: Lenovo ThinkStation PGX Review The NVIDIA GB10 128GB AI Workstation Goes Corporate..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:34",
-      "message": "[SUCCESS] Processed: \ub808\ub178\ubc84 \uc53d\ud06c\uc2a4\ud14c\uc774\uc158 PGX \ub9ac\ubdf0: NVIDIA GB10 128GB AI \uc6cc\ud06c\uc2a4\ud14c\uc774\uc158\uc774 \uae30\uc5c5\uc73c\ub85c \uac04\ub2e4\n  > Summary: \ub808\ub178\ubc84 \uc53d\ud06c\uc2a4\ud14c\uc774\uc158 PGX\ub294 NVIDIA GB10 \uae30\ubc18\uc758 128GB \uc18c\ud615 AI \uc6cc\ud06c\uc2a4\ud14c\uc774\uc158..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:35",
-      "message": "[PROCESSING] Analyzing: AMD Expands Ryzen AI Embedded P100 Family With 8 to 12 Core Parts..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:39",
-      "message": "[SUCCESS] Processed: AMD, 8-12 \ucf54\uc5b4 \ubd80\ud488\uc73c\ub85c Ryzen AI \uc784\ubca0\ub514\ub4dc P100 \ud328\ubc00\ub9ac \ud655\uc7a5\n  > Summary: AMD\ub294 \uc131\ub2a5 \uacc4\uce35\uc744 \uc0c8\ub86d\uac8c \ub300\uc751\ud558\uae30 \uc704\ud574 8\ucf54\uc5b4 \ubc0f 12\ucf54\uc5b4 \ubd80\ud488\uc73c\ub85c \uad6c\uc131\ub41c Ryzen ..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:40",
-      "message": "[PROCESSING] Analyzing: GigaPlus GP-S50-0800 Review An 8-Port 5GbE Switch..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:42",
-      "message": "[SKIP] Irrelevant (AI Filter): GigaPlus GP-S50-0800 Review An 8-Port 5GbE Switch"
-    },
-    {
-      "timestamp": "2026-03-12 02:05:44",
-      "message": "[PROCESSING] Analyzing: The era of \u201cAI as text\u201d is over. Execution is the new interface...."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:50",
-      "message": "[SUCCESS] Processed: AI\ub294 \ud14d\uc2a4\ud2b8\ub85c \ub05d\ub0ac\ub2e4. \uc2e4\ud589\uc774 \uc0c8\ub85c\uc6b4 \uc778\ud130\ud398\uc774\uc2a4\ub2e4.\n  > Summary: \ucd5c\uadfc 2\ub144 \ub3d9\uc548 \ub9ce\uc740 \ud300\ub4e4\uc774 AI\uc640 \ud14d\uc2a4\ud2b8 \uc785\ub825\uacfc \ucd9c\ub825\uc73c\ub85c \uc0c1\ud638\uc791\uc6a9\ud574\uc654\uc73c\ub098, \uc774\uc81c\ub294 Git..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:51",
-      "message": "[PROCESSING] Analyzing: Under the hood: Security architecture of GitHub Agentic Workflows..."
-    },
-    {
-      "timestamp": "2026-03-12 02:05:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Under the hood: Security architecture of GitHub Agentic Workflows"
-    },
-    {
-      "timestamp": "2026-03-12 02:05:54",
-      "message": "Completed! New: 135, Updated: 0"
-    },
-    {
-      "timestamp": "2026-03-12 02:05:58",
-      "message": "Saved 135 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-12 02:06:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-12 03:06:31",
+      "message": "[PROCESSING] Analyzing: iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID..."
     }
   ]
 }
