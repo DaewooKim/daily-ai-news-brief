@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 19:05:53",
+  "last_updated": "2026-03-12 19:05:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 19:05:16",
-      "message": "[PROCESSING] Analyzing: Michael Dell says \"I don't think a company can dictate to a sovereign government what it does with its tools\", responding to a question on the Anthropic feud (Maggie Eastland/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-12 19:05:18",
       "message": "[SKIP] Irrelevant (AI Filter): Michael Dell says \"I don't think a company can dictate to a sovereign government what it does with its tools\", responding to a question on the Anthropic feud (Maggie Eastland/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 19:05:53",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-12 19:05:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
