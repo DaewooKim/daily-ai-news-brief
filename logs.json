@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-12 15:40:43",
+  "last_updated": "2026-03-12 15:40:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-12 15:39:43",
-      "message": "[PROCESSING] Analyzing: Qdrant, which develops an open-source vector search engine for production AI systems, raised a $50M Series B led by AVP (Tamara Djurickovic/Tech.eu)..."
-    },
     {
       "timestamp": "2026-03-12 15:39:49",
       "message": "[SUCCESS] Processed: \uc0dd\uc0b0 AI \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c \uc624\ud508\uc18c\uc2a4 \ubca1\ud130 \uac80\uc0c9 \uc5d4\uc9c4\uc744 \uac1c\ubc1c\ud558\ub294 Qdrant, AVP \uc8fc\ub3c4\ub85c 5000\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \ud380\ub529\uc744 \uc9c4\ud589\ud558\ub2e4\n  > Summary: Qdrant\ub294 \uc0dd\uc0b0 AI \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c \uc624\ud508\uc18c\uc2a4 \ubca1\ud130 \uac80\uc0c9 \uc5d4\uc9c4\uc744 \uac1c\ubc1c\ud558\ub294 \ud68c\uc0ac\ub85c, AVP..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-12 15:40:43",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-12 15:40:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
