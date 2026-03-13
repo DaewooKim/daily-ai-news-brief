@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 21:44:38",
+  "last_updated": "2026-03-13 21:44:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 21:43:51",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-13 21:43:51",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 21:44:38",
       "message": "[PROCESSING] Analyzing: Amazon Prime Video nearly doubles the price to go ad-free and stream 4K video..."
+    },
+    {
+      "timestamp": "2026-03-13 21:44:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon Prime Video nearly doubles the price to go ad-free and stream 4K video"
     }
   ]
 }
