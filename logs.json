@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 05:06:10",
+  "last_updated": "2026-03-13 05:06:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 05:05:38",
-      "message": "[SKIP] Irrelevant (AI Filter): Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a \"remote wipe\" command against all connected devices (Brian Krebs/Krebs on Security)"
-    },
     {
       "timestamp": "2026-03-13 05:05:40",
       "message": "[PROCESSING] Analyzing: The European Commission says \"X has submitted remedies in relation to its blue check mark\" in the EU and the commission will \"assess\" the proposed remedies (Gian Volpicelli/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 05:06:10",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-13 05:06:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
