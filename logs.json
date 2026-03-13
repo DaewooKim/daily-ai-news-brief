@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 16:12:30",
+  "last_updated": "2026-03-13 16:12:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 16:11:49",
-      "message": "[SUCCESS] Processed: \uc624\ud508\uc18c\uc2a4 AI, \ube44\uc6a9 \uc0c1\uc2b9\uc73c\ub85c \uc18c\ud615 \ubaa8\ub378\ub85c\uc758 \uc804\ud658\uc774 \uc774\ub8e8\uc5b4\uc9c0\uba70 \uc131\uc7a5\ud558\ub2e4\n  > Summary: AI \uc2dc\uc2a4\ud15c\uc774 \uc790\ubcf8 \uc9d1\uc57d\uc801\uc778 LLM\uc5d0\uc11c \ubc97\uc5b4\ub098\uba74\uc11c, \uc791\uc740 \uc5b8\uc5b4 \ubaa8\ub378(SLM)\uc774 \uc624\ud508-\uc6e8\uc774\ud2b8..."
-    },
     {
       "timestamp": "2026-03-13 16:11:50",
       "message": "Reprocessing: NTT Lands 115 MW in Data Center Deals as Part of $10B AI Push"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 16:12:30",
       "message": "[PROCESSING] Analyzing: Sources: HSBC and Standard Chartered are set to be among the first licensed stablecoin issuers in Hong Kong, as the city pushes to become a crypto hub (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-13 16:12:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: HSBC and Standard Chartered are set to be among the first licensed stablecoin issuers in Hong Kong, as the city pushes to become a crypto hub (Bloomberg)"
     }
   ]
 }
