@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-13 04:03:13",
-  "status": "idle",
+  "last_updated": "2026-03-13 05:03:40",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-13 04:01:55",
-      "message": "[SKIP] Content too short: Intelligent service: Salesforc..."
+      "timestamp": "2026-03-13 05:03:27",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-13 04:01:57",
-      "message": "Reprocessing: Translucent raises $27M to help healthcare firms automate financial visibility"
+      "timestamp": "2026-03-13 05:03:28",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-13 04:01:58",
-      "message": "[SKIP] Content too short: Translucent raises $27M to hel..."
+      "timestamp": "2026-03-13 05:03:28",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-13 04:02:00",
-      "message": "Reprocessing: Genspark launches Claw AI assistant as secure alternative to open agent platforms such as OpenClaw"
+      "timestamp": "2026-03-13 05:03:40",
+      "message": "Found 183 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-13 04:02:01",
-      "message": "[SKIP] Content too short: Genspark launches Claw AI assi..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:02",
-      "message": "Reprocessing: From GPU clusters to AI factories: The next phase of AI infrastructure heading into Nvidia GTC"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:04",
-      "message": "[SKIP] Content too short: From GPU clusters to AI factor..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:05",
-      "message": "Reprocessing: Thenvoi launches platform to help developers orchestrate multiple AI coding agents"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:06",
-      "message": "[SKIP] Content too short: Thenvoi launches platform to h..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:07",
-      "message": "Reprocessing: Qdrant raises $50M to bring flexible vector search to production AI systems"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:09",
-      "message": "[SKIP] Content too short: Qdrant raises $50M to bring fl..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:10",
-      "message": "Reprocessing: Kubernetes Ingress is hitting a transition point, and platform teams need a bigger strategy"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:11",
-      "message": "[SKIP] Content too short: Kubernetes Ingress is hitting ..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:13",
-      "message": "Reprocessing: ORO Labs raises $100M to expand procurement orchestration platform"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:14",
-      "message": "[SKIP] Content too short: ORO Labs raises $100M to expan..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:15",
-      "message": "Reprocessing: With its serverless infrastructure, Tensorlake makes it simpler to deploy and scale agentic workflows"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:17",
-      "message": "[SKIP] Content too short: With its serverless infrastruc..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:18",
-      "message": "Reprocessing: Cryptio raises $45M to build ERP infrastructure for tokenized and digital assets"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:19",
-      "message": "[SKIP] Content too short: Cryptio raises $45M to build E..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:20",
-      "message": "Reprocessing: Exclusive: Panzura updates global file system to cut storage costs and prepare for agentic AI"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:22",
-      "message": "[SKIP] Content too short: Exclusive: Panzura updates glo..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:23",
-      "message": "Reprocessing: Grammarly shuts down \u2018Expert Review\u2019 after pushback from the real experts"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:24",
-      "message": "[SKIP] Content too short: Grammarly shuts down \u2018Expert R..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:25",
-      "message": "Reprocessing: Anthropic launches an institute to tackle AI risks"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:27",
-      "message": "[SKIP] Content too short: Anthropic launches an institut..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:29",
-      "message": "Reprocessing: Nvidia\u2019s Nemotron Super 3 model for agentic systems launches with five times higher throughput"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:30",
-      "message": "[SKIP] Content too short: Nvidia\u2019s Nemotron Super 3 mode..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:31",
-      "message": "Reprocessing: Rivian\u2019s industrial automation spinoff Mind Robotics secures $500M in funding"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:33",
-      "message": "[SKIP] Content too short: Rivian\u2019s industrial automation..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:34",
-      "message": "Reprocessing: Despite an earnings beat and solid guidance, UiPath\u2019s stock slides after hours"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:35",
-      "message": "[SKIP] Content too short: Despite an earnings beat and s..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:36",
-      "message": "Reprocessing: Meta debuts internally developed AI chips for inference workloads"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:38",
-      "message": "[SKIP] Content too short: Meta debuts internally develop..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:39",
-      "message": "Reprocessing: Zendesk announces deal to acquire customer support AI startup Forethought"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:40",
-      "message": "[SKIP] Content too short: Zendesk announces deal to acqu..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:41",
-      "message": "Reprocessing: Cybersecurity startup Kai raises $125M to build agent-driven AI security platform"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:43",
-      "message": "[SKIP] Content too short: Cybersecurity startup Kai rais..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:44",
-      "message": "Reprocessing: The convergence crisis: Why AI adoption demands a new architectural blueprint"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:45",
-      "message": "[SKIP] Content too short: The convergence crisis: Why AI..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:46",
-      "message": "Reprocessing: AMD Expands Ryzen AI Embedded P100 Family With 8 to 12 Core Parts"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:47",
-      "message": "[PROCESSING] Analyzing: AMD Expands Ryzen AI Embedded P100 Family With 8 to 12 Core Parts..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:52",
-      "message": "[SUCCESS] Processed: AMD, 8\ucf54\uc5b4 \ubc0f 12\ucf54\uc5b4 \ubd80\ud488\uc73c\ub85c Ryzen AI Embedded P100 \ud328\ubc00\ub9ac \ud655\uc7a5\n  > Summary: AMD\ub294 \uc0c8\ub85c\uc6b4 \uc131\ub2a5 \uc218\uc900\uc744 \ub2e4\ub8e8\uae30 \uc704\ud574 8\ucf54\uc5b4 \ubc0f 12\ucf54\uc5b4 \ubd80\ud488\uc73c\ub85c Ryzen AI Em..."
-    },
-    {
-      "timestamp": "2026-03-13 04:02:53",
-      "message": "Reprocessing: Continuous AI for accessibility: How GitHub transforms feedback into inclusion"
-    },
-    {
-      "timestamp": "2026-03-13 04:02:55",
-      "message": "[PROCESSING] Analyzing: Continuous AI for accessibility: How GitHub transforms feedback into inclusion..."
-    },
-    {
-      "timestamp": "2026-03-13 04:03:01",
-      "message": "[SUCCESS] Processed: \uc811\uadfc\uc131\uc744 \uc704\ud55c \uc9c0\uc18d\uc801\uc778 AI: GitHub\uc774 \ud53c\ub4dc\ubc31\uc744 \ud3ec\uc6a9\uc73c\ub85c \uc5b4\ub5bb\uac8c \uc804\ud658\ud558\ub294\uac00\n  > Summary: GitHub\uc740 \uc811\uadfc\uc131 \ud53c\ub4dc\ubc31\uc744 \ud6a8\uacfc\uc801\uc73c\ub85c \uad00\ub9ac\ud558\uae30 \uc704\ud574 AI\ub97c \ud65c\uc6a9\ud55c \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \uad6c\ucd95\ud558\uc600..."
-    },
-    {
-      "timestamp": "2026-03-13 04:03:03",
-      "message": "[PROCESSING] Analyzing: Under the hood: Security architecture of GitHub Agentic Workflows..."
-    },
-    {
-      "timestamp": "2026-03-13 04:03:04",
-      "message": "[SKIP] Irrelevant (AI Filter): Under the hood: Security architecture of GitHub Agentic Workflows"
-    },
-    {
-      "timestamp": "2026-03-13 04:03:06",
-      "message": "Completed! New: 3, Updated: 56"
-    },
-    {
-      "timestamp": "2026-03-13 04:03:09",
-      "message": "Saved 59 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-13 04:03:12",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-13 05:03:40",
+      "message": "[PROCESSING] Analyzing: The best Bluetooth trackers for Apple and Android phones..."
     }
   ]
 }
