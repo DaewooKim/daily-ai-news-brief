@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 01:46:46",
+  "last_updated": "2026-03-13 01:46:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 01:46:10",
-      "message": "[PROCESSING] Analyzing: Sources: Amazon plans to move its Prime Day sale from July to late June; the shift affects its financial reporting, with event sales coming in Q2 rather than Q3 (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-13 01:46:11",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Amazon plans to move its Prime Day sale from July to late June; the shift affects its financial reporting, with event sales coming in Q2 rather than Q3 (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 01:46:46",
       "message": "[PROCESSING] Analyzing: Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032..."
+    },
+    {
+      "timestamp": "2026-03-13 01:46:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032"
     }
   ]
 }
