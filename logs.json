@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 09:32:14",
+  "last_updated": "2026-03-13 09:32:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 09:31:36",
-      "message": "[SKIP] Irrelevant (AI Filter): Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups (Fortune)"
-    },
     {
       "timestamp": "2026-03-13 09:31:38",
       "message": "[PROCESSING] Analyzing: Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a \"remote wipe\" command against all connected devices (Brian Krebs/Krebs on Security)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 09:32:14",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-13 09:32:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
