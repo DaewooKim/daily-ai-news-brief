@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 20:40:35",
+  "last_updated": "2026-03-13 20:40:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 20:40:01",
-      "message": "[SUCCESS] Processed: AWS, \uc778\uacf5\uc9c0\ub2a5 \ucd94\ub860 \uae30\ub2a5\uc744 \uc704\ud574 Cerebras\uc758 \uc6e8\uc774\ud37c-\uc2a4\ucf00\uc77c \uc5d4\uc9c4 \uce69 \ubc30\ud3ec \uacc4\ud68d\n  > Summary: \uc544\ub9c8\uc874 \uc6f9 \uc11c\ube44\uc2a4(AWS)\ub294 \uc778\uacf5\uc9c0\ub2a5 \ucd94\ub860 \uae30\ub2a5\uc744 \uc704\ud574 Cerebras\uc758 \uc6e8\uc774\ud37c-\uc2a4\ucf00\uc77c \uc5d4..."
-    },
     {
       "timestamp": "2026-03-13 20:40:03",
       "message": "[PROCESSING] Analyzing: Amazon Prime Video plans to raise the price of its ad-free plan, Ultra, to $4.99 per month, and add support for up to five simultaneous streams, from April 10 (Emma Roth/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 20:40:35",
       "message": "[PROCESSING] Analyzing: New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor..."
+    },
+    {
+      "timestamp": "2026-03-13 20:40:37",
+      "message": "[SKIP] Irrelevant (AI Filter): New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor"
     }
   ]
 }
