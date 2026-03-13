@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 17:21:28",
+  "last_updated": "2026-03-13 17:21:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 17:20:47",
-      "message": "[PROCESSING] Analyzing: The team behind continuous batching says your idle GPUs should be running inference, not sitting dark..."
-    },
     {
       "timestamp": "2026-03-13 17:20:53",
       "message": "[SUCCESS] Processed: \uc9c0\uc18d\uc801 \ubc30\uce58 \ud300\uc740 \ub2f9\uc2e0\uc758 \uc720\ud734 GPU\uac00 \uc5b4\ub461\uac8c \uc549\uc544\uc788\uc9c0 \ub9d0\uace0 \ucd94\ub860\uc744 \uc2e4\ud589\ud574\uc57c \ud55c\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4\n  > Summary: FriendliAI\ub294 \uc0ac\uc6a9\ud558\uc9c0 \uc54a\ub294 GPU \ud558\ub4dc\uc6e8\uc5b4\uc5d0\uc11c \uc9c1\uc811 \ucd94\ub860\uc744 \uc2e4\ud589\ud558\uace0 \uc218\uc775\uc744 \uacf5\uc720\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 17:21:28",
       "message": "[SKIP] Content too short: AI startups\u2019 funding frenzy, w..."
+    },
+    {
+      "timestamp": "2026-03-13 17:21:30",
+      "message": "Reprocessing: Verifiable AI startup Axiom raises $200M to prove AI-generated code is safe to use"
     }
   ]
 }
