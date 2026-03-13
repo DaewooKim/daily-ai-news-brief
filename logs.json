@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 03:59:20",
+  "last_updated": "2026-03-13 03:59:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 03:58:37",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, \uc2a4\ud398\uc774\uc2a4X\uc758 \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d\uc774 \ud130\ubb34\ub2c8\uc5c6\ub2e4\uace0 \uc8fc\uc7a5\n  > Summary: \uc544\ub9c8\uc874\uc740 FCC\uc5d0 \uc2a4\ud398\uc774\uc2a4X\uc758 \uada4\ub3c4 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uacc4\ud68d\uc744 \uac70\ubd80\ud560 \uac83\uc744 \ucd09\uad6c\ud588\uc2b5\ub2c8\ub2e4. \uc2a4..."
-    },
     {
       "timestamp": "2026-03-13 03:58:39",
       "message": "Reprocessing: HPE Rides AI Wave with Juniper-Fueled Networking Surge"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 03:59:20",
       "message": "[PROCESSING] Analyzing: A US appeals court voids much of a March 2025 injunction blocking California's online child safety law, while keeping some of the law's provisions blocked (Jonathan Stempel/Reuters)..."
+    },
+    {
+      "timestamp": "2026-03-13 03:59:22",
+      "message": "[SKIP] Irrelevant (AI Filter): A US appeals court voids much of a March 2025 injunction blocking California's online child safety law, while keeping some of the law's provisions blocked (Jonathan Stempel/Reuters)"
     }
   ]
 }
