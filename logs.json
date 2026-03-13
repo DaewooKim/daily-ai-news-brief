@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 13:55:51",
+  "last_updated": "2026-03-13 13:55:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 13:55:18",
-      "message": "Found 185 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-13 13:55:18",
       "message": "[PROCESSING] Analyzing: The MacBook Neo is a winner..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 13:55:51",
       "message": "Reprocessing: Four Months Into Its Comeback, Zapata Stakes Its Claim In Quantum Software"
+    },
+    {
+      "timestamp": "2026-03-13 13:55:53",
+      "message": "[SKIP] Content too short: Four Months Into Its Comeback,..."
     }
   ]
 }
