@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 21:44:41",
+  "last_updated": "2026-03-13 21:44:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 21:44:04",
-      "message": "Found 192 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-13 21:44:04",
       "message": "[PROCESSING] Analyzing: Microsoft\u2019s Copilot AI assistant is coming to current-gen Xbox consoles this year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 21:44:41",
       "message": "[PROCESSING] Analyzing: The Big 12 basketball tournament is ditching slippery LED courts for hardwood..."
+    },
+    {
+      "timestamp": "2026-03-13 21:44:43",
+      "message": "[SKIP] Irrelevant (AI Filter): The Big 12 basketball tournament is ditching slippery LED courts for hardwood"
     }
   ]
 }
