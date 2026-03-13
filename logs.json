@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-13 01:46:13",
+  "last_updated": "2026-03-13 01:46:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-13 01:45:34",
-      "message": "[SUCCESS] Processed: \uc624\ud508\uc18c\uc2a4 AI, \uc0c1\uc2b9\ud558\ub294 \ube44\uc6a9\uc73c\ub85c \uc778\ud574 \uc791\uc740 \ubaa8\ub378\ub85c\uc758 \uc804\ud658 \ucd09\uc9c4\n  > Summary: AI \uc2dc\uc2a4\ud15c\uc774 \ub300\uaddc\ubaa8 \uc790\ubcf8 \uc9d1\uc57d\uc801 LLM\uc5d0\uc11c \ubc97\uc5b4\ub098\uba74\uc11c, \uc18c\ud615 \uc5b8\uc5b4 \ubaa8\ub378(SLM)\uc774 \uc624\ud508 ..."
-    },
     {
       "timestamp": "2026-03-13 01:45:36",
       "message": "[PROCESSING] Analyzing: Amazon Thinks SpaceX\u2019s Data Center Plan Is a Bunch of Hooey..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-13 01:46:13",
       "message": "[PROCESSING] Analyzing: Sources: Meta has paused the Persian Gulf section of its 2Africa subsea cable project as the war in the Middle East freezes activity in the region (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-13 01:46:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Meta has paused the Persian Gulf section of its 2Africa subsea cable project as the war in the Middle East freezes activity in the region (Bloomberg)"
     }
   ]
 }
