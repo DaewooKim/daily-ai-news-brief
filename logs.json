@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 14:34:09",
+  "last_updated": "2026-03-14 14:34:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 14:33:24",
-      "message": "[SUCCESS] Processed: TSMC\uc758 N3 \ub17c\ub9ac \uc6e8\uc774\ud37c \uc6a9\ub7c9\uc774 AI \uc0b0\uc5c5\uc758 \uac00\uc7a5 \ud070 \uc81c\uc57d \uc911 \ud558\ub098\uac00 \ub418\uc5c8\ub2e4.\n  > Summary: TSMC\uc758 N3 \ub17c\ub9ac \uc6e8\uc774\ud37c \uc6a9\ub7c9\uc774 AI \uc0b0\uc5c5\uc5d0\uc11c \uac00\uc7a5 \ud070 \uc81c\uc57d \uc694\uc18c\uac00 \ub418\uace0 \uc788\uc73c\uba70, \uc774\ub85c..."
-    },
     {
       "timestamp": "2026-03-14 14:33:26",
       "message": "Reprocessing: An interview with SemiAnalysis CEO Dylan Patel on logic, memory, and power bottlenecks in scaling AI compute, Nvidia securing TSMC N3 allocation early, and more (Dwarkesh Patel/Dwarkesh Podcast)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 14:34:09",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-14 14:34:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
