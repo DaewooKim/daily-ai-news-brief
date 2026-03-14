@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 01:14:17",
+  "last_updated": "2026-03-14 01:14:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 01:13:37",
-      "message": "[SUCCESS] Processed: \uc820\uc2a8 \ud669\uc758 \uc5d4\ube44\ub514\uc544 GTC 2026 \uae30\uc870 \uc5f0\uc124\uc744 \uc2dc\uccad\ud558\ub294 \ubc29\ubc95\n  > Summary: GTC(GPU \uae30\uc220 \ucee8\ud37c\ub7f0\uc2a4)\ub294 \uc5d4\ube44\ub514\uc544\uc758 \uc8fc\uc694 \uc5f0\ub840 \ud589\uc0ac\ub85c, \uc0c8\ub85c\uc6b4 \uc81c\ud488 \ubc1c\ud45c, \ud30c\ud2b8\ub108\uc2ed..."
-    },
     {
       "timestamp": "2026-03-14 01:13:39",
       "message": "Reprocessing: Sales automation startup Rox AI hits $1.2B valuation, sources say"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 01:14:17",
       "message": "[PROCESSING] Analyzing: NewPower\u00a0Worldwide\u00a0Expands\u00a0Credit\u00a0Facility\u00a0to\u00a0$500\u00a0Million..."
+    },
+    {
+      "timestamp": "2026-03-14 01:14:19",
+      "message": "[SKIP] Irrelevant (AI Filter): NewPower\u00a0Worldwide\u00a0Expands\u00a0Credit\u00a0Facility\u00a0to\u00a0$500\u00a0Million"
     }
   ]
 }
