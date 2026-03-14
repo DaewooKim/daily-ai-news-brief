@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 00:03:36",
+  "last_updated": "2026-03-14 00:03:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 00:02:59",
-      "message": "[SUCCESS] Processed: \uc568\ubc84\ud0c0, \ub370\uc774\ud130 \uc13c\ud130 \ubd90 \uc18d\uc5d0\uc11c \ubb3c \ubb38\uc81c\uc5d0 \uc9c1\uba74\ud558\ub2e4\n  > Summary: \uc568\ubc84\ud0c0\uc758 \uae30\uc220 \ubd90\uc774 \ubb3c \uc790\uc6d0\uc5d0 \ubd80\ub2f4\uc744 \uc8fc\uace0 \uc788\uc73c\uba70, \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc790\ub4e4\uc740 \uc9c0\uc18d \uac00\ub2a5\ud55c \uc131..."
-    },
     {
       "timestamp": "2026-03-14 00:03:00",
       "message": "[PROCESSING] Analyzing: Intel Launches Core Series 2 Processor, Expands Edge AI Portfolio..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 00:03:36",
       "message": "[PROCESSING] Analyzing: Didi reports Q4 revenue up 10.5% YoY to $8.46B, international revenue up 47% YoY to $638M, and a net loss of $43.48M amid an overseas expansion push (Reuters)..."
+    },
+    {
+      "timestamp": "2026-03-14 00:03:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Didi reports Q4 revenue up 10.5% YoY to $8.46B, international revenue up 47% YoY to $638M, and a net loss of $43.48M amid an overseas expansion push (Reuters)"
     }
   ]
 }
