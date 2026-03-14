@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 15:40:20",
+  "last_updated": "2026-03-14 15:40:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 15:39:43",
-      "message": "[SUCCESS] Processed: HPE, \uc8fc\ub2c8\ud37c \uae30\ubc18 \ub124\ud2b8\uc6cc\ud0b9 \uc0c1\uc2b9\uc138\ub85c AI \ubb3c\uacb0\uc744 \ud0c0\ub2e4\n  > Summary: IT \uc778\ud504\ub77c \ub300\uae30\uc5c5 HPE\uac00 \uc608\uc0c1\ubcf4\ub2e4 \uac15\ub825\ud55c 1\ubd84\uae30 \uc2e4\uc801\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc8fc\ub2c8\ud37c \uc778\uc218..."
-    },
     {
       "timestamp": "2026-03-14 15:39:44",
       "message": "[PROCESSING] Analyzing: A survey of 1,000 hiring managers: 59% say they stress AI's role in layoffs or hiring freezes \"because it plays better\"; only 9% say AI has fully replaced roles (Gautam Mukunda/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 15:40:20",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-14 15:40:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
