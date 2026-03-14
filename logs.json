@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 21:08:16",
+  "last_updated": "2026-03-14 21:08:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 21:07:45",
-      "message": "[PROCESSING] Analyzing: Wordle\u2019s creator made a fun new puzzle game..."
-    },
     {
       "timestamp": "2026-03-14 21:07:47",
       "message": "[SKIP] Irrelevant (AI Filter): Wordle\u2019s creator made a fun new puzzle game"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 21:08:16",
       "message": "[SUCCESS] Processed: \ubaa8\ub378\uc5d0\uc11c \uc5d0\uc774\uc804\ud2b8\ub85c: Responses API\uc5d0 \ucef4\ud4e8\ud130 \ud658\uacbd \uc81c\uacf5\ud558\uae30\n  > Summary: OpenAI\ub294 Responses API, \uc258 \ub3c4\uad6c \ubc0f \ud638\uc2a4\ud305\ub41c \ucee8\ud14c\uc774\ub108\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc548\uc804\ud558\uace0..."
+    },
+    {
+      "timestamp": "2026-03-14 21:08:18",
+      "message": "Reprocessing: Improving instruction hierarchy in frontier LLMs"
     }
   ]
 }
