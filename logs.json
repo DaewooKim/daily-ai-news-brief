@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 22:14:52",
+  "last_updated": "2026-03-14 22:14:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 22:14:19",
-      "message": "[PROCESSING] Analyzing: Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films..."
-    },
     {
       "timestamp": "2026-03-14 22:14:20",
       "message": "[SKIP] Irrelevant (AI Filter): Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 22:14:52",
       "message": "[PROCESSING] Analyzing: The Silicon Hegemon..."
+    },
+    {
+      "timestamp": "2026-03-14 22:14:55",
+      "message": "[SKIP] Irrelevant (AI Filter): The Silicon Hegemon"
     }
   ]
 }
