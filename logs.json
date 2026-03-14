@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-14 15:40:24",
+  "last_updated": "2026-03-14 15:40:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-14 15:39:49",
-      "message": "[SUCCESS] Processed: 1,000\uba85\uc758 \ucc44\uc6a9 \uad00\ub9ac\uc790 \uc124\ubb38\uc870\uc0ac: 59%\ub294 AI\uc758 \uc5ed\ud560\uc774 '\ub354 \uc798\ud558\uae30 \ub54c\ubb38\uc5d0' \ud574\uace0 \ub610\ub294 \ucc44\uc6a9 \uc911\ub2e8\uc5d0 \ub300\ud55c \uc2a4\ud2b8\ub808\uc2a4\ub97c \ub290\ub080\ub2e4\uace0 \ub9d0\ud568; \ub2e8 9%\ub294 AI\uac00 \uc5ed\ud560\uc744 \uc644\uc804\ud788 \ub300\uccb4\ud588\ub2e4\uace0 \ub2f5\ud568\n  > Summary: \uac00\uc6b0\ud0d0 \ubb34\ucfe4\ub2e4(Bloomberg)\uc758 \uae30\uc0ac\uc5d0 \ub530\ub974\uba74, 1,000\uba85\uc758 \ucc44\uc6a9 \uad00\ub9ac\uc790 \uc911 59%\ub294..."
-    },
     {
       "timestamp": "2026-03-14 15:39:50",
       "message": "Reprocessing: TSMC's N3 logic wafer capacity has become one of the AI industry's biggest constraints, which could push customers to explore greater foundry diversification (SemiAnalysis)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-14 15:40:24",
       "message": "[PROCESSING] Analyzing: Axcelis Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-03-14 15:40:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Axcelis Announces CFO Transition"
     }
   ]
 }
