@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 13:30:20",
+  "last_updated": "2026-03-15 13:30:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 13:29:42",
-      "message": "[PROCESSING] Analyzing: IBM, Lam Research Focus High-NA EUV on Sub-1-nm Nodes..."
-    },
     {
       "timestamp": "2026-03-15 13:29:48",
       "message": "[SUCCESS] Processed: IBM, Lam Research, \uace0-NA EUV\ub97c 1nm \ubbf8\ub9cc \ub178\ub4dc\uc5d0 \uc9d1\uc911\n  > Summary: IBM\uacfc Lam Research\ub294 1nm \ub178\ub4dc \uc774\uc0c1\uc758 \uce69\uc744 \uc81c\uc870\ud560 \uacc4\ud68d\uc774\ub2e4. \uadf8\ub7ec\ub098 \uc774\ub4e4\uc740..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 13:30:20",
       "message": "[SKIP] Irrelevant (AI Filter): Kaiko: cumulative trading volume on crypto exchange Hyperliquid's perpetual oil futures surged to ~$7.3B on March 12 from $339M on February 28 amid the Iran war (Vicky Ge Huang/Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-03-15 13:30:22",
+      "message": "Reprocessing: TSMC's N3 logic wafer capacity has become one of the AI industry's biggest constraints, which could push customers to explore greater foundry diversification (SemiAnalysis)"
     }
   ]
 }
