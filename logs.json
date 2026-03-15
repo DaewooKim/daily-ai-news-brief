@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 17:52:05",
+  "last_updated": "2026-03-15 17:52:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 17:51:26",
-      "message": "[PROCESSING] Analyzing: NewPower\u00a0Worldwide\u00a0Expands\u00a0Credit\u00a0Facility\u00a0to\u00a0$500\u00a0Million..."
-    },
     {
       "timestamp": "2026-03-15 17:51:29",
       "message": "[SKIP] Irrelevant (AI Filter): NewPower\u00a0Worldwide\u00a0Expands\u00a0Credit\u00a0Facility\u00a0to\u00a0$500\u00a0Million"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 17:52:05",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-15 17:52:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
