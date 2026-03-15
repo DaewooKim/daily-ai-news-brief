@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 11:20:06",
+  "last_updated": "2026-03-15 11:20:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 11:19:32",
-      "message": "Reprocessing: Takeaways from the 2026 Game Developers Conference: a high volume of job seekers amid layoffs, AI was the hot buzzword, more outsourcing than ever, and more (Jason Schreier/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-15 11:19:33",
       "message": "[PROCESSING] Analyzing: Takeaways from the 2026 Game Developers Conference: a high volume of job seekers amid layoffs, AI was the hot buzzword, more outsourcing than ever, and more (Jason Schreier/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 11:20:06",
       "message": "[PROCESSING] Analyzing: New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor..."
+    },
+    {
+      "timestamp": "2026-03-15 11:20:08",
+      "message": "[SKIP] Irrelevant (AI Filter): New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor"
     }
   ]
 }
