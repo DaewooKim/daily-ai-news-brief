@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 15:41:35",
+  "last_updated": "2026-03-15 15:41:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 15:40:48",
-      "message": "[PROCESSING] Analyzing: TSMC's N3 logic wafer capacity has become one of the AI industry's biggest constraints, which could push customers to explore greater foundry diversification (SemiAnalysis)..."
-    },
     {
       "timestamp": "2026-03-15 15:40:52",
       "message": "[SUCCESS] Processed: TSMC\uc758 N3 \ub85c\uc9c1 \uc6e8\uc774\ud37c \uc6a9\ub7c9\uc774 AI \uc0b0\uc5c5\uc758 \uac00\uc7a5 \ud070 \uc81c\uc57d \uc911 \ud558\ub098\uac00 \ub418\uc5c8\ub2e4\n  > Summary: TSMC\uc758 N3 \ub85c\uc9c1 \uc6e8\uc774\ud37c \uc6a9\ub7c9\uc774 AI \uc0b0\uc5c5\uc5d0\uc11c \uac00\uc7a5 \ud070 \uc81c\uc57d \uc694\uc18c \uc911 \ud558\ub098\ub85c \ub5a0\uc624\ub974\uace0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 15:41:35",
       "message": "[PROCESSING] Analyzing: Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032..."
+    },
+    {
+      "timestamp": "2026-03-15 15:41:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032"
     }
   ]
 }
