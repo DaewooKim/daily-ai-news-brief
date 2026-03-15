@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 18:56:17",
+  "last_updated": "2026-03-15 18:56:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 18:55:41",
-      "message": "Reprocessing: From model to agent: Equipping the Responses API with a computer environment"
-    },
     {
       "timestamp": "2026-03-15 18:55:42",
       "message": "[PROCESSING] Analyzing: From model to agent: Equipping the Responses API with a computer environment..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 18:56:17",
       "message": "[PROCESSING] Analyzing: Truecaller now lets you hang up on scammers \u2014 on behalf of your family..."
+    },
+    {
+      "timestamp": "2026-03-15 18:56:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Truecaller now lets you hang up on scammers \u2014 on behalf of your family"
     }
   ]
 }
