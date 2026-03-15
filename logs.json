@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 08:03:53",
+  "last_updated": "2026-03-15 08:03:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 08:03:15",
-      "message": "[SUCCESS] Processed: HPE, \uc8fc\ub2c8\ud37c \uc9c0\uc6d0 \ub124\ud2b8\uc6cc\ud0b9 \ud638\ud669\uc73c\ub85c AI \ubb3c\uacb0 \ud0c4\ub2e4\n  > Summary: IT \uc778\ud504\ub77c \uac70\ub300 \uae30\uc5c5 HPE\uac00 \uc608\uc0c1\ubcf4\ub2e4 \uac15\ub825\ud55c 1\ubd84\uae30 \uc2e4\uc801\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc8fc\ub2c8\ud37c ..."
-    },
     {
       "timestamp": "2026-03-15 08:03:16",
       "message": "Reprocessing: The gaming industry is shaping up to be one of the AI boom's biggest casualties, from job losses to rising console prices due to the global RAM shortage (Helen Vogelsong-Donahue/Wired)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 08:03:53",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-15 08:03:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
