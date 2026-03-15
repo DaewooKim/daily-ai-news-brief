@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 01:30:13",
+  "last_updated": "2026-03-15 01:30:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 01:29:40",
-      "message": "Found 174 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-15 01:29:40",
       "message": "[PROCESSING] Analyzing: Trump administration is allegedly collecting $10 billion on the TikTok deal..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 01:30:13",
       "message": "Reprocessing: Four Months Into Its Comeback, Zapata Stakes Its Claim In Quantum Software"
+    },
+    {
+      "timestamp": "2026-03-15 01:30:14",
+      "message": "[SKIP] Content too short: Four Months Into Its Comeback,..."
     }
   ]
 }
