@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 10:12:48",
+  "last_updated": "2026-03-15 10:12:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 10:12:01",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-15 10:12:01",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 10:12:48",
       "message": "[PROCESSING] Analyzing: Wordle\u2019s creator made a fun new puzzle game..."
+    },
+    {
+      "timestamp": "2026-03-15 10:12:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Wordle\u2019s creator made a fun new puzzle game"
     }
   ]
 }
