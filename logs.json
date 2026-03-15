@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 11:18:06",
+  "last_updated": "2026-03-15 11:18:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 11:17:22",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-15 11:17:22",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 11:18:06",
       "message": "[PROCESSING] Analyzing: 5 great indie games from GDC 2026..."
+    },
+    {
+      "timestamp": "2026-03-15 11:18:09",
+      "message": "[SKIP] Irrelevant (AI Filter): 5 great indie games from GDC 2026"
     }
   ]
 }
