@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-15 16:47:56",
+  "last_updated": "2026-03-15 16:47:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-15 16:47:20",
-      "message": "[PROCESSING] Analyzing: IBM and Lam Research Announce Collaboration to Advance Sub-1nm Logic Scaling..."
-    },
     {
       "timestamp": "2026-03-15 16:47:24",
       "message": "[SUCCESS] Processed: IBM\uacfc Lam Research, 1nm \uc774\ud558 \ub17c\ub9ac \uc2a4\ucf00\uc77c\ub9c1\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud55c \ud611\ub825 \ubc1c\ud45c\n  > Summary: IBM\uacfc Lam Research\uac00 1nm \uc774\ud558\uc758 \ub17c\ub9ac \uc2a4\ucf00\uc77c\ub9c1\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud55c \uc0c8\ub85c\uc6b4 \ud504\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-15 16:47:56",
       "message": "Reprocessing: AWS will bring Cerebras\u2019 wafer-size WSE-3 chip to its cloud platform"
+    },
+    {
+      "timestamp": "2026-03-15 16:47:57",
+      "message": "[SKIP] Content too short: AWS will bring Cerebras\u2019 wafer..."
     }
   ]
 }
