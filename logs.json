@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 01:29:48",
+  "last_updated": "2026-03-16 01:29:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 01:29:12",
-      "message": "[SUCCESS] Processed: HBM4E\uac00 AI \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed\uc758 \uae30\uc900\uc744 \ub192\uc774\ub2e4\n  > Summary: AI \ud601\uc2e0\uc758 \uc18d\ub3c4\uac00 \ube68\ub77c\uc9d0\uc5d0 \ub530\ub77c \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed\uc774 \uc911\uc694\ud55c \ubcd1\ubaa9 \ud604\uc0c1\uc73c\ub85c \ub098\ud0c0\ub098\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-03-16 01:29:13",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 01:29:48",
       "message": "[SKIP] Irrelevant (AI Filter): Arrow, NXP Partner on Secure Design"
+    },
+    {
+      "timestamp": "2026-03-16 01:29:50",
+      "message": "Reprocessing: NXP Integrates AI and Tri-Radio in the i.MX 93W Processor"
     }
   ]
 }
