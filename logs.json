@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 03:38:57",
+  "last_updated": "2026-03-16 03:38:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 03:38:21",
-      "message": "[PROCESSING] Analyzing: Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films..."
-    },
     {
       "timestamp": "2026-03-16 03:38:25",
       "message": "[SUCCESS] Processed: \uc2a4\ud2f0\ube10 \uc2a4\ud544\ubc84\uadf8, '\uc601\ud654\uc5d0\uc11c \uc778\uacf5\uc9c0\ub2a5\uc744 \uc0ac\uc6a9\ud574\ubcf8 \uc801 \uc5c6\ub2e4'\uace0 \ubc1d\ud600\n  > Summary: SXSW\uc5d0\uc11c \uc2a4\ud2f0\ube10 \uc2a4\ud544\ubc84\uadf8\ub294 \uc778\uacf5\uc9c0\ub2a5\uc774 \ub9ce\uc740 \ubd84\uc57c\uc5d0\uc11c \uc720\uc6a9\ud558\ub2e4\uace0 \uc5b8\uae09\ud588\uc9c0\ub9cc, \uc601\ud654\uc640 TV..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 03:38:57",
       "message": "[PROCESSING] Analyzing: The Silicon Hegemon..."
+    },
+    {
+      "timestamp": "2026-03-16 03:38:59",
+      "message": "[SKIP] Irrelevant (AI Filter): The Silicon Hegemon"
     }
   ]
 }
