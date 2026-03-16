@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 03:40:53",
+  "last_updated": "2026-03-16 03:40:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 03:40:23",
-      "message": "[PROCESSING] Analyzing: Arrow, NXP Partner on Secure Design..."
-    },
     {
       "timestamp": "2026-03-16 03:40:25",
       "message": "[SKIP] Irrelevant (AI Filter): Arrow, NXP Partner on Secure Design"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 03:40:53",
       "message": "Reprocessing: AWS will bring Cerebras\u2019 wafer-size WSE-3 chip to its cloud platform"
+    },
+    {
+      "timestamp": "2026-03-16 03:40:54",
+      "message": "[SKIP] Content too short: AWS will bring Cerebras\u2019 wafer..."
     }
   ]
 }
