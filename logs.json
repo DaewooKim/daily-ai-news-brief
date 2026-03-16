@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 23:30:06",
+  "last_updated": "2026-03-16 23:30:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 23:29:26",
-      "message": "[PROCESSING] Analyzing: IBM, Lam Research Focus High-NA EUV on Sub-1-nm Nodes..."
-    },
     {
       "timestamp": "2026-03-16 23:29:30",
       "message": "[SUCCESS] Processed: IBM, Lam Research, \uace0-NA EUV\ub97c 1nm \ubbf8\ub9cc \ub178\ub4dc\uc5d0 \uc9d1\uc911\ud558\ub2e4\n  > Summary: IBM\uacfc Lam Research\ub294 1nm \ub178\ub4dc\ub97c \ucd08\uc6d4\ud558\ub294 \ubc18\ub3c4\uccb4 \uce69 \uc81c\uc791\uc744 \ubaa9\ud45c\ub85c \ud558\uace0 \uc788..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 23:30:06",
       "message": "[SKIP] Irrelevant (AI Filter): Austin-based Ironlight, which is building a regulated marketplace for tokenized securities, raised a $21M Series A; its platform received FINRA approval in 2025 (Ryan Lawler/Axios)"
+    },
+    {
+      "timestamp": "2026-03-16 23:30:07",
+      "message": "Reprocessing: Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user's local files, tools, and applications (Manus)"
     }
   ]
 }
