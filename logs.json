@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 12:24:52",
+  "last_updated": "2026-03-16 12:24:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 12:24:14",
-      "message": "Reprocessing: Sources: OpenAI faced intense backlash from its advisory council over a planned ChatGPT \"adult mode\", delayed earlier in March due to technical and other issues (Wall Street Journal)"
-    },
     {
       "timestamp": "2026-03-16 12:24:16",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI faced intense backlash from its advisory council over a planned ChatGPT \"adult mode\", delayed earlier in March due to technical and other issues (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 12:24:52",
       "message": "[PROCESSING] Analyzing: Axcelis Announces CFO Transition..."
+    },
+    {
+      "timestamp": "2026-03-16 12:24:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Axcelis Announces CFO Transition"
     }
   ]
 }
