@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 12:26:03",
+  "last_updated": "2026-03-16 12:26:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 12:25:34",
-      "message": "[SUCCESS] Processed: NXP, i.MX 93W \ud504\ub85c\uc138\uc11c\uc5d0 AI\uc640 \uc0bc\uc911 \ubb34\uc120 \ud1b5\uc2e0 \ud1b5\ud569\n  > Summary: NXP \ubc18\ub3c4\uccb4\ub294 \uc804\uc6a9 AI \uc2e0\uacbd \ucc98\ub9ac \uc7a5\uce58(NPU)\uc640 \uc0bc\uc911 \ubb34\uc120 \uc2dc\uc2a4\ud15c\uc744 \ub2e8\uc77c \ud328\ud0a4\uc9c0\uc5d0 \ud1b5..."
-    },
     {
       "timestamp": "2026-03-16 12:25:35",
       "message": "[PROCESSING] Analyzing: \ud558\ub8e8 \uac1c\ubc1c, \ubc30\ud3ec 7\uc2dc\uac04 \ub9cc\uc5d0 DAU 4,000 \ucc0d\uc740 \uc11c\ube44\uc2a4\ub97c \ub9cc\ub4e4\uc5c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 12:26:03",
       "message": "[SKIP] Content too short: AWS will bring Cerebras\u2019 wafer..."
+    },
+    {
+      "timestamp": "2026-03-16 12:26:04",
+      "message": "Reprocessing: What to expect during Chainguard Assemble: Join theCUBE on March 19"
     }
   ]
 }
