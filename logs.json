@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 13:28:32",
+  "last_updated": "2026-03-16 13:28:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 13:27:56",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-16 13:27:56",
       "message": "[PROCESSING] Analyzing: This is not a fly uploaded to a computer..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 13:28:32",
       "message": "[PROCESSING] Analyzing: Introducing Groundsource: Turning news reports into data with Gemini..."
+    },
+    {
+      "timestamp": "2026-03-16 13:28:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Introducing Groundsource: Turning news reports into data with Gemini"
     }
   ]
 }
