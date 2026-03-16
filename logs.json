@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 20:08:30",
+  "last_updated": "2026-03-16 20:08:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 20:07:50",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: OpenAI\uac00 \ud074\ub77c\uc6b0\ub4dc \uacf5\uae09\uc790\ub85c\ubd80\ud130 \ub354 \ub9ce\uc740 AI \uc11c\ubc84\ub97c \uc784\ub300\ud558\uae30\ub85c \uacb0\uc815\ud55c \ud6c4 Stargate \uac10\ub3c5\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 \ub9ac\ub354\ub97c \uc784\uba85\ud558\uace0 \ucef4\ud4e8\ud305 \ub178\ub825\uc744 \uc138 \uac00\uc9c0\ub85c \ubd84\ud560\ud558\ub2e4\n  > Summary: OpenAI\ub294 \ud074\ub77c\uc6b0\ub4dc \uacf5\uae09\uc790\ub85c\ubd80\ud130 \ub354 \ub9ce\uc740 AI \uc11c\ubc84\ub97c \uc784\ub300\ud558\uae30\ub85c \uacb0\uc815\ud55c \ud6c4 Starga..."
-    },
     {
       "timestamp": "2026-03-16 20:07:52",
       "message": "[PROCESSING] Analyzing: 3D DRAM with CBA Technology (Georgia Tech)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 20:08:30",
       "message": "[PROCESSING] Analyzing: OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert..."
+    },
+    {
+      "timestamp": "2026-03-16 20:08:32",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert"
     }
   ]
 }
