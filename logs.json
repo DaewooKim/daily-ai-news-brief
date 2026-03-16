@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 17:56:29",
+  "last_updated": "2026-03-16 17:56:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 17:55:51",
-      "message": "[SUCCESS] Processed: HBM4E, AI \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed\uc758 \uae30\uc900\uc744 \ub192\uc774\ub2e4\n  > Summary: HBM4E\ub294 AI \ubaa8\ub378\uc774 \ucee4\uc9d0\uc5d0 \ub530\ub77c \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed\uc758 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud55c \uc911\uc694\ud55c \uc9c4\uc804\uc744 ..."
-    },
     {
       "timestamp": "2026-03-16 17:55:52",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 17:56:29",
       "message": "[PROCESSING] Analyzing: Arrow, NXP Partner on Secure Design..."
+    },
+    {
+      "timestamp": "2026-03-16 17:56:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Arrow, NXP Partner on Secure Design"
     }
   ]
 }
