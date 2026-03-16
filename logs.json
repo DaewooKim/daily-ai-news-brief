@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 20:08:04",
+  "last_updated": "2026-03-16 20:08:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 20:07:21",
-      "message": "[PROCESSING] Analyzing: Jensen Huang says Nvidia expects to generate $1T+ from its Blackwell and Rubin chips through the end of 2027, after previously forecasting $500B by 2026's end (Ian King/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-16 20:07:25",
       "message": "[SUCCESS] Processed: \uc820\uc2a8 \ud669, \uc5d4\ube44\ub514\uc544\uac00 \ube14\ub799\uc6f0 \ubc0f \ub8e8\ube48 \uce69\uc744 \ud1b5\ud574 2027\ub144 \ub9d0\uae4c\uc9c0 1\uc870 \ub2ec\ub7ec \uc774\uc0c1\uc744 \ucc3d\ucd9c\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\ud55c\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: \uc820\uc2a8 \ud669\uc740 \uc5d4\ube44\ub514\uc544\uac00 \ube14\ub799\uc6f0 \ubc0f \ub8e8\ube48 \uce69\uc744 \ud1b5\ud574 2027\ub144 \ub9d0\uae4c\uc9c0 \ucd5c\uc18c 1\uc870 \ub2ec\ub7ec\ub97c \uc0dd\uc131\ud560..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 20:08:04",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
+    },
+    {
+      "timestamp": "2026-03-16 20:08:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems"
     }
   ]
 }
