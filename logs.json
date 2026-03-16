@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 13:31:03",
+  "last_updated": "2026-03-16 13:31:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 13:30:25",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI\ub294 \uae30\uc220\uc801 \ubc0f \uae30\ud0c0 \ubb38\uc81c\ub85c \uc778\ud574 3\uc6d4\uc5d0 \uc5f0\uae30\ub41c \uc608\uc815\ub41c ChatGPT '\uc131\uc778 \ubaa8\ub4dc'\uc5d0 \ub300\ud574 \uc790\ubb38\uc704\uc6d0\ud68c\ub85c\ubd80\ud130 \uaca9\ub82c\ud55c \ubc18\ubc1c\uc5d0 \uc9c1\uba74\ud588\ub2e4 (\uc6d4\uc2a4\ud2b8\ub9ac\ud2b8 \uc800\ub110)\n  > Summary: \uc6d4\uc2a4\ud2b8\ub9ac\ud2b8 \uc800\ub110\uc5d0 \ub530\ub974\uba74, OpenAI\ub294 \uacc4\ud68d\ub41c ChatGPT '\uc131\uc778 \ubaa8\ub4dc'\uc5d0 \ub300\ud574 \uc790\ubb38\uc704..."
-    },
     {
       "timestamp": "2026-03-16 13:30:26",
       "message": "[PROCESSING] Analyzing: How tech billionaires are turning on the Giving Pledge, promoted by Bill Gates and Warren Buffett; Peter Thiel says he privately told ~12 signers to undo it (Theodore Schleifer/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 13:31:03",
       "message": "[PROCESSING] Analyzing: Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032..."
+    },
+    {
+      "timestamp": "2026-03-16 13:31:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032"
     }
   ]
 }
