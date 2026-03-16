@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-16 23:30:19",
+  "last_updated": "2026-03-16 23:30:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-16 23:29:38",
-      "message": "[PROCESSING] Analyzing: NewPower\u00a0Worldwide\u00a0Expands\u00a0Credit\u00a0Facility\u00a0to\u00a0$500\u00a0Million..."
-    },
     {
       "timestamp": "2026-03-16 23:29:40",
       "message": "[SKIP] Irrelevant (AI Filter): NewPower\u00a0Worldwide\u00a0Expands\u00a0Credit\u00a0Facility\u00a0to\u00a0$500\u00a0Million"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-16 23:30:19",
       "message": "[SUCCESS] Processed: Nvidia\ub294 BYD, Geely, Isuzu \ubc0f Nissan\uc774 \uc790\uc0ac\uc758 Drive Hyperion AV \ud50c\ub7ab\ud3fc\uc744 \uc0ac\uc6a9\ud560 \uac83\uc774\uba70, Uber\uac00 2028\ub144\uae4c\uc9c0 28\uac1c \ub3c4\uc2dc\uc5d0\uc11c Hyperion \uae30\ubc18 \ub85c\ubd07\ud0dd\uc2dc\ub97c \ucd9c\uc2dc\ud560 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Nvidia\ub294 BYD, Geely, Isuzu, Nissan \ub4f1 \uc5ec\ub7ec \uc790\ub3d9\ucc28 \uc81c\uc870\uc5c5\uccb4\uac00 \uc790..."
+    },
+    {
+      "timestamp": "2026-03-16 23:30:21",
+      "message": "Reprocessing: Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 (Sebastian Moss/DatacenterDynamics)"
     }
   ]
 }
