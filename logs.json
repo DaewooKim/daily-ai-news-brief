@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 19:24:27",
+  "last_updated": "2026-03-17 19:24:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 19:23:50",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-17 19:23:50",
       "message": "[PROCESSING] Analyzing: Ikea tried to build a smart home for everyone \u2014 here&#8217;s why it&#8217;s not working yet..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 19:24:27",
       "message": "Reprocessing: Women Get Data-Driven Health Boost As The FA Tackles Sports Science's Male Bias"
+    },
+    {
+      "timestamp": "2026-03-17 19:24:29",
+      "message": "[SKIP] Content too short: Women Get Data-Driven Health B..."
     }
   ]
 }
