@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-17 13:52:25",
+  "last_updated": "2026-03-17 13:52:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 13:51:55",
-      "message": "[PROCESSING] Analyzing: Securing Critical IoT Infrastructure Must Be a Top Priority..."
-    },
-    {
-      "timestamp": "2026-03-17 13:51:57",
-      "message": "[SKIP] Irrelevant (AI Filter): Securing Critical IoT Infrastructure Must Be a Top Priority"
-    },
     {
       "timestamp": "2026-03-17 13:51:59",
       "message": "[PROCESSING] Analyzing: Arrow, NXP Partner on Secure Design..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-17 13:52:25",
       "message": "Reprocessing: Nvidia introduces BlueField-4 STX reference architecture for AI storage systems"
+    },
+    {
+      "timestamp": "2026-03-17 13:52:26",
+      "message": "[SKIP] Content too short: Nvidia introduces BlueField-4 ..."
+    },
+    {
+      "timestamp": "2026-03-17 13:52:27",
+      "message": "Reprocessing: Nvidia debuts the Groq 3 language processing unit, a dedicated inference chip for multi-agent workloads"
     }
   ]
 }
