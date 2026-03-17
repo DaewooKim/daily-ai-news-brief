@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 12:45:02",
+  "last_updated": "2026-03-17 12:45:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 12:44:19",
-      "message": "[PROCESSING] Analyzing: The UK plans to spend \u00a31B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy (Mia Dawkins/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-17 12:44:20",
       "message": "[SKIP] Irrelevant (AI Filter): The UK plans to spend \u00a31B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy (Mia Dawkins/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 12:45:02",
       "message": "[SUCCESS] Processed: NXP, NVIDIA\uc640 \ud568\uaed8 \ucca8\ub2e8 \ubb3c\ub9ac\uc801 AI\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 \ud601\uc2e0 \uc81c\uacf5\n  > Summary: NXP \uc138\ubbf8\ucee8\ub355\ud130\uac00 NVIDIA\uc640 \ud611\ub825\ud558\uc5ec \uc2e0\ub8b0\ud560 \uc218 \uc788\uace0 \uc548\uc804\ud55c \uc2e4\uc2dc\uac04 \ub370\uc774\ud130 \ucc98\ub9ac \ubc0f ..."
+    },
+    {
+      "timestamp": "2026-03-17 12:45:03",
+      "message": "Reprocessing: STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module"
     }
   ]
 }
