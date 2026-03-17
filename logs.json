@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 18:17:01",
+  "last_updated": "2026-03-17 18:17:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 18:16:23",
-      "message": "Found 161 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-17 18:16:23",
       "message": "[PROCESSING] Analyzing: Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 18:17:01",
       "message": "Reprocessing: IBM Unrolls Blueprint For Quantum-Classical HPC Computing"
+    },
+    {
+      "timestamp": "2026-03-17 18:17:03",
+      "message": "[SKIP] Content too short: IBM Unrolls Blueprint For Quan..."
     }
   ]
 }
