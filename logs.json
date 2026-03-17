@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 18:20:38",
+  "last_updated": "2026-03-17 18:20:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 18:19:46",
-      "message": "[PROCESSING] Analyzing: Identifying Read Disturbance Threshold of DRAM Chips (ETH Zurich, Rutgers)..."
-    },
     {
       "timestamp": "2026-03-17 18:19:52",
       "message": "[SUCCESS] Processed: DRAM \uce69\uc758 \uc77d\uae30 \ubc29\ud574 \uc784\uacc4\uac12 \uc2dd\ubcc4\ud558\uae30 (ETH \ucde8\ub9ac\ud788, \ub7ec\ud2b8\uac70\uc2a4)\n  > Summary: \uc0c8\ub85c\uc6b4 \uae30\uc220 \ub17c\ubb38 'DiscoRD: \uc2e4\uc81c DRAM \uce69\uc758 \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \uc77d\uae30 \ubc29\ud574 \uc784\uacc4\uac12\uc744..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 18:20:38",
       "message": "[SUCCESS] Processed: NXP, NVIDIA\uc640 \ud568\uaed8 \uace0\uae09 \ubb3c\ub9ac\uc801 AI\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 \ud601\uc2e0 \ubc1c\ud45c\n  > Summary: NXP \ubc18\ub3c4\uccb4\ub294 NVIDIA\uc640 \ud611\ub825\ud558\uc5ec \uc2e4\uc2dc\uac04 \ub370\uc774\ud130 \ucc98\ub9ac \ubc0f \uc804\uc1a1\uc744 \uc704\ud55c \ud601\uc2e0\uc801\uc778 \ub85c\ubd07 ..."
+    },
+    {
+      "timestamp": "2026-03-17 18:20:40",
+      "message": "Reprocessing: STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module"
     }
   ]
 }
