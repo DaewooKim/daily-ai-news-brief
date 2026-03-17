@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 07:12:34",
+  "last_updated": "2026-03-17 07:12:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 07:11:50",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-17 07:12:02",
       "message": "Found 159 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 07:12:34",
       "message": "[SUCCESS] Processed: NVIDIA \ube14\ub8e8\ud544\ub4dc-4 \uae30\ubc18 CMX \ucee8\ud14d\uc2a4\ud2b8 \uba54\ubaa8\ub9ac \uc800\uc7a5\uc18c \ud50c\ub7ab\ud3fc \uc18c\uac1c\n  > Summary: AI \ub124\uc774\ud2f0\ube0c \uc870\uc9c1\uc740 \uc5d0\uc774\uc804\ud2b8 AI \uc6cc\ud06c\ud50c\ub85c\uc6b0\uac00 \uc218\ubc31\ub9cc \uac1c\uc758 \ud1a0\ud070\uc73c\ub85c \ucee8\ud14d\uc2a4\ud2b8 \ucc3d\uc744 \ub04c\uc5b4\uc62c..."
+    },
+    {
+      "timestamp": "2026-03-17 07:12:35",
+      "message": "Reprocessing: Run Autonomous, Self-Evolving Agents More Safely with NVIDIA OpenShell"
     }
   ]
 }
