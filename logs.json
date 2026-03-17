@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 16:02:04",
+  "last_updated": "2026-03-17 16:02:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 16:01:16",
-      "message": "Found 157 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-17 16:01:16",
       "message": "[PROCESSING] Analyzing: Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 16:02:04",
       "message": "[PROCESSING] Analyzing: Nintendo Switch 2 update adds &#8216;Handheld Boost Mode&#8217; for original Switch games..."
+    },
+    {
+      "timestamp": "2026-03-17 16:02:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Nintendo Switch 2 update adds &#8216;Handheld Boost Mode&#8217; for original Switch games"
     }
   ]
 }
