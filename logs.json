@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 02:50:59",
+  "last_updated": "2026-03-17 02:51:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 02:50:21",
-      "message": "[SUCCESS] Processed: HBM4E, AI \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed\uc744 \ub192\uc774\ub2e4.\n  > Summary: HBM4E\ub294 AI \uba54\ubaa8\ub9ac\uc758 \ub300\uc5ed\ud3ed\uc744 \ub450 \ubc30\ub85c \ub298\ub824 \uba54\ubaa8\ub9ac \ubcd1\ubaa9 \ud604\uc0c1\uc744 \uadf9\ubcf5\ud558\ub294 \ub370 \uc911\uc694\ud55c ..."
-    },
     {
       "timestamp": "2026-03-17 02:50:22",
       "message": "[PROCESSING] Analyzing: Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 02:50:59",
       "message": "[SKIP] Irrelevant (AI Filter): OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert"
+    },
+    {
+      "timestamp": "2026-03-17 02:51:00",
+      "message": "Reprocessing: What Will Shape Robotics in the Next 3 Years?"
     }
   ]
 }
