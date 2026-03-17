@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 17:12:47",
+  "last_updated": "2026-03-17 17:12:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 17:12:09",
-      "message": "Reprocessing: IBM closes its $11B deal for data streaming company Confluent; IBM CEO Arvind Krishna says he expects IBM will maintain or grow its head count over five years (Belle Lin/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-03-17 17:12:11",
       "message": "[PROCESSING] Analyzing: IBM closes its $11B deal for data streaming company Confluent; IBM CEO Arvind Krishna says he expects IBM will maintain or grow its head count over five years (Belle Lin/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 17:12:47",
       "message": "[PROCESSING] Analyzing: Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing..."
+    },
+    {
+      "timestamp": "2026-03-17 17:12:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing"
     }
   ]
 }
