@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 10:33:35",
+  "last_updated": "2026-03-17 10:33:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 10:33:03",
-      "message": "[PROCESSING] Analyzing: STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module..."
-    },
     {
       "timestamp": "2026-03-17 10:33:07",
       "message": "[SUCCESS] Processed: ST\ub9c8\uc774\ud06c\ub85c\uc77c\ub809\ud2b8\ub85c\ub2c9\uc2a4\uc640 \ub808\uc624\ud30c\ub4dc \uc774\ubbf8\uc9d5, NVIDIA \uc81c\ud2b8\uc2a8 \uc900\ube44 \uba40\ud2f0 \uc13c\uc11c \ubaa8\ub4c8\ub85c \ub85c\ubcf4\ud2f1\uc2a4 \ube44\uc804 \uac00\uc18d\ud654\n  > Summary: ST\ub9c8\uc774\ud06c\ub85c\uc77c\ub809\ud2b8\ub85c\ub2c9\uc2a4\uc640 \ub808\uc624\ud30c\ub4dc \uc774\ubbf8\uc9d5\uc774 NVIDIA \uc81c\ud2b8\uc2a8\uc5d0 \ucd5c\uc801\ud654\ub41c \ud1b5\ud569 \uba40\ud2f0\ubaa8\ub2ec \ube44..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 10:33:35",
       "message": "[SKIP] Content too short: Nvidia introduces BlueField-4 ..."
+    },
+    {
+      "timestamp": "2026-03-17 10:33:36",
+      "message": "Reprocessing: Nvidia debuts the Groq 3 language processing unit, a dedicated inference chip for multi-agent workloads"
     }
   ]
 }
