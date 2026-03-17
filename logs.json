@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 01:44:13",
+  "last_updated": "2026-03-17 01:44:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 01:43:33",
-      "message": "[PROCESSING] Analyzing: IBM, Lam Research Focus High-NA EUV on Sub-1-nm Nodes..."
-    },
     {
       "timestamp": "2026-03-17 01:43:37",
       "message": "[SUCCESS] Processed: IBM, Lam Research, \uace0\ub098\uc774 \ud558\uc774-NA EUV\ub97c 1nm \uc544\ub798 \ub178\ub4dc\uc5d0 \ucd08\uc810\n  > Summary: IBM\uacfc Lam Research\ub294 1nm \ub178\ub4dc\ub97c \ucd08\uacfc\ud558\ub294 \ubc18\ub3c4\uccb4 \uce69\uc744 \uc81c\uc791\ud558\ub294 \uac83\uc744 \ubaa9\ud45c\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 01:44:13",
       "message": "[SUCCESS] Processed: Nvidia\ub294 BYD, Geely, Isuzu \ubc0f Nissan\uc774 \uc790\uc0ac\uc758 Drive Hyperion AV \ud50c\ub7ab\ud3fc\uc744 \uc0ac\uc6a9\ud560 \uac83\uc774\uba70, Uber\ub294 2028\ub144\uae4c\uc9c0 28\uac1c \ub3c4\uc2dc\uc5d0\uc11c Hyperion-powered \ub85c\ubd07 \ud0dd\uc2dc\ub97c \ucd9c\ubc94\ud560 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Nvidia\ub294 BYD, Geely, Isuzu, Nissan\uc774 \uc790\uc0ac\uc758 Drive Hyper..."
+    },
+    {
+      "timestamp": "2026-03-17 01:44:14",
+      "message": "Reprocessing: Pathfinding Method That Models ECC Overhead for Chiplet Interconnects (UCLA)"
     }
   ]
 }
