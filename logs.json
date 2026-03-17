@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-17 08:21:42",
+  "last_updated": "2026-03-17 08:21:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-17 08:21:09",
-      "message": "[PROCESSING] Analyzing: STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module..."
-    },
     {
       "timestamp": "2026-03-17 08:21:13",
       "message": "[SUCCESS] Processed: STMicroelectronics\uc640 Leopard Imaging\uc774 NVIDIA Jetson \uc900\ube44 \uc644\ub8cc \ub2e4\uc911 \uc13c\uc11c \ubaa8\ub4c8\ub85c \ub85c\ubd07 \ube44\uc804\uc744 \uac00\uc18d\ud654\ud558\ub2e4\n  > Summary: STMicroelectronics\uc640 Leopard Imaging\uc740 \ud734\uba38\ub178\uc774\ub4dc \ubc0f \uace0\uae09 \ub85c\ubd07..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-17 08:21:42",
       "message": "[SKIP] Content too short: Nvidia introduces BlueField-4 ..."
+    },
+    {
+      "timestamp": "2026-03-17 08:21:43",
+      "message": "Reprocessing: Nvidia debuts the Groq 3 language processing unit, a dedicated inference chip for multi-agent workloads"
     }
   ]
 }
