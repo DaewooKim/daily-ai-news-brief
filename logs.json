@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 22:08:15",
+  "last_updated": "2026-03-18 22:08:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 22:07:35",
-      "message": "[PROCESSING] Analyzing: Deezer reports a net income of \u20ac9M in 2025, its first profit since its 2007 founding, while revenue fell 1.4% YoY to \u20ac534M (Financial Times)..."
-    },
     {
       "timestamp": "2026-03-18 22:07:37",
       "message": "[SKIP] Irrelevant (AI Filter): Deezer reports a net income of \u20ac9M in 2025, its first profit since its 2007 founding, while revenue fell 1.4% YoY to \u20ac534M (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 22:08:15",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-18 22:08:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
