@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 13:10:28",
+  "last_updated": "2026-03-18 13:10:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 13:09:48",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: Fluidstack, \ud504\ub791\uc2a4 \ubcf4\uc2a4\ucf08\uc5d0\uc11c\uc758 100\uc5b5 \uc720\ub85c \uaddc\ubaa8 1GW AI \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub85c\uc81d\ud2b8\uc640 \ud30c\ub9ac\uc758 Mistral \uad00\ub828 \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \ucca0\uc218\ud558\uba70 \ubbf8\uad6d\uc73c\ub85c \ubc29\ud5a5\uc744 \uc804\ud658\ud558\ub2e4\n  > Summary: \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305 \uc2a4\ud0c0\ud2b8\uc5c5 Fluidstack Ltd.\uac00 \ud504\ub791\uc2a4 \ubcf4\uc2a4\ucf08\uc5d0\uc11c \uc9c4\ud589 \uc911\uc778 100..."
-    },
     {
       "timestamp": "2026-03-18 13:09:49",
       "message": "[PROCESSING] Analyzing: The EU unveils EU Inc., a single bloc-wide incorporation regime that it says takes 48 hours, to help European startups compete with US and Chinese rivals (Samuel Stolton/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 13:10:28",
       "message": "[PROCESSING] Analyzing: Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)..."
+    },
+    {
+      "timestamp": "2026-03-18 13:10:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)"
     }
   ]
 }
