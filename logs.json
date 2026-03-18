@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-18 21:04:10",
-  "status": "idle",
+  "last_updated": "2026-03-18 22:04:42",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-18 21:02:49",
-      "message": "Reprocessing: Respan raises $5M to bring proactive observability to AI agents"
+      "timestamp": "2026-03-18 22:04:28",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-18 21:02:51",
-      "message": "[SKIP] Content too short: Respan raises $5M to bring pro..."
+      "timestamp": "2026-03-18 22:04:29",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-18 21:02:52",
-      "message": "Reprocessing: Menlo Security takes on AI agent risk with new browser security platform"
+      "timestamp": "2026-03-18 22:04:29",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-18 21:02:54",
-      "message": "[SKIP] Content too short: Menlo Security takes on AI age..."
+      "timestamp": "2026-03-18 22:04:42",
+      "message": "Found 163 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-18 21:02:55",
-      "message": "Reprocessing: Court rules Perplexity\u2019s AI bots can stay on Amazon"
-    },
-    {
-      "timestamp": "2026-03-18 21:02:57",
-      "message": "[SKIP] Content too short: Court rules Perplexity\u2019s AI bo..."
-    },
-    {
-      "timestamp": "2026-03-18 21:02:58",
-      "message": "Reprocessing: Google expands availability of its Personal Intelligence tool"
-    },
-    {
-      "timestamp": "2026-03-18 21:02:59",
-      "message": "[SKIP] Content too short: Google expands availability of..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:01",
-      "message": "Reprocessing: Turquoise vows to bring transparent pricing and same-day payments to healthcare after raising $40M"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:02",
-      "message": "[SKIP] Content too short: Turquoise vows to bring transp..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:04",
-      "message": "Reprocessing: Nvidia CEO Jensen Huang reveals chip sales in China are about to restart"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:05",
-      "message": "[SKIP] Content too short: Nvidia CEO Jensen Huang reveal..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:07",
-      "message": "Reprocessing: Amazon CEO Andy Jassy forecasts cloud revenue to hit $600B by 2036, thanks to AI"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:08",
-      "message": "[SKIP] Content too short: Amazon CEO Andy Jassy forecast..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:09",
-      "message": "Reprocessing: IT automation startup Standard Template Labs raises $49M"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:11",
-      "message": "[SKIP] Content too short: IT automation startup Standard..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:12",
-      "message": "Reprocessing: OpenAI, Mistral AI release new hardware-efficient language models"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:14",
-      "message": "[SKIP] Content too short: OpenAI, Mistral AI release new..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:15",
-      "message": "Reprocessing: The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:17",
-      "message": "[SKIP] Content too short: The intelligent green: How AWS..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:18",
-      "message": "Reprocessing: Hammerspace storage platform feeds distributed data directly to GPUs"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:19",
-      "message": "[SKIP] Content too short: Hammerspace storage platform f..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:21",
-      "message": "Reprocessing: Workday introduces Sana: an AI knowledge discovery and work automation platform"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:22",
-      "message": "[SKIP] Content too short: Workday introduces Sana: an AI..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:24",
-      "message": "Reprocessing: 1Password introduces Unified Access platform and partner API for AI agent security"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:25",
-      "message": "[SKIP] Content too short: 1Password introduces Unified A..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:27",
-      "message": "Reprocessing: Cato Networks rolls out Neural Edge and AI Security to protect enterprise AI workloads"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:28",
-      "message": "[SKIP] Content too short: Cato Networks rolls out Neural..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:30",
-      "message": "Reprocessing: Theori launches Xint Code AI platform to uncover hidden vulnerabilities in massive codebases"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:31",
-      "message": "[SKIP] Content too short: Theori launches Xint Code AI p..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:32",
-      "message": "Reprocessing: Druva launches Identity Resilience to protect Okta, Microsoft Active Directory and Entra ID environments"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:34",
-      "message": "[SKIP] Content too short: Druva launches Identity Resili..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:35",
-      "message": "Reprocessing: Surf AI launches agentic security operations platform with $57M funding round"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:37",
-      "message": "[SKIP] Content too short: Surf AI launches agentic secur..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:38",
-      "message": "Reprocessing: Teens launch lawsuit against xAI over Grok deepfakes"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:39",
-      "message": "[SKIP] Content too short: Teens launch lawsuit against x..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:41",
-      "message": "Reprocessing: Nebius secures $27B AI infrastructure commitment from Meta Platforms"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:42",
-      "message": "[SKIP] Content too short: Nebius secures $27B AI infrast..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:44",
-      "message": "Reprocessing: Nvidia introduces BlueField-4 STX reference architecture for AI storage systems"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:45",
-      "message": "[SKIP] Content too short: Nvidia introduces BlueField-4 ..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:46",
-      "message": "Reprocessing: KIOXIA GP Series and CM9 Launched for the Era of Agentic AI Storage"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:48",
-      "message": "[PROCESSING] Analyzing: KIOXIA GP Series and CM9 Launched for the Era of Agentic AI Storage..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:54",
-      "message": "[SUCCESS] Processed: KIOXIA GP \uc2dc\ub9ac\uc988\uc640 CM9, \uc5d0\uc774\uc804\ud2f1 AI \uc2a4\ud1a0\ub9ac\uc9c0 \uc2dc\ub300\ub97c \uc704\ud574 \ucd9c\uc2dc\n  > Summary: KIOXIA GP \uc2dc\ub9ac\uc988\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc704\ud55c GPU \uae30\ubc18 \uc2a4\ud1a0\ub9ac\uc9c0\uc758 \uc0c8\ub85c\uc6b4 \uacc4\uce35\uc73c\ub85c \uc790..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:55",
-      "message": "[PROCESSING] Analyzing: 10Gtek Quad Port 2.5GbE Realtek RTL8125 NIC Review..."
-    },
-    {
-      "timestamp": "2026-03-18 21:03:57",
-      "message": "[SKIP] Irrelevant (AI Filter): 10Gtek Quad Port 2.5GbE Realtek RTL8125 NIC Review"
-    },
-    {
-      "timestamp": "2026-03-18 21:03:58",
-      "message": "[PROCESSING] Analyzing: STH Weekly Newsletters You Want to Subscribe in Q1 2026..."
-    },
-    {
-      "timestamp": "2026-03-18 21:04:00",
-      "message": "[SKIP] Irrelevant (AI Filter): STH Weekly Newsletters You Want to Subscribe in Q1 2026"
-    },
-    {
-      "timestamp": "2026-03-18 21:04:01",
-      "message": "Completed! New: 5, Updated: 52"
-    },
-    {
-      "timestamp": "2026-03-18 21:04:05",
-      "message": "Saved 57 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-18 21:04:08",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-18 22:04:42",
+      "message": "[PROCESSING] Analyzing: The FBI is buying Americans\u2019 location data..."
     }
   ]
 }
