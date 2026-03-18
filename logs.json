@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 01:03:01",
+  "last_updated": "2026-03-18 01:03:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 01:02:15",
-      "message": "Reprocessing: NXP Delivers New Innovations for Advanced Physical AI with NVIDIA"
-    },
     {
       "timestamp": "2026-03-18 01:02:16",
       "message": "[PROCESSING] Analyzing: NXP Delivers New Innovations for Advanced Physical AI with NVIDIA..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 01:03:01",
       "message": "[PROCESSING] Analyzing: Securing Critical IoT Infrastructure Must Be a Top Priority..."
+    },
+    {
+      "timestamp": "2026-03-18 01:03:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Securing Critical IoT Infrastructure Must Be a Top Priority"
     }
   ]
 }
