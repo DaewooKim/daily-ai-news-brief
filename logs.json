@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 01:01:19",
+  "last_updated": "2026-03-18 01:01:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 01:00:40",
-      "message": "[PROCESSING] Analyzing: IBM, Lam Research Focus High-NA EUV on Sub-1-nm Nodes..."
-    },
     {
       "timestamp": "2026-03-18 01:00:43",
       "message": "[SUCCESS] Processed: IBM\uacfc Lam Research, 1nm \uc774\ud558 \ub178\ub4dc\uc5d0 \ub300\ud55c \uace0-NA EUV\uc5d0 \uc9d1\uc911\n  > Summary: IBM\uacfc Lam Research\ub294 1nm \ub178\ub4dc\ub97c \ucd08\uacfc\ud558\ub294 \uce69\uc744 \ub9cc\ub4e4\uae30 \uc704\ud574 \ud611\ub825\ud558\uace0 \uc788\uc2b5\ub2c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 01:01:19",
       "message": "[PROCESSING] Analyzing: An Argentine court ruled Polymarket lacked approval to operate and directed ISPs and app stores to restrict it; Polymarket is now unavailable in 30+ countries (Francisco Rodrigues/CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-03-18 01:01:21",
+      "message": "[SKIP] Irrelevant (AI Filter): An Argentine court ruled Polymarket lacked approval to operate and directed ISPs and app stores to restrict it; Polymarket is now unavailable in 30+ countries (Francisco Rodrigues/CoinDesk)"
     }
   ]
 }
