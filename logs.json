@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 06:32:44",
+  "last_updated": "2026-03-18 06:32:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 06:32:08",
-      "message": "[PROCESSING] Analyzing: IBM, Lam Research Focus High-NA EUV on Sub-1-nm Nodes..."
-    },
     {
       "timestamp": "2026-03-18 06:32:12",
       "message": "[SUCCESS] Processed: IBM, Lam Research, \uace0\ud574\uc0c1\ub3c4 EUV\ub97c \uc774\uc6a9\ud558\uc5ec 1nm \uc774\ud558 \ub178\ub4dc\uc5d0 \uc9d1\uc911\ud55c\ub2e4\n  > Summary: IBM\uacfc Lam Research\ub294 1nm \ub178\ub4dc \uc774\uc0c1\uc758 \uce69 \uc81c\uc870\ub97c \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uadf8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 06:32:44",
       "message": "[PROCESSING] Analyzing: Sources: a JPMorgan-led bank group halted a $5.3B debt deal for Qualtrics, whose existing $1.5B loan trades at 86 cents on the dollar, on weak investor interest (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-18 06:32:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: a JPMorgan-led bank group halted a $5.3B debt deal for Qualtrics, whose existing $1.5B loan trades at 86 cents on the dollar, on weak investor interest (Bloomberg)"
     }
   ]
 }
