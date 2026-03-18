@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 15:22:15",
+  "last_updated": "2026-03-18 15:22:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 15:21:25",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-18 15:21:37",
       "message": "Found 163 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 15:22:15",
       "message": "[PROCESSING] Analyzing: Remedy\u2019s live-service shooter Firebreak is getting its final major update..."
+    },
+    {
+      "timestamp": "2026-03-18 15:22:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Remedy\u2019s live-service shooter Firebreak is getting its final major update"
     }
   ]
 }
