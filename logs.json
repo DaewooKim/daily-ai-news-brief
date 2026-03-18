@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 10:57:37",
+  "last_updated": "2026-03-18 10:57:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 10:56:56",
-      "message": "[SUCCESS] Processed: AI \ud22c\uc790 \uc8fc\uae30, \ub7f0\ub358\uacfc \uc720\ub7fd\uc758 \uae30\ud68c, Q.ai \ubc0f Nothing \ud22c\uc790, AI \uac1c\uc778\uc815\ubcf4 \ubb38\uc81c, \uc8fc\uad8c AI \ub4f1\uc744 \ub2e4\ub8ec GV\uc758 \ud1b0 \ud6cc\ub984\uacfc\uc758 Q&A\n  > Summary: \ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988\ub294 GV\uc758 \uc720\ub7fd \uc0ac\ubb34\uc18c \ucc45\uc784\uc790\uc778 \ud1b0 \ud6cc\ub984\uacfc\uc758 \uc778\ud130\ubdf0\ub97c \ud1b5\ud574 AI \ud22c\uc790 \uc8fc\uae30\ub97c..."
-    },
     {
       "timestamp": "2026-03-18 10:56:58",
       "message": "[PROCESSING] Analyzing: Investigation: Jeffrey Epstein spent hundreds of thousands on a campaign to manipulate Google search results and sanitize his Wikipedia, after his 2009 release (New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 10:57:37",
       "message": "[PROCESSING] Analyzing: Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing..."
+    },
+    {
+      "timestamp": "2026-03-18 10:57:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing"
     }
   ]
 }
