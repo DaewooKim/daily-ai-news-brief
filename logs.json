@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 22:06:49",
+  "last_updated": "2026-03-18 22:06:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 22:06:07",
-      "message": "[PROCESSING] Analyzing: NVIDIA Vera CPU Delivers High Performance, Bandwidth, and Efficiency for AI Factories..."
-    },
     {
       "timestamp": "2026-03-18 22:06:14",
       "message": "[SUCCESS] Processed: NVIDIA \ubca0\ub77c CPU, AI \uacf5\uc7a5\uc744 \uc704\ud55c \ub192\uc740 \uc131\ub2a5, \ub300\uc5ed\ud3ed \ubc0f \ud6a8\uc728\uc131 \uc81c\uacf5\n  > Summary: AI\uac00 \ubc1c\uc804\ud568\uc5d0 \ub530\ub77c, \ucd94\ub860 \ubaa8\ub378\ub4e4\uc774 \uc99d\uac00\ud558\ub294 \ud1a0\ud070 \uc218\uc694\ub97c \ubc1c\uc0dd\uc2dc\ud0a4\uace0 \uc788\uc73c\uba70, \uc774\ub294 AI ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 22:06:49",
       "message": "[PROCESSING] Analyzing: AC/DC Converters Are Coming Out of Their Host\u2019s Box..."
+    },
+    {
+      "timestamp": "2026-03-18 22:06:51",
+      "message": "[SKIP] Irrelevant (AI Filter): AC/DC Converters Are Coming Out of Their Host\u2019s Box"
     }
   ]
 }
