@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 02:08:28",
+  "last_updated": "2026-03-18 02:08:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 02:07:45",
-      "message": "[PROCESSING] Analyzing: Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are \"not aware of specifics\" (Karen Freifeld/Reuters)..."
-    },
     {
       "timestamp": "2026-03-18 02:07:50",
       "message": "[SUCCESS] Processed: \ubca0\uc774\uc9d5, \uc5ec\ub7ec \uc911\uad6d \uae30\uc5c5\uc774 Nvidia\uc758 H200 \uce69 \uad6c\ub9e4\ub97c \uc2b9\uc778\ud588\uc2b5\ub2c8\ub2e4; \uc911\uad6d \ub300\ubcc0\uc778\uc740 '\uad6c\uccb4\uc801\uc778 \uc0ac\ud56d\uc740 \uc54c\uc9c0 \ubabb\ud55c\ub2e4'\uace0 \ub9d0\ud588\uc2b5\ub2c8\ub2e4\n  > Summary: \uc911\uad6d \ub2f9\uad6d\uc774 \uc5ec\ub7ec \uc911\uad6d \uae30\uc5c5\uc774 Nvidia\uc758 H200 AI \uce69\uc744 \uad6c\ub9e4\ud560 \uc218 \uc788\ub3c4\ub85d \uc2b9\uc778\uc744 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 02:08:28",
       "message": "[PROCESSING] Analyzing: Meta says Quest users will lose access to Meta Horizon Worlds on the headsets on June 15; access will continue on the Meta Horizon mobile app (Riley Griffin/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-18 02:08:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta says Quest users will lose access to Meta Horizon Worlds on the headsets on June 15; access will continue on the Meta Horizon mobile app (Riley Griffin/Bloomberg)"
     }
   ]
 }
