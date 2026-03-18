@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 18:44:27",
+  "last_updated": "2026-03-18 18:44:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 18:43:34",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-18 18:43:46",
       "message": "Found 163 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 18:44:27",
       "message": "[PROCESSING] Analyzing: Philips\u2019 new audio gear brings back the bright, bold colors of the \u201980s..."
+    },
+    {
+      "timestamp": "2026-03-18 18:44:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Philips\u2019 new audio gear brings back the bright, bold colors of the \u201980s"
     }
   ]
 }
