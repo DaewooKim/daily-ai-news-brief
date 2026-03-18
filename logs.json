@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 06:33:03",
+  "last_updated": "2026-03-18 06:33:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 06:32:28",
-      "message": "[PROCESSING] Analyzing: Sources: Amazon, long the USPS' biggest customer, plans to cut packages it ships via the service by at least two-thirds this fall, when its contract expires (Esther Fung/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-03-18 06:32:30",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Amazon, long the USPS' biggest customer, plans to cut packages it ships via the service by at least two-thirds this fall, when its contract expires (Esther Fung/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 06:33:03",
       "message": "[PROCESSING] Analyzing: Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing..."
+    },
+    {
+      "timestamp": "2026-03-18 06:33:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing"
     }
   ]
 }
