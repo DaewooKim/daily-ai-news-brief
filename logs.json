@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 20:58:22",
+  "last_updated": "2026-03-18 20:58:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 20:57:32",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-18 20:57:45",
       "message": "Found 163 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 20:58:22",
       "message": "[PROCESSING] Analyzing: The best AirPods deals you can get right now..."
+    },
+    {
+      "timestamp": "2026-03-18 20:58:24",
+      "message": "[SKIP] Irrelevant (AI Filter): The best AirPods deals you can get right now"
     }
   ]
 }
