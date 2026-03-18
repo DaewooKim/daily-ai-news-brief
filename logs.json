@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 19:51:30",
+  "last_updated": "2026-03-18 19:51:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 19:50:55",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-18 19:50:55",
       "message": "[PROCESSING] Analyzing: The best deals on MacBooks right now..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 19:51:30",
       "message": "[SKIP] Irrelevant (AI Filter): The best early Amazon Big Spring Sale deals you can get right now"
+    },
+    {
+      "timestamp": "2026-03-18 19:51:32",
+      "message": "Reprocessing: The Open Agentic AI World According To Nvidia"
     }
   ]
 }
