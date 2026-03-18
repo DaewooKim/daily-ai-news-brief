@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-18 01:01:36",
+  "last_updated": "2026-03-18 01:01:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-18 01:01:01",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \ud56d\uc18c \ubc95\uc6d0, Perplexity\uc758 \uc5d0\uc774\uc804\ud2f1 \uc1fc\ud551 \ub3c4\uad6c \uc0ac\uc6a9 \uae08\uc9c0 \ud310\uacb0 \uc911\ub2e8\n  > Summary: \ubbf8\uad6d \ud56d\uc18c \ubc95\uc6d0\uc774 Perplexity AI\uac00 \uc544\ub9c8\uc874 \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4\uc5d0\uc11c \uc1fc\ud551\ud558\uae30 \uc704\ud574 \uc778\uacf5\uc9c0\ub2a5..."
-    },
     {
       "timestamp": "2026-03-18 01:01:03",
       "message": "Reprocessing: Sources: Nvidia is preparing to sell a version of Groq chips to the Chinese market that is expected to be available in May and will not be downgraded (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-18 01:01:36",
       "message": "[PROCESSING] Analyzing: Robinhood Ventures Fund I discloses its first investments, buying $14.6M of Stripe shares and $20M of ElevenLabs' preferred stock in March (CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-03-18 01:01:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Robinhood Ventures Fund I discloses its first investments, buying $14.6M of Stripe shares and $20M of ElevenLabs' preferred stock in March (CoinDesk)"
     }
   ]
 }
