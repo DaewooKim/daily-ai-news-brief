@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 16:55:52",
+  "last_updated": "2026-03-19 16:55:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 16:55:15",
-      "message": "[SUCCESS] Processed: DoorDash, AI \ud6c8\ub828\uc744 \uc704\ud55c \ube44\ub514\uc624 \uc81c\ucd9c\uc5d0 \ub300\ud55c \ubcf4\uc218\ub97c \uc9c0\uae09\ud558\ub294 \uc0c8\ub85c\uc6b4 \u2018Tasks\u2019 \uc571 \ucd9c\uc2dc\n  > Summary: DoorDash\ub294 \ubc30\ub2ec \uae30\uc0ac\uac00 \uc77c\uc0c1\uc801\uc778 \uc791\uc5c5\uc744 \ucd2c\uc601\ud558\uac70\ub098 \ub2e4\ub978 \uc5b8\uc5b4\ub85c \ub9d0\ud558\ub294 \uc790\uc2e0\uc744 \ub179\ud654\ud558..."
-    },
     {
       "timestamp": "2026-03-19 16:55:17",
       "message": "[PROCESSING] Analyzing: TechCrunch\u00a0Startup Battlefield 200 nominations\u00a0are still\u00a0open..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 16:55:52",
       "message": "[PROCESSING] Analyzing: The Electronics Industry Prepares for \u2018Verified Sustainability\u2019 in 2026..."
+    },
+    {
+      "timestamp": "2026-03-19 16:55:56",
+      "message": "[SKIP] Irrelevant (AI Filter): The Electronics Industry Prepares for \u2018Verified Sustainability\u2019 in 2026"
     }
   ]
 }
