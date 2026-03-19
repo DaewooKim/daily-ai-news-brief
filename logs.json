@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 21:28:37",
+  "last_updated": "2026-03-19 21:28:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 21:27:56",
-      "message": "[PROCESSING] Analyzing: Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove..."
-    },
     {
       "timestamp": "2026-03-19 21:27:59",
       "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, \uc138\ucffc\uc774\uc544 \uc9c0\uc6d0 AI \ud611\uc5c5 \ud50c\ub7ab\ud3fc \ucf54\ube0c \ud300\uc744 \uc601\uc785\ud558\ub2e4\n  > Summary: AI \ud611\uc5c5 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ucf54\ube0c\uac00 \ud300\uc774 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc5d0 \ud569\ub958\ud558\uba74\uc11c \uc11c\ube44\uc2a4\uac00 \uc911\ub2e8\ub418\uace0 4\uc6d4 1\uc77c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 21:28:37",
       "message": "[PROCESSING] Analyzing: Verily raised $300M led by Series X Capital, giving it ~2 years of runway per a source; Alphabet remains an investor but no longer has a controlling stake (Axios)..."
+    },
+    {
+      "timestamp": "2026-03-19 21:28:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Verily raised $300M led by Series X Capital, giving it ~2 years of runway per a source; Alphabet remains an investor but no longer has a controlling stake (Axios)"
     }
   ]
 }
