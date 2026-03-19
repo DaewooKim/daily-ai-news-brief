@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 11:21:05",
+  "last_updated": "2026-03-19 11:21:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 11:20:30",
-      "message": "[SKIP] Irrelevant (AI Filter): An analysis of a NYT article load finds 422 network requests totaling 49MB, triggering a sprawling programmatic ad auction, an example of \"hostile architecture\" (Shubham Bose)"
-    },
     {
       "timestamp": "2026-03-19 11:20:32",
       "message": "[PROCESSING] Analyzing: CISA warns US companies to follow Microsoft's recommendations for fortifying Intune, a tool to manage staff access, after a cyberattack on Stryker last week (Margi Murphy/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 11:21:05",
       "message": "[PROCESSING] Analyzing: CEA\u2011Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026..."
+    },
+    {
+      "timestamp": "2026-03-19 11:21:07",
+      "message": "[SKIP] Irrelevant (AI Filter): CEA\u2011Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026"
     }
   ]
 }
