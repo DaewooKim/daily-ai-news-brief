@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-19 06:52:56",
+  "last_updated": "2026-03-19 06:52:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 06:52:22",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-03-19 06:52:22",
-      "message": "[PROCESSING] Analyzing: The FBI is buying Americans\u2019 location data..."
-    },
     {
       "timestamp": "2026-03-19 06:52:25",
       "message": "[SKIP] Irrelevant (AI Filter): The FBI is buying Americans\u2019 location data"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-19 06:52:56",
       "message": "Reprocessing: Nvidia Finally Admits Why It Shelled Out $20 Billion For Groq"
+    },
+    {
+      "timestamp": "2026-03-19 06:52:57",
+      "message": "[SKIP] Content too short: Nvidia Finally Admits Why It S..."
+    },
+    {
+      "timestamp": "2026-03-19 06:52:58",
+      "message": "Reprocessing: Nvidia Says OpenClaw Is To Agentic AI What GPT Was To Chattybots"
     }
   ]
 }
