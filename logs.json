@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 22:35:10",
+  "last_updated": "2026-03-19 22:35:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 22:34:39",
-      "message": "[SUCCESS] Processed: \uc81c\ud504 \ubca0\uc870\uc2a4, AI\ub85c \uad6c\ud615 \uc81c\uc870\uc5c5\uccb4 \uc778\uc218 \ubc0f \ubcc0\ud658 \uc704\ud574 1\ucc9c\uc5b5 \ub2ec\ub7ec \uc6d0\ud574\n  > Summary: \uc544\ub9c8\uc874\uc758 \uac70\ubb3c \uc81c\ud504 \ubca0\uc870\uc2a4\ub294 AI \uae30\uc220\uc744 \ud65c\uc6a9\ud558\uc5ec \uad6c\ud615 \uc81c\uc870\uc5c5\uccb4\ub97c \uc778\uc218\ud558\uace0 \ubcc0\ud658\ud558\ub294 \uc0c8\ub85c\uc6b4..."
-    },
     {
       "timestamp": "2026-03-19 22:34:40",
       "message": "Reprocessing: DoorDash launches a new \u2018Tasks\u2019 app that pays couriers to submit videos to train AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 22:35:10",
       "message": "[PROCESSING] Analyzing: The Electronics Industry Prepares for \u2018Verified Sustainability\u2019 in 2026..."
+    },
+    {
+      "timestamp": "2026-03-19 22:35:12",
+      "message": "[SKIP] Irrelevant (AI Filter): The Electronics Industry Prepares for \u2018Verified Sustainability\u2019 in 2026"
     }
   ]
 }
