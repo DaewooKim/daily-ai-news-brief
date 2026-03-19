@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 05:48:20",
+  "last_updated": "2026-03-19 05:48:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 05:47:49",
-      "message": "[SUCCESS] Processed: GPT-5.4 \ubbf8\ub2c8 \ubc0f \ub098\ub178 \uc18c\uac1c\n  > Summary: GPT-5.4 \ubbf8\ub2c8\uc640 \ub098\ub178\ub294 GPT-5.4\uc758 \ub354 \uc791\uace0 \ube60\ub978 \ubc84\uc804\uc73c\ub85c, \ucf54\ub529, \ub3c4\uad6c \uc0ac\uc6a9, ..."
-    },
     {
       "timestamp": "2026-03-19 05:47:50",
       "message": "[PROCESSING] Analyzing: OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 05:48:20",
       "message": "[PROCESSING] Analyzing: Synopsys Shows Off First Synopsys-Ansys Products..."
+    },
+    {
+      "timestamp": "2026-03-19 05:48:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Synopsys Shows Off First Synopsys-Ansys Products"
     }
   ]
 }
