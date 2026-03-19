@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 01:24:16",
+  "last_updated": "2026-03-19 01:24:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 01:23:45",
-      "message": "[PROCESSING] Analyzing: The best deals on MacBooks right now..."
-    },
     {
       "timestamp": "2026-03-19 01:23:47",
       "message": "[SKIP] Irrelevant (AI Filter): The best deals on MacBooks right now"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 01:24:16",
       "message": "Reprocessing: Women Get Data-Driven Health Boost As The FA Tackles Sports Science's Male Bias"
+    },
+    {
+      "timestamp": "2026-03-19 01:24:18",
+      "message": "[SKIP] Content too short: Women Get Data-Driven Health B..."
     }
   ]
 }
