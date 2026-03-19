@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 16:57:33",
+  "last_updated": "2026-03-19 16:57:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 16:56:54",
-      "message": "Reprocessing: OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January (Agnee Ghosh/Bloomberg)"
-    },
     {
       "timestamp": "2026-03-19 16:56:56",
       "message": "[PROCESSING] Analyzing: OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January (Agnee Ghosh/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 16:57:33",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-19 16:57:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
