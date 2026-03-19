@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 19:13:38",
+  "last_updated": "2026-03-19 19:13:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 19:12:54",
-      "message": "[SUCCESS] Processed: NVIDIA, AI \ub370\uc774\ud130 \uc13c\ud130 800 VDC \ub799 \uc804\ub825 \uc9c0\uc6d0\uc744 \uc704\ud574 Innoscience\uc5d0 GaN \uacf5\uae09\uc5c5\uccb4 \uc0c1 \uc218\uc5ec\n  > Summary: NVIDIA\ub294 San Jose\uc5d0\uc11c \uc5f4\ub9b0 \uc5f0\ub840 GTC \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c Innoscience\uc5d0 G..."
-    },
     {
       "timestamp": "2026-03-19 19:12:55",
       "message": "[PROCESSING] Analyzing: AC/DC Converters Are Coming Out of Their Host\u2019s Box..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 19:13:38",
       "message": "[PROCESSING] Analyzing: Google announces a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers (Dominic Preston/The Verge)..."
+    },
+    {
+      "timestamp": "2026-03-19 19:13:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Google announces a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers (Dominic Preston/The Verge)"
     }
   ]
 }
