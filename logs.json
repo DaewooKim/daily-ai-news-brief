@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 11:18:33",
+  "last_updated": "2026-03-19 11:18:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 11:17:50",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-19 11:17:50",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 11:18:33",
       "message": "[PROCESSING] Analyzing: Kasa\u2019s Matter-compatible smart plugs are on sale for $11 a pop..."
+    },
+    {
+      "timestamp": "2026-03-19 11:18:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Kasa\u2019s Matter-compatible smart plugs are on sale for $11 a pop"
     }
   ]
 }
