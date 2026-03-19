@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-19 14:41:04",
+  "last_updated": "2026-03-19 14:41:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 14:40:15",
-      "message": "[SUCCESS] Processed: OpenAI, \uac1c\ubc1c\uc790\ub97c \uc704\ud55c Python \ub3c4\uad6c\ub97c \ub9cc\ub4dc\ub294 Astral \uc778\uc218 \ud569\uc758 \ud6c4 Codex \ud1b5\ud569 \uc608\uc815\n  > Summary: OpenAI\uac00 \uac1c\ubc1c\uc790\ub97c \uc704\ud55c Python \ub3c4\uad6c\ub97c \ub9cc\ub4dc\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 Astral\uc744 \uc778\uc218\ud558\uae30\ub85c ..."
-    },
     {
       "timestamp": "2026-03-19 14:40:16",
       "message": "[PROCESSING] Analyzing: The UK CMA launches an investigation into Adobe, saying early membership cancellation fees for certain products might be in breach of consumer protection laws (Mauro Orru/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-19 14:41:04",
       "message": "[PROCESSING] Analyzing: CEA\u2011Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026..."
+    },
+    {
+      "timestamp": "2026-03-19 14:41:06",
+      "message": "[SKIP] Irrelevant (AI Filter): CEA\u2011Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026"
     }
   ]
 }
