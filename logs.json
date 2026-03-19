@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-19 20:18:49",
+  "last_updated": "2026-03-19 20:18:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-19 20:18:14",
-      "message": "[PROCESSING] Analyzing: The coolest game controller for your phone is $50 off..."
-    },
-    {
-      "timestamp": "2026-03-19 20:18:17",
-      "message": "[SKIP] Irrelevant (AI Filter): The coolest game controller for your phone is $50 off"
-    },
     {
       "timestamp": "2026-03-19 20:18:18",
       "message": "[PROCESSING] Analyzing: Herm\u00e8s doesn\u2019t include a power adapter with its $5,150 charging case..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-19 20:18:49",
       "message": "Reprocessing: Nvidia Finally Admits Why It Shelled Out $20 Billion For Groq"
+    },
+    {
+      "timestamp": "2026-03-19 20:18:51",
+      "message": "[SKIP] Content too short: Nvidia Finally Admits Why It S..."
+    },
+    {
+      "timestamp": "2026-03-19 20:18:52",
+      "message": "Reprocessing: Nvidia Says OpenClaw Is To Agentic AI What GPT Was To Chattybots"
     }
   ]
 }
