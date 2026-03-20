@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 10:49:51",
+  "last_updated": "2026-03-20 10:49:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 10:49:15",
-      "message": "Found 174 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-20 10:49:15",
       "message": "[PROCESSING] Analyzing: Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 10:49:51",
       "message": "[SKIP] Irrelevant (AI Filter): Prediction markets are trying to lure journalists with partnership deals"
+    },
+    {
+      "timestamp": "2026-03-20 10:49:53",
+      "message": "Reprocessing: Driving Down The AI System Roadmap With Nvidia"
     }
   ]
 }
