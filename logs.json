@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 05:20:42",
+  "last_updated": "2026-03-20 05:20:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 05:20:04",
-      "message": "[PROCESSING] Analyzing: Alibaba and Tencent lost a combined $66B in market value over about 24 hours as investors reacted to unclear monetization plans for their AI investments (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-20 05:20:08",
       "message": "[SUCCESS] Processed: \uc54c\ub9ac\ubc14\ubc14\uc640 \ud150\uc13c\ud2b8, AI \ud22c\uc790 \uc218\uc775\ud654 \uacc4\ud68d \ubaa8\ud638\ub85c \uc778\ud574 24\uc2dc\uac04 \ub3d9\uc548 660\uc5b5 \ub2ec\ub7ec \uc2dc\uc7a5 \uac00\uce58 \ud558\ub77d\n  > Summary: \uc54c\ub9ac\ubc14\ubc14 \uadf8\ub8f9\uacfc \ud150\uc13c\ud2b8 \ud640\ub529\uc2a4\ub294 AI \ud22c\uc790 \uc218\uc775\ud654 \uacc4\ud68d\uc758 \ubd88\ud655\uc2e4\uc131\uc73c\ub85c \uc778\ud574 \uc57d 24\uc2dc\uac04 \ub9cc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 05:20:42",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-20 05:20:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
