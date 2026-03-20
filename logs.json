@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 04:06:49",
+  "last_updated": "2026-03-20 04:06:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 04:05:59",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-20 04:06:12",
       "message": "Found 173 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 04:06:49",
       "message": "[PROCESSING] Analyzing: Prediction markets are trying to lure journalists with partnership deals..."
+    },
+    {
+      "timestamp": "2026-03-20 04:06:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Prediction markets are trying to lure journalists with partnership deals"
     }
   ]
 }
