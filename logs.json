@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-20 14:11:13",
+  "last_updated": "2026-03-20 14:11:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 14:09:31",
-      "message": "Found 179 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-03-20 14:09:31",
-      "message": "[PROCESSING] Analyzing: Much ado about protein..."
-    },
     {
       "timestamp": "2026-03-20 14:09:37",
       "message": "[SKIP] Irrelevant (AI Filter): Much ado about protein"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-20 14:11:13",
       "message": "[SKIP] Irrelevant (AI Filter): Marc Andreessen is a philosophical zombie"
+    },
+    {
+      "timestamp": "2026-03-20 14:11:14",
+      "message": "[PROCESSING] Analyzing: The coolest game controller for your phone is $50 off..."
+    },
+    {
+      "timestamp": "2026-03-20 14:11:17",
+      "message": "[SKIP] Irrelevant (AI Filter): The coolest game controller for your phone is $50 off"
     }
   ]
 }
