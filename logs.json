@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 10:52:29",
+  "last_updated": "2026-03-20 10:52:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 10:51:56",
-      "message": "[PROCESSING] Analyzing: Sources: Amazon's ZeroOne team is developing \"Transformer\", a phone that syncs up with Alexa; it would be Amazon's first smartphone since its 2014 Fire Phone (Greg Bensinger/Reuters)..."
-    },
     {
       "timestamp": "2026-03-20 10:51:58",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Amazon's ZeroOne team is developing \"Transformer\", a phone that syncs up with Alexa; it would be Amazon's first smartphone since its 2014 Fire Phone (Greg Bensinger/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 10:52:29",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-20 10:52:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
