@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 08:39:59",
+  "last_updated": "2026-03-20 08:40:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 08:39:24",
-      "message": "[SUCCESS] Processed: \uad00\uc138\uac00 \ube44\uc6a9\uc744 \uc99d\uac00\uc2dc\ud0a4\uc9c0\ub9cc, \ubd80\ud488 \ubd80\uc871\uc774 \ub370\uc774\ud130 \uc13c\ud130 \uc77c\uc815 \uacb0\uc815\ud55c\ub2e4\n  > Summary: 2\uc6d4 \ubc95\uc6d0 \uacb0\uc815\uc73c\ub85c \uc774\uc804 \uad00\uc138\uc758 \uc77c\ubd80\uac00 \ubb34\ud6a8\ud654\ub418\uc5c8\uc73c\ub098, \uc218\uc785 \ube44\uc6a9\uc740 \uc5ec\uc804\ud788 \ubcc0\ub3d9 \uc911\uc774\ub2e4. ..."
-    },
     {
       "timestamp": "2026-03-20 08:39:25",
       "message": "[PROCESSING] Analyzing: Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program (The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 08:39:59",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-20 08:40:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
