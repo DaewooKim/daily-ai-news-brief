@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 07:33:38",
+  "last_updated": "2026-03-20 07:33:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 07:33:00",
-      "message": "Reprocessing: Tariffs Add Cost, but Component Shortages Dictate Data Center Timelines"
-    },
     {
       "timestamp": "2026-03-20 07:33:01",
       "message": "[PROCESSING] Analyzing: Tariffs Add Cost, but Component Shortages Dictate Data Center Timelines..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 07:33:38",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-20 07:33:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
