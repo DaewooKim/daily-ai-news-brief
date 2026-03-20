@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 07:32:28",
+  "last_updated": "2026-03-20 07:32:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 07:31:52",
-      "message": "[SUCCESS] Processed: NVIDIA \ubca0\ub77c CPU, AI \ud329\ud1a0\ub9ac\ub97c \uc704\ud55c \ub192\uc740 \uc131\ub2a5, \ub300\uc5ed\ud3ed \ubc0f \ud6a8\uc728\uc131 \uc81c\uacf5\n  > Summary: AI\uac00 \ubc1c\uc804\ud558\uba74\uc11c \ucd94\ub860 \ubaa8\ub378\uc774 \ud1a0\ud070 \uc218\uc694\ub97c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc788\uc73c\uba70 AI \uc778\ud504\ub77c\uc758 \ubaa8\ub4e0 \uacc4\uce35\uc5d0\uc11c ..."
-    },
     {
       "timestamp": "2026-03-20 07:31:53",
       "message": "Reprocessing: Google Research at The Check Up: from healthcare innovation to real-world care settings"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 07:32:28",
       "message": "[PROCESSING] Analyzing: Sam Altman\u2019s thank-you to coders draws the memes..."
+    },
+    {
+      "timestamp": "2026-03-20 07:32:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Sam Altman\u2019s thank-you to coders draws the memes"
     }
   ]
 }
