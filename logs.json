@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 11:57:48",
+  "last_updated": "2026-03-20 11:57:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 11:57:11",
-      "message": "[SUCCESS] Processed: \ub0b4\ubd80 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc758 \ubd88\uc77c\uce58\ub97c \ubaa8\ub2c8\ud130\ub9c1\ud558\ub294 \ubc29\ubc95\n  > Summary: OpenAI\ub294 \uccb4\uc778 \uc624\ube0c \uc4f0Thought \ubaa8\ub2c8\ud130\ub9c1\uc744 \uc0ac\uc6a9\ud558\uc5ec \ub0b4\ubd80 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc758 \ubd88\uc77c\uce58\ub97c..."
-    },
     {
       "timestamp": "2026-03-20 11:57:13",
       "message": "Reprocessing: OpenAI to acquire Astral"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 11:57:48",
       "message": "[PROCESSING] Analyzing: Middle East Conflict Is Rewiring Global Supply Chains..."
+    },
+    {
+      "timestamp": "2026-03-20 11:57:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Middle East Conflict Is Rewiring Global Supply Chains"
     }
   ]
 }
