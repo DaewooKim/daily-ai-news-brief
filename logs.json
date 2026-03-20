@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 20:54:23",
+  "last_updated": "2026-03-20 20:54:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 20:53:22",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-20 20:53:22",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 20:54:23",
       "message": "[PROCESSING] Analyzing: Google\u2019s battery-powered Nest Doorbell is $40 off right now..."
+    },
+    {
+      "timestamp": "2026-03-20 20:54:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Google\u2019s battery-powered Nest Doorbell is $40 off right now"
     }
   ]
 }
