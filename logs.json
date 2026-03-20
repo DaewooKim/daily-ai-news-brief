@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 09:46:14",
+  "last_updated": "2026-03-20 09:46:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 09:45:40",
-      "message": "[SUCCESS] Processed: \uc0e4\uc624\ubbf8, \uc0c8\ub85c\uc6b4 1T-\ud30c\ub77c\ubbf8\ud130 \uae30\ubc18 \ubaa8\ub378 MiMo-V2-Pro \ucd9c\uc2dc - \ucf54\ub4dc\uba85 \ud5cc\ud130 \uc54c\ud30c, GPT-5.2 \ubc0f Opus 4.6\uc640 \uc720\uc0ac\ud55c \uc131\ub2a5 \ubcf4\uc5ec\n  > Summary: \uc0e4\uc624\ubbf8\uac00 \uc0c8\ub85c\uc6b4 1T-\ud30c\ub77c\ubbf8\ud130 \uae30\ubc18 \ubaa8\ub378\uc778 MiMo-V2-Pro\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740..."
-    },
     {
       "timestamp": "2026-03-20 09:45:41",
       "message": "[PROCESSING] Analyzing: Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program (The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 09:46:14",
       "message": "[PROCESSING] Analyzing: Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing..."
+    },
+    {
+      "timestamp": "2026-03-20 09:46:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing"
     }
   ]
 }
