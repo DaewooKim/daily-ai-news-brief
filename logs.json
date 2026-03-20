@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-20 13:05:56",
+  "last_updated": "2026-03-20 13:05:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-20 13:05:11",
-      "message": "[PROCESSING] Analyzing: Filing: Unitree, China's leading robot company, is aiming to raise ~$610M in its Shanghai IPO; it brought in ~$247M in revenue in 2025 and ~$41.6M in net profit (Jessica Sui/Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-20 13:05:20",
       "message": "[SUCCESS] Processed: \uc0c1\uc7a5\uc2e0\uace0: \uc911\uad6d\uc758 \uc120\ub3c4 \ub85c\ubd07 \ud68c\uc0ac \uc720\ub2c8\ud2b8\ub9ac, \uc0c1\ud558\uc774 IPO\uc5d0\uc11c \uc57d 6\uc5b5 1\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud560 \uacc4\ud68d\n  > Summary: \uc911\uad6d\uc758 \ub85c\ubd07 \ud68c\uc0ac \uc720\ub2c8\ud2b8\ub9ac \ub85c\ubcf4\ud2f1\uc2a4\uac00 \uc0c1\ud558\uc774\uc5d0\uc11c IPO\ub97c \uc704\ud55c \uc0c1\uc7a5\uc2e0\uace0\ub97c \ud588\uc2b5\ub2c8\ub2e4. 202..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-20 13:05:56",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-20 13:05:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
