@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-21 09:06:00",
+  "last_updated": "2026-03-21 09:06:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-21 09:05:22",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 Astral\uc744 \uc778\uc218\ud560 \uc608\uc815\n  > Summary: OpenAI\ub294 Astral\uc744 \uc778\uc218\ud558\uc5ec Codex \uc131\uc7a5\uc744 \uac00\uc18d\ud654\ud558\uace0 \ucc28\uc138\ub300 \ud30c\uc774\uc36c \uac1c\ubc1c \ub3c4\uad6c..."
-    },
     {
       "timestamp": "2026-03-21 09:05:24",
       "message": "Reprocessing: Introducing GPT-5.4 mini and nano"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-21 09:06:00",
       "message": "[PROCESSING] Analyzing: Middle East Conflict Is Rewiring Global Supply Chains..."
+    },
+    {
+      "timestamp": "2026-03-21 09:06:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Middle East Conflict Is Rewiring Global Supply Chains"
     }
   ]
 }
