@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-21 00:18:23",
+  "last_updated": "2026-03-21 00:18:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-21 00:17:39",
-      "message": "[SUCCESS] Processed: \uc720\ucd9c\ub41c DOD \uc11c\ud55c: \ud39c\ud0c0\uace4, \ubaa8\ub4e0 \uad70 \ub300\uc5d0 \uac78\uccd0 \ucc44\ud0dd\uc744 \uc6a9\uc774\ud558\uac8c \ud558\uae30 \uc704\ud574 \ud314\ub780\ud2f0\uc5b4\uc758 \uba54\uc774\ube10 AI \uc2dc\uc2a4\ud15c\uc744 \uacf5\uc2dd \ud504\ub85c\uadf8\ub7a8\uc73c\ub85c \ucc44\ud0dd\ud560 \uac83\n  > Summary: \ud39c\ud0c0\uace4\uc774 \ud314\ub780\ud2f0\uc5b4\uc758 \uba54\uc774\ube10 \uc778\uacf5\uc9c0\ub2a5 \uc2dc\uc2a4\ud15c\uc744 \uacf5\uc2dd \ud504\ub85c\uadf8\ub7a8\uc73c\ub85c \ucc44\ud0dd\ud560 \uac83\uc774\ub77c\ub294 \ub0b4\uc6a9\uc758 \uc720\ucd9c..."
-    },
     {
       "timestamp": "2026-03-21 00:17:40",
       "message": "[PROCESSING] Analyzing: The FBI and CISA warn hackers tied to Russian intelligence services are targeting users of messaging apps such as Signal with phishing attacks (Tim Starks/CyberScoop)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-21 00:18:23",
       "message": "[PROCESSING] Analyzing: Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages..."
+    },
+    {
+      "timestamp": "2026-03-21 00:18:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages"
     }
   ]
 }
