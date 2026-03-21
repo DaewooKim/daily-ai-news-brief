@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-21 17:55:25",
+  "last_updated": "2026-03-21 17:55:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-21 17:54:53",
-      "message": "Reprocessing: Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to stop Anthropic's momentum with business customers (Financial Times)"
-    },
     {
       "timestamp": "2026-03-21 17:54:54",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to stop Anthropic's momentum with business customers (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-21 17:55:25",
       "message": "[PROCESSING] Analyzing: Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy..."
+    },
+    {
+      "timestamp": "2026-03-21 17:55:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy"
     }
   ]
 }
