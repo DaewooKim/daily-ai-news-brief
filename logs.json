@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-21 05:49:07",
+  "last_updated": "2026-03-21 05:49:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-21 05:48:26",
-      "message": "Reprocessing: LightSpeed, Infraeo Target AI Bottlenecks with NPO, Fiber"
-    },
     {
       "timestamp": "2026-03-21 05:48:27",
       "message": "[PROCESSING] Analyzing: LightSpeed, Infraeo Target AI Bottlenecks with NPO, Fiber..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-21 05:49:07",
       "message": "[PROCESSING] Analyzing: Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)..."
+    },
+    {
+      "timestamp": "2026-03-21 05:49:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)"
     }
   ]
 }
