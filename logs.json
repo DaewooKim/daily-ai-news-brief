@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-21 21:10:39",
+  "last_updated": "2026-03-21 21:10:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-21 21:10:03",
-      "message": "[SUCCESS] Processed: \ucd9c\ud310\uc0ac, AI \uc6b0\ub824\ub85c \ud638\ub7ec \uc18c\uc124 \u2018Shy Girl\u2019 \ucd9c\uac04 \ucde8\uc18c\n  > Summary: Hachette \ubd81 \uadf8\ub8f9\uc740 \uc778\uacf5\uc9c0\ub2a5\uc774 \ud14d\uc2a4\ud2b8 \uc0dd\uc131\uc5d0 \uc0ac\uc6a9\ub418\uc5c8\ub2e4\ub294 \uc6b0\ub824\ub85c \uc778\ud574 \u2018Shy Gi..."
-    },
     {
       "timestamp": "2026-03-21 21:10:05",
       "message": "[PROCESSING] Analyzing: Delve accused of misleading customers with \u2018fake compliance\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-21 21:10:39",
       "message": "[PROCESSING] Analyzing: AC/DC Converters Are Coming Out of Their Host\u2019s Box..."
+    },
+    {
+      "timestamp": "2026-03-21 21:10:42",
+      "message": "[SKIP] Irrelevant (AI Filter): AC/DC Converters Are Coming Out of Their Host\u2019s Box"
     }
   ]
 }
