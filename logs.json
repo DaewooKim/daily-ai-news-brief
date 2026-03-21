@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-21 20:04:17",
+  "last_updated": "2026-03-21 20:04:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-21 20:03:47",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-21 20:03:47",
       "message": "[PROCESSING] Analyzing: Here are 20 of our favorite outdoor deals from REI\u2019s Member Days Sale..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-21 20:04:17",
       "message": "Reprocessing: IBM Unrolls Blueprint For Quantum-Classical HPC Computing"
+    },
+    {
+      "timestamp": "2026-03-21 20:04:18",
+      "message": "[SKIP] Content too short: IBM Unrolls Blueprint For Quan..."
     }
   ]
 }
