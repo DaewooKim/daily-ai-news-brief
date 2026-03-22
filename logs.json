@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-22 00:24:36",
+  "last_updated": "2026-03-22 00:24:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-22 00:24:07",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-22 00:24:07",
       "message": "[PROCESSING] Analyzing: Halide co-founder is suing former partner for bringing source code to Apple..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-22 00:24:36",
       "message": "Reprocessing: Google Research at The Check Up: from healthcare innovation to real-world care settings"
+    },
+    {
+      "timestamp": "2026-03-22 00:24:38",
+      "message": "[SKIP] Content too short: Google Research at The Check U..."
     }
   ]
 }
