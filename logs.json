@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-22 14:23:48",
+  "last_updated": "2026-03-22 14:23:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-22 14:23:11",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-22 14:23:11",
       "message": "[PROCESSING] Analyzing: Musk says he\u2019s building Terafab chip plant in Austin, Texas..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-22 14:23:48",
       "message": "Reprocessing: Nvidia Finally Admits Why It Shelled Out $20 Billion For Groq"
+    },
+    {
+      "timestamp": "2026-03-22 14:23:49",
+      "message": "[SKIP] Content too short: Nvidia Finally Admits Why It S..."
     }
   ]
 }
