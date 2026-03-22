@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-22 16:32:48",
+  "last_updated": "2026-03-22 16:32:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-22 16:32:11",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-22 16:32:11",
       "message": "[PROCESSING] Analyzing: The secret story of the vocoder, the military tech that changed music forever..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-22 16:32:48",
       "message": "Reprocessing: Improving breast cancer screening workflows with machine learning"
+    },
+    {
+      "timestamp": "2026-03-22 16:32:49",
+      "message": "[SKIP] Content too short: Improving breast cancer screen..."
     }
   ]
 }
