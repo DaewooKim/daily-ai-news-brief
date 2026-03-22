@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-22 06:54:14",
+  "last_updated": "2026-03-22 06:54:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-22 06:53:37",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to stop Anthropic's momentum with business customers (Financial Times)..."
-    },
     {
       "timestamp": "2026-03-22 06:53:40",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, 2026\ub144 \ub9d0\uae4c\uc9c0 \uc57d 8,000\uba85\uc73c\ub85c \uc131\uc7a5 \ubaa9\ud45c\n  > Summary: \uc624\ud508AI\ub294 \ud604\uc7ac \uc57d 4,500\uba85\uc758 \uc9c1\uc6d0\uc5d0\uc11c 2026\ub144 \ub9d0\uae4c\uc9c0 \uc57d 8,000\uba85\uc73c\ub85c \uc99d\uac00\ud560 \uacc4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-22 06:54:14",
       "message": "[PROCESSING] Analyzing: Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2..."
+    },
+    {
+      "timestamp": "2026-03-22 06:54:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2"
     }
   ]
 }
