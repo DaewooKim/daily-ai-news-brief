@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 19:31:09",
+  "last_updated": "2026-03-23 19:31:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 19:30:33",
-      "message": "[PROCESSING] Analyzing: Some writing advice from Project Hail Mary\u2019s Andy Weir..."
-    },
     {
       "timestamp": "2026-03-23 19:30:37",
       "message": "[SKIP] Irrelevant (AI Filter): Some writing advice from Project Hail Mary\u2019s Andy Weir"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 19:31:09",
       "message": "[PROCESSING] Analyzing: Delve accused of misleading customers with \u2018fake compliance\u2019..."
+    },
+    {
+      "timestamp": "2026-03-23 19:31:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Delve accused of misleading customers with \u2018fake compliance\u2019"
     }
   ]
 }
