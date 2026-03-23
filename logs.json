@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 06:30:49",
+  "last_updated": "2026-03-23 06:30:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 06:30:15",
-      "message": "[PROCESSING] Analyzing: Speaking at a Beijing forum, Tim Cook praised Apple's partners and developers in China, a week after Chinese state media labeled the App Store \"monopolistic\" (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-23 06:30:18",
       "message": "[SKIP] Irrelevant (AI Filter): Speaking at a Beijing forum, Tim Cook praised Apple's partners and developers in China, a week after Chinese state media labeled the App Store \"monopolistic\" (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 06:30:49",
       "message": "Reprocessing: Navi AI debuts flight training AI platform with $6.7M in funding"
+    },
+    {
+      "timestamp": "2026-03-23 06:30:51",
+      "message": "[SKIP] Content too short: Navi AI debuts flight training..."
     }
   ]
 }
