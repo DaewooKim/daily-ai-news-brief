@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 08:38:42",
+  "last_updated": "2026-03-23 08:38:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 08:38:10",
-      "message": "[SUCCESS] Processed: DoorDash, \uc0c8\ub85c\uc6b4 'Tasks' \uc571 \ucd9c\uc2dc, AI \ud6c8\ub828\uc744 \uc704\ud55c \ube44\ub514\uc624 \uc81c\ucd9c\ub85c \ubc30\ub2ec\uc6d0\uc774 \uc218\uc785\uc744 \uc62c\ub9b4 \uc218 \uc788\uac8c \ud574\uc918\n  > Summary: DoorDash\ub294 \uc0c8\ub85c\uc6b4 'Tasks' \uc571\uc744 \ucd9c\uc2dc\ud558\uc5ec \ubc30\ub2ec\uc6d0\ub4e4\uc774 \uc77c\uc0c1\uc801\uc778 \uc791\uc5c5\uc744 \ucd2c\uc601\ud558\uac70\ub098..."
-    },
     {
       "timestamp": "2026-03-23 08:38:11",
       "message": "Reprocessing: EE Times Europe Magazine \u2013 March 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 08:38:42",
       "message": "[PROCESSING] Analyzing: Inside Amazon's plan to bring fast delivery to rural America and reduce its reliance on USPS; Amazon aims to have 200 rural delivery hubs serving 13K zip codes (Sean McLain/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-23 08:38:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Inside Amazon's plan to bring fast delivery to rural America and reduce its reliance on USPS; Amazon aims to have 200 rural delivery hubs serving 13K zip codes (Sean McLain/Wall Street Journal)"
     }
   ]
 }
