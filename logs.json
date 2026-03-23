@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 07:33:32",
+  "last_updated": "2026-03-23 07:33:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 07:32:59",
-      "message": "Found 142 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-23 07:32:59",
       "message": "[PROCESSING] Analyzing: Topical Dancer is propulsive, playful, and political..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 07:33:32",
       "message": "[PROCESSING] Analyzing: Delve accused of misleading customers with \u2018fake compliance\u2019..."
+    },
+    {
+      "timestamp": "2026-03-23 07:33:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Delve accused of misleading customers with \u2018fake compliance\u2019"
     }
   ]
 }
