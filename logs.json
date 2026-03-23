@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 17:20:58",
+  "last_updated": "2026-03-23 17:21:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 17:20:17",
-      "message": "[SUCCESS] Processed: \uc720\ud0c0\uc5d0\uc11c \ucc98\ubc29\uc804 refill\uc744 \uc791\uc131\ud558\ub294 AI\ub97c \uc0ac\uc6a9\ud55c \ucd5c\ucd08\uc758 \ud68c\uc0ac\ub85c \uc790\ub9ac \uc7a1\uc740 Doctronic\uc774 Abstract\uc640 Lightspeed\uc758 \uc8fc\ub3c4\ub85c 4\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud588\ub2e4.\n  > Summary: Doctronic\uc740 \uc720\ud0c0\uc5d0\uc11c \uc2dc\uc791\ub41c \ud30c\uc77c\ub7ff \uc0ac\uc5c5\uc744 \ud1b5\ud574 AI\ub97c \uc0ac\uc6a9\ud558\uc5ec \ucc98\ubc29\uc804 refill..."
-    },
     {
       "timestamp": "2026-03-23 17:20:18",
       "message": "[PROCESSING] Analyzing: Gimlet Labs, which says it is the first \"multi-silicon inference cloud\" for running AI workloads across diverse types of hardware, raised an $80M Series A (Julie Bort/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 17:20:58",
       "message": "[PROCESSING] Analyzing: Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages..."
+    },
+    {
+      "timestamp": "2026-03-23 17:21:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages"
     }
   ]
 }
