@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 09:44:10",
+  "last_updated": "2026-03-23 09:44:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 09:43:36",
-      "message": "[PROCESSING] Analyzing: Poste Italiane says it will launch a \u20ac10.8B cash-and-share offer to fully acquire Telecom Italia; Poste is already Telecom Italia's largest shareholder (Reuters)..."
-    },
     {
       "timestamp": "2026-03-23 09:43:38",
       "message": "[SKIP] Irrelevant (AI Filter): Poste Italiane says it will launch a \u20ac10.8B cash-and-share offer to fully acquire Telecom Italia; Poste is already Telecom Italia's largest shareholder (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 09:44:10",
       "message": "Reprocessing: Navi AI debuts flight training AI platform with $6.7M in funding"
+    },
+    {
+      "timestamp": "2026-03-23 09:44:11",
+      "message": "[SKIP] Content too short: Navi AI debuts flight training..."
     }
   ]
 }
