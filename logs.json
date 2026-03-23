@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 02:12:07",
+  "last_updated": "2026-03-23 02:12:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 02:11:27",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-23 02:11:27",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 02:12:07",
       "message": "[PROCESSING] Analyzing: Delve accused of misleading customers with \u2018fake compliance\u2019..."
+    },
+    {
+      "timestamp": "2026-03-23 02:12:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Delve accused of misleading customers with \u2018fake compliance\u2019"
     }
   ]
 }
