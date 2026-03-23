@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 18:27:16",
+  "last_updated": "2026-03-23 18:27:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 18:26:21",
-      "message": "Reprocessing: Sources: OpenAI is offering private equity firms a guaranteed minimum return of 17.5% and early access to new models to secure JVs, beating Anthropic's terms (Reuters)"
-    },
     {
       "timestamp": "2026-03-23 18:26:23",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI is offering private equity firms a guaranteed minimum return of 17.5% and early access to new models to secure JVs, beating Anthropic's terms (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 18:27:16",
       "message": "[PROCESSING] Analyzing: From lab to market: Rose Rock Bridge fast-tracks energy innovation in Tulsa..."
+    },
+    {
+      "timestamp": "2026-03-23 18:27:19",
+      "message": "[SKIP] Irrelevant (AI Filter): From lab to market: Rose Rock Bridge fast-tracks energy innovation in Tulsa"
     }
   ]
 }
