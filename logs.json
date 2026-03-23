@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 21:41:49",
+  "last_updated": "2026-03-23 21:41:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 21:40:59",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-23 21:41:12",
       "message": "Found 144 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 21:41:49",
       "message": "[PROCESSING] Analyzing: Some writing advice from Project Hail Mary\u2019s Andy Weir..."
+    },
+    {
+      "timestamp": "2026-03-23 21:41:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Some writing advice from Project Hail Mary\u2019s Andy Weir"
     }
   ]
 }
