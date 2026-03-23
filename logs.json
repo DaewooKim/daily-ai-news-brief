@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 10:47:01",
+  "last_updated": "2026-03-23 10:47:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 10:46:13",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-23 10:46:30",
       "message": "Found 142 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 10:47:01",
       "message": "[SKIP] Irrelevant (AI Filter): Delve accused of misleading customers with \u2018fake compliance\u2019"
+    },
+    {
+      "timestamp": "2026-03-23 10:47:02",
+      "message": "Reprocessing: DoorDash launches a new \u2018Tasks\u2019 app that pays couriers to submit videos to train AI"
     }
   ]
 }
