@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-23 00:05:28",
+  "last_updated": "2026-03-23 00:05:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-23 00:04:42",
-      "message": "[PROCESSING] Analyzing: Speaking at a Beijing forum, Tim Cook praised Apple's partners and developers in China, a week after Chinese state media labeled the App Store \"monopolistic\" (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-23 00:04:44",
       "message": "[SKIP] Irrelevant (AI Filter): Speaking at a Beijing forum, Tim Cook praised Apple's partners and developers in China, a week after Chinese state media labeled the App Store \"monopolistic\" (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-23 00:05:28",
       "message": "Reprocessing: Microsoft outlines agentic AI security strategy with new Defender, Entra and Purview capabilities"
+    },
+    {
+      "timestamp": "2026-03-23 00:05:30",
+      "message": "[SKIP] Content too short: Microsoft outlines agentic AI ..."
     }
   ]
 }
