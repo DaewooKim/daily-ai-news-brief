@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-24 09:36:58",
+  "last_updated": "2026-03-24 09:37:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 09:36:23",
-      "message": "Found 139 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-03-24 09:36:23",
-      "message": "[PROCESSING] Analyzing: The US government just banned consumer routers made outside the US..."
-    },
     {
       "timestamp": "2026-03-24 09:36:25",
       "message": "[SKIP] Irrelevant (AI Filter): The US government just banned consumer routers made outside the US"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-03-24 09:36:58",
       "message": "Reprocessing: Driving Down The AI System Roadmap With Nvidia"
+    },
+    {
+      "timestamp": "2026-03-24 09:36:59",
+      "message": "[SKIP] Content too short: Driving Down The AI System Roa..."
+    },
+    {
+      "timestamp": "2026-03-24 09:37:00",
+      "message": "Reprocessing: Building a Zero-Trust Architecture for Confidential AI Factories"
     }
   ]
 }
