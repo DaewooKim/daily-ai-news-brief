@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 19:36:54",
+  "last_updated": "2026-03-24 19:36:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 19:36:10",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI, \uc544\ubd80\ub2e4\ube44\uc758 MGX, Coatue, Thrive\ub85c\ubd80\ud130 \uc57d 100\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub294 \uac70\ub798\uc5d0 \uac00\uae4c\uc6cc\uc9c0\ub2e4\n  > Summary: OpenAI\ub294 \uc544\ubd80\ub2e4\ube44\uc758 MGX, Coatue, Thrive \ub4f1\uc73c\ub85c\ubd80\ud130 \uc57d 100\uc5b5 \ub2ec\ub7ec\ub97c..."
-    },
     {
       "timestamp": "2026-03-24 19:36:11",
       "message": "[PROCESSING] Analyzing: Sources: Apple's plans for a Siri reboot include a standalone Siri app, an overhauled interface in the Dynamic Island, and Ask Siri and Write with Siri features (Mark Gurman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 19:36:54",
       "message": "[PROCESSING] Analyzing: Apple plans to launch Apple Business, a free platform that consolidates its business tools, on April 14, and plans Apple Maps ads in summer in the US and Canada (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-03-24 19:36:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple plans to launch Apple Business, a free platform that consolidates its business tools, on April 14, and plans Apple Maps ads in summer in the US and Canada (Sarah Perez/TechCrunch)"
     }
   ]
 }
