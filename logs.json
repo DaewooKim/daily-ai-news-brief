@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 20:44:23",
+  "last_updated": "2026-03-24 20:44:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 20:43:44",
-      "message": "[SUCCESS] Processed: OpenAI, \uac1c\ubc1c\uc790\ub4e4\uc774 \uc571\uc744 \uccad\uc18c\ub144\uc744 \uc704\ud55c \uc548\uc804\ud558\uac8c \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d \uc124\uacc4\ub41c \ud504\ub86c\ud504\ud2b8 \uc138\ud2b8\ub97c \uacf5\uac1c\ud558\ub2e4\n  > Summary: OpenAI\ub294 \uac1c\ubc1c\uc790\ub4e4\uc774 \uccad\uc18c\ub144\uc744 \uc704\ud55c \uc571\uc758 \uc548\uc804\uc131\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud574 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ud504\ub86c..."
-    },
     {
       "timestamp": "2026-03-24 20:43:45",
       "message": "Reprocessing: Sources: OpenAI nears a deal to raise ~$10B from Abu Dhabi's MGX, Coatue, and Thrive, bringing its latest funding round to ~$120B at a $730B valuation (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 20:44:23",
       "message": "[PROCESSING] Analyzing: Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities..."
+    },
+    {
+      "timestamp": "2026-03-24 20:44:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities"
     }
   ]
 }
