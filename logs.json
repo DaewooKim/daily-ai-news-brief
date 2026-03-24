@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 02:04:03",
+  "last_updated": "2026-03-24 02:04:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 02:03:30",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \uad6d\ubb34\ubd80, \uc0ac\uc774\ubc84 \uacf5\uaca9\uacfc \uc801\ub4e4\uc5d0 \uc758\ud55c AI \ubb34\uae30\ud654 \ub4f1\uc758 \uc704\ud611\uc5d0 \ub300\ucc98\ud558\uae30 \uc704\ud574 \uc0c8\ub85c\uc6b4 \uc704\ud611 \uad6d\uc744 \ucd9c\ubc94\ud558\ub2e4\n  > Summary: \ubbf8\uad6d \uad6d\ubb34\ubd80\ub294 \uc0ac\uc774\ubc84 \uacf5\uaca9 \ubc0f AI \ubb34\uae30\ud654 \ub4f1 \ud604\uc7ac\uc640 \ubbf8\ub798\uc758 \uc704\ud611\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 \uc0c8\ub85c\uc6b4 ..."
-    },
     {
       "timestamp": "2026-03-24 02:03:32",
       "message": "[PROCESSING] Analyzing: Bengaluru-based Swish, which offers a 10-minute food delivery service, raised a $38M Series B at a $139M post-money valuation, bringing its total raised to $54M (Jagmeet Singh/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 02:04:03",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-24 02:04:04",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
