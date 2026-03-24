@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 18:26:32",
+  "last_updated": "2026-03-24 18:26:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 18:25:38",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-24 18:25:50",
       "message": "Found 149 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 18:26:32",
       "message": "[PROCESSING] Analyzing: Fortnite maker Epic is laying off over 1,000 workers..."
+    },
+    {
+      "timestamp": "2026-03-24 18:26:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Fortnite maker Epic is laying off over 1,000 workers"
     }
   ]
 }
