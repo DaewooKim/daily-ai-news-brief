@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 09:39:02",
+  "last_updated": "2026-03-24 09:39:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 09:37:59",
-      "message": "[PROCESSING] Analyzing: Australia Puts AI Data Centers on Notice With New Approval Rules..."
-    },
     {
       "timestamp": "2026-03-24 09:38:04",
       "message": "[SUCCESS] Processed: \ud638\uc8fc, \uc0c8\ub85c\uc6b4 \uc2b9\uc778 \uaddc\uc81c\ub85c AI \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \uacbd\uace0\n  > Summary: \ud638\uc8fc\ub294 \uc0c8\ub85c\uc6b4 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ub3c4\uc785\ud558\uc5ec \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc744 \uc5d0\ub108\uc9c0, \ubb3c, \uacbd\uc81c\uc801 \uc601\ud5a5\uacfc \uc5f0\uacb0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 09:39:02",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-24 09:39:04",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
