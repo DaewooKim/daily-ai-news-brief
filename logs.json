@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 20:41:25",
+  "last_updated": "2026-03-24 20:41:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 20:40:48",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-24 20:40:48",
       "message": "[PROCESSING] Analyzing: The man who coined Metaverse now says Meta&#8217;s glasses are creepy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 20:41:25",
       "message": "[PROCESSING] Analyzing: Apple Maps will introduce ads this summer..."
+    },
+    {
+      "timestamp": "2026-03-24 20:41:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple Maps will introduce ads this summer"
     }
   ]
 }
