@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 20:44:19",
+  "last_updated": "2026-03-24 20:44:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 20:43:39",
-      "message": "Reprocessing: OpenAI releases a set of prompts designed to be used with its open-weight safety model gpt-oss-safeguard that lets developers make their apps safer for teens (Amanda Silberling/TechCrunch)"
-    },
     {
       "timestamp": "2026-03-24 20:43:41",
       "message": "[PROCESSING] Analyzing: OpenAI releases a set of prompts designed to be used with its open-weight safety model gpt-oss-safeguard that lets developers make their apps safer for teens (Amanda Silberling/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 20:44:19",
       "message": "[PROCESSING] Analyzing: Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)..."
+    },
+    {
+      "timestamp": "2026-03-24 20:44:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)"
     }
   ]
 }
