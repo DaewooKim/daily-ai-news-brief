@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 22:57:15",
+  "last_updated": "2026-03-24 22:57:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 22:56:37",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: \uc548\ub450\ub9b4, \ud314\ub780\ud2f0\uc5b4, \uc2a4\ucf00\uc77c AI\uac00 \ud2b8\ub7fc\ud504 \ub300\ud1b5\ub839\uc758 1850\uc5b5 \ub2ec\ub7ec \uace8\ub4e0 \ub3d4 \ubbf8\uc0ac\uc77c \ubc29\uc5b4 \uc2dc\uc2a4\ud15c\uc744 \uc6b4\uc601\ud558\uae30 \uc704\ud55c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc5d0 \ucc38\uc5ec\ud558\uace0 \uc788\ub2e4\n  > Summary: \uc548\ub450\ub9b4 \uc0b0\uc5c5, \ud314\ub780\ud2f0\uc5b4 \uae30\uc220, \uc2a4\ucf00\uc77c AI\uac00 \ud568\uaed8 1850\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uace8\ub4e0 \ub3d4 \ubbf8\uc0ac\uc77c ..."
-    },
     {
       "timestamp": "2026-03-24 22:56:38",
       "message": "[PROCESSING] Analyzing: OpenAI CFO Sarah Friar says OpenAI is raising an additional $10B from a16z, D.E. Shaw, MGX, TPG, and others, bringing its record fundraise to \"north of $120B\" (Morgan Chittum/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 22:57:15",
       "message": "[PROCESSING] Analyzing: Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)..."
+    },
+    {
+      "timestamp": "2026-03-24 22:57:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)"
     }
   ]
 }
