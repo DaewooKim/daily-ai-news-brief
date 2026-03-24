@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 19:33:44",
+  "last_updated": "2026-03-24 19:33:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 19:32:45",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-24 19:32:59",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 19:33:44",
       "message": "[PROCESSING] Analyzing: Pok\u00e9mon Champions is coming to the Nintendo Switch on April 8th..."
+    },
+    {
+      "timestamp": "2026-03-24 19:33:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Pok\u00e9mon Champions is coming to the Nintendo Switch on April 8th"
     }
   ]
 }
