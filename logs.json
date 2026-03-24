@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-24 21:51:22",
+  "last_updated": "2026-03-24 21:51:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-24 21:50:46",
-      "message": "[SUCCESS] Processed: OpenAI, \uc571\uc744 \ub354 \uc548\uc804\ud558\uac8c \ub9cc\ub4e4\uae30 \uc704\ud55c \ud504\ub86c\ud504\ud2b8 \uc138\ud2b8\ub97c \ubc1c\ud45c\ud558\ub2e4\n  > Summary: OpenAI\ub294 \uac1c\ubc1c\uc790\ub4e4\uc774 \uc571\uc744 \uccad\uc18c\ub144\uc5d0\uac8c \ub354 \uc548\uc804\ud558\uac8c \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d \uc124\uacc4\ub41c \ud504\ub86c\ud504\ud2b8 \uc138\ud2b8..."
-    },
     {
       "timestamp": "2026-03-24 21:50:48",
       "message": "Reprocessing: OpenAI revamps ChatGPT's shopping experience by letting users upload images or describe items and include criteria like their budget (Ashley Capoot/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-24 21:51:22",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-24 21:51:24",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
