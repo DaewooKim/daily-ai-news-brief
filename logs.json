@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 01:10:32",
+  "last_updated": "2026-03-25 01:10:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 01:09:55",
-      "message": "[SUCCESS] Processed: \uba54\ud0c0\uc758 \uba54\ud0c0 \ub808\uc774\ubc34 \ub514\uc2a4\ud50c\ub808\uc774 EU \ucd9c\uc2dc, AI \uae30\ub2a5 \ubc0f \ubd84\ub9ac \uac00\ub2a5\ud55c \ubc30\ud130\ub9ac\uc5d0 \ub300\ud55c \uaddc\uc81c\ub85c \uc9c0\uc5f0\n  > Summary: \uba54\ud0c0\uac00 \uc720\ub7fd \uc5f0\ud569(EU)\uc5d0\uc11c \ucd9c\uc2dc\ud55c \uc0c8\ub85c\uc6b4 \ub514\uc2a4\ud50c\ub808\uc774 \uc7a5\ucc29 \ub808\uc774\ubc34 \uc2a4\ub9c8\ud2b8 \uc548\uacbd\uc774 AI \uae30\ub2a5..."
-    },
     {
       "timestamp": "2026-03-25 01:09:57",
       "message": "[PROCESSING] Analyzing: Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise more than $75B (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 01:10:32",
       "message": "[SKIP] Irrelevant (AI Filter): Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities"
+    },
+    {
+      "timestamp": "2026-03-25 01:10:34",
+      "message": "Reprocessing: Arm Expands Compute Platform to Silicon Products"
     }
   ]
 }
