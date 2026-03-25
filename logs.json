@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 14:42:22",
+  "last_updated": "2026-03-25 14:42:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 14:41:35",
-      "message": "Reprocessing: Q&A with Arm CEO Rene Haas on changing Arm's culture, working with Arm owner SoftBank, developing Arm's AGI CPU data center chip fabricated by TSMC, and more (Lauren Goode/Wired)"
-    },
     {
       "timestamp": "2026-03-25 14:41:37",
       "message": "[PROCESSING] Analyzing: Q&A with Arm CEO Rene Haas on changing Arm's culture, working with Arm owner SoftBank, developing Arm's AGI CPU data center chip fabricated by TSMC, and more (Lauren Goode/Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 14:42:22",
       "message": "[PROCESSING] Analyzing: Analog Devices Announces New Thailand Facility..."
+    },
+    {
+      "timestamp": "2026-03-25 14:42:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Announces New Thailand Facility"
     }
   ]
 }
