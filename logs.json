@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 16:57:43",
+  "last_updated": "2026-03-25 16:57:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 16:56:42",
-      "message": "[SUCCESS] Processed: x86\ub97c \ub118\uc5b4: GPU \uc911\uc2ec AI\ub97c \uc704\ud55c \ub300\uc548 CPU \uc120\ud0dd\n  > Summary: AI \uc11c\ubc84\ub294 \uc77c\ubc18\uc801\uc73c\ub85c x86 CPU\ub97c \uc0ac\uc6a9\ud558\uc9c0\ub9cc, ARM, RISC-V \ubc0f ASIC\uc744 \uc0ac..."
-    },
     {
       "timestamp": "2026-03-25 16:56:43",
       "message": "[PROCESSING] Analyzing: Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez plan to introduce legislation to pause new data center construction until AI safeguards are in place (Maria Curi/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 16:57:43",
       "message": "[SKIP] Irrelevant (AI Filter): Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)"
+    },
+    {
+      "timestamp": "2026-03-25 16:57:44",
+      "message": "[PROCESSING] Analyzing: Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities..."
     }
   ]
 }
