@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 01:10:40",
+  "last_updated": "2026-03-25 01:10:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 01:10:04",
-      "message": "[SUCCESS] Processed: Spotify\uac00 \uc544\ud2f0\uc2a4\ud2b8 \ud504\ub85c\ud544 \ubcf4\ud638 \uae30\ub2a5\uc744 \ubca0\ud0c0 \ud14c\uc2a4\ud2b8 \uc911\uc774\uba70, \uc544\ud2f0\uc2a4\ud2b8\uac00 AI \ud2b8\ub799\uc774 \uc790\uc2e0\uc5d0\uac8c \uc18d\ud558\uc9c0 \uc54a\ub3c4\ub85d \ucd9c\uc2dc \uc804 \uac80\ud1a0\ud560 \uc218 \uc788\ub3c4\ub85d \ud5c8\uc6a9\ud569\ub2c8\ub2e4.\n  > Summary: Spotify\ub294 \uc544\ud2f0\uc2a4\ud2b8\uac00 \ucd9c\uc2dc \uc804\uc5d0 \ud2b8\ub799\uc744 \uac80\ud1a0\ud558\uc5ec AI \ud2b8\ub799\uc774 \uc790\uc2e0\uc5d0\uac8c \uc18d\ud558\uc9c0 \uc54a\ub3c4\ub85d ..."
-    },
     {
       "timestamp": "2026-03-25 01:10:06",
       "message": "[PROCESSING] Analyzing: SK Hynix has submitted a confidential filing to the SEC for a possible listing of American depositary receipts in 2026; it reportedly considers raising ~$10B (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 01:10:40",
       "message": "[PROCESSING] Analyzing: HKU Engineers Designed and Fabricated Inch-Scale Ultrahard Diamond Wafers with 200 GPa Hardness..."
+    },
+    {
+      "timestamp": "2026-03-25 01:10:42",
+      "message": "[SKIP] Irrelevant (AI Filter): HKU Engineers Designed and Fabricated Inch-Scale Ultrahard Diamond Wafers with 200 GPa Hardness"
     }
   ]
 }
