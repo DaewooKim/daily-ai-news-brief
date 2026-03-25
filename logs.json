@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 18:05:35",
+  "last_updated": "2026-03-25 18:05:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 18:04:56",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc5f4 \ubc0f \ud6a8\uc728 \uad00\ub9ac\ub97c \uc704\ud55c \uc804\ub825 \ubc30\uc804 \uc544\ud0a4\ud14d\ucc98\ub97c \uc124\uacc4\ud558\ub294 Epic Microsystems, 2100\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \ud22c\uc790 \uc720\uce58\n  > Summary: AI \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc704\ud55c \ubc18\ub3c4\uccb4 \uac1c\ubc1c \uae30\uc5c5\uc778 Epic Microsystems\uac00 2100\ub9cc ..."
-    },
     {
       "timestamp": "2026-03-25 18:04:57",
       "message": "[PROCESSING] Analyzing: SCOTUS rules unanimously that Cox could not be held liable for the piracy of thousands of songs online, after music labels sued the internet provider in 2018 (Ann E. Marimow/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 18:05:35",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-25 18:05:37",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
