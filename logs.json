@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 07:46:00",
+  "last_updated": "2026-03-25 07:46:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 07:45:13",
-      "message": "[SUCCESS] Processed: 3D \ud328\ud0a4\uc9c0\uc5d0\uc11c \uc5f4 \uadf9\ubcf5\ud558\uae30\n  > Summary: \uc5f4 \uad00\ub9ac\uac00 \uc124\uacc4\uc758 \uc911\uc2ec \uc81c\uc57d \uc0ac\ud56d\uc73c\ub85c \uc790\ub9ac \uc7a1\uc73c\uba74\uc11c, \ucd08\uae30\ubd80\ud130 \ucca0\uc800\ud55c \uacc4\ud68d\uc774 \ud544\uc694\ud558\ub2e4\uace0 \uac15..."
-    },
     {
       "timestamp": "2026-03-25 07:45:15",
       "message": "[PROCESSING] Analyzing: Extraction Challenges of CFET and Backside Power Delivery..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 07:46:00",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-25 07:46:02",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
