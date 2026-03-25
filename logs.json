@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 11:20:32",
+  "last_updated": "2026-03-25 11:20:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 11:19:40",
-      "message": "[PROCESSING] Analyzing: Q&A with Arm CEO Rene Haas on changing Arm's culture, working with SoftBank, developing its Arm AGI CPU data center chip fabricated by TSMC, and more (Lauren Goode/Wired)..."
-    },
     {
       "timestamp": "2026-03-25 11:19:43",
       "message": "[SUCCESS] Processed: Arm CEO Rene Haas\uc640\uc758 Q&A: Arm\uc758 \ubb38\ud654 \ubcc0\ud654, SoftBank\uc640\uc758 \ud611\ub825, TSMC\uc5d0\uc11c \uc81c\uc791\ud55c Arm AGI CPU \ub370\uc774\ud130 \uc13c\ud130 \uce69 \uac1c\ubc1c \ub4f1\n  > Summary: Arm\uc758 CEO\uc778 Rene Haas\ub294 Arm\uc758 \uc0dd\uc0b0 \ubc29\uc2dd \ubcc0\ud654\ub97c \ub2e4\ub8e8\uba70, SoftBank\uc640..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 11:20:32",
       "message": "[PROCESSING] Analyzing: Large US corporations are not ditching core business software for AI yet, instead seeking better vendor deals and \"vibe-coding\" smaller apps and customizations (Belle Lin/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-25 11:20:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Large US corporations are not ditching core business software for AI yet, instead seeking better vendor deals and \"vibe-coding\" smaller apps and customizations (Belle Lin/Wall Street Journal)"
     }
   ]
 }
