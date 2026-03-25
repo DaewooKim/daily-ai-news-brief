@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 13:34:28",
+  "last_updated": "2026-03-25 13:34:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 13:33:47",
-      "message": "[SUCCESS] Processed: \ud2b8\ub7fc\ud504, \ub9c8\ud06c \uc800\ucee4\ubc84\uadf8, \ub798\ub9ac \uc568\ub9ac\uc2a8, \uc820\uc2a8 \ud669\uc744 \uacfc\ud559\uae30\uc220 \uc790\ubb38\uc704\uc6d0\ud68c\uc5d0 \uc784\uba85\ud560 \uacc4\ud68d\n  > Summary: \ud2b8\ub7fc\ud504 \ub300\ud1b5\ub839\uc740 \ub9c8\ud06c \uc800\ucee4\ubc84\uadf8, \ub798\ub9ac \uc568\ub9ac\uc2a8, \uc820\uc2a8 \ud669\uc744 \uacfc\ud559\uae30\uc220 \uc790\ubb38\uc704\uc6d0\ud68c\uc5d0 \uc784\uba85\ud560 \uacc4\ud68d..."
-    },
     {
       "timestamp": "2026-03-25 13:33:49",
       "message": "[PROCESSING] Analyzing: Apple rolls out mandatory UK age verification with iOS 26.4, requiring users to provide a credit card or ID, a first in Europe, after UK government pressure (Tim Bradshaw/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 13:34:28",
       "message": "[PROCESSING] Analyzing: EQT and McKinsey study: between 2014 and 2025, European tech companies with a current combined value of ~$1.4T listed abroad or were acquired by foreign buyers (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-25 13:34:29",
+      "message": "[SKIP] Irrelevant (AI Filter): EQT and McKinsey study: between 2014 and 2025, European tech companies with a current combined value of ~$1.4T listed abroad or were acquired by foreign buyers (Bloomberg)"
     }
   ]
 }
