@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 15:49:54",
+  "last_updated": "2026-03-25 15:49:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 15:49:12",
-      "message": "[SUCCESS] Processed: AI \ub178\ud2b8 \ud14c\uc774\ud0b9 \uc2a4\ud0c0\ud2b8\uc5c5 Granola, Index Ventures \uc8fc\ub3c4\ub85c 1\uc5b5 2500\ub9cc \ub2ec\ub7ec \uc790\uae08 \ubaa8\uc9d1, 15\uc5b5 \ub2ec\ub7ec \uac00\uce58 \ud3c9\uac00\uc640 \ud568\uaed8 Claude \ud1b5\ud569 \ubc0f \uc5d0\uc774\uc804\ud2f1 AI \uae30\ub2a5 \uacc4\ud68d\n  > Summary: AI \ub178\ud2b8 \ud14c\uc774\ud0b9 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 Granola\uac00 Index Ventures\uc758 \uc8fc\ub3c4\ub85c 1\uc5b5 25..."
-    },
     {
       "timestamp": "2026-03-25 15:49:14",
       "message": "[PROCESSING] Analyzing: Scale AI: Engineering the Next Leap in LPDDR6 Low-Power Memory..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 15:49:54",
       "message": "[PROCESSING] Analyzing: Analog Devices Announces New Thailand Facility..."
+    },
+    {
+      "timestamp": "2026-03-25 15:49:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Announces New Thailand Facility"
     }
   ]
 }
