@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 20:18:13",
+  "last_updated": "2026-03-25 20:18:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 20:17:34",
-      "message": "[PROCESSING] Analyzing: Cox Communications not liable for pirated music, Supreme Court rules..."
-    },
     {
       "timestamp": "2026-03-25 20:17:37",
       "message": "[SKIP] Irrelevant (AI Filter): Cox Communications not liable for pirated music, Supreme Court rules"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 20:18:13",
       "message": "Reprocessing: Mapping the modern world: How S2Vec learns the language of our cities"
+    },
+    {
+      "timestamp": "2026-03-25 20:18:14",
+      "message": "[SKIP] Content too short: Mapping the modern world: How ..."
     }
   ]
 }
