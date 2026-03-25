@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 01:07:56",
+  "last_updated": "2026-03-25 01:07:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 01:07:15",
-      "message": "[PROCESSING] Analyzing: NASA wants to put a $20 billion base on the Moon..."
-    },
     {
       "timestamp": "2026-03-25 01:07:18",
       "message": "[SKIP] Irrelevant (AI Filter): NASA wants to put a $20 billion base on the Moon"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 01:07:56",
       "message": "Reprocessing: Mapping the modern world: How S2Vec learns the language of our cities"
+    },
+    {
+      "timestamp": "2026-03-25 01:07:57",
+      "message": "[SKIP] Content too short: Mapping the modern world: How ..."
     }
   ]
 }
