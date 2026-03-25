@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 19:09:41",
+  "last_updated": "2026-03-25 19:09:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 19:08:55",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-25 19:08:55",
       "message": "[PROCESSING] Analyzing: Woot is offering over 20 percent off Switch 2 controllers and games today..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 19:09:41",
       "message": "[PROCESSING] Analyzing: Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human..."
+    },
+    {
+      "timestamp": "2026-03-25 19:09:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human"
     }
   ]
 }
