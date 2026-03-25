@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 20:17:46",
+  "last_updated": "2026-03-25 20:17:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 20:17:06",
-      "message": "[PROCESSING] Analyzing: Woot is offering over 20 percent off Switch 2 controllers and games today..."
-    },
     {
       "timestamp": "2026-03-25 20:17:09",
       "message": "[SKIP] Irrelevant (AI Filter): Woot is offering over 20 percent off Switch 2 controllers and games today"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 20:17:46",
       "message": "Reprocessing: Data Analytics Helps Make The Mighty Lionesses Roar"
+    },
+    {
+      "timestamp": "2026-03-25 20:17:48",
+      "message": "[SKIP] Content too short: Data Analytics Helps Make The ..."
     }
   ]
 }
