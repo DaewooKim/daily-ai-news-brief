@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 08:52:22",
+  "last_updated": "2026-03-25 08:52:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 08:51:46",
-      "message": "[PROCESSING] Analyzing: SK Hynix submits a confidential filing to the US SEC for a possible listing of American depositary receipts in 2026; SK is reportedly considering raising ~$10B (Reuters)..."
-    },
     {
       "timestamp": "2026-03-25 08:51:48",
       "message": "[SKIP] Irrelevant (AI Filter): SK Hynix submits a confidential filing to the US SEC for a possible listing of American depositary receipts in 2026; SK is reportedly considering raising ~$10B (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 08:52:22",
       "message": "[PROCESSING] Analyzing: Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%..."
+    },
+    {
+      "timestamp": "2026-03-25 08:52:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%"
     }
   ]
 }
