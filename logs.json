@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-25 02:19:31",
-  "status": "idle",
+  "last_updated": "2026-03-25 03:20:02",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-25 02:18:01",
-      "message": "Reprocessing: What to expect during Nutanix .NEXT: Join theCUBE April 8"
+      "timestamp": "2026-03-25 03:19:50",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-25 02:18:03",
-      "message": "[SKIP] Content too short: What to expect during Nutanix ..."
+      "timestamp": "2026-03-25 03:19:51",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-25 02:18:04",
-      "message": "Reprocessing: Databricks introduces Lakewatch SIEM, acquires two cybersecurity startups"
+      "timestamp": "2026-03-25 03:19:51",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-25 02:18:05",
-      "message": "[SKIP] Content too short: Databricks introduces Lakewatc..."
+      "timestamp": "2026-03-25 03:20:02",
+      "message": "Found 152 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-25 02:18:07",
-      "message": "Reprocessing: The race to control AI infrastructure is on, and SUSE is going all in on open cloud-native power"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:08",
-      "message": "[SKIP] Content too short: The race to control AI infrast..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:09",
-      "message": "Reprocessing: The AI security crisis has arrived: theCUBE\u2019s day one analysis from the RSAC 2026 Conference"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:11",
-      "message": "[SKIP] Content too short: The AI security crisis has arr..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:12",
-      "message": "Reprocessing: 20 million developers, one massive shift: How AI is upending the cloud-native ecosystem"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:13",
-      "message": "[SKIP] Content too short: 20 million developers, one mas..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:14",
-      "message": "Reprocessing: KubeCon Europe 2026: The AI execution gap meets cloud-native reality"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:16",
-      "message": "[SKIP] Content too short: KubeCon Europe 2026: The AI ex..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:17",
-      "message": "Reprocessing: Ai2 releases open-source visual AI agent that can take control of web browsers"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:19",
-      "message": "[SKIP] Content too short: Ai2 releases open-source visua..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:20",
-      "message": "Reprocessing: Barracuda expands BarracudaONE platform and overhauls Partner Success Program"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:21",
-      "message": "[SKIP] Content too short: Barracuda expands BarracudaONE..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:23",
-      "message": "Reprocessing: With $90M in funding, NoTraffic will use AI to end gridlock in America\u2019s cities"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:24",
-      "message": "[SKIP] Content too short: With $90M in funding, NoTraffi..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:25",
-      "message": "Reprocessing: F5 and Forcepoint partner to secure AI across data and runtime lifecycle"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:27",
-      "message": "[SKIP] Content too short: F5 and Forcepoint partner to s..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:28",
-      "message": "Reprocessing: Exclusive: HG Insights expands revenue growth intelligence platform with agentic capabilities"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:29",
-      "message": "[SKIP] Content too short: Exclusive: HG Insights expands..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:31",
-      "message": "Reprocessing: CrowdStrike expands Falcon platform with threat-informed cloud risk and data security tools"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:32",
-      "message": "[SKIP] Content too short: CrowdStrike expands Falcon pla..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:33",
-      "message": "Reprocessing: Red Hat sees inference as AI\u2019s next battleground \u2014 with Kubernetes at the core"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:34",
-      "message": "[SKIP] Content too short: Red Hat sees inference as AI\u2019s..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:36",
-      "message": "Reprocessing: Zalos raises $3.6M to develop ERP computer agents that operate finance systems like humans"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:37",
-      "message": "[SKIP] Content too short: Zalos raises $3.6M to develop ..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:38",
-      "message": "Reprocessing: Akamai updates Guardicore Segmentation with AI to automate zero-trust policy enforcement"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:40",
-      "message": "[SKIP] Content too short: Akamai updates Guardicore Segm..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:41",
-      "message": "Reprocessing: Oracle Fusion agentic applications signal shift toward autonomous enterprise software"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:43",
-      "message": "[SKIP] Content too short: Oracle Fusion agentic applicat..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:44",
-      "message": "Reprocessing: Multichip inference cloud startup Gimlet Labs receives $80M to solve one of AI\u2019s biggest bottlenecks"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:46",
-      "message": "[SKIP] Content too short: Multichip inference cloud star..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:48",
-      "message": "Reprocessing: SentinelOne, Snyk introduce new tools for securing AI agents"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:49",
-      "message": "[SKIP] Content too short: SentinelOne, Snyk introduce ne..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:50",
-      "message": "Reprocessing: Anthropic\u2019s Claude gets computer use capabilities in preview"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:52",
-      "message": "[SKIP] Content too short: Anthropic\u2019s Claude gets comput..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:53",
-      "message": "Reprocessing: How Capital One Software is using tokens to turn dark data into a secure AI asset"
-    },
-    {
-      "timestamp": "2026-03-25 02:18:54",
-      "message": "[SKIP] Content too short: How Capital One Software is us..."
-    },
-    {
-      "timestamp": "2026-03-25 02:18:56",
-      "message": "[PROCESSING] Analyzing: Beelink ME Pro Review A Small and Focused NAS That We Set Up with OpenClaw..."
-    },
-    {
-      "timestamp": "2026-03-25 02:19:01",
-      "message": "[SKIP] Irrelevant (AI Filter): Beelink ME Pro Review A Small and Focused NAS That We Set Up with OpenClaw"
-    },
-    {
-      "timestamp": "2026-03-25 02:19:02",
-      "message": "[PROCESSING] Analyzing: UFYQL F156P02 15.6in Portable Monitor Mini Review..."
-    },
-    {
-      "timestamp": "2026-03-25 02:19:06",
-      "message": "[SKIP] Irrelevant (AI Filter): UFYQL F156P02 15.6in Portable Monitor Mini Review"
-    },
-    {
-      "timestamp": "2026-03-25 02:19:07",
-      "message": "Reprocessing: Building AI-powered GitHub issue triage with the Copilot SDK"
-    },
-    {
-      "timestamp": "2026-03-25 02:19:09",
-      "message": "[PROCESSING] Analyzing: Building AI-powered GitHub issue triage with the Copilot SDK..."
-    },
-    {
-      "timestamp": "2026-03-25 02:19:14",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18\uc758 \uae43\ud5c8\ube0c \uc774\uc288 \ubd84\ub958 \uad6c\ucd95\ud558\uae30 - Copilot SDK \uc0ac\uc6a9\n  > Summary: Copilot SDK\ub97c \ud1b5\ud574 \uc790\uccb4 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc5d0 Copilot Chat\uc758 AI\ub97c \ucd94\uac00\ud560 \uc218..."
-    },
-    {
-      "timestamp": "2026-03-25 02:19:16",
-      "message": "Completed! New: 4, Updated: 45"
-    },
-    {
-      "timestamp": "2026-03-25 02:19:19",
-      "message": "Saved 49 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-25 02:19:23",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-25 03:20:02",
+      "message": "[PROCESSING] Analyzing: The BB-777 is the ultimate in boombox nostalgia..."
     }
   ]
 }
