@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 07:45:41",
+  "last_updated": "2026-03-25 07:45:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 07:44:56",
-      "message": "[PROCESSING] Analyzing: Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise more than $75B (The Information)..."
-    },
     {
       "timestamp": "2026-03-25 07:44:58",
       "message": "[SKIP] Irrelevant (AI Filter): Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise more than $75B (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 07:45:41",
       "message": "[SKIP] Irrelevant (AI Filter): Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities"
+    },
+    {
+      "timestamp": "2026-03-25 07:45:43",
+      "message": "Reprocessing: Arm Expands Compute Platform to Silicon Products"
     }
   ]
 }
