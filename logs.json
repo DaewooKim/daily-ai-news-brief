@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 16:54:03",
+  "last_updated": "2026-03-25 16:54:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 16:52:51",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-25 16:53:04",
       "message": "Found 154 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 16:54:03",
       "message": "[PROCESSING] Analyzing: Keychron\u2019s mechanical keyboards are up to 60 percent off..."
+    },
+    {
+      "timestamp": "2026-03-25 16:54:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Keychron\u2019s mechanical keyboards are up to 60 percent off"
     }
   ]
 }
