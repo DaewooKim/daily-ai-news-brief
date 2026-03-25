@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 13:32:03",
+  "last_updated": "2026-03-25 13:32:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 13:31:26",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-25 13:31:26",
       "message": "[PROCESSING] Analyzing: The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 13:32:03",
       "message": "Reprocessing: Data Analytics Helps Make The Mighty Lionesses Roar"
+    },
+    {
+      "timestamp": "2026-03-25 13:32:05",
+      "message": "[SKIP] Content too short: Data Analytics Helps Make The ..."
     }
   ]
 }
