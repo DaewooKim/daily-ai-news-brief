@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 08:52:19",
+  "last_updated": "2026-03-25 08:52:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 08:51:42",
-      "message": "[PROCESSING] Analyzing: Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise $75B+, up from a previous $50B estimate (The Information)..."
-    },
     {
       "timestamp": "2026-03-25 08:51:44",
       "message": "[SKIP] Irrelevant (AI Filter): Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise $75B+, up from a previous $50B estimate (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 08:52:19",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-25 08:52:21",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
