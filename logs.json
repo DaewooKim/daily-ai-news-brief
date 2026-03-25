@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-25 03:24:02",
+  "last_updated": "2026-03-25 03:24:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-25 03:23:24",
-      "message": "[PROCESSING] Analyzing: Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy..."
-    },
     {
       "timestamp": "2026-03-25 03:23:27",
       "message": "[SKIP] Irrelevant (AI Filter): Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-25 03:24:02",
       "message": "Reprocessing: Anthropic unchains Claude Code with auto mode, allowing it to choose its own permissions"
+    },
+    {
+      "timestamp": "2026-03-25 03:24:03",
+      "message": "[SKIP] Content too short: Anthropic unchains Claude Code..."
     }
   ]
 }
