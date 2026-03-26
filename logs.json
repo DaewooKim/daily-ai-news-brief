@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 03:04:06",
+  "last_updated": "2026-03-26 03:04:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 03:03:32",
-      "message": "[SUCCESS] Processed: \uc624\ud508\ub77c\uc6b0\ud130 \ub370\uc774\ud130: \ub525\uc2dc\ud06c\uc640 \ubbf8\ub2c8\ub9e5\uc2a4 \uac19\uc740 \uc911\uad6d \uc800\uac00 AI \ubaa8\ub378\ub4e4\uc774 \uc9c0\ub09c\ub2ec\ubd80\ud130 \ud1a0\ud070 \uc18c\ube44\uc5d0\uc11c \ubbf8\uad6d \uacbd\uc7c1\uc790\ub97c \ucd08\uc6d4\ud558\ub2e4\n  > Summary: \ub525\uc2dc\ud06c\uc640 \ubbf8\ub2c8\ub9e5\uc2a4\uc640 \uac19\uc740 \uadf8\ub8f9\uc758 \uc800\ube44\uc6a9 \uc911\uad6d AI \ubaa8\ub378\ub4e4\uc774 \ucd5c\uadfc\uc5d0 \ubbf8\uad6d\uc758 \uacbd\uc7c1\uc790\ub4e4\uc744 \ub118\uc5b4 ..."
-    },
     {
       "timestamp": "2026-03-26 03:03:33",
       "message": "[PROCESSING] Analyzing: San Francisco has become a laboratory for police surveillance after early resistance; SFPD recorded 700 drone flights last month, up from 93 in February 2025 (Cyrus Farivar/The San Francisco Standard)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 03:04:06",
       "message": "[PROCESSING] Analyzing: Social media addiction trial: a Los Angeles jury finds Meta and YouTube were negligent and failed to warn users about the dangers of using their platforms (Jonathan Vanian/CNBC)..."
+    },
+    {
+      "timestamp": "2026-03-26 03:04:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Social media addiction trial: a Los Angeles jury finds Meta and YouTube were negligent and failed to warn users about the dangers of using their platforms (Jonathan Vanian/CNBC)"
     }
   ]
 }
