@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 08:47:29",
+  "last_updated": "2026-03-26 08:47:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 08:46:51",
-      "message": "[SUCCESS] Processed: AI \uc2dc\ub300\uc640 1\uc870 \ub2ec\ub7ec \uc2dc\uc7a5 \uc131\uc7a5\uc758 \uc804\ub7b5\uc801 \uae30\ud68c\ub97c \uac15\uc870\ud558\ub294 SEMICON China 2026\n  > Summary: SEMICON China 2026\uc740 AI\uc640 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \ubc1c\uc804\uc744 \uc8fc\uc81c\ub85c 2026\ub144 3\uc6d4 2..."
-    },
     {
       "timestamp": "2026-03-26 08:46:52",
       "message": "Reprocessing: Agileo Automation Launches Agil\u2019EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 08:47:29",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-26 08:47:31",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
