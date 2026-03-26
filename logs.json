@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 05:16:41",
+  "last_updated": "2026-03-26 05:16:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 05:16:00",
-      "message": "[SUCCESS] Processed: OpenAI \uc7ac\ub2e8 \uc5c5\ub370\uc774\ud2b8\n  > Summary: OpenAI \uc7ac\ub2e8\uc740 \uc9c8\ubcd1 \uce58\ub8cc, \uacbd\uc81c\uc801 \uae30\ud68c, AI \ud68c\ubcf5\ub825 \ubc0f \uc9c0\uc5ed \uc0ac\ud68c \ud504\ub85c\uadf8\ub7a8\uc5d0 \ucd5c\uc18c ..."
-    },
     {
       "timestamp": "2026-03-26 05:16:01",
       "message": "[PROCESSING] Analyzing: Powering product discovery in ChatGPT..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 05:16:41",
       "message": "[PROCESSING] Analyzing: Reddit takes on the bots with new \u2018human verification\u2019 requirements for fishy behavior..."
+    },
+    {
+      "timestamp": "2026-03-26 05:16:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Reddit takes on the bots with new \u2018human verification\u2019 requirements for fishy behavior"
     }
   ]
 }
