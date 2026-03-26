@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 05:21:58",
+  "last_updated": "2026-03-26 05:22:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 05:21:11",
-      "message": "[SUCCESS] Processed: Agileo Automation, \ubc18\ub3c4\uccb4 \uc7a5\ube44 OEM\uc744 \uc704\ud55c SEMI EDA \ucc44\ud0dd \uac00\uc18d\ud654\ub97c \uc704\ud55c Agil\u2019EDA \ucd9c\uc2dc\n  > Summary: Agileo Automation\uc740 \ubc18\ub3c4\uccb4 \uc81c\uc870\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 \uc18c\ud504\ud2b8\uc6e8\uc5b4 Agil\u2019EDA\ub97c ..."
-    },
     {
       "timestamp": "2026-03-26 05:21:13",
       "message": "[PROCESSING] Analyzing: Preserving Polarization While Boosting Light From Atomically Thin Semiconductors With Silicon Nanospheres..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 05:21:58",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-26 05:22:01",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
