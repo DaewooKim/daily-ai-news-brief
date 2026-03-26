@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 23:24:35",
+  "last_updated": "2026-03-26 23:24:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 23:23:35",
-      "message": "[PROCESSING] Analyzing: In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-26 23:23:41",
       "message": "[SUCCESS] Processed: \uc778\ud130\ubdf0\uc5d0\uc11c \ub370\uc774\ube44\ub4dc \uc0c9\uc2a4\ub294 \ud2b9\ubcc4 \uc815\ubd80 \uc9c1\uc6d0\uc73c\ub85c\uc11c\uc758 \uc2dc\uac04\uc744 \ub2e4 \uc4f4 \ud6c4 AI \ubc0f \uc554\ud638\ud654\ud3d0 \ucc45\uc784\uc790 \uc5ed\ud560\uc744 \ud3ec\uae30\ud588\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4.\n  > Summary: \ube14\ub8f8\ubc84\uadf8\uc5d0 \ub530\ub974\uba74, \ub370\uc774\ube44\ub4dc \uc0c9\uc2a4\ub294 \uc778\ud130\ubdf0\uc5d0\uc11c \ud2b9\ubcc4 \uc815\ubd80 \uc9c1\uc6d0\uc73c\ub85c\uc11c\uc758 \uc2dc\uac04\uc744 \ub2e4 \uc4f4 \ud6c4 A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 23:24:35",
       "message": "[PROCESSING] Analyzing: Fannie Mae will accept crypto-backed mortgages for the first time; Coinbase launches a mortgage product allowing buyers to pledge bitcoin or USDC as collateral (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-26 23:24:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Fannie Mae will accept crypto-backed mortgages for the first time; Coinbase launches a mortgage product allowing buyers to pledge bitcoin or USDC as collateral (Wall Street Journal)"
     }
   ]
 }
