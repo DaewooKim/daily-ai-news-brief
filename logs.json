@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 15:32:06",
+  "last_updated": "2026-03-26 15:32:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 15:31:28",
-      "message": "[PROCESSING] Analyzing: Wikipedia bans using AI for writing or rewriting articles on its English-language site, citing AI-written articles' tendency to violate \"core content policies\" (Emma Roth/The Verge)..."
-    },
     {
       "timestamp": "2026-03-26 15:31:32",
       "message": "[SUCCESS] Processed: \uc704\ud0a4\ubc31\uacfc, AI\ub97c \uc0ac\uc6a9\ud558\uc5ec \ubb38\uc11c\ub97c \uc791\uc131\ud558\uac70\ub098 \uc218\uc815\ud558\ub294 \uac83\uc744 \uae08\uc9c0\ud558\ub2e4\n  > Summary: \uc704\ud0a4\ubc31\uacfc\uac00 \uc601\uc5b4 \uc0ac\uc774\ud2b8\uc5d0\uc11c AI\ub97c \uc0ac\uc6a9\ud55c \ubb38\uc11c \uc791\uc131\uc774\ub098 \uc218\uc815 \uae08\uc9c0\ub97c \ubc1c\ud45c\ud588\ub2e4. \uc774\ub294 AI\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 15:32:06",
       "message": "[PROCESSING] Analyzing: Revolut says it aims to base ~40% of its global workforce in India by the end of 2026, increasing its local headcount to 5,500; Revolut has 12K staff globally (Haripriya Suresh/Reuters)..."
+    },
+    {
+      "timestamp": "2026-03-26 15:32:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Revolut says it aims to base ~40% of its global workforce in India by the end of 2026, increasing its local headcount to 5,500; Revolut has 12K staff globally (Haripriya Suresh/Reuters)"
     }
   ]
 }
