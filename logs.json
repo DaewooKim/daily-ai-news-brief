@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 16:39:50",
+  "last_updated": "2026-03-26 16:39:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 16:38:59",
-      "message": "[SUCCESS] Processed: \uc0c8\ub85c\uc6b4 \ucd5c\uc804\uc120: AI \uc2dc\ub300 \ub370\uc774\ud130 \uc13c\ud130 \ubcf4\uc548\n  > Summary: AI \uc2dc\ub300\uc5d0 \ub370\uc774\ud130 \uc13c\ud130\uc758 \ubcf4\uc548\uc744 \uac15\ud654\ud558\uae30 \uc704\ud574 \ubb3c\ub9ac\uc801, \uc0ac\uc774\ubc84 \ubc0f \uacf5\uae09\ub9dd \uc694\uc18c\ub97c \ud1b5\ud569\ud55c ..."
-    },
     {
       "timestamp": "2026-03-26 16:39:00",
       "message": "[PROCESSING] Analyzing: Cohere launches Transcribe, its first voice model; the 2B-parameter, open-source speech recognition model handles tasks like notetaking and speech analysis (Ivan Mehta/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 16:39:50",
       "message": "[PROCESSING] Analyzing: The EU accuses Pornhub, Stripchat, XNXX, and XVideos of failing to protect kids from exposure to pornographic content, in preliminary DSA investigation findings (Barbara Moens/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-03-26 16:39:55",
+      "message": "[SKIP] Irrelevant (AI Filter): The EU accuses Pornhub, Stripchat, XNXX, and XVideos of failing to protect kids from exposure to pornographic content, in preliminary DSA investigation findings (Barbara Moens/Financial Times)"
     }
   ]
 }
