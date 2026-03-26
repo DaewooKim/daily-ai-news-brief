@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 18:54:27",
+  "last_updated": "2026-03-26 18:54:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 18:53:50",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 \ub610 \ub2e4\ub978 \ubd80\ucc28\uc801 \uacfc\uc81c\ub97c \ud3ec\uae30\ud558\ub2e4: ChatGPT\uc758 \uc5d0\ub85c\ud2f1 \ubaa8\ub4dc\n  > Summary: OpenAI\ub294 \ucd5c\uadfc \uc77c\uc8fc\uc77c \ub3d9\uc548 \uc5ec\ub7ec \ubd80\ucc28\uc801 \ud504\ub85c\uc81d\ud2b8\ub97c \ud3d0\uae30\ud55c \uac00\uc6b4\ub370, ChatGPT\uc758 \uc5d0..."
-    },
     {
       "timestamp": "2026-03-26 18:53:51",
       "message": "[PROCESSING] Analyzing: Data centers get ready \u2014 the Senate wants to see your power bills..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 18:54:27",
       "message": "[PROCESSING] Analyzing: PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider..."
+    },
+    {
+      "timestamp": "2026-03-26 18:54:29",
+      "message": "[SKIP] Irrelevant (AI Filter): PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider"
     }
   ]
 }
