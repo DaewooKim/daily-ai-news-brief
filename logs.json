@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 20:00:15",
+  "last_updated": "2026-03-26 20:00:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 19:59:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Streaming keeps getting more expensive: all the latest price hikes"
-    },
     {
       "timestamp": "2026-03-26 19:59:39",
       "message": "[PROCESSING] Analyzing: Netflix is raising prices again..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 20:00:15",
       "message": "Reprocessing: Data Analytics Helps Make The Mighty Lionesses Roar"
+    },
+    {
+      "timestamp": "2026-03-26 20:00:16",
+      "message": "[SKIP] Content too short: Data Analytics Helps Make The ..."
     }
   ]
 }
