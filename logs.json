@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 18:57:14",
+  "last_updated": "2026-03-26 18:57:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 18:56:28",
-      "message": "[SUCCESS] Processed: memsstar\uc758 ORBIS Alpha \uc5d0\uce6d \uc2dc\uc2a4\ud15c, TUM \uc591\uc790 \ub124\ud2b8\uc6cc\ud06c \uc2e4\ud5d8\uc2e4\uc5d0 \uc124\uce58\n  > Summary: memsstar Ltd.\ub294 \ub3c5\uc77c \ubb8c\ud5e8 \uae30\uc220\ub300\ud559\uad50(TUM) \uc591\uc790 \ub124\ud2b8\uc6cc\ud06c \uc2e4\ud5d8\uc2e4\uc5d0 ORBIS..."
-    },
     {
       "timestamp": "2026-03-26 18:56:29",
       "message": "[PROCESSING] Analyzing: Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 18:57:14",
       "message": "[PROCESSING] Analyzing: NXP Launches Omlox RTLS Starter Kit with UWB SoC..."
+    },
+    {
+      "timestamp": "2026-03-26 18:57:16",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Launches Omlox RTLS Starter Kit with UWB SoC"
     }
   ]
 }
