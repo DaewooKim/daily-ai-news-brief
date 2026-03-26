@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 20:00:12",
+  "last_updated": "2026-03-26 20:00:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 19:59:35",
-      "message": "Found 173 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-26 19:59:35",
       "message": "[PROCESSING] Analyzing: Streaming keeps getting more expensive: all the latest price hikes..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 20:00:12",
       "message": "Reprocessing: Riding The Memory Boom And Trying To Avoid The Bust"
+    },
+    {
+      "timestamp": "2026-03-26 20:00:13",
+      "message": "[SKIP] Content too short: Riding The Memory Boom And Try..."
     }
   ]
 }
