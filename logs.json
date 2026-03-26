@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 08:46:59",
+  "last_updated": "2026-03-26 08:47:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 08:46:20",
-      "message": "[SUCCESS] Processed: GitHub, \uc0ac\uc6a9\uc790 \uc635\ud2b8\uc544\uc6c3\ud558\uc9c0 \uc54a\ub294 \uacbd\uc6b0 4\uc6d4 24\uc77c\ubd80\ud130 AI \ubaa8\ub378 \ud559\uc2b5\uc5d0 Copilot \uc0c1\ud638\uc791\uc6a9 \ub370\uc774\ud130 \uc0ac\uc6a9 \uc608\uc815\n  > Summary: GitHub\ub294 4\uc6d4 24\uc77c\ubd80\ud130 \uc0ac\uc6a9\uc790 \uc635\ud2b8\uc544\uc6c3\uc744 \ud558\uc9c0 \uc54a\uc744 \uacbd\uc6b0 Copilot \uc0c1\ud638\uc791\uc6a9 \ub370..."
-    },
     {
       "timestamp": "2026-03-26 08:46:21",
       "message": "[PROCESSING] Analyzing: Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to \"secure the quantum era\" as \"frontiers may be closer than they appear\" (Dan Goodin/Ars Technica)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 08:46:59",
       "message": "[PROCESSING] Analyzing: \u2018Spin-Flip\u2019 in Metal Complexes Can Help Solar Cells Leap Beyond Limits..."
+    },
+    {
+      "timestamp": "2026-03-26 08:47:01",
+      "message": "[SKIP] Irrelevant (AI Filter): \u2018Spin-Flip\u2019 in Metal Complexes Can Help Solar Cells Leap Beyond Limits"
     }
   ]
 }
