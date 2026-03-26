@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 13:18:10",
+  "last_updated": "2026-03-26 13:18:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 13:17:28",
-      "message": "Reprocessing: Mistral AI just released a text-to-speech model it says beats ElevenLabs \u2014 and it's giving away the weights for free"
-    },
     {
       "timestamp": "2026-03-26 13:17:32",
       "message": "[PROCESSING] Analyzing: Mistral AI just released a text-to-speech model it says beats ElevenLabs \u2014 and it's giving away the weights for free..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 13:18:10",
       "message": "Reprocessing: Meta is laying off hundreds of staff across multiple divisions"
+    },
+    {
+      "timestamp": "2026-03-26 13:18:11",
+      "message": "[SKIP] Content too short: Meta is laying off hundreds of..."
     }
   ]
 }
