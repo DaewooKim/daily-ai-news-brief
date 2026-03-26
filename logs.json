@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-26 05:14:45",
+  "last_updated": "2026-03-26 05:14:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-26 05:14:03",
-      "message": "Found 161 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-26 05:14:03",
       "message": "[PROCESSING] Analyzing: Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-26 05:14:45",
       "message": "[PROCESSING] Analyzing: Woot is offering over 20 percent off Switch 2 controllers and games today..."
+    },
+    {
+      "timestamp": "2026-03-26 05:14:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Woot is offering over 20 percent off Switch 2 controllers and games today"
     }
   ]
 }
