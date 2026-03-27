@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 04:54:05",
+  "last_updated": "2026-03-27 04:54:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 04:53:29",
-      "message": "[SUCCESS] Processed: \ud558\ube44, 110\uc5b5 \ub2ec\ub7ec \uac00\uce58 \ud655\uc778: \uc138\ucffc\uc774\uc544 \ucd94\uac00 \ud22c\uc790\n  > Summary: AI \ubc95\ub960 \uae30\uc220 \uc2a4\ud0c0\ud2b8\uc5c5 \ud558\ube44\uac00 110\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\uc5d0 \ub3c4\ub2ec\ud588\uc2b5\ub2c8\ub2e4. \uc138\ucffc\uc774\uc544, \uc548\ub4dc\ub808\uc13c ..."
-    },
     {
       "timestamp": "2026-03-27 04:53:30",
       "message": "Reprocessing: Arm Launches First Silicon CPU, Targets Data Center Agentic AI Workloads"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 04:54:05",
       "message": "[PROCESSING] Analyzing: Tazapay, which builds cross-border payment infrastructure for fintech and web3 firms, says it closed a Series B extension, bringing its total Series B to $36M (Zoltan Vardai/Cointelegraph)..."
+    },
+    {
+      "timestamp": "2026-03-27 04:54:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Tazapay, which builds cross-border payment infrastructure for fintech and web3 firms, says it closed a Series B extension, bringing its total Series B to $36M (Zoltan Vardai/Cointelegraph)"
     }
   ]
 }
