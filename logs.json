@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 21:29:38",
+  "last_updated": "2026-03-27 21:29:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 21:28:28",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-27 21:28:41",
       "message": "Found 184 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 21:29:38",
       "message": "[PROCESSING] Analyzing: Returning from a humanitarian aid trip to Cuba, Americans have phones seized at US airport..."
+    },
+    {
+      "timestamp": "2026-03-27 21:29:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Returning from a humanitarian aid trip to Cuba, Americans have phones seized at US airport"
     }
   ]
 }
