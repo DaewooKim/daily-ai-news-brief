@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 01:37:09",
+  "last_updated": "2026-03-27 01:37:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 01:36:34",
-      "message": "[SUCCESS] Processed: \ud558\ube44, 110\uc5b5 \ub2ec\ub7ec \uac00\uce58 \uc2b9\uc778: \uc138\ucffc\uc774\uc544, \uc138 \ubc30\ub85c \ud22c\uc790 \uc99d\uac00\n  > Summary: AI \ubc95\ub960 \uae30\uc220 \uc2a4\ud0c0\ud2b8\uc5c5 \ud558\ube44\uac00 \uc138\ucffc\uc774\uc544 \ub4f1 \ud22c\uc790\uc790\ub4e4\ub85c\ubd80\ud130 110\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\ub97c \uc778\uc815\ubc1b\uc558..."
-    },
     {
       "timestamp": "2026-03-27 01:36:35",
       "message": "Reprocessing: Arm Launches First Silicon CPU, Targets Data Center Agentic AI Workloads"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 01:37:09",
       "message": "[PROCESSING] Analyzing: Sources: SpaceX's IPO plans include visits to its sites, unusual lockups for early investors, and preferential treatment for investors in Musk's other companies (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-03-27 01:37:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: SpaceX's IPO plans include visits to its sites, unusual lockups for early investors, and preferential treatment for investors in Musk's other companies (Wall Street Journal)"
     }
   ]
 }
