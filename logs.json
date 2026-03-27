@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 15:56:55",
+  "last_updated": "2026-03-27 15:57:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 15:55:59",
-      "message": "[SUCCESS] Processed: 10\ub300\ub4e4\uc744 \uc704\ud55c \uc548\uc804\ud55c AI \uacbd\ud5d8\uc744 \uac1c\ubc1c\uc790\ub97c \ub3d5\uae30 \uc704\ud574\n  > Summary: OpenAI\ub294 gpt-oss-safeguard\ub97c \uc0ac\uc6a9\ud558\ub294 \uac1c\ubc1c\uc790\ub4e4\uc744 \uc704\ud574 10\ub300 \uc548\uc804 \uc815\ucc45..."
-    },
     {
       "timestamp": "2026-03-27 15:56:01",
       "message": "Reprocessing: Powering product discovery in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 15:56:55",
       "message": "[PROCESSING] Analyzing: PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider..."
+    },
+    {
+      "timestamp": "2026-03-27 15:57:00",
+      "message": "[SKIP] Irrelevant (AI Filter): PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider"
     }
   ]
 }
