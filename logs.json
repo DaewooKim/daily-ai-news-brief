@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 10:30:07",
+  "last_updated": "2026-03-27 10:30:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 10:29:33",
-      "message": "[SKIP] Content too short: Enterprises are rushing into A..."
-    },
     {
       "timestamp": "2026-03-27 10:29:34",
       "message": "Reprocessing: Quarantining risk: How public health is scaling AI without exposing sensitive data"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 10:30:07",
       "message": "[PROCESSING] Analyzing: SICSOLINK SFP-J06Q-HG2-US Review an 8-Port 10GbE Ethernet Switch..."
+    },
+    {
+      "timestamp": "2026-03-27 10:30:09",
+      "message": "[SKIP] Irrelevant (AI Filter): SICSOLINK SFP-J06Q-HG2-US Review an 8-Port 10GbE Ethernet Switch"
     }
   ]
 }
