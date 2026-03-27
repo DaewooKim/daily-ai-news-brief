@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-03-27 00:34:31",
-  "status": "idle",
+  "last_updated": "2026-03-27 01:35:02",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-03-27 00:33:21",
-      "message": "[SKIP] Content too short: Theia Insights raises $8M to b..."
+      "timestamp": "2026-03-27 01:34:48",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-03-27 00:33:22",
-      "message": "Reprocessing: Defense startup Shield AI raises $2B, acquires flight simulation company Aechelon"
+      "timestamp": "2026-03-27 01:34:49",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-03-27 00:33:24",
-      "message": "[SKIP] Content too short: Defense startup Shield AI rais..."
+      "timestamp": "2026-03-27 01:34:49",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-03-27 00:33:25",
-      "message": "Reprocessing: With AI and quantum threats closing in on enterprises, IBM says don\u2019t panic \u2014 but start moving"
+      "timestamp": "2026-03-27 01:35:02",
+      "message": "Found 175 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-03-27 00:33:26",
-      "message": "[SKIP] Content too short: With AI and quantum threats cl..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:28",
-      "message": "Reprocessing: AI mints a new era for cybersecurity: theCUBE\u2019s RSAC day four analysis"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:29",
-      "message": "[SKIP] Content too short: AI mints a new era for cyberse..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:30",
-      "message": "Reprocessing: Mistral releases an open-weights \u2018speaking\u2019 AI model with Voxtral TTS"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:32",
-      "message": "[SKIP] Content too short: Mistral releases an open-weigh..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:33",
-      "message": "Reprocessing: The AI infrastructure bottleneck: Why \u2018good enough\u2019 Kubernetes isn\u2019t cutting it anymore"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:34",
-      "message": "[SKIP] Content too short: The AI infrastructure bottlene..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:35",
-      "message": "Reprocessing: Regulation crashes the AI party: theCUBE\u2019s KubeCon + CloudNativeCon EU day three analysis"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:37",
-      "message": "[SKIP] Content too short: Regulation crashes the AI part..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:38",
-      "message": "Reprocessing: Qualified Health raises $125M to transform how enterprise healthcare systems adopt AI"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:40",
-      "message": "[SKIP] Content too short: Qualified Health raises $125M ..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:41",
-      "message": "Reprocessing: Bland launches Norm to help teams build production-ready voice agents in minutes"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:43",
-      "message": "[SKIP] Content too short: Bland launches Norm to help te..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:44",
-      "message": "Reprocessing: Steno raises $49M to change court reporting with AI-enabled transcript analysis"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:46",
-      "message": "[SKIP] Content too short: Steno raises $49M to change co..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:47",
-      "message": "Reprocessing: AI\u2019s infrastructure crunch: Inside CNCF\u2019s play to bring order to inference chaos"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:48",
-      "message": "[SKIP] Content too short: AI\u2019s infrastructure crunch: In..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:50",
-      "message": "Reprocessing: Enterprises are rushing into AI \u2014 but deployment complexity could stop them cold"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:51",
-      "message": "[SKIP] Content too short: Enterprises are rushing into A..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:52",
-      "message": "Reprocessing: Quarantining risk: How public health is scaling AI without exposing sensitive data"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:54",
-      "message": "[SKIP] Content too short: Quarantining risk: How public ..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:55",
-      "message": "Reprocessing: Meta is laying off hundreds of staff across multiple divisions"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:56",
-      "message": "[SKIP] Content too short: Meta is laying off hundreds of..."
-    },
-    {
-      "timestamp": "2026-03-27 00:33:58",
-      "message": "Reprocessing: Google develops TurboQuant compression technology for AI models"
-    },
-    {
-      "timestamp": "2026-03-27 00:33:59",
-      "message": "[SKIP] Content too short: Google develops TurboQuant com..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:00",
-      "message": "Reprocessing: Agentic retail dispute resolution startup Glimpse raises $35M from Andreessen Horowitz and others"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:01",
-      "message": "[SKIP] Content too short: Agentic retail dispute resolut..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:03",
-      "message": "Reprocessing: Krane raises $9M to expand AI-driven construction supply chain platform"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:04",
-      "message": "[SKIP] Content too short: Krane raises $9M to expand AI-..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:05",
-      "message": "Reprocessing: Normal Computing raises $50M to tackle the soaring energy demands of AI chips"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:07",
-      "message": "[SKIP] Content too short: Normal Computing raises $50M t..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:08",
-      "message": "Reprocessing: Google sets 2029 timeline for post-quantum cryptography migration"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:09",
-      "message": "[SKIP] Content too short: Google sets 2029 timeline for ..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:10",
-      "message": "Reprocessing: Granola raises $125M at $1.5B valuation for its AI note-taking app"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:11",
-      "message": "[SKIP] Content too short: Granola raises $125M at $1.5B ..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:13",
-      "message": "Reprocessing: The AI infrastructure crisis: Why identity controls matter now more than ever"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:14",
-      "message": "[SKIP] Content too short: The AI infrastructure crisis: ..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:15",
-      "message": "Reprocessing: California jury finds Meta and YouTube responsible for youth mental health harms"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:17",
-      "message": "[SKIP] Content too short: California jury finds Meta and..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:18",
-      "message": "Reprocessing: Offensive security is entering a full-fledged \u2018chaos phase\u2019 as AI speeds up attacks"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:19",
-      "message": "[SKIP] Content too short: Offensive security is entering..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:21",
-      "message": "[PROCESSING] Analyzing: Beelink ME Pro Review A Small and Focused NAS That We Set Up with OpenClaw..."
-    },
-    {
-      "timestamp": "2026-03-27 00:34:23",
-      "message": "[SKIP] Irrelevant (AI Filter): Beelink ME Pro Review A Small and Focused NAS That We Set Up with OpenClaw"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:24",
-      "message": "Completed! New: 8, Updated: 50"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:27",
-      "message": "Saved 58 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-03-27 00:34:30",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-03-27 01:35:02",
+      "message": "[PROCESSING] Analyzing: Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban..."
     }
   ]
 }
