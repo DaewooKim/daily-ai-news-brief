@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 08:15:19",
+  "last_updated": "2026-03-27 08:15:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 08:14:32",
-      "message": "[PROCESSING] Analyzing: Source: Thrive Holdings has landed $1B in commitments for a new fundraising deal and is considering raising at least another $1B after strong investor interest (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-27 08:14:36",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Thrive Holdings has landed $1B in commitments for a new fundraising deal and is considering raising at least another $1B after strong investor interest (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 08:15:19",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-27 08:15:21",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
