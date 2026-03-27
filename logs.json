@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 18:12:01",
+  "last_updated": "2026-03-27 18:12:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 18:11:23",
-      "message": "[SUCCESS] Processed: \uc911\uad6d\uc758 Manus \uac80\ud1a0 \ud655\ub300\uac00 '\uc2f1\uac00\ud3ec\ub974 \uc138\ud0c1' \ubaa8\ub378\uc5d0 \ub300\ud55c \uc758\ubb38\uc744 \uc81c\uae30\ud558\ub2e4; \ucd9c\ucc98: \uba54\ud0c0\uac00 3\uc6d4 \ucd08\uc5d0 100\uba85 \uc774\uc0c1\uc758 Manus \uc9c1\uc6d0\uc744 \uc2f1\uac00\ud3ec\ub974\ub85c \uc774\uc804\ud588\ub2e4\n  > Summary: \uba54\ud0c0\uac00 \uc791\ub144 \ub9d0 \uc911\uad6d \ubfcc\ub9ac\ub97c \uac00\uc9c4 \uc2f1\uac00\ud3ec\ub974 AI \uc2a4\ud0c0\ud2b8\uc5c5 Manus\ub97c 20\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud55c..."
-    },
     {
       "timestamp": "2026-03-27 18:11:25",
       "message": "[PROCESSING] Analyzing: Microsoft will lease Crusoe's 900 MW data center in Abilene, Texas, after Oracle and OpenAI reportedly withdrew, with the first building expected by mid-2027 (Matt Day/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 18:12:01",
       "message": "[SKIP] Irrelevant (AI Filter): \u2018Spin-Flip\u2019 in Metal Complexes Can Help Solar Cells Leap Beyond Limits"
+    },
+    {
+      "timestamp": "2026-03-27 18:12:03",
+      "message": "Reprocessing: memsstar\u2019s ORBIS Alpha Etch System Installed in TUM Quantum Networks Lab"
     }
   ]
 }
