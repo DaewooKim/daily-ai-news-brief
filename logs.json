@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 14:51:25",
+  "last_updated": "2026-03-27 14:51:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 14:50:42",
-      "message": "[SUCCESS] Processed: OpenAI, \ud53c\uadf8\ub9c8, \ub178\uc158, Gmail \ubc0f Slack\uacfc \uac19\uc740 20\uac1c \uc774\uc0c1\uc758 \ucd08\uae30 \ud1b5\ud569\uc744 \ud1b5\ud574 \ubc18\ubcf5 \uac00\ub2a5\ud55c AI \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \ud45c\uc900\ud654\ud558\uae30 \uc704\ud55c Codex \ud50c\ub7ec\uadf8\uc778 \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 Codex \ud50c\ub7ec\uadf8\uc778\uc744 \ucd9c\uc2dc\ud558\uc5ec \ubc18\ubcf5 \uac00\ub2a5\ud55c AI \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \ud45c\uc900\ud654\ud558\ub824\uace0 \ud569..."
-    },
     {
       "timestamp": "2026-03-27 14:50:43",
       "message": "[PROCESSING] Analyzing: Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 (Emma Roth/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 14:51:25",
       "message": "[PROCESSING] Analyzing: Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities..."
+    },
+    {
+      "timestamp": "2026-03-27 14:51:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities"
     }
   ]
 }
