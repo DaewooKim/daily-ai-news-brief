@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 21:32:11",
+  "last_updated": "2026-03-27 21:32:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 21:31:22",
-      "message": "[PROCESSING] Analyzing: A \u2018pound of flesh\u2019 from data centers: one senator\u2019s answer to AI job losses..."
-    },
     {
       "timestamp": "2026-03-27 21:31:28",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c\uc758 \u2018\uc0b4\u4e00\u70b9 \uccb4\uc911\u2019: AI \uc77c\uc790\ub9ac \uc190\uc2e4\uc5d0 \ub300\ud55c \ud55c \uc0c1\uc6d0\uc758\uc6d0\uc758 \ub2f5\ubcc0\n  > Summary: AI\ub85c \uc778\ud55c \uc77c\uc790\ub9ac \uc0c1\uc2e4\uc5d0 \ub300\ud55c \uc6b0\ub824\uac00 \ucee4\uc9c0\uace0 \uc788\uc73c\uba70, \uc774\ub294 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \ubc18\ubc1c\ub85c \uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 21:32:11",
       "message": "[PROCESSING] Analyzing: Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta's legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% (Ari Levy/CNBC)..."
+    },
+    {
+      "timestamp": "2026-03-27 21:32:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta's legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% (Ari Levy/CNBC)"
     }
   ]
 }
