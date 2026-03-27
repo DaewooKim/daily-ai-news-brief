@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-27 00:29:00",
+  "last_updated": "2026-03-27 00:29:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-27 00:28:22",
-      "message": "[PROCESSING] Analyzing: Netflix is raising prices again..."
-    },
     {
       "timestamp": "2026-03-27 00:28:26",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix is raising prices again"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-27 00:29:00",
       "message": "[SKIP] Content too short: Mapping the modern world: How ..."
+    },
+    {
+      "timestamp": "2026-03-27 00:29:02",
+      "message": "Reprocessing: Inside our approach to the Model Spec"
     }
   ]
 }
