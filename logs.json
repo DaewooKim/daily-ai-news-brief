@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 17:32:47",
+  "last_updated": "2026-03-28 17:32:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 17:32:11",
-      "message": "[PROCESSING] Analyzing: Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%..."
-    },
     {
       "timestamp": "2026-03-28 17:32:15",
       "message": "[SKIP] Irrelevant (AI Filter): Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 17:32:47",
       "message": "Reprocessing: OpenAI introduces plugins for its Codex programming assistant"
+    },
+    {
+      "timestamp": "2026-03-28 17:32:48",
+      "message": "[SKIP] Content too short: OpenAI introduces plugins for ..."
     }
   ]
 }
