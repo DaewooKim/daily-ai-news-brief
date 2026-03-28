@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 03:07:39",
+  "last_updated": "2026-03-28 03:07:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 03:06:58",
-      "message": "[PROCESSING] Analyzing: Powering product discovery in ChatGPT..."
-    },
     {
       "timestamp": "2026-03-28 03:07:02",
       "message": "[SUCCESS] Processed: ChatGPT\uc5d0\uc11c \uc81c\ud488 \ubc1c\uacac\uc744 \uc9c0\uc6d0\ud558\ub2e4\n  > Summary: ChatGPT\ub294 \uc81c\ud488 \ubc1c\uacac\uacfc \ub098\ub780\ud788 \ube44\uad50, \uc0c1\uc778 \ud1b5\ud569\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub294 Agentic Com..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 03:07:39",
       "message": "[PROCESSING] Analyzing: PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider..."
+    },
+    {
+      "timestamp": "2026-03-28 03:07:41",
+      "message": "[SKIP] Irrelevant (AI Filter): PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider"
     }
   ]
 }
