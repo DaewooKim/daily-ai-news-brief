@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 03:09:03",
+  "last_updated": "2026-03-28 03:09:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 03:08:26",
-      "message": "[SUCCESS] Processed: NeurIPS, \ubbf8\uad6d \uc81c\uc7ac \ub300\uc0c1 \uc5f0\uad6c\uc790\ub4e4 \ub17c\ubb38 \uae08\uc9c0 \uc815\ucc45\uc744 \ucca0\ud68c\ud558\ub2e4\n  > Summary: \uc8fc\uc694 \uc778\uacf5\uc9c0\ub2a5 \ud559\ud68c\uc778 NeurIPS\uac00 \ubbf8\uad6d \uc81c\uc7ac \ub300\uc0c1 \uc5f0\uad6c\uc790\ub4e4\uc758 \ub17c\ubb38\uc744 \uae08\uc9c0\ud558\ub294 \uc815\ucc45\uc744 \ucca0..."
-    },
     {
       "timestamp": "2026-03-28 03:08:27",
       "message": "[PROCESSING] Analyzing: Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages (Jaron Schneider/PetaPixel)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 03:09:03",
       "message": "[PROCESSING] Analyzing: \u2018Spin-Flip\u2019 in Metal Complexes Can Help Solar Cells Leap Beyond Limits..."
+    },
+    {
+      "timestamp": "2026-03-28 03:09:06",
+      "message": "[SKIP] Irrelevant (AI Filter): \u2018Spin-Flip\u2019 in Metal Complexes Can Help Solar Cells Leap Beyond Limits"
     }
   ]
 }
