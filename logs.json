@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 20:50:00",
+  "last_updated": "2026-03-28 20:50:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 20:49:27",
-      "message": "Reprocessing: Report analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year (Julie Bort/TechCrunch)"
-    },
     {
       "timestamp": "2026-03-28 20:49:29",
       "message": "[PROCESSING] Analyzing: Report analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year (Julie Bort/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 20:50:00",
       "message": "[PROCESSING] Analyzing: New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells..."
+    },
+    {
+      "timestamp": "2026-03-28 20:50:03",
+      "message": "[SKIP] Irrelevant (AI Filter): New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells"
     }
   ]
 }
