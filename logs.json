@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 09:48:29",
+  "last_updated": "2026-03-28 09:48:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 09:47:34",
-      "message": "[PROCESSING] Analyzing: SEMI Europe Applauds the European Commission\u2019s Implementation Dialogue on the Chips Act 2.0..."
-    },
     {
       "timestamp": "2026-03-28 09:47:40",
       "message": "[SUCCESS] Processed: SEMI \uc720\ub7fd, \uce69\uc2a4 \ubc95\uc548 2.0\uc5d0 \ub300\ud55c \uc720\ub7fd \uc704\uc6d0\ud68c\uc758 \uc774\ud589 \ub300\ud654\uc5d0 \ucc2c\uc0ac\ub97c \ubcf4\ub0c4\n  > Summary: SEMI \uc720\ub7fd\uc740 \uc720\ub7fd \uc704\uc6d0\ud68c\uc758 \uce69\uc2a4 \ubc95\uc548 \uc774\ud589 \ub300\ud654\uc5d0 \ucc38\uc5ec\ud558\uc600\uc73c\uba70, \uc774 \ubc95\uc548\uc758 \ubc29\ud5a5\uc131\uc744 \uc815..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 09:48:29",
       "message": "[PROCESSING] Analyzing: STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production..."
+    },
+    {
+      "timestamp": "2026-03-28 09:48:32",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production"
     }
   ]
 }
