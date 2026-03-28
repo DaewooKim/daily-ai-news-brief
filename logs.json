@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 18:35:14",
+  "last_updated": "2026-03-28 18:35:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 18:34:27",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-28 18:34:40",
       "message": "Found 175 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 18:35:14",
       "message": "[PROCESSING] Analyzing: Oppo made the best foldable phone, again..."
+    },
+    {
+      "timestamp": "2026-03-28 18:35:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Oppo made the best foldable phone, again"
     }
   ]
 }
