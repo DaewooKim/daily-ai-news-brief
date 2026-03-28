@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 04:12:55",
+  "last_updated": "2026-03-28 04:12:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 04:12:11",
-      "message": "[PROCESSING] Analyzing: Sony temporarily suspends memory card sales due to shortages..."
-    },
     {
       "timestamp": "2026-03-28 04:12:14",
       "message": "[SKIP] Irrelevant (AI Filter): Sony temporarily suspends memory card sales due to shortages"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 04:12:55",
       "message": "Reprocessing: We Need Servers \u2013 Lots Of Servers. . . ."
+    },
+    {
+      "timestamp": "2026-03-28 04:12:57",
+      "message": "[SKIP] Content too short: We Need Servers \u2013 Lots Of Serv..."
     }
   ]
 }
