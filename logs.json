@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-28 17:28:47",
+  "last_updated": "2026-03-28 17:28:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-28 17:27:59",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-28 17:28:12",
       "message": "Found 175 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-28 17:28:47",
       "message": "[PROCESSING] Analyzing: Bluetti\u2019s Sora 500 solar panel is incredibly powerful for its size..."
+    },
+    {
+      "timestamp": "2026-03-28 17:28:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Bluetti\u2019s Sora 500 solar panel is incredibly powerful for its size"
     }
   ]
 }
