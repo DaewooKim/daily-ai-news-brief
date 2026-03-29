@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-29 03:23:45",
+  "last_updated": "2026-03-29 03:23:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-29 03:23:07",
-      "message": "[SUCCESS] Processed: x86 \ub108\uba38: GPU \uc8fc\ub3c4 AI\ub97c \uc704\ud55c \ub300\uccb4 CPU \uc120\ud0dd\n  > Summary: AI \uc11c\ubc84\ub294 \uc77c\ubc18\uc801\uc73c\ub85c x86 CPU\ub97c \uc0ac\uc6a9\ud558\uc9c0\ub9cc, ARM, RISC-V, ASIC\uacfc \uac19\uc740..."
-    },
     {
       "timestamp": "2026-03-29 03:23:08",
       "message": "[PROCESSING] Analyzing: Qualified Health, which helps health systems evaluate and adopt AI tools, raised a $125M Series B led by NEA at a valuation of between $500M and $1B (Heather Landi/Fierce Healthcare)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-29 03:23:45",
       "message": "[PROCESSING] Analyzing: New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells..."
+    },
+    {
+      "timestamp": "2026-03-29 03:23:47",
+      "message": "[SKIP] Irrelevant (AI Filter): New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells"
     }
   ]
 }
