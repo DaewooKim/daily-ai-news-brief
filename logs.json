@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-29 03:22:07",
+  "last_updated": "2026-03-29 03:22:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-29 03:21:36",
-      "message": "[PROCESSING] Analyzing: Here\u2019s what Verge readers are buying during Amazon\u2019s Big Spring Sale..."
-    },
     {
       "timestamp": "2026-03-29 03:21:39",
       "message": "[SKIP] Irrelevant (AI Filter): Here\u2019s what Verge readers are buying during Amazon\u2019s Big Spring Sale"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-29 03:22:07",
       "message": "Reprocessing: Mapping the modern world: How S2Vec learns the language of our cities"
+    },
+    {
+      "timestamp": "2026-03-29 03:22:09",
+      "message": "[SKIP] Content too short: Mapping the modern world: How ..."
     }
   ]
 }
