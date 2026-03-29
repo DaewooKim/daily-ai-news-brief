@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-29 17:33:05",
+  "last_updated": "2026-03-29 17:33:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-29 17:32:28",
-      "message": "[PROCESSING] Analyzing: The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)..."
-    },
     {
       "timestamp": "2026-03-29 17:32:31",
       "message": "[SKIP] Irrelevant (AI Filter): The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-29 17:33:05",
       "message": "Reprocessing: We Need Servers \u2013 Lots Of Servers. . . ."
+    },
+    {
+      "timestamp": "2026-03-29 17:33:06",
+      "message": "[SKIP] Content too short: We Need Servers \u2013 Lots Of Serv..."
     }
   ]
 }
