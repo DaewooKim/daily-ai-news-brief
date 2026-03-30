@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 18:49:14",
+  "last_updated": "2026-03-30 18:49:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 18:48:26",
-      "message": "[PROCESSING] Analyzing: Examining the Smartphone Theory of Everything, which blames phones for anxiety, populism, and polarization, despite harms being concentrated in the Anglosphere (Derek Thompson)..."
-    },
     {
       "timestamp": "2026-03-30 18:48:28",
       "message": "[SKIP] Irrelevant (AI Filter): Examining the Smartphone Theory of Everything, which blames phones for anxiety, populism, and polarization, despite harms being concentrated in the Anglosphere (Derek Thompson)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 18:49:14",
       "message": "Reprocessing: Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines"
+    },
+    {
+      "timestamp": "2026-03-30 18:49:15",
+      "message": "[PROCESSING] Analyzing: Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines..."
     }
   ]
 }
