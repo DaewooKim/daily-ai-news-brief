@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 21:01:31",
+  "last_updated": "2026-03-30 21:01:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 21:00:31",
-      "message": "[PROCESSING] Analyzing: After Copilot injected an ad into a pull request on GitHub, referencing Raycast, GitHub says it \"disabled product tips entirely thanks to the feedback\" (Sean Endicott/Windows Central)..."
-    },
     {
       "timestamp": "2026-03-30 21:00:34",
       "message": "[SKIP] Irrelevant (AI Filter): After Copilot injected an ad into a pull request on GitHub, referencing Raycast, GitHub says it \"disabled product tips entirely thanks to the feedback\" (Sean Endicott/Windows Central)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 21:01:31",
       "message": "Reprocessing: Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines"
+    },
+    {
+      "timestamp": "2026-03-30 21:01:32",
+      "message": "[PROCESSING] Analyzing: Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines..."
     }
   ]
 }
