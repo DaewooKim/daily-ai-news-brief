@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 18:48:34",
+  "last_updated": "2026-03-30 18:48:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 18:47:59",
-      "message": "[SUCCESS] Processed: \ud038\ub2c8\ud53c\uc545 \uc5ec\ub860\uc870\uc0ac: \ubbf8\uad6d\uc778\uc758 55%\uac00 AI\uac00 \uc77c\uc0c1 \uc0dd\ud65c\uc5d0\uc11c \ub354 \ud574\ub86d\ub2e4\uace0 \uc0dd\uac01\ud558\uace0, 65%\uac00 \uc9c0\uc5ed \uc0ac\ud68c\uc5d0 \ub370\uc774\ud130 \uc13c\ud130 \uac74\ub9bd\uc5d0 \ubc18\ub300\ud55c\ub2e4\n  > Summary: \ud038\ub2c8\ud53c\uc545 \uc5ec\ub860\uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \ubbf8\uad6d\uc778\uc758 55%\uac00 \uc778\uacf5\uc9c0\ub2a5(AI)\uc774 \uc77c\uc0c1 \uc0dd\ud65c\uc5d0\uc11c \ub354 \ud070 \ud574\ub97c..."
-    },
     {
       "timestamp": "2026-03-30 18:48:00",
       "message": "[PROCESSING] Analyzing: Fermi shares drop 12%+ after the data center real estate company reported a $486M YTD net loss, amid concerns over a lack of a tenant for its Texas data center (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 18:48:34",
       "message": "[PROCESSING] Analyzing: Uber agrees to acquire Berlin-based chauffeur booking app Blacklane for an undisclosed sum to bolster its Uber Elite service, set to close by the end of 2026 (Natalie Lung/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-30 18:48:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Uber agrees to acquire Berlin-based chauffeur booking app Blacklane for an undisclosed sum to bolster its Uber Elite service, set to close by the end of 2026 (Natalie Lung/Bloomberg)"
     }
   ]
 }
