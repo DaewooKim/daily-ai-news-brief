@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 09:56:28",
+  "last_updated": "2026-03-30 09:56:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 09:55:25",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-30 09:55:37",
       "message": "Found 149 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 09:56:28",
       "message": "Reprocessing: We Need Servers \u2013 Lots Of Servers. . . ."
+    },
+    {
+      "timestamp": "2026-03-30 09:56:29",
+      "message": "[SKIP] Content too short: We Need Servers \u2013 Lots Of Serv..."
     }
   ]
 }
