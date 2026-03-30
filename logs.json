@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 19:53:44",
+  "last_updated": "2026-03-30 19:53:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 19:53:00",
-      "message": "Reprocessing: We Need Servers \u2013 Lots Of Servers. . . ."
-    },
     {
       "timestamp": "2026-03-30 19:53:01",
       "message": "[SKIP] Content too short: We Need Servers \u2013 Lots Of Serv..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 19:53:44",
       "message": "[PROCESSING] Analyzing: PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider..."
+    },
+    {
+      "timestamp": "2026-03-30 19:53:46",
+      "message": "[SKIP] Irrelevant (AI Filter): PCBCart: Advanced DFM Surpassing Standard HMLV EMS\u00a0Provider"
     }
   ]
 }
