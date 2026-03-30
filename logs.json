@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 11:04:35",
+  "last_updated": "2026-03-30 11:04:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 11:03:37",
-      "message": "[SUCCESS] Processed: \ube44\ub514\uc624 \uac8c\uc784\uc5d0\uc11c LLM\uc758 \ud55c\uacc4\uc5d0 \uad00\ud55c NYU \uad50\uc218 \uc904\ub9ac\uc548 \ud1a0\uac94\ub9ac\uc5b4\uc2a4\uc640\uc758 Q&A\n  > Summary: \uc904\ub9ac\uc548 \ud1a0\uac94\ub9ac\uc5b4\uc2a4 \uad50\uc218\ub294 LLM(\ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378)\uc774 \ube44\ub514\uc624 \uac8c\uc784\uc744 \ud50c\ub808\uc774\ud558\ub294 \ub370 \ud55c\uacc4\ub97c \uac00..."
-    },
     {
       "timestamp": "2026-03-30 11:03:38",
       "message": "[PROCESSING] Analyzing: Amazon MGM's Project Hail Mary becomes its highest-grossing film ever, crossing $300M globally, including $54.1M just this weekend; the movie cost $200M to make (Brent Lang/Variety)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 11:04:35",
       "message": "[PROCESSING] Analyzing: New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells..."
+    },
+    {
+      "timestamp": "2026-03-30 11:04:38",
+      "message": "[SKIP] Irrelevant (AI Filter): New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells"
     }
   ]
 }
