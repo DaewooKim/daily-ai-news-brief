@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 18:49:44",
+  "last_updated": "2026-03-30 18:49:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 18:49:14",
-      "message": "Reprocessing: Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines"
-    },
     {
       "timestamp": "2026-03-30 18:49:15",
       "message": "[PROCESSING] Analyzing: Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 18:49:44",
       "message": "Reprocessing: On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon\u2019s role changes in the wake of AI"
+    },
+    {
+      "timestamp": "2026-03-30 18:49:45",
+      "message": "[SKIP] Content too short: On theCUBE Pod: RSAC raises al..."
     }
   ]
 }
