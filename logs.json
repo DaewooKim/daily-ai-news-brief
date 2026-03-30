@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 16:34:25",
+  "last_updated": "2026-03-30 16:34:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 16:33:33",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-30 16:33:45",
       "message": "Found 145 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 16:34:25",
       "message": "[PROCESSING] Analyzing: Apple @ 50..."
+    },
+    {
+      "timestamp": "2026-03-30 16:34:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple @ 50"
     }
   ]
 }
