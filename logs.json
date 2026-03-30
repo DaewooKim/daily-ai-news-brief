@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 00:06:06",
+  "last_updated": "2026-03-30 00:06:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 00:05:12",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-30 00:05:24",
       "message": "Found 151 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 00:06:06",
       "message": "Reprocessing: Demonstrating The Scientific Usefulness Of Quantum Systems"
+    },
+    {
+      "timestamp": "2026-03-30 00:06:08",
+      "message": "[SKIP] Content too short: Demonstrating The Scientific U..."
     }
   ]
 }
