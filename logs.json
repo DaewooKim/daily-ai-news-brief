@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-30 17:45:02",
+  "last_updated": "2026-03-30 17:45:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-30 17:44:34",
-      "message": "[SKIP] Content too short: Three insights you might have ..."
-    },
     {
       "timestamp": "2026-03-30 17:44:35",
       "message": "Reprocessing: AI is breaking the old security model, forcing SASE to evolve for a new era of enterprise risk"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-30 17:45:02",
       "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-12XT-2X Review A Better 14-Port 10GbE Managed Switch..."
+    },
+    {
+      "timestamp": "2026-03-30 17:45:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-12XT-2X Review A Better 14-Port 10GbE Managed Switch"
     }
   ]
 }
