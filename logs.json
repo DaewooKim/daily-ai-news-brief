@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 11:15:15",
+  "last_updated": "2026-03-31 11:15:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 11:14:24",
-      "message": "[PROCESSING] Analyzing: Beijing-based AI company Z.ai reports 2025 revenue of ~$105M, below ~$109M est., and net loss up 60% YoY to ~$680M, vs. ~$545M est., amid aggressive spending (Bloomberg)..."
-    },
     {
       "timestamp": "2026-03-31 11:14:31",
       "message": "[SUCCESS] Processed: \ubca0\uc774\uc9d5 \uc18c\uc7ac AI \uae30\uc5c5 Z.ai, 2025\ub144 \uc218\uc775 \uc57d 1\uc5b5 500\ub9cc \ub2ec\ub7ec \ubcf4\uace0, \uc608\uc0c1\uce58\uc778 \uc57d 1\uc5b5 900\ub9cc \ub2ec\ub7ec \ud558\ud68c \ubc0f \uc21c\uc190\uc2e4 60% \uc99d\uac00\ub85c \uc5f0\uac04 \uc57d 6\uc5b5 8000\ub9cc \ub2ec\ub7ec, \uc608\uc0c1\uce58\uc778 \uc57d 5\uc5b5 4500\ub9cc \ub2ec\ub7ec \ucd08\uacfc, \uacf5\uaca9\uc801\uc778 \uc9c0\ucd9c \uc18d\uc5d0\uc11c (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: \ubca0\uc774\uc9d5\uc5d0 \uc704\uce58\ud55c AI \uae30\uc5c5 Z.ai\uac00 2025\ub144 \uc218\uc775\uc73c\ub85c \uc57d 1\uc5b5 500\ub9cc \ub2ec\ub7ec\ub97c \ubcf4\uace0\ud588\uc73c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 11:15:15",
       "message": "[PROCESSING] Analyzing: A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload (Socket)..."
+    },
+    {
+      "timestamp": "2026-03-31 11:15:21",
+      "message": "[SKIP] Irrelevant (AI Filter): A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload (Socket)"
     }
   ]
 }
