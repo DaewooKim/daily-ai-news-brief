@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 15:38:35",
+  "last_updated": "2026-03-31 15:38:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 15:37:54",
-      "message": "Found 142 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-31 15:37:54",
       "message": "[PROCESSING] Analyzing: The best deals to shop on the last day of Amazon\u2019s Big Spring Sale..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 15:38:35",
       "message": "[PROCESSING] Analyzing: Apple at 50: the good and the bad..."
+    },
+    {
+      "timestamp": "2026-03-31 15:38:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple at 50: the good and the bad"
     }
   ]
 }
