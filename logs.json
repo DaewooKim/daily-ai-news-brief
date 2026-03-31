@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 10:09:24",
+  "last_updated": "2026-03-31 10:09:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 10:08:45",
-      "message": "[PROCESSING] Analyzing: Inside the Push to Bring DC Power to Data Centers..."
-    },
     {
       "timestamp": "2026-03-31 10:08:48",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0 DC \uc804\ub825\uc744 \uac00\uc838\uc624\uae30 \uc704\ud55c \ub178\ub825 \ub0b4\ubd80\n  > Summary: \ub450 \uac1c\uc758 \uc720\ub7fd \ub3d9\ub9f9\uc774 \ud611\ub825\ud558\uc5ec \uac1c\ubc29\ud615 DC \ubc30\uae09 \ud45c\uc900\uc744 \ubc1c\uc804\uc2dc\ud0a4\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ub4e4\uc740 \uc911\ubcf5\ub41c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 10:09:24",
       "message": "[PROCESSING] Analyzing: Indian government data: India's smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks (Quratulain Rehbar/Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-03-31 10:09:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Indian government data: India's smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks (Quratulain Rehbar/Nikkei Asia)"
     }
   ]
 }
