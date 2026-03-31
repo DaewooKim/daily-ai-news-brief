@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 13:28:25",
+  "last_updated": "2026-03-31 13:28:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 13:27:43",
-      "message": "[PROCESSING] Analyzing: The UK CMA launches an investigation into Microsoft's business software unit to assess whether it should be designated with \"strategic market status\" (Financial Times)..."
-    },
     {
       "timestamp": "2026-03-31 13:27:45",
       "message": "[SKIP] Irrelevant (AI Filter): The UK CMA launches an investigation into Microsoft's business software unit to assess whether it should be designated with \"strategic market status\" (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 13:28:25",
       "message": "Reprocessing: AI-generated code verification startup Qodo raises $70M"
+    },
+    {
+      "timestamp": "2026-03-31 13:28:27",
+      "message": "[SKIP] Content too short: AI-generated code verification..."
     }
   ]
 }
