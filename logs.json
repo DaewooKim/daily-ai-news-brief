@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 02:30:03",
+  "last_updated": "2026-03-31 02:30:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 02:29:23",
-      "message": "[PROCESSING] Analyzing: Micron shares closed down 10% on Monday and are now down 30% since Micron's earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% (Lola Murti/CNBC)..."
-    },
     {
       "timestamp": "2026-03-31 02:29:25",
       "message": "[SKIP] Irrelevant (AI Filter): Micron shares closed down 10% on Monday and are now down 30% since Micron's earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% (Lola Murti/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 02:30:03",
       "message": "[SUCCESS] Processed: RSAC 2026\uc5d0\uc11c \ub2e4\uc12f \uac1c\uc758 \uc5d0\uc774\uc804\ud2b8 \uc2e0\uc6d0 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ucd9c\uc2dc\ud588\uc9c0\ub9cc \uc138 \uac00\uc9c0 \uc911\uc694\ud55c \uaca9\ucc28\ub97c \ub0a8\uacbc\uc2b5\ub2c8\ub2e4\n  > Summary: 2026 RSA \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c CrowdStrike\uc758 CTO\uc778 Elia Zaitsev\ub294 \uc5b8\uc5b4..."
+    },
+    {
+      "timestamp": "2026-03-31 02:30:04",
+      "message": "Reprocessing: UDE from PLS - Debugging, tracing, and RTOS analysis for microcontrollers and embedded processors"
     }
   ]
 }
