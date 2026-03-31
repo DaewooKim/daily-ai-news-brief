@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 13:28:08",
+  "last_updated": "2026-03-31 13:28:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 13:27:27",
-      "message": "[SUCCESS] Processed: \ucf54\uc5b4\uc704\ube0c, \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305 \uc6a9\ub7c9 \ud655\uc7a5\uc744 \uc704\ud574 \uc740\ud589\uacfc \ud22c\uc790\uc790\ub85c\ubd80\ud130 85\uc5b5 \ub2ec\ub7ec \ub300\ucd9c \uc720\uce58\n  > Summary: \ucf54\uc5b4\uc704\ube0c\uac00 \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305 \uc6a9\ub7c9 \ud655\uc7a5\uc744 \uc704\ud574 85\uc5b5 \ub2ec\ub7ec\ub97c \uc740\ud589\uacfc \ud22c\uc790\uc790\ub85c\ubd80\ud130 \uc720\uce58\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-03-31 13:27:29",
       "message": "[PROCESSING] Analyzing: Netflix feels comfortable raising prices knowing customers can downgrade to its ad tier; in 2026, Netflix is on track to double 2025's $1.5B+ in ad sales (Lucas Shaw/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 13:28:08",
       "message": "[PROCESSING] Analyzing: Arrow Electronics Releases Single-Pair Ethernet Reference Design..."
+    },
+    {
+      "timestamp": "2026-03-31 13:28:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Arrow Electronics Releases Single-Pair Ethernet Reference Design"
     }
   ]
 }
