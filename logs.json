@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 23:25:52",
+  "last_updated": "2026-03-31 23:25:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 23:25:12",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity (Bloomberg)"
-    },
     {
       "timestamp": "2026-03-31 23:25:14",
       "message": "[PROCESSING] Analyzing: Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 23:25:52",
       "message": "Reprocessing: CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 \u2014 the agent behavioral baseline gap survived all three"
+    },
+    {
+      "timestamp": "2026-03-31 23:25:54",
+      "message": "[PROCESSING] Analyzing: CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 \u2014 the agent behavioral baseline gap survived all three..."
     }
   ]
 }
