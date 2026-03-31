@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 23:25:49",
+  "last_updated": "2026-03-31 23:25:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 23:25:09",
-      "message": "[SUCCESS] Processed: \uc0c1\uc6d0 \uc758\uc6d0 \uc5d0\ub4dc \ub9c8\ud0a4\uc5d0\uac8c \ubcf4\ub0b8 \ud3b8\uc9c0: \uc5ec\uc12f \uac1c \uc790\uc728\uc8fc\ud589\ucc28 \ud68c\uc0ac\ub294 \uc6d0\uaca9 \ubcf4\uc870\uc790\uac00 \ucc28\ub7c9\uc744 \uc9c1\uc811 \uc81c\uc5b4\ud558\uc9c0 \uc54a\ub294\ub2e4\uace0 \ub9d0\ud558\uace0, \ud14c\uc2ac\ub77c\ub294 \uc6b4\uc601\uc790\uac00 \uc774\ub97c \ud5c8\uc6a9\ud55c\ub2e4\uace0 \ub9d0\ud55c\ub2e4\n  > Summary: \uc5ec\uc12f \uac1c\uc758 \uc790\uc728\uc8fc\ud589\ucc28 \ud68c\uc0ac\uac00 \uc6d0\uaca9 \ubcf4\uc870\uc790\uac00 \ucc28\ub7c9\uc744 \uc9c1\uc811 \uc81c\uc5b4\ud558\uc9c0 \uc54a\ub294\ub2e4\uace0 \uc8fc\uc7a5\ud558\ub294 \ubc18\uba74, ..."
-    },
     {
       "timestamp": "2026-03-31 23:25:10",
       "message": "[PROCESSING] Analyzing: Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 23:25:49",
       "message": "[PROCESSING] Analyzing: New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells..."
+    },
+    {
+      "timestamp": "2026-03-31 23:25:51",
+      "message": "[SKIP] Irrelevant (AI Filter): New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells"
     }
   ]
 }
