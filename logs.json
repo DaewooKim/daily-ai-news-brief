@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 10:10:07",
+  "last_updated": "2026-03-31 10:10:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 10:09:24",
-      "message": "[PROCESSING] Analyzing: Indian government data: India's smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks (Quratulain Rehbar/Nikkei Asia)..."
-    },
     {
       "timestamp": "2026-03-31 10:09:26",
       "message": "[SKIP] Irrelevant (AI Filter): Indian government data: India's smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks (Quratulain Rehbar/Nikkei Asia)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 10:10:07",
       "message": "[PROCESSING] Analyzing: Arrow Electronics Releases Single-Pair Ethernet Reference Design..."
+    },
+    {
+      "timestamp": "2026-03-31 10:10:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Arrow Electronics Releases Single-Pair Ethernet Reference Design"
     }
   ]
 }
