@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 04:38:29",
+  "last_updated": "2026-03-31 04:38:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 04:37:45",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-03-31 04:37:45",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 04:38:29",
       "message": "[PROCESSING] Analyzing: The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)..."
+    },
+    {
+      "timestamp": "2026-03-31 04:38:31",
+      "message": "[SKIP] Irrelevant (AI Filter): The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)"
     }
   ]
 }
