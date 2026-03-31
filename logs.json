@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 22:17:10",
+  "last_updated": "2026-03-31 22:17:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 22:16:25",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-31 22:16:25",
       "message": "[PROCESSING] Analyzing: You can grab a four-pack of Govee\u2019s color-changing smart bulbs for just $27..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 22:17:10",
       "message": "[SKIP] Irrelevant (AI Filter): The Sonos Play and mic-less Era 100 SL are now available"
+    },
+    {
+      "timestamp": "2026-03-31 22:17:11",
+      "message": "[SKIP] Content too short: The $2 Billion Nvidia Deal Wit..."
     }
   ]
 }
