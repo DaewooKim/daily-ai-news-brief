@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 20:06:01",
+  "last_updated": "2026-03-31 20:06:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 20:05:18",
-      "message": "[PROCESSING] Analyzing: Yupp.ai shuts down after raising $33M from a16z crypto\u2019s Chris Dixon..."
-    },
     {
       "timestamp": "2026-03-31 20:05:22",
       "message": "[SUCCESS] Processed: Yupp.ai, a16z\uc758 Chris Dixon\uc73c\ub85c\ubd80\ud130 3,300\ub9cc \ub2ec\ub7ec\ub97c \uc720\uce58\ud55c \ud6c4 \ud3d0\uc5c5\ud558\ub2e4\n  > Summary: AI \ubaa8\ub378 \ud53c\ub4dc\ubc31\uc744 crowdsourced \ubc29\uc2dd\uc73c\ub85c \uc81c\uacf5\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 Yupp.ai\uac00 \uc124\ub9bd..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 20:06:01",
       "message": "[PROCESSING] Analyzing: Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-03-31 20:06:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran (Bloomberg)"
     }
   ]
 }
