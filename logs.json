@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 14:32:05",
+  "last_updated": "2026-03-31 14:32:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 14:30:33",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-03-31 14:30:48",
       "message": "Found 141 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 14:32:05",
       "message": "[PROCESSING] Analyzing: Shark\u2019s BlastBoss amplifies your sweeping with a 190 mph blast of air..."
+    },
+    {
+      "timestamp": "2026-03-31 14:32:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Shark\u2019s BlastBoss amplifies your sweeping with a 190 mph blast of air"
     }
   ]
 }
