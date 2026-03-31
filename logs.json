@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 01:24:39",
+  "last_updated": "2026-03-31 01:24:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 01:24:04",
-      "message": "[PROCESSING] Analyzing: California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state (Cecilia Kang/New York Times)..."
-    },
     {
       "timestamp": "2026-03-31 01:24:08",
       "message": "[SUCCESS] Processed: \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc8fc\uc9c0\uc0ac \uac1c\ube48 \ub274\uc12c, \uc8fc\uc640 \uacc4\uc57d\ud558\ub294 AI \uae30\uc5c5\uc5d0 \ub300\ud55c \uc548\uc804 \ubc0f \uac1c\uc778\uc815\ubcf4 \ubcf4\ud638 \uaddc\uc815\uc744 \uc694\uad6c\ud558\ub294 \uc804\uad6d \ucd5c\ucd08\uc758 \ud589\uc815\uba85\ub839\uc5d0 \uc11c\uba85\n  > Summary: \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc8fc\uc9c0\uc0ac \uac1c\ube48 \ub274\uc12c\uc774 \uc8fc\uc640 \uacc4\uc57d\ud558\ub294 \uc778\uacf5\uc9c0\ub2a5(AI) \uae30\uc5c5\uc5d0 \ub300\ud55c \uc548\uc804 \ubc0f \uac1c\uc778\uc815\ubcf4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 01:24:39",
       "message": "[PROCESSING] Analyzing: New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells..."
+    },
+    {
+      "timestamp": "2026-03-31 01:24:41",
+      "message": "[SKIP] Irrelevant (AI Filter): New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells"
     }
   ]
 }
