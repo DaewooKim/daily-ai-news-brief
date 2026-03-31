@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 09:04:44",
+  "last_updated": "2026-03-31 09:04:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 09:03:58",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI, \ud074\ub85c\ub4dc \ucf54\ub4dc\uc5d0 \ucf54\ub371\uc2a4 \ud50c\ub7ec\uadf8\uc778 \ub3c4\uc785\n  > Summary: \uc624\ud508AI\uac00 \ud074\ub85c\ub4dc \ucf54\ub4dc\uc5d0 \ucf54\ub371\uc2a4 \ud50c\ub7ec\uadf8\uc778\uc744 \ub3c4\uc785\ud558\uc5ec \uc0ac\uc6a9\uc790\uac00 \ud074\ub85c\ub4dc \ucf54\ub4dc \ub0b4\uc5d0\uc11c \ucf54\ub371\uc2a4\ub97c ..."
-    },
     {
       "timestamp": "2026-03-31 09:04:00",
       "message": "[PROCESSING] Analyzing: Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% (Katherine Bindley/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 09:04:44",
       "message": "Reprocessing: AI-generated code verification startup Qodo raises $70M"
+    },
+    {
+      "timestamp": "2026-03-31 09:04:45",
+      "message": "[SKIP] Content too short: AI-generated code verification..."
     }
   ]
 }
