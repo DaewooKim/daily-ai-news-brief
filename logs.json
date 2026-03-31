@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 09:04:45",
+  "last_updated": "2026-03-31 09:04:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 09:04:00",
-      "message": "[PROCESSING] Analyzing: Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% (Katherine Bindley/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-03-31 09:04:02",
       "message": "[SKIP] Irrelevant (AI Filter): Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% (Katherine Bindley/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 09:04:45",
       "message": "[SKIP] Content too short: AI-generated code verification..."
+    },
+    {
+      "timestamp": "2026-03-31 09:04:47",
+      "message": "Reprocessing: Space data center startup Starcloud raises $170M at $1.1B valuation"
     }
   ]
 }
