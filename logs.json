@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 21:13:50",
+  "last_updated": "2026-03-31 21:13:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 21:12:55",
-      "message": "[SKIP] Irrelevant (AI Filter): Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran (Bloomberg)"
-    },
     {
       "timestamp": "2026-03-31 21:12:57",
       "message": "[PROCESSING] Analyzing: Monzo is shuttering its US operations to focus on scaling in the UK and Europe; source: it will lay off ~50 employees and close clients' accounts in June (Aisha S Gani/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 21:13:50",
       "message": "[PROCESSING] Analyzing: OpenClaw has 500,000 instances and no enterprise kill switch..."
+    },
+    {
+      "timestamp": "2026-03-31 21:13:56",
+      "message": "[SUCCESS] Processed: OpenClaw\uc5d0\ub294 500,000\uac1c\uc758 \uc778\uc2a4\ud134\uc2a4\uc640 \uae30\uc5c5\uc6a9 \ud0ac \uc2a4\uc704\uce58\uac00 \uc5c6\ub2e4\n  > Summary: OpenClaw AI \uac1c\uc778 \ube44\uc11c\uc758 \ubcf4\uc548 \ubb38\uc81c\uac00 \ub4dc\ub7ec\ub0ac\uc2b5\ub2c8\ub2e4. \ud55c CEO\uc758 \uc778\uc2a4\ud134\uc2a4\uac00 \ud574\ucee4\uc5d0..."
     }
   ]
 }
