@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 23:23:51",
+  "last_updated": "2026-03-31 23:23:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 23:23:12",
-      "message": "[PROCESSING] Analyzing: Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent..."
-    },
     {
       "timestamp": "2026-03-31 23:23:17",
       "message": "[SUCCESS] Processed: \ud074\ub85c\ub4dc \ucf54\ub4dc \ub204\ucd9c\ub85c \ub4dc\ub7ec\ub09c \ud0c0\ub9c8\uace0\uce58 \uc2a4\ud0c0\uc77c\uc758 \u2018\ud3ab\u2019\uacfc \ud56d\uc0c1 \ucf1c\uc838 \uc788\ub294 \uc5d0\uc774\uc804\ud2b8\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \ud074\ub85c\ub4dc \ucf54\ub4dc 2.1.88 \uc5c5\ub370\uc774\ud2b8\ub97c \ucd9c\uc2dc\ud55c \ud6c4, \uc0ac\uc6a9\uc790\ub294 TypeScript \ucf54..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 23:23:51",
       "message": "Reprocessing: Classiq Says Quantum Is On Its Way, But Patience Is Needed"
+    },
+    {
+      "timestamp": "2026-03-31 23:23:52",
+      "message": "[SKIP] Content too short: Classiq Says Quantum Is On Its..."
     }
   ]
 }
