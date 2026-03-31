@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 22:20:21",
+  "last_updated": "2026-03-31 22:20:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 22:19:40",
-      "message": "[SKIP] Irrelevant (AI Filter): Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran (Bloomberg)"
-    },
     {
       "timestamp": "2026-03-31 22:19:41",
       "message": "[PROCESSING] Analyzing: Monzo is shuttering its US operations to focus on scaling in the UK and Europe; source: it will lay off ~50 employees and close clients' accounts in June (Aisha S Gani/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 22:20:21",
       "message": "Reprocessing: OpenClaw has 500,000 instances and no enterprise kill switch"
+    },
+    {
+      "timestamp": "2026-03-31 22:20:22",
+      "message": "[PROCESSING] Analyzing: OpenClaw has 500,000 instances and no enterprise kill switch..."
     }
   ]
 }
