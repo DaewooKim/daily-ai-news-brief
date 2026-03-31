@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 20:06:51",
+  "last_updated": "2026-03-31 20:06:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 20:06:09",
-      "message": "[PROCESSING] Analyzing: Google attributes the supply chain attack on HTTP client Axios to a suspected North Korean threat actor it calls UNC1069 (Lorenzo Franceschi-Bicchierai/TechCrunch)..."
-    },
     {
       "timestamp": "2026-03-31 20:06:12",
       "message": "[SKIP] Irrelevant (AI Filter): Google attributes the supply chain attack on HTTP client Axios to a suspected North Korean threat actor it calls UNC1069 (Lorenzo Franceschi-Bicchierai/TechCrunch)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 20:06:51",
       "message": "Reprocessing: OpenClaw has 500,000 instances and no enterprise kill switch"
+    },
+    {
+      "timestamp": "2026-03-31 20:06:53",
+      "message": "[PROCESSING] Analyzing: OpenClaw has 500,000 instances and no enterprise kill switch..."
     }
   ]
 }
