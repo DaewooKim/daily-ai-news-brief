@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 09:03:50",
+  "last_updated": "2026-03-31 09:03:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 09:03:13",
-      "message": "[PROCESSING] Analyzing: TeraFab: What If It Is Done Differently?..."
-    },
     {
       "timestamp": "2026-03-31 09:03:16",
       "message": "[SUCCESS] Processed: TeraFab: \ub2e4\ub974\uac8c \ud560 \uc218 \uc788\ub2e4\uba74?\n  > Summary: 2023\ub144 3\uc6d4 21\uc77c, \uc77c\ub860 \uba38\uc2a4\ud06c\ub294 \ud14c\uc2ac\ub77c, \uc2a4\ud398\uc774\uc2a4X, xAI\uc758 \uc9c0\uc6d0\uc744 \ubc1b\ub294 \uc624\uc2a4\ud2f4\uc5d0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 09:03:50",
       "message": "[PROCESSING] Analyzing: Micron shares closed down 10% on Monday and are now down 30% since Micron's earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% (Lola Murti/CNBC)..."
+    },
+    {
+      "timestamp": "2026-03-31 09:03:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Micron shares closed down 10% on Monday and are now down 30% since Micron's earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% (Lola Murti/CNBC)"
     }
   ]
 }
