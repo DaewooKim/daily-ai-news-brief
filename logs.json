@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-03-31 20:04:46",
+  "last_updated": "2026-03-31 20:04:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-03-31 20:04:08",
-      "message": "Found 143 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-03-31 20:04:08",
       "message": "[PROCESSING] Analyzing: Samsung\u2019s new app claims to alleviate motion sickness using sound..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-03-31 20:04:46",
       "message": "Reprocessing: Classiq Says Quantum Is On Its Way, But Patience Is Needed"
+    },
+    {
+      "timestamp": "2026-03-31 20:04:48",
+      "message": "[SKIP] Content too short: Classiq Says Quantum Is On Its..."
     }
   ]
 }
