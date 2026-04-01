@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 10:22:42",
+  "last_updated": "2026-04-01 10:22:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 10:21:55",
-      "message": "[PROCESSING] Analyzing: Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected..."
-    },
     {
       "timestamp": "2026-04-01 10:21:59",
       "message": "[SKIP] Irrelevant (AI Filter): Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 10:22:42",
       "message": "Reprocessing: OpenAI closes record-breaking $122B funding round that brings its valuation to $852B"
+    },
+    {
+      "timestamp": "2026-04-01 10:22:43",
+      "message": "[SKIP] Content too short: OpenAI closes record-breaking ..."
     }
   ]
 }
