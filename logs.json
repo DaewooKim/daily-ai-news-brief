@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 10:19:20",
+  "last_updated": "2026-04-01 10:19:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 10:18:47",
-      "message": "[SKIP] Irrelevant (AI Filter): The best deals to shop during the last few hours of Amazon\u2019s Big Spring Sale"
-    },
     {
       "timestamp": "2026-04-01 10:18:48",
       "message": "[PROCESSING] Analyzing: Amazon&#8217;s Big Spring Sale 2026: all of the latest deals..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 10:19:20",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
+    },
+    {
+      "timestamp": "2026-04-01 10:19:21",
+      "message": "[SKIP] Content too short: Building better AI benchmarks:..."
     }
   ]
 }
