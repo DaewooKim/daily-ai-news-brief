@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 05:56:05",
+  "last_updated": "2026-04-01 05:56:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 05:55:31",
-      "message": "[PROCESSING] Analyzing: Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale..."
-    },
     {
       "timestamp": "2026-04-01 05:55:33",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 05:56:05",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
+    },
+    {
+      "timestamp": "2026-04-01 05:56:07",
+      "message": "[SKIP] Content too short: Building better AI benchmarks:..."
     }
   ]
 }
