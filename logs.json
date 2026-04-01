@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 19:12:01",
+  "last_updated": "2026-04-01 19:12:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 19:11:18",
-      "message": "[SUCCESS] Processed: \ub9ac\ub354\uc2ed \uc5c5\ub370\uc774\ud2b8: \uc8fc\uc694 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc784\uba85 (2026\ub144 2\ubd84\uae30)\n  > Summary: Stream, Pure, Aligned \ub4f1\uc5d0\uc11c\uc758 \uc0c8\ub85c\uc6b4 \ub9ac\ub354\uc2ed \uc784\uba85\uc774 \ub370\uc774\ud130 \uc13c\ud130\uc640 \ud074\ub77c\uc6b0..."
-    },
     {
       "timestamp": "2026-04-01 19:11:19",
       "message": "[PROCESSING] Analyzing: Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors (Vicky Ge Huang/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 19:12:01",
       "message": "[PROCESSING] Analyzing: India says its General Anti-Avoidance Rules do not apply to foreign investment gains made before 2017, after a court required Tiger to pay $1.6B on a 2018 sale (Reuters)..."
+    },
+    {
+      "timestamp": "2026-04-01 19:12:03",
+      "message": "[SKIP] Irrelevant (AI Filter): India says its General Anti-Avoidance Rules do not apply to foreign investment gains made before 2017, after a court required Tiger to pay $1.6B on a 2018 sale (Reuters)"
     }
   ]
 }
