@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 22:27:18",
+  "last_updated": "2026-04-01 22:27:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 22:26:42",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-01 22:26:42",
       "message": "[PROCESSING] Analyzing: The Artemis Moon base project is legally dubious..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 22:27:18",
       "message": "[PROCESSING] Analyzing: These Raspberry Pi price hikes are no joke..."
+    },
+    {
+      "timestamp": "2026-04-01 22:27:20",
+      "message": "[SKIP] Irrelevant (AI Filter): These Raspberry Pi price hikes are no joke"
     }
   ]
 }
