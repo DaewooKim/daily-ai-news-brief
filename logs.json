@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 04:53:14",
+  "last_updated": "2026-04-01 04:53:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 04:52:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)"
-    },
     {
       "timestamp": "2026-04-01 04:52:39",
       "message": "[PROCESSING] Analyzing: Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief (Andrew Liszewski/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 04:53:14",
       "message": "[PROCESSING] Analyzing: Arrow Electronics Releases Single-Pair Ethernet Reference Design..."
+    },
+    {
+      "timestamp": "2026-04-01 04:53:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Arrow Electronics Releases Single-Pair Ethernet Reference Design"
     }
   ]
 }
