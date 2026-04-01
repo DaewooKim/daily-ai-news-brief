@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 03:47:10",
+  "last_updated": "2026-04-01 03:47:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 03:46:31",
-      "message": "[SKIP] Irrelevant (AI Filter): Apple says it will push out rare \"backported\" patches for iOS 18 to protect users from DarkSword, a hack that silently takes over iPhones running the older OS (Andy Greenberg/Wired)"
-    },
     {
       "timestamp": "2026-04-01 03:46:32",
       "message": "Reprocessing: Mercor confirmed it was affected by a recent supply chain attack involving LiteLLM; hacker group Lapsus$ claims it accessed and stole Mercor's data (Jagmeet Singh/TechCrunch)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 03:47:10",
       "message": "[PROCESSING] Analyzing: Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-04-01 03:47:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)"
     }
   ]
 }
