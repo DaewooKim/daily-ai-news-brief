@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 22:29:02",
+  "last_updated": "2026-04-01 22:29:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 22:28:25",
-      "message": "Reprocessing: Leadership Updates: Key Data Center &amp; Cloud Appointments (Q2 2026)"
-    },
     {
       "timestamp": "2026-04-01 22:28:26",
       "message": "[PROCESSING] Analyzing: Leadership Updates: Key Data Center &amp; Cloud Appointments (Q2 2026)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 22:29:02",
       "message": "[PROCESSING] Analyzing: Source: AWS' operation in Bahrain was damaged after an Iranian strike; Bahrain earlier said the civil defence force was \"extinguishing a fire in a facility\" (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-04-01 22:29:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: AWS' operation in Bahrain was damaged after an Iranian strike; Bahrain earlier said the civil defence force was \"extinguishing a fire in a facility\" (Financial Times)"
     }
   ]
 }
