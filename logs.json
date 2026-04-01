@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 22:29:06",
+  "last_updated": "2026-04-01 22:29:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 22:28:30",
-      "message": "[SUCCESS] Processed: \ub9ac\ub354\uc2ed \uc5c5\ub370\uc774\ud2b8: \uc8fc\uc694 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc784\uba85 (2026\ub144 2\ubd84\uae30)\n  > Summary: Stream, Pure, Aligned\uc5d0\uc11c\uc758 \uc0c8\ub85c\uc6b4 \ub9ac\ub354\uc2ed \ubcc0\ud654\uac00 \ub370\uc774\ud130 \uc13c\ud130 \ubc0f \ud074\ub77c\uc6b0\ub4dc..."
-    },
     {
       "timestamp": "2026-04-01 22:28:31",
       "message": "[PROCESSING] Analyzing: Solana-based DeFi platform Drift warns users about an \"active attack\" on its protocol; Arkham data said over $250M had moved from Drift to an interim wallet (Helene Braun/CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 22:29:06",
       "message": "[PROCESSING] Analyzing: SEC filing: Hasbro confirms a cyberattack and says it may take \"several weeks\" before the incident is resolved, after it detected an intrusion on March 28 (Zack Whittaker/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-04-01 22:29:08",
+      "message": "[SKIP] Irrelevant (AI Filter): SEC filing: Hasbro confirms a cyberattack and says it may take \"several weeks\" before the incident is resolved, after it detected an intrusion on March 28 (Zack Whittaker/TechCrunch)"
     }
   ]
 }
