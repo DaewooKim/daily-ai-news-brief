@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 23:33:01",
+  "last_updated": "2026-04-01 23:33:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 23:32:27",
-      "message": "[PROCESSING] Analyzing: Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range..."
-    },
     {
       "timestamp": "2026-04-01 23:32:30",
       "message": "[SKIP] Irrelevant (AI Filter): Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 23:33:01",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
+    },
+    {
+      "timestamp": "2026-04-01 23:33:03",
+      "message": "[SKIP] Content too short: Building better AI benchmarks:..."
     }
   ]
 }
