@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 00:32:51",
+  "last_updated": "2026-04-01 00:32:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 00:32:05",
-      "message": "Reprocessing: CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 \u2014 the agent behavioral baseline gap survived all three"
-    },
     {
       "timestamp": "2026-04-01 00:32:06",
       "message": "[PROCESSING] Analyzing: CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 \u2014 the agent behavioral baseline gap survived all three..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 00:32:51",
       "message": "Reprocessing: Anthropic accidentally exposes Claude Code source code in npm packaging error"
+    },
+    {
+      "timestamp": "2026-04-01 00:32:52",
+      "message": "[SKIP] Content too short: Anthropic accidentally exposes..."
     }
   ]
 }
