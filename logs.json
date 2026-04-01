@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 05:58:13",
+  "last_updated": "2026-04-01 05:58:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 05:57:25",
-      "message": "[PROCESSING] Analyzing: OpenAI says it is generating $2B in monthly revenue, with enterprise accounting for 40%+ of it, and is on track to reach parity with consumer by the end of 2026 (OpenAI)..."
-    },
     {
       "timestamp": "2026-04-01 05:57:29",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, \uc6d4 20\uc5b5 \ub2ec\ub7ec \ub9e4\ucd9c \ubc1c\uc0dd, \uae30\uc5c5\uc774 40% \uc774\uc0c1 \ucc28\uc9c0\ud558\uba70 2026\ub144\uae4c\uc9c0 \uc18c\ube44\uc790\uc640 \ub3d9\ub4f1\ud55c \uc218\uc900 \ub3c4\ub2ec\ud560 \uac83\uc774\ub77c\uace0 \ubc1d\ud600\n  > Summary: \uc624\ud508AI\ub294 \uc6d4 20\uc5b5 \ub2ec\ub7ec\uc758 \ub9e4\ucd9c\uc744 \uae30\ub85d\ud558\uace0 \uc788\uc73c\uba70, \uadf8 \uc911 40% \uc774\uc0c1\uc774 \uae30\uc5c5 \uace0\uac1d\uc73c\ub85c\ubd80..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 05:58:13",
       "message": "[PROCESSING] Analyzing: Salesforce announces over 30 new features for Slack, including a meeting transcription feature and an operator mode to complete multi-step tasks on the desktop (Sabrina Ortiz/The Deep View)..."
+    },
+    {
+      "timestamp": "2026-04-01 05:58:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Salesforce announces over 30 new features for Slack, including a meeting transcription feature and an operator mode to complete multi-step tasks on the desktop (Sabrina Ortiz/The Deep View)"
     }
   ]
 }
