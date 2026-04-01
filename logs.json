@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 23:35:03",
+  "last_updated": "2026-04-01 23:35:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 23:34:25",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: OpenRouter\uac00 CapitalG \uc8fc\ub3c4\ub85c 12\uc5b5 \ub2ec\ub7ec\uc758 \ud6c4\uc18d \ud3c9\uac00\uc5d0\uc11c 1\uc5b5 2\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud558\uae30 \uc704\ud574 \ub300\ud654 \uc911; \uc5f0\uac04 \uc218\uc775\uc774 1\ucc9c\ub9cc \ub2ec\ub7ec\uc5d0\uc11c 5\ucc9c\ub9cc \ub2ec\ub7ec \uc774\uc0c1\uc73c\ub85c \uc99d\uac00\n  > Summary: The Information\uc5d0 \ub530\ub974\uba74, OpenRouter\ub294 CapitalG\uc758 \uc9c0\ub3c4\ub85c 12..."
-    },
     {
       "timestamp": "2026-04-01 23:34:27",
       "message": "[PROCESSING] Analyzing: Sources: SpaceX has filed confidentially for an IPO, putting it on track for a June listing; it could reportedly seek a valuation of $1.75T+ and raise ~$75B (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 23:35:03",
       "message": "[PROCESSING] Analyzing: LTspice 26: Faster, Smarter Simulation..."
+    },
+    {
+      "timestamp": "2026-04-01 23:35:05",
+      "message": "[SKIP] Irrelevant (AI Filter): LTspice 26: Faster, Smarter Simulation"
     }
   ]
 }
