@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 14:47:51",
+  "last_updated": "2026-04-01 14:47:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 14:47:21",
-      "message": "[PROCESSING] Analyzing: Arrow Electronics Releases Single-Pair Ethernet Reference Design..."
-    },
     {
       "timestamp": "2026-04-01 14:47:23",
       "message": "[SKIP] Irrelevant (AI Filter): Arrow Electronics Releases Single-Pair Ethernet Reference Design"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 14:47:51",
       "message": "[SKIP] Content too short: Cybersecurity services startup..."
+    },
+    {
+      "timestamp": "2026-04-01 14:47:53",
+      "message": "Reprocessing: Anthropic accidentally exposes Claude Code source code in npm packaging error"
     }
   ]
 }
