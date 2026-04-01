@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 01:37:49",
+  "last_updated": "2026-04-01 01:37:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 01:37:18",
-      "message": "[PROCESSING] Analyzing: Motor Controller Enables Fast Three-Phase Motor Setup..."
-    },
     {
       "timestamp": "2026-04-01 01:37:20",
       "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 01:37:49",
       "message": "Reprocessing: Anthropic accidentally exposes Claude Code source code in npm packaging error"
+    },
+    {
+      "timestamp": "2026-04-01 01:37:50",
+      "message": "[SKIP] Content too short: Anthropic accidentally exposes..."
     }
   ]
 }
