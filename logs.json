@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 02:42:28",
+  "last_updated": "2026-04-01 02:42:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 02:41:51",
-      "message": "[PROCESSING] Analyzing: Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)..."
-    },
     {
       "timestamp": "2026-04-01 02:41:53",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 02:42:28",
       "message": "[PROCESSING] Analyzing: Motor Controller Enables Fast Three-Phase Motor Setup..."
+    },
+    {
+      "timestamp": "2026-04-01 02:42:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
     }
   ]
 }
