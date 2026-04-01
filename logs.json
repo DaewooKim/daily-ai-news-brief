@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 00:32:52",
+  "last_updated": "2026-04-01 00:32:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 00:32:06",
-      "message": "[PROCESSING] Analyzing: CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 \u2014 the agent behavioral baseline gap survived all three..."
-    },
     {
       "timestamp": "2026-04-01 00:32:14",
       "message": "[SUCCESS] Processed: \ud06c\ub77c\uc6b0\ub4dc\uc2a4\ud2b8\ub77c\uc774\ud06c, \uc2dc\uc2a4\ucf54 \ubc0f \ud314\ub85c\uc54c\ud1a0 \ub124\ud2b8\uc6cd\uc2a4\uac00 \ubaa8\ub450 RSAC 2026\uc5d0\uc11c \uc5d0\uc774\uc804\ud2b8 SOC \ub3c4\uad6c\ub97c \ubc1c\uc1a1 \u2014 \uc5d0\uc774\uc804\ud2b8 \ud589\ub3d9 \uae30\uc900\uc120 \uaca9\ucc28\ub294 \uc138 \uac00\uc9c0 \ubaa8\ub450\uc5d0\uc11c \uc0dd\uc874\ud588\ub2e4\n  > Summary: \ud06c\ub77c\uc6b0\ub4dc\uc2a4\ud2b8\ub77c\uc774\ud06c CEO \uc870\uc9c0 \ucee4\uce20\ub294 RSAC 2026 \uae30\uc870\uc5f0\uc124\uc5d0\uc11c \uac00\uc7a5 \ube60\ub978 \uc801\uc758 \ud0c8\ucd9c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 00:32:52",
       "message": "[SKIP] Content too short: Anthropic accidentally exposes..."
+    },
+    {
+      "timestamp": "2026-04-01 00:32:53",
+      "message": "Reprocessing: CrowdStrike and IBM bet on the agentic SOC as AI reshapes security operations"
     }
   ]
 }
