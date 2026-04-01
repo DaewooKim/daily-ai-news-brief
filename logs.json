@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 12:31:20",
+  "last_updated": "2026-04-01 12:31:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 12:30:27",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-01 12:30:38",
       "message": "Found 149 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 12:31:20",
       "message": "Reprocessing: Classiq Says Quantum Is On Its Way, But Patience Is Needed"
+    },
+    {
+      "timestamp": "2026-04-01 12:31:22",
+      "message": "[SKIP] Content too short: Classiq Says Quantum Is On Its..."
     }
   ]
 }
