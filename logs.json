@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-01 10:24:14",
-  "status": "idle",
+  "last_updated": "2026-04-01 11:24:49",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-01 10:22:56",
-      "message": "[SKIP] Content too short: Anthropic accidentally exposes..."
+      "timestamp": "2026-04-01 11:24:34",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-01 10:22:57",
-      "message": "Reprocessing: CrowdStrike and IBM bet on the agentic SOC as AI reshapes security operations"
+      "timestamp": "2026-04-01 11:24:35",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-01 10:22:59",
-      "message": "[SKIP] Content too short: CrowdStrike and IBM bet on the..."
+      "timestamp": "2026-04-01 11:24:35",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-01 10:23:00",
-      "message": "Reprocessing: Nvidia invests $2B in Marvell as part of new interconnect partnership"
+      "timestamp": "2026-04-01 11:24:49",
+      "message": "Found 149 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-01 10:23:02",
-      "message": "[SKIP] Content too short: Nvidia invests $2B in Marvell ..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:03",
-      "message": "Reprocessing: AI sped up software development, but it also opened the door to more vulnerabilities"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:05",
-      "message": "[SKIP] Content too short: AI sped up software developmen..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:06",
-      "message": "Reprocessing: 6 signals from the front lines of AI deployment: Insights from the Practitioner interview series"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:08",
-      "message": "[SKIP] Content too short: 6 signals from the front lines..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:09",
-      "message": "Reprocessing: MemQ raises $10M to advance scalable distributed quantum networking"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:11",
-      "message": "[SKIP] Content too short: MemQ raises $10M to advance sc..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:12",
-      "message": "Reprocessing: AWS pushes to automate application monitoring and penetration testing with AI agents"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:14",
-      "message": "[SKIP] Content too short: AWS pushes to automate applica..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:15",
-      "message": "Reprocessing: Hackers compromise popular Axios Javascript library with hidden malware"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:17",
-      "message": "[SKIP] Content too short: Hackers compromise popular Axi..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:18",
-      "message": "Reprocessing: Harness launches features to help dev teams coordinate releases to keep up with the AI coding era"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:20",
-      "message": "[SKIP] Content too short: Harness launches features to h..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:21",
-      "message": "Reprocessing: Oumi aims to simplify and automate custom AI model development"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:22",
-      "message": "[SKIP] Content too short: Oumi aims to simplify and auto..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:24",
-      "message": "Reprocessing: Feature flags are becoming the secret weapon behind faster, safer software releases"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:25",
-      "message": "[SKIP] Content too short: Feature flags are becoming the..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:27",
-      "message": "Reprocessing: Acre Security launches Acre Via AI assistant for physical access control systems"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:28",
-      "message": "[SKIP] Content too short: Acre Security launches Acre Vi..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:30",
-      "message": "Reprocessing: Axonis launches community-led growth network for enterprise AI adoption"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:32",
-      "message": "[SKIP] Content too short: Axonis launches community-led ..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:33",
-      "message": "Reprocessing: Softr launches AI-native no-code business software building platform"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:34",
-      "message": "[SKIP] Content too short: Softr launches AI-native no-co..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:36",
-      "message": "Reprocessing: Lazarus AI debuts its Applied Intelligence Engine to help enterprises move pilots into production"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:37",
-      "message": "[SKIP] Content too short: Lazarus AI debuts its Applied ..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:39",
-      "message": "Reprocessing: Cato Networks launches modular adoption model for SASE Platform"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:40",
-      "message": "[SKIP] Content too short: Cato Networks launches modular..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:42",
-      "message": "Reprocessing: Jimini Health raises $17M for its clinically supervised mental healthcare chatbot app"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:43",
-      "message": "[SKIP] Content too short: Jimini Health raises $17M for ..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:44",
-      "message": "Reprocessing: AI-generated code verification startup Qodo raises $70M"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:46",
-      "message": "[SKIP] Content too short: AI-generated code verification..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:47",
-      "message": "Reprocessing: Space data center startup Starcloud raises $170M at $1.1B valuation"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:49",
-      "message": "[SKIP] Content too short: Space data center startup Star..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:50",
-      "message": "Reprocessing: SAP buys Reltio to pull in more outside data for AI agents"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:51",
-      "message": "[SKIP] Content too short: SAP buys Reltio to pull in mor..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:53",
-      "message": "Reprocessing: Sett raises $30M to grow agent-based AI platform for game studios"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:54",
-      "message": "[SKIP] Content too short: Sett raises $30M to grow agent..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:56",
-      "message": "Reprocessing: ScaleOps reels in $130M to make cloud environments more efficient"
-    },
-    {
-      "timestamp": "2026-04-01 10:23:57",
-      "message": "[SKIP] Content too short: ScaleOps reels in $130M to mak..."
-    },
-    {
-      "timestamp": "2026-04-01 10:23:58",
-      "message": "[PROCESSING] Analyzing: ASRock Rack TURIND8-2L2T Review A Flexible AMD EPYC SP5 Motherboard..."
-    },
-    {
-      "timestamp": "2026-04-01 10:24:01",
-      "message": "[SKIP] Irrelevant (AI Filter): ASRock Rack TURIND8-2L2T Review A Flexible AMD EPYC SP5 Motherboard"
-    },
-    {
-      "timestamp": "2026-04-01 10:24:02",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-12XT-2X Review A Better 14-Port 10GbE Managed Switch..."
-    },
-    {
-      "timestamp": "2026-04-01 10:24:04",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-12XT-2X Review A Better 14-Port 10GbE Managed Switch"
-    },
-    {
-      "timestamp": "2026-04-01 10:24:05",
-      "message": "Completed! New: 2, Updated: 46"
-    },
-    {
-      "timestamp": "2026-04-01 10:24:09",
-      "message": "Saved 48 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-01 10:24:12",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-01 11:24:49",
+      "message": "[PROCESSING] Analyzing: Baidu\u2019s robotaxis froze in traffic creating chaos..."
     }
   ]
 }
