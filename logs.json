@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 09:15:57",
+  "last_updated": "2026-04-01 09:15:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 09:15:17",
-      "message": "[PROCESSING] Analyzing: Perplexity faces a proposed class action lawsuit alleging it shared users' personal data with Meta and Google even in Incognito mode, violating CA privacy laws (Robert Burnson/Bloomberg)..."
-    },
     {
       "timestamp": "2026-04-01 09:15:19",
       "message": "[SKIP] Irrelevant (AI Filter): Perplexity faces a proposed class action lawsuit alleging it shared users' personal data with Meta and Google even in Incognito mode, violating CA privacy laws (Robert Burnson/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 09:15:57",
       "message": "[PROCESSING] Analyzing: Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected..."
+    },
+    {
+      "timestamp": "2026-04-01 09:15:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected"
     }
   ]
 }
