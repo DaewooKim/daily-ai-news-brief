@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 15:50:50",
+  "last_updated": "2026-04-01 15:50:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 15:50:08",
-      "message": "[PROCESSING] Analyzing: Amazon&#8217;s Big Spring Sale 2026: all of the latest deals..."
-    },
     {
       "timestamp": "2026-04-01 15:50:10",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon&#8217;s Big Spring Sale 2026: all of the latest deals"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 15:50:50",
       "message": "Reprocessing: Classiq Says Quantum Is On Its Way, But Patience Is Needed"
+    },
+    {
+      "timestamp": "2026-04-01 15:50:52",
+      "message": "[SKIP] Content too short: Classiq Says Quantum Is On Its..."
     }
   ]
 }
