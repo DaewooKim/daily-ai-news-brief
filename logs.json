@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 21:25:50",
+  "last_updated": "2026-04-01 21:25:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 21:25:23",
-      "message": "[SKIP] Content too short: CrowdStrike and IBM bet on the..."
-    },
     {
       "timestamp": "2026-04-01 21:25:25",
       "message": "Reprocessing: Nvidia invests $2B in Marvell as part of new interconnect partnership"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 21:25:50",
       "message": "[PROCESSING] Analyzing: ASRock Rack TURIND8-2L2T Review A Flexible AMD EPYC SP5 Motherboard..."
+    },
+    {
+      "timestamp": "2026-04-01 21:25:52",
+      "message": "[SKIP] Irrelevant (AI Filter): ASRock Rack TURIND8-2L2T Review A Flexible AMD EPYC SP5 Motherboard"
     }
   ]
 }
