@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 10:21:48",
+  "last_updated": "2026-04-01 10:21:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 10:20:47",
-      "message": "Reprocessing: South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY (Steven Borowiec/Nikkei Asia)"
-    },
     {
       "timestamp": "2026-04-01 10:20:48",
       "message": "[PROCESSING] Analyzing: South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY (Steven Borowiec/Nikkei Asia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 10:21:48",
       "message": "[PROCESSING] Analyzing: New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells..."
+    },
+    {
+      "timestamp": "2026-04-01 10:21:53",
+      "message": "[SKIP] Irrelevant (AI Filter): New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells"
     }
   ]
 }
