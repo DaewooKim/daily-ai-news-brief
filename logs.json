@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-01 23:35:00",
+  "last_updated": "2026-04-01 23:35:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-01 23:34:17",
-      "message": "Reprocessing: Sources: OpenRouter is in talks to raise $120M led by CapitalG at a $1.3B post-money valuation; it now has $50M+ in annualized revenue, up from $10M+ in Oct. (The Information)"
-    },
     {
       "timestamp": "2026-04-01 23:34:18",
       "message": "[PROCESSING] Analyzing: Sources: OpenRouter is in talks to raise $120M led by CapitalG at a $1.3B post-money valuation; it now has $50M+ in annualized revenue, up from $10M+ in Oct. (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-01 23:35:00",
       "message": "[PROCESSING] Analyzing: Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected..."
+    },
+    {
+      "timestamp": "2026-04-01 23:35:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected"
     }
   ]
 }
