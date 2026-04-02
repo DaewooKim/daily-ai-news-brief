@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 00:40:10",
+  "last_updated": "2026-04-02 00:40:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 00:39:35",
-      "message": "[PROCESSING] Analyzing: Sources: OpenRouter is in talks to raise $120M led by CapitalG at a $1.3B post-money valuation; it now has $50M+ in annualized revenue, up from $10M+ in Oct. (The Information)..."
-    },
     {
       "timestamp": "2026-04-02 00:39:39",
       "message": "[SUCCESS] Processed: \uc624\ud508\ub77c\uc6b0\ud130, \uc790\ubcf8G \uc8fc\ub3c4\ud558\uc5d0 12\uc5b5 \ub2ec\ub7ec \ud3c9\uac00\uc561\uc73c\ub85c 1\uc5b5 2\ucc9c\ub9cc \ub2ec\ub7ec \uc870\ub2ec \ub17c\uc758 \uc911\n  > Summary: \uc624\ud508\ub77c\uc6b0\ud130\uac00 \uc790\ubcf8G\uc758 \uc8fc\ub3c4\ub85c 12\uc5b5 \ub2ec\ub7ec\uc758 \ud3c9\uac00\uc561\uc73c\ub85c 1\uc5b5 2\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud558\uae30 \uc704\ud55c \ub17c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 00:40:10",
       "message": "[PROCESSING] Analyzing: Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected..."
+    },
+    {
+      "timestamp": "2026-04-02 00:40:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected"
     }
   ]
 }
