@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 22:25:49",
+  "last_updated": "2026-04-02 22:25:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 22:25:15",
-      "message": "[SUCCESS] Processed: BASIC\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 CUDA \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d!\n  > Summary: CUDA \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d\uc774 BASIC\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc9c4\uc9dc\uc774\uc790 \ub9cc\uc6b0\uc808..."
-    },
     {
       "timestamp": "2026-04-02 22:25:16",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 22:25:49",
       "message": "[PROCESSING] Analyzing: Alexa+ gets new food ordering experiences with Uber Eats and Grubhub..."
+    },
+    {
+      "timestamp": "2026-04-02 22:25:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Alexa+ gets new food ordering experiences with Uber Eats and Grubhub"
     }
   ]
 }
