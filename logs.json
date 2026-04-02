@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 14:46:14",
+  "last_updated": "2026-04-02 14:46:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 14:45:31",
-      "message": "[PROCESSING] Analyzing: A jury says Meta and Google hurt a kid. What now?..."
-    },
     {
       "timestamp": "2026-04-02 14:45:34",
       "message": "[SKIP] Irrelevant (AI Filter): A jury says Meta and Google hurt a kid. What now?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 14:46:14",
       "message": "Reprocessing: Classiq Says Quantum Is On Its Way, But Patience Is Needed"
+    },
+    {
+      "timestamp": "2026-04-02 14:46:16",
+      "message": "[SKIP] Content too short: Classiq Says Quantum Is On Its..."
     }
   ]
 }
