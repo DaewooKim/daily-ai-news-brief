@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 08:15:48",
+  "last_updated": "2026-04-02 08:15:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 08:14:59",
-      "message": "[SUCCESS] Processed: \uc5d0\uc774\uc804\ud2b8 \uce74\ub4dc \uc911\ub3c5: Google A2A \ud504\ub85c\ud1a0\ucf5c\uc744 \uc0ac\uc6a9\ud558\ub294 \uc2dc\uc2a4\ud15c\uc758 \uba54\ud0c0\ub370\uc774\ud130 \uc8fc\uc785 \ucde8\uc57d\uc810\n  > Summary: Google A2A \ud504\ub85c\ud1a0\ucf5c\uc5d0 \uae30\ubc18\ud55c \ud604\ub300\uc758 \ub2e4\uc911 \uc5d0\uc774\uc804\ud2b8 \uc2dc\uc2a4\ud15c\uc5d0\uc11c, \uc545\uc758\uc801\uc778 \uc6d0\uaca9 \uc5d0\uc774..."
-    },
     {
       "timestamp": "2026-04-02 08:15:00",
       "message": "[PROCESSING] Analyzing: World First: MACsec IP Receives ISO/PAS 8800 Certification For Automotive And Physical AI Security..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 08:15:48",
       "message": "[PROCESSING] Analyzing: Motor Controller Enables Fast Three-Phase Motor Setup..."
+    },
+    {
+      "timestamp": "2026-04-02 08:15:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
     }
   ]
 }
