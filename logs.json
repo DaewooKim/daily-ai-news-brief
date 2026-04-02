@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 10:26:18",
+  "last_updated": "2026-04-02 10:26:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 10:25:29",
-      "message": "[SUCCESS] Processed: AGI CPU: Arm\uc758 1000\uc5b5 \ub2ec\ub7ec AI \uc2e4\ub9ac\ucf58\uc758 \uade0\ud615 \uc7a1\uae30\n  > Summary: 2024\ub144, Arm\uc774 \uc790\uc0ac\uc758 \uc2e4\ub9ac\ucf58 \uac1c\ubc1c \uacc4\ud68d\uc744 \ubc1c\ud45c\ud558\uba74\uc11c \uadf8\ub4e4\uc758 \ub77c\uc774\uc120\uc2a4\ub97c \ubcf4\uc720\ud55c \uae30\uc5c5\ub4e4..."
-    },
     {
       "timestamp": "2026-04-02 10:25:30",
       "message": "[PROCESSING] Analyzing: UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing (Sally Weale/The Guardian)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 10:26:18",
       "message": "[PROCESSING] Analyzing: Crypto asset manager CoinShares began trading on the Nasdaq on April 1, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill (Naga Avan-Nomayo/The Block)..."
+    },
+    {
+      "timestamp": "2026-04-02 10:26:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto asset manager CoinShares began trading on the Nasdaq on April 1, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill (Naga Avan-Nomayo/The Block)"
     }
   ]
 }
