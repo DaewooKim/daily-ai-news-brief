@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 15:51:33",
+  "last_updated": "2026-04-02 15:51:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 15:50:52",
-      "message": "Found 158 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-02 15:50:52",
       "message": "[PROCESSING] Analyzing: New York lawmakers want 3D-printer companies to block the creation of \u2018ghost guns\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 15:51:33",
       "message": "[PROCESSING] Analyzing: Indie Pass is a new subscription service just for indie games..."
+    },
+    {
+      "timestamp": "2026-04-02 15:51:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Indie Pass is a new subscription service just for indie games"
     }
   ]
 }
