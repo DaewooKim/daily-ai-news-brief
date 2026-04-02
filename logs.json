@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 00:39:43",
+  "last_updated": "2026-04-02 00:39:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 00:39:05",
-      "message": "[PROCESSING] Analyzing: Google increases the storage of its $19.99/month AI Pro subscription plan to 5 TB, up from 2 TB, at no additional cost (Abner Li/9to5Google)..."
-    },
     {
       "timestamp": "2026-04-02 00:39:09",
       "message": "[SUCCESS] Processed: \uad6c\uae00, AI \ud504\ub85c \uad6c\ub3c5 \uc694\uae08\uc81c\uc758 \uc800\uc7a5 \uc6a9\ub7c9\uc744 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 2TB\uc5d0\uc11c 5TB\ub85c \uc99d\uac00\uc2dc\ucf1c\n  > Summary: \uad6c\uae00\uc774 \uc6d4 19.99\ub2ec\ub7ec\uc758 AI \ud504\ub85c \uad6c\ub3c5 \uc694\uae08\uc81c\uc5d0 \uc800\uc7a5 \uc6a9\ub7c9\uc744 2TB\uc5d0\uc11c 5TB\ub85c \uc99d\uac00\uc2dc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 00:39:43",
       "message": "[PROCESSING] Analyzing: Source: AWS' operation in Bahrain was damaged after an Iranian strike; Bahrain earlier said the civil defence force was \"extinguishing a fire in a facility\" (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-04-02 00:39:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: AWS' operation in Bahrain was damaged after an Iranian strike; Bahrain earlier said the civil defence force was \"extinguishing a fire in a facility\" (Financial Times)"
     }
   ]
 }
