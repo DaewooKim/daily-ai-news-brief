@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 10:26:54",
+  "last_updated": "2026-04-02 10:26:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 10:26:16",
-      "message": "[SUCCESS] Processed: AI \uc2a4\ud0c0\ud2b8\uc5c5 \ud480\uc0ac\uc774\ub4dc, \ucf54\uc5b4\uc704\ube0c \uac70\ub798\uc640 20\uc5b5 \ub2ec\ub7ec Nvidia \uc8fc\ub3c4 \ub77c\uc6b4\ub4dc\uac00 \ubb34\uc0b0\ub41c \uc774\ud6c4 \uad6c\uae00 \ub4f1\uacfc \ud14d\uc0ac\uc2a4 \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub85c\uc81d\ud2b8 \ud68c\uc0dd \ub17c\uc758\n  > Summary: AI \uc2a4\ud0c0\ud2b8\uc5c5 \ud480\uc0ac\uc774\ub4dc\uac00 \ucf54\uc5b4\uc704\ube0c\uc758 \uac70\ub798\uac00 \uc2e4\ud328\ud558\uace0 20\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 Nvidia \uc8fc\ub3c4 ..."
-    },
     {
       "timestamp": "2026-04-02 10:26:18",
       "message": "[PROCESSING] Analyzing: Crypto asset manager CoinShares began trading on the Nasdaq on April 1, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill (Naga Avan-Nomayo/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 10:26:54",
       "message": "[PROCESSING] Analyzing: LTspice 26: Faster, Smarter Simulation..."
+    },
+    {
+      "timestamp": "2026-04-02 10:26:56",
+      "message": "[SKIP] Irrelevant (AI Filter): LTspice 26: Faster, Smarter Simulation"
     }
   ]
 }
