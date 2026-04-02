@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 18:02:15",
+  "last_updated": "2026-04-02 18:02:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 18:01:24",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-04-02 18:01:24",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 18:02:15",
       "message": "[PROCESSING] Analyzing: Samsung announces 2026 Frame TVs and the Pro costs less than last year\u2019s..."
+    },
+    {
+      "timestamp": "2026-04-02 18:02:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Samsung announces 2026 Frame TVs and the Pro costs less than last year\u2019s"
     }
   ]
 }
