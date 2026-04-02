@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 18:03:14",
+  "last_updated": "2026-04-02 18:03:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 18:02:31",
-      "message": "[PROCESSING] Analyzing: Bringing AI Closer to the Edge and On-Device with Gemma 4..."
-    },
     {
       "timestamp": "2026-04-02 18:02:36",
       "message": "[SUCCESS] Processed: AI\ub97c \uc5e3\uc9c0\uc640 \uc628\ub514\ubc14\uc774\uc2a4\ub85c \ub354 \uac00\uae5d\uac8c: Gemma 4\n  > Summary: Gemma 4 \uba40\ud2f0\ubaa8\ub2ec \ubc0f \ub2e4\uad6d\uc5b4 \ubaa8\ub378\uc774 \ucd9c\uc2dc\ub418\uba70 Gemmaverse\uac00 \ud655\uc7a5\ub429\ub2c8\ub2e4. \uc774 \ubaa8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 18:03:14",
       "message": "[PROCESSING] Analyzing: Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident..."
+    },
+    {
+      "timestamp": "2026-04-02 18:03:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident"
     }
   ]
 }
