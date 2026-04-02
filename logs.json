@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 22:27:01",
+  "last_updated": "2026-04-02 22:27:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 22:26:15",
-      "message": "[SUCCESS] Processed: AGI CPU: Arm\uc758 1000\uc5b5 \ub2ec\ub7ec AI \uc2e4\ub9ac\ucf58 \uc904\ud0c0\uae30, \ub77c\uc774\uc13c\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc744 \uc800\ud574\ud558\uc9c0 \uc54a\uae30 \uc704\ud55c \ub178\ub825\n  > Summary: 2024\ub144 Arm\uc774 \uc790\uccb4 \uc2e4\ub9ac\ucf58 \uac1c\ubc1c\uc744 \uacc4\ud68d\ud558\uace0 \uc788\ub2e4\ub294 \uc18c\uc2dd\uc774 \ub77c\uc774\uc13c\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc5d0\uac8c \uc6b0\ub824\ub97c..."
-    },
     {
       "timestamp": "2026-04-02 22:26:16",
       "message": "[PROCESSING] Analyzing: Amazon adds a 3.5% fuel and logistics surcharge to fulfillment fees for US and Canadian third-party sellers from April 17, as the Iran war drives up oil prices (Annie Palmer/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 22:27:01",
       "message": "[PROCESSING] Analyzing: C-Hawk Expands Southeast Asia Manufacturing Capabilities and Capacity with New Malaysia and Vietnam Facilities..."
+    },
+    {
+      "timestamp": "2026-04-02 22:27:02",
+      "message": "[SKIP] Irrelevant (AI Filter): C-Hawk Expands Southeast Asia Manufacturing Capabilities and Capacity with New Malaysia and Vietnam Facilities"
     }
   ]
 }
