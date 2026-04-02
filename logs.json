@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 18:02:18",
+  "last_updated": "2026-04-02 18:02:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 18:01:36",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-02 18:01:36",
       "message": "[PROCESSING] Analyzing: OpenAI just bought TBPN..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 18:02:18",
       "message": "Reprocessing: Nvidia Software Pushes MLPerf Inference Benchmarks To New Highs"
+    },
+    {
+      "timestamp": "2026-04-02 18:02:20",
+      "message": "[SKIP] Content too short: Nvidia Software Pushes MLPerf ..."
     }
   ]
 }
