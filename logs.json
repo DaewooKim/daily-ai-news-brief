@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 16:59:11",
+  "last_updated": "2026-04-02 16:59:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 16:58:32",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, \ube44\ub514\uc624 \ud3b8\uc9d1 \uc571 Vids\uc5d0 \ud14d\uc2a4\ud2b8 \ud504\ub86c\ud504\ud2b8\ub97c \ud1b5\ud55c \uc544\ubc14\ud0c0 \uc870\uc815 \ubc0f Veo 3.1 \uc9c0\uc6d0 \ub4f1\uc758 \uc0c8\ub85c\uc6b4 \uae30\ub2a5 \ucd94\uac00\n  > Summary: \uad6c\uae00\uc740 \ube44\ub514\uc624 \ud3b8\uc9d1 \uc571 Vids\uc5d0 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc744 \ucd94\uac00\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uae30\ub2a5\uc5d0\ub294 \ud14d\uc2a4\ud2b8 \ud504\ub86c\ud504\ud2b8..."
-    },
     {
       "timestamp": "2026-04-02 16:58:33",
       "message": "[PROCESSING] Analyzing: Google launches Gemma 4, its \"most intelligent\" open model family, purpose-built for advanced reasoning and agentic workflows, under an Apache 2.0 license (The Keyword)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 16:59:11",
       "message": "[PROCESSING] Analyzing: Motor Controller Enables Fast Three-Phase Motor Setup..."
+    },
+    {
+      "timestamp": "2026-04-02 16:59:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
     }
   ]
 }
