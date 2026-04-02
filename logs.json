@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 10:26:51",
+  "last_updated": "2026-04-02 10:26:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 10:26:10",
-      "message": "Reprocessing: Sources: AI startup Poolside held talks with Google and others to revive a Texas data center project after a CoreWeave deal and a $2B Nvidia-led round collapsed (Stephen Morris/Financial Times)"
-    },
     {
       "timestamp": "2026-04-02 10:26:12",
       "message": "[PROCESSING] Analyzing: Sources: AI startup Poolside held talks with Google and others to revive a Texas data center project after a CoreWeave deal and a $2B Nvidia-led round collapsed (Stephen Morris/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 10:26:51",
       "message": "[PROCESSING] Analyzing: Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected..."
+    },
+    {
+      "timestamp": "2026-04-02 10:26:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected"
     }
   ]
 }
