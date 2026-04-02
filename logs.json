@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 14:48:16",
+  "last_updated": "2026-04-02 14:48:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 14:47:38",
-      "message": "[PROCESSING] Analyzing: Ofcom: the share of adult UK social media users that actively post, share, or comment falls from 61% in 2024 to 49%, as users say they are being more selective (Dan Milmo/The Guardian)..."
-    },
     {
       "timestamp": "2026-04-02 14:47:40",
       "message": "[SKIP] Irrelevant (AI Filter): Ofcom: the share of adult UK social media users that actively post, share, or comment falls from 61% in 2024 to 49%, as users say they are being more selective (Dan Milmo/The Guardian)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 14:48:16",
       "message": "Reprocessing: Niobium brings fully encrypted AI workloads to the cloud with The Fog"
+    },
+    {
+      "timestamp": "2026-04-02 14:48:17",
+      "message": "[SKIP] Content too short: Niobium brings fully encrypted..."
     }
   ]
 }
