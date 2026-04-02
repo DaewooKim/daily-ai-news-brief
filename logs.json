@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 11:32:11",
+  "last_updated": "2026-04-02 11:32:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 11:31:30",
-      "message": "Reprocessing: Sources: AI startup Poolside held talks with Google and others to revive a Texas data center project after a CoreWeave deal and a $2B Nvidia-led round collapsed (Stephen Morris/Financial Times)"
-    },
     {
       "timestamp": "2026-04-02 11:31:32",
       "message": "[PROCESSING] Analyzing: Sources: AI startup Poolside held talks with Google and others to revive a Texas data center project after a CoreWeave deal and a $2B Nvidia-led round collapsed (Stephen Morris/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 11:32:11",
       "message": "[PROCESSING] Analyzing: LTspice 26: Faster, Smarter Simulation..."
+    },
+    {
+      "timestamp": "2026-04-02 11:32:14",
+      "message": "[SKIP] Irrelevant (AI Filter): LTspice 26: Faster, Smarter Simulation"
     }
   ]
 }
