@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 21:19:54",
+  "last_updated": "2026-04-02 21:19:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 21:19:17",
-      "message": "[PROCESSING] Analyzing: OpenAI just bought TBPN..."
-    },
     {
       "timestamp": "2026-04-02 21:19:22",
       "message": "[SUCCESS] Processed: OpenAI\uac00 TBPN\uc744 \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 AI \uacbd\uc601\uc790 \ubc0f \ub2e4\ub978 \uae30\uc220 \ub9ac\ub354\ub4e4\uacfc \uc778\ud130\ubdf0\ud558\ub294 \uc628\ub77c\uc778 \ud1a0\ud06c\uc1fc TBPN\uc744 \uc778\uc218..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 21:19:54",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
+    },
+    {
+      "timestamp": "2026-04-02 21:19:56",
+      "message": "[SKIP] Content too short: Building better AI benchmarks:..."
     }
   ]
 }
