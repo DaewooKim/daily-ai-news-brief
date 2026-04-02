@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-02 11:31:37",
+  "last_updated": "2026-04-02 11:31:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-02 11:30:56",
-      "message": "[SUCCESS] Processed: AGI CPU: Arm\uc758 1000\uc5b5 \ub2ec\ub7ec AI \uc2e4\ub9ac\ucf58\uc758 \uade0\ud615 \uc7a1\uae30, \ub77c\uc774\uc13c\uc2a4 \uc0ac\uc6a9\uc790\ub97c \ud574\uce58\uc9c0 \uc54a\ub3c4\ub85d\n  > Summary: 2024\ub144\uc5d0 Arm\uc774 \uc790\uccb4 \uc2e4\ub9ac\ucf58\uc744 \uac1c\ubc1c\ud560 \uacc4\ud68d\uc774\ub77c\ub294 \ubc1c\ud45c\ub294 \ub77c\uc774\uc13c\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc5d0\uac8c \ud070 \ucda9\uaca9..."
-    },
     {
       "timestamp": "2026-04-02 11:30:57",
       "message": "[PROCESSING] Analyzing: How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 (Erin Griffith/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-02 11:31:37",
       "message": "[PROCESSING] Analyzing: Crypto asset manager CoinShares began trading on the Nasdaq on April 1, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill (Naga Avan-Nomayo/The Block)..."
+    },
+    {
+      "timestamp": "2026-04-02 11:31:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto asset manager CoinShares began trading on the Nasdaq on April 1, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill (Naga Avan-Nomayo/The Block)"
     }
   ]
 }
