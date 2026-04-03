@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-03 19:09:20",
+  "last_updated": "2026-04-03 19:09:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-03 19:08:36",
-      "message": "[PROCESSING] Analyzing: CEA-Leti, CEA-List and PSMC Collaborate to Integrate  RISC-V and MicroLED Silicon Photonics into 3D Stacking  and Interposer for Next-Generation AI..."
-    },
     {
       "timestamp": "2026-04-03 19:08:43",
       "message": "[SUCCESS] Processed: CEA-Leti, CEA-List \ubc0f PSMC, \ucc28\uc138\ub300 AI\ub97c \uc704\ud55c RISC-V \ubc0f MicroLED \uc2e4\ub9ac\ucf58 \ud3ec\ud1a0\ub2c9\uc2a4\ub97c 3D \uc2a4\ud0dc\ud0b9 \ubc0f \uc778\ud130\ud3ec\uc800\uc5d0 \ud1b5\ud569\ud558\uae30 \uc704\ud55c \ud611\ub825\n  > Summary: CEA-Leti\uc640 CEA-List\ub294 Powerchip Semiconductor Manufa..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-03 19:09:20",
       "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
+    },
+    {
+      "timestamp": "2026-04-03 19:09:21",
+      "message": "[SKIP] Content too short: AI\u2019s context memory explosion ..."
     }
   ]
 }
