@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-03 22:26:10",
+  "last_updated": "2026-04-03 22:26:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-03 22:25:34",
-      "message": "Reprocessing: SEMI Appoints Mary Bischoping as Senior Director of Public Policy and Advocacy"
-    },
     {
       "timestamp": "2026-04-03 22:25:36",
       "message": "[PROCESSING] Analyzing: SEMI Appoints Mary Bischoping as Senior Director of Public Policy and Advocacy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-03 22:26:10",
       "message": "[PROCESSING] Analyzing: Motor Controller Enables Fast Three-Phase Motor Setup..."
+    },
+    {
+      "timestamp": "2026-04-03 22:26:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
     }
   ]
 }
