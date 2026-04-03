@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-03 11:29:03",
+  "last_updated": "2026-04-03 11:29:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-03 11:28:20",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-03 11:28:31",
       "message": "Found 172 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-03 11:29:03",
       "message": "[PROCESSING] Analyzing: Five questions for the guys who made a compass that points to the Times Square Olive Garden..."
+    },
+    {
+      "timestamp": "2026-04-03 11:29:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Five questions for the guys who made a compass that points to the Times Square Olive Garden"
     }
   ]
 }
