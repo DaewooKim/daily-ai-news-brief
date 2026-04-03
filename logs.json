@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-03 21:18:50",
+  "last_updated": "2026-04-03 21:18:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-03 21:18:19",
-      "message": "[SUCCESS] Processed: \uc548\ud2b8\ub85c\ud53d, 4\uc5b5 \ub2ec\ub7ec\uc5d0 \uc0dd\uba85\uacf5\ud559 \uc2a4\ud0c0\ud2b8\uc5c5 \ucf54\uc5d0\ud53c\uc2dc\uc5b8\ud2b8 \ubc14\uc774\uc624 \uc778\uc218: \ubcf4\ub3c4\n  > Summary: \uc548\ud2b8\ub85c\ud53d\uc774 \uc2a4\ud154\uc2a4 \uc0dd\uba85\uacf5\ud559 AI \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ucf54\uc5d0\ud53c\uc2dc\uc5b8\ud2b8 \ubc14\uc774\uc624\ub97c 4\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-04-03 21:18:20",
       "message": "[PROCESSING] Analyzing: Anthropic ramps up its political activities with a new PAC..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-03 21:18:50",
       "message": "[PROCESSING] Analyzing: How Small Electronics Manufacturers Manage Operational Complexity..."
+    },
+    {
+      "timestamp": "2026-04-03 21:18:52",
+      "message": "[SKIP] Irrelevant (AI Filter): How Small Electronics Manufacturers Manage Operational Complexity"
     }
   ]
 }
