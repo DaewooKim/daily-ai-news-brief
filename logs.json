@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-03 11:30:29",
+  "last_updated": "2026-04-03 11:30:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-03 11:29:55",
-      "message": "Reprocessing: Popular AI gateway startup LiteLLM ditches controversial startup Delve"
-    },
     {
       "timestamp": "2026-04-03 11:29:57",
       "message": "[PROCESSING] Analyzing: Popular AI gateway startup LiteLLM ditches controversial startup Delve..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-03 11:30:29",
       "message": "[PROCESSING] Analyzing: Matt Mullenweg says EmDash, while open source, is designed \"to sell more Cloudflare services\" and lacks the cross-platform democratization of WordPress (Matt Mullenweg)..."
+    },
+    {
+      "timestamp": "2026-04-03 11:30:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Matt Mullenweg says EmDash, while open source, is designed \"to sell more Cloudflare services\" and lacks the cross-platform democratization of WordPress (Matt Mullenweg)"
     }
   ]
 }
