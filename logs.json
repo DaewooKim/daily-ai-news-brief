@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-03 21:17:42",
+  "last_updated": "2026-04-03 21:17:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-03 21:17:07",
-      "message": "Found 182 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-03 21:17:07",
       "message": "[PROCESSING] Analyzing: NASA did eventually solve Artemis II&#8217;s Outlook glitch..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-03 21:17:42",
       "message": "Reprocessing: Nvidia Software Pushes MLPerf Inference Benchmarks To New Highs"
+    },
+    {
+      "timestamp": "2026-04-03 21:17:43",
+      "message": "[SKIP] Content too short: Nvidia Software Pushes MLPerf ..."
     }
   ]
 }
