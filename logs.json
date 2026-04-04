@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-04 19:05:48",
+  "last_updated": "2026-04-04 19:05:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-04 19:05:05",
-      "message": "[PROCESSING] Analyzing: Reinventing Embedded Memory: Solving The SRAM Scaling Wall..."
-    },
     {
       "timestamp": "2026-04-04 19:05:11",
       "message": "[SUCCESS] Processed: \uc784\ubca0\ub514\ub4dc \uba54\ubaa8\ub9ac\uc758 \uc7ac\ubc1c\uacac: SRAM \uc2a4\ucf00\uc77c\ub9c1 \uc7a5\ubcbd \ud574\uacb0\ud558\uae30\n  > Summary: AI, \uc790\ub3d9\ucc28 \ubc0f \ub370\uc774\ud130 \uc13c\ud130\uc758 \ube44\uc57d\uc801\uc778 \uc131\uc7a5\uc73c\ub85c \uc778\ud574 \uce69\uc758 \uc911\uc694\ud55c \ubd80\ubd84\uc778 \uc784\ubca0\ub514\ub4dc \uba54\ubaa8\ub9ac..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-04 19:05:48",
       "message": "[SKIP] Irrelevant (AI Filter): LTspice 26: Faster, Smarter Simulation"
+    },
+    {
+      "timestamp": "2026-04-04 19:05:50",
+      "message": "Reprocessing: Motor Controller Enables Fast Three-Phase Motor Setup"
     }
   ]
 }
