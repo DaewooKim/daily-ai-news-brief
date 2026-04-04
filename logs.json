@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-04 06:02:11",
+  "last_updated": "2026-04-04 06:02:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-04 06:01:40",
-      "message": "[SUCCESS] Processed: BASIC\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud55c CUDA \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d!\n  > Summary: CUDA \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d\uc740 \uc2e4\uc81c\ub85c \uc791\ub3d9\ud558\ub294 \uc9d3\uad82\uc740 \ub9cc\uc6b0\uc808 \ub18d\ub2f4\uc785\ub2c8\ub2e4. CUDA 13.1\uc740 ..."
-    },
     {
       "timestamp": "2026-04-04 06:01:42",
       "message": "Reprocessing: Evaluating alignment of behavioral dispositions in LLMs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-04 06:02:11",
       "message": "[PROCESSING] Analyzing: Anthropic is having a month..."
+    },
+    {
+      "timestamp": "2026-04-04 06:02:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic is having a month"
     }
   ]
 }
