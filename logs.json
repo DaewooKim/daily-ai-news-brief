@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-04 17:58:45",
+  "last_updated": "2026-04-04 17:58:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-04 17:58:13",
-      "message": "[PROCESSING] Analyzing: The app for tracking TV, movies, podcasts, and everything..."
-    },
     {
       "timestamp": "2026-04-04 17:58:16",
       "message": "[SKIP] Irrelevant (AI Filter): The app for tracking TV, movies, podcasts, and everything"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-04 17:58:45",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
+    },
+    {
+      "timestamp": "2026-04-04 17:58:46",
+      "message": "[SKIP] Content too short: Building better AI benchmarks:..."
     }
   ]
 }
