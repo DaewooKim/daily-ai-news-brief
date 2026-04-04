@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-04 00:34:53",
+  "last_updated": "2026-04-04 00:34:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-04 00:34:16",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-04 00:34:16",
       "message": "[PROCESSING] Analyzing: Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-04 00:34:53",
       "message": "Reprocessing: Broadcom Makes Its Pitch To Run Kubernetes On VMware VCF"
+    },
+    {
+      "timestamp": "2026-04-04 00:34:54",
+      "message": "[SKIP] Content too short: Broadcom Makes Its Pitch To Ru..."
     }
   ]
 }
