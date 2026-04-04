@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-04 16:53:34",
+  "last_updated": "2026-04-04 16:53:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-04 16:52:55",
-      "message": "[PROCESSING] Analyzing: The app for tracking TV, movies, podcasts, and everything..."
-    },
     {
       "timestamp": "2026-04-04 16:52:57",
       "message": "[SKIP] Irrelevant (AI Filter): The app for tracking TV, movies, podcasts, and everything"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-04 16:53:34",
       "message": "Reprocessing: Evaluating alignment of behavioral dispositions in LLMs"
+    },
+    {
+      "timestamp": "2026-04-04 16:53:36",
+      "message": "[SKIP] Content too short: Evaluating alignment of behavi..."
     }
   ]
 }
