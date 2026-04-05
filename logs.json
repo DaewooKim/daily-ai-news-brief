@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 00:29:35",
+  "last_updated": "2026-04-05 00:29:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 00:29:01",
-      "message": "[PROCESSING] Analyzing: Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident..."
-    },
     {
       "timestamp": "2026-04-05 00:29:02",
       "message": "[SKIP] Irrelevant (AI Filter): Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 00:29:35",
       "message": "[PROCESSING] Analyzing: Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)..."
+    },
+    {
+      "timestamp": "2026-04-05 00:29:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)"
     }
   ]
 }
