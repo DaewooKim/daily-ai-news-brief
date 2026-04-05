@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 10:13:09",
+  "last_updated": "2026-04-05 10:13:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 10:12:32",
-      "message": "[PROCESSING] Analyzing: Reinventing Embedded Memory: Solving The SRAM Scaling Wall..."
-    },
     {
       "timestamp": "2026-04-05 10:12:35",
       "message": "[SUCCESS] Processed: \ub0b4\uc7a5 \uba54\ubaa8\ub9ac \uc7ac\uad6c\uc131: SRAM \uc2a4\ucf00\uc77c\ub9c1 \uc7a5\ubcbd \ud574\uacb0\n  > Summary: AI, \uc790\ub3d9\ucc28 \ubc0f \ub370\uc774\ud130 \uc13c\ud130\uc758 \uae09\uaca9\ud55c \uc131\uc7a5\uc73c\ub85c \uce69\uc758 \ub0b4\uc7a5 \uba54\ubaa8\ub9ac \ubd80\ubd84\uc774 \ubcd1\ubaa9 \ud604\uc0c1\uc774 \ub418\uace0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 10:13:09",
       "message": "[PROCESSING] Analyzing: Motor Controller Enables Fast Three-Phase Motor Setup..."
+    },
+    {
+      "timestamp": "2026-04-05 10:13:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Motor Controller Enables Fast Three-Phase Motor Setup"
     }
   ]
 }
