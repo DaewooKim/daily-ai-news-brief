@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 15:35:53",
+  "last_updated": "2026-04-05 15:35:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 15:35:20",
-      "message": "[PROCESSING] Analyzing: Bell Called Watson; Today, We Call AI..."
-    },
     {
       "timestamp": "2026-04-05 15:35:23",
       "message": "[SKIP] Irrelevant (AI Filter): Bell Called Watson; Today, We Call AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 15:35:53",
       "message": "[PROCESSING] Analyzing: Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)..."
+    },
+    {
+      "timestamp": "2026-04-05 15:35:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)"
     }
   ]
 }
