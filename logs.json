@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 05:54:13",
+  "last_updated": "2026-04-05 05:54:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 05:53:43",
-      "message": "[PROCESSING] Analyzing: IBM Announces Strategic Collaboration with Arm..."
-    },
     {
       "timestamp": "2026-04-05 05:53:47",
       "message": "[SUCCESS] Processed: IBM, Arm\uacfc \uc804\ub7b5\uc801 \ud611\ub825 \ubc1c\ud45c\n  > Summary: IBM\uc740 Arm\uacfc\uc758 \uc804\ub7b5\uc801 \ud611\ub825\uc744 \ubc1c\ud45c\ud558\uc5ec \ubbf8\ub798\uc758 AI \ubc0f \ub370\uc774\ud130 \uc9d1\uc57d\uc801 \uc791\uc5c5 \ubd80\ud558\ub97c \uc9c0\uc6d0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 05:54:13",
       "message": "Reprocessing: Anthropic reportedly acquires medical AI startup Coefficient Bio for $400M+"
+    },
+    {
+      "timestamp": "2026-04-05 05:54:15",
+      "message": "[SKIP] Content too short: Anthropic reportedly acquires ..."
     }
   ]
 }
