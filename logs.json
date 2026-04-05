@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 21:00:17",
+  "last_updated": "2026-04-05 21:00:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 20:59:42",
-      "message": "[SUCCESS] Processed: Medvi, NYT\uc5d0 \uc758\ud574 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uc218\uc775\uc744 \uc62c\ub9b0 \ub450 \uc9c1\uc6d0 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c \ucc2c\uc0ac\ub97c \ubc1b\ub2e4, AI\uc758 \ubd88\ubc95\uc801\uc778 \ube44\uc988\ub2c8\uc2a4 \ubc0f \ub9c8\ucf00\ud305 \uad00\ud589 \uc545\uc6a9\uc5d0 \ub300\ud55c \uacbd\uace0\n  > Summary: \ub274\uc695 \ud0c0\uc784\uc988\uc5d0 \uc758\ud574 \ucc2c\uc0ac\ub97c \ubc1b\uc740 \ub450 \uc9c1\uc6d0\uc73c\ub85c \uad6c\uc131\ub41c \uc2a4\ud0c0\ud2b8\uc5c5 Medvi\ub294 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1..."
-    },
     {
       "timestamp": "2026-04-05 20:59:44",
       "message": "[PROCESSING] Analyzing: Drift details how suspected North Korean attackers stole $270M posing as a quant trading firm in a 6+ month operation with in-person meetings and a $1M+ deposit (Shaurya Malwa/CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 21:00:17",
       "message": "[PROCESSING] Analyzing: ACM Research Introduces ACM Planetary Family Product Portfolio Structure..."
+    },
+    {
+      "timestamp": "2026-04-05 21:00:19",
+      "message": "[SKIP] Irrelevant (AI Filter): ACM Research Introduces ACM Planetary Family Product Portfolio Structure"
     }
   ]
 }
