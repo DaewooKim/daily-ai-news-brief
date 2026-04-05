@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 19:53:55",
+  "last_updated": "2026-04-05 19:53:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 19:53:23",
-      "message": "[PROCESSING] Analyzing: Buy two Nintendo Switch games, get $30 off at Target..."
-    },
     {
       "timestamp": "2026-04-05 19:53:26",
       "message": "[SKIP] Irrelevant (AI Filter): Buy two Nintendo Switch games, get $30 off at Target"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 19:53:55",
       "message": "[PROCESSING] Analyzing: Anthropic ramps up its political activities with a new PAC..."
+    },
+    {
+      "timestamp": "2026-04-05 19:53:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic ramps up its political activities with a new PAC"
     }
   ]
 }
