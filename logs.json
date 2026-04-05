@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 00:30:12",
+  "last_updated": "2026-04-05 00:30:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 00:29:35",
-      "message": "[PROCESSING] Analyzing: Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)..."
-    },
     {
       "timestamp": "2026-04-05 00:29:37",
       "message": "[SKIP] Irrelevant (AI Filter): Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 00:30:12",
       "message": "[PROCESSING] Analyzing: ACM Research Introduces ACM Planetary Family Product Portfolio Structure..."
+    },
+    {
+      "timestamp": "2026-04-05 00:30:14",
+      "message": "[SKIP] Irrelevant (AI Filter): ACM Research Introduces ACM Planetary Family Product Portfolio Structure"
     }
   ]
 }
