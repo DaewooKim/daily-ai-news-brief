@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 14:30:10",
+  "last_updated": "2026-04-05 14:30:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 14:29:38",
-      "message": "[PROCESSING] Analyzing: Buy two Nintendo Switch games, get $30 off at Target..."
-    },
     {
       "timestamp": "2026-04-05 14:29:40",
       "message": "[SKIP] Irrelevant (AI Filter): Buy two Nintendo Switch games, get $30 off at Target"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 14:30:10",
       "message": "Reprocessing: Building better AI benchmarks: How many raters are enough?"
+    },
+    {
+      "timestamp": "2026-04-05 14:30:12",
+      "message": "[SKIP] Content too short: Building better AI benchmarks:..."
     }
   ]
 }
