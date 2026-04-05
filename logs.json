@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-05 22:03:59",
+  "last_updated": "2026-04-05 22:04:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-05 22:03:21",
-      "message": "[PROCESSING] Analyzing: CUDA Tile Programming Now Available for BASIC!..."
-    },
     {
       "timestamp": "2026-04-05 22:03:26",
       "message": "[SUCCESS] Processed: BASIC\uc5d0\uc11c CUDA \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ub418\uc5c8\uc2b5\ub2c8\ub2e4!\n  > Summary: CUDA \ud0c0\uc77c \ud504\ub85c\uadf8\ub798\ubc0d\uc758 BASIC \uc9c0\uc6d0\uc740 \ub9cc\uc6b0\uc808 \ub18d\ub2f4\uc774\uc9c0\ub9cc \uc2e4\uc81c\ub85c \uc791\ub3d9\ud558\uba70 CUDA\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-05 22:03:59",
       "message": "[PROCESSING] Analyzing: Anthropic is having a month..."
+    },
+    {
+      "timestamp": "2026-04-05 22:04:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic is having a month"
     }
   ]
 }
