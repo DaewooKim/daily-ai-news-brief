@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-06 10:00:12",
+  "last_updated": "2026-04-06 10:00:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-06 09:59:34",
-      "message": "[PROCESSING] Analyzing: Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 (The Information)..."
-    },
     {
       "timestamp": "2026-04-06 09:59:36",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-06 10:00:12",
       "message": "[PROCESSING] Analyzing: ACM Research Introduces ACM Planetary Family Product Portfolio Structure..."
+    },
+    {
+      "timestamp": "2026-04-06 10:00:14",
+      "message": "[SKIP] Irrelevant (AI Filter): ACM Research Introduces ACM Planetary Family Product Portfolio Structure"
     }
   ]
 }
