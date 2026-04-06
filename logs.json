@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-06 14:19:37",
+  "last_updated": "2026-04-06 14:19:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-06 14:19:03",
-      "message": "[PROCESSING] Analyzing: OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019..."
-    },
     {
       "timestamp": "2026-04-06 14:19:06",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-06 14:19:37",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
+    },
+    {
+      "timestamp": "2026-04-06 14:19:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
     }
   ]
 }
