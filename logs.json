@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-06 21:59:45",
+  "last_updated": "2026-04-06 21:59:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-06 21:59:07",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI, Anthropic, Google\uc774 Frontier Model Forum\uc744 \ud1b5\ud574 \uc11c\ube44\uc2a4 \uc57d\uad00\uc744 \uc704\ubc18\ud558\ub294 \uc801\ub300\uc801 \uc99d\ub958 \uc2dc\ub3c4\ub97c \uac10\uc9c0\ud558\uae30 \uc704\ud55c \uc815\ubcf4\ub97c \uacf5\uc720\ud558\uace0 \uc788\ub2e4(Bloomberg)\n  > Summary: OpenAI, Anthropic, \uadf8\ub9ac\uace0 \uad6c\uae00\uc774 Frontier Model Forum\uc744 \ud1b5..."
-    },
     {
       "timestamp": "2026-04-06 21:59:09",
       "message": "[PROCESSING] Analyzing: Australian AI infrastructure startup Firmus raised $505M led by Coatue at a $5.5B valuation, bringing its funding raised in the last six months to $1.35B (Ian King/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-06 21:59:45",
       "message": "[PROCESSING] Analyzing: Jack Dorsey says Apple removed his Bluetooth P2P messaging app Bitchat, used during protests in five countries, from the App Store in China at the CAC's request (Stephen Katte/Cointelegraph)..."
+    },
+    {
+      "timestamp": "2026-04-06 21:59:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Jack Dorsey says Apple removed his Bluetooth P2P messaging app Bitchat, used during protests in five countries, from the App Store in China at the CAC's request (Stephen Katte/Cointelegraph)"
     }
   ]
 }
