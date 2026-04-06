@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-06 21:57:47",
+  "last_updated": "2026-04-06 21:57:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-06 21:57:14",
-      "message": "Found 143 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-06 21:57:14",
       "message": "[PROCESSING] Analyzing: Wisconsin governor says \u2018no\u2019 to age checks for porn..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-06 21:57:47",
       "message": "Reprocessing: Nvidia Software Pushes MLPerf Inference Benchmarks To New Highs"
+    },
+    {
+      "timestamp": "2026-04-06 21:57:48",
+      "message": "[SKIP] Content too short: Nvidia Software Pushes MLPerf ..."
     }
   ]
 }
