@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-06 15:25:10",
+  "last_updated": "2026-04-06 15:25:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-06 15:24:33",
-      "message": "[PROCESSING] Analyzing: Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident..."
-    },
     {
       "timestamp": "2026-04-06 15:24:36",
       "message": "[SKIP] Irrelevant (AI Filter): Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-06 15:25:10",
       "message": "[SUCCESS] Processed: OpenAI, TBPN \uc778\uc218\ub294 \uc774\uce58\uc5d0 \ub9de\uc9c0 \uc54a\ub2e4\n  > Summary: \ubca4 \ud1b0\uc2a8\uc774 \uc791\uc131\ud55c \uc774 \uae00\uc5d0\uc11c\ub294 OpenAI\uc758 TBPN \uc778\uc218\uac00 \uc774\ud574\uac00 \ub418\uc9c0 \uc54a\uc73c\uba70, \uc774\ub294 O..."
+    },
+    {
+      "timestamp": "2026-04-06 15:25:12",
+      "message": "Reprocessing: Xoople, which is developing a satellite constellation to collect earth data for training AI models, raised a $130M Series B, bringing its total funding to $225M (Tim Fernholz/TechCrunch)"
     }
   ]
 }
