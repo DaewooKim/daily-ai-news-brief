@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 18:52:00",
+  "last_updated": "2026-04-07 18:52:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 18:51:18",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d\uc758 \ud504\ub85c\uc81d\ud2b8 \uae00\ub798\uc2a4\uc719\uc5d0\ub294 AWS, \uc560\ud50c, \ube0c\ub85c\ub4dc\ucef4, \uc2dc\uc2a4\ucf54, \ud06c\ub77c\uc6b0\ub4dc\uc2a4\ud2b8\ub77c\uc774\ud06c, \uad6c\uae00, \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, \uc5d4\ube44\ub514\uc544, \ud314\ub85c\uc54c\ud1a0 \ub124\ud2b8\uc6cd\uc2a4 \ub4f1\uc774 \ud3ec\ud568\ub41c\ub2e4\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc758 \ud504\ub85c\uc81d\ud2b8 \uae00\ub798\uc2a4\uc719\uc5d0\ub294 AWS, \uc560\ud50c, \ube0c\ub85c\ub4dc\ucef4, \uc2dc\uc2a4\ucf54, \ud06c\ub77c\uc6b0\ub4dc\uc2a4\ud2b8\ub77c\uc774\ud06c, \uad6c..."
-    },
     {
       "timestamp": "2026-04-07 18:51:20",
       "message": "[PROCESSING] Analyzing: Anthropic says Mythos Preview is a general-purpose model and found thousands of high-severity vulnerabilities, including some in every major OS and web browser (Anthropic)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 18:52:00",
       "message": "[PROCESSING] Analyzing: Mid-infrared Ellipsometry For Optical Critical Dimension Metrology..."
+    },
+    {
+      "timestamp": "2026-04-07 18:52:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Mid-infrared Ellipsometry For Optical Critical Dimension Metrology"
     }
   ]
 }
