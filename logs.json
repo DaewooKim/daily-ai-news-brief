@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 18:50:56",
+  "last_updated": "2026-04-07 18:50:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 18:50:15",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \uac15\ub825\ud55c \uc0c8\ub85c\uc6b4 AI \ubaa8\ub378 Mythos\uc758 \ubbf8\ub9ac\ubcf4\uae30\ub97c \uc0ac\uc774\ubc84 \ubcf4\uc548 \uc774\ub2c8\uc154\ud2f0\ube0c\uc5d0\uc11c \uacf5\uac1c\ud558\ub2e4\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \uc0ac\uc774\ubc84 \ubcf4\uc548 \uc774\ub2c8\uc154\ud2f0\ube0c\uc758 \uc77c\ud658\uc73c\ub85c \uac15\ub825\ud55c \uc0c8\ub85c\uc6b4 AI \ubaa8\ub378 Mythos\uc758 \ubbf8\ub9ac\ubcf4..."
-    },
     {
       "timestamp": "2026-04-07 18:50:17",
       "message": "[PROCESSING] Analyzing: 4\u00a0days left to save close to $500 on TechCrunch Disrupt 2026 passes..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 18:50:56",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
+    },
+    {
+      "timestamp": "2026-04-07 18:50:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
     }
   ]
 }
