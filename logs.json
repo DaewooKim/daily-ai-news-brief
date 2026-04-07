@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 13:19:54",
+  "last_updated": "2026-04-07 13:19:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 13:19:17",
-      "message": "[SUCCESS] Processed: \uc5b4\ub3c4\ube44, \ud559\uc0dd\ub4e4\uc744 \uc704\ud55c \ubb34\ub8cc AI \ud559\uc2b5 \ub3c4\uad6c \uc544\ud06c\ub85c\ubc43 \uc2a4\ud398\uc774\uc2a4 \ucd9c\uc2dc\n  > Summary: \uc5b4\ub3c4\ube44\ub294 \ud559\uc0dd\ub4e4\uc774 \ub85c\uadf8\uc778 \uc5c6\uc774 \ud50c\ub798\uc2dc \uce74\ub4dc, \ud034\uc988 \ubc0f \uc775\uc2a4\ud504\ub808\uc2a4 \ud504\ub808\uc820\ud14c\uc774\uc158\uc744 \uc0dd\uc131\ud560 \uc218 ..."
-    },
     {
       "timestamp": "2026-04-07 13:19:18",
       "message": "[PROCESSING] Analyzing: Silicon Valley investors say annual recurring revenue, a popular metric with AI startups, is unreliable because it lacks SEC definitions and can be inflated (Annie Bang/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 13:19:54",
       "message": "[SKIP] Irrelevant (AI Filter): A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google's warning (Filippo Valsorda)"
+    },
+    {
+      "timestamp": "2026-04-07 13:19:55",
+      "message": "Reprocessing: OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems (OpenAI)"
     }
   ]
 }
