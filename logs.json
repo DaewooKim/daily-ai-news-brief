@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 05:37:44",
+  "last_updated": "2026-04-07 05:37:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 05:37:08",
-      "message": "[PROCESSING] Analyzing: People would rather have an Amazon warehouse in their backyard than a data center..."
-    },
     {
       "timestamp": "2026-04-07 05:37:10",
       "message": "[SKIP] Irrelevant (AI Filter): People would rather have an Amazon warehouse in their backyard than a data center"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 05:37:44",
       "message": "[PROCESSING] Analyzing: Sources: Apple is facing issues in the test phase of its foldable iPhone that are taking longer than expected to resolve, potentially delaying mass production (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-04-07 05:37:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple is facing issues in the test phase of its foldable iPhone that are taking longer than expected to resolve, potentially delaying mass production (Nikkei Asia)"
     }
   ]
 }
