@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 07:51:10",
+  "last_updated": "2026-04-07 07:51:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 07:50:35",
-      "message": "[PROCESSING] Analyzing: IBM Announces Strategic Collaboration with Arm..."
-    },
     {
       "timestamp": "2026-04-07 07:50:40",
       "message": "[SUCCESS] Processed: IBM, Arm\uacfc \uc804\ub7b5\uc801 \ud611\ub825 \ubc1c\ud45c\n  > Summary: IBM\uc740 Arm\uacfc\uc758 \uc804\ub7b5\uc801 \ud611\ub825\uc744 \ud1b5\ud574 \ubbf8\ub798 AI \ubc0f \ub370\uc774\ud130 \uc9d1\uc57d\uc801\uc778 \uc791\uc5c5\uc744 \uc9c0\uc6d0\ud558\ub294 \uc0c8\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 07:51:10",
       "message": "Reprocessing: OpenAI releases policy document focused on financial impacts and risks of AI"
+    },
+    {
+      "timestamp": "2026-04-07 07:51:11",
+      "message": "[SKIP] Content too short: OpenAI releases policy documen..."
     }
   ]
 }
