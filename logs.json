@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 18:51:42",
+  "last_updated": "2026-04-07 18:51:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 18:50:48",
-      "message": "[PROCESSING] Analyzing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach..."
-    },
     {
       "timestamp": "2026-04-07 18:50:55",
       "message": "[SUCCESS] Processed: IBM, Arm\uc758 \ud63c\ud569 \uc544\ud0a4\ud14d\ucc98 \uc811\uadfc \ubc29\uc2dd\uc73c\ub85c \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \uaca8\ub0e5\n  > Summary: IBM\uacfc Arm\uc758 \ud30c\ud2b8\ub108\uc2ed\uc740 Arm \uae30\ubc18\uc758 \uc6cc\ud06c\ub85c\ub4dc\ub97c IBM \uc2dc\uc2a4\ud15c\uc5d0 \ud1b5\ud569\ud558\uc5ec \uaddc\uc81c\ub41c \ud658\uacbd..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 18:51:42",
       "message": "[PROCESSING] Analyzing: The UK says Russia-linked hacking group APT28 is hijacking popular internet routers from MikroTik, TP-Link, and others to steal credentials and redirect traffic (Ryan Gallagher/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-04-07 18:51:45",
+      "message": "[SKIP] Irrelevant (AI Filter): The UK says Russia-linked hacking group APT28 is hijacking popular internet routers from MikroTik, TP-Link, and others to steal credentials and redirect traffic (Ryan Gallagher/Bloomberg)"
     }
   ]
 }
