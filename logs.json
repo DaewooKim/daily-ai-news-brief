@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 07:49:50",
+  "last_updated": "2026-04-07 07:49:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 07:49:04",
-      "message": "[SUCCESS] Processed: AI \uc74c\uc545 \uc2a4\ud0c0\ud2b8\uc5c5 Suno\uc758 UMG \ubc0f Sony\uc640\uc758 \ub77c\uc774\uc13c\uc2f1 \ub17c\uc758\uac00 \uc911\ub2e8\ub418\uc5c8\ub2e4; \ub808\uc774\ube14\ub4e4\uc740 Suno\uc640 \uac19\uc740 AI \ub3c4\uad6c\uac00 \uc778\uac04\uc758 \uc74c\uc545\uc5d0 \uc758\uc874\ud558\ubbc0\ub85c \ub300\uac00\ub97c \uc9c0\ubd88\ud574\uc57c \ud55c\ub2e4\uace0 \uc8fc\uc7a5\n  > Summary: AI \uc74c\uc545 \uc2a4\ud0c0\ud2b8\uc5c5 Suno\ub294 UMG\uc640 Sony\uc640\uc758 \ub77c\uc774\uc13c\uc2f1 \ub17c\uc758\uc5d0\uc11c \uc9c4\ud589\uc774 \uc911\ub2e8\ub418\uc5c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-04-07 07:49:05",
       "message": "[PROCESSING] Analyzing: Sources: Apple is facing issues in the test phase of its foldable iPhone that are taking longer than expected to resolve, potentially delaying mass production (Nikkei Asia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 07:49:50",
       "message": "[PROCESSING] Analyzing: Untrusted Analog Components Add Risks For Critical Infrastructure..."
+    },
+    {
+      "timestamp": "2026-04-07 07:49:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Untrusted Analog Components Add Risks For Critical Infrastructure"
     }
   ]
 }
