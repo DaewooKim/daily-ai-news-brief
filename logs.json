@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-07 22:10:55",
+  "last_updated": "2026-04-07 22:10:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-07 22:10:16",
-      "message": "[SUCCESS] Processed: \uc77c\ub860 \uba38\uc2a4\ud06c, OpenAI \uc18c\uc1a1 \uc218\uc815\ud558\uc5ec \uc790\uc2e0\uc774 \ubc1b\uc744 \uc218 \uc788\ub294 \uc190\ud574 \ubc30\uc0c1\uae08\uc744 OpenAI\uc758 \uc790\uc120 \uae30\uad6c\uc5d0 \uae30\ubd80\ud558\uace0 \uc54c\ud2b8\uba3c\uc744 OpenAI \ube44\uc601\ub9ac \uc774\uc0ac\ud68c\uc5d0\uc11c \uc81c\uac70\ud560 \uac83\uc744 \uc694\uccad\ud558\ub2e4\n  > Summary: \uc77c\ub860 \uba38\uc2a4\ud06c\uac00 OpenAI\uc5d0 \ub300\ud55c \uc18c\uc1a1\uc744 \uc218\uc815\ud558\uc5ec \uc790\uc2e0\uc774 \ubc1b\uc744 \uc218 \uc788\ub294 \uc190\ud574 \ubc30\uc0c1\uae08\uc744 Op..."
-    },
     {
       "timestamp": "2026-04-07 22:10:17",
       "message": "Reprocessing: Q&A with OpenAI President Greg Brockman about OpenAI's research direction, how far it can push Codex, closing Sora, betting on text vs. world models, and more (Alex Kantrowitz/Big Technology)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-07 22:10:55",
       "message": "[PROCESSING] Analyzing: Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research..."
+    },
+    {
+      "timestamp": "2026-04-07 22:10:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research"
     }
   ]
 }
