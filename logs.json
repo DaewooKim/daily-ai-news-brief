@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 13:29:17",
+  "last_updated": "2026-04-08 13:29:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 13:28:40",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-08 13:28:42",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 13:29:17",
       "message": "Reprocessing: RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation (Nikkei Asia)"
+    },
+    {
+      "timestamp": "2026-04-08 13:29:18",
+      "message": "[PROCESSING] Analyzing: RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation (Nikkei Asia)..."
     }
   ]
 }
