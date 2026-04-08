@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 23:25:17",
+  "last_updated": "2026-04-08 23:25:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 23:24:46",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-08 23:24:47",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 23:25:17",
       "message": "[PROCESSING] Analyzing: Source: Meta shutters an internal, employee-built leaderboard, dubbed Claudeonomics, tracking staff token usage, due to the data \"being shared externally\" (Jyoti Mann/The Information)..."
+    },
+    {
+      "timestamp": "2026-04-08 23:25:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Meta shutters an internal, employee-built leaderboard, dubbed Claudeonomics, tracking staff token usage, due to the data \"being shared externally\" (Jyoti Mann/The Information)"
     }
   ]
 }
