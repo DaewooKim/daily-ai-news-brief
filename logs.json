@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 08:00:40",
+  "last_updated": "2026-04-08 08:00:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 07:59:54",
-      "message": "[SUCCESS] Processed: \uc5d0\uc9c0 AI: \ubcf4\ud3b8\uc801\uc774\uace0, \uc8fc\uccb4\uc801\uc774\uba70, \ub2e4\uc911 \ubaa8\ub4dc \ubc0f \ud558\ub4dc\uc6e8\uc5b4 \uac00\uc18d\ud654\ub41c\n  > Summary: \uc9c0\ub09c 10\ub144 \ub3d9\uc548 \ud074\ub77c\uc6b0\ub4dc \uae30\ubc18 \uc778\uacf5\uc9c0\ub2a5(AI)\uc740 \ud06c\uac8c \ubc1c\uc804\ud588\uc2b5\ub2c8\ub2e4. \ud074\ub77c\uc6b0\ub4dc \uae30\ubc18 AI\ub294..."
-    },
     {
       "timestamp": "2026-04-08 07:59:56",
       "message": "[PROCESSING] Analyzing: Engineer\u2019s Guide to Simulating Electronics Cooling: eBook..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 08:00:40",
       "message": "[PROCESSING] Analyzing: ACM Research Introduces ACM Planetary Family Product Portfolio Structure..."
+    },
+    {
+      "timestamp": "2026-04-08 08:00:42",
+      "message": "[SKIP] Irrelevant (AI Filter): ACM Research Introduces ACM Planetary Family Product Portfolio Structure"
     }
   ]
 }
