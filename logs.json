@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 12:23:05",
+  "last_updated": "2026-04-08 12:23:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 12:22:24",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-08 12:22:27",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 12:23:05",
       "message": "[SUCCESS] Processed: RationalFX: 2026\ub144 1\ubd84\uae30 \uae30\uc220 \ud574\uace0\uac00 78,557\uba85\uc5d0 \ub2ec\ud558\uba70, \ubbf8\uad6d\uc774 76.7%\ub97c \ucc28\uc9c0; \uac70\uc758 \uc808\ubc18\uc740 AI \uad6c\ud604 \ubc0f \uc6cc\ud06c\ud50c\ub85c \uc790\ub3d9\ud654\uc5d0 \uae30\uc778\n  > Summary: 2026\ub144 1\ubd84\uae30 \ub3d9\uc548 \uae30\uc220 \ubd84\uc57c\uc5d0\uc11c\uc758 \ud574\uace0\uac00 78,557\uba85\uc5d0 \uc774\ub974\ub800\uc73c\uba70, \uadf8 \uc911 76.7..."
+    },
+    {
+      "timestamp": "2026-04-08 12:23:06",
+      "message": "Reprocessing: Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges (Luz Ding/Bloomberg)"
     }
   ]
 }
