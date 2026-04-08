@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 17:53:34",
+  "last_updated": "2026-04-08 17:53:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 17:53:01",
-      "message": "Found 145 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-08 17:53:01",
       "message": "[PROCESSING] Analyzing: Microsoft\u2019s executive shake-up continues as developer division chief resigns..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 17:53:34",
       "message": "Reprocessing: Rebellions AI Rings Up The Money To Rack Up AI Inference Systems"
+    },
+    {
+      "timestamp": "2026-04-08 17:53:35",
+      "message": "[SKIP] Content too short: Rebellions AI Rings Up The Mon..."
     }
   ]
 }
