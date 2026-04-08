@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 04:41:52",
+  "last_updated": "2026-04-08 04:41:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 04:41:16",
-      "message": "[SUCCESS] Processed: \ub799 \uaddc\ubaa8 \uc288\ud37c\ucef4\ud4e8\ud130\uc5d0\uc11c AI \uc6cc\ud06c\ub85c\ub4dc \uc2e4\ud589\ud558\uae30: \ud558\ub4dc\uc6e8\uc5b4\uc5d0\uc11c \ud1a0\ud3f4\ub85c\uc9c0 \uc778\uc2dd \uc2a4\ucf00\uc904\ub9c1\uae4c\uc9c0\n  > Summary: NVIDIA GB200 NVL72\uc640 NVIDIA GB300 NVL72 \uc2dc\uc2a4\ud15c\uc740 NVIDIA..."
-    },
     {
       "timestamp": "2026-04-08 04:41:18",
       "message": "Reprocessing: Evaluating alignment of behavioral dispositions in LLMs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 04:41:52",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
+    },
+    {
+      "timestamp": "2026-04-08 04:41:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
     }
   ]
 }
