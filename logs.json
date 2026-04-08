@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 15:41:40",
+  "last_updated": "2026-04-08 15:41:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 15:40:57",
-      "message": "Reprocessing: Atlassian launches visual\u00a0AI tools\u00a0and third-party agents\u00a0in Confluence"
-    },
     {
       "timestamp": "2026-04-08 15:40:58",
       "message": "[PROCESSING] Analyzing: Atlassian launches visual\u00a0AI tools\u00a0and third-party agents\u00a0in Confluence..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 15:41:40",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
+    },
+    {
+      "timestamp": "2026-04-08 15:41:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
     }
   ]
 }
