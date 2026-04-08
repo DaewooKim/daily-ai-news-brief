@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-08 20:11:15",
-  "status": "idle",
+  "last_updated": "2026-04-08 21:11:48",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-08 20:09:54",
-      "message": "Reprocessing: Snowflake expands open data strategy with Iceberg V3 support and governance portability plan"
+      "timestamp": "2026-04-08 21:11:36",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-08 20:09:56",
-      "message": "[SKIP] Content too short: Snowflake expands open data st..."
+      "timestamp": "2026-04-08 21:11:37",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-08 20:09:57",
-      "message": "Reprocessing: C3 AI debuts agentic tool that transforms natural language prompts into enterprise-grade systems"
+      "timestamp": "2026-04-08 21:11:37",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-08 20:09:59",
-      "message": "[SKIP] Content too short: C3 AI debuts agentic tool that..."
+      "timestamp": "2026-04-08 21:11:48",
+      "message": "Found 143 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-08 20:10:00",
-      "message": "Reprocessing: NWN launches cybersecurity platform with Cisco, Palo Alto Networks and Arctic Wolf integrations"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:01",
-      "message": "[SKIP] Content too short: NWN launches cybersecurity pla..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:03",
-      "message": "Reprocessing: Hypersonic aircraft startup Hermeus raises $350M at $1B valuation"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:05",
-      "message": "[SKIP] Content too short: Hypersonic aircraft startup He..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:06",
-      "message": "Reprocessing: Anthropic debuts Project Glasswing, leveraging its powerful Mythos model to reinforce software security"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:08",
-      "message": "[SKIP] Content too short: Anthropic debuts Project Glass..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:09",
-      "message": "Reprocessing: The NewFi inflection point: ICME and NYSE Wired bridge the gap between tokenization and Wall Street"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:11",
-      "message": "[SKIP] Content too short: The NewFi inflection point: IC..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:12",
-      "message": "Reprocessing: Modus secures $85M to expand AI-powered audit and accounting partnerships"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:13",
-      "message": "[SKIP] Content too short: Modus secures $85M to expand A..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:15",
-      "message": "Reprocessing: White House targets Cybersecurity and Infrastructure Security Agency with $707M budget cut"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:16",
-      "message": "[SKIP] Content too short: White House targets Cybersecur..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:18",
-      "message": "Reprocessing: Data center switch maker Aria Networks raises $125M"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:19",
-      "message": "[SKIP] Content too short: Data center switch maker Aria ..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:21",
-      "message": "Reprocessing: Intel joins Elon Musk\u2019s Terafab chip manufacturing initiative"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:22",
-      "message": "[SKIP] Content too short: Intel joins Elon Musk\u2019s Terafa..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:23",
-      "message": "Reprocessing: Nutanix .NEXT 2026: The great replatforming has begun"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:25",
-      "message": "[SKIP] Content too short: Nutanix .NEXT 2026: The great ..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:26",
-      "message": "Reprocessing: Anthropic\u2019s dispute with US government exposes deeper rifts over AI governance, risk and control"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:28",
-      "message": "[SKIP] Content too short: Anthropic\u2019s dispute with US go..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:29",
-      "message": "Reprocessing: Nutanix expands platforms for agentic AI and hybrid multicloud operations"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:30",
-      "message": "[SKIP] Content too short: Nutanix expands platforms for ..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:32",
-      "message": "Reprocessing: Hapax serves up proactive AI platform designed to meet business needs"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:33",
-      "message": "[SKIP] Content too short: Hapax serves up proactive AI p..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:35",
-      "message": "Reprocessing: Clarvos unveils AI-driven workflow platform to streamline marketing for smaller businesses"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:36",
-      "message": "[SKIP] Content too short: Clarvos unveils AI-driven work..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:38",
-      "message": "Reprocessing: Cloudflare fast-tracks post-quantum rollout as new research puts encryption on notice"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:39",
-      "message": "[SKIP] Content too short: Cloudflare fast-tracks post-qu..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:40",
-      "message": "Reprocessing: CoChat launches centralized workspace to unify AI chats, assistants and workflows for teams"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:42",
-      "message": "[SKIP] Content too short: CoChat launches centralized wo..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:43",
-      "message": "Reprocessing: AI agent security startup Trent AI launches with $13M in funding"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:45",
-      "message": "[SKIP] Content too short: AI agent security startup Tren..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:46",
-      "message": "Reprocessing: \u2018GrafanaGhost\u2019 vulnerability allowed for silent data exfiltration through AI workflows"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:47",
-      "message": "[SKIP] Content too short: \u2018GrafanaGhost\u2019 vulnerability a..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:49",
-      "message": "Reprocessing: Natter lands $23M to encourage employees to open up about their organizations through AI video interviews"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:50",
-      "message": "[SKIP] Content too short: Natter lands $23M to encourage..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:51",
-      "message": "[PROCESSING] Analyzing: Evolving Your OpenClaw Strategy and How to Pick Your Servers..."
-    },
-    {
-      "timestamp": "2026-04-08 20:10:54",
-      "message": "[SKIP] Irrelevant (AI Filter): Evolving Your OpenClaw Strategy and How to Pick Your Servers"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:55",
-      "message": "Reprocessing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth"
-    },
-    {
-      "timestamp": "2026-04-08 20:10:57",
-      "message": "[PROCESSING] Analyzing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth..."
-    },
-    {
-      "timestamp": "2026-04-08 20:11:01",
-      "message": "[SUCCESS] Processed: MSI XpertStation WS300 NVIDIA GB300 \uc2a4\ud14c\uc774\uc158 \ubc0f MSI NVIDIA GTC 2026 \ubd80\uc2a4\uc758 \uae30\ud0c0 \uc81c\ud488\n  > Summary: 2026 NVIDIA GTCX\uc5d0\uc11c MSI\uc758 \ub370\uc2a4\ud06c\ud0d1 EdgeXpert\uc640 XpertStati..."
-    },
-    {
-      "timestamp": "2026-04-08 20:11:03",
-      "message": "[PROCESSING] Analyzing: Arctic Freezer 4U-SP5 Mini Review A Great AMD SP5 Cooler..."
-    },
-    {
-      "timestamp": "2026-04-08 20:11:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Arctic Freezer 4U-SP5 Mini Review A Great AMD SP5 Cooler"
-    },
-    {
-      "timestamp": "2026-04-08 20:11:07",
-      "message": "Completed! New: 5, Updated: 45"
-    },
-    {
-      "timestamp": "2026-04-08 20:11:11",
-      "message": "Saved 50 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-08 20:11:14",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-08 21:11:48",
+      "message": "[PROCESSING] Analyzing: OpenAI made economic proposals \u2014 here\u2019s what DC thinks of them..."
     }
   ]
 }
