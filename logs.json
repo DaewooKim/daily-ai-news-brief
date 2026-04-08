@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-08 00:20:35",
+  "last_updated": "2026-04-08 00:20:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-08 00:19:55",
-      "message": "Reprocessing: Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling"
-    },
     {
       "timestamp": "2026-04-08 00:19:57",
       "message": "[PROCESSING] Analyzing: Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-08 00:20:35",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
+    },
+    {
+      "timestamp": "2026-04-08 00:20:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
     }
   ]
 }
