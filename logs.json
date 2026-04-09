@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 16:07:42",
+  "last_updated": "2026-04-09 16:07:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 16:07:04",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-09 16:07:06",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 16:07:42",
       "message": "[PROCESSING] Analyzing: DRAM\u2019s Whac\u2011A\u2011Mole Security Crisis..."
+    },
+    {
+      "timestamp": "2026-04-09 16:07:47",
+      "message": "[SUCCESS] Processed: DRAM\uc758 Whac\u2011A\u2011Mole \ubcf4\uc548 \uc704\uae30\n  > Summary: Rowhammer\ub294 \uc5ec\uc804\ud788 DRAM \ubcf4\uc548 \uc704\ud611\uc73c\ub85c \ub0a8\uc544 \uc788\uc73c\uba70, Rowpress\ub294 \uad00\ub828\ub41c ..."
     }
   ]
 }
