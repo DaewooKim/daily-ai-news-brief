@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 13:54:01",
+  "last_updated": "2026-04-09 13:54:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 13:53:29",
-      "message": "[SUCCESS] Processed: NTX Embedded, \uc625\ud1a8\ub8e9\uc2a4 \uc2e0\uc18d \uac1c\ubc1c \uc2dc\uc2a4\ud15c \ucd9c\uc2dc\n  > Summary: NTX Embedded\uac00 \uc0b0\uc5c5 \uc81c\uc5b4 \ubc0f HMI \uc2dc\uc2a4\ud15c\uc758 \uac1c\ubc1c\uacfc \uac80\uc99d\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud55c \uc625\ud1a8..."
-    },
     {
       "timestamp": "2026-04-09 13:53:30",
       "message": "Reprocessing: CEA and PSMC Integrate RISC-V and Silicon Photonics into 3D Stacking"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 13:54:01",
       "message": "Reprocessing: Anthropic launches Claude Managed Agents to speed up AI agent development"
+    },
+    {
+      "timestamp": "2026-04-09 13:54:03",
+      "message": "[SKIP] Content too short: Anthropic launches Claude Mana..."
     }
   ]
 }
