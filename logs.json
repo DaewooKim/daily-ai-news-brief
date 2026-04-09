@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 14:59:51",
+  "last_updated": "2026-04-09 14:59:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 14:59:06",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-09 14:59:09",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 14:59:51",
       "message": "[SUCCESS] Processed: DRAM\uc758 \uc704\uacc4\ubaa8\uc591 \ubcf4\uc548 \uc704\uae30\n  > Summary: Rowhammer\ub294 DRAM \ubcf4\uc548 \uc704\ud611\uc73c\ub85c \ub0a8\uc544 \uc788\uc73c\uba70, Rowpress\ub3c4 \uad00\ub828\ub41c \uc704\ud611\uc73c\ub85c..."
+    },
+    {
+      "timestamp": "2026-04-09 14:59:52",
+      "message": "Reprocessing: Redefining AI Inference With New Silicon Architecture"
     }
   ]
 }
