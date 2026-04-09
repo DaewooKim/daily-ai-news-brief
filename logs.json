@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 10:25:38",
+  "last_updated": "2026-04-09 10:25:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 10:24:55",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-04-09 10:24:56",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 10:25:38",
       "message": "[PROCESSING] Analyzing: Amazon\u2019s Smart Thermostat can help lower your energy bills, and it\u2019s down to $62..."
+    },
+    {
+      "timestamp": "2026-04-09 10:25:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon\u2019s Smart Thermostat can help lower your energy bills, and it\u2019s down to $62"
     }
   ]
 }
