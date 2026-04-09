@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 12:44:29",
+  "last_updated": "2026-04-09 12:44:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 12:43:51",
-      "message": "[PROCESSING] Analyzing: Researchers: a zero-day vulnerability in Adobe Reader has been actively exploited since at least December 2025, and some docs contain Russian-language lures (Sergiu Gatlan/BleepingComputer)..."
-    },
     {
       "timestamp": "2026-04-09 12:43:53",
       "message": "[SKIP] Irrelevant (AI Filter): Researchers: a zero-day vulnerability in Adobe Reader has been actively exploited since at least December 2025, and some docs contain Russian-language lures (Sergiu Gatlan/BleepingComputer)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 12:44:29",
       "message": "[PROCESSING] Analyzing: TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity (Katie Tarasov/CNBC)..."
+    },
+    {
+      "timestamp": "2026-04-09 12:44:33",
+      "message": "[SUCCESS] Processed: TSMC\uc758 \uac00\uc7a5 \uc9c4\ubcf4\ub41c \uce69 \ud328\ud0a4\uc9d5 \uae30\uc220\uc778 CoWoS\uac00 80%\uc758 CAGR\ub85c \uc131\uc7a5\ud558\uace0 \uc788\uc73c\uba70, Nvidia\uac00 \ub300\ubd80\ubd84\uc758 \uc6a9\ub7c9\uc744 \uc608\uc57d\ud588\ub2e4\uace0 \uc804\ud574\uc9c4\ub2e4\n  > Summary: TSMC\ub294 \uac00\uc7a5 \uc9c4\ubcf4\ub41c \uce69 \ud328\ud0a4\uc9d5 \uae30\uc220\uc778 CoWoS\uc758 \uc6a9\ub7c9\uc744 \uc99d\ub300\ud558\uba70 80%\uc758 \uc5f0\ud3c9\uade0 \uc131\uc7a5..."
     }
   ]
 }
