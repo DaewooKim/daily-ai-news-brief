@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-09 16:11:15",
-  "status": "idle",
+  "last_updated": "2026-04-09 17:11:50",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-09 16:09:50",
-      "message": "[SKIP] Content too short: Anthropic launches Claude Mana..."
+      "timestamp": "2026-04-09 17:11:37",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-09 16:09:52",
-      "message": "Reprocessing: Today\u2019s applications, tomorrow\u2019s AI workloads: Nutanix is building the platform for both, says CEO"
+      "timestamp": "2026-04-09 17:11:37",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-09 16:09:54",
-      "message": "[SKIP] Content too short: Today\u2019s applications, tomorrow..."
+      "timestamp": "2026-04-09 17:11:37",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-09 16:09:55",
-      "message": "Reprocessing: GitButler raises $17M to simplify Git workflows for developers"
+      "timestamp": "2026-04-09 17:11:50",
+      "message": "Found 159 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-09 16:09:57",
-      "message": "[SKIP] Content too short: GitButler raises $17M to simpl..."
-    },
-    {
-      "timestamp": "2026-04-09 16:09:58",
-      "message": "Reprocessing: Meta debuts Muse Spark multimodal reasoning model"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:00",
-      "message": "[SKIP] Content too short: Meta debuts Muse Spark multimo..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:01",
-      "message": "Reprocessing: AWS launches Amazon S3 Files to simplify cloud data management"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:03",
-      "message": "[SKIP] Content too short: AWS launches Amazon S3 Files t..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:05",
-      "message": "Reprocessing: Cosm builds \u2018Shared Reality\u2019 to power immersive, real-world experiences"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:06",
-      "message": "[SKIP] Content too short: Cosm builds \u2018Shared Reality\u2019 t..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:08",
-      "message": "Reprocessing: Solidigm targets the AI bottleneck with advanced storage tech and ecosystem partnerships"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:09",
-      "message": "[SKIP] Content too short: Solidigm targets the AI bottle..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:11",
-      "message": "Reprocessing: Felix launches with $1.7M to automate professional services reliably"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:12",
-      "message": "[SKIP] Content too short: Felix launches with $1.7M to a..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:14",
-      "message": "Reprocessing: Billions of users, millions of cores: Inside the high-stakes fight over end-user computing"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:15",
-      "message": "[SKIP] Content too short: Billions of users, millions of..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:17",
-      "message": "Reprocessing: The single-vendor world is collapsing \u2014 and Dell and Nutanix say AI factories are finishing the job"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:18",
-      "message": "[SKIP] Content too short: The single-vendor world is col..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:20",
-      "message": "Reprocessing: Nutanix signals an infrastructure shift in AI \u2014 theCUBE\u2019s .NEXT keynote analysis"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:21",
-      "message": "[SKIP] Content too short: Nutanix signals an infrastruct..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:23",
-      "message": "Reprocessing: Regal AI launches Copilot for building self-improving voice AI agents"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:24",
-      "message": "[SKIP] Content too short: Regal AI launches Copilot for ..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:26",
-      "message": "Reprocessing: Startup Sazabi bets on logs and AI agents to replace traditional observability stacks"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:27",
-      "message": "[SKIP] Content too short: Startup Sazabi bets on logs an..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:29",
-      "message": "Reprocessing: Silicon Data brings transparency to future GPU prices for enterprise CFOs"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:30",
-      "message": "[SKIP] Content too short: Silicon Data brings transparen..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:32",
-      "message": "Reprocessing: Cynomi unveils AI Insights and co-worker agents to automate cybersecurity expertise delivery"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:33",
-      "message": "[SKIP] Content too short: Cynomi unveils AI Insights and..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:35",
-      "message": "Reprocessing: Snowflake expands open data strategy with Iceberg V3 support and governance portability plan"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:36",
-      "message": "[SKIP] Content too short: Snowflake expands open data st..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:38",
-      "message": "Reprocessing: C3 AI debuts agentic tool that transforms natural language prompts into enterprise-grade systems"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:40",
-      "message": "[SKIP] Content too short: C3 AI debuts agentic tool that..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:41",
-      "message": "Reprocessing: NWN launches cybersecurity platform with Cisco, Palo Alto Networks and Arctic Wolf integrations"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:42",
-      "message": "[SKIP] Content too short: NWN launches cybersecurity pla..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:44",
-      "message": "Reprocessing: Hypersonic aircraft startup Hermeus raises $350M at $1B valuation"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:45",
-      "message": "[SKIP] Content too short: Hypersonic aircraft startup He..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:47",
-      "message": "Reprocessing: NVIDIA Vera Rubin NVL72 Rack and More in the Pegatron booth at GTC 2026"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:48",
-      "message": "[PROCESSING] Analyzing: NVIDIA Vera Rubin NVL72 Rack and More in the Pegatron booth at GTC 2026..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:53",
-      "message": "[SUCCESS] Processed: NVIDIA \ubca0\ub77c \ub8e8\ube48 NVL72 \ub799 \ubc0f GTC 2026\uc5d0\uc11c \ud398\uac00\ud2b8\ub860 \ubd80\uc2a4\uc758 \ub354 \ub9ce\uc740 \uc815\ubcf4\n  > Summary: NVIDIA GTC 2026\uc5d0\uc11c \ud398\uac00\ud2b8\ub860 \ubd80\uc2a4\uc5d0\uc11c\ub294 NVIDIA \ubca0\ub77c \ub8e8\ube48 NVL72 \ub799,..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:54",
-      "message": "[PROCESSING] Analyzing: Evolving Your OpenClaw Strategy and How to Pick Your Servers..."
-    },
-    {
-      "timestamp": "2026-04-09 16:10:56",
-      "message": "[SKIP] Irrelevant (AI Filter): Evolving Your OpenClaw Strategy and How to Pick Your Servers"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:58",
-      "message": "Reprocessing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth"
-    },
-    {
-      "timestamp": "2026-04-09 16:10:59",
-      "message": "[PROCESSING] Analyzing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth..."
-    },
-    {
-      "timestamp": "2026-04-09 16:11:02",
-      "message": "[SUCCESS] Processed: MSI XpertStation WS300 NVIDIA GB300 \uc2a4\ud14c\uc774\uc158 \ubc0f MSI NVIDIA GTC 2026 \ubd80\uc2a4\uc758 \ub354 \ub9ce\uc740 \uc81c\ud488\n  > Summary: NVIDIA GTCX 2026\uc5d0\uc11c MSI\ub294 EdgeXpert \ubc0f XpertStation W..."
-    },
-    {
-      "timestamp": "2026-04-09 16:11:04",
-      "message": "[PROCESSING] Analyzing: Arctic Freezer 4U-SP5 Mini Review A Great AMD SP5 Cooler..."
-    },
-    {
-      "timestamp": "2026-04-09 16:11:06",
-      "message": "[SKIP] Irrelevant (AI Filter): Arctic Freezer 4U-SP5 Mini Review A Great AMD SP5 Cooler"
-    },
-    {
-      "timestamp": "2026-04-09 16:11:07",
-      "message": "Completed! New: 5, Updated: 57"
-    },
-    {
-      "timestamp": "2026-04-09 16:11:11",
-      "message": "Saved 62 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-09 16:11:14",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-09 17:11:50",
+      "message": "[PROCESSING] Analyzing: The team behind 1000xResist is making a game about convincing an AI that it isn\u2019t human..."
     }
   ]
 }
