@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 18:22:57",
+  "last_updated": "2026-04-09 18:22:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 18:22:16",
-      "message": "[PROCESSING] Analyzing: Researchers: attackers have been exploiting a zero-day vulnerability in Adobe Reader since at least December 2025, and some docs contain Russian-language lures (Sergiu Gatlan/BleepingComputer)..."
-    },
     {
       "timestamp": "2026-04-09 18:22:18",
       "message": "[SKIP] Irrelevant (AI Filter): Researchers: attackers have been exploiting a zero-day vulnerability in Adobe Reader since at least December 2025, and some docs contain Russian-language lures (Sergiu Gatlan/BleepingComputer)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 18:22:57",
       "message": "[PROCESSING] Analyzing: Park Systems Opens New Global Headquarters..."
+    },
+    {
+      "timestamp": "2026-04-09 18:22:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Park Systems Opens New Global Headquarters"
     }
   ]
 }
