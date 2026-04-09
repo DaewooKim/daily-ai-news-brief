@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 15:00:28",
+  "last_updated": "2026-04-09 15:00:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 14:59:37",
-      "message": "Reprocessing: PCIe 8.0: Enabling The Next Generation Of High Bandwidth Systems"
-    },
     {
       "timestamp": "2026-04-09 14:59:38",
       "message": "[PROCESSING] Analyzing: PCIe 8.0: Enabling The Next Generation Of High Bandwidth Systems..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 15:00:28",
       "message": "[PROCESSING] Analyzing: Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research..."
+    },
+    {
+      "timestamp": "2026-04-09 15:00:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research"
     }
   ]
 }
