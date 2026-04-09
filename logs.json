@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 18:22:32",
+  "last_updated": "2026-04-09 18:22:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 18:21:54",
-      "message": "[PROCESSING] Analyzing: Sources: the White House is pushing back on GOP-led AI bills in Nebraska and Tennessee, putting new pressure on GOP state lawmakers who support AI guardrails (Axios)..."
-    },
     {
       "timestamp": "2026-04-09 18:21:58",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \ubc31\uc545\uad00\uc774 \ub124\ube0c\ub798\uc2a4\uce74\uc640 \ud14c\ub124\uc2dc\uc5d0\uc11c \uacf5\ud654\ub2f9 \uc8fc\ub3c4\uc758 AI \ubc95\uc548\uc5d0 \ubc18\ubc1c\ud558\uba70 AI \ubcf4\ud638 \uc7a5\uce58\ub97c \uc9c0\uc6d0\ud558\ub294 \uacf5\ud654\ub2f9 \uc8fc \uc758\uc6d0\ub4e4\uc5d0\uac8c \uc0c8\ub85c\uc6b4 \uc555\ubc15\uc744 \uac00\ud558\uace0 \uc788\ub2e4 (Axios)\n  > Summary: \ubc31\uc545\uad00\uc774 \ub124\ube0c\ub798\uc2a4\uce74\uc640 \ud14c\ub124\uc2dc\uc5d0\uc11c \uacf5\ud654\ub2f9 \uc8fc\ub3c4\uac00 \ud55c AI \ubc95\uc548\uc5d0 \ubc18\ubc1c\ud558\uace0 \uc788\uc73c\uba70, AI \ubcf4\ud638..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 18:22:32",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
+    },
+    {
+      "timestamp": "2026-04-09 18:22:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
     }
   ]
 }
