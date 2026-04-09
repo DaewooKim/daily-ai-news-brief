@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 17:13:18",
+  "last_updated": "2026-04-09 17:13:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 17:12:41",
-      "message": "[SUCCESS] Processed: \uc57d 30\uc904\uc758 \ud30c\uc774\uc36c \ucf54\ub4dc\uc640 NVIDIA nvCOMP\ub85c \uccb4\ud06c\ud3ec\uc778\ud2b8 \ube44\uc6a9 \uc808\uac10\n  > Summary: LLM(\ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378) \ud6c8\ub828 \uacfc\uc815\uc5d0\uc11c\ub294 \uc8fc\uae30\uc801\uc73c\ub85c \uccb4\ud06c\ud3ec\uc778\ud2b8\ub97c \uc0dd\uc131\ud574\uc57c \ud569\ub2c8\ub2e4. \uc774 \uccb4\ud06c..."
-    },
     {
       "timestamp": "2026-04-09 17:12:42",
       "message": "[PROCESSING] Analyzing: How to Accelerate Protein Structure Prediction at Proteome-Scale..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 17:13:18",
       "message": "[PROCESSING] Analyzing: Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter..."
+    },
+    {
+      "timestamp": "2026-04-09 17:13:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter"
     }
   ]
 }
