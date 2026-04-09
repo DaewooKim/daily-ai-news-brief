@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 01:36:29",
+  "last_updated": "2026-04-09 01:36:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 01:35:54",
-      "message": "[PROCESSING] Analyzing: Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO (Bloomberg)..."
-    },
     {
       "timestamp": "2026-04-09 01:35:57",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc564\ud2b8\ub85c\ud53d, \uc9c1\uc6d0 \uc7ac\ub9e4\uc785\uc744 3,500\uc5b5 \ub2ec\ub7ec \uac00\uce58\ub85c \uc644\ub8cc\ud558\uc600\uc73c\ub098, \ud22c\uc790\uc790\uac00 \uc6d0\ud558\ub294 60\uc5b5 \ub2ec\ub7ec\uc5d0\ub294 \ubbf8\uce58\uc9c0 \ubabb\ud568\n  > Summary: \uc564\ud2b8\ub85c\ud53d \uc9c1\uc6d0\ub4e4\uc774 IPO\ub97c \uc55e\ub450\uace0 \uc77c\ubd80 \uc9c0\ubd84\uc744 \ud22c\uc790\uc790\uc5d0\uac8c \ud310\ub9e4\ud558\uba70 \uc7ac\ub9e4\uc785\uc744 \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 01:36:29",
       "message": "[PROCESSING] Analyzing: Amazon says Kindle and Kindle Fire devices released in 2012 and earlier won't be able to access the Kindle Store from May 20; downloaded books can still be read (Andrew Liszewski/The Verge)..."
+    },
+    {
+      "timestamp": "2026-04-09 01:36:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon says Kindle and Kindle Fire devices released in 2012 and earlier won't be able to access the Kindle Store from May 20; downloaded books can still be read (Andrew Liszewski/The Verge)"
     }
   ]
 }
