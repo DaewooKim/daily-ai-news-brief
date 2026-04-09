@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 07:04:33",
+  "last_updated": "2026-04-09 07:04:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 07:03:53",
-      "message": "[PROCESSING] Analyzing: As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter (Financial Times)..."
-    },
     {
       "timestamp": "2026-04-09 07:03:56",
       "message": "[SUCCESS] Processed: AI\uac00 \ud654\uc774\ud2b8\uce7c\ub77c \uc9c1\uc5c5\uc744 \ubcc0\ud615\uc2dc\ud0a4\uba74\uc11c, \uac01 \ubd84\uc57c\uc758 \uacbd\uc601\uc9c4\ub4e4\uc740 \uc815\ud655\uc131, \ucc45\uc784 \ubc0f \uaddc\uc81c\uac00 \uc911\uc694\ud55c \uacf3\uc5d0\uc11c AI\uac00 \uc544\ub2cc \uc2e0\ub8b0\uac00 \ucc28\ubcc4\ud654\uc758 \ud575\uc2ec\uc774\ub77c\uace0 \ub9d0\ud55c\ub2e4.\n  > Summary: \uae08\uc735 \ubc0f \uc0ac\uc774\ubc84 \ubc29\uc5b4 \ubd84\uc57c\uc758 \uacbd\uc601\uc9c4\ub4e4\uc740 Anthropic\uc758 Claude '\ud50c\ub7ec\uadf8\uc778'\uc774 \uc5b4\ub514..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 07:04:33",
       "message": "[PROCESSING] Analyzing: Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed (CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-04-09 07:04:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed (CoinDesk)"
     }
   ]
 }
