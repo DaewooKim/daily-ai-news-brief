@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-09 09:24:33",
-  "status": "idle",
+  "last_updated": "2026-04-09 10:25:08",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-09 09:23:03",
-      "message": "[SUCCESS] Processed: NTX Embedded, \uc625\ud1a0\ub8e9\uc2a4 \uc2e0\uc18d \uac1c\ubc1c \uc2dc\uc2a4\ud15c \ucd9c\uc2dc\n  > Summary: NTX Embedded\uac00 \uacf5\uc5c5 \uc81c\uc5b4 \ubc0f HMI \uc2dc\uc2a4\ud15c\uc758 \uc81c\uc791\uacfc \uac80\uc99d\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud55c \uc625\ud1a0..."
+      "timestamp": "2026-04-09 10:24:55",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-09 09:23:05",
-      "message": "[PROCESSING] Analyzing: Embedded World 2026: Cincoze Machine Vision Controller (MD-3000) Enabling Edge AI Applications..."
+      "timestamp": "2026-04-09 10:24:56",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-09 09:23:09",
-      "message": "[SUCCESS] Processed: \uc5e3\uc9c0 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub294 Cincoze \uba38\uc2e0 \ube44\uc804 \ucee8\ud2b8\ub864\ub7ec (MD-3000), Embedded World 2026\uc5d0\uc11c \uacf5\uac1c\n  > Summary: 2026 Embedded World\uc5d0\uc11c Cincoze\ub294 \uc0b0\uc5c5 \uc790\ub3d9\ud654\uc5d0\uc11c \uba38\uc2e0 \ube44\uc804 \ucee8\ud2b8\ub864\ub7ec..."
+      "timestamp": "2026-04-09 10:24:56",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-09 09:23:10",
-      "message": "[PROCESSING] Analyzing: CEA and PSMC Integrate RISC-V and Silicon Photonics into 3D Stacking..."
+      "timestamp": "2026-04-09 10:25:08",
+      "message": "Found 148 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-09 09:23:14",
-      "message": "[SUCCESS] Processed: CEA\uc640 PSMC, RISC-V \ubc0f \uc2e4\ub9ac\ucf58 \ud3ec\ud1a0\ub2c9\uc2a4\ub97c 3D \uc2a4\ud0dc\ud0b9\uc5d0 \ud1b5\ud569\ud558\ub2e4\n  > Summary: CEA-Leti\uc640 CEA-List\ub294 Powerchip Semiconductor Manufa..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:16",
-      "message": "[SKIP] Content too short: Appeals court rejects Anthropi..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:17",
-      "message": "[SKIP] Content too short: How Dartmouth College\u2019s VMware..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:18",
-      "message": "[SKIP] Content too short: Anthropic launches Claude Mana..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:20",
-      "message": "[SKIP] Content too short: Today\u2019s applications, tomorrow..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:21",
-      "message": "[SKIP] Content too short: GitButler raises $17M to simpl..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:22",
-      "message": "[SKIP] Content too short: Meta debuts Muse Spark multimo..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:24",
-      "message": "[SKIP] Content too short: AWS launches Amazon S3 Files t..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:25",
-      "message": "[SKIP] Content too short: Cosm builds \u2018Shared Reality\u2019 t..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:27",
-      "message": "[SKIP] Content too short: Solidigm targets the AI bottle..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:28",
-      "message": "[SKIP] Content too short: Felix launches with $1.7M to a..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:30",
-      "message": "[SKIP] Content too short: Billions of users, millions of..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:31",
-      "message": "[SKIP] Content too short: The single-vendor world is col..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:33",
-      "message": "[SKIP] Content too short: Nutanix signals an infrastruct..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:34",
-      "message": "[SKIP] Content too short: Regal AI launches Copilot for ..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:36",
-      "message": "[SKIP] Content too short: Startup Sazabi bets on logs an..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:37",
-      "message": "[SKIP] Content too short: Silicon Data brings transparen..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:38",
-      "message": "[SKIP] Content too short: Cynomi unveils AI Insights and..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:40",
-      "message": "[SKIP] Content too short: Snowflake expands open data st..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:41",
-      "message": "[SKIP] Content too short: C3 AI debuts agentic tool that..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:42",
-      "message": "[SKIP] Content too short: NWN launches cybersecurity pla..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:44",
-      "message": "[SKIP] Content too short: Hypersonic aircraft startup He..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:45",
-      "message": "[SKIP] Content too short: Anthropic debuts Project Glass..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:47",
-      "message": "[SKIP] Content too short: The NewFi inflection point: IC..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:48",
-      "message": "[SKIP] Content too short: Modus secures $85M to expand A..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:50",
-      "message": "[SKIP] Content too short: White House targets Cybersecur..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:51",
-      "message": "[SKIP] Content too short: Data center switch maker Aria ..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:52",
-      "message": "[SKIP] Content too short: Intel joins Elon Musk\u2019s Terafa..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:54",
-      "message": "[SKIP] Content too short: Nutanix .NEXT 2026: The great ..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:55",
-      "message": "[SKIP] Content too short: Anthropic\u2019s dispute with US go..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:57",
-      "message": "[SKIP] Content too short: Nutanix expands platforms for ..."
-    },
-    {
-      "timestamp": "2026-04-09 09:23:58",
-      "message": "[PROCESSING] Analyzing: NVIDIA Vera Rubin NVL72 Rack and More in the Pegatron booth at GTC 2026..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:02",
-      "message": "[SUCCESS] Processed: NVIDIA \ubca0\ub77c \ub8e8\ube48 NVL72 \ub799 \ubc0f GTC 2026\uc758 Pegatron \ubd80\uc2a4\uc5d0\uc11c \ub354 \ub9ce\uc740 \uac83\ub4e4\n  > Summary: 2026\ub144 NVIDIA GTC\uc5d0\uc11c Pegatron \ubd80\uc2a4\uc5d0\uc11c NVIDIA \ubca0\ub77c \ub8e8\ube48 NVL7..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:03",
-      "message": "[PROCESSING] Analyzing: Evolving Your OpenClaw Strategy and How to Pick Your Servers..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Evolving Your OpenClaw Strategy and How to Pick Your Servers"
-    },
-    {
-      "timestamp": "2026-04-09 09:24:07",
-      "message": "[PROCESSING] Analyzing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:10",
-      "message": "[SUCCESS] Processed: MSI XpertStation WS300 NVIDIA GB300 \uc2a4\ud14c\uc774\uc158 \ubc0f MSI NVIDIA GTC 2026 \ubd80\uc2a4\uc758 \uae30\ud0c0 \uc81c\ud488\n  > Summary: 2026 NVIDIA GTCX\uc5d0\uc11c MSI\ub294 EdgeXpert\uc640 XpertStation WS..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:12",
-      "message": "[PROCESSING] Analyzing: Arctic Freezer 4U-SP5 Mini Review A Great AMD SP5 Cooler..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Arctic Freezer 4U-SP5 Mini Review A Great AMD SP5 Cooler"
-    },
-    {
-      "timestamp": "2026-04-09 09:24:15",
-      "message": "[PROCESSING] Analyzing: SPARKLE Intel Arc A310 Eco 4GB Low Profile PCIe GPU Quick Look..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:19",
-      "message": "[SUCCESS] Processed: SPARKLE \uc778\ud154 \uc544\ud06c A310 \uc5d0\ucf54 4GB \uc800\ud504\ub85c\ud30c\uc77c PCIe GPU \uac04\ub2e8 \ub9ac\ubdf0\n  > Summary: \uc774\ubc88 \ud734\uc77c \uc8fc\ub9d0, \uc6b0\ub9ac\ub294 Sparkle Intel Arc A310 ECO\ub97c \uc0b4\ud3b4\ubd05\ub2c8\ub2e4. \uc774..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:20",
-      "message": "[PROCESSING] Analyzing: GitHub Copilot CLI combines model families for a second opinion..."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:25",
-      "message": "[SUCCESS] Processed: GitHub Copilot CLI\uac00 \ubaa8\ub378 \ud328\ubc00\ub9ac\ub97c \uacb0\ud569\ud558\uc5ec \ub450 \ubc88\uc9f8 \uc758\uacac\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4\n  > Summary: \uc624\ub298 GitHub Copilot CLI\uc5d0 \uc2e4\ud5d8 \ubaa8\ub4dc\uc778 Rubber Duck\uc744 \ub3c4\uc785\ud588\uc2b5\ub2c8\ub2e4...."
-    },
-    {
-      "timestamp": "2026-04-09 09:24:26",
-      "message": "Completed! New: 121, Updated: 0"
-    },
-    {
-      "timestamp": "2026-04-09 09:24:29",
-      "message": "Saved 121 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-09 09:24:32",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-09 10:25:08",
+      "message": "[PROCESSING] Analyzing: Amflow\u2019s latest e-bikes raise the bar again..."
     }
   ]
 }
