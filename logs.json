@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 05:58:49",
+  "last_updated": "2026-04-09 05:58:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 05:58:15",
-      "message": "[PROCESSING] Analyzing: Sources: Arm CEO Rene Haas is in line for an additional role at SoftBank Group to advance Project Izanagi, the Japanese group's AI chip strategy (Financial Times)..."
-    },
     {
       "timestamp": "2026-04-09 05:58:18",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: Arm CEO Rene Haas\uac00 \uc77c\ubcf8 \uadf8\ub8f9\uc758 AI \uce69 \uc804\ub7b5\uc744 \ubc1c\uc804\uc2dc\ud0a4\uae30 \uc704\ud574 SoftBank Group\uc5d0\uc11c \ucd94\uac00 \uc5ed\ud560\uc744 \ub9e1\uc744 \uc608\uc815\uc774\ub2e4 (\ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988)\n  > Summary: \ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988\uc5d0 \ub530\ub974\uba74, Arm\uc758 CEO\uc778 Rene Haas\uac00 SoftBank Group..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 05:58:49",
       "message": "[PROCESSING] Analyzing: Engineer\u2019s Guide to Simulating Electronics Cooling: eBook..."
+    },
+    {
+      "timestamp": "2026-04-09 05:58:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Engineer\u2019s Guide to Simulating Electronics Cooling: eBook"
     }
   ]
 }
