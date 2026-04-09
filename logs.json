@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 10:31:25",
+  "last_updated": "2026-04-09 10:31:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 10:30:52",
-      "message": "[SUCCESS] Processed: NTX Embedded, \uc625\ud1a0\ub8e9\uc2a4 \uc2e0\uc18d \uac1c\ubc1c \uc2dc\uc2a4\ud15c \ucd9c\uc2dc\n  > Summary: NTX Embedded\ub294 \uc0b0\uc5c5 \uc81c\uc5b4 \ubc0f HMI \uc2dc\uc2a4\ud15c\uc758 \uac1c\ubc1c\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \uc625\ud1a0\ub8e9\uc2a4 R..."
-    },
     {
       "timestamp": "2026-04-09 10:30:54",
       "message": "Reprocessing: Embedded World 2026: Cincoze Machine Vision Controller (MD-3000) Enabling Edge AI Applications"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 10:31:25",
       "message": "Reprocessing: AWS launches Amazon S3 Files to simplify cloud data management"
+    },
+    {
+      "timestamp": "2026-04-09 10:31:27",
+      "message": "[SKIP] Content too short: AWS launches Amazon S3 Files t..."
     }
   ]
 }
