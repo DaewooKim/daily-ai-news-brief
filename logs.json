@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 09:19:33",
+  "last_updated": "2026-04-09 09:19:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 09:18:50",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uace0\uc8fc\ud30c \uac70\ub798\uc5d0\uc11c \ubc30\uc6b8 \uc218 \uc788\ub294 \uac83\n  > Summary: \uc77c\ubd80 AI \uc791\uc5c5\uc740 \ub9c8\uc774\ud06c\ub85c\ucd08 \ub2e8\uc704\uc758 \uc751\ub2f5\uc131, \uacb0\uc815\ub860\uc801 \ub124\ud2b8\uc6cc\ud0b9, \ub192\uc740 \ucc98\ub9ac\ub7c9\uc744 \uc694\uad6c\ud569\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-04-09 09:18:51",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 09:19:33",
       "message": "[PROCESSING] Analyzing: A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages (Yuliya Chernova/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-04-09 09:19:35",
+      "message": "[SKIP] Irrelevant (AI Filter): A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages (Yuliya Chernova/Wall Street Journal)"
     }
   ]
 }
