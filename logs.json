@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 09:19:08",
+  "last_updated": "2026-04-09 09:19:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 09:18:26",
-      "message": "[SUCCESS] Processed: \uc778\ud154, \uba38\uc2a4\ud06c\uc758 \ud14c\ub77c\ud339\uc5d0 \ud569\ub958 - AI \ucef4\ud4e8\ud305 \uacbd\uc7c1\uc774 \uc6b0\uc8fc\ub85c \ud655\ub300\ub41c\ub2e4\n  > Summary: \uc778\ud154\uc774 \uba38\uc2a4\ud06c\uc758 \ud14c\ub77c\ud339 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ucc38\uc5ec\ud558\uba74\uc11c AI \uc778\ud504\ub77c\uc758 \ubcc0\ud654\uac00 \uc2dc\uc791\ub418\uc5c8\uc73c\uba70, \uc804\ub840 \uc5c6\ub294..."
-    },
     {
       "timestamp": "2026-04-09 09:18:28",
       "message": "[PROCESSING] Analyzing: Nutanix Targets Neocloud AI Economics With Platform Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 09:19:08",
       "message": "[PROCESSING] Analyzing: A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as companies develop monitoring tech like distributed acoustic sensing (Mike Cherney/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-04-09 09:19:10",
+      "message": "[SKIP] Irrelevant (AI Filter): A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as companies develop monitoring tech like distributed acoustic sensing (Mike Cherney/Wall Street Journal)"
     }
   ]
 }
