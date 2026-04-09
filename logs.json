@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 10:28:40",
+  "last_updated": "2026-04-09 10:28:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 10:28:01",
-      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
-    },
     {
       "timestamp": "2026-04-09 10:28:03",
       "message": "[PROCESSING] Analyzing: Source: OpenAI is finalizing a model with advanced cybersecurity capabilities that it plans to release only to a small set of companies, similar to Anthropic (Sam Sabin/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 10:28:40",
       "message": "[PROCESSING] Analyzing: A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages (Yuliya Chernova/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-04-09 10:28:42",
+      "message": "[SKIP] Irrelevant (AI Filter): A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages (Yuliya Chernova/Wall Street Journal)"
     }
   ]
 }
