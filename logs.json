@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-09 03:47:24",
+  "last_updated": "2026-04-09 03:47:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-09 03:46:48",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-09 03:46:50",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-09 03:47:24",
       "message": "[PROCESSING] Analyzing: A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China's National Supercomputing Center in Tianjin (Isaac Yee/CNN)..."
+    },
+    {
+      "timestamp": "2026-04-09 03:47:26",
+      "message": "[SKIP] Irrelevant (AI Filter): A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China's National Supercomputing Center in Tianjin (Isaac Yee/CNN)"
     }
   ]
 }
