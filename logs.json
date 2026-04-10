@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 18:00:43",
+  "last_updated": "2026-04-10 18:00:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 18:00:00",
-      "message": "[PROCESSING] Analyzing: Creating images with ChatGPT..."
-    },
     {
       "timestamp": "2026-04-10 18:00:03",
       "message": "[SUCCESS] Processed: \ucc57GPT\ub85c \uc774\ubbf8\uc9c0 \ub9cc\ub4e4\uae30\n  > Summary: \ucc57GPT\ub97c \uc0ac\uc6a9\ud558\uc5ec \uba85\ud655\ud55c \ud504\ub86c\ud504\ud2b8\ub85c \uc774\ubbf8\uc9c0\ub97c \uc0dd\uc131\ud558\uace0 \ub2e4\ub4ec\ub294 \ubc29\ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4. \ub514\uc790\uc778\uc744 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 18:00:43",
       "message": "[SKIP] Irrelevant (AI Filter): Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass"
+    },
+    {
+      "timestamp": "2026-04-10 18:00:44",
+      "message": "Reprocessing: ChatGPT finally offers $100/month Pro plan"
     }
   ]
 }
