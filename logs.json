@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 22:28:53",
+  "last_updated": "2026-04-10 22:28:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 22:28:15",
-      "message": "[SUCCESS] Processed: OpenAI\uc5d0\uc11c\uc758 AI \uc801\uc6a9\n  > Summary: OpenAI\uc758 \uc81c\ud488\uc778 ChatGPT, Codex \ubc0f API\uac00 \uc6cc\ud06c, \uac1c\ubc1c \ubc0f \uc77c\uc0c1 \uc5c5\ubb34\uc5d0 ..."
-    },
     {
       "timestamp": "2026-04-10 22:28:17",
       "message": "Reprocessing: Writing with ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 22:28:53",
       "message": "[PROCESSING] Analyzing: After data breach, $10B-valued startup Mercor is having a month..."
+    },
+    {
+      "timestamp": "2026-04-10 22:28:55",
+      "message": "[SKIP] Irrelevant (AI Filter): After data breach, $10B-valued startup Mercor is having a month"
     }
   ]
 }
