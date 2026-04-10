@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 08:45:11",
+  "last_updated": "2026-04-10 08:45:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 08:44:31",
-      "message": "[PROCESSING] Analyzing: OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus..."
-    },
     {
       "timestamp": "2026-04-10 08:44:37",
       "message": "[SUCCESS] Processed: OpenAI, ChatGPT Pro $100 \uc694\uae08\uc81c \ub3c4\uc785 \u2013 Codex \uc0ac\uc6a9 \ud55c\ub3c4 5\ubc30 \uc99d\uac00\n  > Summary: OpenAI\uac00 \uc0c8\ub85c\uc6b4 $100 ChatGPT Pro \uc694\uae08\uc81c\ub97c \ubc1c\ud45c\ud558\uba70 Codex \uc0ac\uc6a9 \ud55c\ub3c4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 08:45:11",
       "message": "[SKIP] Content too short: Anthropic and OpenAI target bi..."
+    },
+    {
+      "timestamp": "2026-04-10 08:45:12",
+      "message": "Reprocessing: Intel inks multiyear data center chip partnership with Google"
     }
   ]
 }
