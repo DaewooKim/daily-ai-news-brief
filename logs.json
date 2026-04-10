@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 08:44:38",
+  "last_updated": "2026-04-10 08:44:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 08:43:52",
-      "message": "[SUCCESS] Processed: \uc0c8\ub85c\uc6b4 \uc2e4\ub9ac\ucf58 \uc544\ud0a4\ud14d\ucc98\ub85c AI \ucd94\ub860 \uc7ac\uc815\uc758\n  > Summary: AI \ucd94\ub860\uc740 AI \uc2dc\uc7a5\uc5d0\uc11c \uac00\uc7a5 \ud070 \uc218\uc694\uac00 \uc788\ub294 \ubd84\uc57c\ub85c \ubd80\uac01\ub418\uace0 \uc788\uc73c\uba70, VSORA\ub294 AI..."
-    },
     {
       "timestamp": "2026-04-10 08:43:53",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 08:44:38",
       "message": "[PROCESSING] Analyzing: Peak Nano, Advanced Conversion Partner on SiC DC-Link Tech..."
+    },
+    {
+      "timestamp": "2026-04-10 08:44:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Peak Nano, Advanced Conversion Partner on SiC DC-Link Tech"
     }
   ]
 }
