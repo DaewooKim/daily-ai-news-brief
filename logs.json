@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 19:10:44",
+  "last_updated": "2026-04-10 19:10:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 19:10:04",
-      "message": "[PROCESSING] Analyzing: The CIA says it recently used AI to create its first-ever autonomous intelligence report, and plans to build \"AI co-workers\" into all of its analytic platforms (John Sakellariadis/Politico)..."
-    },
     {
       "timestamp": "2026-04-10 19:10:08",
       "message": "[SUCCESS] Processed: CIA\ub294 \ucd5c\uadfc AI\ub97c \uc0ac\uc6a9\ud558\uc5ec \ucd5c\ucd08\uc758 \uc790\uc728 \uc815\ubcf4 \ubcf4\uace0\uc11c\ub97c \uc791\uc131\ud588\ub2e4\uace0 \ubc1c\ud45c\ud558\uba70, \ubaa8\ub4e0 \ubd84\uc11d \ud50c\ub7ab\ud3fc\uc5d0 'AI \ub3d9\ub8cc'\ub97c \uad6c\ucd95\ud560 \uacc4\ud68d\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4.\n  > Summary: CIA\ub294 \ucd5c\uadfc AI\ub97c \ud65c\uc6a9\ud558\uc5ec \ucd5c\ucd08\uc758 \uc790\uc728 \uc815\ubcf4 \ubcf4\uace0\uc11c\ub97c \uc791\uc131\ud588\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \ub610\ud55c, \ubaa8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 19:10:44",
       "message": "[PROCESSING] Analyzing: Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research..."
+    },
+    {
+      "timestamp": "2026-04-10 19:10:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research"
     }
   ]
 }
