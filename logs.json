@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 20:17:15",
+  "last_updated": "2026-04-10 20:17:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 20:16:42",
-      "message": "Reprocessing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach"
-    },
     {
       "timestamp": "2026-04-10 20:16:44",
       "message": "[PROCESSING] Analyzing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 20:17:15",
       "message": "[PROCESSING] Analyzing: Google News is showing Polymarket bets alongside news articles in the \"For you\" section; in tests, Polymarket bets also appeared on the Google News homepage (Frank Landymore/Futurism)..."
+    },
+    {
+      "timestamp": "2026-04-10 20:17:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Google News is showing Polymarket bets alongside news articles in the \"For you\" section; in tests, Polymarket bets also appeared on the Google News homepage (Frank Landymore/Futurism)"
     }
   ]
 }
