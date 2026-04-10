@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 12:09:07",
+  "last_updated": "2026-04-10 12:09:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 12:07:59",
-      "message": "[PROCESSING] Analyzing: Google News is showing Polymarket bets alongside news articles in the \"For you\" section; in tests, Polymarket bets also appeared on the Google News homepage (Frank Landymore/Futurism)..."
-    },
     {
       "timestamp": "2026-04-10 12:08:01",
       "message": "[SKIP] Irrelevant (AI Filter): Google News is showing Polymarket bets alongside news articles in the \"For you\" section; in tests, Polymarket bets also appeared on the Google News homepage (Frank Landymore/Futurism)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 12:09:07",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
+    },
+    {
+      "timestamp": "2026-04-10 12:09:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
     }
   ]
 }
