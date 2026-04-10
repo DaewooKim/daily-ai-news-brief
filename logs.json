@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 15:43:01",
+  "last_updated": "2026-04-10 15:43:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 15:41:51",
-      "message": "Reprocessing: CoreWeave says it has signed a multiyear deal with Anthropic, including a variety of Nvidia chips at data centers in the US; it now has 43 active data centers (Brody Ford/Bloomberg)"
-    },
     {
       "timestamp": "2026-04-10 15:41:53",
       "message": "[PROCESSING] Analyzing: CoreWeave says it has signed a multiyear deal with Anthropic, including a variety of Nvidia chips at data centers in the US; it now has 43 active data centers (Brody Ford/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 15:43:01",
       "message": "[PROCESSING] Analyzing: Transcat Expands into Latin America with Acquisition of SCM Metrology and Laboratories S.A...."
+    },
+    {
+      "timestamp": "2026-04-10 15:43:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Transcat Expands into Latin America with Acquisition of SCM Metrology and Laboratories S.A."
     }
   ]
 }
