@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 06:31:21",
+  "last_updated": "2026-04-10 06:31:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 06:30:38",
-      "message": "[SUCCESS] Processed: Luminai, \uad00\ub9ac \uc758\ub8cc \uc6cc\ud06c\ud50c\ub85c\uc6b0 \uc790\ub3d9\ud654\ub97c \uc704\ud55c AI \uc6d0\uc8fc\uc728 \ud50c\ub7ab\ud3fc, Peak XV\uac00 \uc8fc\ub3c4\ud558\ub294 3,800\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \ud380\ub529\uc744 \uc720\uce58\ud558\uc5ec \ucd1d \uc790\uae08 6\ucc9c\ub9cc \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec\n  > Summary: Luminai\ub294 \uad00\ub9ac \uc758\ub8cc \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \uc790\ub3d9\ud654\ud558\uae30 \uc704\ud55c AI \uae30\ubc18 \ud50c\ub7ab\ud3fc\uc73c\ub85c, \ucd5c\uadfc Pea..."
-    },
     {
       "timestamp": "2026-04-10 06:30:40",
       "message": "[PROCESSING] Analyzing: Apple is closing its Towson, Maryland store, the first US location where retail employees unionized; the union says it is \"outraged\" and exploring legal options (Joe Rossignol/MacRumors)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 06:31:21",
       "message": "[PROCESSING] Analyzing: Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research..."
+    },
+    {
+      "timestamp": "2026-04-10 06:31:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research"
     }
   ]
 }
