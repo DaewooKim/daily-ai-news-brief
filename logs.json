@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 01:01:34",
+  "last_updated": "2026-04-10 01:01:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 01:00:52",
-      "message": "[PROCESSING] Analyzing: So You Want to Export Semiconductors?..."
-    },
     {
       "timestamp": "2026-04-10 01:00:56",
       "message": "[SUCCESS] Processed: \ubc18\ub3c4\uccb4 \uc218\ucd9c\uc744 \uc6d0\ud558\uc2ed\ub2c8\uae4c?\n  > Summary: \uc774 \uae30\uc0ac\ub294 \ubbf8\uad6d\uc758 \ubc18\ub3c4\uccb4 \uc218\ucd9c\uc5d0 \uad00\ud55c \ub0b4\uc6a9\uc744 \ub2e4\ub8f9\ub2c8\ub2e4. 2024\ub144 \ubbf8\uad6d\uc758 \ubc18\ub3c4\uccb4 \uc218\ucd9c \uac00\uce58..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 01:01:34",
       "message": "[SUCCESS] Processed: CEA\uc640 PSMC, RISC-V\uc640 \uc2e4\ub9ac\ucf58 \ud3ec\ud1a0\ub2c9\uc2a4\ub97c 3D \uc2a4\ud0dc\ud0b9\uc5d0 \ud1b5\ud569\ud558\ub2e4\n  > Summary: CEA-Leti\uc640 CEA-List\ub294 Powerchip Semiconductor Manufa..."
+    },
+    {
+      "timestamp": "2026-04-10 01:01:35",
+      "message": "[SKIP] Content too short: RISC-V chip design startup SiF..."
     }
   ]
 }
