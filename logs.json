@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 15:45:21",
+  "last_updated": "2026-04-10 15:45:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 15:44:15",
-      "message": "[PROCESSING] Analyzing: OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus..."
-    },
     {
       "timestamp": "2026-04-10 15:44:21",
       "message": "[SUCCESS] Processed: OpenAI, Codex\uc758 \uc0ac\uc6a9 \ud55c\ub3c4\ub97c 5\ubc30\ub85c \ub298\ub9b0 100\ub2ec\ub7ec ChatGPT Pro \uc694\uae08\uc81c \ub3c4\uc785\n  > Summary: OpenAI\uac00 Codex\uc758 \uc0ac\uc6a9 \ud55c\ub3c4\ub97c \uae30\uc874 Plus \ud50c\ub79c\uc5d0 \ube44\ud574 5\ubc30\ub85c \ub298\ub9b0 100\ub2ec\ub7ec\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 15:45:21",
       "message": "Reprocessing: Florida AG opens probe into ChatGPT alleging connection to FSU shooting"
+    },
+    {
+      "timestamp": "2026-04-10 15:45:23",
+      "message": "[SKIP] Content too short: Florida AG opens probe into Ch..."
     }
   ]
 }
