@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-10 22:33:12",
-  "status": "idle",
+  "last_updated": "2026-04-10 23:33:41",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-10 22:31:57",
-      "message": "Reprocessing: Anthropic and OpenAI target big businesses with enterprise-grade controls and lower pricing"
+      "timestamp": "2026-04-10 23:33:28",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-10 22:31:59",
-      "message": "[SKIP] Content too short: Anthropic and OpenAI target bi..."
+      "timestamp": "2026-04-10 23:33:29",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-10 22:32:00",
-      "message": "Reprocessing: Intel inks multiyear data center chip partnership with Google"
+      "timestamp": "2026-04-10 23:33:29",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-10 22:32:01",
-      "message": "[SKIP] Content too short: Intel inks multiyear data cent..."
+      "timestamp": "2026-04-10 23:33:41",
+      "message": "Found 199 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-10 22:32:03",
-      "message": "Reprocessing: Apiiro launches command-line interface to bring AI-native security into software development workflows"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:04",
-      "message": "[SKIP] Content too short: Apiiro launches command-line i..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:05",
-      "message": "Reprocessing: Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:07",
-      "message": "[SKIP] Content too short: Yobi teams with Microsoft to d..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:08",
-      "message": "Reprocessing: Amazon CEO Andy Jassy highlights AI growth in annual shareholder letter"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:09",
-      "message": "[SKIP] Content too short: Amazon CEO Andy Jassy highligh..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:11",
-      "message": "Reprocessing: Is a backlash brewing? Rapid innovation in AI coding and agents may force push for enterprise order and control"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:12",
-      "message": "[SKIP] Content too short: Is a backlash brewing? Rapid i..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:14",
-      "message": "Reprocessing: \u2018People make people happy\u2019: Why Wynn Resorts wants AI to be invisible to guests and indispensable to staff"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:15",
-      "message": "[SKIP] Content too short: \u2018People make people happy\u2019: Wh..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:16",
-      "message": "Reprocessing: Tether launches open-source on-device AI framework for developers"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:18",
-      "message": "[SKIP] Content too short: Tether launches open-source on..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:19",
-      "message": "Reprocessing: The race to deploy AI agents is exposing a critical gap in enterprise data management"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:20",
-      "message": "[SKIP] Content too short: The race to deploy AI agents i..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:22",
-      "message": "Reprocessing: AWS previews a cloud-agnostic registry for managing agentic fleets at scale"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:23",
-      "message": "[SKIP] Content too short: AWS previews a cloud-agnostic ..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:25",
-      "message": "Reprocessing: As an \u2018explosion of agents\u2019 hits enterprises, Nutanix zeros in on the governance layer"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:26",
-      "message": "[SKIP] Content too short: As an \u2018explosion of agents\u2019 hi..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:27",
-      "message": "Reprocessing: NetApp and Nutanix say storage has become the last line of defense in the AI era"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:28",
-      "message": "[SKIP] Content too short: NetApp and Nutanix say storage..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:30",
-      "message": "Reprocessing: Haast raises $12M to help legal teams make haste with compliant AI-generated content"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:31",
-      "message": "[SKIP] Content too short: Haast raises $12M to help lega..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:33",
-      "message": "Reprocessing: Blaize launches AI Services platform to move enterprise AI from pilot to production"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:34",
-      "message": "[SKIP] Content too short: Blaize launches AI Services pl..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:35",
-      "message": "Reprocessing: Wasabi to acquire Seagate\u2019s Lyve Cloud business"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:36",
-      "message": "[SKIP] Content too short: Wasabi to acquire Seagate\u2019s Ly..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:38",
-      "message": "Reprocessing: Refiant raises $5M to refine AI models with \u2018nature-inspired\u2019 energy efficiency"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:39",
-      "message": "[SKIP] Content too short: Refiant raises $5M to refine A..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:40",
-      "message": "Reprocessing: ServiceNow says it\u2019s \u2018AI-enabling\u2019 its entire product suite to turbocharge enterprise automation"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:42",
-      "message": "[SKIP] Content too short: ServiceNow says it\u2019s \u2018AI-enabl..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:43",
-      "message": "Reprocessing: Zencoder launches AI platform to automate the surrounding work that coding agents don\u2019t handle"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:44",
-      "message": "[SKIP] Content too short: Zencoder launches AI platform ..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:46",
-      "message": "Reprocessing: Appknox launches KnoxIQ to prioritize real-world exploitability in AI-driven application security"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:47",
-      "message": "[SKIP] Content too short: Appknox launches KnoxIQ to pri..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:48",
-      "message": "[PROCESSING] Analyzing: YuanLey YS100-0602T Review a Cheap 8-port 10GbE Switch..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:50",
-      "message": "[SKIP] Irrelevant (AI Filter): YuanLey YS100-0602T Review a Cheap 8-port 10GbE Switch"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:51",
-      "message": "[PROCESSING] Analyzing: Dell Pro Rugged 12 Tablet Review The Resilient Road Warrior..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell Pro Rugged 12 Tablet Review The Resilient Road Warrior"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:54",
-      "message": "[PROCESSING] Analyzing: Evolving Your OpenClaw Strategy and How to Pick Your Servers..."
-    },
-    {
-      "timestamp": "2026-04-10 22:32:57",
-      "message": "[SKIP] Irrelevant (AI Filter): Evolving Your OpenClaw Strategy and How to Pick Your Servers"
-    },
-    {
-      "timestamp": "2026-04-10 22:32:59",
-      "message": "Reprocessing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth"
-    },
-    {
-      "timestamp": "2026-04-10 22:33:00",
-      "message": "[PROCESSING] Analyzing: MSI XpertStation WS300 NVIDIA GB300 Station and More at the MSI NVIDIA GTC 2026 Booth..."
-    },
-    {
-      "timestamp": "2026-04-10 22:33:04",
-      "message": "[SUCCESS] Processed: MSI XpertStation WS300 NVIDIA GB300 \uc2a4\ud14c\uc774\uc158 \ubc0f \ub354 \ub9ce\uc740 \uc81c\ud488\uc774 MSI NVIDIA GTC 2026 \ubd80\uc2a4\uc5d0 \uc804\uc2dc\ub428\n  > Summary: NVIDIA GTCX 2026\uc5d0\uc11c MSI\ub294 \ub370\uc2a4\ud06c\ud0d1 EdgeXpert\uc640 XpertStati..."
-    },
-    {
-      "timestamp": "2026-04-10 22:33:05",
-      "message": "Completed! New: 5, Updated: 55"
-    },
-    {
-      "timestamp": "2026-04-10 22:33:08",
-      "message": "Saved 60 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-10 22:33:11",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-10 23:33:41",
+      "message": "[PROCESSING] Analyzing: Now the FAA says gamers are the answer to its air traffic controller shortage..."
     }
   ]
 }
