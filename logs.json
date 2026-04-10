@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 19:09:59",
+  "last_updated": "2026-04-10 19:10:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 19:09:24",
-      "message": "Reprocessing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach"
-    },
     {
       "timestamp": "2026-04-10 19:09:26",
       "message": "[PROCESSING] Analyzing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 19:09:59",
       "message": "[PROCESSING] Analyzing: Apple led global Q1 smartphone shipments for the first time, with a 21% share in Q1 2026; overall smartphone shipments fell 6% YoY due to memory chip shortages (Counterpoint Research)..."
+    },
+    {
+      "timestamp": "2026-04-10 19:10:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple led global Q1 smartphone shipments for the first time, with a 21% share in Q1 2026; overall smartphone shipments fell 6% YoY due to memory chip shortages (Counterpoint Research)"
     }
   ]
 }
