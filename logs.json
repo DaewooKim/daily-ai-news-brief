@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 22:30:23",
+  "last_updated": "2026-04-10 22:30:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 22:29:43",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-10 22:29:45",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 22:30:23",
       "message": "[PROCESSING] Analyzing: France says it plans to move government computers running Windows to Linux, to further reduce its reliance on US technology, without providing a timeline (Zack Whittaker/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-04-10 22:30:25",
+      "message": "[SKIP] Irrelevant (AI Filter): France says it plans to move government computers running Windows to Linux, to further reduce its reliance on US technology, without providing a timeline (Zack Whittaker/TechCrunch)"
     }
   ]
 }
