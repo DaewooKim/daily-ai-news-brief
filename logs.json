@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-10 10:58:49",
+  "last_updated": "2026-04-10 10:58:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-10 10:57:35",
-      "message": "Reprocessing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach"
-    },
     {
       "timestamp": "2026-04-10 10:57:37",
       "message": "[PROCESSING] Analyzing: IBM, Arm Target Enterprise AI With Mixed-Architecture Approach..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-10 10:58:49",
       "message": "[PROCESSING] Analyzing: Apple is closing its Towson, Maryland store, the first US location where retail employees unionized; the union says it is \"outraged\" and exploring legal options (Joe Rossignol/MacRumors)..."
+    },
+    {
+      "timestamp": "2026-04-10 10:58:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple is closing its Towson, Maryland store, the first US location where retail employees unionized; the union says it is \"outraged\" and exploring legal options (Joe Rossignol/MacRumors)"
     }
   ]
 }
