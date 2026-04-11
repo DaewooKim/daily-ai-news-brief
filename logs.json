@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-11 01:48:56",
+  "last_updated": "2026-04-11 01:48:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-11 01:48:09",
-      "message": "[SUCCESS] Processed: AWS CEO\uac00 Anthropic\uacfc OpenAI\uc5d0 \uc218\uc2ed\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud558\ub294 \uc774\uc720\ub97c \uc124\uba85\ud558\ub2e4\n  > Summary: AWS\uc758 CEO\ub294 \uacbd\uc7c1\uacfc \uacbd\uc7c1 \ud30c\ud2b8\ub108\uc5d0 \ub300\ud55c AWS\uc758 \ubb38\ud654\uc5d0 \ub300\ud574 \uc124\uba85\ud588\uc2b5\ub2c8\ub2e4. \uadf8\ub294 AW..."
-    },
     {
       "timestamp": "2026-04-11 01:48:11",
       "message": "[PROCESSING] Analyzing: PQC Timelines Provide Direction, but Not Action..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-11 01:48:56",
       "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
+    },
+    {
+      "timestamp": "2026-04-11 01:48:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
     }
   ]
 }
