@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-11 00:41:44",
+  "last_updated": "2026-04-11 00:41:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-11 00:41:10",
-      "message": "[SUCCESS] Processed: ChatGPT\ub85c \uc5f0\uad6c\ud558\uae30\n  > Summary: ChatGPT\ub97c \ud65c\uc6a9\ud558\uc5ec \uc815\ubcf4\ub97c \uac80\uc0c9\ud558\uace0 \uae4a\uc774 \uc788\ub294 \uc5f0\uad6c\ub97c \uc218\ud589\ud558\ub294 \ubc29\ubc95\uc744 \ubc30\uc6b0\uc138\uc694. \ucd5c\uc2e0..."
-    },
     {
       "timestamp": "2026-04-11 00:41:11",
       "message": "Reprocessing: Applications of AI at OpenAI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-11 00:41:44",
       "message": "[PROCESSING] Analyzing: Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter..."
+    },
+    {
+      "timestamp": "2026-04-11 00:41:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter"
     }
   ]
 }
