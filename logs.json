@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-11 04:01:50",
+  "last_updated": "2026-04-11 04:01:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-11 04:01:19",
-      "message": "[PROCESSING] Analyzing: OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus..."
-    },
     {
       "timestamp": "2026-04-11 04:01:23",
       "message": "[SUCCESS] Processed: OpenAI, ChatGPT Pro\ub97c 100\ub2ec\ub7ec\ub85c \ucd9c\uc2dc\ud558\uba70 Codex \uc0ac\uc6a9 \ud55c\ub3c4 5\ubc30 \uc99d\uac00\n  > Summary: OpenAI\ub294 Codex \uc0ac\uc6a9 \ud55c\ub3c4\ub97c \uae30\uc874\uc758 Plus \ud50c\ub79c\ubcf4\ub2e4 5\ubc30 \ub298\ub9b0 100\ub2ec\ub7ec\uc9dc\ub9ac C..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-11 04:01:50",
       "message": "Reprocessing: Service providers are seeing a once-in-a-decade opportunity in cloud rebalancing"
+    },
+    {
+      "timestamp": "2026-04-11 04:01:51",
+      "message": "[SKIP] Content too short: Service providers are seeing a..."
     }
   ]
 }
