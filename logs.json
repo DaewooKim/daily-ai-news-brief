@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-11 00:40:38",
+  "last_updated": "2026-04-11 00:40:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-11 00:40:05",
-      "message": "Found 199 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-11 00:40:05",
       "message": "[PROCESSING] Analyzing: Now the FAA says gamers are the answer to its air traffic controller shortage..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-11 00:40:38",
       "message": "[PROCESSING] Analyzing: Bose\u2019s rugged Soundlink Flex Bluetooth speaker is on sale for up to $50 off..."
+    },
+    {
+      "timestamp": "2026-04-11 00:40:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Bose\u2019s rugged Soundlink Flex Bluetooth speaker is on sale for up to $50 off"
     }
   ]
 }
