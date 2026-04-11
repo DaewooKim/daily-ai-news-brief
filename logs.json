@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-11 01:49:28",
+  "last_updated": "2026-04-11 01:49:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-11 01:48:56",
-      "message": "[PROCESSING] Analyzing: Threat Group Breaches AWS, Azure With Stolen Credentials..."
-    },
     {
       "timestamp": "2026-04-11 01:48:58",
       "message": "[SKIP] Irrelevant (AI Filter): Threat Group Breaches AWS, Azure With Stolen Credentials"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-11 01:49:28",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
+    },
+    {
+      "timestamp": "2026-04-11 01:49:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
     }
   ]
 }
