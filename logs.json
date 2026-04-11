@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-11 02:55:13",
+  "last_updated": "2026-04-11 02:55:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-11 02:54:39",
-      "message": "[PROCESSING] Analyzing: Sources: three senior executives who helped launch OpenAI's Stargate initiative are leaving the company and joining Meta (Bloomberg)..."
-    },
     {
       "timestamp": "2026-04-11 02:54:43",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI\uc758 \uc2a4\ud0c0\uac8c\uc774\ud2b8 \uc774\ub2c8\uc154\ud2f0\ube0c\ub97c \uc2dc\uc791\ud558\ub294 \ub370 \ub3c4\uc6c0\uc744 \uc900 \uace0\uc704 \uacbd\uc601\uc9c4 3\uba85\uc774 \ud68c\uc0ac\ub97c \ub5a0\ub098 \uba54\ud0c0\ub85c \ud569\ub958\ud558\uace0 \uc788\ub2e4\ub294 \ubcf4\ub3c4(Bloomberg)\n  > Summary: OpenAI\uc758 \uc2a4\ud0c0\uac8c\uc774\ud2b8 \uc774\ub2c8\uc154\ud2f0\ube0c\ub97c \uc774\ub04c\uc5c8\ub358 \uc138 \uba85\uc758 \uace0\uc704 \uacbd\uc601\uc9c4\uc774 \ud68c\uc0ac\ub97c \ub5a0\ub098 \uba54\ud0c0 \ud50c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-11 02:55:13",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
+    },
+    {
+      "timestamp": "2026-04-11 02:55:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
     }
   ]
 }
