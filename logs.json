@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-12 13:25:00",
+  "last_updated": "2026-04-12 13:25:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-12 13:24:20",
-      "message": "[SUCCESS] Processed: AI\uac00 \uc0dd\uc131\ud55c \uc628\ub77c\uc778 \uc778\ud50c\ub8e8\uc5b8\uc11c\uc5d0 \ub300\ud55c NYT \uae30\uc790 Tiffany Hsu\uc640\uc758 Q&A\n  > Summary: \uc774\ubc88 \uc8fc \uac24\ub7ed\uc2dc \ube0c\ub808\uc778 \uc5d0\ud53c\uc18c\ub4dc\uc5d0\uc11c Charlie Warzel\uac00 NYT \uae30\uc790 Tiffany..."
-    },
     {
       "timestamp": "2026-04-12 13:24:21",
       "message": "[PROCESSING] Analyzing: Survey of 6,698 people across six EU countries: around 84% said they don't trust US tech companies with their personal data; 93% don't trust Chinese companies (Ellen O'Regan/Politico)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-12 13:25:00",
       "message": "[PROCESSING] Analyzing: Impact of Surface States And Band Modulations in Ruthenium Interconnects (Incheon, Hanyang, UT Dallas)..."
+    },
+    {
+      "timestamp": "2026-04-12 13:25:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Impact of Surface States And Band Modulations in Ruthenium Interconnects (Incheon, Hanyang, UT Dallas)"
     }
   ]
 }
