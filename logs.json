@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-12 12:18:24",
+  "last_updated": "2026-04-12 12:18:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-12 12:17:43",
-      "message": "[SUCCESS] Processed: \uad6c\uae00\uc758 TurboQuant \uc555\ucd95 \uc54c\uace0\ub9ac\uc998, LLM \ud6a8\uc728\uc131 \ud5a5\uc0c1\uc73c\ub85c \uba54\ubaa8\ub9ac \uce69 \uc218\uc694 \uc99d\uac00 \uc608\uc0c1\n  > Summary: \ubd84\uc11d\uac00\uc640 \uc5f0\uad6c\uc790\ub4e4\uc740 \uad6c\uae00\uc758 TurboQuant \uc555\ucd95 \uc54c\uace0\ub9ac\uc998\uc774 LLM\uc744 \ub354 \ud6a8\uc728\uc801\uc73c\ub85c \ub9cc\ub4e4..."
-    },
     {
       "timestamp": "2026-04-12 12:17:44",
       "message": "[PROCESSING] Analyzing: Takeaways from HumanX, one of the AI industry's main events: Claude Code dominated the conversation, while some execs noted China's lead in open-weight models (Ashley Capoot/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-12 12:18:24",
       "message": "[PROCESSING] Analyzing: Court filing: OpenAI says Elon Musk's recent amendments to his OpenAI lawsuit are a \"legal ambush\", calling them \"legally improper and factually unsupported\" (Robert Burnson/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-04-12 12:18:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Court filing: OpenAI says Elon Musk's recent amendments to his OpenAI lawsuit are a \"legal ambush\", calling them \"legally improper and factually unsupported\" (Robert Burnson/Bloomberg)"
     }
   ]
 }
