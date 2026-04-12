@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-12 12:15:33",
+  "last_updated": "2026-04-12 12:15:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-12 12:14:54",
-      "message": "Found 186 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-12 12:14:54",
       "message": "[PROCESSING] Analyzing: The AI code wars are heating up..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-12 12:15:33",
       "message": "[PROCESSING] Analyzing: Demons and pinball are a perfect match..."
+    },
+    {
+      "timestamp": "2026-04-12 12:15:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Demons and pinball are a perfect match"
     }
   ]
 }
