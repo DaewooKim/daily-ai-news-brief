@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-12 13:25:25",
+  "last_updated": "2026-04-12 13:25:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-12 13:24:42",
-      "message": "Reprocessing: Ramp data: 30.6% of US businesses paid for Anthropic's tools in March, up from 24.4% in February; OpenAI's US business adoption remained nearly flat MoM at ~35% (Clara Murray/Financial Times)"
-    },
     {
       "timestamp": "2026-04-12 13:24:44",
       "message": "[PROCESSING] Analyzing: Ramp data: 30.6% of US businesses paid for Anthropic's tools in March, up from 24.4% in February; OpenAI's US business adoption remained nearly flat MoM at ~35% (Clara Murray/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-12 13:25:25",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
+    },
+    {
+      "timestamp": "2026-04-12 13:25:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
     }
   ]
 }
