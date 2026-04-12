@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-12 13:24:57",
+  "last_updated": "2026-04-12 13:24:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-12 13:24:14",
-      "message": "Reprocessing: Q&A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more (Charlie Warzel/The Atlantic)"
-    },
     {
       "timestamp": "2026-04-12 13:24:15",
       "message": "[PROCESSING] Analyzing: Q&A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more (Charlie Warzel/The Atlantic)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-12 13:24:57",
       "message": "[PROCESSING] Analyzing: Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)..."
+    },
+    {
+      "timestamp": "2026-04-12 13:24:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)"
     }
   ]
 }
