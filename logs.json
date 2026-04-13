@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-13 16:43:36",
+  "last_updated": "2026-04-13 16:43:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-13 16:42:55",
-      "message": "Found 173 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-13 16:42:55",
       "message": "[PROCESSING] Analyzing: Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-13 16:43:36",
       "message": "Reprocessing: CoreWeave Takes As Much Financial Engineering As It Does Datacenter Design"
+    },
+    {
+      "timestamp": "2026-04-13 16:43:37",
+      "message": "[SKIP] Content too short: CoreWeave Takes As Much Financ..."
     }
   ]
 }
