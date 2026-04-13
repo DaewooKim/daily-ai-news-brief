@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-13 21:09:02",
+  "last_updated": "2026-04-13 21:09:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-13 21:08:30",
-      "message": "Reprocessing: Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic"
-    },
     {
       "timestamp": "2026-04-13 21:08:31",
       "message": "[PROCESSING] Analyzing: Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-13 21:09:02",
       "message": "[PROCESSING] Analyzing: OpenAI Full Fan Mode Contest: Terms & Conditions..."
+    },
+    {
+      "timestamp": "2026-04-13 21:09:03",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI Full Fan Mode Contest: Terms & Conditions"
     }
   ]
 }
