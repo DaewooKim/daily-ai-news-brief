@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-13 23:23:03",
+  "last_updated": "2026-04-13 23:23:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-13 23:22:34",
-      "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
-    },
     {
       "timestamp": "2026-04-13 23:22:35",
       "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-13 23:23:03",
       "message": "Reprocessing: Report: Cisco could acquire AI agent security startup Astrix Security for $250M+"
+    },
+    {
+      "timestamp": "2026-04-13 23:23:04",
+      "message": "[SKIP] Content too short: Report: Cisco could acquire AI..."
     }
   ]
 }
