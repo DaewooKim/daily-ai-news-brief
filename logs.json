@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-13 23:22:02",
+  "last_updated": "2026-04-13 23:22:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-13 23:21:29",
-      "message": "[PROCESSING] Analyzing: AI penetration testing company CodeWall says its agent was able to hack into one of Bain's internal AI tools, following a similar hack at McKinsey (Ellesheva Kissin/Financial Times)..."
-    },
     {
       "timestamp": "2026-04-13 23:21:32",
       "message": "[SUCCESS] Processed: AI \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud68c\uc0ac CodeWall, \ubca0\uc778\uc758 \ub0b4\ubd80 AI \ub3c4\uad6c \ud574\ud0b9 \uc131\uacf5\n  > Summary: AI \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud68c\uc0ac CodeWall\uc740 \uc790\uc2e0\uc758 \uc5d0\uc774\uc804\ud2b8\uac00 \ubca0\uc778\uc758 \ub0b4\ubd80 AI \ub3c4\uad6c\uc5d0 \ud574\ud0b9\ud560..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-13 23:22:02",
       "message": "[PROCESSING] Analyzing: The EU appoints Anthony Whelan as its top competition official; Whelan says he will press ahead with Big Tech investigations despite President Trump's pressure (Barbara Moens/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-04-13 23:22:04",
+      "message": "[SKIP] Irrelevant (AI Filter): The EU appoints Anthony Whelan as its top competition official; Whelan says he will press ahead with Big Tech investigations despite President Trump's pressure (Barbara Moens/Financial Times)"
     }
   ]
 }
