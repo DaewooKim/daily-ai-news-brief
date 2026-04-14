@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 01:33:09",
+  "last_updated": "2026-04-14 01:33:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 01:32:34",
-      "message": "[PROCESSING] Analyzing: AI penetration testing company CodeWall says its agent was able to hack into one of Bain's internal AI tools, following a similar hack at McKinsey in March (Ellesheva Kissin/Financial Times)..."
-    },
     {
       "timestamp": "2026-04-14 01:32:38",
       "message": "[SUCCESS] Processed: AI \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud68c\uc0ac CodeWall\uc740 \uc5d0\uc774\uc804\ud2b8\uac00 Bain\uc758 \ub0b4\ubd80 AI \ub3c4\uad6c \uc911 \ud558\ub098\uc5d0 \ud574\ud0b9\ud560 \uc218 \uc788\uc5c8\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4.\n  > Summary: AI \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud68c\uc0ac\uc778 CodeWall\uc740 \uc790\uc0ac\uc758 \uc5d0\uc774\uc804\ud2b8\uac00 Bain\uc758 \ub0b4\ubd80 AI \ub3c4\uad6c\uc5d0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 01:33:09",
       "message": "[PROCESSING] Analyzing: EDA And IP Numbers Up Again, But Numbers Are More Nuanced..."
+    },
+    {
+      "timestamp": "2026-04-14 01:33:11",
+      "message": "[SKIP] Irrelevant (AI Filter): EDA And IP Numbers Up Again, But Numbers Are More Nuanced"
     }
   ]
 }
