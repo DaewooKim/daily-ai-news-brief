@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 03:44:06",
+  "last_updated": "2026-04-14 03:44:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 03:43:31",
-      "message": "[SUCCESS] Processed: AMD: \uba54\ubaa8\ub9ac, \ucef4\ud4e8\ud305\uc774 \uc544\ub2cc AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ub2e4\uc74c \ubcd1\ubaa9\uc774\ub2e4\n  > Summary: AMD\ub294 AI \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc131\uacfc \uc131\ub2a5\uc744 \ucd5c\uc801\ud654\ud558\uae30 \uc704\ud574 LPDDR5X\uc640 \uac19\uc740..."
-    },
     {
       "timestamp": "2026-04-14 03:43:32",
       "message": "[PROCESSING] Analyzing: Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations (Politico)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 03:44:06",
       "message": "[PROCESSING] Analyzing: Filing: Anthropic hired Ballard Partners, a lobbying firm with strong Trump administration ties, days after the DOD designated the startup a supply chain risk (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-04-14 03:44:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Filing: Anthropic hired Ballard Partners, a lobbying firm with strong Trump administration ties, days after the DOD designated the startup a supply chain risk (Bloomberg)"
     }
   ]
 }
