@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 02:37:29",
+  "last_updated": "2026-04-14 02:37:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 02:36:50",
-      "message": "Reprocessing: OpenAI has bought AI personal finance startup Hiro"
-    },
     {
       "timestamp": "2026-04-14 02:36:51",
       "message": "[PROCESSING] Analyzing: OpenAI has bought AI personal finance startup Hiro..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 02:37:29",
       "message": "[PROCESSING] Analyzing: Three Misconceptions About the $402B Semiconductor Foundry Industry..."
+    },
+    {
+      "timestamp": "2026-04-14 02:37:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Three Misconceptions About the $402B Semiconductor Foundry Industry"
     }
   ]
 }
