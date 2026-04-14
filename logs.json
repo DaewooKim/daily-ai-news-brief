@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 04:48:51",
+  "last_updated": "2026-04-14 04:48:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 04:48:17",
-      "message": "[SUCCESS] Processed: ChatGPT\uac00 \ub9c8\uce68\ub0b4 \uc6d4 $100 \ud504\ub85c \uc694\uae08\uc81c\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 \uc218\uc694\uc77c\uc5d0 \ud30c\uc6cc \uc720\uc800\ub4e4\uc774 \uae30\ub2e4\ub824\uc628 \uc6d4 $100 \uc694\uae08\uc81c\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774\uc804\uc5d0\ub294..."
-    },
     {
       "timestamp": "2026-04-14 04:48:19",
       "message": "[PROCESSING] Analyzing: After data breach, $10B-valued startup Mercor is having a month..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 04:48:51",
       "message": "[PROCESSING] Analyzing: OpenAI acquires personal finance startup Hiro Finance for an undisclosed sum; Hiro stops new signups, will shut down on April 20 and delete all data on May 13 (Julie Bort/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-04-14 04:48:53",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI acquires personal finance startup Hiro Finance for an undisclosed sum; Hiro stops new signups, will shut down on April 20 and delete all data on May 13 (Julie Bort/TechCrunch)"
     }
   ]
 }
