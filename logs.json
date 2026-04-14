@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 02:39:21",
+  "last_updated": "2026-04-14 02:39:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 02:38:41",
-      "message": "Reprocessing: Cybersecurity analysis: Claude Mythos Preview had a 73% success rate on expert-level capture-the-flag challenges, which no model could finish before April 2025 (AI Security Institute)"
-    },
     {
       "timestamp": "2026-04-14 02:38:42",
       "message": "[PROCESSING] Analyzing: Cybersecurity analysis: Claude Mythos Preview had a 73% success rate on expert-level capture-the-flag challenges, which no model could finish before April 2025 (AI Security Institute)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 02:39:21",
       "message": "[PROCESSING] Analyzing: Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam..."
+    },
+    {
+      "timestamp": "2026-04-14 02:39:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam"
     }
   ]
 }
