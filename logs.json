@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 05:55:12",
+  "last_updated": "2026-04-14 05:55:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 05:54:40",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: \ub370\uc774\ud130 \ub77c\ubca8\ub9c1 \uc2a4\ud0c0\ud2b8\uc5c5 \ud578\ub4dc\uc250\uc774\ud06c\uc758 \uc5f0\uac04 \ucd1d \uc218\uc775\uc774 \uc57d 10\uc5b5 \ub2ec\ub7ec\ub97c \uae30\ub85d\ud588\uc73c\uba70, 1\uc6d4\uc5d0\ub294 5\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec\uc600\ub2e4; \uba38\ucee4\ub294 \uc62c\ud574 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \ucd1d \uc5f0\uac04 \uc218\uc775 \uc18d\ub3c4\ub97c \uae30\ub85d\ud588\ub2e4 (\ub354 \uc778\ud3ec\uba54\uc774\uc158)\n  > Summary: AI \uae30\uc5c5\ub4e4\uc758 \ub370\uc774\ud130\uc5d0 \ub300\ud55c \uae09\uc99d\ud558\ub294 \uc218\uc694\uac00 \ub35c \uc54c\ub824\uc9c4 \uc2a4\ud0c0\ud2b8\uc5c5\ub4e4\uc758 \ud310\ub9e4\ub97c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc788\ub2e4..."
-    },
     {
       "timestamp": "2026-04-14 05:54:41",
       "message": "Reprocessing: AI penetration testing company CodeWall says its agent was able to hack into one of Bain's internal AI tools, following a similar hack at McKinsey in March (Ellesheva Kissin/Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 05:55:12",
       "message": "[PROCESSING] Analyzing: EDA And IP Numbers Up Again, But Numbers Are More Nuanced..."
+    },
+    {
+      "timestamp": "2026-04-14 05:55:14",
+      "message": "[SKIP] Irrelevant (AI Filter): EDA And IP Numbers Up Again, But Numbers Are More Nuanced"
     }
   ]
 }
