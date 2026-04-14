@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-14 03:43:14",
+  "last_updated": "2026-04-14 03:43:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-14 03:42:39",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 AI \uac1c\uc778 \uae08\uc735 \uc2a4\ud0c0\ud2b8\uc5c5 \ud788\ub85c\ub97c \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4\n  > Summary: \uc774 \uc778\uc218\ub294 OpenAI\uac00 ChatGPT\uc5d0 \ud1b5\ud569\ud558\uace0 \uc788\ub294 \uae30\ub2a5\uc778 \uc7ac\ubb34 \uacc4\ud68d\uc744 \ub098\ud0c0\ub0c5\ub2c8\ub2e4. O..."
-    },
     {
       "timestamp": "2026-04-14 03:42:40",
       "message": "[PROCESSING] Analyzing: Apple reportedly testing four designs for upcoming smart glasses..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-14 03:43:14",
       "message": "[PROCESSING] Analyzing: PQC Timelines Provide Direction, but Not Action..."
+    },
+    {
+      "timestamp": "2026-04-14 03:43:16",
+      "message": "[SKIP] Irrelevant (AI Filter): PQC Timelines Provide Direction, but Not Action"
     }
   ]
 }
