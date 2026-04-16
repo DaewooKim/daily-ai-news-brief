@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 23:28:40",
+  "last_updated": "2026-04-16 23:28:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 23:27:58",
-      "message": "[SUCCESS] Processed: AI \uc5f0\uad6c\uc18c\ub4e4\uc774 \uac15\ud654 \ud559\uc2b5 \uccb4\ud5d8\uad00\uc744 \ub9cc\ub4e4\uae30 \uc704\ud574 \ubd88\uc6b0\ud55c \uc2a4\ud0c0\ud2b8\uc5c5\uc758 \uc2ac\ub799, \uc9c0\ub77c \ubc0f \uc774\uba54\uc77c \uc544\uce74\uc774\ube0c\ub97c \uad6c\ub9e4\ud558\uace0 \uc788\ub2e4\n  > Summary: AI \uc5f0\uad6c\uc18c\ub4e4\uc774 \ubd88\uc6b0\ud55c \uc2a4\ud0c0\ud2b8\uc5c5\uc5d0\uc11c \uc2ac\ub799 \uc544\uce74\uc774\ube0c, \uc9c0\ub77c \ud2f0\ucf13, \uc774\uba54\uc77c \uc2a4\ub808\ub4dc\ub97c \uad6c\ub9e4\ud558\uc5ec ..."
-    },
     {
       "timestamp": "2026-04-16 23:27:59",
       "message": "Reprocessing: OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more (David Gewirtz/ZDNET)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 23:28:40",
       "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.5 Billion in Revenue in Q4 2025..."
+    },
+    {
+      "timestamp": "2026-04-16 23:28:42",
+      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.5 Billion in Revenue in Q4 2025"
     }
   ]
 }
