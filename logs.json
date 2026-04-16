@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-16 01:25:26",
-  "status": "idle",
+  "last_updated": "2026-04-16 02:25:58",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-16 01:24:02",
-      "message": "[SUCCESS] Processed: \ub77c\uc774\ud2b8\ub7f0 \ubcf4\uace0\uc11c, AI \uc0dd\uc131 \ucf54\ub4dc\uc758 \uc2e0\ub8b0\uc131 \ubb38\uc81c\ub97c \ubc1d\ud600\ub0b4\ub2e4\n  > Summary: \ub77c\uc774\ud2b8\ub7f0\uc774 \ubc1c\ud45c\ud55c 2026\ub144 AI \uae30\ubc18 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, AI \uc9c0\uc6d0 \uac1c\ubc1c \ub3c4\uad6c\ub4e4..."
+      "timestamp": "2026-04-16 02:25:43",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-16 01:24:03",
-      "message": "[PROCESSING] Analyzing: Join Us for the ESD Tech Forum Virtual Event in April..."
+      "timestamp": "2026-04-16 02:25:44",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-16 01:24:08",
-      "message": "[SUCCESS] Processed: 4\uc6d4 ESD \uae30\uc220 \ud3ec\ub7fc \uac00\uc0c1 \ud589\uc0ac\uc5d0 \ucc38\uc5ec\ud558\uc138\uc694\n  > Summary: Embedded.com\uc774 4\uc6d4 28-29\uc77c\uc5d0 \uc5f0\ub840 ESD \uae30\uc220 \ud3ec\ub7fc \uac00\uc0c1 \ud589\uc0ac\ub97c \uac1c\ucd5c\ud569\ub2c8\ub2e4..."
+      "timestamp": "2026-04-16 02:25:44",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-16 01:24:09",
-      "message": "[PROCESSING] Analyzing: Microchip Expands DSC Line for AI and Motor Control..."
+      "timestamp": "2026-04-16 02:25:58",
+      "message": "Found 153 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-16 01:24:14",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uce69, AI \ubc0f \ubaa8\ud130 \uc81c\uc5b4\ub97c \uc704\ud55c DSC \ub77c\uc778 \ud655\uc7a5\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uce69 \ud14c\ud06c\ub180\ub85c\uc9c0\uc0ac\uac00 dsPIC33A \ub514\uc9c0\ud138 \uc2e0\ud638 \ucee8\ud2b8\ub864\ub7ec \ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c dsPIC33A..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:15",
-      "message": "[SKIP] Content too short: Hilbert nabs $28M to ease anal..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:17",
-      "message": "[SKIP] Content too short: Qlik debuts new agentic capabi..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:18",
-      "message": "[SKIP] Content too short: Google\u2019s Gemini 3.1 Flash TTS ..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:20",
-      "message": "[SKIP] Content too short: Parasail raises $32M for its p..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:21",
-      "message": "[SKIP] Content too short: Distributed AI is putting real..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:22",
-      "message": "[SKIP] Content too short: The \u2018Goldilocks zone\u2019: How the..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:24",
-      "message": "[SKIP] Content too short: The dashboard is dead, but wha..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:25",
-      "message": "[SKIP] Content too short: Artemis reels in $70M to make ..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:26",
-      "message": "[SKIP] Content too short: What to expect during Google C..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:28",
-      "message": "[SKIP] Content too short: Bad data, not bad AI, is what\u2019..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:29",
-      "message": "[SKIP] Content too short: Agentic workflows are making d..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:30",
-      "message": "[SKIP] Content too short: Oracle says the agentic AI bot..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:31",
-      "message": "[SKIP] Content too short: \u2018You better have a lot of trus..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:33",
-      "message": "[SKIP] Content too short: Hybrid quantum-classical compu..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:34",
-      "message": "[SKIP] Content too short: How the Leibniz Supercomputing..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:36",
-      "message": "[SKIP] Content too short: Australian researchers blaze a..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:37",
-      "message": "[SKIP] Content too short: Quantum-HPC integration enters..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:38",
-      "message": "[SKIP] Content too short: DeepMind\u00a0launches Gemini Robot..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:40",
-      "message": "[SKIP] Content too short: GrowthLoop targets real-time, ..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:41",
-      "message": "[SKIP] Content too short: Stendr snags $5.4M in pre-seed..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:42",
-      "message": "[SKIP] Content too short: Salesforce bets on conversatio..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:44",
-      "message": "[SKIP] Content too short: Emergent launches Wingman: a p..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:45",
-      "message": "[SKIP] Content too short: Axonius targets remediation ga..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:46",
-      "message": "[SKIP] Content too short: Capsule Security launches with..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:48",
-      "message": "[SKIP] Content too short: Leapwork hands off code valida..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:49",
-      "message": "[SKIP] Content too short: SolarWinds accelerates observa..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:50",
-      "message": "[SKIP] Content too short: Microsoft\u2019s MAI-Image-2-Effici..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:52",
-      "message": "[SKIP] Content too short: Google adds reusable prompts t..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:53",
-      "message": "[SKIP] Content too short: Anthropic\u2019s Claude Code gets a..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:54",
-      "message": "[SKIP] Content too short: Meta doubles down on partnersh..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:56",
-      "message": "[PROCESSING] Analyzing: Lenovo ThinkPad P14s Gen 6 (Intel) Review..."
-    },
-    {
-      "timestamp": "2026-04-16 01:24:58",
-      "message": "[SKIP] Irrelevant (AI Filter): Lenovo ThinkPad P14s Gen 6 (Intel) Review"
-    },
-    {
-      "timestamp": "2026-04-16 01:24:59",
-      "message": "[PROCESSING] Analyzing: MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM Review The All-in-One PoE Switch Router with WiFi 6..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:01",
-      "message": "[SKIP] Irrelevant (AI Filter): MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM Review The All-in-One PoE Switch Router with WiFi 6"
-    },
-    {
-      "timestamp": "2026-04-16 01:25:02",
-      "message": "[PROCESSING] Analyzing: Arzopa Z3FC 16.1in 180Hz 2.5K Portable Monitor..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:04",
-      "message": "[SKIP] Irrelevant (AI Filter): Arzopa Z3FC 16.1in 180Hz 2.5K Portable Monitor"
-    },
-    {
-      "timestamp": "2026-04-16 01:25:06",
-      "message": "[PROCESSING] Analyzing: Two neat features in the Gigabyte W775-V10-L1 we saw..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:07",
-      "message": "[SKIP] Irrelevant (AI Filter): Two neat features in the Gigabyte W775-V10-L1 we saw"
-    },
-    {
-      "timestamp": "2026-04-16 01:25:09",
-      "message": "[PROCESSING] Analyzing: Build a personal organization command center with GitHub Copilot CLI..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:12",
-      "message": "[SUCCESS] Processed: GitHub Copilot CLI\ub85c \uac1c\uc778 \uc870\uc9c1 \uba85\ub839 \uc13c\ud130 \uad6c\ucd95\ud558\uae30\n  > Summary: \ube0c\ub9ac\ud0c0\ub2c8 \uc5d8\ub9ac\uce58\ub77c\ub294 \uc9c1\uc6d0 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc5d4\uc9c0\ub2c8\uc5b4\uac00 \uc5ec\ub7ec \uc571\uc5d0\uc11c\uc758 \ucee8\ud14d\uc2a4\ud2b8 \uc804\ud658 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:14",
-      "message": "[PROCESSING] Analyzing: Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:18",
-      "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8\ub97c \ud574\ud0b9\ud558\ub77c: GitHub \ubcf4\uc548 \ucf54\ub4dc \uac8c\uc784\uc73c\ub85c \uc5d0\uc774\uc804\ud2f1 AI \ubcf4\uc548 \uae30\uc220 \uad6c\ucd95\ud558\uae30\n  > Summary: OpenClaw\ub77c\ub294 \uc624\ud508 \uc18c\uc2a4 \uac1c\uc778 AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8\uac00 \uc18c\uac1c\ub418\uba70, AI \uc5d0\uc774\uc804\ud2b8\uc758 \ubcf4\uc548 \ubb38\uc81c..."
-    },
-    {
-      "timestamp": "2026-04-16 01:25:19",
-      "message": "Completed! New: 97, Updated: 5"
-    },
-    {
-      "timestamp": "2026-04-16 01:25:22",
-      "message": "Saved 102 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-16 01:25:25",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-16 02:25:58",
+      "message": "[PROCESSING] Analyzing: YouTube now lets you turn off Shorts..."
     }
   ]
 }
