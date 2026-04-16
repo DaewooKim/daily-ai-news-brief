@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 10:13:31",
+  "last_updated": "2026-04-16 10:13:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 10:12:50",
-      "message": "[SUCCESS] Processed: TIA, AI \ub370\uc774\ud130 \uc13c\ud130 \ud45c\uc900\uc744 \ud1b5\ud574 \ud1b5\uc2e0 \uc0b0\uc5c5\uc744 \ub118\uc5b4\uc120\ub2e4\n  > Summary: TIA\ub294 AI \uc778\ud504\ub77c\ub97c \uc704\ud55c ANSI/TIA-942\uc758 \ucd94\uac00 \ud56d\ubaa9\uacfc \uacf5\uae09\ub9dd\uc744 \uc704\ud55c DCE 9..."
-    },
     {
       "timestamp": "2026-04-16 10:12:52",
       "message": "Reprocessing: AMD: Memory, Not Compute, Is the Next Bottleneck in AI Data Centers"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 10:13:31",
       "message": "[SKIP] Irrelevant (AI Filter): Ohio's gambling regulator proposes to fine Kalshi $5M for unlicensed sports gambling, after a federal judge ruled that Kalshi's sports bets constitute gambling (Max Filby/The Columbus Dispatch)"
+    },
+    {
+      "timestamp": "2026-04-16 10:13:32",
+      "message": "Reprocessing: OpenAI updates Agents SDK with native sandboxing and an in-distribution harness for deploying and testing agents on long-horizon tasks (Lucas Ropek/TechCrunch)"
     }
   ]
 }
