@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 03:36:36",
+  "last_updated": "2026-04-16 03:36:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 03:36:00",
-      "message": "[SUCCESS] Processed: AMD: \uba54\ubaa8\ub9ac, \ucef4\ud4e8\ud2b8\uac00 \uc544\ub2cc AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ub2e4\uc74c \ubcd1\ubaa9\n  > Summary: AMD\ub294 AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ud6a8\uc728\uc131\uacfc \uc131\ub2a5\uc744 \ucd5c\uc801\ud654\ud558\uae30 \uc704\ud574 LPDDR5X\uc640 \uac19\uc740 \uc791\uc5c5\ubcc4 ..."
-    },
     {
       "timestamp": "2026-04-16 03:36:01",
       "message": "[PROCESSING] Analyzing: OpenAI updates Agents SDK with native sandboxing and an in-distribution harness for deploying and testing agents on long-horizon tasks (Lucas Ropek/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 03:36:36",
       "message": "[PROCESSING] Analyzing: A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled (NBC News)..."
+    },
+    {
+      "timestamp": "2026-04-16 03:36:38",
+      "message": "[SKIP] Irrelevant (AI Filter): A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled (NBC News)"
     }
   ]
 }
