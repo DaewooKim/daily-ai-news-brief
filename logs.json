@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 15:44:08",
+  "last_updated": "2026-04-16 15:44:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 15:43:29",
-      "message": "[PROCESSING] Analyzing: Anthropic says Opus 4.7 is \"less broadly capable\" than Claude Mythos Preview and that its \"cyber capabilities are not as advanced as those of Mythos Preview\" (Ashley Capoot/CNBC)..."
-    },
     {
       "timestamp": "2026-04-16 15:43:33",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud3ec\uc775, \uc624\ud37c\uc2a4 4.7\uc774 \ud074\ub85c\ub4dc \ubbf8\ud1a0\uc2a4 \ud504\ub9ac\ubdf0\ubcf4\ub2e4 '\ub35c \uad11\ubc94\uc704\ud558\uac8c \ub2a5\ub825\ud558\ub2e4'\uace0 \ubc1c\ud45c\n  > Summary: \uc564\ud2b8\ub85c\ud3ec\uc775\uc774 \ucd5c\uadfc \ubc1c\ud45c\ud55c \uc778\uacf5\uc9c0\ub2a5 \ubaa8\ub378 \uc624\ud37c\uc2a4 4.7\uc740 \ud074\ub85c\ub4dc \ubbf8\ud1a0\uc2a4 \ud504\ub9ac\ubdf0\ubcf4\ub2e4 '\ub35c \uad11\ubc94..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 15:44:08",
       "message": "[PROCESSING] Analyzing: Sources: UK paraplegic athlete Claire Lomas was being filmed for Apple Vision Pro series Adventure when she crashed a microlight in Jordan and died in July 2024 (Mark Gurman/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-04-16 15:44:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: UK paraplegic athlete Claire Lomas was being filmed for Apple Vision Pro series Adventure when she crashed a microlight in Jordan and died in July 2024 (Mark Gurman/Bloomberg)"
     }
   ]
 }
