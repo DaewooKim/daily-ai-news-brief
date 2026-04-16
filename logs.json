@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 02:28:02",
+  "last_updated": "2026-04-16 02:28:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 02:27:26",
-      "message": "[PROCESSING] Analyzing: Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers..."
-    },
     {
       "timestamp": "2026-04-16 02:27:30",
       "message": "[SUCCESS] Processed: AI\uac00 \uc800\ub110\ub9ac\uc998\uc744 \ud310\ub2e8\ud560 \uc218 \uc788\uc744\uae4c? \ud2f0\uc5d8\uc774 \uc9c0\uc6d0\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc774 \uadf8\ub807\ub2e4\uace0 \ub9d0\ud558\uc9c0\ub9cc, \uc774\ub294 \ub0b4\ubd80 \uace0\ubc1c\uc790\uc5d0\uac8c \ucc2c\ubb3c\uc744 \ub07c\uce60 \uc704\ud5d8\uc774 \uc788\ub2e4\n  > Summary: Objection\uc774\ub77c\ub294 \ud2f0\uc5d8\uc774 \uc9c0\uc6d0\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc774 AI\ub97c \ud65c\uc6a9\ud558\uc5ec \uc800\ub110\ub9ac\uc998\uc744 \ud3c9\uac00\ud558\uace0 \uc0ac\uc6a9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 02:28:02",
       "message": "[PROCESSING] Analyzing: Google brings its Gemini Personal Intelligence feature to India..."
+    },
+    {
+      "timestamp": "2026-04-16 02:28:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Google brings its Gemini Personal Intelligence feature to India"
     }
   ]
 }
