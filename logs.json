@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 15:43:59",
+  "last_updated": "2026-04-16 15:44:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 15:43:17",
-      "message": "[SUCCESS] Processed: AMD: \uba54\ubaa8\ub9ac, \ucef4\ud4e8\ud305\uc774 \uc544\ub2cc AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ub2e4\uc74c \ubcd1\ubaa9 \ud604\uc0c1\n  > Summary: AMD\ub294 \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc131\uacfc \uc131\ub2a5\uc744 \ucd5c\uc801\ud654\ud558\uae30 \uc704\ud574 LPDDR5X\uc640 \uac19\uc740 \uc791\uc5c5 \ud2b9\uc815 \uba54\ubaa8\ub9ac \uc544..."
-    },
     {
       "timestamp": "2026-04-16 15:43:19",
       "message": "[PROCESSING] Analyzing: Anthropic says Opus 4.7 uses an updated tokenizer that \"improves how the model processes text\", but \"the tradeoff is that the same input can map to more tokens\" (Zac Hall/9to5Mac)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 15:43:59",
       "message": "[SKIP] Irrelevant (AI Filter): Anthropic secures new London office space for 800 people, days after OpenAI started leasing its first London office; Anthropic currently has 200+ London staff (Kai Nicol-Schwarz/CNBC)"
+    },
+    {
+      "timestamp": "2026-04-16 15:44:01",
+      "message": "[PROCESSING] Analyzing: The NIST narrows its National Vulnerability Database priorities to CVEs in CISA's known exploited catalog, to deal with a backlog after its 2024 funding lapse (Matt Kapko/CyberScoop)..."
     }
   ]
 }
