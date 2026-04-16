@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 15:41:38",
+  "last_updated": "2026-04-16 15:41:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 15:41:02",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-16 15:41:02",
       "message": "[PROCESSING] Analyzing: How Netflix made us fall in love with K-dramas..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 15:41:38",
       "message": "[SKIP] Content too short: Nvidia Brings The Power Of Ope..."
+    },
+    {
+      "timestamp": "2026-04-16 15:41:40",
+      "message": "Reprocessing: Building The Imperfect Beast"
     }
   ]
 }
