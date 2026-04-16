@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 21:17:40",
+  "last_updated": "2026-04-16 21:17:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 21:17:00",
-      "message": "[PROCESSING] Analyzing: SNIA Launches MRAM Alliance SIG..."
-    },
     {
       "timestamp": "2026-04-16 21:17:04",
       "message": "[SUCCESS] Processed: SNIA, MRAM \uc5bc\ub77c\uc774\uc5b8\uc2a4 \ud2b9\ubcc4 \uad00\uc2ec \uadf8\ub8f9(SIG) \ucd9c\ubc94\n  > Summary: SNIA\ub294 MRAM \uc5bc\ub77c\uc774\uc5b8\uc2a4 \ud2b9\ubcc4 \uad00\uc2ec \uadf8\ub8f9\uc744 \ucd9c\ubc94\ud558\uba70, \ubc18\ub3c4\uccb4 \ubc0f \uc2dc\uc2a4\ud15c \ud68c\uc0ac\ub4e4\uc774 \ucc38\uc5ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 21:17:40",
       "message": "Reprocessing: \u2018Nobody wants to be a news story,\u2019 but bad data is making that a real risk factor for enterprise AI"
+    },
+    {
+      "timestamp": "2026-04-16 21:17:42",
+      "message": "[SKIP] Content too short: \u2018Nobody wants to be a news sto..."
     }
   ]
 }
