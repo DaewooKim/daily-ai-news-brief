@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-16 20:10:03",
+  "last_updated": "2026-04-16 20:10:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-16 20:09:25",
-      "message": "[SUCCESS] Processed: OpenAI, \uc0dd\uba85 \uacfc\ud559 \uc5f0\uad6c\ub97c \uc704\ud55c AI \ubaa8\ub378 GPT-Rosalind \ucd9c\uc2dc\n  > Summary: OpenAI\uac00 \uc0dd\uba85 \uacfc\ud559 \uc5f0\uad6c, \ud2b9\ud788 \uc57d\ubb3c \ubc1c\uacac\uc744 \uc704\ud55c AI \ubaa8\ub378\uc778 GPT-Rosalind..."
-    },
     {
       "timestamp": "2026-04-16 20:09:26",
       "message": "Reprocessing: OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more (David Gewirtz/ZDNET)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-16 20:10:03",
       "message": "[PROCESSING] Analyzing: Achieving Wafer-Scale Growth of 2D Magnetic Materials..."
+    },
+    {
+      "timestamp": "2026-04-16 20:10:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Achieving Wafer-Scale Growth of 2D Magnetic Materials"
     }
   ]
 }
