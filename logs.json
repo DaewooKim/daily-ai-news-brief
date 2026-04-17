@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 22:24:54",
+  "last_updated": "2026-04-17 22:24:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 22:24:21",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 \ub370\uc2a4\ud06c\ud0d1\uc5d0 \ub300\ud55c \ub354 \ud070 \uad8c\ud55c\uc744 \ubd80\uc5ec\ud558\ub294 \uac15\ud654\ub41c Codex\ub85c Anthropic\uc5d0 \ub3c4\uc804\ud558\ub2e4\n  > Summary: OpenAI\uc758 \uc5d0\uc774\uc804\ud2f1 \ucf54\ub4dc \ub3c4\uad6c\uac00 \ub2e4\uc591\ud55c \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uacfc \ub2a5\ub825\uc73c\ub85c \ub300\ub300\uc801\uc778 \ubcc0\ud654\ub97c \uacaa\uc5c8\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-04-17 22:24:22",
       "message": "[PROCESSING] Analyzing: Google is now targeting bad ads over bad actors..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 22:24:54",
       "message": "[PROCESSING] Analyzing: Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees (Reuters)..."
+    },
+    {
+      "timestamp": "2026-04-17 22:24:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees (Reuters)"
     }
   ]
 }
