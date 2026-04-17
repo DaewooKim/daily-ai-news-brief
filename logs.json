@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 13:36:13",
+  "last_updated": "2026-04-17 13:36:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 13:35:42",
-      "message": "[PROCESSING] Analyzing: Ballmer gives $80 million to NPR, with strings attached..."
-    },
     {
       "timestamp": "2026-04-17 13:35:44",
       "message": "[SKIP] Irrelevant (AI Filter): Ballmer gives $80 million to NPR, with strings attached"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 13:36:13",
       "message": "[PROCESSING] Analyzing: NVIDIA NVbandwidth: Your Essential Tool for Measuring GPU Interconnect and Memory Performance..."
+    },
+    {
+      "timestamp": "2026-04-17 13:36:17",
+      "message": "[SUCCESS] Processed: NVIDIA NVbandwidth: GPU \uc0c1\ud638 \uc5f0\uacb0 \ubc0f \uba54\ubaa8\ub9ac \uc131\ub2a5 \uce21\uc815\uc744 \uc704\ud55c \ud544\uc218 \ub3c4\uad6c\n  > Summary: CUDA \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc791\uc131\ud560 \ub54c \ub370\uc774\ud130 \uc804\uc1a1 \uc131\ub2a5\uc774 \ub9e4\uc6b0 \uc911\uc694\ud569\ub2c8\ub2e4. NVbandwidt..."
     }
   ]
 }
