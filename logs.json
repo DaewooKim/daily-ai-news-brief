@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 18:02:28",
+  "last_updated": "2026-04-17 18:02:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 18:01:53",
-      "message": "[PROCESSING] Analyzing: Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B (The Information)..."
-    },
     {
       "timestamp": "2026-04-17 18:01:54",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B (The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 18:02:28",
       "message": "[PROCESSING] Analyzing: Wooptix Breaks Ground on New Semiconductor Cleanroom Facility in Spain..."
+    },
+    {
+      "timestamp": "2026-04-17 18:02:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Wooptix Breaks Ground on New Semiconductor Cleanroom Facility in Spain"
     }
   ]
 }
