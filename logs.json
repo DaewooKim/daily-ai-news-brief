@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 11:25:18",
+  "last_updated": "2026-04-17 11:25:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 11:24:46",
-      "message": "Found 170 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-17 11:24:46",
       "message": "[PROCESSING] Analyzing: YouTube\u2019s mobile app finally lets you share timestamped videos..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 11:25:18",
       "message": "Reprocessing: Nvidia Brings The Power Of Open Source AI Models To Quantum Computing"
+    },
+    {
+      "timestamp": "2026-04-17 11:25:20",
+      "message": "[SKIP] Content too short: Nvidia Brings The Power Of Ope..."
     }
   ]
 }
