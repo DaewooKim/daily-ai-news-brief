@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 12:30:52",
+  "last_updated": "2026-04-17 12:30:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 12:30:14",
-      "message": "[PROCESSING] Analyzing: Netflix cofounder Reed Hastings is officially leaving the company..."
-    },
     {
       "timestamp": "2026-04-17 12:30:17",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix cofounder Reed Hastings is officially leaving the company"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 12:30:52",
       "message": "Reprocessing: Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles"
+    },
+    {
+      "timestamp": "2026-04-17 12:30:53",
+      "message": "[SKIP] Content too short: Designing synthetic datasets f..."
     }
   ]
 }
