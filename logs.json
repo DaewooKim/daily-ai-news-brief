@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 16:56:15",
+  "last_updated": "2026-04-17 16:56:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 16:55:42",
-      "message": "[SUCCESS] Processed: AMD: \uba54\ubaa8\ub9ac, \ucef4\ud4e8\ud305\uc774 \uc544\ub2cc AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ub2e4\uc74c \ubcd1\ubaa9 \ud604\uc0c1\n  > Summary: AMD\ub294 \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc131\uacfc \uc131\ub2a5\uc744 \ucd5c\uc801\ud654\ud558\uae30 \uc704\ud574 LPDDR5X\uc640 \uac19\uc740 \uc791\uc5c5\ubcc4 \uba54\ubaa8\ub9ac \uc544\ud0a4\ud14d..."
-    },
     {
       "timestamp": "2026-04-17 16:55:43",
       "message": "[PROCESSING] Analyzing: Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations (Ivan Mehta/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 16:56:15",
       "message": "[PROCESSING] Analyzing: Charles Schwab unveils its long-awaited crypto investing product, Schwab Crypto, with a 0.75% fee on every crypto trade and plans to launch in the coming weeks (Tanaya Macheel/CNBC)..."
+    },
+    {
+      "timestamp": "2026-04-17 16:56:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Charles Schwab unveils its long-awaited crypto investing product, Schwab Crypto, with a 0.75% fee on every crypto trade and plans to launch in the coming weeks (Tanaya Macheel/CNBC)"
     }
   ]
 }
