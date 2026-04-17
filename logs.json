@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 11:25:29",
+  "last_updated": "2026-04-17 11:25:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 11:24:58",
-      "message": "[PROCESSING] Analyzing: Netflix cofounder Reed Hastings is officially leaving the company..."
-    },
     {
       "timestamp": "2026-04-17 11:25:00",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix cofounder Reed Hastings is officially leaving the company"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 11:25:29",
       "message": "[PROCESSING] Analyzing: NVIDIA NVbandwidth: Your Essential Tool for Measuring GPU Interconnect and Memory Performance..."
+    },
+    {
+      "timestamp": "2026-04-17 11:25:32",
+      "message": "[SUCCESS] Processed: NVIDIA NVbandwidth: GPU \uc778\ud130\ucee4\ub125\ud2b8 \ubc0f \uba54\ubaa8\ub9ac \uc131\ub2a5\uc744 \uce21\uc815\ud558\ub294 \ud544\uc218 \ub3c4\uad6c\n  > Summary: CUDA \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc791\uc131\ud560 \ub54c \ub370\uc774\ud130 \uc804\uc1a1 \uc131\ub2a5\uc774 \ub9e4\uc6b0 \uc911\uc694\ud569\ub2c8\ub2e4. NVIDIA NVb..."
     }
   ]
 }
