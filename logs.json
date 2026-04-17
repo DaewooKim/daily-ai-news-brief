@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-04-17 15:50:25",
+  "last_updated": "2026-04-17 15:50:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 15:49:51",
-      "message": "[PROCESSING] Analyzing: Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B (The Information)..."
-    },
-    {
-      "timestamp": "2026-04-17 15:49:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B (The Information)"
-    },
     {
       "timestamp": "2026-04-17 15:49:54",
       "message": "[PROCESSING] Analyzing: Sources: some shareholders are questioning whether Sam Altman should lead OpenAI through the turbulence of an IPO and have floated Bret Taylor as a successor (Wall Street Journal)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-04-17 15:50:25",
       "message": "[PROCESSING] Analyzing: Counterpoint: India's smartphone shipments fell 3% YoY in Q1 2026, a six-year low, as price hikes weigh on sales; 80+ smartphone models saw price hikes of ~15% (Abhinav Parmar/Reuters)..."
+    },
+    {
+      "timestamp": "2026-04-17 15:50:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Counterpoint: India's smartphone shipments fell 3% YoY in Q1 2026, a six-year low, as price hikes weigh on sales; 80+ smartphone models saw price hikes of ~15% (Abhinav Parmar/Reuters)"
+    },
+    {
+      "timestamp": "2026-04-17 15:50:28",
+      "message": "Reprocessing: eBeam Initiative At SPIE ALP 2026: Continuing Progress On Curvilinear, EUV, And Data Challenges"
     }
   ]
 }
