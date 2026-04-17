@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-17 11:27:51",
+  "last_updated": "2026-04-17 11:27:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-17 11:27:17",
-      "message": "Reprocessing: SNIA Launches MRAM Alliance SIG"
-    },
     {
       "timestamp": "2026-04-17 11:27:19",
       "message": "[PROCESSING] Analyzing: SNIA Launches MRAM Alliance SIG..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-17 11:27:51",
       "message": "Reprocessing: Anthropic launches Claude Opus 4.7 with coding, visual reasoning improvements"
+    },
+    {
+      "timestamp": "2026-04-17 11:27:52",
+      "message": "[SKIP] Content too short: Anthropic launches Claude Opus..."
     }
   ]
 }
