@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-18 17:49:51",
+  "last_updated": "2026-04-18 17:49:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-18 17:49:18",
-      "message": "[SUCCESS] Processed: \uc138\uc77c\uc988\ud3ec\uc2a4, API, MCP \ub3c4\uad6c \ub610\ub294 CLI \uba85\ub839\uc744 \ud1b5\ud574 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc138\uc77c\uc988\ud3ec\uc2a4 \ud50c\ub7ab\ud3fc \uae30\ub2a5\uc5d0 \uc811\uadfc\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\ub294 '\ud5e4\ub4dc\ub9ac\uc2a4 360' \ubc1c\ud45c\n  > Summary: \uc138\uc77c\uc988\ud3ec\uc2a4\ub294 27\ub144\uc758 \uc5ed\uc0ac\uc5d0\uc11c \uac00\uc7a5 \uc57c\uc2ec\ucc2c \uc544\ud0a4\ud14d\ucc98 \ubcc0\ud654\ub97c \ubc1c\ud45c\ud558\uba70 '\ud5e4\ub4dc\ub9ac\uc2a4 360' \uc774..."
-    },
     {
       "timestamp": "2026-04-18 17:49:19",
       "message": "[PROCESSING] Analyzing: A profile of OpenTable CEO Debby Soo, who shifted its focus from diners to restaurants; it now seats ~2B diners a year across 65K restaurants, an all-time high (Brent Crane/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-18 17:49:51",
       "message": "[PROCESSING] Analyzing: Terry Berke Honored with Si2 Outstanding Contributions Award..."
+    },
+    {
+      "timestamp": "2026-04-18 17:49:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Terry Berke Honored with Si2 Outstanding Contributions Award"
     }
   ]
 }
