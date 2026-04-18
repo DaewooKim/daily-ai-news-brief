@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-18 10:18:11",
+  "last_updated": "2026-04-18 10:18:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-18 10:17:33",
-      "message": "[SUCCESS] Processed: \uc790\uc728\uc8fc\ud589\ucc28 \uc2a4\ud0c0\ud2b8\uc5c5, 2025\ub144 \uc804\uccb4\uc5d0 \uac78\uccd0 59\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 214\uc5b5 \ub2ec\ub7ec\ub85c \uae09\uc99d\n  > Summary: \uc790\uc728\uc8fc\ud589\ucc28 \uc2a4\ud0c0\ud2b8\uc5c5\uc774 2026\ub144 4\uc6d4 15\uc77c\uae4c\uc9c0 34\uac74\uc758 \uac70\ub798\ub97c \ud1b5\ud574 214\uc5b5 \ub2ec\ub7ec\ub97c \uae30\ub85d..."
-    },
     {
       "timestamp": "2026-04-18 10:17:35",
       "message": "[PROCESSING] Analyzing: White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been \"productive and constructive\"; source: Scott Bessent joined the meeting (Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-18 10:18:11",
       "message": "[PROCESSING] Analyzing: Terry Berke Honored with Si2 Outstanding Contributions Award..."
+    },
+    {
+      "timestamp": "2026-04-18 10:18:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Terry Berke Honored with Si2 Outstanding Contributions Award"
     }
   ]
 }
