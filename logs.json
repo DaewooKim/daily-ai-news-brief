@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-19 23:59:42",
+  "last_updated": "2026-04-19 23:59:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-19 23:59:11",
-      "message": "[SUCCESS] Processed: \uc6b0\ub9ac\ub294 \uacb0\uad6d \uc544\ubb34 \ub370\ub3c4 \uac00\uc9c0 \uc54a\ub294 \ud1a0\ud070\ub9e5\uc2f1\uc744 \ud558\uace0 \uc788\ub098?\n  > Summary: AI \ub0b4\ubd80\uc790\ub4e4\uacfc \uc77c\ubc18 \ub300\uc911 \uac04\uc758 \uaca9\ucc28\uac00 \uc810\uc810 \ucee4\uc9c0\uace0 \uc788\uc73c\uba70, \uc774\ub7ec\ud55c \ud604\uc0c1\uc740 \uc9c0\ucd9c, \uc758\uc2ec, ..."
-    },
     {
       "timestamp": "2026-04-19 23:59:12",
       "message": "Reprocessing: TSMC Chases Soaring AI Demand"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-19 23:59:42",
       "message": "[PROCESSING] Analyzing: SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31..."
+    },
+    {
+      "timestamp": "2026-04-19 23:59:44",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31"
     }
   ]
 }
