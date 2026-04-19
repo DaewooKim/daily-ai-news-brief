@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-19 20:45:10",
+  "last_updated": "2026-04-19 20:45:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-19 20:44:36",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-19 20:44:36",
       "message": "[PROCESSING] Analyzing: Blue Origin successfully reused its New Glenn rocket..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-19 20:45:10",
       "message": "Reprocessing: Bechtolsheim & Friends Breathe Life Into Pluggable Optics One Last Time"
+    },
+    {
+      "timestamp": "2026-04-19 20:45:12",
+      "message": "[SKIP] Content too short: Bechtolsheim & Friends Breathe..."
     }
   ]
 }
