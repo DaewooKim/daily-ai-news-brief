@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-19 15:24:01",
+  "last_updated": "2026-04-19 15:24:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-19 15:23:29",
-      "message": "[SUCCESS] Processed: TSMC\uac00 \uce58\uc19f\ub294 AI \uc218\uc694\ub97c \ucd94\uad6c\ud558\ub2e4\n  > Summary: TSMC\ub294 \uc778\uacf5\uc9c0\ub2a5(AI) \uc218\uc694 \uc99d\uac00\uc5d0 \ub9de\ucdb0 \uc790\uae08 \ud22c\uc790 \uacc4\ud68d\uc744 \ud655\ub300\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac..."
-    },
     {
       "timestamp": "2026-04-19 15:23:31",
       "message": "[PROCESSING] Analyzing: Canada\u2019s Defense Sector Talks Up Quantum..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-19 15:24:01",
       "message": "[PROCESSING] Analyzing: Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth (Stephanie Stacey/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-04-19 15:24:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth (Stephanie Stacey/Financial Times)"
     }
   ]
 }
