@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-19 11:05:01",
+  "last_updated": "2026-04-19 11:05:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-19 11:04:32",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-19 11:04:32",
       "message": "[PROCESSING] Analyzing: Judge rules Trump administration violated the First Amendment in fight against ICE-tracking..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-19 11:05:01",
       "message": "Reprocessing: Nvidia Brings The Power Of Open Source AI Models To Quantum Computing"
+    },
+    {
+      "timestamp": "2026-04-19 11:05:02",
+      "message": "[SKIP] Content too short: Nvidia Brings The Power Of Ope..."
     }
   ]
 }
