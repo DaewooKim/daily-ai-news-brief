@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-04-19 04:33:06",
+  "last_updated": "2026-04-19 04:33:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-19 04:32:38",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-04-19 04:32:38",
-      "message": "[PROCESSING] Analyzing: Judge rules Trump administration violated the First Amendment in fight against ICE-tracking..."
-    },
     {
       "timestamp": "2026-04-19 04:32:40",
       "message": "[SKIP] Irrelevant (AI Filter): Judge rules Trump administration violated the First Amendment in fight against ICE-tracking"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-04-19 04:33:06",
       "message": "Reprocessing: Nvidia Brings The Power Of Open Source AI Models To Quantum Computing"
+    },
+    {
+      "timestamp": "2026-04-19 04:33:07",
+      "message": "[SKIP] Content too short: Nvidia Brings The Power Of Ope..."
+    },
+    {
+      "timestamp": "2026-04-19 04:33:09",
+      "message": "[PROCESSING] Analyzing: Lifecycle Management on Google Cloud: From Provisioning to Self-Healing with Red Hat and HashiCorp..."
     }
   ]
 }
