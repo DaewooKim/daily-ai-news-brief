@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-20 22:37:13",
+  "last_updated": "2026-04-20 22:37:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-20 22:36:32",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-04-20 22:36:32",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-20 22:37:13",
       "message": "[PROCESSING] Analyzing: Insta360 is putting screens on its next wireless mics to show logos or images..."
+    },
+    {
+      "timestamp": "2026-04-20 22:37:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Insta360 is putting screens on its next wireless mics to show logos or images"
     }
   ]
 }
