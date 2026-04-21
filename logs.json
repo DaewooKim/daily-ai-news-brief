@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 23:50:11",
+  "last_updated": "2026-04-21 23:50:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 23:49:31",
-      "message": "[PROCESSING] Analyzing: Anthropic appears to have removed access to Claude Code from its $20/month Pro plan; Anthropic says it is \"running a small test on ~2% of new prosumer signups\" (Ed Zitron/Ed Zitron's Where's Your Ed At)..."
-    },
     {
       "timestamp": "2026-04-21 23:49:34",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \uc6d4 $20 \ud504\ub85c \ud50c\ub79c\uc5d0\uc11c \ud074\ub85c\ub4dc \ucf54\ub4dc \uc811\uadfc \uc81c\uac70\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \uc6d4 $20 \ud504\ub85c \ud50c\ub79c\uc5d0\uc11c \ud074\ub85c\ub4dc \ucf54\ub4dc \uc811\uadfc\uc744 \uc81c\uac70\ud55c \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4. \ud68c\uc0ac\ub294 \ud604\uc7ac..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 23:50:11",
       "message": "[PROCESSING] Analyzing: Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?..."
+    },
+    {
+      "timestamp": "2026-04-21 23:50:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?"
     }
   ]
 }
