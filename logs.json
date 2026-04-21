@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 18:17:26",
+  "last_updated": "2026-04-21 18:17:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 18:16:49",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130 \uc6d4\ub4dc 2026: AI \uaddc\ubaa8 \uae09\uc99d\uc5d0 \ub530\ub77c \ub808\uac70\uc2dc \uad6c\ucd95\uc758 \ud544\uc694\uc131\n  > Summary: AI \uc911\uc2ec\uc758 \uc131\uc7a5\uc73c\ub85c \ub370\uc774\ud130 \uc13c\ud130\uc758 \uaddc\ubaa8\uac00 \uc99d\uac00\ud558\uace0 \uc788\uc73c\uba70, \uc804\ub825, \uc124\uacc4 \ubc0f \uc9c0\uc18d \uac00\ub2a5\uc131\uc5d0..."
-    },
     {
       "timestamp": "2026-04-21 18:16:50",
       "message": "[PROCESSING] Analyzing: How opposition to data centers, over concerns like power demands, pollution, and water needs, has become a voting issue for many people in the 2026 US midterms (NPR)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 18:17:26",
       "message": "[PROCESSING] Analyzing: Anthropic started requiring government-issued photo IDs and selfies from some users to prevent access from US adversaries like China, Russia, and North Korea (Juro Osawa/The Information)..."
+    },
+    {
+      "timestamp": "2026-04-21 18:17:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic started requiring government-issued photo IDs and selfies from some users to prevent access from US adversaries like China, Russia, and North Korea (Juro Osawa/The Information)"
     }
   ]
 }
