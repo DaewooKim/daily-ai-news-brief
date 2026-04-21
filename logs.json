@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 03:00:00",
+  "last_updated": "2026-04-21 03:00:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 02:59:20",
-      "message": "[SUCCESS] Processed: \ud1a0\ud070\ub9e5\uc2f1, OpenAI\uc758 \uc1fc\ud551 \uc2a4\ud504\ub9ac, \uadf8\ub9ac\uace0 AI \ubd88\uc548 \uaca9\ucc28\n  > Summary: AI \ub0b4\ubd80\uc790\uc640 \uc77c\ubc18 \ub300\uc911 \uac04\uc758 \uaca9\ucc28\uac00 \ud655\ub300\ub418\uace0 \uc788\uc73c\uba70, \uc790\uae08 \uc9c0\ucd9c\uacfc \uc758\uad6c\uc2ec\uc774 \ucee4\uc9c0\uace0 \uc788\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-04-21 02:59:22",
       "message": "Reprocessing: Are we\u00a0tokenmaxxing\u00a0our way to nowhere?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 03:00:00",
       "message": "[PROCESSING] Analyzing: Apple says Tim Cook, as executive chairman, \"will assist with certain aspects of the company, including engaging with policymakers around the world\" (Marcus Mendes/9to5Mac)..."
+    },
+    {
+      "timestamp": "2026-04-21 03:00:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple says Tim Cook, as executive chairman, \"will assist with certain aspects of the company, including engaging with policymakers around the world\" (Marcus Mendes/9to5Mac)"
     }
   ]
 }
