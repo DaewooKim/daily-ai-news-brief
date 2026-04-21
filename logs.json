@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 09:29:32",
+  "last_updated": "2026-04-21 09:29:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 09:28:57",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-21 09:28:57",
       "message": "[PROCESSING] Analyzing: Microsoft Teams is trying to fix accidental hand-raising..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 09:29:32",
       "message": "[PROCESSING] Analyzing: Apple names Johny Srouji as chief hardware officer..."
+    },
+    {
+      "timestamp": "2026-04-21 09:29:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple names Johny Srouji as chief hardware officer"
     }
   ]
 }
