@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 18:15:06",
+  "last_updated": "2026-04-21 18:15:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 18:14:26",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-21 18:14:26",
       "message": "[PROCESSING] Analyzing: Framework announces Laptop 13 Pro, \u2018the MacBook Pro for Linux users\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 18:15:06",
       "message": "[PROCESSING] Analyzing: Oppo\u2019s new phone has one camera too many..."
+    },
+    {
+      "timestamp": "2026-04-21 18:15:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Oppo\u2019s new phone has one camera too many"
     }
   ]
 }
