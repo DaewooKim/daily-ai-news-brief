@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 12:47:31",
+  "last_updated": "2026-04-21 12:47:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 12:47:00",
-      "message": "[SUCCESS] Processed: \ud300 \ucfe1, \uc560\ud50c\uc758 \ub2e4\uc74c \ud070 \uc2dc\ud5d8\uc778 AI\uc5d0 \ub300\ube44\ud574 \ucd5c\uc801\uc758 \ud0c0\uc774\ubc0d\uc73c\ub85c \uc740\ud1f4\ud558\ub2e4\n  > Summary: \ud300 \ucfe1\uc740 \uc560\ud50c\uc758 CEO\ub85c\uc11c \ub180\ub77c\uc6b4 \uc131\uacfc\ub97c \uac70\ub450\uc5c8\uc73c\uba70, AI\uac00 \uc560\ud50c\uc758 \ub2e4\uc74c \ud070 \uc2dc\ud5d8\uc774 \ub418\ub294 ..."
-    },
     {
       "timestamp": "2026-04-21 12:47:01",
       "message": "[PROCESSING] Analyzing: Sources: Revolut is aiming for a valuation of $150B to $200B in an IPO; founder Nik Storonsky said this week that Revolut would IPO in 2028 at the earliest (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 12:47:31",
       "message": "[PROCESSING] Analyzing: Apple says Tim Cook, as executive chairman, \"will assist with certain aspects of the company, including engaging with policymakers around the world\" (Marcus Mendes/9to5Mac)..."
+    },
+    {
+      "timestamp": "2026-04-21 12:47:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple says Tim Cook, as executive chairman, \"will assist with certain aspects of the company, including engaging with policymakers around the world\" (Marcus Mendes/9to5Mac)"
     }
   ]
 }
