@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 20:31:51",
+  "last_updated": "2026-04-21 20:31:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 20:31:13",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 ChatGPT \uc774\ubbf8\uc9c0 2.0\uc774 \uc77c\ubcf8\uc5b4, \ud55c\uad6d\uc5b4, \ud78c\ub514\uc5b4, \ubcb5\uace8\uc5b4\uc640 \uac19\uc740 \ube44\ub77c\ud2f4 \ud14d\uc2a4\ud2b8 \ub80c\ub354\ub9c1\uc744 \ub354 \uc798 \uc774\ud574\ud55c\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 ChatGPT \uc774\ubbf8\uc9c0 2.0\uc774 \uc77c\ubcf8\uc5b4, \ud55c\uad6d\uc5b4, \ud78c\ub514\uc5b4, \ubcb5\uace8\uc5b4 \ub4f1\uc744 \ud3ec\ud568\ud55c..."
-    },
     {
       "timestamp": "2026-04-21 20:31:15",
       "message": "Reprocessing: OpenAI releases ChatGPT Images 2.0 with new \"thinking capabilities\", allowing it to search the web to help it create multiple images from a single prompt (Emma Roth/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 20:31:51",
       "message": "[PROCESSING] Analyzing: SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31..."
+    },
+    {
+      "timestamp": "2026-04-21 20:31:53",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31"
     }
   ]
 }
