@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 07:20:52",
+  "last_updated": "2026-04-21 07:20:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 07:20:15",
-      "message": "[SUCCESS] Processed: OpenAI, \ud654\uba74 \ucea1\ucc98\ub97c \ud1b5\ud574 \uba54\ubaa8\ub9ac\ub97c \uad6c\ucd95\ud558\uc5ec Codex\uc758 \ucee8\ud14d\uc2a4\ud2b8 \uc778\uc2dd\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\ub294 Chronicle\uc744 \uc5f0\uad6c \ubbf8\ub9ac\ubcf4\uae30\ub85c \ud504\ub85c \uad6c\ub3c5\uc790\uc5d0\uac8c \ubc30\ud3ec\n  > Summary: OpenAI\uac00 macOS\uc6a9 \ud504\ub85c \uad6c\ub3c5\uc790\ub97c \uc704\ud574 Codex\uc758 \uc0c8\ub85c\uc6b4 \ubc84\uc804 \ucd9c\uc2dc\uc640 \ud568\uaed8 Chr..."
-    },
     {
       "timestamp": "2026-04-21 07:20:17",
       "message": "[PROCESSING] Analyzing: Apple says Johny Srouji, who most recently served as senior VP of Hardware Technologies, will assume an expanded role leading Hardware Engineering (Apple)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 07:20:52",
       "message": "[PROCESSING] Analyzing: Designing PCBs to Maintain Signal Integrity..."
+    },
+    {
+      "timestamp": "2026-04-21 07:20:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Designing PCBs to Maintain Signal Integrity"
     }
   ]
 }
