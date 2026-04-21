@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 13:53:09",
+  "last_updated": "2026-04-21 13:53:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 13:52:34",
-      "message": "[SUCCESS] Processed: \uc720\ud29c\ube0c, \uace0\uc704\ud5d8 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ub525\ud398\uc774\ud06c \ud0d0\uc9c0 \ub3c4\uad6c \uc81c\uacf5 \ud655\ub300\n  > Summary: \uc720\ud29c\ube0c\uac00 \ub525\ud398\uc774\ud06c \ud0d0\uc9c0 \ub3c4\uad6c\ub97c \uace0\uc704\ud5d8\uad70 \uc0ac\uc6a9\uc790\uc5d0\uac8c \uc81c\uacf5\ud558\uae30\ub85c \ud588\uc2b5\ub2c8\ub2e4. \ucd08\uae30\uc5d0\ub294 \uacf5\uc9c1\uc790\uc640 ..."
-    },
     {
       "timestamp": "2026-04-21 13:52:36",
       "message": "[PROCESSING] Analyzing: Trump says his administration had \"some very good talks\" with Anthropic during a WH meeting last week and \"it's possible\" there will be a deal with DOD (Ashley Capoot/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 13:53:09",
       "message": "[PROCESSING] Analyzing: Batteries Charge To The Edge..."
+    },
+    {
+      "timestamp": "2026-04-21 13:53:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Batteries Charge To The Edge"
     }
   ]
 }
