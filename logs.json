@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 12:45:36",
+  "last_updated": "2026-04-21 12:45:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 12:45:04",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-21 12:45:04",
       "message": "[PROCESSING] Analyzing: The SpaceX IPO is a trillion-dollar gamble on the future of space..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 12:45:36",
       "message": "Reprocessing: AI Will Soon Drive A Third Of TSMC\u2019s Business"
+    },
+    {
+      "timestamp": "2026-04-21 12:45:38",
+      "message": "[SKIP] Content too short: AI Will Soon Drive A Third Of ..."
     }
   ]
 }
