@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 20:28:44",
+  "last_updated": "2026-04-21 20:28:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 20:28:05",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-21 20:28:05",
       "message": "[PROCESSING] Analyzing: ISS astronauts are in the middle of a tech overhaul..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 20:28:44",
       "message": "Reprocessing: Bechtolsheim & Friends Breathe Life Into Pluggable Optics One Last Time"
+    },
+    {
+      "timestamp": "2026-04-21 20:28:45",
+      "message": "[SKIP] Content too short: Bechtolsheim & Friends Breathe..."
     }
   ]
 }
