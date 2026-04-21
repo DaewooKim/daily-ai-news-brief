@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 21:38:39",
+  "last_updated": "2026-04-21 21:38:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 21:38:02",
-      "message": "[SUCCESS] Processed: OpenAI, \uc0c8\ub85c\uc6b4 '\uc0ac\uace0 \ub2a5\ub825'\uc744 \uac00\uc9c4 ChatGPT \uc774\ubbf8\uc9c0 2.0 \ucd9c\uc2dc\n  > Summary: OpenAI\uac00 ChatGPT \uc774\ubbf8\uc9c0 2.0\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc5c5\ub370\uc774\ud2b8\ub294 ChatGPT\uac00 ..."
-    },
     {
       "timestamp": "2026-04-21 21:38:04",
       "message": "[PROCESSING] Analyzing: How opposition to data centers, over concerns like power demands, pollution, and water needs, has become a voting issue for many people in the 2026 US midterms (NPR)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 21:38:39",
       "message": "[PROCESSING] Analyzing: Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain..."
+    },
+    {
+      "timestamp": "2026-04-21 21:38:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain"
     }
   ]
 }
