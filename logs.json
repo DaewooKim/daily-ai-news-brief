@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-21 19:21:44",
+  "last_updated": "2026-04-21 19:21:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-21 19:21:02",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-21 19:21:02",
       "message": "[PROCESSING] Analyzing: Tim Cook was an innovator \u2014 just not the Jobs kind..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-21 19:21:44",
       "message": "Reprocessing: AI Will Soon Drive A Third Of TSMC\u2019s Business"
+    },
+    {
+      "timestamp": "2026-04-21 19:21:46",
+      "message": "[SKIP] Content too short: AI Will Soon Drive A Third Of ..."
     }
   ]
 }
