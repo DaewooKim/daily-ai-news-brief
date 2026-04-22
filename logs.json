@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-22 10:48:27",
+  "last_updated": "2026-04-22 10:48:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-22 10:47:47",
-      "message": "Reprocessing: Sources: OpenAI has pledged up to $1.5B to a new joint venture with PE firms to help deploy AI across their portfolio companies, starting with $500M in equity (Financial Times)"
-    },
     {
       "timestamp": "2026-04-22 10:47:49",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI has pledged up to $1.5B to a new joint venture with PE firms to help deploy AI across their portfolio companies, starting with $500M in equity (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-22 10:48:27",
       "message": "[PROCESSING] Analyzing: Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?..."
+    },
+    {
+      "timestamp": "2026-04-22 10:48:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?"
     }
   ]
 }
