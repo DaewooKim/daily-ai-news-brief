@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-22 19:37:12",
+  "last_updated": "2026-04-22 19:37:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-22 19:36:30",
-      "message": "[SUCCESS] Processed: \uc804 \uc138\uacc4 \uae30\uc5c5\uc744 \uc704\ud55c Codex \ud655\uc7a5\n  > Summary: OpenAI\ub294 Codex Labs\ub97c \ucd9c\uc2dc\ud558\uace0 Accenture, PwC, Infosys\uc640 ..."
-    },
     {
       "timestamp": "2026-04-22 19:36:32",
       "message": "[PROCESSING] Analyzing: Google Cloud launches two new AI chips to compete with Nvidia..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-22 19:37:12",
       "message": "[PROCESSING] Analyzing: GigaDevice Launches GD32F5HC MCU for High Performance HMI and IoT Edge..."
+    },
+    {
+      "timestamp": "2026-04-22 19:37:14",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Launches GD32F5HC MCU for High Performance HMI and IoT Edge"
     }
   ]
 }
