@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-22 17:25:41",
+  "last_updated": "2026-04-22 17:25:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-22 17:25:00",
-      "message": "[SUCCESS] Processed: ASIC\uc758 \ubcc0\ud654\ud558\ub294 \ud48d\uacbd: \uce69 \ube44\uad6c\uc131\uc744 \ud5a5\ud55c \uc804\ud658\n  > Summary: AI\uc758 \uae09\uc18d\ud55c \ubc1c\uc804\uc774 \uc2e4\ub9ac\ucf58\uc5d0 \ub300\ud55c \uc694\uad6c\ub97c \uc7ac\ud3b8\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. ASICs\uc5d0 \uc788\uc5b4, \uc6cc\ud06c\ub85c\ub4dc..."
-    },
     {
       "timestamp": "2026-04-22 17:25:02",
       "message": "[PROCESSING] Analyzing: Data Center World 2026: New Limits Push Power Architecture Beyond the Rack..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-22 17:25:41",
       "message": "[PROCESSING] Analyzing: Substack adds translation tools, and says ~100K publishers earn on the platform, including ~30K outside the US; European creators earn $90M+/year collectively (On Substack)..."
+    },
+    {
+      "timestamp": "2026-04-22 17:25:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Substack adds translation tools, and says ~100K publishers earn on the platform, including ~30K outside the US; European creators earn $90M+/year collectively (On Substack)"
     }
   ]
 }
