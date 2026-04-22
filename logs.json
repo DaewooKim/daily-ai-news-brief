@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-22 10:47:58",
+  "last_updated": "2026-04-22 10:48:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-22 10:47:18",
-      "message": "[SUCCESS] Processed: \uc77c\ub860 \uba38\uc2a4\ud06c\uac00 \uc2a4\ud398\uc774\uc2a4X\uc758 \uc6d0\ub798 \ubaa9\ud45c\uc778 \ud654\uc131 \ub3c4\ub2ec\uc744 \ucd95\uc18c\ud558\uace0 AI \ubc0f \uae30\ud0c0 \ud504\ub85c\uc81d\ud2b8\uc5d0 \uc9d1\uc911\ud558\ub294 \ubc29\uc2dd\uc5d0 \ub300\ud55c \uc18c\uc2dd\n  > Summary: \uc2a4\ud398\uc774\uc2a4X\uac00 \uc0c1\uc7a5\uc744 \uc900\ube44\ud558\uba74\uc11c \uc6d0\ub798 \ubaa9\ud45c\uc778 \ud654\uc131 \ud0d0\uc0ac\ub97c \ucd95\uc18c\ud558\uace0 AI\uc640 \ub2e4\ub978 \ud601\uc2e0\uc801\uc778 \ud504\ub85c..."
-    },
     {
       "timestamp": "2026-04-22 10:47:20",
       "message": "[PROCESSING] Analyzing: A South Korean court sentences a former Samsung researcher to seven years in prison for leaking semiconductor tech to China's CXMT, helping it develop HBM (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-22 10:47:58",
       "message": "[PROCESSING] Analyzing: A UK tribunal rules Microsoft must face a lawsuit alleging it overcharged UK businesses to run Windows Server on cloud services from Amazon, Google, and Alibaba (Sam Tobin/Reuters)..."
+    },
+    {
+      "timestamp": "2026-04-22 10:48:00",
+      "message": "[SKIP] Irrelevant (AI Filter): A UK tribunal rules Microsoft must face a lawsuit alleging it overcharged UK businesses to run Windows Server on cloud services from Amazon, Google, and Alibaba (Sam Tobin/Reuters)"
     }
   ]
 }
