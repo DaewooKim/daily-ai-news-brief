@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-04-22 01:58:58",
+  "last_updated": "2026-04-22 01:59:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-22 01:58:25",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-04-22 01:58:25",
-      "message": "[PROCESSING] Analyzing: We translated the Palantir manifesto for actual human beings..."
-    },
     {
       "timestamp": "2026-04-22 01:58:29",
       "message": "[SKIP] Irrelevant (AI Filter): We translated the Palantir manifesto for actual human beings"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-04-22 01:58:58",
       "message": "[SKIP] Content too short: Bechtolsheim & Friends Breathe..."
+    },
+    {
+      "timestamp": "2026-04-22 01:58:59",
+      "message": "Reprocessing: How HPC And AI Digital Twins Accelerate Quantum Error Correction"
+    },
+    {
+      "timestamp": "2026-04-22 01:59:00",
+      "message": "[SKIP] Content too short: How HPC And AI Digital Twins A..."
     }
   ]
 }
