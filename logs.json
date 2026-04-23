@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 10:14:05",
+  "last_updated": "2026-04-23 10:14:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 10:13:20",
-      "message": "[SUCCESS] Processed: TSMC\ub294 \ube44\uc6a9 \uc808\uac10\uc744 \uc704\ud574 2029\ub144\uae4c\uc9c0 ASML\uc758 \ucd5c\uc2e0 \uace0-NA EUV \uae30\uacc4 \uc0ac\uc6a9\uc744 \uc5f0\uae30\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: \ub300\ub9cc \ubc18\ub3c4\uccb4 \uc81c\uc870\uc0ac TSMC\ub294 ASML\uc758 \ucd5c\uc2e0 \uace0-NA EUV \uae30\uacc4\ub97c 2029\ub144\uae4c\uc9c0 \uc0ac\uc6a9\ud558..."
-    },
     {
       "timestamp": "2026-04-23 10:13:23",
       "message": "Reprocessing: TSMC unveils its process technology roadmap through 2029, aiming to launch a new node yearly for client applications and every two years for AI and HPC (Anton Shilov/Tom's Hardware)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 10:14:05",
       "message": "[PROCESSING] Analyzing: Bosch Executive Erik Rein Elected New President of ESIA..."
+    },
+    {
+      "timestamp": "2026-04-23 10:14:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Bosch Executive Erik Rein Elected New President of ESIA"
     }
   ]
 }
