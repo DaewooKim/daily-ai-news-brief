@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 06:46:11",
+  "last_updated": "2026-04-23 06:46:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 06:45:22",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, \ud638\uc8fc\uc5d0 2029\ub144\uae4c\uc9c0 250\uc5b5 \ud638\uc8fc \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d \ubc1c\ud45c\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uac00 2029\ub144\uae4c\uc9c0 \ud638\uc8fc\uc5d0\uc11c Azure AI \uc288\ud37c\ucef4\ud4e8\ud305 \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc778\ud504\ub77c \ud655\uc7a5..."
-    },
     {
       "timestamp": "2026-04-23 06:45:24",
       "message": "[PROCESSING] Analyzing: An undergraduate used AI assistants to rewrite leaked source code for Claude Code in a different language, highlighting the uncertainty over copyright and AI (Meaghan Tobin/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 06:46:11",
       "message": "[PROCESSING] Analyzing: CMC F2F & Joint Session Highlights Evolving Strategies for Supply Chain Resilience..."
+    },
+    {
+      "timestamp": "2026-04-23 06:46:13",
+      "message": "[SKIP] Irrelevant (AI Filter): CMC F2F & Joint Session Highlights Evolving Strategies for Supply Chain Resilience"
     }
   ]
 }
