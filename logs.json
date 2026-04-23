@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 04:30:13",
+  "last_updated": "2026-04-23 04:30:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 04:29:40",
-      "message": "[PROCESSING] Analyzing: OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets..."
-    },
     {
       "timestamp": "2026-04-23 04:29:44",
       "message": "[SUCCESS] Processed: OpenAI, \uac1c\uc778 \uc815\ubcf4\ub97c \uc81c\uac70\ud558\ub294 \uc624\ud508\uc18c\uc2a4 \ub370\uc774\ud130 \uc815\ud654 \ubaa8\ub378 '\ud504\ub77c\uc774\ubc84\uc2dc \ud544\ud130' \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 \uac1c\uc778 \uc815\ubcf4\ub97c \uc778\uc2dd\ud558\uace0 \uc0ad\uc81c\ud558\ub294 \uc624\ud508\uc18c\uc2a4 \ubaa8\ub378\uc778 '\ud504\ub77c\uc774\ubc84\uc2dc \ud544\ud130'\ub97c \ucd9c\uc2dc\ud588\uc2b5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 04:30:13",
       "message": "Reprocessing: Google launches AI research agents powered by Gemini 3.1 Pro"
+    },
+    {
+      "timestamp": "2026-04-23 04:30:15",
+      "message": "[SKIP] Content too short: Google launches AI research ag..."
     }
   ]
 }
