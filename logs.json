@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 19:16:46",
+  "last_updated": "2026-04-23 19:16:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 19:16:12",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 \uc0c8\ub85c\uc6b4 GPT-5.5 \ubaa8\ub378\uc774 \ub354 \ud6a8\uc728\uc801\uc774\uace0 \ucf54\ub529\uc5d0 \ub354 \ub2a5\ud558\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 \uc0c8\ub85c\uc6b4 \ubaa8\ub378 GPT-5.5\ub97c \ubc1c\ud45c\ud558\uba70, \uc774\ub97c '\uac00\uc7a5 \uc2a4\ub9c8\ud2b8\ud558\uace0 \uc9c1\uad00\uc801\uc778 \ubaa8\ub378..."
-    },
     {
       "timestamp": "2026-04-23 19:16:14",
       "message": "[PROCESSING] Analyzing: Ikea&#8217;s new inflatable chair doesn&#8217;t look like an inflatable chair..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 19:16:46",
       "message": "[PROCESSING] Analyzing: The Role of Cloud-Native Infrastructure in Payments Modernization..."
+    },
+    {
+      "timestamp": "2026-04-23 19:16:48",
+      "message": "[SKIP] Irrelevant (AI Filter): The Role of Cloud-Native Infrastructure in Payments Modernization"
     }
   ]
 }
