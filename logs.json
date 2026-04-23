@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 11:22:18",
+  "last_updated": "2026-04-23 11:22:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 11:21:37",
-      "message": "[PROCESSING] Analyzing: STMicro reports Q1 revenue of $3.10B, above $3.04B est., $171M operating income, above $165.8 est., and forecasts $3.45B revenue for Q2, above $3.21B est. (Nathan Vifflin/Reuters)..."
-    },
     {
       "timestamp": "2026-04-23 11:21:39",
       "message": "[SKIP] Irrelevant (AI Filter): STMicro reports Q1 revenue of $3.10B, above $3.04B est., $171M operating income, above $165.8 est., and forecasts $3.45B revenue for Q2, above $3.21B est. (Nathan Vifflin/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 11:22:18",
       "message": "[PROCESSING] Analyzing: Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026..."
+    },
+    {
+      "timestamp": "2026-04-23 11:22:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026"
     }
   ]
 }
