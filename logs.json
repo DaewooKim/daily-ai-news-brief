@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 13:36:13",
+  "last_updated": "2026-04-23 13:36:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 13:35:23",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 \uc778\ud3ec\uc2dc\uc2a4\uc640 \ud611\ub825\ud558\uc5ec \ub354 \ub9ce\uc740 \uae30\uc5c5\uc5d0 AI \ub3c4\uad6c\ub97c \uc81c\uacf5\ud558\ub2e4\n  > Summary: \uc778\ud3ec\uc2dc\uc2a4\ub294 OpenAI\uc640\uc758 \ud1b5\ud569\uc744 \ud1b5\ud574 \ud074\ub77c\uc774\uc5b8\ud2b8\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc744 \ud604\ub300\ud654\ud558\uace0, \uc6cc\ud06c\ud50c\ub85c..."
-    },
     {
       "timestamp": "2026-04-23 13:35:24",
       "message": "Reprocessing: AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 13:36:13",
       "message": "[PROCESSING] Analyzing: Apple Eyes Product Engineering Revival with CEO Transition..."
+    },
+    {
+      "timestamp": "2026-04-23 13:36:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple Eyes Product Engineering Revival with CEO Transition"
     }
   ]
 }
