@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 06:41:18",
+  "last_updated": "2026-04-23 06:41:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 06:40:33",
-      "message": "[PROCESSING] Analyzing: Introducing OpenAI Privacy Filter..."
-    },
     {
       "timestamp": "2026-04-23 06:40:36",
       "message": "[SUCCESS] Processed: OpenAI \uac1c\uc778\uc815\ubcf4 \ud544\ud130 \ub3c4\uc785\n  > Summary: OpenAI \uac1c\uc778\uc815\ubcf4 \ud544\ud130\ub294 \ud14d\uc2a4\ud2b8\uc5d0\uc11c \uac1c\uc778 \uc2dd\ubcc4 \uc815\ubcf4(PII)\ub97c \uac10\uc9c0\ud558\uace0 \uc218\uc815\ud558\uae30 \uc704\ud55c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 06:41:18",
       "message": "[SUCCESS] Processed: \uad6c\uae00 \ud074\ub77c\uc6b0\ub4dc, \uc5d4\ube44\ub514\uc544\uc640 \uacbd\uc7c1\ud558\uae30 \uc704\ud574 \ub450 \uac00\uc9c0 \uc0c8\ub85c\uc6b4 AI \uce69 \ucd9c\uc2dc\n  > Summary: \uad6c\uae00\uc758 \ucd5c\uc2e0 TPU\ub294 \uc774\uc804 \ubc84\uc804\ubcf4\ub2e4 \ub354 \ube60\ub974\uace0 \uc800\ub834\ud558\ub2e4. \uadf8\ub7ec\ub098 \ud68c\uc0ac\ub294 \ub2f9\ubd84\uac04 \ud074\ub77c\uc6b0\ub4dc\uc5d0\uc11c..."
+    },
+    {
+      "timestamp": "2026-04-23 06:41:20",
+      "message": "[PROCESSING] Analyzing: Google turns Chrome into an AI co-worker for the workplace..."
     }
   ]
 }
