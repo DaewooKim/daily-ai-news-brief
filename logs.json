@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 07:56:13",
+  "last_updated": "2026-04-23 07:56:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 07:55:26",
-      "message": "[PROCESSING] Analyzing: System-in-Package Challenges..."
-    },
     {
       "timestamp": "2026-04-23 07:55:30",
       "message": "[SUCCESS] Processed: \ud328\ud0a4\uc9c0 \ub0b4 \uc2dc\uc2a4\ud15c\uc758 \ub3c4\uc804 \uacfc\uc81c\n  > Summary: \ubc18\ub3c4\uccb4 \ud68c\uc0ac\uc640 \ucca8\ub2e8 \uce69 \uc81c\uc870\uc5c5\uccb4\ub4e4\uc774 \uce69\ub81b \uae30\ubc18 \uc124\uacc4\ub97c \ud1b5\ud574 \uce69\uc758 \ud55c\uacc4\ub97c \ub118\uc5b4\uc11c\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 07:56:13",
       "message": "[PROCESSING] Analyzing: Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?..."
+    },
+    {
+      "timestamp": "2026-04-23 07:56:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?"
     }
   ]
 }
