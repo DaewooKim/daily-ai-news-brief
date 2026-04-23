@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 12:26:11",
+  "last_updated": "2026-04-23 12:26:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 12:25:22",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-23 12:25:34",
       "message": "Found 159 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 12:26:11",
       "message": "[PROCESSING] Analyzing: The Role of Cloud-Native Infrastructure in Payments Modernization..."
+    },
+    {
+      "timestamp": "2026-04-23 12:26:14",
+      "message": "[SKIP] Irrelevant (AI Filter): The Role of Cloud-Native Infrastructure in Payments Modernization"
     }
   ]
 }
