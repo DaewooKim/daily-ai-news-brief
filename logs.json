@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 12:29:48",
+  "last_updated": "2026-04-23 12:29:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 12:29:08",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d\uacfc \ubc95\ub960\ud68c\uc0ac \ud504\ub808\uc26c\ud544\uc988, \ubb38\uc11c \uc791\uc131, \uacc4\uc57d \uac80\ud1a0, \uc2e4\uc0ac \ub4f1\uc744 \uc704\ud55c \uc804\ubb38 \ubc95\ub960 AI \ub3c4\uad6c \uac1c\ubc1c \uacc4\uc57d \uccb4\uacb0\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \ubc95\ub960\ud68c\uc0ac \ud504\ub808\uc26c\ud544\uc988\uc640 \uacc4\uc57d\uc744 \uccb4\uacb0\ud558\uc5ec \ubb38\uc11c \uc791\uc131, \uacc4\uc57d \uac80\ud1a0, \uc2e4\uc0ac \ub4f1\uc744 \uc704\ud55c ..."
-    },
     {
       "timestamp": "2026-04-23 12:29:10",
       "message": "[PROCESSING] Analyzing: Turkey's parliament passes a bill requiring social media and online game companies to restrict access for children under 15, following a school shooting (Andrew Wilks/Associated Press)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 12:29:48",
       "message": "[PROCESSING] Analyzing: Turning the MIPI A-PHY Standard into Camera Design Advantage..."
+    },
+    {
+      "timestamp": "2026-04-23 12:29:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Turning the MIPI A-PHY Standard into Camera Design Advantage"
     }
   ]
 }
