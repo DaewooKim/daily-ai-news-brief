@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 15:56:50",
+  "last_updated": "2026-04-23 15:56:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 15:56:13",
-      "message": "[SUCCESS] Processed: OpenAI, \uc2ac\ub799, \uc138\uc77c\uc988\ud3ec\uc2a4 \ub4f1\uacfc \uc9c1\uc811 \uc5f0\uacb0\ud560 \uc218 \uc788\ub294 \ub9de\ucda4\ud615 GPT\uc758 \ud6c4\uc18d\uc791\uc778 Workspace Agents\ub97c \uacf5\uac1c\ud558\ub2e4\n  > Summary: OpenAI\ub294 \uae30\uc5c5\ub4e4\uc774 AI \uc791\uc5c5\uc790\ub97c \uc81c\uc5b4\ud558\uace0 \ud65c\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\ub294 \uc0c8\ub85c\uc6b4 \uc81c\ud488 'Wor..."
-    },
     {
       "timestamp": "2026-04-23 15:56:15",
       "message": "Reprocessing: OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 15:56:50",
       "message": "Reprocessing: Kalshi suspends three congressional candidates for making bets on their own elections"
+    },
+    {
+      "timestamp": "2026-04-23 15:56:51",
+      "message": "[SKIP] Content too short: Kalshi suspends three congress..."
     }
   ]
 }
