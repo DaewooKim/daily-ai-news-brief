@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-23 13:35:32",
+  "last_updated": "2026-04-23 13:35:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-23 13:34:49",
-      "message": "[SUCCESS] Processed: AI \uc6b0\uc8fc \ud0d0\uc0ac\uc790\ub4e4\uc774 \uae00\ub85c\ubc8c GPU \ubd80\uc871 \uc0ac\ud0dc\uc5d0 \uae30\uc5ec\ud558\uace0 \uc788\ub2e4\n  > Summary: \ucc9c\ubb38\ud559\uc790\ub4e4\uc774 \uc740\ud558\uc5d0\uc11c \uc228\uc740 \ubcc4\uc744 \ucc3e\uae30 \uc704\ud574 GPU\ub97c \ud65c\uc6a9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. AI \uae30\uc220\uc744 \ud1b5\ud574 ..."
-    },
     {
       "timestamp": "2026-04-23 13:34:51",
       "message": "[PROCESSING] Analyzing: Beehiiv rolls out new creator tools, including webinars and customizable paywalls..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-23 13:35:32",
       "message": "[PROCESSING] Analyzing: Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims..."
+    },
+    {
+      "timestamp": "2026-04-23 13:35:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims"
     }
   ]
 }
