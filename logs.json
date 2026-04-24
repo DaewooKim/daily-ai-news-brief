@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 08:54:29",
+  "last_updated": "2026-04-24 08:54:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 08:53:43",
-      "message": "Reprocessing: DeepSeek V4 Pro has 1.6T total parameters, its largest model by that metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens (South China Morning Post)"
-    },
     {
       "timestamp": "2026-04-24 08:53:45",
       "message": "[PROCESSING] Analyzing: DeepSeek V4 Pro has 1.6T total parameters, its largest model by that metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens (South China Morning Post)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 08:54:29",
       "message": "[SKIP] Irrelevant (AI Filter): Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?"
+    },
+    {
+      "timestamp": "2026-04-24 08:54:31",
+      "message": "[PROCESSING] Analyzing: Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026..."
     }
   ]
 }
