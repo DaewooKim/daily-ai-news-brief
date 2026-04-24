@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 07:45:03",
+  "last_updated": "2026-04-24 07:45:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 07:44:28",
-      "message": "[PROCESSING] Analyzing: GPT-5.5 Bio Bug Bounty..."
-    },
     {
       "timestamp": "2026-04-24 07:44:31",
       "message": "[SUCCESS] Processed: GPT-5.5 \uc0dd\ubb3c \ud574\ud0b9 \ubc84\uadf8 \ud604\uc0c1\uae08\n  > Summary: GPT-5.5 \uc0dd\ubb3c \ud574\ud0b9 \ubc84\uadf8 \ud604\uc0c1\uae08\uc740 \uc0dd\ubb3c \uc548\uc804 \uc704\ud5d8\uc5d0 \ub300\ud55c \ubcf4\ud3b8\uc801\uc778 \ud0c8\uc625\uc744 \ucc3e\uc544\ub0b4\uae30 \uc704..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 07:45:03",
       "message": "[PROCESSING] Analyzing: Designing and Optimizing the Stability of Switch Mode Power Supplies..."
+    },
+    {
+      "timestamp": "2026-04-24 07:45:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Designing and Optimizing the Stability of Switch Mode Power Supplies"
     }
   ]
 }
