@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 16:44:52",
+  "last_updated": "2026-04-24 16:44:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 16:44:16",
-      "message": "[SUCCESS] Processed: Nothing, \uc778\uacf5\uc9c0\ub2a5 \uae30\ubc18\uc758 \ubc1b\uc544\uc4f0\uae30 \ub3c4\uad6c\ub97c \uc18c\uac1c\ud558\ub2e4\n  > Summary: Nothing\uc740 100\uac1c \uc774\uc0c1\uc758 \uc5b8\uc5b4\ub97c \uc9c0\uc6d0\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc628\ub514\ubc14\uc774\uc2a4 \ubc1b\uc544\uc4f0\uae30 \ub3c4\uad6c\ub97c \ucd9c\uc2dc\ud588\uc2b5..."
-    },
     {
       "timestamp": "2026-04-24 16:44:18",
       "message": "Reprocessing: DeepSeek previews new AI model that \u2018closes the gap\u2019 with frontier models"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 16:44:52",
       "message": "[PROCESSING] Analyzing: NewPower Worldwide Named a Partner of the Year at HPE 2026 Partner Summit..."
+    },
+    {
+      "timestamp": "2026-04-24 16:44:54",
+      "message": "[SKIP] Irrelevant (AI Filter): NewPower Worldwide Named a Partner of the Year at HPE 2026 Partner Summit"
     }
   ]
 }
