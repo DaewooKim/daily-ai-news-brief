@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 21:12:17",
+  "last_updated": "2026-04-24 21:12:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 21:11:41",
-      "message": "Found 189 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-24 21:11:41",
       "message": "[PROCESSING] Analyzing: Microsoft will let you pause Windows Updates indefinitely, 35 days at a time..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 21:12:17",
       "message": "Reprocessing: The Second Time Will Be The IPO Charm For Cerebras"
+    },
+    {
+      "timestamp": "2026-04-24 21:12:19",
+      "message": "[SKIP] Content too short: The Second Time Will Be The IP..."
     }
   ]
 }
