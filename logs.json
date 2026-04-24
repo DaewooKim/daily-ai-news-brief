@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 22:24:30",
+  "last_updated": "2026-04-24 22:24:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 22:23:57",
-      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
-    },
     {
       "timestamp": "2026-04-24 22:23:59",
       "message": "[PROCESSING] Analyzing: ISO 26262: The Impact of ASIL Metrics on Embedded Software Design..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 22:24:30",
       "message": "Reprocessing: DDN and Google Cloud are redefining AI storage infrastructure for the agentic era"
+    },
+    {
+      "timestamp": "2026-04-24 22:24:31",
+      "message": "[SKIP] Content too short: DDN and Google Cloud are redef..."
     }
   ]
 }
