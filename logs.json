@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 01:02:57",
+  "last_updated": "2026-04-24 01:02:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 01:02:14",
-      "message": "[PROCESSING] Analyzing: OpenAI launches GPT-5.5, designed to handle complex tasks with minimal guidance; the model will be used to power the company's upcoming \"super app\" (Rachel Metz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-04-24 01:02:18",
       "message": "[SUCCESS] Processed: OpenAI\uac00 \ubcf5\uc7a1\ud55c \uc791\uc5c5\uc744 \ucd5c\uc18c\ud55c\uc758 \uc9c0\uce68\uc73c\ub85c \ucc98\ub9ac\ud558\ub3c4\ub85d \uc124\uacc4\ub41c GPT-5.5\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4; \uc774 \ubaa8\ub378\uc740 \ud68c\uc0ac\uc758 \ud5a5\ud6c4 '\uc288\ud37c \uc571'\uc744 \uad6c\ub3d9\ud558\ub294 \ub370 \uc0ac\uc6a9\ub429\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 \ubcf5\uc7a1\ud55c \uc791\uc5c5\uc744 \ucd5c\uc18c\ud55c\uc758 \uc9c0\uce68\uc73c\ub85c \uc218\ud589\ud560 \uc218 \uc788\ub3c4\ub85d \uc124\uacc4\ub41c \uc778\uacf5\uc9c0\ub2a5 \ubaa8\ub378 GP..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 01:02:57",
       "message": "[PROCESSING] Analyzing: Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026..."
+    },
+    {
+      "timestamp": "2026-04-24 01:02:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026"
     }
   ]
 }
