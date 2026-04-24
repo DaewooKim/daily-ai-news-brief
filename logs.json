@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-23 23:57:54",
-  "status": "idle",
+  "last_updated": "2026-04-24 00:58:24",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-23 23:56:32",
-      "message": "Reprocessing: Healthcare AI succeeds or fails on the strength of its data foundation"
+      "timestamp": "2026-04-24 00:58:12",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-23 23:56:33",
-      "message": "[SKIP] Content too short: Healthcare AI succeeds or fail..."
+      "timestamp": "2026-04-24 00:58:12",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-23 23:56:35",
-      "message": "Reprocessing: Stop experimenting, start deploying: Kyndryl\u2019s blueprint for enterprise AI at scale"
+      "timestamp": "2026-04-24 00:58:12",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-23 23:56:36",
-      "message": "[SKIP] Content too short: Stop experimenting, start depl..."
+      "timestamp": "2026-04-24 00:58:24",
+      "message": "Found 176 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-23 23:56:38",
-      "message": "Reprocessing: McKinsey global strategy leader says it\u2019s \u2018game over\u2019 when CEOs delegate AI to the analytics team"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:39",
-      "message": "[SKIP] Content too short: McKinsey global strategy leade..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:41",
-      "message": "Reprocessing: Three insights you might have missed from theCUBE\u2019s coverage of HPE World Quantum Day"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:43",
-      "message": "[SKIP] Content too short: Three insights you might have ..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:44",
-      "message": "Reprocessing: Portal26 launches Agentic Token Controls to cap runaway AI agent spend"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:45",
-      "message": "[SKIP] Content too short: Portal26 launches Agentic Toke..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:47",
-      "message": "Reprocessing: Cisco unveils universal switch for the quantum networking era"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:49",
-      "message": "[SKIP] Content too short: Cisco unveils universal switch..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:50",
-      "message": "Reprocessing: Copperhelm\u00a0dives deep into automation to\u00a0build enterprise cloud\u00a0defenses"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:52",
-      "message": "[SKIP] Content too short: Copperhelm\u00a0dives deep into aut..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:53",
-      "message": "Reprocessing: Braze launches agentic AI tools and Creative Studio, adds EU hosting for Decisioning Studio"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:55",
-      "message": "[SKIP] Content too short: Braze launches agentic AI tool..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:56",
-      "message": "Reprocessing: Yutori\u00a0launches Delegate to turn AI agents into proactive web workers"
-    },
-    {
-      "timestamp": "2026-04-23 23:56:58",
-      "message": "[SKIP] Content too short: Yutori\u00a0launches Delegate to tu..."
-    },
-    {
-      "timestamp": "2026-04-23 23:56:59",
-      "message": "Reprocessing: Rilian raises $17.5M to automate security software procurement and deployment in the defense sector"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:01",
-      "message": "[SKIP] Content too short: Rilian raises $17.5M to automa..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:02",
-      "message": "Reprocessing: Kalshi suspends three congressional candidates for making bets on their own elections"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:04",
-      "message": "[SKIP] Content too short: Kalshi suspends three congress..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:05",
-      "message": "Reprocessing: Salesforce and Google partner on agentic cross-platform collaboration"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:07",
-      "message": "[SKIP] Content too short: Salesforce and Google partner ..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:08",
-      "message": "Reprocessing: Google Cloud inks AI infrastructure deal with Thinking Machines"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:10",
-      "message": "[SKIP] Content too short: Google Cloud inks AI infrastru..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:11",
-      "message": "Reprocessing: OpenAI subscribers get new \u2018workspace agents\u2019 to automate complex tasks across teams"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:13",
-      "message": "[SKIP] Content too short: OpenAI subscribers get new \u2018wo..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:14",
-      "message": "Reprocessing: ServiceNow\u2019s stock skids as Middle East conflict drags on revenue"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:16",
-      "message": "[SKIP] Content too short: ServiceNow\u2019s stock skids as Mi..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:17",
-      "message": "Reprocessing: IBM blows past estimates, but declines to raise full-year forecast, tanking the stock"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:19",
-      "message": "[SKIP] Content too short: IBM blows past estimates, but ..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:20",
-      "message": "Reprocessing: Groundcover adds agentic AI tracing to observability platform, backs Google Vertex AI"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:22",
-      "message": "[SKIP] Content too short: Groundcover adds agentic AI tr..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:23",
-      "message": "Reprocessing: Google launches AI research agents powered by Gemini 3.1 Pro"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:25",
-      "message": "[SKIP] Content too short: Google launches AI research ag..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:26",
-      "message": "[PROCESSING] Analyzing: Ubuntu 26.04 LTS Moving the Industry forward with Linux 7.0 and More..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:28",
-      "message": "[SKIP] Irrelevant (AI Filter): Ubuntu 26.04 LTS Moving the Industry forward with Linux 7.0 and More"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:29",
-      "message": "[PROCESSING] Analyzing: Kioxia EG7 M.2 SSD Line Launched..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:32",
-      "message": "[SKIP] Irrelevant (AI Filter): Kioxia EG7 M.2 SSD Line Launched"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:33",
-      "message": "Reprocessing: AMD Ryzen 9 9950X3D2 Dual Edition Review: Rising A Bit Higher"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:34",
-      "message": "[PROCESSING] Analyzing: AMD Ryzen 9 9950X3D2 Dual Edition Review: Rising A Bit Higher..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:36",
-      "message": "[SKIP] Irrelevant (AI Filter): AMD Ryzen 9 9950X3D2 Dual Edition Review: Rising A Bit Higher"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:38",
-      "message": "[PROCESSING] Analyzing: John Ternus to Take Over Apple CEO Role..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:40",
-      "message": "[SKIP] Irrelevant (AI Filter): John Ternus to Take Over Apple CEO Role"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:42",
-      "message": "[PROCESSING] Analyzing: AOC 16T20 Portable Monitor Mini Review..."
-    },
-    {
-      "timestamp": "2026-04-23 23:57:44",
-      "message": "[SKIP] Irrelevant (AI Filter): AOC 16T20 Portable Monitor Mini Review"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:45",
-      "message": "Completed! New: 4, Updated: 63"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:49",
-      "message": "Saved 67 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-23 23:57:53",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-24 00:58:24",
+      "message": "[PROCESSING] Analyzing: US arrests soldier who allegedly made $400k on Maduro Polymarket bets..."
     }
   ]
 }
