@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 17:50:44",
+  "last_updated": "2026-04-24 17:50:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 17:49:54",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-24 17:50:05",
       "message": "Found 188 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 17:50:44",
       "message": "[PROCESSING] Analyzing: I don&#8217;t think Gwyneth Paltrow knows what a peptide is..."
+    },
+    {
+      "timestamp": "2026-04-24 17:50:46",
+      "message": "[SKIP] Irrelevant (AI Filter): I don&#8217;t think Gwyneth Paltrow knows what a peptide is"
     }
   ]
 }
