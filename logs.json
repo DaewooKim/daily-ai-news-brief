@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 23:30:17",
+  "last_updated": "2026-04-24 23:30:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 23:29:36",
-      "message": "[SUCCESS] Processed: CoreWeave, \uad6c\uae00 \ud074\ub77c\uc6b0\ub4dc \ub125\uc2a4\ud2b8\uc5d0\uc11c \uba40\ud2f0 \ud074\ub77c\uc6b0\ub4dc AI \uc2a4\ud0dd \ud655\ub300\n  > Summary: AI \ud074\ub77c\uc6b0\ub4dc \uc81c\uacf5\uc5c5\uccb4\uc778 CoreWeave\ub294 \uba40\ud2f0 \ud074\ub77c\uc6b0\ub4dc AI \uc778\ud504\ub77c\uc758 \uc8fc\uc694 \ubcd1\ubaa9 \ud604\uc0c1\uc744..."
-    },
     {
       "timestamp": "2026-04-24 23:29:38",
       "message": "[PROCESSING] Analyzing: The US CFTC sues New York, accusing the state of invading its authority to regulate prediction markets by filing lawsuits against Coinbase and Gemini (Jonathan Stempel/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 23:30:17",
       "message": "[PROCESSING] Analyzing: X launches its standalone messaging app XChat on the App Store, saying it supports end-to-end encryption and has no ads (Zac Hall/9to5Mac)..."
+    },
+    {
+      "timestamp": "2026-04-24 23:30:19",
+      "message": "[SKIP] Irrelevant (AI Filter): X launches its standalone messaging app XChat on the App Store, saying it supports end-to-end encryption and has no ads (Zac Hall/9to5Mac)"
     }
   ]
 }
