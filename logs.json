@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 07:46:24",
+  "last_updated": "2026-04-24 07:46:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 07:45:40",
-      "message": "[PROCESSING] Analyzing: Data Center World 2026: AI Pushes Infrastructure to New Limits..."
-    },
     {
       "timestamp": "2026-04-24 07:45:44",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130 \uc6d4\ub4dc 2026: AI\uac00 \uc778\ud504\ub77c\ub97c \uc0c8\ub85c\uc6b4 \ud55c\uacc4\ub85c \ubc00\uc5b4\ubd99\uc774\ub2e4\n  > Summary: AI\ub294 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc124\uacc4, \uc804\ub825 \uacf5\uae09 \ubc0f \uac74\ucd95 \ubc29\uc2dd\uc5d0 \ubcc0\ud654\ub97c \uac00\uc838\uc624\uace0 \uc788\uc73c\uba70, \uc0b0\uc5c5 \uc804\ubc18..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 07:46:24",
       "message": "[SUCCESS] Processed: AI \ubd90\uc774 \uad11\ud1b5\uc2e0 \uc7a5\ube44 \uc81c\uc870\uc5c5\uccb4 \uc911\uc9c0 \uc778\ub180\ub77c\uc774\ud2b8\uc758 \uc2dc\uc7a5 \uac00\uce58\ub97c 1460\uc5b5 \ub2ec\ub7ec\uc5d0 \uac00\uae4c\uc6b4 \uc5ed\ub300 \ucd5c\uace0\ub85c \ubc00\uc5b4 \uc62c\ub838\ub2e4 (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: AI \ubd90\uc73c\ub85c \uc778\ud574 \uc911\uad6d \uc0c1\uc7a5\uc0ac \uc911\uc9c0 \uc778\ub180\ub77c\uc774\ud2b8\uc758 \uc2dc\uc7a5 \uac00\uce58\uac00 1460\uc5b5 \ub2ec\ub7ec\uc5d0 \uac00\uae4c\uc6cc\uc9c0\uba70 ..."
+    },
+    {
+      "timestamp": "2026-04-24 07:46:25",
+      "message": "Reprocessing: DeepSeek V4 Pro has 1.6T total parameters, its largest model by that metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens (South China Morning Post)"
     }
   ]
 }
