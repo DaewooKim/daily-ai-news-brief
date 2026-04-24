@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 18:59:32",
+  "last_updated": "2026-04-24 18:59:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 18:58:53",
-      "message": "[SKIP] Content too short: GPT-5.5 System Card..."
-    },
     {
       "timestamp": "2026-04-24 18:58:55",
       "message": "Reprocessing: Automations"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 18:59:32",
       "message": "[PROCESSING] Analyzing: Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco..."
+    },
+    {
+      "timestamp": "2026-04-24 18:59:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco"
     }
   ]
 }
