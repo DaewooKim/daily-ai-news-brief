@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 09:58:06",
+  "last_updated": "2026-04-24 09:58:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 09:57:15",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-24 09:57:27",
       "message": "Found 178 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 09:58:06",
       "message": "[SKIP] Content too short: Cisco Scales Out Quantum Syste..."
+    },
+    {
+      "timestamp": "2026-04-24 09:58:07",
+      "message": "Reprocessing: Stop Measuring AI Training Costs In GPU Hours"
     }
   ]
 }
