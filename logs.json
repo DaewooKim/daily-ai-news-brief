@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-24 23:31:37",
+  "last_updated": "2026-04-24 23:31:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-24 23:31:04",
-      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
-    },
     {
       "timestamp": "2026-04-24 23:31:05",
       "message": "[PROCESSING] Analyzing: ISO 26262: The Impact of ASIL Metrics on Embedded Software Design..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-24 23:31:37",
       "message": "Reprocessing: Intercom\u2019s customer service agent takes on new sales role"
+    },
+    {
+      "timestamp": "2026-04-24 23:31:38",
+      "message": "[SKIP] Content too short: Intercom\u2019s customer service ag..."
     }
   ]
 }
