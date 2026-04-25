@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 16:02:07",
+  "last_updated": "2026-04-25 16:02:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 16:01:30",
-      "message": "Found 184 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-25 16:01:30",
       "message": "[PROCESSING] Analyzing: Researchers say we\u2019re talking less than ever..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 16:02:07",
       "message": "[PROCESSING] Analyzing: The person who allegedly leaked Paramount\u2019s new Avatar movie has been arrested..."
+    },
+    {
+      "timestamp": "2026-04-25 16:02:10",
+      "message": "[SKIP] Irrelevant (AI Filter): The person who allegedly leaked Paramount\u2019s new Avatar movie has been arrested"
     }
   ]
 }
