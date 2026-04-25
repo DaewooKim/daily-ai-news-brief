@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 00:35:01",
+  "last_updated": "2026-04-25 00:35:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 00:34:19",
-      "message": "[SKIP] Irrelevant (AI Filter): Backup under attack"
-    },
     {
       "timestamp": "2026-04-25 00:34:20",
       "message": "[PROCESSING] Analyzing: Build with DeepSeek V4 Using NVIDIA Blackwell and GPU-Accelerated Endpoints..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 00:35:01",
       "message": "Reprocessing: GPT-5.5 System Card"
+    },
+    {
+      "timestamp": "2026-04-25 00:35:02",
+      "message": "[SKIP] Content too short: GPT-5.5 System Card..."
     }
   ]
 }
