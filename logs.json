@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 10:31:48",
+  "last_updated": "2026-04-25 10:31:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 10:31:05",
-      "message": "[PROCESSING] Analyzing: Backup under attack..."
-    },
     {
       "timestamp": "2026-04-25 10:31:07",
       "message": "[SKIP] Irrelevant (AI Filter): Backup under attack"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 10:31:48",
       "message": "[SKIP] Content too short: GPT-5.5 System Card..."
+    },
+    {
+      "timestamp": "2026-04-25 10:31:50",
+      "message": "Reprocessing: GPT-5.5 Bio Bug Bounty"
     }
   ]
 }
