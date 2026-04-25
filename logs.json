@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 21:35:11",
+  "last_updated": "2026-04-25 21:35:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 21:34:37",
-      "message": "[SUCCESS] Processed: \uba54\uc778 \uc8fc\uc9c0\uc0ac, \ub370\uc774\ud130 \uc13c\ud130 \ubaa8\ub77c\ud1a0\ub9ac\uc5c4 \uac70\ubd80\n  > Summary: L.D. 307 \ubc95\uc548\uc740 \uba54\uc778\uc8fc\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \uccab \uc8fc \uc804\uccb4 \ubaa8\ub77c\ud1a0\ub9ac\uc5c4\uc744 \uc2e4\uc2dc..."
-    },
     {
       "timestamp": "2026-04-25 21:34:39",
       "message": "[PROCESSING] Analyzing: OpenAI CEO apologizes to Tumbler Ridge community..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 21:35:11",
       "message": "[PROCESSING] Analyzing: NewPower Worldwide Named a Partner of the Year at HPE 2026 Partner Summit..."
+    },
+    {
+      "timestamp": "2026-04-25 21:35:13",
+      "message": "[SKIP] Irrelevant (AI Filter): NewPower Worldwide Named a Partner of the Year at HPE 2026 Partner Summit"
     }
   ]
 }
