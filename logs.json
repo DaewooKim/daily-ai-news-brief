@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 06:09:04",
+  "last_updated": "2026-04-25 06:09:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 06:08:28",
-      "message": "[SKIP] Irrelevant (AI Filter): Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can't be replicated by AI (Kate Clark/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-04-25 06:08:29",
       "message": "[PROCESSING] Analyzing: Brazil's Finance Minister Dario Durigan says the country has blocked prediction market platforms and tightened derivatives rules to curb \"bet-like\" products (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 06:09:04",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-25 06:09:06",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
