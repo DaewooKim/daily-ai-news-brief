@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 22:39:45",
+  "last_updated": "2026-04-25 22:39:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 22:39:13",
-      "message": "[PROCESSING] Analyzing: Sho Miyake answers life\u2019s greatest questions..."
-    },
     {
       "timestamp": "2026-04-25 22:39:15",
       "message": "[SKIP] Irrelevant (AI Filter): Sho Miyake answers life\u2019s greatest questions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 22:39:45",
       "message": "[SKIP] Irrelevant (AI Filter): Backup under attack"
+    },
+    {
+      "timestamp": "2026-04-25 22:39:46",
+      "message": "Reprocessing: Build with DeepSeek V4 Using NVIDIA Blackwell and GPU-Accelerated Endpoints"
     }
   ]
 }
