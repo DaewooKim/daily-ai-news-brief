@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 00:36:30",
+  "last_updated": "2026-04-25 00:36:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 00:35:51",
-      "message": "[PROCESSING] Analyzing: TSMC Unfolds Map for Process, Packaging Tech..."
-    },
     {
       "timestamp": "2026-04-25 00:35:54",
       "message": "[SUCCESS] Processed: TSMC, \ud504\ub85c\uc138\uc2a4 \ubc0f \ud328\ud0a4\uc9d5 \uae30\uc220\uc744 \uc704\ud55c \ub85c\ub4dc\ub9f5 \uacf5\uac1c\n  > Summary: TSMC\uac00 \uc0c8\ub85c\uc6b4 \ud504\ub85c\uc138\uc2a4 \ubc0f \ud328\ud0a4\uc9d5 \uae30\uc220\uc758 \uce69 \ub85c\ub4dc\ub9f5\uc744 \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc5ec\uae30\uc5d0\ub294 AI \ub370\uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 00:36:30",
       "message": "[PROCESSING] Analyzing: A US judge dismisses Elon Musk's fraud claims in his lawsuit against OpenAI at his request, and plans to proceed to trial on other claims (Jonathan Stempel/Reuters)..."
+    },
+    {
+      "timestamp": "2026-04-25 00:36:33",
+      "message": "[SKIP] Irrelevant (AI Filter): A US judge dismisses Elon Musk's fraud claims in his lawsuit against OpenAI at his request, and plans to proceed to trial on other claims (Jonathan Stempel/Reuters)"
     }
   ]
 }
