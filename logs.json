@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 08:22:03",
+  "last_updated": "2026-04-25 08:22:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 08:21:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Europe's dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete (The Economist)"
-    },
     {
       "timestamp": "2026-04-25 08:21:25",
       "message": "[PROCESSING] Analyzing: The US CFTC sues New York, accusing the state of invading its authority to regulate prediction markets by filing lawsuits against Coinbase and Gemini (Jonathan Stempel/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 08:22:03",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-25 08:22:05",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
