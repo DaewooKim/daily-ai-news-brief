@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 17:08:48",
+  "last_updated": "2026-04-25 17:08:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 17:08:03",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-04-25 17:08:03",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 17:08:48",
       "message": "[PROCESSING] Analyzing: Alex Jones has uncovered another massive conspiracy..."
+    },
+    {
+      "timestamp": "2026-04-25 17:08:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Alex Jones has uncovered another massive conspiracy"
     }
   ]
 }
