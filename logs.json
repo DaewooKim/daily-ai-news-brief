@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-25 01:43:47",
+  "last_updated": "2026-04-25 01:43:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-25 01:43:09",
-      "message": "Reprocessing: ComfyUI, which gives creators granular control over image, video, and audio outputs from diffusion models, raised $30M at a $500M valuation (Marina Temkin/TechCrunch)"
-    },
     {
       "timestamp": "2026-04-25 01:43:11",
       "message": "[PROCESSING] Analyzing: ComfyUI, which gives creators granular control over image, video, and audio outputs from diffusion models, raised $30M at a $500M valuation (Marina Temkin/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-25 01:43:47",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-25 01:43:49",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
