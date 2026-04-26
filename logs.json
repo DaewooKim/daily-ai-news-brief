@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-26 11:49:47",
+  "last_updated": "2026-04-26 11:49:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-26 11:49:05",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-04-26 11:49:05",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-26 11:49:47",
       "message": "[PROCESSING] Analyzing: The US gets the worst phones..."
+    },
+    {
+      "timestamp": "2026-04-26 11:49:49",
+      "message": "[SKIP] Irrelevant (AI Filter): The US gets the worst phones"
     }
   ]
 }
