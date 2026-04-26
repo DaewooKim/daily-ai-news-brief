@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-26 12:55:49",
+  "last_updated": "2026-04-26 12:55:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-26 12:55:14",
-      "message": "Found 169 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-26 12:55:14",
       "message": "[PROCESSING] Analyzing: The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-26 12:55:49",
       "message": "[PROCESSING] Analyzing: The US gets the worst phones..."
+    },
+    {
+      "timestamp": "2026-04-26 12:55:51",
+      "message": "[SKIP] Irrelevant (AI Filter): The US gets the worst phones"
     }
   ]
 }
