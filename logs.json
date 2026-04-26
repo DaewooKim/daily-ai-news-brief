@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-26 18:29:23",
+  "last_updated": "2026-04-26 18:29:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-26 18:28:52",
-      "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
-    },
     {
       "timestamp": "2026-04-26 18:28:54",
       "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-26 18:29:23",
       "message": "[SKIP] Content too short: Covered California and Deloitt..."
+    },
+    {
+      "timestamp": "2026-04-26 18:29:24",
+      "message": "Reprocessing: 6 real-world proofs that enterprise AI actually works: Insights from the Phi Moments @ Next event"
     }
   ]
 }
