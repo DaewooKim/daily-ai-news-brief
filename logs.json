@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-26 14:01:54",
+  "last_updated": "2026-04-26 14:01:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-26 14:01:19",
-      "message": "Found 165 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-26 14:01:19",
       "message": "[PROCESSING] Analyzing: After three months on Linux, I don\u2019t miss Windows at all..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-26 14:01:54",
       "message": "[PROCESSING] Analyzing: The most exciting laptop I\u2019ve seen in forever..."
+    },
+    {
+      "timestamp": "2026-04-26 14:01:56",
+      "message": "[SKIP] Irrelevant (AI Filter): The most exciting laptop I\u2019ve seen in forever"
     }
   ]
 }
