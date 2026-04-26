@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-26 17:23:32",
+  "last_updated": "2026-04-26 17:23:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-26 17:23:02",
-      "message": "[SUCCESS] Processed: SEMI\uc758 ASMC \uc774\ubca4\ud2b8\uac00 \uc624\ub298\ub0a0 \uac00\uc7a5 \ud070 \ubc18\ub3c4\uccb4 \uc81c\uc870 \uacfc\uc81c\ub97c \uadf9\ubcf5\ud558\uae30 \uc704\ud55c \uc2e4\uc6a9\uc801\uc778 \uc804\ub7b5\uc5d0 \uc8fc\ubaa9\ud569\ub2c8\ub2e4\n  > Summary: SEMI\ub294 \ub274\uc695 \uc568\ubc84\ub2c8\uc5d0\uc11c \uac1c\ucd5c\ub418\ub294 \uc81c37\ud68c \uace0\uae09 \ubc18\ub3c4\uccb4 \uc81c\uc870 \ucee8\ud37c\ub7f0\uc2a4(ASMC)\uc758 \ud504\ub85c\uadf8..."
-    },
     {
       "timestamp": "2026-04-26 17:23:04",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-26 17:23:32",
       "message": "Reprocessing: 6 real-world proofs that enterprise AI actually works: Insights from the Phi Moments @ Next event"
+    },
+    {
+      "timestamp": "2026-04-26 17:23:33",
+      "message": "[SKIP] Content too short: 6 real-world proofs that enter..."
     }
   ]
 }
