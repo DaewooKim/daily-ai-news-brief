@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-26 21:46:51",
+  "last_updated": "2026-04-26 21:46:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-26 21:46:16",
-      "message": "[SKIP] Irrelevant (AI Filter): Survey of 1,050 Australian teens: ~60% said they retained access to social media accounts after ban; two-thirds say platforms took no action to remove accounts (Sasha Rogelberg/Fortune)"
-    },
     {
       "timestamp": "2026-04-26 21:46:17",
       "message": "[PROCESSING] Analyzing: A look at growing and increasingly public personal security measures for tech executives as public sentiment turns darkly negative on AI (Eli Rosenberg/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-26 21:46:51",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-26 21:46:53",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
