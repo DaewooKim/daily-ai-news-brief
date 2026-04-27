@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 13:11:08",
+  "last_updated": "2026-04-27 13:11:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 13:10:16",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-27 13:10:28",
       "message": "Found 157 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 13:11:08",
       "message": "[SKIP] Irrelevant (AI Filter): After three months on Linux, I don\u2019t miss Windows at all"
+    },
+    {
+      "timestamp": "2026-04-27 13:11:10",
+      "message": "Reprocessing: With TPU 8, Google Makes GenAI Systems Much Better, Not Just Bigger"
     }
   ]
 }
