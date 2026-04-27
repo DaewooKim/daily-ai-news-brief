@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 20:01:10",
+  "last_updated": "2026-04-27 20:01:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 20:00:34",
-      "message": "Reprocessing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk"
-    },
     {
       "timestamp": "2026-04-27 20:00:36",
       "message": "[PROCESSING] Analyzing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 20:01:10",
       "message": "Reprocessing: Quantum Art raises $140M to scale quantum computing with a unique \u2018multicore\u2019 architecture"
+    },
+    {
+      "timestamp": "2026-04-27 20:01:11",
+      "message": "[SKIP] Content too short: Quantum Art raises $140M to sc..."
     }
   ]
 }
