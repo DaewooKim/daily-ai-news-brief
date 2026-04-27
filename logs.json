@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 22:14:02",
+  "last_updated": "2026-04-27 22:14:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 22:13:32",
-      "message": "[SUCCESS] Processed: RAG \uc815\ubc00 \uc870\uc815\uc774 \uac80\uc0c9 \uc815\ud655\uc131\uc744 40%\uae4c\uc9c0 \uc870\uc6a9\ud788 \uc800\ud558\uc2dc\ud0ac \uc218 \uc788\uc73c\uba70, \uc5d0\uc774\uc804\ud2f1 \ud30c\uc774\ud504\ub77c\uc778\uc5d0 \uc704\ud5d8\uc744 \ucd08\ub300\ud558\ub2e4\n  > Summary: Redis\uc758 \uc0c8\ub85c\uc6b4 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74, RAG \uc784\ubca0\ub529 \ubaa8\ub378\uc744 \uc870\uc815\ud558\uc5ec \ub354 \ub098\uc740 \uc815\ubc00\ub3c4\ub97c \ucd94\uad6c\ud558..."
-    },
     {
       "timestamp": "2026-04-27 22:13:34",
       "message": "[PROCESSING] Analyzing: ISO 26262: The Impact of ASIL Metrics on Embedded Software Design..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 22:14:02",
       "message": "Reprocessing: The AI agent race will be won by companies that build the right data foundation"
+    },
+    {
+      "timestamp": "2026-04-27 22:14:04",
+      "message": "[SKIP] Content too short: The AI agent race will be won ..."
     }
   ]
 }
