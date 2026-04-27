@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 22:10:30",
+  "last_updated": "2026-04-27 22:10:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 22:09:41",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-04-27 22:09:54",
       "message": "Found 156 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 22:10:30",
       "message": "[SKIP] Content too short: The GenAI Battle Shifts From F..."
+    },
+    {
+      "timestamp": "2026-04-27 22:10:31",
+      "message": "Reprocessing: With TPU 8, Google Makes GenAI Systems Much Better, Not Just Bigger"
     }
   ]
 }
