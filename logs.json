@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 18:52:32",
+  "last_updated": "2026-04-27 18:52:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 18:51:51",
-      "message": "[PROCESSING] Analyzing: GPT-5.5 Bio Bug Bounty..."
-    },
     {
       "timestamp": "2026-04-27 18:51:55",
       "message": "[SUCCESS] Processed: GPT-5.5 \uc0dd\uba85\uacfc\ud559 \ubc84\uadf8 \ubc14\uc6b4\ud2f0\n  > Summary: GPT-5.5 \uc0dd\uba85\uacfc\ud559 \ubc84\uadf8 \ubc14\uc6b4\ud2f0\ub294 \uc0dd\uba85 \uc548\uc804 \uc704\ud5d8\uc744 \uc704\ud55c \uc77c\ubc18\uc801\uc778 \ud0c8\uc625\uc744 \ucc3e\ub294 \ub808\ub4dc\ud300 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 18:52:32",
       "message": "[PROCESSING] Analyzing: Tim Cook is stepping down. What\u00a0happens\u00a0to Apple\u00a0now?..."
+    },
+    {
+      "timestamp": "2026-04-27 18:52:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Tim Cook is stepping down. What\u00a0happens\u00a0to Apple\u00a0now?"
     }
   ]
 }
