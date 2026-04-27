@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 23:16:57",
+  "last_updated": "2026-04-27 23:17:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 23:16:23",
-      "message": "[SKIP] Irrelevant (AI Filter): Valve launches the Steam Controller without the Steam Machine"
-    },
     {
       "timestamp": "2026-04-27 23:16:25",
       "message": "[PROCESSING] Analyzing: We reviewed Valve\u2019s new Steam Controller, ask us anything..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 23:16:57",
       "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
+    },
+    {
+      "timestamp": "2026-04-27 23:17:01",
+      "message": "[SUCCESS] Processed: OpenAI\ub294 FedRAMP Moderate\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud569\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 ChatGPT Enterprise\uc640 OpenAI API\uc5d0 \ub300\ud574 FedRAMP..."
     }
   ]
 }
