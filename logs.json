@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 12:07:59",
+  "last_updated": "2026-04-27 12:08:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 12:07:12",
-      "message": "[SKIP] Irrelevant (AI Filter): A look at Elon Musk's efforts to launch the banking and payments service X Money, delayed by US regulatory concerns, as some industry watchers remain skeptical (Bloomberg)"
-    },
     {
       "timestamp": "2026-04-27 12:07:14",
       "message": "[PROCESSING] Analyzing: How Sergey Brin's political push against a proposed wealth tax in California has helped mobilize a network of fellow tech leaders to sway state issues (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 12:07:59",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-27 12:08:01",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
