@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 17:47:20",
+  "last_updated": "2026-04-27 17:47:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 17:46:27",
-      "message": "[SKIP] Irrelevant (AI Filter): San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city's 10B program, which lets them hire police officers (Paresh Dave/Wired)"
-    },
     {
       "timestamp": "2026-04-27 17:46:29",
       "message": "[PROCESSING] Analyzing: Amazon reaches a multiyear licensing deal with Oprah Winfrey to produce twice-a-week video podcasts starting in July, repurpose The Oprah Winfrey Show, and more (Nicole Sperling/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 17:47:20",
       "message": "Reprocessing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk"
+    },
+    {
+      "timestamp": "2026-04-27 17:47:22",
+      "message": "[PROCESSING] Analyzing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk..."
     }
   ]
 }
