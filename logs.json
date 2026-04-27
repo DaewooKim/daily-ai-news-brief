@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 18:50:54",
+  "last_updated": "2026-04-27 18:50:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 18:50:05",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-04-27 18:50:05",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 18:50:54",
       "message": "[PROCESSING] Analyzing: The Philips Hue Sync Box 8K is 30 percent off..."
+    },
+    {
+      "timestamp": "2026-04-27 18:50:57",
+      "message": "[SKIP] Irrelevant (AI Filter): The Philips Hue Sync Box 8K is 30 percent off"
     }
   ]
 }
