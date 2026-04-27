@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 05:26:28",
+  "last_updated": "2026-04-27 05:26:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 05:25:43",
-      "message": "Reprocessing: Build with DeepSeek V4 Using NVIDIA Blackwell and GPU-Accelerated Endpoints"
-    },
     {
       "timestamp": "2026-04-27 05:25:45",
       "message": "[PROCESSING] Analyzing: Build with DeepSeek V4 Using NVIDIA Blackwell and GPU-Accelerated Endpoints..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 05:26:28",
       "message": "[PROCESSING] Analyzing: To buy this Bay Area home, you\u2019ll need Anthropic equity..."
+    },
+    {
+      "timestamp": "2026-04-27 05:26:30",
+      "message": "[SKIP] Irrelevant (AI Filter): To buy this Bay Area home, you\u2019ll need Anthropic equity"
     }
   ]
 }
