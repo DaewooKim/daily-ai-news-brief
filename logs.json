@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 18:54:58",
+  "last_updated": "2026-04-27 18:54:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 18:54:26",
-      "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
-    },
     {
       "timestamp": "2026-04-27 18:54:29",
       "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 18:54:58",
       "message": "Reprocessing: Experian takes consumer financial guidance to the next level with AI-powered virtual assistant"
+    },
+    {
+      "timestamp": "2026-04-27 18:54:59",
+      "message": "[SKIP] Content too short: Experian takes consumer financ..."
     }
   ]
 }
