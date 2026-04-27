@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 16:35:45",
+  "last_updated": "2026-04-27 16:35:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 16:34:57",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc640 \uc624\ud508AI\uc758 \uc720\uba85\ud55c AGI \uacc4\uc57d\uc740 \ub05d\ub0ac\ub2e4\n  > Summary: \uc624\ud508AI\uc640 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc758 \ud30c\ud2b8\ub108\uc2ed\uc774 \uc0c8\ub85c\uc6b4 \ubcc0\ud654\ub97c \ub9de\uc774\ud588\ub2e4. AGI\uc5d0 \uad00\ud55c \uc870\ud56d\uc774 \uacf5\uc2dd\uc801..."
-    },
     {
       "timestamp": "2026-04-27 16:34:58",
       "message": "[PROCESSING] Analyzing: The Philips Hue Sync Box 8K is 30 percent off..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 16:35:45",
       "message": "[PROCESSING] Analyzing: Backup under attack..."
+    },
+    {
+      "timestamp": "2026-04-27 16:35:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Backup under attack"
     }
   ]
 }
