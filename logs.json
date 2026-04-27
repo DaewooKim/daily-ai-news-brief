@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 14:23:40",
+  "last_updated": "2026-04-27 14:23:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 14:22:45",
-      "message": "[SUCCESS] Processed: $7 Trillion in AI Mirage\n  > Summary: {   \"is_relevant\": true,   \"title\": \"$7 \uc870\uc758 AI \uc2e0\uae30\ub8e8\"..."
-    },
     {
       "timestamp": "2026-04-27 14:22:47",
       "message": "[PROCESSING] Analyzing: Orthodoxies of Semiconductor Factories (A review as seen by manufacturing science)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 14:23:40",
       "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
+    },
+    {
+      "timestamp": "2026-04-27 14:23:42",
+      "message": "[PROCESSING] Analyzing: Microchip Expands PIC MCUs with Integrated Programmable Logic..."
     }
   ]
 }
