@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 21:07:55",
+  "last_updated": "2026-04-27 21:07:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 21:07:19",
-      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
-    },
     {
       "timestamp": "2026-04-27 21:07:21",
       "message": "[PROCESSING] Analyzing: GigaDevice Launches New MCUs for Secure IoT and HMI Systems..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 21:07:55",
       "message": "[SKIP] Content too short: The AI agent race will be won ..."
+    },
+    {
+      "timestamp": "2026-04-27 21:07:56",
+      "message": "Reprocessing: Quantum Art raises $140M to scale quantum computing with a unique \u2018multicore\u2019 architecture"
     }
   ]
 }
