@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 14:18:38",
+  "last_updated": "2026-04-27 14:18:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 14:17:53",
-      "message": "Found 161 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-27 14:17:53",
       "message": "[PROCESSING] Analyzing: That UL safety logo is a lot more complicated than it looks..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 14:18:38",
       "message": "Reprocessing: With TPU 8, Google Makes GenAI Systems Much Better, Not Just Bigger"
+    },
+    {
+      "timestamp": "2026-04-27 14:18:40",
+      "message": "[SKIP] Content too short: With TPU 8, Google Makes GenAI..."
     }
   ]
 }
