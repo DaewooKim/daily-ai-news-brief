@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 09:54:48",
+  "last_updated": "2026-04-27 09:54:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 09:54:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources and executives: the war in the Middle East disrupted crucial PCB raw material supplies; Goldman Sachs says PCB prices surged as much as 40% MoM in April (Reuters)"
-    },
     {
       "timestamp": "2026-04-27 09:54:07",
       "message": "[PROCESSING] Analyzing: Chinese state media: China formalizes gig worker rules for online platforms, calling for standardized contracts, fair pay, and stronger labor protections (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 09:54:48",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-27 09:54:50",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
