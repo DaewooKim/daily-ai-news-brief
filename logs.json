@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 17:47:32",
+  "last_updated": "2026-04-27 17:47:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 17:46:33",
-      "message": "Reprocessing: TSMC Tech Symposium 2026, By The Numbers"
-    },
     {
       "timestamp": "2026-04-27 17:46:35",
       "message": "[PROCESSING] Analyzing: TSMC Tech Symposium 2026, By The Numbers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 17:47:32",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-27 17:47:35",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
