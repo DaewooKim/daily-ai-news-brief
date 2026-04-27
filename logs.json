@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 05:28:51",
+  "last_updated": "2026-04-27 05:28:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 05:28:01",
-      "message": "[PROCESSING] Analyzing: Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M (Meir Orbach/CTech)..."
-    },
     {
       "timestamp": "2026-04-27 05:28:07",
       "message": "[SUCCESS] Processed: Cyera\uac00 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ubc30\ud3ec\ub97c \uc704\ud55c \uc790\ub3d9\ud654\ub41c \ub370\uc774\ud130 \uc811\uadfc \ubc0f \uac70\ubc84\ub10c\uc2a4 \ub3c4\uad6c\ub97c \uad6c\ucd95\ud558\ub294 \uc774\uc2a4\ub77c\uc5d8 \uc2a4\ud0c0\ud2b8\uc5c5 Ryft\ub97c \uc778\uc218\ud558\uae30\ub85c \ud569\uc758, \uc18c\uc2dd\ud1b5 \uc804\ud574\n  > Summary: Cyera\ub294 \uc774\uc2a4\ub77c\uc5d8 \uc2a4\ud0c0\ud2b8\uc5c5 Ryft\ub97c 1\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 1\uc5b5 3\ucc9c\ub9cc \ub2ec\ub7ec \uc0ac\uc774\uc5d0 \uc778\uc218\ud558\uae30\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 05:28:51",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-27 05:28:53",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
