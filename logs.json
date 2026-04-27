@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 16:40:11",
+  "last_updated": "2026-04-27 16:40:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 16:39:38",
-      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
-    },
     {
       "timestamp": "2026-04-27 16:39:40",
       "message": "[PROCESSING] Analyzing: ISO 26262: The Impact of ASIL Metrics on Embedded Software Design..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 16:40:11",
       "message": "Reprocessing: AI startups Cohere, Aleph Alpha to merge with $600M in new funding"
+    },
+    {
+      "timestamp": "2026-04-27 16:40:13",
+      "message": "[SKIP] Content too short: AI startups Cohere, Aleph Alph..."
     }
   ]
 }
