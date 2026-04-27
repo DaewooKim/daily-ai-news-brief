@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 14:22:34",
+  "last_updated": "2026-04-27 14:22:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 14:21:39",
-      "message": "[PROCESSING] Analyzing: San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city's 10B program, which lets them hire police officers (Paresh Dave/Wired)..."
-    },
     {
       "timestamp": "2026-04-27 14:21:42",
       "message": "[SKIP] Irrelevant (AI Filter): San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city's 10B program, which lets them hire police officers (Paresh Dave/Wired)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 14:22:34",
       "message": "[PROCESSING] Analyzing: $7 Trillion in AI Mirage..."
+    },
+    {
+      "timestamp": "2026-04-27 14:22:45",
+      "message": "[SUCCESS] Processed: $7 Trillion in AI Mirage\n  > Summary: {   \"is_relevant\": true,   \"title\": \"$7 \uc870\uc758 AI \uc2e0\uae30\ub8e8\"..."
     }
   ]
 }
