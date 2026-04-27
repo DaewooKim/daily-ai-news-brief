@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 18:54:29",
+  "last_updated": "2026-04-27 18:54:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 18:53:44",
-      "message": "[PROCESSING] Analyzing: San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city's 10B program, which lets them hire police officers (Paresh Dave/Wired)..."
-    },
     {
       "timestamp": "2026-04-27 18:53:46",
       "message": "[SKIP] Irrelevant (AI Filter): San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city's 10B program, which lets them hire police officers (Paresh Dave/Wired)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 18:54:29",
       "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
+    },
+    {
+      "timestamp": "2026-04-27 18:54:30",
+      "message": "[PROCESSING] Analyzing: ISO 26262: The Impact of ASIL Metrics on Embedded Software Design..."
     }
   ]
 }
