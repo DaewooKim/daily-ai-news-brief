@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 06:31:47",
+  "last_updated": "2026-04-27 06:31:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 06:31:03",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-04-27 06:31:03",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 06:31:47",
       "message": "[PROCESSING] Analyzing: Researchers say we\u2019re talking less than ever..."
+    },
+    {
+      "timestamp": "2026-04-27 06:31:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Researchers say we\u2019re talking less than ever"
     }
   ]
 }
