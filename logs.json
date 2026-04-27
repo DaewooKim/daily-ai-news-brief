@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 16:36:16",
+  "last_updated": "2026-04-27 16:36:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 16:35:29",
-      "message": "[PROCESSING] Analyzing: Spotify is partnering with Peloton for guided workouts..."
-    },
     {
       "timestamp": "2026-04-27 16:35:33",
       "message": "[SKIP] Irrelevant (AI Filter): Spotify is partnering with Peloton for guided workouts"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 16:36:16",
       "message": "Reprocessing: It's all about the angle: Your photos, re-composed"
+    },
+    {
+      "timestamp": "2026-04-27 16:36:18",
+      "message": "[SKIP] Content too short: It's all about the angle: Your..."
     }
   ]
 }
