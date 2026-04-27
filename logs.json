@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 02:11:03",
+  "last_updated": "2026-04-27 02:11:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 02:10:34",
-      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
-    },
     {
       "timestamp": "2026-04-27 02:10:35",
       "message": "[PROCESSING] Analyzing: ISO 26262: The Impact of ASIL Metrics on Embedded Software Design..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 02:11:03",
       "message": "Reprocessing: Small businesses are the backbone of the economy. Now, Google wants them to be AI\u2019s next frontier"
+    },
+    {
+      "timestamp": "2026-04-27 02:11:04",
+      "message": "[SKIP] Content too short: Small businesses are the backb..."
     }
   ]
 }
