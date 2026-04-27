@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 21:07:15",
+  "last_updated": "2026-04-27 21:07:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 21:06:23",
-      "message": "[PROCESSING] Analyzing: Vilnius-based Vinted says it closed an ~\u20ac880M secondary share sale led by EQT, Teachers' Venture Growth, and Schroders at an \u20ac8B valuation, up from \u20ac5B in 2024 (Ivan Levingston/Financial Times)..."
-    },
     {
       "timestamp": "2026-04-27 21:06:26",
       "message": "[SKIP] Irrelevant (AI Filter): Vilnius-based Vinted says it closed an ~\u20ac880M secondary share sale led by EQT, Teachers' Venture Growth, and Schroders at an \u20ac8B valuation, up from \u20ac5B in 2024 (Ivan Levingston/Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 21:07:15",
       "message": "[SUCCESS] Processed: RAG \uc815\ubc00 \ud29c\ub2dd\uc774 \uac80\uc0c9 \uc815\ud655\ub3c4\ub97c 40% \uac10\uc18c\uc2dc\ud0ac \uc218 \uc788\uc73c\uba70, \uc5d0\uc774\uc804\ud2f1 \ud30c\uc774\ud504\ub77c\uc778\uc5d0 \uc704\ud5d8\uc744 \ucd08\ub798\ud569\ub2c8\ub2e4\n  > Summary: Redis\uc758 \uc0c8\ub85c\uc6b4 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74, \uae30\uc5c5 \ud300\uc774 RAG \uc784\ubca0\ub529 \ubaa8\ub378\uc744 \uc815\ubc00\ud558\uac8c \uc870\uc815\ud560 \ub54c, ..."
+    },
+    {
+      "timestamp": "2026-04-27 21:07:17",
+      "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
     }
   ]
 }
