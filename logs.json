@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 06:35:06",
+  "last_updated": "2026-04-27 06:35:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 06:34:22",
-      "message": "[SUCCESS] Processed: OpenAI, AGI \uac1c\ubc1c\uc744 \uc704\ud55c 5\uac00\uc9c0 \uc6d0\uce59 \ud504\ub808\uc784\uc6cc\ud06c \ubc1c\ud45c\n  > Summary: OpenAI\ub294 \uc778\uacf5\uc9c0\ub2a5\uc758 \uac1c\ubc1c\uc744 \uc704\ud55c 5\uac00\uc9c0 \uc6d0\uce59 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ubc1c\ud45c\ud558\uc600\uc73c\uba70, AI \uad8c\ub825\uc744 ..."
-    },
     {
       "timestamp": "2026-04-27 06:34:24",
       "message": "Reprocessing: Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M (Meir Orbach/CTech)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 06:35:06",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-27 06:35:09",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
