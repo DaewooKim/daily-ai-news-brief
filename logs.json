@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 11:01:24",
+  "last_updated": "2026-04-27 11:01:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 11:00:38",
-      "message": "[SKIP] Irrelevant (AI Filter): How Sergey Brin's political push against a proposed wealth tax in California has helped mobilize a network of fellow tech leaders to sway state issues (Bloomberg)"
-    },
     {
       "timestamp": "2026-04-27 11:00:40",
       "message": "[PROCESSING] Analyzing: Sources and executives: the war in the Middle East disrupted crucial PCB raw material supplies; Goldman Sachs says PCB prices surged as much as 40% MoM in April (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 11:01:24",
       "message": "[PROCESSING] Analyzing: CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices...."
+    },
+    {
+      "timestamp": "2026-04-27 11:01:26",
+      "message": "[SKIP] Irrelevant (AI Filter): CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices."
     }
   ]
 }
