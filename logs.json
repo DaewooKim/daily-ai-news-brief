@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 03:14:49",
+  "last_updated": "2026-04-27 03:14:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 03:14:14",
-      "message": "[SKIP] Content too short: GPT-5.5 System Card..."
-    },
     {
       "timestamp": "2026-04-27 03:14:16",
       "message": "Reprocessing: GPT-5.5 Bio Bug Bounty"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 03:14:49",
       "message": "[PROCESSING] Analyzing: SK hynix receives 2026 IEEE Corporate Innovation Award..."
+    },
+    {
+      "timestamp": "2026-04-27 03:14:51",
+      "message": "[SKIP] Irrelevant (AI Filter): SK hynix receives 2026 IEEE Corporate Innovation Award"
     }
   ]
 }
