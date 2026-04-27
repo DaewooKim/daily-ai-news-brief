@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 15:29:21",
+  "last_updated": "2026-04-27 15:29:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 15:28:30",
-      "message": "[PROCESSING] Analyzing: The next phase of the Microsoft OpenAI partnership..."
-    },
     {
       "timestamp": "2026-04-27 15:28:36",
       "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 OpenAI \ud30c\ud2b8\ub108\uc2ed\uc758 \ub2e4\uc74c \ub2e8\uacc4\n  > Summary: OpenAI\uc640 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uac00 \ud30c\ud2b8\ub108\uc2ed\uc744 \uac04\uc18c\ud654\ud558\uace0 \uc7a5\uae30\uc801\uc778 \uba85\ud655\uc131\uc744 \ucd94\uac00\ud558\ub294 \uc218\uc815\ub41c \uacc4\uc57d..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 15:29:21",
       "message": "[PROCESSING] Analyzing: Tim Cook is stepping down. What\u00a0happens\u00a0to Apple\u00a0now?..."
+    },
+    {
+      "timestamp": "2026-04-27 15:29:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Tim Cook is stepping down. What\u00a0happens\u00a0to Apple\u00a0now?"
     }
   ]
 }
