@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-27 18:50:59",
+  "last_updated": "2026-04-27 18:51:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-27 18:50:17",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-27 18:50:17",
       "message": "[PROCESSING] Analyzing: Trump demands ABC fire Jimmy Kimmel..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-27 18:50:59",
       "message": "Reprocessing: The GenAI Battle Shifts From Frontier Models To Agentic Platforms"
+    },
+    {
+      "timestamp": "2026-04-27 18:51:00",
+      "message": "[SKIP] Content too short: The GenAI Battle Shifts From F..."
     }
   ]
 }
