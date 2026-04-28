@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 23:44:07",
+  "last_updated": "2026-04-28 23:44:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 23:43:19",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd: \uace8\ub4dc\ub9cc\uc0ad\uc2a4, \ud64d\ucf69\uc758 \uc740\ud589\uac00\ub4e4\uc5d0\uac8c \uc548\ud2b8\ub85c\ud53d \ubaa8\ub378 \uc0ac\uc6a9 \uc911\ub2e8\n  > Summary: \uace8\ub4dc\ub9cc\uc0ad\uc2a4\uac00 \ud64d\ucf69\uc758 \uc740\ud589\uac00\ub4e4\uc774 \uc548\ud2b8\ub85c\ud53d\uc758 AI \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud558\ub294 \uac83\uc744 \uc911\ub2e8\ud588\ub2e4\uace0 \ubcf4\ub3c4\ub418\uc5c8\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-04-28 23:43:21",
       "message": "[PROCESSING] Analyzing: Docs: OpenAI projected at the start of this year that $8/month ChatGPT Go subs will grow ~36x to 112M in 2026, while $20/month Plus subs will fall 80% to ~9M (Sri Muppidi/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 23:44:07",
       "message": "[PROCESSING] Analyzing: Reflectometry-Based Technique for Characterising Complex Thin-Film Structures (Aalto U. et al.)..."
+    },
+    {
+      "timestamp": "2026-04-28 23:44:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Reflectometry-Based Technique for Characterising Complex Thin-Film Structures (Aalto U. et al.)"
     }
   ]
 }
