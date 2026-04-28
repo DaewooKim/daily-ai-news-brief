@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 21:29:18",
+  "last_updated": "2026-04-28 21:29:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 21:28:45",
-      "message": "[PROCESSING] Analyzing: The FCC is going after the broadcast licenses of Disney-owned ABC stations..."
-    },
     {
       "timestamp": "2026-04-28 21:28:47",
       "message": "[SKIP] Irrelevant (AI Filter): The FCC is going after the broadcast licenses of Disney-owned ABC stations"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 21:29:18",
       "message": "[SKIP] Irrelevant (AI Filter): Backup under attack"
+    },
+    {
+      "timestamp": "2026-04-28 21:29:20",
+      "message": "Reprocessing: OpenAI models, Codex, and Managed Agents come to AWS"
     }
   ]
 }
