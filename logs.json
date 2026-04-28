@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 19:17:36",
+  "last_updated": "2026-04-28 19:17:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 19:16:51",
-      "message": "[SUCCESS] Processed: NVIDIA BioNeMo\ub97c \ud1b5\ud55c \uc0dd\uccb4 \ubd84\uc790 \ubaa8\ub378\ub9c1\uc758 \ud655\uc7a5\n  > Summary: NVIDIA BioNeMo\ub294 GPU\uc758 \uba54\ubaa8\ub9ac \uc81c\uc57d\uc744 \uadf9\ubcf5\ud558\uc5ec \ubcf5\uc7a1\ud55c \uc0dd\ubb3c\ud559\uc801 \uc2dc\uc2a4\ud15c\uc744 \ub354 ..."
-    },
     {
       "timestamp": "2026-04-28 19:16:52",
       "message": "Reprocessing: Winning a Kaggle Competition with Generative AI\u2013Assisted Coding"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 19:17:36",
       "message": "[PROCESSING] Analyzing: Otter\u2019s new feature lets users search across their enterprise tools..."
+    },
+    {
+      "timestamp": "2026-04-28 19:17:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Otter\u2019s new feature lets users search across their enterprise tools"
     }
   ]
 }
