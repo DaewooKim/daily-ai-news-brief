@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 00:27:02",
+  "last_updated": "2026-04-28 00:27:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 00:26:27",
-      "message": "Reprocessing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk"
-    },
     {
       "timestamp": "2026-04-28 00:26:28",
       "message": "[PROCESSING] Analyzing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 00:27:02",
       "message": "Reprocessing: You can\u2019t prompt your way out of complexity: Why enterprise AI is turning to process intelligence"
+    },
+    {
+      "timestamp": "2026-04-28 00:27:04",
+      "message": "[SKIP] Content too short: You can\u2019t prompt your way out ..."
     }
   ]
 }
