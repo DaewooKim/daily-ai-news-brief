@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 19:17:56",
+  "last_updated": "2026-04-28 19:17:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 19:17:14",
-      "message": "[PROCESSING] Analyzing: Amazon launches an AI-powered audio Q&A experience on product pages..."
-    },
     {
       "timestamp": "2026-04-28 19:17:17",
       "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, \uc81c\ud488 \ud398\uc774\uc9c0\uc5d0 AI \uae30\ubc18 \uc624\ub514\uc624 Q&A \uacbd\ud5d8 \ucd9c\uc2dc\n  > Summary: \uc544\ub9c8\uc874\uc758 \uc0c8\ub85c\uc6b4 '\ucc44\ud305 \ucc38\uc5ec\ud558\uae30' \uae30\ub2a5\uc740 \uc81c\ud488\uc5d0 \ub300\ud55c \uc9c8\ubb38\uc744 \ud558\uace0 AI \uae30\ubc18\uc758 \uc624\ub514\uc624 \uc751\ub2f5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 19:17:56",
       "message": "[PROCESSING] Analyzing: Why Tokyo is the most important tech destination of 2026..."
+    },
+    {
+      "timestamp": "2026-04-28 19:17:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Why Tokyo is the most important tech destination of 2026"
     }
   ]
 }
