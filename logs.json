@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 14:48:12",
+  "last_updated": "2026-04-28 14:48:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 14:47:31",
-      "message": "[PROCESSING] Analyzing: Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019..."
-    },
     {
       "timestamp": "2026-04-28 14:47:35",
       "message": "[SKIP] Irrelevant (AI Filter): Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 14:48:12",
       "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
+    },
+    {
+      "timestamp": "2026-04-28 14:48:14",
+      "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
     }
   ]
 }
