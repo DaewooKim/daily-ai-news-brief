@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 21:31:31",
+  "last_updated": "2026-04-28 21:31:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 21:30:47",
-      "message": "[SUCCESS] Processed: \ud55c\uacc4\uc758 \ubd84\uc218\ub839: \uc804\ub825\uc774 AI\uc758 \uacb0\uc815\uc801 \ud55c\uacc4\ub85c \ubd80\uc0c1\ud558\ub2e4\n  > Summary: AI \uc791\uc5c5\ub7c9\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uc804\ub825 \ud55c\uacc4\ub294 \uc138\ub300\ub9cc\uc774 \uc544\ub2cc \uc778\ud504\ub77c \ud0c0\uc784\ub77c\uc778\uacfc \uc2dc\uc2a4\ud15c \ubcf5\uc7a1\uc131\uc5d0..."
-    },
     {
       "timestamp": "2026-04-28 21:30:48",
       "message": "[PROCESSING] Analyzing: Data Center Permits: How Long They Take and What Speeds Approval..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 21:31:31",
       "message": "[PROCESSING] Analyzing: Alumina Nanowires Improve Thermal Management in Advanced Packaging (Georgia Tech et al.)..."
+    },
+    {
+      "timestamp": "2026-04-28 21:31:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Alumina Nanowires Improve Thermal Management in Advanced Packaging (Georgia Tech et al.)"
     }
   ]
 }
