@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 01:32:44",
+  "last_updated": "2026-04-28 01:32:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 01:32:00",
-      "message": "[SKIP] Irrelevant (AI Filter): A US judge seated a nine-person jury in Musk v. Altman trial at a federal courthouse in California; Sam Altman and Greg Brockman were in attendance (Ashley Capoot/CNBC)"
-    },
     {
       "timestamp": "2026-04-28 01:32:02",
       "message": "[PROCESSING] Analyzing: Have I Been Pwned: ShinyHunters' breach of ADT exposed the personal data of 5.5M people; ADT previously disclosed data breaches in August 2024 and October 2024 (Sergiu Gatlan/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 01:32:44",
       "message": "Reprocessing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk"
+    },
+    {
+      "timestamp": "2026-04-28 01:32:45",
+      "message": "[PROCESSING] Analyzing: RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk..."
     }
   ]
 }
