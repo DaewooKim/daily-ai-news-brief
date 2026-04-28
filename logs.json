@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-28 19:17:52",
+  "last_updated": "2026-04-28 19:17:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-28 19:17:09",
-      "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
-    },
     {
       "timestamp": "2026-04-28 19:17:12",
       "message": "[SUCCESS] Processed: OpenAI\uac00 FedRAMP Moderate\uc5d0 \uc81c\uacf5\ub429\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 ChatGPT Enterprise\uc640 OpenAI API\uc5d0 \ub300\ud574 FedRAMP..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-28 19:17:52",
       "message": "[PROCESSING] Analyzing: OpenAI CEO apologizes to Tumbler Ridge community..."
+    },
+    {
+      "timestamp": "2026-04-28 19:17:54",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI CEO apologizes to Tumbler Ridge community"
     }
   ]
 }
