@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 17:25:38",
+  "last_updated": "2026-04-29 17:25:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 17:24:56",
-      "message": "[SKIP] Irrelevant (AI Filter): The best deals we found during Amazon\u2019s Gaming Week"
-    },
     {
       "timestamp": "2026-04-29 17:24:58",
       "message": "[PROCESSING] Analyzing: Uber adds hotels to its app in big travel swing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 17:25:38",
       "message": "[SUCCESS] Processed: \uc815\ubcf4 \uc2dc\ub300\uc758 \uc0ac\uc774\ubc84 \ubcf4\uc548\n  > Summary: OpenAI\ub294 \uc778\uacf5\uc9c0\ub2a5 \uc2dc\ub300\uc758 \uc0ac\uc774\ubc84 \ubcf4\uc548\uc744 \uac15\ud654\ud558\uae30 \uc704\ud55c \ub2e4\uc12f \uac00\uc9c0 \ud589\ub3d9 \uacc4\ud68d\uc744 \uc81c\uc2dc\ud588\uc2b5..."
+    },
+    {
+      "timestamp": "2026-04-29 17:25:40",
+      "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
     }
   ]
 }
