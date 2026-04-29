@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 20:48:46",
+  "last_updated": "2026-04-29 20:48:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 20:48:00",
-      "message": "[PROCESSING] Analyzing: Amazon reports Q1 ad revenue up 24% YoY to $17.24B, vs. $16.87B est., and subscription services revenue up 15% to $13.43B (Annie Palmer/CNBC)..."
-    },
     {
       "timestamp": "2026-04-29 20:48:02",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon reports Q1 ad revenue up 24% YoY to $17.24B, vs. $16.87B est., and subscription services revenue up 15% to $13.43B (Annie Palmer/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 20:48:46",
       "message": "[SKIP] Irrelevant (AI Filter): SpaceX draft IPO filing: from 2023 to 2025, Starlink's individual subscribers rose from 2.3M to 8.9M, revenue grew from $3.9B to $11.4B, and ARPU fell 18% (The Information)"
+    },
+    {
+      "timestamp": "2026-04-29 20:48:47",
+      "message": "Reprocessing: Pursuit, which uses AI to scan public data to help companies find and win government contracts, raised a $22M seed led by OpenGov co-founder Mike Rosengarten (Dominic-Madori Davis/TechCrunch)"
     }
   ]
 }
