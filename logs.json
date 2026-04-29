@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 10:45:05",
+  "last_updated": "2026-04-29 10:45:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 10:44:31",
-      "message": "[PROCESSING] Analyzing: James Comey indicted over Instagram seashell photo that allegedly threatened Trump..."
-    },
     {
       "timestamp": "2026-04-29 10:44:33",
       "message": "[SKIP] Irrelevant (AI Filter): James Comey indicted over Instagram seashell photo that allegedly threatened Trump"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 10:45:05",
       "message": "[SKIP] Irrelevant (AI Filter): The vendor support trap."
+    },
+    {
+      "timestamp": "2026-04-29 10:45:07",
+      "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
     }
   ]
 }
