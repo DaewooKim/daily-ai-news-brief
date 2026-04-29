@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 19:40:20",
+  "last_updated": "2026-04-29 19:40:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 19:39:37",
-      "message": "[PROCESSING] Analyzing: Parallel Web Systems hits $2B valuation five months after its last big raise..."
-    },
     {
       "timestamp": "2026-04-29 19:39:41",
       "message": "[SUCCESS] Processed: \ud30c\ud2b8\ub108 \uc6f9 \uc2dc\uc2a4\ud15c, \ub9c8\uc9c0\ub9c9 \ub300\uaddc\ubaa8 \uc790\uae08 \uc870\ub2ec 5\uac1c\uc6d4 \ub9cc\uc5d0 20\uc5b5 \ub2ec\ub7ec \uac00\uce58 \ub3c4\ub2ec\n  > Summary: \uc804 \ud2b8\uc704\ud130 CEO \ud30c\ub77c\uadf8 \uc544\uadf8\ub77c\uc648\uc774 \uc124\ub9bd\ud55c AI \uc5d0\uc774\uc804\ud2b8 \ub3c4\uad6c \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ud30c\ud2b8\ub108 \uc6f9 \uc2dc\uc2a4\ud15c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 19:40:20",
       "message": "[PROCESSING] Analyzing: STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices..."
+    },
+    {
+      "timestamp": "2026-04-29 19:40:23",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices"
     }
   ]
 }
