@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 14:05:26",
+  "last_updated": "2026-04-29 14:05:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 14:04:46",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 FedRAMP \uc911\uac04 \uad8c\ud55c\uc73c\ub85c \uc81c\uacf5\ub428\n  > Summary: OpenAI\ub294 ChatGPT Enterprise \ubc0f OpenAI API\uc5d0 \ub300\ud574 FedRAM..."
-    },
     {
       "timestamp": "2026-04-29 14:04:47",
       "message": "[PROCESSING] Analyzing: Firestorm Labs raises $82M to take drone factories into the field..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 14:05:26",
       "message": "[PROCESSING] Analyzing: STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices..."
+    },
+    {
+      "timestamp": "2026-04-29 14:05:29",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices"
     }
   ]
 }
