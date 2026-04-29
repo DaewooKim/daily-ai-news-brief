@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-04-29 14:09:45",
-  "status": "idle",
+  "last_updated": "2026-04-29 15:10:30",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-04-29 14:08:12",
-      "message": "[SKIP] Content too short: Command Zero opens its autonom..."
+      "timestamp": "2026-04-29 15:10:17",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-04-29 14:08:14",
-      "message": "Reprocessing: Parag Agrawal\u2019s startup raises $100M to build a parallel web for AI agents"
+      "timestamp": "2026-04-29 15:10:18",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-04-29 14:08:16",
-      "message": "[SKIP] Content too short: Parag Agrawal\u2019s startup raises..."
+      "timestamp": "2026-04-29 15:10:18",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-04-29 14:08:17",
-      "message": "Reprocessing: Elon Musk accuses OpenAI CEO Sam Altman of trying to \u2018steal\u2019 a charity"
+      "timestamp": "2026-04-29 15:10:30",
+      "message": "Found 150 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-04-29 14:08:19",
-      "message": "[SKIP] Content too short: Elon Musk accuses OpenAI CEO S..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:21",
-      "message": "Reprocessing: Space technology startup True Anomaly raises $650M at $2.2B valuation"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:22",
-      "message": "[SKIP] Content too short: Space technology startup True ..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:24",
-      "message": "Reprocessing: Strong momentum across all markets helps NXP\u2019s profit surge"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:26",
-      "message": "[SKIP] Content too short: Strong momentum across all mar..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:28",
-      "message": "Reprocessing: AWS brings OpenAI\u2019s AI models and Codex programming assistant to its cloud"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:29",
-      "message": "[SKIP] Content too short: AWS brings OpenAI\u2019s AI models ..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:31",
-      "message": "Reprocessing: Robinhood shares drop on Q1 miss as crypto trading revenue tumbles 47%"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:33",
-      "message": "[SKIP] Content too short: Robinhood shares drop on Q1 mi..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:35",
-      "message": "Reprocessing: Enterprises are not running out of AI ambition \u2014 they are running out of time to act on it"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:37",
-      "message": "[SKIP] Content too short: Enterprises are not running ou..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:38",
-      "message": "Reprocessing: With agents on the rise, is the \u2018modern\u2019 data stack already legacy infrastructure?"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:40",
-      "message": "[SKIP] Content too short: With agents on the rise, is th..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:42",
-      "message": "Reprocessing: Chip stocks drop on report OpenAI missed ChatGPT growth targets"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:44",
-      "message": "[SKIP] Content too short: Chip stocks drop on report Ope..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:46",
-      "message": "Reprocessing: Putting AI to work: AWS unveils agentic enhancements for Connect and Quick alongside new alliance with OpenAI"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:47",
-      "message": "[SKIP] Content too short: Putting AI to work: AWS unveil..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:49",
-      "message": "Reprocessing: \u2018Code is cheap. Mistakes are expensive\u2019: Appian gives vibe coding an enterprise reality check"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:51",
-      "message": "[SKIP] Content too short: \u2018Code is cheap. Mistakes are e..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:52",
-      "message": "Reprocessing: Fragmented AI policy threatens US leadership as government scrambles to keep pace"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:54",
-      "message": "[SKIP] Content too short: Fragmented AI policy threatens..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:56",
-      "message": "Reprocessing: Nvidia introduces\u00a0Nemotron\u00a03 Nano Omni with vision and\u00a0speech\u00a0for powerful agentic AI\u00a0use"
-    },
-    {
-      "timestamp": "2026-04-29 14:08:57",
-      "message": "[SKIP] Content too short: Nvidia introduces\u00a0Nemotron\u00a03 N..."
-    },
-    {
-      "timestamp": "2026-04-29 14:08:59",
-      "message": "Reprocessing: AWS accelerates enterprise agentic automation with expanded Amazon Connect portfolio"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:01",
-      "message": "[SKIP] Content too short: AWS accelerates enterprise age..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:03",
-      "message": "Reprocessing: Amazon revamps Quick as a proactive desktop app that gets work done"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:05",
-      "message": "[SKIP] Content too short: Amazon revamps Quick as a proa..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:07",
-      "message": "Reprocessing: Amazon Connect\u2019s second act: From contact center to agentic AI suite"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:09",
-      "message": "[SKIP] Content too short: Amazon Connect\u2019s second act: F..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:11",
-      "message": "Reprocessing: Commercial insurance has a data problem that underwriters can no longer afford to ignore"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:12",
-      "message": "[SKIP] Content too short: Commercial insurance has a dat..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:14",
-      "message": "Reprocessing: SAS expands agentic AI and governance capabilities with broad platform updates"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:16",
-      "message": "[SKIP] Content too short: SAS expands agentic AI and gov..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:17",
-      "message": "Reprocessing: AI writes enterprise code fast. Cleaning it up is another story entirely"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:19",
-      "message": "[SKIP] Content too short: AI writes enterprise code fast..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:21",
-      "message": "Reprocessing: Appian adopts MCP protocol and partners with Snowflake to provide more structure and control for AI agents"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:23",
-      "message": "[SKIP] Content too short: Appian adopts MCP protocol and..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:24",
-      "message": "Reprocessing: Aranya debuts cluster-scale operating system, partners with Hydra Host on \u2018bare-metal AI\u2019"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:26",
-      "message": "[SKIP] Content too short: Aranya debuts cluster-scale op..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:28",
-      "message": "[PROCESSING] Analyzing: XikeStor SKN-U310GT Realtek RTL8159 USB 10GbE NIC Review..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:30",
-      "message": "[SKIP] Irrelevant (AI Filter): XikeStor SKN-U310GT Realtek RTL8159 USB 10GbE NIC Review"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:32",
-      "message": "[PROCESSING] Analyzing: TP-Link TL-SX1008 Review an 8-Port 10Gbase-T Switch..."
-    },
-    {
-      "timestamp": "2026-04-29 14:09:34",
-      "message": "[SKIP] Irrelevant (AI Filter): TP-Link TL-SX1008 Review an 8-Port 10Gbase-T Switch"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:36",
-      "message": "Completed! New: 7, Updated: 44"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:40",
-      "message": "Saved 51 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-04-29 14:09:44",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-04-29 15:10:30",
+      "message": "[PROCESSING] Analyzing: Uber adds hotels to its app in big travel swing..."
     }
   ]
 }
