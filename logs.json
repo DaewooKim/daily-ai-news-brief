@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 09:39:07",
+  "last_updated": "2026-04-29 09:39:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 09:38:26",
-      "message": "[PROCESSING] Analyzing: The vendor support trap...."
-    },
     {
       "timestamp": "2026-04-29 09:38:29",
       "message": "[SKIP] Irrelevant (AI Filter): The vendor support trap."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 09:39:07",
       "message": "[PROCESSING] Analyzing: STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices..."
+    },
+    {
+      "timestamp": "2026-04-29 09:39:10",
+      "message": "[SKIP] Irrelevant (AI Filter): STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices"
     }
   ]
 }
