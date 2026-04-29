@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 21:54:30",
+  "last_updated": "2026-04-29 21:54:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 21:53:53",
-      "message": "[SUCCESS] Processed: OpenAI, FedRAMP Moderate\uc5d0\uc11c \uc774\uc6a9 \uac00\ub2a5\n  > Summary: OpenAI\ub294 ChatGPT Enterprise\uc640 OpenAI API\uc5d0 \ub300\ud574 FedRAMP..."
-    },
     {
       "timestamp": "2026-04-29 21:53:55",
       "message": "[PROCESSING] Analyzing: Google gains 25M subscriptions in Q1, driven by YouTube and Google One..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 21:54:30",
       "message": "[PROCESSING] Analyzing: OpenAI ends Microsoft legal peril over its $50B Amazon deal..."
+    },
+    {
+      "timestamp": "2026-04-29 21:54:32",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI ends Microsoft legal peril over its $50B Amazon deal"
     }
   ]
 }
