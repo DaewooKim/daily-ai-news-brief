@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 09:39:12",
+  "last_updated": "2026-04-29 09:39:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 09:38:31",
-      "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
-    },
     {
       "timestamp": "2026-04-29 09:38:32",
       "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 09:39:12",
       "message": "[PROCESSING] Analyzing: Input Capacitor Challenges in High-Density PD and GaN Chargers \u2014 YMIN Capacitor Solutions..."
+    },
+    {
+      "timestamp": "2026-04-29 09:39:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Input Capacitor Challenges in High-Density PD and GaN Chargers \u2014 YMIN Capacitor Solutions"
     }
   ]
 }
