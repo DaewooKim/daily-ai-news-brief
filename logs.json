@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 16:19:30",
+  "last_updated": "2026-04-29 16:19:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 16:18:45",
-      "message": "[SUCCESS] Processed: \uc815\ubcf4 \uc2dc\ub300\ub85c\uc758 \uc0ac\uc774\ubc84 \ubcf4\uc548\n  > Summary: OpenAI\ub294 \uc815\ubcf4 \uc2dc\ub300\uc5d0\uc11c \uc0ac\uc774\ubc84 \ubcf4\uc548\uc744 \uac15\ud654\ud558\uae30 \uc704\ud55c \ub2e4\uc12f \ubd80\ubd84\uc73c\ub85c \uad6c\uc131\ub41c \ud589\ub3d9 \uacc4\ud68d\uc744..."
-    },
     {
       "timestamp": "2026-04-29 16:18:47",
       "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 16:19:30",
       "message": "[PROCESSING] Analyzing: To buy this Bay Area home, you\u2019ll need Anthropic equity..."
+    },
+    {
+      "timestamp": "2026-04-29 16:19:33",
+      "message": "[SKIP] Irrelevant (AI Filter): To buy this Bay Area home, you\u2019ll need Anthropic equity"
     }
   ]
 }
