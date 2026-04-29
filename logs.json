@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 10:45:19",
+  "last_updated": "2026-04-29 10:45:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 10:44:43",
-      "message": "[PROCESSING] Analyzing: The FCC is going after the broadcast licenses of Disney-owned ABC stations..."
-    },
     {
       "timestamp": "2026-04-29 10:44:45",
       "message": "[SKIP] Irrelevant (AI Filter): The FCC is going after the broadcast licenses of Disney-owned ABC stations"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 10:45:19",
       "message": "[PROCESSING] Analyzing: At his OpenAI trial, Musk relitigates an old friendship..."
+    },
+    {
+      "timestamp": "2026-04-29 10:45:21",
+      "message": "[SKIP] Irrelevant (AI Filter): At his OpenAI trial, Musk relitigates an old friendship"
     }
   ]
 }
