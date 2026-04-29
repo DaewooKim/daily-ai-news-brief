@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 23:02:42",
+  "last_updated": "2026-04-29 23:02:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 23:02:00",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc815\uc758\uc801 \ud55c\uacc4\ub85c \ubd80\uc0c1\ud55c \uc804\ub825\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \uc774\uc81c \uc138\ub300\ubfd0\ub9cc \uc544\ub2c8\ub77c \uc778\ud504\ub77c \uc77c\uc815\uacfc \uc2dc\uc2a4\ud15c \ubcf5..."
-    },
     {
       "timestamp": "2026-04-29 23:02:02",
       "message": "[PROCESSING] Analyzing: Musk v. Altman: Elon Musk says he was a \"fool\" for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars (Angel Au-Yeung/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 23:02:42",
       "message": "[PROCESSING] Analyzing: Alphabet reports YouTube's Q1 ad revenue rose 10.7% YoY to $9.88B, vs. $9.99B est., and Google's ad revenue reached $77.25B, up from $66.89B in Q1 2025 (Todd Spangler/Variety)..."
+    },
+    {
+      "timestamp": "2026-04-29 23:02:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Alphabet reports YouTube's Q1 ad revenue rose 10.7% YoY to $9.88B, vs. $9.99B est., and Google's ad revenue reached $77.25B, up from $66.89B in Q1 2025 (Todd Spangler/Variety)"
     }
   ]
 }
