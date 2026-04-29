@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 14:05:22",
+  "last_updated": "2026-04-29 14:05:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 14:04:40",
-      "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
-    },
     {
       "timestamp": "2026-04-29 14:04:41",
       "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 14:05:22",
       "message": "[PROCESSING] Analyzing: Pressure Sensors: Turning Environmental Signals into Smart Actions..."
+    },
+    {
+      "timestamp": "2026-04-29 14:05:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Pressure Sensors: Turning Environmental Signals into Smart Actions"
     }
   ]
 }
