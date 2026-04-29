@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 17:25:40",
+  "last_updated": "2026-04-29 17:25:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 17:24:58",
-      "message": "[PROCESSING] Analyzing: Uber adds hotels to its app in big travel swing..."
-    },
     {
       "timestamp": "2026-04-29 17:25:01",
       "message": "[SKIP] Irrelevant (AI Filter): Uber adds hotels to its app in big travel swing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 17:25:40",
       "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
+    },
+    {
+      "timestamp": "2026-04-29 17:25:42",
+      "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
     }
   ]
 }
