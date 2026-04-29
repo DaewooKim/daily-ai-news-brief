@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 10:46:57",
+  "last_updated": "2026-04-29 10:46:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 10:46:14",
-      "message": "[SUCCESS] Processed: AI\uc758 \ud55c\uacc4\ub97c \uc815\uc758\ud558\ub294 \uc804\ub825\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud55c \uc138\ub300\uac00 \uc544\ub2cc \uc778\ud504\ub77c \ud0c0\uc784\ub77c\uc778\uacfc \uc2dc\uc2a4\ud15c ..."
-    },
     {
       "timestamp": "2026-04-29 10:46:15",
       "message": "[PROCESSING] Analyzing: Data Center Permits: How Long They Take and What Speeds Approval..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 10:46:57",
       "message": "[PROCESSING] Analyzing: Sources: Apple tells suppliers it will maintain its current production share in India rather than expand, after local sites struggled without China-based teams (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-04-29 10:46:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple tells suppliers it will maintain its current production share in India rather than expand, after local sites struggled without China-based teams (Nikkei Asia)"
     }
   ]
 }
