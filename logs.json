@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 03:00:56",
+  "last_updated": "2026-04-29 03:00:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 03:00:16",
-      "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
-    },
     {
       "timestamp": "2026-04-29 03:00:19",
       "message": "[SUCCESS] Processed: OpenAI\uac00 FedRAMP \uc911\uac04 \ub2e8\uacc4\uc5d0\uc11c \uc81c\uacf5\ub428\n  > Summary: OpenAI\ub294 ChatGPT Enterprise\uc640 OpenAI API\uc5d0 \ub300\ud574 FedRAMP..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 03:00:56",
       "message": "[PROCESSING] Analyzing: Input Capacitor Challenges in High-Density PD and GaN Chargers \u2014 YMIN Capacitor Solutions..."
+    },
+    {
+      "timestamp": "2026-04-29 03:00:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Input Capacitor Challenges in High-Density PD and GaN Chargers \u2014 YMIN Capacitor Solutions"
     }
   ]
 }
