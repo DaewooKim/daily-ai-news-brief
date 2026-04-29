@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 21:55:52",
+  "last_updated": "2026-04-29 21:55:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 21:55:12",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc815\uc758\uc801 \ud55c\uacc4\ub85c\uc11c\uc758 \uc804\ub825\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \ud655\ub300\ub428\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud55c \uc138\ub300\uc5d0 \uc758\ud55c \uac83\uc774 \uc544\ub2c8\ub77c \uc778\ud504\ub77c \ud0c0\uc784\ub77c..."
-    },
     {
       "timestamp": "2026-04-29 21:55:13",
       "message": "[PROCESSING] Analyzing: Meta says Q1 family daily active people fell 20M QoQ to 3.56B, vs. 3.62B est., due to internet disruptions in Iran and WhatsApp access restrictions in Russia (Jonathan Vanian/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 21:55:52",
       "message": "[PROCESSING] Analyzing: Amazon reports Q1 ad revenue up 24% YoY to $17.24B, vs. $16.87B est., and subscription services revenue up 15% to $13.43B (Annie Palmer/CNBC)..."
+    },
+    {
+      "timestamp": "2026-04-29 21:55:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon reports Q1 ad revenue up 24% YoY to $17.24B, vs. $16.87B est., and subscription services revenue up 15% to $13.43B (Annie Palmer/CNBC)"
     }
   ]
 }
