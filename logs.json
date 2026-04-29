@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 20:46:55",
+  "last_updated": "2026-04-29 20:46:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 20:46:11",
-      "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
-    },
     {
       "timestamp": "2026-04-29 20:46:13",
       "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 20:46:55",
       "message": "[PROCESSING] Analyzing: OpenAI ends Microsoft legal peril over its $50B Amazon deal..."
+    },
+    {
+      "timestamp": "2026-04-29 20:46:57",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI ends Microsoft legal peril over its $50B Amazon deal"
     }
   ]
 }
