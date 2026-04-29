@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 21:54:27",
+  "last_updated": "2026-04-29 21:54:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 21:53:49",
-      "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
-    },
     {
       "timestamp": "2026-04-29 21:53:50",
       "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 21:54:27",
       "message": "[PROCESSING] Analyzing: Otter\u2019s new feature lets users search across their enterprise tools..."
+    },
+    {
+      "timestamp": "2026-04-29 21:54:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Otter\u2019s new feature lets users search across their enterprise tools"
     }
   ]
 }
