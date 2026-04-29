@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 09:41:13",
+  "last_updated": "2026-04-29 09:41:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 09:40:18",
-      "message": "[PROCESSING] Analyzing: Blog Review: Apr. 29..."
-    },
     {
       "timestamp": "2026-04-29 09:40:24",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 4\uc6d4 29\uc77c\n  > Summary: \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 \uc2a4\ucf00\uc77c\ub7ec\ube14\ud558\uace0 \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 3D \ub2e4\uc774 \uc124\uacc4\ub97c \uc704\ud55c \uc778\ud130\ud398\uc774\uc2a4 IP\uc758 \uc911\uc694..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 09:41:13",
       "message": "[SKIP] Irrelevant (AI Filter): How the Quantum Computing Threat Will Reinforce Already Growing Security Needs"
+    },
+    {
+      "timestamp": "2026-04-29 09:41:15",
+      "message": "Reprocessing: How to build custom reasoning agents with a fraction of the compute"
     }
   ]
 }
