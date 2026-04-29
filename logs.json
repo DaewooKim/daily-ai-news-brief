@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 20:45:57",
+  "last_updated": "2026-04-29 20:45:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 20:45:19",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-29 20:45:19",
       "message": "[PROCESSING] Analyzing: Microsoft reports sinking Xbox revenue as its cloud business climbs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 20:45:57",
       "message": "Reprocessing: The GenAI Battle Shifts From Frontier Models To Agentic Platforms"
+    },
+    {
+      "timestamp": "2026-04-29 20:45:59",
+      "message": "[SKIP] Content too short: The GenAI Battle Shifts From F..."
     }
   ]
 }
