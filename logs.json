@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 00:48:06",
+  "last_updated": "2026-04-29 00:48:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 00:47:33",
-      "message": "[PROCESSING] Analyzing: The FCC is going after the broadcast licenses of Disney-owned ABC stations..."
-    },
     {
       "timestamp": "2026-04-29 00:47:36",
       "message": "[SKIP] Irrelevant (AI Filter): The FCC is going after the broadcast licenses of Disney-owned ABC stations"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 00:48:06",
       "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
+    },
+    {
+      "timestamp": "2026-04-29 00:48:08",
+      "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
     }
   ]
 }
