@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 08:32:20",
+  "last_updated": "2026-04-29 08:32:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 08:31:40",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 FedRAMP Moderate\uc5d0\uc11c \uc774\uc6a9 \uac00\ub2a5\n  > Summary: OpenAI\ub294 ChatGPT Enterprise\uc640 OpenAI API\uc5d0 \ub300\ud55c FedRAMP..."
-    },
     {
       "timestamp": "2026-04-29 08:31:42",
       "message": "[PROCESSING] Analyzing: At his OpenAI trial, Musk relitigates an old friendship..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 08:32:20",
       "message": "[PROCESSING] Analyzing: Cisco\u2019s Universal Quantum Switch Ushers in Quantum Networking..."
+    },
+    {
+      "timestamp": "2026-04-29 08:32:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Cisco\u2019s Universal Quantum Switch Ushers in Quantum Networking"
     }
   ]
 }
