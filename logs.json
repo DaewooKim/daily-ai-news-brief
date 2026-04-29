@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-29 18:33:14",
+  "last_updated": "2026-04-29 18:33:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-29 18:32:33",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 FedRAMP \uc911\uac04 \ub4f1\uae09\uc5d0\uc11c \uc774\uc6a9 \uac00\ub2a5\n  > Summary: OpenAI\uac00 U.S. \uc5f0\ubc29\uae30\uad00\uc744 \uc704\ud55c \uc548\uc804\ud55c AI \ub3c4\uc785\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub294 ChatGPT E..."
-    },
     {
       "timestamp": "2026-04-29 18:32:34",
       "message": "Reprocessing: Google Photos uses AI to make the iconic closet from \u2018Clueless\u2019 a reality"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-29 18:33:14",
       "message": "[PROCESSING] Analyzing: Meta inks deal for solar power at night, beamed from space..."
+    },
+    {
+      "timestamp": "2026-04-29 18:33:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta inks deal for solar power at night, beamed from space"
     }
   ]
 }
