@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 09:07:13",
+  "last_updated": "2026-04-30 09:07:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 09:06:28",
-      "message": "[PROCESSING] Analyzing: The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall..."
-    },
     {
       "timestamp": "2026-04-30 09:06:33",
       "message": "[SUCCESS] Processed: \ud558\uc774\ube0c\ub9ac\ub4dc \uac80\uc0c9 \ubaa9\ud45c\uac00 \uc138 \ubc30 \uc99d\uac00\ud55c \uc774\uc720: \uc5d4\ud130\ud504\ub77c\uc774\uc988 RAG \ud504\ub85c\uadf8\ub7a8\uc774 \ud55c\uacc4\uc5d0 \ubd80\ub52a\ud788\ub2e4\n  > Summary: 2026\ub144 1\ubd84\uae30\uc5d0 \uc5d4\ud130\ud504\ub77c\uc774\uc988 RAG\uc5d0\uc11c \ud070 \ubcc0\ud654\uac00 \ub098\ud0c0\ub0ac\uc2b5\ub2c8\ub2e4. \ud558\uc774\ube0c\ub9ac\ub4dc \uac80\uc0c9\uc744 \ucc44\ud0dd..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 09:07:13",
       "message": "Reprocessing: Alphabet\u2019s stock climbs as Google Cloud revenue runs rampant, growing 63%"
+    },
+    {
+      "timestamp": "2026-04-30 09:07:15",
+      "message": "[SKIP] Content too short: Alphabet\u2019s stock climbs as Goo..."
     }
   ]
 }
