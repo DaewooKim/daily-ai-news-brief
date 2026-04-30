@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 14:43:56",
+  "last_updated": "2026-04-30 14:43:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 14:43:06",
-      "message": "[PROCESSING] Analyzing: Sources: the NSA has been testing Anthropic's Mythos model to find vulnerabilities in Microsoft products and widely used software from other companies (Jake Bleiberg/Bloomberg)..."
-    },
     {
       "timestamp": "2026-04-30 14:43:10",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: NSA, Anthropic\uc758 Mythos \ubaa8\ub378\uc744 \ud14c\uc2a4\ud2b8\ud558\uc5ec Microsoft \uc81c\ud488 \ubc0f \ub2e4\ub978 \ud68c\uc0ac\uc758 \ub110\ub9ac \uc0ac\uc6a9\ub418\ub294 \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc758 \ucde8\uc57d\uc810\uc744 \ucc3e\uace0 \uc788\ub2e4\n  > Summary: \ubbf8\uad6d \uad6d\uac00\uc548\uc804\ubcf4\uc7a5\uad6d(NNSA)\uc740 Anthropic PBC\uc758 \uc0c8\ub85c\uc6b4 \uc778\uacf5\uc9c0\ub2a5 \ubaa8\ub378\uc778 Myth..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 14:43:56",
       "message": "[PROCESSING] Analyzing: Iran's internet blackout, which costs an estimated $80M per day in economic damage, is dividing its military and civilian government, which opposes the measure (Patrick Sykes/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-04-30 14:43:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Iran's internet blackout, which costs an estimated $80M per day in economic damage, is dividing its military and civilian government, which opposes the measure (Patrick Sykes/Bloomberg)"
     }
   ]
 }
