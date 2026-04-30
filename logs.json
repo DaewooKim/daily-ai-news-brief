@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 19:14:59",
+  "last_updated": "2026-04-30 19:15:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 19:14:10",
-      "message": "[SUCCESS] Processed: \uad6c\uae00\uc774 \uad6c\uae00\uc774 \ub0b4\uc7a5\ub41c \uc790\ub3d9\ucc28\uc5d0 \uc81c\ubbf8\ub2c8\ub97c \ubc30\ud3ec\ud558\uace0 \uad6c\uae00 \uc5b4\uc2dc\uc2a4\ud134\ud2b8\ub97c \ub300\uccb4\ud569\ub2c8\ub2e4.\n  > Summary: \uad6c\uae00\uc740 \ubbf8\uad6d\uc5d0\uc11c \uc601\uc5b4\ub85c \uc2dc\uc791\ud558\uc5ec \uad6c\uae00\uc774 \ub0b4\uc7a5\ub41c \uc790\ub3d9\ucc28\uc5d0 \uc81c\ubbf8\ub2c8 AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8\ub97c \ubc30\ud3ec\ud558\uace0 ..."
-    },
     {
       "timestamp": "2026-04-30 19:14:12",
       "message": "[PROCESSING] Analyzing: Musk v. Altman: the judge told Musk's lawyer she did not want talk of AI's existential threat seeping into the trial, focusing instead on OpenAI's founding (New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 19:14:59",
       "message": "[PROCESSING] Analyzing: Unlocking High-Speed Serial Link Signal Integrity With AMI Model..."
+    },
+    {
+      "timestamp": "2026-04-30 19:15:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Unlocking High-Speed Serial Link Signal Integrity With AMI Model"
     }
   ]
 }
