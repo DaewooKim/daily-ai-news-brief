@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 14:43:53",
+  "last_updated": "2026-04-30 14:43:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 14:42:59",
-      "message": "[PROCESSING] Analyzing: Cloudflare says AI agents can now create Cloudflare accounts, start paid subscriptions, register domains, and deploy apps on behalf of users (Cloudflare)..."
-    },
     {
       "timestamp": "2026-04-30 14:43:05",
       "message": "[SUCCESS] Processed: \ud074\ub77c\uc6b0\ub4dc\ud50c\ub808\uc5b4, AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc774\uc81c \ud074\ub77c\uc6b0\ub4dc\ud50c\ub808\uc5b4 \uacc4\uc815\uc744 \uc0dd\uc131\ud558\uace0 \uc720\ub8cc \uad6c\ub3c5\uc744 \uc2dc\uc791\ud558\uba70 \ub3c4\uba54\uc778\uc744 \ub4f1\ub85d\ud558\uace0 \uc0ac\uc6a9\uc790\ub97c \ub300\uc2e0\ud574 \uc571\uc744 \ubc30\ud3ec\ud560 \uc218 \uc788\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: \ud074\ub77c\uc6b0\ub4dc\ud50c\ub808\uc5b4\ub294 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc0ac\uc6a9\uc790 \ub300\uc2e0 \ud074\ub77c\uc6b0\ub4dc\ud50c\ub808\uc5b4 \uacc4\uc815\uc744 \ub9cc\ub4e4\uace0, \uc720\ub8cc \uad6c\ub3c5\uc744 \uc2dc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 14:43:53",
       "message": "[PROCESSING] Analyzing: Polymarket partners with Chainalysis to deploy a detection model to \"surface patterns consistent with insider knowledge in prediction markets\" and other tools (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-04-30 14:43:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Polymarket partners with Chainalysis to deploy a detection model to \"surface patterns consistent with insider knowledge in prediction markets\" and other tools (Bloomberg)"
     }
   ]
 }
