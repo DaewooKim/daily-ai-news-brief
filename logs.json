@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 13:35:41",
+  "last_updated": "2026-04-30 13:35:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 13:34:52",
-      "message": "Reprocessing: OpenAI says its models, starting with GPT-5.1, \"increasingly mentioned goblins, gremlins, and other creatures\", leading to prompt instructions to mitigate it (OpenAI)"
-    },
     {
       "timestamp": "2026-04-30 13:34:53",
       "message": "[PROCESSING] Analyzing: OpenAI says its models, starting with GPT-5.1, \"increasingly mentioned goblins, gremlins, and other creatures\", leading to prompt instructions to mitigate it (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 13:35:41",
       "message": "[PROCESSING] Analyzing: Atomera Extends Collaboration With Synopsys..."
+    },
+    {
+      "timestamp": "2026-04-30 13:35:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Atomera Extends Collaboration With Synopsys"
     }
   ]
 }
