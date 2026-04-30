@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 04:35:11",
+  "last_updated": "2026-04-30 04:35:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 04:34:23",
-      "message": "[SUCCESS] Processed: \uc815\ubcf4 \uc2dc\ub300\uc758 \uc0ac\uc774\ubc84 \ubcf4\uc548\n  > Summary: OpenAI\ub294 AI \uae30\ubc18 \uc0ac\uc774\ubc84 \ubc29\uc5b4\ub97c \ubbfc\uc8fc\ud654\ud558\uace0 \uc911\uc694\ud55c \uc2dc\uc2a4\ud15c\uc744 \ubcf4\ud638\ud558\ub294 \ub370 \uc911\uc810\uc744 \ub454 ..."
-    },
     {
       "timestamp": "2026-04-30 04:34:25",
       "message": "Reprocessing: OpenAI available at FedRAMP Moderate"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 04:35:11",
       "message": "[PROCESSING] Analyzing: Pressure Sensors: Turning Environmental Signals into Smart Actions..."
+    },
+    {
+      "timestamp": "2026-04-30 04:35:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Pressure Sensors: Turning Environmental Signals into Smart Actions"
     }
   ]
 }
