@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 14:41:17",
+  "last_updated": "2026-04-30 14:41:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 14:40:37",
-      "message": "Reprocessing: Verified by Spotify badge lets you know this artist isn&#8217;t AI"
-    },
     {
       "timestamp": "2026-04-30 14:40:39",
       "message": "[PROCESSING] Analyzing: Verified by Spotify badge lets you know this artist isn&#8217;t AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 14:41:17",
       "message": "[PROCESSING] Analyzing: Four ways Google Research scientists have been using Empirical Research Assistance..."
+    },
+    {
+      "timestamp": "2026-04-30 14:41:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Four ways Google Research scientists have been using Empirical Research Assistance"
     }
   ]
 }
