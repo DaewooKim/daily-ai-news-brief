@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 02:24:05",
+  "last_updated": "2026-04-30 02:24:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 02:23:07",
-      "message": "[PROCESSING] Analyzing: AWS revenue rose 28% YoY in Q1 to $37.6B, vs. $36.64B est., its fastest growth in 15 quarters, as capital expenditure rose to $44.2B, up from $25B in Q1 2025 (Quartz)..."
-    },
     {
       "timestamp": "2026-04-30 02:23:12",
       "message": "[SUCCESS] Processed: AWS \uc218\uc775\uc774 1\ubd84\uae30 28% \uc99d\uac00\ud558\uc5ec 376\uc5b5 \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec, \uc608\uc0c1 366.4\uc5b5 \ub2ec\ub7ec\ub97c \ucd08\uacfc, 15\ubd84\uae30 \ub9cc\uc5d0 \uac00\uc7a5 \ube60\ub978 \uc131\uc7a5\n  > Summary: AWS\uc758 \uc218\uc775\uc774 \uc804\ub144 \ub300\ube44 1\ubd84\uae30\uc5d0 28% \uc99d\uac00\ud558\uc5ec 376\uc5b5 \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 02:24:05",
       "message": "[PROCESSING] Analyzing: Atomera Extends Collaboration With Synopsys..."
+    },
+    {
+      "timestamp": "2026-04-30 02:24:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Atomera Extends Collaboration With Synopsys"
     }
   ]
 }
