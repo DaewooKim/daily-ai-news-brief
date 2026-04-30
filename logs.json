@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 14:44:05",
+  "last_updated": "2026-04-30 14:44:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 14:43:19",
-      "message": "[PROCESSING] Analyzing: Sources: US officials are preparing a wide-ranging AI policy memo that outlines rules for national security agencies, including avoiding relying on one vendor (Bloomberg)..."
-    },
     {
       "timestamp": "2026-04-30 14:43:23",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uad00\ub9ac\ub4e4\uc774 \uad6d\uac00 \uc548\ubcf4 \uae30\uad00\uc744 \uc704\ud55c AI \uc815\ucc45 \uba54\ubaa8 \uc900\ube44 \uc911\n  > Summary: \ubbf8\uad6d \uc815\ubd80 \uad00\uacc4\uc790\ub4e4\uc774 \uc778\uacf5\uc9c0\ub2a5(AI) \ubc30\uce58\uc5d0 \ub300\ud55c \uc694\uad6c \uc0ac\ud56d\uc744 \ud3ec\ud568\ud558\ub294 \uad11\ubc94\uc704\ud55c AI \uc815\ucc45..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 14:44:05",
       "message": "[PROCESSING] Analyzing: Study: long-shot Polymarket bets on military action, defined as $2,500+ wagers at odds of 35% or less, have a ~52% average win rate, vs. 25% for political bets (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-04-30 14:44:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Study: long-shot Polymarket bets on military action, defined as $2,500+ wagers at odds of 35% or less, have a ~52% average win rate, vs. 25% for political bets (Financial Times)"
     }
   ]
 }
