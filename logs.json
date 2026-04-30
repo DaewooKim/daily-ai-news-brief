@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 11:17:26",
+  "last_updated": "2026-04-30 11:17:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 11:16:41",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-04-30 11:16:41",
       "message": "[PROCESSING] Analyzing: OpenAI\u2019s new security model is for \u2018critical cyber defenders\u2019 only..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 11:17:26",
       "message": "Reprocessing: Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others"
+    },
+    {
+      "timestamp": "2026-04-30 11:17:27",
+      "message": "[SKIP] Content too short: Microsoft And OpenAI Remain Fr..."
     }
   ]
 }
