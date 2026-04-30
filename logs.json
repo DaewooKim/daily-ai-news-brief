@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-04-30 19:16:30",
+  "last_updated": "2026-04-30 19:16:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-04-30 19:15:27",
-      "message": "[PROCESSING] Analyzing: SEMI Appoints Julie Rogers Executive Director of the ESD Alliance..."
-    },
     {
       "timestamp": "2026-04-30 19:15:29",
       "message": "[SKIP] Irrelevant (AI Filter): SEMI Appoints Julie Rogers Executive Director of the ESD Alliance"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-04-30 19:16:30",
       "message": "[SUCCESS] Processed: \ubaa8\ub4e0 \uac83\uc744 \uc9c0\ubc30\ud560 \ub3c4\uad6c? \uc0c8\ub85c\uc6b4 \uc624\ud508 \uc18c\uc2a4 \ud30c\uc774\uc36c \ub3c4\uad6c RunPod Flash\uac00 \ucee8\ud14c\uc774\ub108\ub97c \uc5c6\uc560 \ube60\ub978 AI \uac1c\ubc1c\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub2e4\n  > Summary: RunPod\ub294 AI \uac1c\ubc1c\uc744 \uc704\ud574 \ud2b9\ubcc4\ud788 \uc124\uacc4\ub41c \uace0\uc131\ub2a5 \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305 \ubc0f GPU \ud50c\ub7ab\ud3fc\uc73c\ub85c..."
+    },
+    {
+      "timestamp": "2026-04-30 19:16:32",
+      "message": "Reprocessing: Claude Code, Copilot and Codex all got hacked. Every attacker went for the credential, not the model."
     }
   ]
 }
