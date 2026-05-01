@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 07:33:24",
+  "last_updated": "2026-05-01 07:33:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 07:32:46",
-      "message": "[PROCESSING] Analyzing: The Breaking Points: Cooling Struggles to Keep Pace With AI Power Density..."
-    },
     {
       "timestamp": "2026-05-01 07:32:50",
       "message": "[SUCCESS] Processed: \uc774\ud0c8\uc810: AI \uc804\ub825 \ubc00\ub3c4\uc640 \ubcf4\uc870\uc801\uc778 \ub0c9\uac01 \uace0\ub09c\n  > Summary: AI \uc6cc\ud06c\ub85c\ub4dc\uc758 \ud655\ub300\uc5d0 \ub530\ub77c \ub0c9\uac01\uc740 \ub514\uc790\uc778 \uace0\ub824\uc0ac\ud56d\uc5d0\uc11c \ubc30\ud3ec \ub3c4\uc804 \uacfc\uc81c\ub85c \ubc1c\uc804\ud558\uace0 \uc788\uc73c\uba70,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 07:33:24",
       "message": "[PROCESSING] Analyzing: Alphabet's stock climbed 10% on Thursday and 34% in April, its best month since 2004; Meta's stock plunged 8.5% on Thursday, its steepest drop since October (Annie Palmer/CNBC)..."
+    },
+    {
+      "timestamp": "2026-05-01 07:33:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Alphabet's stock climbed 10% on Thursday and 34% in April, its best month since 2004; Meta's stock plunged 8.5% on Thursday, its steepest drop since October (Annie Palmer/CNBC)"
     }
   ]
 }
