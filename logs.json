@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 03:08:04",
+  "last_updated": "2026-05-01 03:08:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 03:07:14",
-      "message": "Reprocessing: SEMI Reports Worldwide Silicon Wafer Shipments Increase 13% Year-on-Year in Q1 2026"
-    },
     {
       "timestamp": "2026-05-01 03:07:16",
       "message": "[PROCESSING] Analyzing: SEMI Reports Worldwide Silicon Wafer Shipments Increase 13% Year-on-Year in Q1 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 03:08:04",
       "message": "[PROCESSING] Analyzing: Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs..."
+    },
+    {
+      "timestamp": "2026-05-01 03:08:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs"
     }
   ]
 }
