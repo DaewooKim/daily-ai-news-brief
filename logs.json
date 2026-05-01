@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 21:58:22",
+  "last_updated": "2026-05-01 21:58:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 21:57:47",
-      "message": "Found 186 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-01 21:57:47",
       "message": "[PROCESSING] Analyzing: Apple raises the Mac Mini&#8217;s starting price..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 21:58:22",
       "message": "Reprocessing: Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others"
+    },
+    {
+      "timestamp": "2026-05-01 21:58:24",
+      "message": "[SKIP] Content too short: Microsoft And OpenAI Remain Fr..."
     }
   ]
 }
