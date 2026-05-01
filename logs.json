@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 07:33:34",
+  "last_updated": "2026-05-01 07:33:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 07:33:00",
-      "message": "[SUCCESS] Processed: \ud55c\uacc4\uc810: \uc804\ub825\uc740 AI\uc758 \uc815\uc758\uc801 \ud55c\uacc4\ub85c \ub5a0\uc624\ub974\ub2e4\n  > Summary: AI \uc791\uc5c5\ub7c9\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uc804\ub825\uc758 \uc81c\uc57d\uc740 \ub2e8\uc21c\ud788 \uc138\ub300\uc5d0 \uc758\ud574 \uacb0\uc815\ub418\ub294 \uac83\uc774 \uc544\ub2c8\ub77c \uc778\ud504..."
-    },
     {
       "timestamp": "2026-05-01 07:33:02",
       "message": "[PROCESSING] Analyzing: Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes (Dan Goodin/Ars Technica)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 07:33:34",
       "message": "[PROCESSING] Analyzing: Tim Cook says iPhone sales, which slightly missed Q2 estimates, were held back by chip supply constraints, as \"demand was off the charts\" (Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-01 07:33:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Tim Cook says iPhone sales, which slightly missed Q2 estimates, were held back by chip supply constraints, as \"demand was off the charts\" (Reuters)"
     }
   ]
 }
