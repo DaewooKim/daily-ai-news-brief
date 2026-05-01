@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 14:14:06",
+  "last_updated": "2026-05-01 14:14:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 14:13:23",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc815\uc758\uc801 \ud55c\uacc4\ub85c \ub5a0\uc624\ub974\ub294 \uc804\ub825\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc804\ub825 \ud55c\uacc4\ub294 \ub2e8\uc21c\ud55c \uc138\ub300 \ubb38\uc81c\ubcf4\ub2e4 \uc778\ud504\ub77c \uc77c\uc815\uacfc \uc2dc\uc2a4\ud15c \ubcf5..."
-    },
     {
       "timestamp": "2026-05-01 14:13:25",
       "message": "[PROCESSING] Analyzing: The US Navy awards Domino Data Lab a contract worth up to $100M for AI software that teaches underwater drones to identify new mines in the Strait of Hormuz (Mike Stone/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 14:14:06",
       "message": "[PROCESSING] Analyzing: SEMI Appoints Julie Rogers Executive Director of the ESD Alliance..."
+    },
+    {
+      "timestamp": "2026-05-01 14:14:08",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Appoints Julie Rogers Executive Director of the ESD Alliance"
     }
   ]
 }
