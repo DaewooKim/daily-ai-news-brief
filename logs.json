@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 02:00:35",
+  "last_updated": "2026-05-01 02:00:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 01:59:45",
-      "message": "[PROCESSING] Analyzing: The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Will Feature Advances in Microelectronics..."
-    },
     {
       "timestamp": "2026-05-01 01:59:50",
       "message": "[SUCCESS] Processed: 2026 IEEE/JSAP \uc2ec\ud3ec\uc9c0\uc5c4\uc774 \ub9c8\uc774\ud06c\ub85c\uc804\uc790 \ubd84\uc57c\uc758 \ubc1c\uc804\uc744 \uc18c\uac1c\ud569\ub2c8\ub2e4\n  > Summary: 2026 IEEE/JSAP \uc2ec\ud3ec\uc9c0\uc5c4\uc740 \u2018VLSI \ud601\uc2e0\uc744 \ud1b5\ud55c AI \uc804\uc120\uc758 \ubc1c\uc804\u2019\uc774\ub77c\ub294 \uc8fc\uc81c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 02:00:35",
       "message": "[SKIP] Irrelevant (AI Filter): ACM Research Ships First PECVD SiCN System for Advanced Semiconductor Applications"
+    },
+    {
+      "timestamp": "2026-05-01 02:00:37",
+      "message": "Reprocessing: One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev"
     }
   ]
 }
