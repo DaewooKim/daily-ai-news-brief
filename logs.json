@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 01:59:09",
+  "last_updated": "2026-05-01 01:59:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 01:58:31",
-      "message": "[PROCESSING] Analyzing: Intel shares jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record (Katie Tarasov/CNBC)..."
-    },
     {
       "timestamp": "2026-05-01 01:58:35",
       "message": "[SUCCESS] Processed: \uc778\ud154 \uc8fc\uac00\uac00 4\uc6d4\uc5d0 114% \uae09\ub4f1, 4\uc6d4 24\uc77c \uae30\ub85d \uac31\uc2e0 \ubc0f \uc2dc\uac00\ucd1d\uc561 4700\uc5b5 \ub2ec\ub7ec \ucd08\uacfc\n  > Summary: \uc778\ud154 \uc8fc\uac00\ub294 4\uc6d4\uc5d0 114% \uae09\ub4f1\ud558\uba70 4\uc6d4 24\uc77c\uc5d0 \uae30\ub85d\uc744 \uac31\uc2e0\ud558\uace0 \uc2dc\uac00\ucd1d\uc561\uc774 4700\uc5b5 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 01:59:09",
       "message": "[SKIP] Irrelevant (AI Filter): Apple Q2: iPhone up 22% YoY to $56.99B, vs. $57.21B est., Mac up 6% to $8.4B, iPad up 8% to $6.91B, and Wearables, Home, and Accessories up 5% to $7.9B (Jennifer Elias/CNBC)"
+    },
+    {
+      "timestamp": "2026-05-01 01:59:10",
+      "message": "[PROCESSING] Analyzing: Apple reports Q2 revenue up 17% YoY to $111.18B, vs. $109.66B est., net income up 19% to $29.6B, and authorizes an additional $100B share buyback program (Apple)..."
     }
   ]
 }
