@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 16:26:20",
+  "last_updated": "2026-05-01 16:26:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 16:25:39",
-      "message": "[SUCCESS] Processed: X, AI \uae30\ubc18\uc73c\ub85c \uad11\uace0 \ud50c\ub7ab\ud3fc \uc7ac\uad6c\ucd95 \ubc1c\ud45c\n  > Summary: X\ub294 \uc218\uc775 \uc131\uc7a5\uc744 \uc704\ud574 AI\uc5d0 \uc758\ud574 \uad6c\ub3d9\ub418\ub294 \uc7ac\uad6c\uc131\ub41c \uad11\uace0 \ud50c\ub7ab\ud3fc\uc744 \ucd9c\uc2dc\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-05-01 16:25:40",
       "message": "[PROCESSING] Analyzing: Amazon\u2019s cloud business is surging \u2014 and so is its capital spending..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 16:26:20",
       "message": "[PROCESSING] Analyzing: Sources: Peter Thiel's Founders Fund raised $6B for a fund to invest in later-stage companies, marking its largest haul ever; $4.5B comes from limited partners (Natasha Mascarenhas/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-01 16:26:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Peter Thiel's Founders Fund raised $6B for a fund to invest in later-stage companies, marking its largest haul ever; $4.5B comes from limited partners (Natasha Mascarenhas/Bloomberg)"
     }
   ]
 }
