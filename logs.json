@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 17:30:55",
+  "last_updated": "2026-05-01 17:30:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 17:30:18",
-      "message": "Found 182 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-01 17:30:18",
       "message": "[PROCESSING] Analyzing: This accessory can snap a Steam Controller to your phone \u2014 or almost anything else..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 17:30:55",
       "message": "Reprocessing: AWS Will Be An OEM, Just Like Google And Maybe Microsoft"
+    },
+    {
+      "timestamp": "2026-05-01 17:30:57",
+      "message": "[SKIP] Content too short: AWS Will Be An OEM, Just Like ..."
     }
   ]
 }
