@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 14:13:05",
+  "last_updated": "2026-05-01 14:13:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 14:12:26",
-      "message": "[PROCESSING] Analyzing: OpenAI available at FedRAMP Moderate..."
-    },
     {
       "timestamp": "2026-05-01 14:12:29",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, FedRAMP Moderate\uc5d0\uc11c \uc774\uc6a9 \uac00\ub2a5\n  > Summary: \uc624\ud508AI\ub294 ChatGPT Enterprise\uc640 OpenAI API\uc5d0 \ub300\ud574 FedRAMP M..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 14:13:05",
       "message": "[SKIP] Irrelevant (AI Filter): STMicro Introduces STM32C5 for Cost-Sensitive Smart Devices"
+    },
+    {
+      "timestamp": "2026-05-01 14:13:06",
+      "message": "Reprocessing: The Breaking Points: Cooling Struggles to Keep Pace With AI Power Density"
     }
   ]
 }
