@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 14:11:36",
+  "last_updated": "2026-05-01 14:11:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 14:10:56",
-      "message": "Found 178 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-01 14:10:56",
       "message": "[PROCESSING] Analyzing: Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 14:11:36",
       "message": "Reprocessing: Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others"
+    },
+    {
+      "timestamp": "2026-05-01 14:11:38",
+      "message": "[SKIP] Content too short: Microsoft And OpenAI Remain Fr..."
     }
   ]
 }
