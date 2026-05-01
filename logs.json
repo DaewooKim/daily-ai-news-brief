@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-01 20:55:28",
+  "last_updated": "2026-05-01 20:55:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-01 20:54:47",
-      "message": "[PROCESSING] Analyzing: Atomera Extends Collaboration With Synopsys..."
-    },
     {
       "timestamp": "2026-05-01 20:54:50",
       "message": "[SKIP] Irrelevant (AI Filter): Atomera Extends Collaboration With Synopsys"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-01 20:55:28",
       "message": "Reprocessing: AI constraints must come before deployment, not after"
+    },
+    {
+      "timestamp": "2026-05-01 20:55:29",
+      "message": "[SKIP] Content too short: AI constraints must come befor..."
     }
   ]
 }
