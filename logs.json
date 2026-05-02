@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 02:25:03",
+  "last_updated": "2026-05-02 02:25:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 02:24:24",
-      "message": "[SUCCESS] Processed: AI\uc758 \uacb0\uc815\uc801 \ud55c\uacc4\ub85c\uc11c\uc758 \uc804\ub825\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud55c \uc138\ub300 \ubb38\uc81c\ub97c \ub118\uc5b4 \uc778\ud504\ub77c \uc77c\uc815 \ubc0f \uc2dc\uc2a4..."
-    },
     {
       "timestamp": "2026-05-02 02:24:25",
       "message": "[PROCESSING] Analyzing: A UK court orders Samsung to pay ZTE $392M for patents needed to enable phone network access; Samsung faces similar suits from ZTE in China, Germany, and Brazil (Sam Tobin/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 02:25:03",
       "message": "[PROCESSING] Analyzing: ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces..."
+    },
+    {
+      "timestamp": "2026-05-02 02:25:05",
+      "message": "[SKIP] Irrelevant (AI Filter): ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces"
     }
   ]
 }
