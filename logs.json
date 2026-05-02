@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 17:45:46",
+  "last_updated": "2026-05-02 17:45:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 17:45:11",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-02 17:45:11",
       "message": "[PROCESSING] Analyzing: Aura\u2019s delightful Aspen photo frame is on sale for $30 off this weekend..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 17:45:46",
       "message": "Reprocessing: Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others"
+    },
+    {
+      "timestamp": "2026-05-02 17:45:47",
+      "message": "[SKIP] Content too short: Microsoft And OpenAI Remain Fr..."
     }
   ]
 }
