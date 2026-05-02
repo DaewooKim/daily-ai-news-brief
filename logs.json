@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 12:15:39",
+  "last_updated": "2026-05-02 12:15:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 12:15:06",
-      "message": "Found 183 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-02 12:15:06",
       "message": "[PROCESSING] Analyzing: Playing Esoteric Ebb is like rolling the dice with a great DM..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 12:15:39",
       "message": "Reprocessing: Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others"
+    },
+    {
+      "timestamp": "2026-05-02 12:15:40",
+      "message": "[SKIP] Content too short: Microsoft And OpenAI Remain Fr..."
     }
   ]
 }
