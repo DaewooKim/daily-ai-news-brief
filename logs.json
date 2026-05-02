@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 15:33:28",
+  "last_updated": "2026-05-02 15:33:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 15:32:48",
-      "message": "Found 175 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-02 15:32:48",
       "message": "[PROCESSING] Analyzing: Anker\u2019s discounted 2-in-1 USB-C cable is a great way to spend $15..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 15:33:28",
       "message": "Reprocessing: Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others"
+    },
+    {
+      "timestamp": "2026-05-02 15:33:29",
+      "message": "[SKIP] Content too short: Microsoft And OpenAI Remain Fr..."
     }
   ]
 }
