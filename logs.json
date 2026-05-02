@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 06:48:25",
+  "last_updated": "2026-05-02 06:48:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 06:47:39",
-      "message": "[SUCCESS] Processed: AI\uc758 \uacb0\uc815\uc801 \ud55c\uacc4\ub85c\uc11c\uc758 \uc804\ub825\n  > Summary: AI \uc6cc\ud06c\ub85c\ub4dc\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c, \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud55c \uc138\ub300 \ubb38\uc81c\ubcf4\ub2e4 \uc778\ud504\ub77c \uc77c\uc815\uacfc \uc2dc\uc2a4\ud15c \ubcf5..."
-    },
     {
       "timestamp": "2026-05-02 06:47:41",
       "message": "[PROCESSING] Analyzing: Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation (New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 06:48:25",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-02 06:48:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
