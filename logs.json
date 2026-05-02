@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 04:38:01",
+  "last_updated": "2026-05-02 04:38:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 04:37:27",
-      "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
-    },
     {
       "timestamp": "2026-05-02 04:37:30",
       "message": "[SUCCESS] Processed: \uba85\ub839 \uc2e4\ud589 \uacb0\ud568\uc774 \uc788\ub294 200,000 MCP \uc11c\ubc84, Anthropic\uc774 \uae30\ub2a5\uc774\ub77c\uace0 \ubd80\ub984\n  > Summary: Anthropic\uc774 \ub9cc\ub4e0 Model Context Protocol(MCP)\uc5d0\uc11c \uba85\ub839 \uc2e4\ud589\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 04:38:01",
       "message": "Reprocessing: AI is forcing even insurance\u2019s most cautious players to move fast"
+    },
+    {
+      "timestamp": "2026-05-02 04:38:02",
+      "message": "[SKIP] Content too short: AI is forcing even insurance\u2019s..."
     }
   ]
 }
