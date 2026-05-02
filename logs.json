@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 11:11:49",
+  "last_updated": "2026-05-02 11:11:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 11:11:11",
-      "message": "[SUCCESS] Processed: AI\uc758 \ud55c\uacc4\ub97c \uc815\uc758\ud558\ub294 \uc804\ub825\n  > Summary: AI \uc791\uc5c5\ub7c9\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uc804\ub825\uc758 \ud55c\uacc4\uac00 \ub2e8\uc21c\ud55c \uc138\ub300 \ubb38\uc81c\ub97c \ub118\uc5b4\uc11c \uc778\ud504\ub77c \uc77c\uc815 \ubc0f \uc2dc\uc2a4..."
-    },
     {
       "timestamp": "2026-05-02 11:11:13",
       "message": "[PROCESSING] Analyzing: A profile of OpenAI CFO Sarah Friar, who sources say helped keep OpenAI's Microsoft deal on track and has privately suggested waiting until 2027 for an IPO (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 11:11:49",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-02 11:11:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
