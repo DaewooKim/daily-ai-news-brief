@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 01:20:35",
+  "last_updated": "2026-05-02 01:20:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 01:20:00",
-      "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
-    },
     {
       "timestamp": "2026-05-02 01:20:05",
       "message": "[SUCCESS] Processed: 200,000 MCP \uc11c\ubc84\uc5d0\uc11c Anthropic\uc774 \uae30\ub2a5\uc774\ub77c\uace0 \ubd80\ub974\ub294 \uba85\ub839 \uc2e4\ud589 \ucde8\uc57d\uc810 \ub178\ucd9c\n  > Summary: Anthropic\uc774 \ub9cc\ub4e0 \ubaa8\ub378 \ub9e5\ub77d \ud504\ub85c\ud1a0\ucf5c(MCP)\uc758 STDIO \uc804\uc1a1\uc5d0\uc11c \uba85\ub839\uc5b4\uac00 \ubb34\ub2e8\uc73c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 01:20:35",
       "message": "[SKIP] Content too short: AI is forcing even insurance\u2019s..."
+    },
+    {
+      "timestamp": "2026-05-02 01:20:37",
+      "message": "Reprocessing: AI constraints must come before deployment, not after"
     }
   ]
 }
