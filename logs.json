@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 14:29:08",
+  "last_updated": "2026-05-02 14:29:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 14:28:30",
-      "message": "[SUCCESS] Processed: AI\uc758 \uacb0\uc815\uc801 \ud55c\uacc4\ub85c\uc11c\uc758 \uc804\ub825\n  > Summary: AI \uc791\uc5c5\uc758 \uaddc\ubaa8\uac00 \ud655\ub300\ub428\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud55c \uc138\ub300\uc758 \ubb38\uc81c\ub97c \ub118\uc5b4 \uc778\ud504\ub77c \uc77c\uc815\uacfc \uc2dc..."
-    },
     {
       "timestamp": "2026-05-02 14:28:32",
       "message": "[PROCESSING] Analyzing: A look at casino-style games, considered gambling in some US states, where player \"whales\" spend tens of thousands via IAP on Apple, Google, and Meta platforms (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 14:29:08",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-02 14:29:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
