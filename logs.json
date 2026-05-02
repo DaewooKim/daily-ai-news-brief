@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-02 18:53:55",
+  "last_updated": "2026-05-02 18:53:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-02 18:53:19",
-      "message": "[PROCESSING] Analyzing: Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors (Robert Booth/The Guardian)..."
-    },
     {
       "timestamp": "2026-05-02 18:53:23",
       "message": "[SUCCESS] Processed: \uc5f0\uad6c: OpenAI\uc758 o1\uc774 \uc804\uc790 \uae30\ub85d\uacfc \uac04\ud638\uc0ac\uc758 \uba87 \ubb38\uc7a5\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc751\uae09\uc2e4 \ud658\uc790\uc758 67%\ub97c \uc62c\ubc14\ub974\uac8c \uc9c4\ub2e8\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \ubd84\ub958 \uc758\uc0ac\uc758 50-55%\uc640 \ube44\uad50\ub429\ub2c8\ub2e4 (\ub85c\ubc84\ud2b8 \ubd80\uc2a4/\uac00\ub514\uc5b8)\n  > Summary: \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 OpenAI\uc758 o1 \uc2dc\uc2a4\ud15c\uc774 \uc751\uae09\uc2e4 \ud658\uc790\uc758 67%\ub97c \uc62c\ubc14\ub974\uac8c \uc9c4\ub2e8\ud588\uc73c\uba70, \uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-02 18:53:55",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-02 18:53:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
