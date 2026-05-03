@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 14:40:01",
+  "last_updated": "2026-05-03 14:40:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 14:39:21",
-      "message": "[PROCESSING] Analyzing: An evaluation by NIST's CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date (NIST)..."
-    },
     {
       "timestamp": "2026-05-03 14:39:25",
       "message": "[SUCCESS] Processed: NIST\uc758 CAISI \ud3c9\uac00, DeepSeek V4 Pro\uac00 \ubbf8\uad6d\uc758 \uc120\ub450 AI \ubaa8\ub378\uc5d0 \ube44\ud574 \uc57d 8\uac1c\uc6d4 \ub4a4\ucc98\uc838 \uc788\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: NIST\uc758 AI \ud45c\uc900 \ubc0f \ud601\uc2e0 \uc13c\ud130(CAISI)\uac00 DeepSeek V4 Pro\ub97c \ud3c9\uac00\ud55c \uacb0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 14:40:01",
       "message": "[PROCESSING] Analyzing: ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces..."
+    },
+    {
+      "timestamp": "2026-05-03 14:40:03",
+      "message": "[SKIP] Irrelevant (AI Filter): ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces"
     }
   ]
 }
