@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 10:17:23",
+  "last_updated": "2026-05-03 10:17:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 10:16:42",
-      "message": "[PROCESSING] Analyzing: The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Will Feature Advances in Microelectronics..."
-    },
     {
       "timestamp": "2026-05-03 10:16:46",
       "message": "[SUCCESS] Processed: 2026 IEEE/JSAP \uc2ec\ud3ec\uc9c0\uc5c4, \ubc18\ub3c4\uccb4 \uae30\uc220 \ubc0f \ud68c\ub85c\uc5d0\uc11c\uc758 \ud601\uc2e0\uc744 \ub2e4\ub8ec\ub2e4\n  > Summary: 2026 IEEE/JSAP \uc2ec\ud3ec\uc9c0\uc5c4\uc740 'VLSI \ud601\uc2e0\uc744 \ud1b5\ud55c AI \uacbd\uacc4\uc758 \ubc1c\uc804'\uc744 \uc8fc\uc81c\ub85c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 10:17:23",
       "message": "[PROCESSING] Analyzing: Hidden IT problems are quietly creating risk, shadow IT, and lost productivity..."
+    },
+    {
+      "timestamp": "2026-05-03 10:17:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Hidden IT problems are quietly creating risk, shadow IT, and lost productivity"
     }
   ]
 }
