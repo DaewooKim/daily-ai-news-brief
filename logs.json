@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 14:38:01",
+  "last_updated": "2026-05-03 14:38:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 14:37:24",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-03 14:37:24",
       "message": "[PROCESSING] Analyzing: These reusable digital Polaroids are a clever way to cover a fridge in memories..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 14:38:01",
       "message": "Reprocessing: Google Is A Full Stack AI Player, And Is Playing Well"
+    },
+    {
+      "timestamp": "2026-05-03 14:38:03",
+      "message": "[SKIP] Content too short: Google Is A Full Stack AI Play..."
     }
   ]
 }
