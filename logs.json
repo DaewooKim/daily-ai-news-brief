@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 23:26:40",
+  "last_updated": "2026-05-03 23:26:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 23:26:05",
-      "message": "[SUCCESS] Processed: KROHNE, \ubbf8\uad6d \uc911\uc2ec\uc73c\ub85c AI \uc911\uc2ec \ub370\uc774\ud130 \uc13c\ud130 \uc131\uc7a5 \uc9c0\uc6d0\uc744 \uc704\ud55c \uc0dd\uc0b0 \ub2a5\ub825 \ud5cc\uc2e0\n  > Summary: KROHNE\ub294 AI \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc131\uc7a5\uc5d0 \ud544\uc694\ud55c \ub370\uc774\ud130 \uc13c\ud130 \uc778\ud504\ub77c\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uc0dd\uc0b0 \ub2a5..."
-    },
     {
       "timestamp": "2026-05-03 23:26:06",
       "message": "Reprocessing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 23:26:40",
       "message": "Reprocessing: Pentagon inks AI procurement deals with seven companies, leaves out Anthropic"
+    },
+    {
+      "timestamp": "2026-05-03 23:26:41",
+      "message": "[SKIP] Content too short: Pentagon inks AI procurement d..."
     }
   ]
 }
