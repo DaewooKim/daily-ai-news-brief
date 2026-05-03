@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 03:41:01",
+  "last_updated": "2026-05-03 03:41:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 03:40:29",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc815\uc758\uc801 \ud55c\uacc4\ub85c\uc11c\uc758 \uc804\ub825\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud788 \ubc1c\uc804 \uc18c\uc2a4\uc5d0 \uc758\uc874\ud558\uc9c0 \uc54a\uace0 \uc778\ud504\ub77c \ud0c0\uc784..."
-    },
     {
       "timestamp": "2026-05-03 03:40:30",
       "message": "[PROCESSING] Analyzing: Ask.com shutters, as its owner IAC \"continues to sharpen its focus\"; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google (Chase DiBenedetto/Mashable)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 03:41:01",
       "message": "[PROCESSING] Analyzing: ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces..."
+    },
+    {
+      "timestamp": "2026-05-03 03:41:03",
+      "message": "[SKIP] Irrelevant (AI Filter): ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces"
     }
   ]
 }
