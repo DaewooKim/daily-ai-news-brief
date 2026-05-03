@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 21:15:00",
+  "last_updated": "2026-05-03 21:15:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 21:14:26",
-      "message": "[SUCCESS] Processed: NIST\uc758 CAISI \ud3c9\uac00\uc5d0 \ub530\ub974\uba74 DeepSeek V4 Pro\ub294 \uc57d 8\uac1c\uc6d4 \uc815\ub3c4 \ubbf8\uad6d\uc758 \uc8fc\uc694 AI \ubaa8\ub378\uc5d0 \ub4a4\ucc98\uc9c0\uba70 \ud604\uc7ac\uae4c\uc9c0 \uac00\uc7a5 \ub2a5\ub825 \uc788\ub294 \uc911\uad6d AI \ubaa8\ub378\uc774\ub2e4\n  > Summary: NIST\uc758 AI \ud45c\uc900 \ubc0f \ud601\uc2e0 \uc13c\ud130(CAISI)\uac00 DeepSeek V4 Pro \ubaa8\ub378\uc744 \ud3c9\uac00..."
-    },
     {
       "timestamp": "2026-05-03 21:14:27",
       "message": "[PROCESSING] Analyzing: Amadeus IT Group, which operates the world's largest travel booking system, plans to acquire French biometrics company Idemia Public Security, for \u20ac1.2B in cash (Javi West Larra\u00f1aga/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 21:15:00",
       "message": "[PROCESSING] Analyzing: SEMI Appoints Julie Rogers Executive Director of the ESD Alliance..."
+    },
+    {
+      "timestamp": "2026-05-03 21:15:02",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Appoints Julie Rogers Executive Director of the ESD Alliance"
     }
   ]
 }
