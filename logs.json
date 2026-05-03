@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 13:31:59",
+  "last_updated": "2026-05-03 13:32:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 13:31:15",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-05-03 13:31:15",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 13:31:59",
       "message": "[PROCESSING] Analyzing: Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off..."
+    },
+    {
+      "timestamp": "2026-05-03 13:32:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off"
     }
   ]
 }
