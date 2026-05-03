@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 05:52:34",
+  "last_updated": "2026-05-03 05:52:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 05:51:55",
-      "message": "[SUCCESS] Processed: AI\uc758 \uc815\uc758\ub41c \ud55c\uacc4\ub85c\uc11c\uc758 \uc804\ub825\uc758 \ubd80\uc0c1\n  > Summary: AI \uc6cc\ud06c\ub85c\ub4dc\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c \uc804\ub825 \uc81c\ud55c\uc740 \ub2e8\uc21c\ud55c \ubc1c\uc804\uc5d0 \uc758\ud574\uc11c\uac00 \uc544\ub2c8\ub77c \uc778\ud504\ub77c \uc77c\uc815\uacfc \uc2dc..."
-    },
     {
       "timestamp": "2026-05-03 05:51:57",
       "message": "[PROCESSING] Analyzing: An evaluation by NIST's CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date (NIST)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 05:52:34",
       "message": "[PROCESSING] Analyzing: Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-03 05:52:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising (Bloomberg)"
     }
   ]
 }
