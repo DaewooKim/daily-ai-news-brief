@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-03 12:26:17",
+  "last_updated": "2026-05-03 12:26:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-03 12:25:41",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-03 12:25:41",
       "message": "[PROCESSING] Analyzing: AI music is flooding streaming services \u2014 but who wants it?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-03 12:26:17",
       "message": "[PROCESSING] Analyzing: Apple raises the Mac Mini&#8217;s starting price..."
+    },
+    {
+      "timestamp": "2026-05-03 12:26:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple raises the Mac Mini&#8217;s starting price"
     }
   ]
 }
