@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 15:50:19",
+  "last_updated": "2026-05-04 15:50:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 15:49:16",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-04 15:49:28",
       "message": "Found 153 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 15:50:19",
       "message": "Reprocessing: AWS Will Be An OEM, Just Like Google And Maybe Microsoft"
+    },
+    {
+      "timestamp": "2026-05-04 15:50:21",
+      "message": "[SKIP] Content too short: AWS Will Be An OEM, Just Like ..."
     }
   ]
 }
