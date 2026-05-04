@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 12:32:59",
+  "last_updated": "2026-05-04 12:33:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 12:32:10",
-      "message": "Reprocessing: Cerebras seeks a valuation of up to $26.62B in its US IPO, aiming to raise $3.5B by selling 28M shares at $115 to $125 apiece in its second attempt to go public (Reuters)"
-    },
     {
       "timestamp": "2026-05-04 12:32:12",
       "message": "[PROCESSING] Analyzing: Cerebras seeks a valuation of up to $26.62B in its US IPO, aiming to raise $3.5B by selling 28M shares at $115 to $125 apiece in its second attempt to go public (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 12:32:59",
       "message": "[PROCESSING] Analyzing: SEMI Appoints Julie Rogers Executive Director of the ESD Alliance..."
+    },
+    {
+      "timestamp": "2026-05-04 12:33:01",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Appoints Julie Rogers Executive Director of the ESD Alliance"
     }
   ]
 }
