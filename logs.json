@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 15:56:55",
+  "last_updated": "2026-05-04 15:57:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 15:55:00",
-      "message": "[PROCESSING] Analyzing: The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Will Feature Advances in Microelectronics..."
-    },
     {
       "timestamp": "2026-05-04 15:55:10",
       "message": "[SUCCESS] Processed: 2026 IEEE/JSAP \uc2ec\ud3ec\uc9c0\uc5c4\uc774 \ubc18\ub3c4\uccb4 \uae30\uc220 \ubc0f \ud68c\ub85c\uc5d0 \ub300\ud55c \uc9c4\ubcf4\ub97c \ud2b9\uc9d5\uc73c\ub85c \ud560 \uac83\uc785\ub2c8\ub2e4\n  > Summary: 2026 IEEE/JSAP \uc2ec\ud3ec\uc9c0\uc5c4\uc740 'VLSI \ud601\uc2e0\uc744 \ud1b5\ud55c AI \ucd5c\uc804\uc120\uc758 \ubc1c\uc804'\uc744 \uc8fc\uc81c\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 15:56:55",
       "message": "[PROCESSING] Analyzing: Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs..."
+    },
+    {
+      "timestamp": "2026-05-04 15:57:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs"
     }
   ]
 }
