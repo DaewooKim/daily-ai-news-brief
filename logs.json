@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 11:24:24",
+  "last_updated": "2026-05-04 11:24:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 11:23:46",
-      "message": "Found 152 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-04 11:23:46",
       "message": "[PROCESSING] Analyzing: Reggie Fils-Aim\u00e9 says Amazon once asked Nintendo to break the law..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 11:24:24",
       "message": "Reprocessing: Google Is A Full Stack AI Player, And Is Playing Well"
+    },
+    {
+      "timestamp": "2026-05-04 11:24:26",
+      "message": "[SKIP] Content too short: Google Is A Full Stack AI Play..."
     }
   ]
 }
