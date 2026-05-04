@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 13:36:55",
+  "last_updated": "2026-05-04 13:36:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 13:36:15",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-04 13:36:15",
       "message": "[PROCESSING] Analyzing: Hisense aggressively cuts the price of its RGB LED TV on release day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 13:36:55",
       "message": "Reprocessing: Google Is A Full Stack AI Player, And Is Playing Well"
+    },
+    {
+      "timestamp": "2026-05-04 13:36:56",
+      "message": "[SKIP] Content too short: Google Is A Full Stack AI Play..."
     }
   ]
 }
