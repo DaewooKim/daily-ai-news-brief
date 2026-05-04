@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 01:37:07",
+  "last_updated": "2026-05-04 01:37:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 01:36:27",
-      "message": "[PROCESSING] Analyzing: Ask.com shutters, as its owner IAC \"continues to sharpen its focus\"; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google (Chase DiBenedetto/Mashable)..."
-    },
     {
       "timestamp": "2026-05-04 01:36:30",
       "message": "[SKIP] Irrelevant (AI Filter): Ask.com shutters, as its owner IAC \"continues to sharpen its focus\"; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google (Chase DiBenedetto/Mashable)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 01:37:07",
       "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
+    },
+    {
+      "timestamp": "2026-05-04 01:37:11",
+      "message": "[SUCCESS] Processed: 20\ub9cc MCP \uc11c\ubc84\uc5d0\uc11c Anthropic\uc774 \uae30\ub2a5\uc73c\ub85c \uac04\uc8fc\ud558\ub294 \uba85\ub839 \uc2e4\ud589 \uacb0\ud568\uc774 \ubc1c\uacac\ub428\n  > Summary: Anthropic\uc774 \uac1c\ubc1c\ud55c \ubaa8\ub378 \ucee8\ud14d\uc2a4\ud2b8 \ud504\ub85c\ud1a0\ucf5c(MCP)\uc758 \uc544\ud0a4\ud14d\ucc98 \ubb38\uc81c\ub85c \uc778\ud574 \uc57d 20..."
     }
   ]
 }
