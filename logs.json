@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 12:34:01",
+  "last_updated": "2026-05-04 12:34:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 12:33:22",
-      "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
-    },
     {
       "timestamp": "2026-05-04 12:33:27",
       "message": "[SUCCESS] Processed: 200,000 MCP \uc11c\ubc84\uc5d0\uc11c Anthropic\uc774 \uae30\ub2a5\uc774\ub77c\uace0 \ubd80\ub974\ub294 \uba85\ub839 \uc2e4\ud589 \uacb0\ud568\uc774 \ub4dc\ub7ec\ub098\ub2e4\n  > Summary: Anthropic\uc774 \ub9cc\ub4e0 Model Context Protocol(MCP)\uc758 STDIO \uc804..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 12:34:01",
       "message": "Reprocessing: Pentagon inks AI procurement deals with seven companies, leaves out Anthropic"
+    },
+    {
+      "timestamp": "2026-05-04 12:34:02",
+      "message": "[SKIP] Content too short: Pentagon inks AI procurement d..."
     }
   ]
 }
