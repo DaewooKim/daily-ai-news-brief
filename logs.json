@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 13:40:33",
+  "last_updated": "2026-05-04 13:40:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 13:40:00",
-      "message": "[SUCCESS] Processed: XELA \ub85c\ubcf4\ud2f1\uc2a4, \uace0\uc18d \ucd09\uac01 \uc13c\uc11c \ub3c4\uc785\n  > Summary: XELA \ub85c\ubcf4\ud2f1\uc2a4\ub294 \ubbf8\uad6d \uc2dc\uc7a5\uc5d0\uc11c\uc758 \uc785\uc9c0\ub97c \uac15\ud654\ud558\uae30 \uc704\ud574 uSkin \uc13c\uc11c \uac00\uc871\uc5d0 \ub300\ud55c \uc0c8\ub85c..."
-    },
     {
       "timestamp": "2026-05-04 13:40:01",
       "message": "[PROCESSING] Analyzing: Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 13:40:33",
       "message": "Reprocessing: AI constraints must come before deployment, not after"
+    },
+    {
+      "timestamp": "2026-05-04 13:40:35",
+      "message": "[SKIP] Content too short: AI constraints must come befor..."
     }
   ]
 }
