@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 02:42:29",
+  "last_updated": "2026-05-04 02:42:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 02:41:45",
-      "message": "[PROCESSING] Analyzing: An evaluation by NIST's CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date (NIST)..."
-    },
     {
       "timestamp": "2026-05-04 02:41:49",
       "message": "[SUCCESS] Processed: NIST\uc758 CAISI \ud3c9\uac00\uc5d0 \ub530\ub974\uba74 DeepSeek V4 Pro\ub294 \ubbf8\uad6d\uc758 \uc8fc\uc694 AI \ubaa8\ub378\uc5d0 \ube44\ud574 \uc57d 8\uac1c\uc6d4 \ub4a4\uccd0\uc838 \uc788\uc73c\uba70 \ud604\uc7ac\uae4c\uc9c0 \uac00\uc7a5 \uc720\ub2a5\ud55c \uc911\uad6d AI \ubaa8\ub378\uc774\ub2e4.\n  > Summary: NIST\uc758 AI \ud45c\uc900 \ubc0f \ud601\uc2e0 \uc13c\ud130(CAISI)\ub294 DeepSeek V4 Pro\ub97c \ud3c9\uac00\ud558\uc5ec ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 02:42:29",
       "message": "[SUCCESS] Processed: KROHNE, AI \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130\uc758 \ud3ed\ubc1c\uc801 \uc131\uc7a5\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uc0dd\uc0b0 \ub2a5\ub825\uc744 \uc804\ub150\ud558\uace0 \ubbf8\uad6d \uc804\ubb38 \uc13c\ud130\ub97c \uc124\ub9bd\ud558\ub2e4\n  > Summary: KROHNE\ub294 AI \ubc0f \ud074\ub77c\uc6b0\ub4dc \uc131\uc7a5\uc5d0 \ud544\uc694\ud55c \uc778\ud504\ub77c\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc13c\ud130 \ubd80\ubb38\uc5d0 ..."
+    },
+    {
+      "timestamp": "2026-05-04 02:42:30",
+      "message": "Reprocessing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature"
     }
   ]
 }
