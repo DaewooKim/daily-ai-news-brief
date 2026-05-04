@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 15:55:50",
+  "last_updated": "2026-05-04 15:55:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-04 15:54:28",
-      "message": "[PROCESSING] Analyzing: Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products (Deborah Sophia/Reuters)..."
-    },
     {
       "timestamp": "2026-05-04 15:54:31",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products (Deborah Sophia/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-04 15:55:50",
       "message": "[SUCCESS] Processed: KROHNE, AI \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130\uc758 \ud3ed\ubc1c\uc801 \uc131\uc7a5\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uc0dd\uc0b0 \uc6a9\ub7c9\uc744 \ud560\ub2f9\ud558\uace0 \ubbf8\uad6d \uc6b0\uc218 \uc13c\ud130\ub97c \uc124\ub9bd\ud558\ub2e4\n  > Summary: KROHNE\ub294 AI\uc640 \ud074\ub77c\uc6b0\ub4dc \uc131\uc7a5\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uc5f0\uac04 \uc0dd\uc0b0 \uc6a9\ub7c9\uc758 \uc0c1\ub2f9 \ubd80\ubd84\uc744 \ub370\uc774\ud130 ..."
+    },
+    {
+      "timestamp": "2026-05-04 15:55:55",
+      "message": "Reprocessing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature"
     }
   ]
 }
