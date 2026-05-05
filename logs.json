@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 22:08:31",
+  "last_updated": "2026-05-05 22:08:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 22:07:33",
-      "message": "[PROCESSING] Analyzing: A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)..."
-    },
     {
       "timestamp": "2026-05-05 22:07:38",
       "message": "[SUCCESS] Processed: \uace0\uae09 MRDIMM \uc8fc \uba54\ubaa8\ub9ac\ub97c \uac16\ucd98 \uc0dd\uc0b0 \uc11c\ubc84\uc758 \uc0c1\uc138 \ud3c9\uac00 (BSC, Micron, Intel, UPC)\n  > Summary: \uc774 \ub17c\ubb38\uc740 \uba54\ubaa8\ub9ac \uae30\uc220\uc778 \ub2e4\uc911 \ub808\uc778 DIMM(MRDIMM)\uc758 \uc131\ub2a5 \ubc0f \uc5d0\ub108\uc9c0 \uc774\uc810\uc744 \ud3c9\uac00\ud55c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 22:08:31",
       "message": "[PROCESSING] Analyzing: TechniQuip Introduces FlightDeck Operating System..."
+    },
+    {
+      "timestamp": "2026-05-05 22:08:33",
+      "message": "[SKIP] Irrelevant (AI Filter): TechniQuip Introduces FlightDeck Operating System"
     }
   ]
 }
