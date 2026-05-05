@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 12:55:21",
+  "last_updated": "2026-05-05 12:55:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 12:54:43",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-05 12:54:43",
       "message": "[PROCESSING] Analyzing: Bose takes a swing at Sonos with its new home speakers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 12:55:21",
       "message": "Reprocessing: AWS Will Be An OEM, Just Like Google And Maybe Microsoft"
+    },
+    {
+      "timestamp": "2026-05-05 12:55:23",
+      "message": "[SKIP] Content too short: AWS Will Be An OEM, Just Like ..."
     }
   ]
 }
