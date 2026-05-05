@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 18:40:27",
+  "last_updated": "2026-05-05 18:40:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 18:39:15",
-      "message": "[SUCCESS] Processed: \uc804\ub825\uc73c\ub85c\uc758 \uc18d\ub3c4: \uac1c\ubc1c\uc790\ub4e4\uc774 AI \uc218\uc694\uc5d0 \ub9de\ucdb0 \uad6c\uc870\ub97c \uc7ac\ud3b8\ud558\ub294 \ubc29\ubc95\n  > Summary: \uac1c\ubc1c\uc790\ub4e4\uc740 AI \uc218\uc694\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uad6c\ucd95 \ubc29\uc2dd\uacfc \uc804\ub7b5\uc744 \uc7ac\ud3b8\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-05-05 18:39:16",
       "message": "[PROCESSING] Analyzing: Sources: Apple plans to let users choose from multiple third-party AI models to perform tasks like generating and editing text and images in iOS 27 (Mark Gurman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 18:40:27",
       "message": "[PROCESSING] Analyzing: The FTC will ban data broker Kochava and its subsidiary CDS from selling Americans' location data as part of a settlement over charges brought in 2022 (Sergiu Gatlan/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-05-05 18:40:29",
+      "message": "[SKIP] Irrelevant (AI Filter): The FTC will ban data broker Kochava and its subsidiary CDS from selling Americans' location data as part of a settlement over charges brought in 2022 (Sergiu Gatlan/BleepingComputer)"
     }
   ]
 }
