@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 22:06:51",
+  "last_updated": "2026-05-05 22:06:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 22:06:09",
-      "message": "[SUCCESS] Processed: AI \uac00\uc18d\uae30 \uc0ac\uc591, \ube60\ub978 \uc5c5\ub370\uc774\ud2b8 \uc18d\ub3c4 \uc720\uc9c0\n  > Summary: AI \uac00\uc18d\uae30\ub97c \uaddc\uc815\ud558\ub294 \ud45c\uc900\uc740 \uccab \ubc88\uc9f8 \ubc18\ubcf5 \uacf5\uac1c \ud6c4 1\ub144\ub3c4 \ucc44 \uc9c0\ub098\uc9c0 \uc54a\uc544 \uc5c5\ub370\uc774\ud2b8\ub97c \ubc1c..."
-    },
     {
       "timestamp": "2026-05-05 22:06:10",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 22:06:51",
       "message": "[PROCESSING] Analyzing: GlobalFoundries reports Q1 revenue up 3% YoY to $1.63B, in line with est., and forecasts Q2 revenue and adjusted earnings above estimates; GFS closes up 9.28% (Patrick Seitz/Investor's Business Daily)..."
+    },
+    {
+      "timestamp": "2026-05-05 22:06:54",
+      "message": "[SKIP] Irrelevant (AI Filter): GlobalFoundries reports Q1 revenue up 3% YoY to $1.63B, in line with est., and forecasts Q2 revenue and adjusted earnings above estimates; GFS closes up 9.28% (Patrick Seitz/Investor's Business Daily)"
     }
   ]
 }
