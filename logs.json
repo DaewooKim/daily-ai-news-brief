@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 12:59:22",
+  "last_updated": "2026-05-05 12:59:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 12:58:39",
-      "message": "Reprocessing: Research Bits: May 5"
-    },
     {
       "timestamp": "2026-05-05 12:58:41",
       "message": "[PROCESSING] Analyzing: Research Bits: May 5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 12:59:22",
       "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
+    },
+    {
+      "timestamp": "2026-05-05 12:59:27",
+      "message": "[SUCCESS] Processed: 200,000 MCP \uc11c\ubc84\uc5d0\uc11c Anthropic\uc774 \uae30\ub2a5\uc774\ub77c\uace0 \ubd80\ub974\ub294 \uba85\ub839 \uc2e4\ud589 \uacb0\ud568 \ub178\ucd9c\n  > Summary: Anthropic\uc774 \uc81c\uacf5\ud55c Model Context Protocol(MCP)\uc758 STDIO ..."
     }
   ]
 }
