@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 14:06:21",
+  "last_updated": "2026-05-05 14:06:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 14:05:22",
-      "message": "[SUCCESS] Processed: \uc911\uad6d, 2026\ub144\uae4c\uc9c0 \uc790\uad6d \uce69 \uc81c\uc870\uc5c5\uccb4\ub4e4\uc774 \uc0ac\uc6a9\ud558\ub294 \uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c\uc758 70% \uc774\uc0c1\uc744 \uad6d\ub0b4\uc5d0\uc11c \uc0dd\uc0b0\ud560 \ubaa9\ud45c \uc124\uc815\n  > Summary: \uc911\uad6d\uc740 2026\ub144\uae4c\uc9c0 \uc790\uad6d\uc758 \uce69 \uc81c\uc870\uc5c5\uccb4\ub4e4\uc774 \uc0ac\uc6a9\ud558\ub294 \uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c\uc758 70% \uc774\uc0c1\uc744 \uad6d\ub0b4\uc5d0..."
-    },
     {
       "timestamp": "2026-05-05 14:05:24",
       "message": "Reprocessing: RadixArk, led by former xAI employee Ying Sheng, raised a $100M seed at a $400M valuation to make AI inference more efficient via its open-source SGLang engine (Meghan Bobrowsky/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 14:06:21",
       "message": "[PROCESSING] Analyzing: SNU Researchers Develop Battery-Free Skin-Conformal Wearable System..."
+    },
+    {
+      "timestamp": "2026-05-05 14:06:24",
+      "message": "[SKIP] Irrelevant (AI Filter): SNU Researchers Develop Battery-Free Skin-Conformal Wearable System"
     }
   ]
 }
