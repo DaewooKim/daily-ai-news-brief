@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 01:57:42",
+  "last_updated": "2026-05-05 01:57:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 01:57:11",
-      "message": "Reprocessing: AI constraints must come before deployment, not after"
-    },
     {
       "timestamp": "2026-05-05 01:57:13",
       "message": "[SKIP] Content too short: AI constraints must come befor..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 01:57:42",
       "message": "[PROCESSING] Analyzing: ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look..."
+    },
+    {
+      "timestamp": "2026-05-05 01:57:45",
+      "message": "[SKIP] Irrelevant (AI Filter): ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look"
     }
   ]
 }
