@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 22:04:36",
+  "last_updated": "2026-05-05 22:04:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 22:03:56",
-      "message": "[PROCESSING] Analyzing: Threads is finally getting DMs on the web..."
-    },
     {
       "timestamp": "2026-05-05 22:03:59",
       "message": "[SKIP] Irrelevant (AI Filter): Threads is finally getting DMs on the web"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 22:04:36",
       "message": "Reprocessing: GPT-5.5 Instant System Card"
+    },
+    {
+      "timestamp": "2026-05-05 22:04:37",
+      "message": "[SKIP] Content too short: GPT-5.5 Instant System Card..."
     }
   ]
 }
