@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-05 22:11:14",
-  "status": "idle",
+  "last_updated": "2026-05-05 23:11:45",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-05 22:09:48",
-      "message": "Reprocessing: Coinbase cuts staff by 14%, citing\u00a0crypto\u00a0market downturn and AI adoption"
+      "timestamp": "2026-05-05 23:11:33",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-05 22:09:49",
-      "message": "[SKIP] Content too short: Coinbase cuts staff by 14%, ci..."
+      "timestamp": "2026-05-05 23:11:33",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-05 22:09:51",
-      "message": "Reprocessing: Subquadratic launches with $29M to bring 12M-token context windows to AI"
+      "timestamp": "2026-05-05 23:11:33",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-05 22:09:52",
-      "message": "[SKIP] Content too short: Subquadratic launches with $29..."
+      "timestamp": "2026-05-05 23:11:45",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-05 22:09:54",
-      "message": "Reprocessing: Ai2 releases\u00a0MolmoAct\u00a02, enhancing robot intelligence in the real world"
-    },
-    {
-      "timestamp": "2026-05-05 22:09:55",
-      "message": "[SKIP] Content too short: Ai2 releases\u00a0MolmoAct\u00a02, enhan..."
-    },
-    {
-      "timestamp": "2026-05-05 22:09:57",
-      "message": "Reprocessing: QuantWare raises $178M to become the TSMC of quantum computing"
-    },
-    {
-      "timestamp": "2026-05-05 22:09:58",
-      "message": "[SKIP] Content too short: QuantWare raises $178M to beco..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:00",
-      "message": "Reprocessing: WSO2 launches Agent Manager to help enterprises tame AI agent sprawl"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:02",
-      "message": "[SKIP] Content too short: WSO2 launches Agent Manager to..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:03",
-      "message": "Reprocessing: Dyna Software launches Platform Copilot, an agentic AI tool for configuring ServiceNow"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:05",
-      "message": "[SKIP] Content too short: Dyna Software launches Platfor..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:06",
-      "message": "Reprocessing: IBM charts AI operating model to move enterprises beyond experimentation"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:08",
-      "message": "[SKIP] Content too short: IBM charts AI operating model ..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:10",
-      "message": "Reprocessing: OpenAI President Greg Brockman grilled about his $30B personal stake and \u2018duty to humanity\u2019"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:12",
-      "message": "[SKIP] Content too short: OpenAI President Greg Brockman..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:13",
-      "message": "Reprocessing: Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:15",
-      "message": "[SKIP] Content too short: Deepinfra lands $107M in fundi..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:17",
-      "message": "Reprocessing: Cisco buys Astrix Security to strengthen AI agent discovery and governance"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:18",
-      "message": "[SKIP] Content too short: Cisco buys Astrix Security to ..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:19",
-      "message": "Reprocessing: Anthropic and OpenAI establish joint ventures on Wall Street to accelerate enterprise AI adoption"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:21",
-      "message": "[SKIP] Content too short: Anthropic and OpenAI establish..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:23",
-      "message": "Reprocessing: AI agent startup Sierra valued at $15B in new $950M funding round"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:24",
-      "message": "[SKIP] Content too short: AI agent startup Sierra valued..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:26",
-      "message": "Reprocessing: Palantir beats earnings expectations, raises full-year guidance as US revenue doubles"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:27",
-      "message": "[SKIP] Content too short: Palantir beats earnings expect..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:29",
-      "message": "Reprocessing: SAP acquires Dremio, Prior Labs to enhance its tabular AI capabilities"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:30",
-      "message": "[SKIP] Content too short: SAP acquires Dremio, Prior Lab..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:32",
-      "message": "Reprocessing: Three insights you might have missed from theCUBE\u2019s coverage of Google Cloud Next"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:33",
-      "message": "[SKIP] Content too short: Three insights you might have ..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:35",
-      "message": "Reprocessing: \u2018An engine without a car\u2019: Why AI without workflow structure fails to deliver measurable value"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:37",
-      "message": "[SKIP] Content too short: \u2018An engine without a car\u2019: Why..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:38",
-      "message": "Reprocessing: AI chip provider Cerebras seeks to raise $3.5B in IPO at $26.6B valuation"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:40",
-      "message": "[SKIP] Content too short: AI chip provider Cerebras seek..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:41",
-      "message": "Reprocessing: What to expect at the DigiCert Trust Summit: Join theCUBE May 13"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:43",
-      "message": "[SKIP] Content too short: What to expect at the DigiCert..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:44",
-      "message": "Reprocessing: Agentic development demands a multi-model strategy \u2014 and the governance to match"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:46",
-      "message": "[SKIP] Content too short: Agentic development demands a ..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:48",
-      "message": "Reprocessing: Google and PwC are closing the enterprise AI trust gap one agent at a time"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:49",
-      "message": "[SKIP] Content too short: Google and PwC are closing the..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:51",
-      "message": "Reprocessing: HP ZGX Nano G1n Review The HP Take on the NVIDIA GB10"
-    },
-    {
-      "timestamp": "2026-05-05 22:10:52",
-      "message": "[PROCESSING] Analyzing: HP ZGX Nano G1n Review The HP Take on the NVIDIA GB10..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:56",
-      "message": "[SUCCESS] Processed: HP ZGX Nano G1n \ub9ac\ubdf0: NVIDIA GB10\uc5d0 \ub300\ud55c HP\uc758 \ud574\uc11d\n  > Summary: \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 NVIDIA GB10 \uc0dd\ud0dc\uacc4\uc5d0 \ub300\ud55c \ucd5c\uadfc \uc0c1\ud0dc\ub97c \uc0b4\ud3b4\ubcf4\uba70, \uc18c\ud615 \uc2dc\uc2a4\ud15c\uc758 \uc778..."
-    },
-    {
-      "timestamp": "2026-05-05 22:10:58",
-      "message": "[PROCESSING] Analyzing: ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look..."
-    },
-    {
-      "timestamp": "2026-05-05 22:11:00",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look"
-    },
-    {
-      "timestamp": "2026-05-05 22:11:02",
-      "message": "[PROCESSING] Analyzing: G.Skill Trident Z5 RGB Neo DDR5-6000 32GB 2x 16GB Kit Quick Look..."
-    },
-    {
-      "timestamp": "2026-05-05 22:11:04",
-      "message": "[SKIP] Irrelevant (AI Filter): G.Skill Trident Z5 RGB Neo DDR5-6000 32GB 2x 16GB Kit Quick Look"
-    },
-    {
-      "timestamp": "2026-05-05 22:11:05",
-      "message": "Completed! New: 11, Updated: 52"
-    },
-    {
-      "timestamp": "2026-05-05 22:11:09",
-      "message": "Saved 63 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-05 22:11:12",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-05 23:11:45",
+      "message": "[PROCESSING] Analyzing: Microsoft gives up on Xbox Copilot AI..."
     }
   ]
 }
