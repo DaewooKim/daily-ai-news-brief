@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 01:55:33",
+  "last_updated": "2026-05-05 01:55:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 01:54:57",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc0d8 \uc62c\ud2b8\uba3c, OpenAI\uc758 \ub85c\ubd07 \ubc0f \uc18c\ube44\uc790 \ud558\ub4dc\uc6e8\uc5b4 \ubd80\uc11c\ub97c 2025\ub144 \ub9d0 \ubd84\uc0ac\ud558\ub294 \ubc29\uc548 \ub17c\uc758\ud588\uc73c\ub098 \uac70\ubd80\ub428\n  > Summary: \uc0d8 \uc62c\ud2b8\uba3c\uc740 OpenAI\uc758 \ub85c\ubd07 \ubc0f \uc18c\ube44\uc790 \ud558\ub4dc\uc6e8\uc5b4 \ubd80\uc11c\ub97c 2025\ub144 \ub9d0\uc5d0 \ubd84\uc0ac\ud558\uc5ec \ub354 \uc131..."
-    },
     {
       "timestamp": "2026-05-05 01:54:59",
       "message": "[PROCESSING] Analyzing: As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill (Owen Tucker-Smith/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 01:55:33",
       "message": "[PROCESSING] Analyzing: ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces..."
+    },
+    {
+      "timestamp": "2026-05-05 01:55:35",
+      "message": "[SKIP] Irrelevant (AI Filter): ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces"
     }
   ]
 }
