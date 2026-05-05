@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 17:30:12",
+  "last_updated": "2026-05-05 17:30:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 17:29:33",
-      "message": "Reprocessing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature"
-    },
     {
       "timestamp": "2026-05-05 17:29:35",
       "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 17:30:12",
       "message": "Reprocessing: OpenAI President Greg Brockman grilled about his $30B personal stake and \u2018duty to humanity\u2019"
+    },
+    {
+      "timestamp": "2026-05-05 17:30:14",
+      "message": "[SKIP] Content too short: OpenAI President Greg Brockman..."
     }
   ]
 }
