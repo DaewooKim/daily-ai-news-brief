@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 17:30:14",
+  "last_updated": "2026-05-05 17:30:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 17:29:35",
-      "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
-    },
     {
       "timestamp": "2026-05-05 17:29:42",
       "message": "[SUCCESS] Processed: 20\ub9cc MCP \uc11c\ubc84\uc5d0\uc11c Anthropic\uc774 \uae30\ub2a5\uc774\ub77c\uace0 \ubd80\ub974\ub294 \uba85\ub839 \uc2e4\ud589 \uacb0\ud568\uc774 \ub178\ucd9c\ub428\n  > Summary: Anthropic\uc774 \uac1c\ubc1c\ud55c \ubaa8\ub378 \ucee8\ud14d\uc2a4\ud2b8 \ud504\ub85c\ud1a0\ucf5c(MCP)\uc758 \uae30\ubcf8 STDIO \uc804\uc1a1\uc774 \ubaa8\ub4e0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 17:30:14",
       "message": "[SKIP] Content too short: OpenAI President Greg Brockman..."
+    },
+    {
+      "timestamp": "2026-05-05 17:30:16",
+      "message": "Reprocessing: Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models"
     }
   ]
 }
