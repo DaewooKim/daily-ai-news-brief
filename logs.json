@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 06:21:40",
+  "last_updated": "2026-05-05 06:21:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 06:21:06",
-      "message": "Reprocessing: AI constraints must come before deployment, not after"
-    },
     {
       "timestamp": "2026-05-05 06:21:07",
       "message": "[SKIP] Content too short: AI constraints must come befor..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 06:21:40",
       "message": "Completed! New: 0, Updated: 47"
+    },
+    {
+      "timestamp": "2026-05-05 06:21:45",
+      "message": "Saved 47 changes to news_data.json"
     }
   ]
 }
