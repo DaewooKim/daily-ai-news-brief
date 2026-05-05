@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 21:00:42",
+  "last_updated": "2026-05-05 21:00:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 20:59:49",
-      "message": "[PROCESSING] Analyzing: Replacing GPU Compute Dies With PNM-Enabled HBM Cubes For Long-Context Decode Attention (UCSD, Columbia, Yonsei U., NVIDIA, Samsung)..."
-    },
     {
       "timestamp": "2026-05-05 20:59:54",
       "message": "[SUCCESS] Processed: \uae34 \ucee8\ud14d\uc2a4\ud2b8 \ub514\ucf54\ub4dc \uc8fc\uc758\uc5d0 \ub300\ud55c PNM \uc9c0\uc6d0 HBM \ud050\ube0c\ub85c GPU \ucef4\ud4e8\ud305 \ub2e4\uc774 \uad50\uccb4\n  > Summary: UC \uc0cc\ub514\uc5d0\uc774\uace0, \ucf5c\ub86c\ube44\uc544 \ub300\ud559\uad50, \uc5f0\uc138\ub300\ud559\uad50, NVIDIA, \uc0bc\uc131\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \uc0c8\ub85c\uc6b4 \uae30..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 21:00:42",
       "message": "Reprocessing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature"
+    },
+    {
+      "timestamp": "2026-05-05 21:00:44",
+      "message": "[PROCESSING] Analyzing: 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature..."
     }
   ]
 }
