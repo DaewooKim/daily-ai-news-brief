@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 04:07:14",
+  "last_updated": "2026-05-05 04:07:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 04:06:38",
-      "message": "[SUCCESS] Processed: AI \uc804\ub825 \ubc00\ub3c4\uc5d0 \ub9de\ucd94\uae30 \uc704\ud55c \ucfe8\ub9c1\uc758 \uace0\uad70\ubd84\ud22c\n  > Summary: AI \uc791\uc5c5\ub7c9\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \ucfe8\ub9c1\uc740 \ub514\uc790\uc778 \uace0\ub824\uc0ac\ud56d\uc5d0\uc11c \ubc30\ud3ec \ub3c4\uc804\uc73c\ub85c \uc9c4\ud654\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-05-05 04:06:39",
       "message": "[PROCESSING] Analyzing: Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 04:07:14",
       "message": "[PROCESSING] Analyzing: ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces..."
+    },
+    {
+      "timestamp": "2026-05-05 04:07:17",
+      "message": "[SKIP] Irrelevant (AI Filter): ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces"
     }
   ]
 }
