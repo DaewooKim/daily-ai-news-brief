@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 10:44:22",
+  "last_updated": "2026-05-05 10:44:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 10:43:28",
-      "message": "[PROCESSING] Analyzing: Source: YC owns ~0.6% of OpenAI, which was seeded by a YC offshoot called YC Research in 2016; at OpenAI's current $852B valuation, the stake is worth $5B+ (John Gruber/Daring Fireball)..."
-    },
     {
       "timestamp": "2026-05-05 10:43:34",
       "message": "[SUCCESS] Processed: YC\uac00 OpenAI\uc758 \uc57d 0.6%\ub97c \uc18c\uc720\ud558\uace0 \uc788\uc73c\uba70, \uc774\ub294 2016\ub144 YC \ub9ac\uc11c\uce58\ub77c\ub294 YC\uc758 \uc790\ud68c\uc0ac\uc5d0 \uc758\ud574 \uc2dc\uc791\ub418\uc5c8\ub2e4; OpenAI\uc758 \ud604\uc7ac 8520\uc5b5 \ub2ec\ub7ec \uac00\uce58\uc5d0\uc11c \uc774 \uc9c0\ubd84\uc740 50\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc5d0 \ub2ec\ud55c\ub2e4 (John Gruber/Daring Fireball)\n  > Summary: YC\uac00 OpenAI\uc758 \uc57d 0.6%\ub97c \uc18c\uc720\ud558\uace0 \uc788\uc73c\uba70, \uc774\ub294 2016\ub144\uc5d0 YC \ub9ac\uc11c\uce58\ub85c\ubd80\ud130 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 10:44:22",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-05 10:44:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
