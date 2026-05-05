@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 06:17:56",
+  "last_updated": "2026-05-05 06:17:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 06:17:10",
-      "message": "Reprocessing: OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO"
-    },
     {
       "timestamp": "2026-05-05 06:17:12",
       "message": "[PROCESSING] Analyzing: OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 06:17:56",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
+    },
+    {
+      "timestamp": "2026-05-05 06:17:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Industrial Control Systems Manufacturer Eliminates Stockouts"
     }
   ]
 }
