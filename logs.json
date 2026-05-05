@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 17:26:49",
+  "last_updated": "2026-05-05 17:26:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 17:26:05",
-      "message": "[PROCESSING] Analyzing: The new AirPods Max 2 are already on sale for $40 off..."
-    },
     {
       "timestamp": "2026-05-05 17:26:07",
       "message": "[SKIP] Irrelevant (AI Filter): The new AirPods Max 2 are already on sale for $40 off"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 17:26:49",
       "message": "[PROCESSING] Analyzing: OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT..."
+    },
+    {
+      "timestamp": "2026-05-05 17:26:53",
+      "message": "[SUCCESS] Processed: OpenAI\uac00 GPT-5.5 Instant\ub97c \ucd9c\uc2dc, ChatGPT\uc758 \uc0c8\ub85c\uc6b4 \uae30\ubcf8 \ubaa8\ub378\n  > Summary: OpenAI\ub294 GPT-3.5 Instant\ub97c \ub300\uccb4\ud558\uc5ec ChatGPT\uc758 \uc0c8\ub85c\uc6b4 \uae30\ubcf8 \ubaa8\ub378\uc778 ..."
     }
   ]
 }
