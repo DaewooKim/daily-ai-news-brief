@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 12:58:36",
+  "last_updated": "2026-05-05 12:58:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 12:57:37",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc0c1\ubb34\ubd80 CAISI, \uad6c\uae00, \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, xAI\uac00 \uacf5\uac1c \uc774\uc804 \ubaa8\ub378 \ud3c9\uac00\ub97c \uc704\ud574 OpenAI\uc640 Anthropic\uc5d0 \uc870\uae30 \uc811\uadfc\uc744 \ud5c8\uc6a9\ud55c\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: \ubbf8\uad6d \uc0c1\ubb34\ubd80\uc758 CAISI\uac00 \uad6c\uae00, \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, xAI\uac00 OpenAI \ubc0f Anthropi..."
-    },
     {
       "timestamp": "2026-05-05 12:57:39",
       "message": "[PROCESSING] Analyzing: Coinbase CEO Brian Armstrong announces the company is cutting ~700 jobs, or ~14% of its global workforce, to reduce costs, saying \"AI is changing how we work\" (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 12:58:36",
       "message": "[PROCESSING] Analyzing: In Q1, the iPhone 17 was the world's best-selling smartphone, with 6% of global sales; the iPhone 17 Pro Max and 17 Pro were 2nd and 3rd, and Galaxy A07 was 4th (Counterpoint Research)..."
+    },
+    {
+      "timestamp": "2026-05-05 12:58:38",
+      "message": "[SKIP] Irrelevant (AI Filter): In Q1, the iPhone 17 was the world's best-selling smartphone, with 6% of global sales; the iPhone 17 Pro Max and 17 Pro were 2nd and 3rd, and Galaxy A07 was 4th (Counterpoint Research)"
     }
   ]
 }
