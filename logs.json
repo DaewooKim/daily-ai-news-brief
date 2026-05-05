@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 16:20:13",
+  "last_updated": "2026-05-05 16:20:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 16:19:25",
-      "message": "[SUCCESS] Processed: \uc77c\ub808\ube10\ub7a9\uc2a4, \ube14\ub799\ub85d, \uc81c\uc774\ubbf8 \ud3ed\uc2a4, \uc5d0\ubc14 \ub871\uace0\ub9ac\uc544\ub97c \uc0c8\ub85c\uc6b4 \ud22c\uc790\uc790\ub85c \ubc1c\ud45c\n  > Summary: \uc77c\ub808\ube10\ub7a9\uc2a4\uac00 \ube14\ub799\ub85d, \uc81c\uc774\ubbf8 \ud3ed\uc2a4, \uc5d0\ubc14 \ub871\uace0\ub9ac\uc544\ub97c \uc0c8\ub85c\uc6b4 \ud22c\uc790\uc790\ub85c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac..."
-    },
     {
       "timestamp": "2026-05-05 16:19:27",
       "message": "[PROCESSING] Analyzing: 4 days left: Get 50% off a second TechCrunch Disrupt\u00a02026\u00a0pass to make more deals faster..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 16:20:13",
       "message": "[PROCESSING] Analyzing: Looming Quantum Threat as PQC Market Expands..."
+    },
+    {
+      "timestamp": "2026-05-05 16:20:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Looming Quantum Threat as PQC Market Expands"
     }
   ]
 }
