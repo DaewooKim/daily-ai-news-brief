@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 18:37:35",
+  "last_updated": "2026-05-05 18:37:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 18:36:31",
-      "message": "[SUCCESS] Processed: DoorDash, \uc0c1\uc778 \uc628\ubcf4\ub529 \uac00\uc18d\ud654 \ubc0f \uc694\ub9ac \uc0ac\uc9c4 \ud3b8\uc9d1\uc744 \uc704\ud55c AI \ub3c4\uad6c \ucd94\uac00\n  > Summary: DoorDash\ub294 \uc6d4\uc694\uc77c\uc5d0 \uc0c1\uc778 \uc628\ubcf4\ub529\uc744 \uac00\uc18d\ud654\ud558\uace0 \uc694\ub9ac \uc0ac\uc9c4\uc744 \ud3b8\uc9d1\ud558\uc5ec \ub354 \ub098\uc544 \ubcf4\uc774\uac8c ..."
-    },
     {
       "timestamp": "2026-05-05 18:36:33",
       "message": "[PROCESSING] Analyzing: \u2018This is fine\u2019 creator says AI startup stole his art..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 18:37:35",
       "message": "[PROCESSING] Analyzing: Fraunhofer IPMS Eyes India For Contract Research and Semiconductor Partnerships..."
+    },
+    {
+      "timestamp": "2026-05-05 18:37:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Fraunhofer IPMS Eyes India For Contract Research and Semiconductor Partnerships"
     }
   ]
 }
