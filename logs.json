@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-05 16:18:32",
+  "last_updated": "2026-05-05 16:18:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-05 16:17:49",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-05 16:17:49",
       "message": "[PROCESSING] Analyzing: From Alan Shepard to Artemis, celebrating 65 years of Americans in space..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-05 16:18:32",
       "message": "Reprocessing: Google Is A Full Stack AI Player, And Is Playing Well"
+    },
+    {
+      "timestamp": "2026-05-05 16:18:34",
+      "message": "[SKIP] Content too short: Google Is A Full Stack AI Play..."
     }
   ]
 }
