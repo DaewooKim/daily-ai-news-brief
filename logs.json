@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 09:15:12",
+  "last_updated": "2026-05-06 09:15:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 09:14:23",
-      "message": "Reprocessing: GPU Power Prediction Tool for AI Workloads (MIT, IBM)"
-    },
     {
       "timestamp": "2026-05-06 09:14:25",
       "message": "[PROCESSING] Analyzing: GPU Power Prediction Tool for AI Workloads (MIT, IBM)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 09:15:12",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-06 09:15:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
