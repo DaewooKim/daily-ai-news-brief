@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 10:20:35",
+  "last_updated": "2026-05-06 10:20:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 10:19:52",
-      "message": "[SUCCESS] Processed: AI \uac00\uc18d\uae30 \uc0ac\uc591, \ube60\ub978 \uc5c5\ub370\uc774\ud2b8 \uc18d\ub3c4 \uc720\uc9c0\n  > Summary: AI \uac00\uc18d\uae30 \uc0ac\uc591\uc774 \uccab \ubc88\uc9f8 \ubc84\uc804 \ucd9c\uc2dc \ud6c4 1\ub144\ub3c4 \ucc44 \ub418\uc9c0 \uc54a\uc544 \uc5c5\ub370\uc774\ud2b8\ub418\ub294 \uac83\uc740 \uc774\ud574\ud560 ..."
-    },
     {
       "timestamp": "2026-05-06 10:19:54",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 10:20:35",
       "message": "[PROCESSING] Analyzing: Sources: Denver-based, Blue Owl Capital-owned Stack Infrastructure is considering selling all or some of its Asia data center operations in an up to $30B deal (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-06 10:20:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Denver-based, Blue Owl Capital-owned Stack Infrastructure is considering selling all or some of its Asia data center operations in an up to $30B deal (Bloomberg)"
     }
   ]
 }
