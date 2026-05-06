@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 18:15:58",
+  "last_updated": "2026-05-06 18:16:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 18:15:09",
-      "message": "[SUCCESS] Processed: AI \uc791\uc5c5 \ubd80\ud558\ub97c \uc704\ud55c GPU \uc804\ub825 \uc608\uce21 \ub3c4\uad6c (MIT, IBM)\n  > Summary: MIT\uc640 IBM \uc5f0\uad6c\uc6d0\ub4e4\uc774 \ubc1c\ud45c\ud55c 'EnergAIzer: AI \uc791\uc5c5 \ubd80\ud558\ub97c \uc704\ud55c \ube60\ub974\uace0 \uc815..."
-    },
     {
       "timestamp": "2026-05-06 18:15:10",
       "message": "[PROCESSING] Analyzing: SNU Researchers Develop Battery-Free Skin-Conformal Wearable System..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 18:15:58",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-06 18:16:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
