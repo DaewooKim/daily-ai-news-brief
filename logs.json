@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 20:29:50",
+  "last_updated": "2026-05-06 20:29:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 20:29:10",
-      "message": "[SUCCESS] Processed: AI\ub97c \ud65c\uc6a9\ud558\uc5ec \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \uc704\ud55c \ubcf4\ud5d8\uc744 \uc81c\uacf5\ud558\ub294 Corgi, TCV\uac00 \uc8fc\ub3c4\ud55c 1\uc5b56000\ub9cc \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc2dc\ub9ac\uc988 B \ud22c\uc790 \uc720\uce58\n  > Summary: Corgi\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \uc704\ud574 \ubcf4\ud5d8\uc744 \uc81c\uacf5\ud558\uba70 AI\ub97c \ud65c\uc6a9\ud574 \uacac\uc801\uc744 \uc0dd\uc131\ud558\uace0, \ud074\ub808\uc784\uc744 \uad00\ub9ac..."
-    },
     {
       "timestamp": "2026-05-06 20:29:11",
       "message": "[PROCESSING] Analyzing: Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 11%+ (Neil J Kanatt/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 20:29:50",
       "message": "[PROCESSING] Analyzing: SNU Researchers Develop Battery-Free Skin-Conformal Wearable System..."
+    },
+    {
+      "timestamp": "2026-05-06 20:29:52",
+      "message": "[SKIP] Irrelevant (AI Filter): SNU Researchers Develop Battery-Free Skin-Conformal Wearable System"
     }
   ]
 }
