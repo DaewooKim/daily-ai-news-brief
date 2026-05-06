@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 20:26:53",
+  "last_updated": "2026-05-06 20:26:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 20:26:14",
-      "message": "[PROCESSING] Analyzing: Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire..."
-    },
     {
       "timestamp": "2026-05-06 20:26:17",
       "message": "[SKIP] Irrelevant (AI Filter): Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 20:26:53",
       "message": "Reprocessing: GPT-5.5 Instant System Card"
+    },
+    {
+      "timestamp": "2026-05-06 20:26:55",
+      "message": "[SKIP] Content too short: GPT-5.5 Instant System Card..."
     }
   ]
 }
