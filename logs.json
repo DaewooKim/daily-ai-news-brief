@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 09:14:51",
+  "last_updated": "2026-05-06 09:14:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 09:14:02",
-      "message": "[SUCCESS] Processed: CRM \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac Freshworks, AI\uc758 \uc601\ud5a5\uc5d0 \ub300\ucc98\ud558\uba74\uc11c 11%\uc758 \uc778\ub825\uc744 \uac10\ucd95\ud560 \uacc4\ud68d\n  > Summary: CRM \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\uc778 Freshworks\uac00 AI\uc758 \uc601\ud5a5\uc5d0 \ub300\ucc98\ud558\uae30 \uc704\ud574 11%\uc758 \uc778\ub825\uc744..."
-    },
     {
       "timestamp": "2026-05-06 09:14:04",
       "message": "Reprocessing: Blog Review: May 6"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 09:14:51",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-06 09:14:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
