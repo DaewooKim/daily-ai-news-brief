@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 10:19:57",
+  "last_updated": "2026-05-06 10:20:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 10:19:16",
-      "message": "[PROCESSING] Analyzing: OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT..."
-    },
     {
       "timestamp": "2026-05-06 10:19:21",
       "message": "[SUCCESS] Processed: OpenAI\uac00 ChatGPT\uc758 \uc0c8\ub85c\uc6b4 \uae30\ubcf8 \ubaa8\ub378\uc778 GPT-5.5 Instant\ub97c \ubc1c\ud45c\ud558\ub2e4\n  > Summary: OpenAI\ub294 GPT-5.5 Instant\ub97c \ubc1c\ud45c\ud558\uba70, \uc774 \ubaa8\ub378\uc774 \ubc95\ub960, \uc758\ud559, \uae08\uc735\uacfc \uac19..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 10:19:57",
       "message": "[PROCESSING] Analyzing: Manufacturing Steady in April as Inflation and Iran War Weigh In..."
+    },
+    {
+      "timestamp": "2026-05-06 10:20:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Manufacturing Steady in April as Inflation and Iran War Weigh In"
     }
   ]
 }
