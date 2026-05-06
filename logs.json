@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 00:21:44",
+  "last_updated": "2026-05-06 00:21:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 00:21:00",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-06 00:21:02",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 00:21:44",
       "message": "[PROCESSING] Analyzing: A US court sentences a Latvian national to 8.5 years for acting as a negotiator for Russia's Karakurt ransomware group (Sergiu Gatlan/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-05-06 00:21:46",
+      "message": "[SKIP] Irrelevant (AI Filter): A US court sentences a Latvian national to 8.5 years for acting as a negotiator for Russia's Karakurt ransomware group (Sergiu Gatlan/BleepingComputer)"
     }
   ]
 }
