@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 19:22:00",
+  "last_updated": "2026-05-06 19:22:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 19:21:16",
-      "message": "[PROCESSING] Analyzing: AMD\u2019s AI Infrastructure Push Drives 57% Data Center Growth..."
-    },
     {
       "timestamp": "2026-05-06 19:21:19",
       "message": "[SUCCESS] Processed: AMD\uc758 AI \uc778\ud504\ub77c \ucd94\uc9c4\uc73c\ub85c \ub370\uc774\ud130 \uc13c\ud130 57% \uc131\uc7a5\n  > Summary: AMD\ub294 EPYC \ubc0f Instinct \uce69\uc5d0 \ub300\ud55c \uac15\ud55c \uc218\uc694 \ub355\ubd84\uc5d0 \ub9e4\ucd9c\uc774 103\uc5b5 \ub2ec\ub7ec\uc5d0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 19:22:00",
       "message": "[PROCESSING] Analyzing: Sources: Microsoft is considering delaying or dropping its 2030 goal of matching its hourly power use with renewable energy purchases, amid the data center boom (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-06 19:22:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Microsoft is considering delaying or dropping its 2030 goal of matching its hourly power use with renewable energy purchases, amid the data center boom (Bloomberg)"
     }
   ]
 }
