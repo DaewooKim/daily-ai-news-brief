@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 12:33:44",
+  "last_updated": "2026-05-06 12:33:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 12:33:01",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-06 12:33:02",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 12:33:44",
       "message": "[PROCESSING] Analyzing: DefiLlama: investors pulled nearly $14B from the DeFi space after North Korea-tied hackers stole $290M from Aave in April, weeks after stealing $280M from Drift (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-06 12:33:46",
+      "message": "[SKIP] Irrelevant (AI Filter): DefiLlama: investors pulled nearly $14B from the DeFi space after North Korea-tied hackers stole $290M from Aave in April, weeks after stealing $280M from Drift (Financial Times)"
     }
   ]
 }
