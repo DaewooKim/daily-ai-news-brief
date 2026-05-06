@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 10:18:53",
+  "last_updated": "2026-05-06 10:18:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 10:18:15",
-      "message": "[PROCESSING] Analyzing: OpenAI claims ChatGPT\u2019s new default model hallucinates way less..."
-    },
     {
       "timestamp": "2026-05-06 10:18:20",
       "message": "[SUCCESS] Processed: OpenAI\ub294 ChatGPT\uc758 \uc0c8\ub85c\uc6b4 \uae30\ubcf8 \ubaa8\ub378\uc774 \ub35c \ud658\uac01\uc744 \uc77c\uc73c\ud0a8\ub2e4\uace0 \uc8fc\uc7a5\ud55c\ub2e4\n  > Summary: OpenAI\uc758 \ucd5c\uc2e0 ChatGPT \uae30\ubcf8 \ubaa8\ub378\uc774 \ud658\uac01\uc744 \ub35c \uc77c\uc73c\ud0ac \uac00\ub2a5\uc131\uc774 \ub192\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 10:18:53",
       "message": "Reprocessing: GPT-5.5 Instant System Card"
+    },
+    {
+      "timestamp": "2026-05-06 10:18:55",
+      "message": "[SKIP] Content too short: GPT-5.5 Instant System Card..."
     }
   ]
 }
