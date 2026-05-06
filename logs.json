@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 21:36:46",
+  "last_updated": "2026-05-06 21:36:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 21:36:01",
-      "message": "[PROCESSING] Analyzing: IREN Buys Mirantis for $625M to Unlock AI Compute Utilization..."
-    },
     {
       "timestamp": "2026-05-06 21:36:04",
       "message": "[SUCCESS] Processed: IREN, 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 \ubbf8\ub780\ud2f0\uc2a4 \uc778\uc218, AI \ucef4\ud4e8\ud305 \ud65c\uc6a9\uc131 \uc99d\ub300\n  > Summary: IREN\uc740 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 \ubbf8\ub780\ud2f0\uc2a4\ub97c \uc778\uc218\ud558\uc5ec GPU\ub97c \ud65c\uc6a9\ud55c \uc218\uc775 \ucc3d\ucd9c \uac00\ub2a5\ud55c A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 21:36:46",
       "message": "[PROCESSING] Analyzing: Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 8.18% (Neil J Kanatt/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-06 21:36:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 8.18% (Neil J Kanatt/Reuters)"
     }
   ]
 }
