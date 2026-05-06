@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 08:08:04",
+  "last_updated": "2026-05-06 08:08:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 08:07:18",
-      "message": "[SUCCESS] Processed: SoC \uac1c\ubc1c\uc758 \uc911\uc694\ud55c \ub2e8\uacc4 \uac00\ub2a5\ud558\uac8c \ud558\uae30\n  > Summary: FPGA \uae30\ubc18 \ud504\ub85c\ud1a0\ud0c0\uc785 \uc2dc\uc2a4\ud15c\uc5d0\uc11c SoC \ubaa8\ub378\uc758 \uace0\uc18d \uc2e4\ud589\uc740 \uc804\uccb4 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc2a4\ud0dd \uac1c\ubc1c ..."
-    },
     {
       "timestamp": "2026-05-06 08:07:19",
       "message": "[PROCESSING] Analyzing: Power And Sensing \u2013 Selection Guide 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 08:08:04",
       "message": "[PROCESSING] Analyzing: Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico..."
+    },
+    {
+      "timestamp": "2026-05-06 08:08:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Nordson Test & Inspection Announces\u00a0Partnership with\u00a0Quiptech Mexico"
     }
   ]
 }
