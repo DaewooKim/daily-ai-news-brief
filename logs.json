@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 19:23:02",
+  "last_updated": "2026-05-06 19:23:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 19:22:18",
-      "message": "Reprocessing: Blog Review: May 6"
-    },
     {
       "timestamp": "2026-05-06 19:22:19",
       "message": "[PROCESSING] Analyzing: Blog Review: May 6..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 19:23:02",
       "message": "[PROCESSING] Analyzing: The Basics of iSIMs..."
+    },
+    {
+      "timestamp": "2026-05-06 19:23:05",
+      "message": "[SKIP] Irrelevant (AI Filter): The Basics of iSIMs"
     }
   ]
 }
