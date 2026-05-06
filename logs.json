@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 04:47:28",
+  "last_updated": "2026-05-06 04:47:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 04:46:48",
-      "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
-    },
     {
       "timestamp": "2026-05-06 04:46:51",
       "message": "[SUCCESS] Processed: IBM, '\uc6b4\uc601 \ubaa8\ub378' \ucd94\uc9c4\uc73c\ub85c \uae30\uc5c5 AI \uc81c\uc5b4 \uacc4\uce35 \ubaa9\ud45c\n  > Summary: IBM\uc740 \ucc28\uc138\ub300 \uae30\uc5c5 AI\uac00 \ubaa8\ub378\uacfc \uc778\ud504\ub77c\ubcf4\ub2e4\ub294 \uc774\ub97c \uc5f0\uacb0\ud558\ub294 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacc4\uce35\uc5d0 \uc758\ud574 \ub354\uc6b1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 04:47:28",
       "message": "[SKIP] Irrelevant (AI Filter): GlobalFoundries reports Q1 revenue up 3% YoY to $1.63B, in line with est., and forecasts Q2 revenue and adjusted earnings above estimates; GFS closes up 9.28% (Patrick Seitz/Investor's Business Daily)"
+    },
+    {
+      "timestamp": "2026-05-06 04:47:29",
+      "message": "Reprocessing: GPU Power Prediction Tool for AI Workloads (MIT, IBM)"
     }
   ]
 }
