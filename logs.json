@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 23:51:54",
+  "last_updated": "2026-05-06 23:51:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 23:51:10",
-      "message": "[SUCCESS] Processed: HPE \uc790\uc728 \uc8fc\ud589 \ub124\ud2b8\uc6cc\ud06c \uc0c1\uc6a9\ud654\n  > Summary: HPE\ub294 \ubb38\uc81c\ub97c \uc2e4\uc2dc\uac04\uc73c\ub85c \ucc98\ub9ac\ud558\ub294 \uc790\uc728 \ub124\ud2b8\uc6cc\ud0b9 \uae30\ub2a5\uc744 \ub3c4\uc785\ud588\uc2b5\ub2c8\ub2e4. \uadf8\ub7ec\ub098 \uae30\uc5c5\uc758 \ucc44\ud0dd..."
-    },
     {
       "timestamp": "2026-05-06 23:51:12",
       "message": "Reprocessing: AMD\u2019s AI Infrastructure Push Drives 57% Data Center Growth"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 23:51:54",
       "message": "[PROCESSING] Analyzing: Filing: Meta asks a judge to overturn the jury's verdict in the Los Angeles social media addiction trial or order a new trial, citing Section 230 protections (Diana Novak Jones/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-06 23:51:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Filing: Meta asks a judge to overturn the jury's verdict in the Los Angeles social media addiction trial or order a new trial, citing Section 230 protections (Diana Novak Jones/Reuters)"
     }
   ]
 }
