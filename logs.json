@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 13:39:45",
+  "last_updated": "2026-05-06 13:39:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 13:39:01",
-      "message": "[PROCESSING] Analyzing: OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT..."
-    },
     {
       "timestamp": "2026-05-06 13:39:05",
       "message": "[SUCCESS] Processed: OpenAI, ChatGPT\uc758 \uc0c8\ub85c\uc6b4 \uae30\ubcf8 \ubaa8\ub378 GPT-5.5 Instant \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 \uc0c8\ub85c\uc6b4 \uae30\ubcf8 \ubaa8\ub378\uc778 GPT-5.5 Instant\ub97c \ucd9c\uc2dc\ud588\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 13:39:45",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
+    },
+    {
+      "timestamp": "2026-05-06 13:39:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Industrial Control Systems Manufacturer Eliminates Stockouts"
     }
   ]
 }
