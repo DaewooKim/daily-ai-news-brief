@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-06 13:44:23",
-  "status": "idle",
+  "last_updated": "2026-05-06 14:45:04",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-06 13:42:45",
-      "message": "[SKIP] Content too short: AI data center operator IREN t..."
+      "timestamp": "2026-05-06 14:44:50",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-06 13:42:47",
-      "message": "Reprocessing: Supermicro shares rally on guidance after Q3 revenue falls short of estimates"
+      "timestamp": "2026-05-06 14:44:51",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-06 13:42:48",
-      "message": "[SKIP] Content too short: Supermicro shares rally on gui..."
+      "timestamp": "2026-05-06 14:44:51",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-06 13:42:50",
-      "message": "Reprocessing: DigitalOcean raises 2026 and 2027 revenue outlook after AI-driven earnings beat"
+      "timestamp": "2026-05-06 14:45:04",
+      "message": "Found 154 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-06 13:42:52",
-      "message": "[SKIP] Content too short: DigitalOcean raises 2026 and 2..."
-    },
-    {
-      "timestamp": "2026-05-06 13:42:54",
-      "message": "Reprocessing: Atlassian looks to the pit lane for the winning edge in the enterprise AI race"
-    },
-    {
-      "timestamp": "2026-05-06 13:42:55",
-      "message": "[SKIP] Content too short: Atlassian looks to the pit lan..."
-    },
-    {
-      "timestamp": "2026-05-06 13:42:57",
-      "message": "Reprocessing: Arvind Krishna\u2019s keynote at IBM Think: AI-first enterprises, hybrid as default, quantum moves from science to engineering"
-    },
-    {
-      "timestamp": "2026-05-06 13:42:59",
-      "message": "[SKIP] Content too short: Arvind Krishna\u2019s keynote at IB..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:01",
-      "message": "Reprocessing: Nvidia, AMD back $100M round for AI tooling startup RadixArk"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:02",
-      "message": "[SKIP] Content too short: Nvidia, AMD back $100M round f..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:04",
-      "message": "Reprocessing: Astera Labs debuts new Scorpio smart fabric data center switch to scale up AI compute clusters"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:06",
-      "message": "[SKIP] Content too short: Astera Labs debuts new Scorpio..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:07",
-      "message": "Reprocessing: What to expect at Boomi World: Join theCUBE May 13-14"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:09",
-      "message": "[SKIP] Content too short: What to expect at Boomi World:..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:11",
-      "message": "Reprocessing: Google targets \u2018agentic workforce\u2019 with Gemini for government push"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:13",
-      "message": "[SKIP] Content too short: Google targets \u2018agentic workfo..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:14",
-      "message": "Reprocessing: As agents reshape the enterprise, organizations are being forced to rethink the very nature of work"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:16",
-      "message": "[SKIP] Content too short: As agents reshape the enterpri..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:18",
-      "message": "Reprocessing: AI is elevating claims automation from a cost center into a competitive edge"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:20",
-      "message": "[SKIP] Content too short: AI is elevating claims automat..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:22",
-      "message": "Reprocessing: Enterprises are finding that the fastest path to AI efficiency runs through compliance first"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:23",
-      "message": "[SKIP] Content too short: Enterprises are finding that t..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:25",
-      "message": "Reprocessing: ServiceNow bids to become the control tower for enterprise AI"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:27",
-      "message": "[SKIP] Content too short: ServiceNow bids to become the ..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:30",
-      "message": "Reprocessing: Coinbase cuts staff by 14%, citing\u00a0crypto\u00a0market downturn and AI adoption"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:33",
-      "message": "[SKIP] Content too short: Coinbase cuts staff by 14%, ci..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:34",
-      "message": "Reprocessing: Subquadratic launches with $29M to bring 12M-token context windows to AI"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:37",
-      "message": "[SKIP] Content too short: Subquadratic launches with $29..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:38",
-      "message": "Reprocessing: Ai2 releases\u00a0MolmoAct\u00a02, enhancing robot intelligence in the real world"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:40",
-      "message": "[SKIP] Content too short: Ai2 releases\u00a0MolmoAct\u00a02, enhan..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:42",
-      "message": "Reprocessing: QuantWare raises $178M to become the TSMC of quantum computing"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:44",
-      "message": "[SKIP] Content too short: QuantWare raises $178M to beco..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:46",
-      "message": "Reprocessing: WSO2 launches Agent Manager to help enterprises tame AI agent sprawl"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:47",
-      "message": "[SKIP] Content too short: WSO2 launches Agent Manager to..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:49",
-      "message": "Reprocessing: Dyna Software launches Platform Copilot, an agentic AI tool for configuring ServiceNow"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:51",
-      "message": "[SKIP] Content too short: Dyna Software launches Platfor..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:53",
-      "message": "Reprocessing: IBM charts AI operating model to move enterprises beyond experimentation"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:54",
-      "message": "[SKIP] Content too short: IBM charts AI operating model ..."
-    },
-    {
-      "timestamp": "2026-05-06 13:43:56",
-      "message": "Reprocessing: NVIDIA Spectrum-X MRC is the Custom RDMA Transport Protocol for Gigascale AI"
-    },
-    {
-      "timestamp": "2026-05-06 13:43:58",
-      "message": "[PROCESSING] Analyzing: NVIDIA Spectrum-X MRC is the Custom RDMA Transport Protocol for Gigascale AI..."
-    },
-    {
-      "timestamp": "2026-05-06 13:44:02",
-      "message": "[SUCCESS] Processed: NVIDIA Spectrum-X MRC\ub294 \uae30\uac00\uc2a4\ucf00\uc77c AI\ub97c \uc704\ud55c \ub9de\ucda4\ud615 RDMA \uc804\uc1a1 \ud504\ub85c\ud1a0\ucf5c\uc785\ub2c8\ub2e4\n  > Summary: NVIDIA\ub294 \uae30\uac00\uc2a4\ucf00\uc77c AI \ud658\uacbd\uc5d0\uc11c \uc0ac\uc6a9\ub418\ub294 Spectrum-X MRC\ub77c\ub294 \ub9de\ucda4\ud615 RD..."
-    },
-    {
-      "timestamp": "2026-05-06 13:44:03",
-      "message": "Reprocessing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking"
-    },
-    {
-      "timestamp": "2026-05-06 13:44:05",
-      "message": "[PROCESSING] Analyzing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking..."
-    },
-    {
-      "timestamp": "2026-05-06 13:44:07",
-      "message": "[SKIP] Irrelevant (AI Filter): SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking"
-    },
-    {
-      "timestamp": "2026-05-06 13:44:09",
-      "message": "[PROCESSING] Analyzing: ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look..."
-    },
-    {
-      "timestamp": "2026-05-06 13:44:12",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS ROG Crosshair X870E Hero AMD AM5 Motherboard Quick Look"
-    },
-    {
-      "timestamp": "2026-05-06 13:44:13",
-      "message": "Completed! New: 9, Updated: 48"
-    },
-    {
-      "timestamp": "2026-05-06 13:44:17",
-      "message": "Saved 57 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-06 13:44:21",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-06 14:45:04",
+      "message": "[PROCESSING] Analyzing: Blink bumps its budget buzzer to 2K..."
     }
   ]
 }
