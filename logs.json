@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 13:41:19",
+  "last_updated": "2026-05-06 13:41:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 13:40:36",
-      "message": "[SUCCESS] Processed: \uc560\ud50c\uc758 R&D \uc9c0\ucd9c, AI \ubd90 \uc18d\uc5d0\uc11c Q2 \ub9e4\ucd9c\uc758 10.3%\uc5d0 \ub2ec\ud574; Q2 \ub9e4\ucd9c\uc740 \uc804\ub144 \ub300\ube44 17% \uc99d\uac00, R&D\ub294 34% \uc99d\uac00(CNBC)\n  > Summary: \uc560\ud50c\uc758 R&D \uc9c0\ucd9c\uc774 Q2 \ub9e4\ucd9c\uc758 10.3%\uc5d0 \ub2ec\ud558\uba70, Q1\uc758 7.6%\uc5d0\uc11c \uc99d\uac00\ud588\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-05-06 13:40:37",
       "message": "[PROCESSING] Analyzing: Nvidia is investing $500M in Corning as part of its partnership to expand US manufacturing of fiber optics for AI infrastructure; GLW jumps 20%+ pre-market (Nicholas G. Miller/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 13:41:19",
       "message": "[PROCESSING] Analyzing: The Unavoidable CMMC Deadline..."
+    },
+    {
+      "timestamp": "2026-05-06 13:41:22",
+      "message": "[SKIP] Irrelevant (AI Filter): The Unavoidable CMMC Deadline"
     }
   ]
 }
