@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 00:20:25",
+  "last_updated": "2026-05-06 00:20:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 00:19:41",
-      "message": "[SUCCESS] Processed: ChatGPT \uad11\uace0 \uad6c\ub9e4\uc758 \uc0c8\ub85c\uc6b4 \ubc29\ubc95\n  > Summary: OpenAI\ub294 ChatGPT \uad11\uace0\ub97c \ud655\uc7a5\ud558\uba70, \ubca0\ud0c0 \uc140\ud504 \uc11c\ube44\uc2a4 \uad11\uace0 \uad00\ub9ac\uc790\uc778 CPC \uc785\ucc30..."
-    },
     {
       "timestamp": "2026-05-06 00:19:42",
       "message": "[PROCESSING] Analyzing: SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 00:20:25",
       "message": "[PROCESSING] Analyzing: Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims..."
+    },
+    {
+      "timestamp": "2026-05-06 00:20:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims"
     }
   ]
 }
