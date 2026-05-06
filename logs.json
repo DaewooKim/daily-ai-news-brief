@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-06 15:58:38",
+  "last_updated": "2026-05-06 15:58:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-06 15:57:52",
-      "message": "[SUCCESS] Processed: IREN, 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 \ubbf8\ub780\ud2f0\uc2a4 \uc778\uc218\ud558\uc5ec AI \ucef4\ud4e8\ud305 \ud65c\uc6a9\ub3c4 \uac1c\uc120\n  > Summary: IREN\uc740 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 \ubbf8\ub780\ud2f0\uc2a4\ub97c \uc778\uc218\ud558\uc5ec Kubernetes\uc640 \uae30\uc5c5 \uc6b4\uc601\uc744 \ucd94..."
-    },
     {
       "timestamp": "2026-05-06 15:57:54",
       "message": "Reprocessing: AI Demand Surges as Billions in Compute Remain Locked"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-06 15:58:38",
       "message": "[PROCESSING] Analyzing: reMarkable Paper Pure review: the new $399 e-paper slate has a great display, responsiveness, and design, but no backlight or typing, and some software issues (Daniel Cooper/Engadget)..."
+    },
+    {
+      "timestamp": "2026-05-06 15:58:40",
+      "message": "[SKIP] Irrelevant (AI Filter): reMarkable Paper Pure review: the new $399 e-paper slate has a great display, responsiveness, and design, but no backlight or typing, and some software issues (Daniel Cooper/Engadget)"
     }
   ]
 }
