@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 11:05:53",
+  "last_updated": "2026-05-07 11:05:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 11:04:52",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-07 11:04:53",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 11:05:53",
       "message": "[PROCESSING] Analyzing: Amazon plans to merge MX Player into Prime Video in India, combining free and paid streaming catalogs on a single platform over the next few months (Naman Ramachandran/Variety)..."
+    },
+    {
+      "timestamp": "2026-05-07 11:05:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon plans to merge MX Player into Prime Video in India, combining free and paid streaming catalogs on a single platform over the next few months (Naman Ramachandran/Variety)"
     }
   ]
 }
