@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 16:48:22",
+  "last_updated": "2026-05-07 16:48:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 16:47:37",
-      "message": "[PROCESSING] Analyzing: NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure..."
-    },
     {
       "timestamp": "2026-05-07 16:47:41",
       "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544\uc640 \ucf54\ub2dd, AI \uc778\ud504\ub77c\ub97c \uc704\ud55c \ubbf8\uad6d \uc81c\uc870 \uac15\ud654\uc758 \uc7a5\uae30 \ud30c\ud2b8\ub108\uc2ed \ubc1c\ud45c\n  > Summary: \uc5d4\ube44\ub514\uc544\uc640 \ucf54\ub2dd\uc740 \ubbf8\uad6d \ub0b4 AI \uc778\ud504\ub77c\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uace0\uae09 \uad11\ud559 \uc5f0\uacb0 \uc194\ub8e8\uc158\uc758 \uc81c\uc870\ub97c 1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 16:48:22",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-07 16:48:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
