@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 03:14:20",
+  "last_updated": "2026-05-07 03:14:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 03:13:39",
-      "message": "[SUCCESS] Processed: AI \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc704\ud55c GPU \uc804\ub825 \uc608\uce21 \ub3c4\uad6c (MIT, IBM)\n  > Summary: MIT\uc640 IBM \uc5f0\uad6c\ud300\uc5d0 \uc758\ud574 \ubc1c\ud45c\ub41c \uae30\uc220 \ub17c\ubb38 'EnergAIzer: AI \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc704..."
-    },
     {
       "timestamp": "2026-05-07 03:13:40",
       "message": "Reprocessing: NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 03:14:20",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-07 03:14:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
