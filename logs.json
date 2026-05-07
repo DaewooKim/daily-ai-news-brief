@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 07:40:57",
+  "last_updated": "2026-05-07 07:40:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 07:40:16",
-      "message": "[SUCCESS] Processed: AI \uc218\uc694 \uae09\uc99d, \uc218\uc2ed\uc5b5\uc758 \ucef4\ud4e8\ud2b8\uac00 \uc7a0\uaca8 \uc788\ub2e4\n  > Summary: Cast AI \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, \uae30\uc5c5\uc758 Kubernetes \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c GPU, CPU \ubc0f..."
-    },
     {
       "timestamp": "2026-05-07 07:40:18",
       "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 07:40:57",
       "message": "[PROCESSING] Analyzing: DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours (Koyena Das/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-07 07:40:59",
+      "message": "[SKIP] Irrelevant (AI Filter): DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours (Koyena Das/Reuters)"
     }
   ]
 }
