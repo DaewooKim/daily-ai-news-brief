@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 14:28:52",
+  "last_updated": "2026-05-07 14:28:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 14:28:04",
-      "message": "[SUCCESS] Processed: \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ub124\ud2b8\uc6cc\ud06c\uc758 \uc7a0\uae08 \ud574\uc81c: MRC (Multipath Reliable Connection)\n  > Summary: OpenAI\ub294 \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ud074\ub7ec\uc2a4\ud130\uc758 \ubcf5\uc6d0\ub825\uacfc \uc131\ub2a5\uc744 \uac1c\uc120\ud558\uae30 \uc704\ud574 OCP\ub97c \ud1b5\ud574 M..."
-    },
     {
       "timestamp": "2026-05-07 14:28:06",
       "message": "Reprocessing: GPT-5.5 Instant System Card"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 14:28:52",
       "message": "[PROCESSING] Analyzing: At TechCrunch Disrupt 2026, all your M&A questions will be answered..."
+    },
+    {
+      "timestamp": "2026-05-07 14:28:55",
+      "message": "[SKIP] Irrelevant (AI Filter): At TechCrunch Disrupt 2026, all your M&A questions will be answered"
     }
   ]
 }
