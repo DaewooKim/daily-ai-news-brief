@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 21:21:59",
+  "last_updated": "2026-05-07 21:22:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 21:21:15",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-07 21:21:16",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 21:21:59",
       "message": "[PROCESSING] Analyzing: Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video (Mark Gurman/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-07 21:22:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video (Mark Gurman/Bloomberg)"
     }
   ]
 }
