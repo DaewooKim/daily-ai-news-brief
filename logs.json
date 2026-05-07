@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 22:28:27",
+  "last_updated": "2026-05-07 22:28:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 22:27:38",
-      "message": "[PROCESSING] Analyzing: Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer..."
-    },
     {
       "timestamp": "2026-05-07 22:27:43",
       "message": "[SUCCESS] Processed: \ubaa8\ub378 \uc591\uc790\ud654: NVIDIA \ubaa8\ub378 \ucd5c\uc801\ud654\ub97c \uc774\uc6a9\ud55c \ud6c8\ub828 \ud6c4 \uc591\uc790\ud654\n  > Summary: \ubaa8\ub378 \uc591\uc790\ud654\ub294 VRAM \uc0ac\uc6a9\ub7c9\uc744 \uc904\uc774\uace0 NVIDIA GeForce RTX GPU\uc640 \uac19\uc740 \uc18c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 22:28:27",
       "message": "[SUCCESS] Processed: MRC(\ub2e4\uc911 \uacbd\ub85c \uc2e0\ub8b0 \uc5f0\uacb0)\ub85c \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ub124\ud2b8\uc6cc\ud06c \ud574\uc81c\n  > Summary: OpenAI\ub294 \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c\uc758 \ud68c\ubcf5\ub825 \ubc0f \uc131\ub2a5\uc744 \uac1c\uc120\ud558\uae30 \uc704\ud574 OCP\ub97c \ud1b5..."
+    },
+    {
+      "timestamp": "2026-05-07 22:28:28",
+      "message": "Reprocessing: GPT-5.5 Instant: smarter, clearer, and more personalized"
     }
   ]
 }
