@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-07 17:58:37",
-  "status": "idle",
+  "last_updated": "2026-05-07 18:59:16",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-07 17:57:01",
-      "message": "Reprocessing: Anthropic to use SpaceX\u2019s Colossus 1 supercomputer for inference"
+      "timestamp": "2026-05-07 18:59:03",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-07 17:57:02",
-      "message": "[SKIP] Content too short: Anthropic to use SpaceX\u2019s Colo..."
+      "timestamp": "2026-05-07 18:59:04",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-07 17:57:04",
-      "message": "Reprocessing: Amplitude shares slide after revenue beat, earnings miss and softer profit outlook"
+      "timestamp": "2026-05-07 18:59:04",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-07 17:57:05",
-      "message": "[SKIP] Content too short: Amplitude shares slide after r..."
+      "timestamp": "2026-05-07 18:59:16",
+      "message": "Found 175 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-07 17:57:07",
-      "message": "Reprocessing: Fortinet shares surge on first-quarter earnings beat and raised outlook"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:08",
-      "message": "[SKIP] Content too short: Fortinet shares surge on first..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:10",
-      "message": "Reprocessing: Nvidia partners with Corning to boost the supply of optical network components"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:12",
-      "message": "[SKIP] Content too short: Nvidia partners with Corning t..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:13",
-      "message": "Reprocessing: What to expect during Red Hat Summit: Join theCUBE May 12-14"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:15",
-      "message": "[SKIP] Content too short: What to expect during Red Hat ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:16",
-      "message": "Reprocessing: Dell and Intel advance secure AI factories with trust-first infrastructure"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:18",
-      "message": "[SKIP] Content too short: Dell and Intel advance secure ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:20",
-      "message": "Reprocessing: Nvidia\u2019s MRC: When \u2018just Ethernet\u2019 isn\u2019t enough for gigascale AI"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:21",
-      "message": "[SKIP] Content too short: Nvidia\u2019s MRC: When \u2018just Ether..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:23",
-      "message": "Reprocessing: Atlassian puts context at the center of AI-native teamwork: theCUBE\u2019s analyst insight"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:25",
-      "message": "[SKIP] Content too short: Atlassian puts context at the ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:27",
-      "message": "Reprocessing: Devs are spending only 16% of their time coding. Atlassian is engineering AI to reclaim the rest"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:29",
-      "message": "[SKIP] Content too short: Devs are spending only 16% of ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:30",
-      "message": "Reprocessing: Arvind Krishna AMA at IBM Think 2026: Openness, integration and key questions on the IBM AI stack"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:33",
-      "message": "[SKIP] Content too short: Arvind Krishna AMA at IBM Thin..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:34",
-      "message": "Reprocessing: AI agents push infrastructure beyond human-centric design"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:35",
-      "message": "[SKIP] Content too short: AI agents push infrastructure ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:37",
-      "message": "Reprocessing: Pine.ai aims consumer AI agent at complex customer service interactions"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:39",
-      "message": "[SKIP] Content too short: Pine.ai aims consumer AI agent..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:41",
-      "message": "Reprocessing: AI is helping UK police forces turn fragmented data into real-time action"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:43",
-      "message": "[SKIP] Content too short: AI is helping UK police forces..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:44",
-      "message": "Reprocessing: Atlassian opens Teamwork Graph and pushes Rovo into agentic execution at Team \u201926"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:46",
-      "message": "[SKIP] Content too short: Atlassian opens Teamwork Graph..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:48",
-      "message": "Reprocessing: Extreme Connect 2026: Agentic AI, Platform ONE and the next phase of enterprise networking"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:50",
-      "message": "[SKIP] Content too short: Extreme Connect 2026: Agentic ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:51",
-      "message": "Reprocessing: Adobe introduces productivity agent to transform PDF creation and sharing"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:53",
-      "message": "[SKIP] Content too short: Adobe introduces productivity ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:55",
-      "message": "Reprocessing: Tanium and ServiceNow launch joint solution to automate endpoint patching and remediation"
-    },
-    {
-      "timestamp": "2026-05-07 17:57:56",
-      "message": "[SKIP] Content too short: Tanium and ServiceNow launch j..."
-    },
-    {
-      "timestamp": "2026-05-07 17:57:58",
-      "message": "Reprocessing: Inside IBM Think: theCUBE\u2019s analyst-led coverage airs May 12"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:00",
-      "message": "[SKIP] Content too short: Inside IBM Think: theCUBE\u2019s an..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:01",
-      "message": "Reprocessing: Sovereign cloud reshapes enterprise AI deployment strategies"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:03",
-      "message": "[SKIP] Content too short: Sovereign cloud reshapes enter..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:05",
-      "message": "Reprocessing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:06",
-      "message": "[PROCESSING] Analyzing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:10",
-      "message": "[SUCCESS] Processed: AMD \uc778\ud2b8\ub85c\uc2a4 \uc778\uc2a4\ud305\ud2b8 MI350P \uac00\uc18d\uae30: CDNA 4\uac00 PCIe \uce74\ub4dc\ub85c \ub4f1\uc7a5\n  > Summary: AMD\ub294 \uc790\uc0ac\uc758 \uc8fc\ub825 MI350 \uac00\uc18d\uae30\uc758 PCIe \ubc84\uc804\uc778 MI350P\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:12",
-      "message": "Reprocessing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:14",
-      "message": "[PROCESSING] Analyzing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:18",
-      "message": "[SUCCESS] Processed: PCI-SIG PCIe 8.0 \uc0ac\uc591 \ucd08\uc548 0.5 \ubc1c\ud45c\n  > Summary: PCI-SIG\uc774 PCIe 8.0 \uc0ac\uc591 \ucd08\uc548 0.5\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ucd08\uc548\uc740 \uc11c\ubc84\uc5d0\uc11c 1T..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:19",
-      "message": "Reprocessing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:21",
-      "message": "[PROCESSING] Analyzing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:26",
-      "message": "[SUCCESS] Processed: SPEC \ucee8\uc18c\uc2dc\uc5c4, SPEC CPU 2026 \ubca4\uce58\ub9c8\ud06c \uc2a4\uc704\ud2b8 \ucd9c\uc2dc: CPU \ubca4\uce58\ub9c8\ud0b9\uc758 \ub2e4\uc74c 10\ub144\n  > Summary: SPEC\uac00 10\ub144 \ub9cc\uc5d0 \uc0c8\ub85c\uc6b4 CPU \ubca4\uce58\ub9c8\ud06c \ubc84\uc804\uc778 SPEC CPU 2026\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8..."
-    },
-    {
-      "timestamp": "2026-05-07 17:58:28",
-      "message": "Completed! New: 6, Updated: 57"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:32",
-      "message": "Saved 63 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-07 17:58:35",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-07 18:59:16",
+      "message": "[PROCESSING] Analyzing: Valve is fighting Steam Controller scalpers with a new reservations system..."
     }
   ]
 }
