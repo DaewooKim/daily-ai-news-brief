@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 09:54:38",
+  "last_updated": "2026-05-07 09:54:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 09:54:02",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-07 09:54:02",
       "message": "[PROCESSING] Analyzing: Nintendo announces a new Star Fox for the Switch 2..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 09:54:38",
       "message": "Reprocessing: Microsoft Committed To Doubling AI Infrastructure In Two Years"
+    },
+    {
+      "timestamp": "2026-05-07 09:54:40",
+      "message": "[SKIP] Content too short: Microsoft Committed To Doublin..."
     }
   ]
 }
