@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 21:24:10",
+  "last_updated": "2026-05-07 21:24:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 21:23:25",
-      "message": "[PROCESSING] Analyzing: Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs..."
-    },
     {
       "timestamp": "2026-05-07 21:23:31",
       "message": "[SUCCESS] Processed: ZAYA1-8B\ub97c \uc18c\uac1c\ud569\ub2c8\ub2e4, AMD Instinct MI300 GPU\uc5d0\uc11c \ud6c8\ub828\ub41c \ucd08\ud6a8\uc728\uc801\uc778 \uac1c\ubc29\ud615 \ucd94\ub860 \ubaa8\ub378\n  > Summary: \uc2e0\uc0dd \uc2a4\ud0c0\ud2b8\uc5c5 Zyphra\uac00 \ucd9c\uc2dc\ud55c ZAYA1-8B\ub294 80\uc5b5 \uc774\uc0c1\uc758 \ub9e4\uac1c\ubcc0\uc218\ub97c \uac00\uc9c4 \uc0c8\ub86d\uac8c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 21:24:10",
       "message": "Reprocessing: AWS and Atlassian reframe AI as an organizational challenge, not an IT one"
+    },
+    {
+      "timestamp": "2026-05-07 21:24:11",
+      "message": "[SKIP] Content too short: AWS and Atlassian reframe AI a..."
     }
   ]
 }
