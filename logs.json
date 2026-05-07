@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 14:29:23",
+  "last_updated": "2026-05-07 14:29:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 14:28:39",
-      "message": "[SUCCESS] Processed: \uc2a4\ud3ec\ud2f0\ud30c\uc774\ub294 AI \uc0dd\uc131 \uac1c\uc778 \uc624\ub514\uc624\uc758 \uc9d1\uc774 \ub418\uace0 \uc2f6\ub2e4\n  > Summary: \uc2a4\ud3ec\ud2f0\ud30c\uc774\ub294 \uc0ac\uc6a9\uc790\ub4e4\uc774 Codex\ub098 Claude Code\ub97c \uc0ac\uc6a9\ud574 \ud31f\uce90\uc2a4\ud2b8\ub97c \ub9cc\ub4e4\uace0 \uc774\ub97c ..."
-    },
     {
       "timestamp": "2026-05-07 14:28:41",
       "message": "Reprocessing: Is xAI a neocloud now?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 14:29:23",
       "message": "[PROCESSING] Analyzing: Manufacturing Steady in April as Inflation and Iran War Weigh In..."
+    },
+    {
+      "timestamp": "2026-05-07 14:29:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Manufacturing Steady in April as Inflation and Iran War Weigh In"
     }
   ]
 }
