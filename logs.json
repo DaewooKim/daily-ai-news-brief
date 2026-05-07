@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 02:06:33",
+  "last_updated": "2026-05-07 02:06:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 02:05:51",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d\uacfc \uc911\uad6d, AI \ubaa8\ub378\uc774 \ucd08\ub798\ud558\ub294 \ubcf4\uc548 \uc704\ud5d8\uc5d0 \ub300\ud55c \uc815\uae30 \ud68c\ub2f4\uc744 \uace0\ub824 \uc911\n  > Summary: \ubbf8\uad6d\uacfc \uc911\uad6d\uc740 AI \ubaa8\ub378\uc774 \ucd08\ub798\ud560 \uc218 \uc788\ub294 \ubcf4\uc548 \uc704\ud5d8\uc5d0 \ub300\ud574 \uc815\uae30\uc801\uc73c\ub85c \ub17c\uc758\ud560 \uac00\ub2a5\uc131\uc744 \uace0..."
-    },
     {
       "timestamp": "2026-05-07 02:05:52",
       "message": "[PROCESSING] Analyzing: A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling (Jon Brodkin/Ars Technica)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 02:06:33",
       "message": "[PROCESSING] Analyzing: High-NA EU Lithography: Extending The STCC Formula (Science Tokyo)..."
+    },
+    {
+      "timestamp": "2026-05-07 02:06:35",
+      "message": "[SKIP] Irrelevant (AI Filter): High-NA EU Lithography: Extending The STCC Formula (Science Tokyo)"
     }
   ]
 }
