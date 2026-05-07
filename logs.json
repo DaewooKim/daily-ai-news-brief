@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 20:14:38",
+  "last_updated": "2026-05-07 20:14:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 20:13:41",
-      "message": "[PROCESSING] Analyzing: Global Semiconductor Sales Increase 25% from Q4 2025 to Q1 2026..."
-    },
     {
       "timestamp": "2026-05-07 20:13:47",
       "message": "[SUCCESS] Processed: 2025\ub144 4\ubd84\uae30\uc5d0\uc11c 2026\ub144 1\ubd84\uae30\uae4c\uc9c0 \uae00\ub85c\ubc8c \ubc18\ub3c4\uccb4 \ud310\ub9e4 25% \uc99d\uac00\n  > Summary: \ubc18\ub3c4\uccb4 \uc0b0\uc5c5 \ud611\ud68c(SIA)\ub294 2026\ub144 1\ubd84\uae30 \uae00\ub85c\ubc8c \ubc18\ub3c4\uccb4 \ud310\ub9e4\uac00 2985\uc5b5 \ub2ec\ub7ec\ub85c 20..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 20:14:38",
       "message": "[SUCCESS] Processed: STM32C5, \uc5d4\ud2b8\ub9ac \ub808\ubca8 \ub9c8\uc774\ud06c\ub85c\ucee8\ud2b8\ub864\ub7ec \uc131\ub2a5\uc744 \uc7ac\uc815\uc758\ud558\ub2e4\n  > Summary: STM32C5\ub294 Arm Cortex-M33 \ucf54\uc5b4\ub97c \uae30\ubc18\uc73c\ub85c \ud558\ub294 \uc0c8\ub85c\uc6b4 \uc5d4\ud2b8\ub9ac \ub808\ubca8 \ub9c8\uc774\ud06c..."
+    },
+    {
+      "timestamp": "2026-05-07 20:14:40",
+      "message": "Reprocessing: TDK Introduces SensorStage for Faster IMU Development"
     }
   ]
 }
