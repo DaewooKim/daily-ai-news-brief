@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 09:57:32",
+  "last_updated": "2026-05-07 09:57:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 09:56:47",
-      "message": "[SUCCESS] Processed: AI \uc218\uc694 \uc99d\uac00, \uc218\uc2ed\uc5b5\uc758 \ucef4\ud4e8\ud305 \uc7a0\uae08 \uc0c1\ud0dc\n  > Summary: Cast AI \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, \uae30\uc5c5\uc758 \ucfe0\ubc84\ub124\ud2f0\uc2a4 \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c GPU, CPU \ubc0f \uba54\ubaa8\ub9ac\uc758..."
-    },
     {
       "timestamp": "2026-05-07 09:56:49",
       "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 09:57:32",
       "message": "[PROCESSING] Analyzing: FanDuel CEO Amy Howe departs after five years, succeeded by President Christian Genetski, as parent company Flutter reports MAUs fell 3% YoY to 14.4M in Q1 2026 (Christopher Kuo/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-05-07 09:57:34",
+      "message": "[SKIP] Irrelevant (AI Filter): FanDuel CEO Amy Howe departs after five years, succeeded by President Christian Genetski, as parent company Flutter reports MAUs fell 3% YoY to 14.4M in Q1 2026 (Christopher Kuo/Wall Street Journal)"
     }
   ]
 }
