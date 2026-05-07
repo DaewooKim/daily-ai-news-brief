@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 22:31:07",
+  "last_updated": "2026-05-07 22:31:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 22:30:12",
-      "message": "[PROCESSING] Analyzing: IREN Buys Mirantis for $625M to Unlock AI Compute Utilization..."
-    },
     {
       "timestamp": "2026-05-07 22:30:18",
       "message": "[SUCCESS] Processed: IREN, AI \ucef4\ud4e8\ud305 \ud65c\uc6a9\uc744 \uc704\ud574 Mirantis\ub97c 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 \uc778\uc218\n  > Summary: IREN\uc740 Mirantis\ub97c 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\uc600\uc2b5\ub2c8\ub2e4. \uc774\ubc88 \uac70\ub798\ub294 \ucfe0\ubc84\ub124\ud2f0\uc2a4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 22:31:07",
       "message": "[SKIP] Irrelevant (AI Filter): Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours (CNBC)"
+    },
+    {
+      "timestamp": "2026-05-07 22:31:08",
+      "message": "Reprocessing: Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips (Anissa Gardizy/The Information)"
     }
   ]
 }
