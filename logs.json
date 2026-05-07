@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 12:14:08",
+  "last_updated": "2026-05-07 12:14:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 12:13:18",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-07 12:13:19",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 12:14:08",
       "message": "[PROCESSING] Analyzing: Source: Samsung offered to allocate ~13% of operating profit to chip division staff; unions threaten an 18-day walkout, seeking a 15% share and a 7% wage hike (Daniel Tudor/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-07 12:14:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Samsung offered to allocate ~13% of operating profit to chip division staff; unions threaten an 18-day walkout, seeking a 15% share and a 7% wage hike (Daniel Tudor/Financial Times)"
     }
   ]
 }
