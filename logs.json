@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 21:20:03",
+  "last_updated": "2026-05-07 21:20:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 21:19:18",
-      "message": "Reprocessing: GPT-5.5 Instant System Card"
-    },
     {
       "timestamp": "2026-05-07 21:19:20",
       "message": "[SKIP] Content too short: GPT-5.5 Instant System Card..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 21:20:03",
       "message": "[PROCESSING] Analyzing: 2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-05-07 21:20:05",
+      "message": "[SKIP] Irrelevant (AI Filter): 2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026"
     }
   ]
 }
