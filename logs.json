@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 14:28:24",
+  "last_updated": "2026-05-07 14:28:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 14:27:32",
-      "message": "Reprocessing: Parloa builds service agents customers want to talk to"
-    },
     {
       "timestamp": "2026-05-07 14:27:34",
       "message": "[PROCESSING] Analyzing: Parloa builds service agents customers want to talk to..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 14:28:24",
       "message": "[PROCESSING] Analyzing: 2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-05-07 14:28:26",
+      "message": "[SKIP] Irrelevant (AI Filter): 2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026"
     }
   ]
 }
