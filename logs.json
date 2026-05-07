@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 20:11:04",
+  "last_updated": "2026-05-07 20:11:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 20:10:22",
-      "message": "[SUCCESS] Processed: \uc77c\ub860 \uba38\uc2a4\ud06c\uc758 \uc18c\uc1a1\uc774 \uc624\ud508AI\uc758 \uc548\uc804 \uae30\ub85d\uc744 \ucca0\uc800\ud788 \uac80\ud1a0\ud558\uac8c \ud558\uace0 \uc788\ub2e4\n  > Summary: \uc77c\ub860 \uba38\uc2a4\ud06c\uc758 \ubc95\uc801 \ub178\ub825\uc740 OpenAI\uc758 \uc774\uc775 \uae30\uc5c5\uc774 \uc778\ub958\uac00 \uc778\uacf5\uc9c0\ub2a5 \uc77c\ubc18\ud654\uc758 \ud61c\ud0dd\uc744 \ub204\ub9b4..."
-    },
     {
       "timestamp": "2026-05-07 20:10:24",
       "message": "[PROCESSING] Analyzing: Bumble is getting rid of the swipe, CEO says..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 20:11:04",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
+    },
+    {
+      "timestamp": "2026-05-07 20:11:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Industrial Control Systems Manufacturer Eliminates Stockouts"
     }
   ]
 }
