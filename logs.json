@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 11:04:11",
+  "last_updated": "2026-05-07 11:04:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 11:03:19",
-      "message": "Reprocessing: Is xAI a neocloud now?"
-    },
     {
       "timestamp": "2026-05-07 11:03:21",
       "message": "[PROCESSING] Analyzing: Is xAI a neocloud now?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 11:04:11",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
+    },
+    {
+      "timestamp": "2026-05-07 11:04:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Industrial Control Systems Manufacturer Eliminates Stockouts"
     }
   ]
 }
