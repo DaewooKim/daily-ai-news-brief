@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 20:13:06",
+  "last_updated": "2026-05-07 20:13:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 20:12:09",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: OpenAI\uc640 Broadcom, Microsoft\uac00 \uce69\uc758 \uc57d 40%\ub97c \uad6c\ub9e4 \uc870\uac74\uc73c\ub85c Broadcom\uc774 \ucd08\uae30 \ub9de\ucda4 \uce69 \uc0dd\uc0b0\uc744 \uc704\ud55c \uc57d 180\uc5b5 \ub2ec\ub7ec \uc870\ub2ec \uc870\uac74 \ub17c\uc758 (Anissa Gardizy/The Information)\n  > Summary: OpenAI\uc640 Broadcom\uc774 \ub9de\ucda4\ud615 \uc778\uacf5\uc9c0\ub2a5 \uce69 \uc0dd\uc0b0\uc744 \uc704\ud574 \uc57d 180\uc5b5 \ub2ec\ub7ec\uc758 \uc790\uae08\uc744..."
-    },
     {
       "timestamp": "2026-05-07 20:12:11",
       "message": "[PROCESSING] Analyzing: Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model's thoughts, into natural language text (Anthropic)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 20:13:06",
       "message": "[PROCESSING] Analyzing: Meta challenges Ofcom in UK High Court over the Online Safety Act, which calculates levies based on global, not UK, revenue, in a case scheduled for October (Sam Tobin/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-07 20:13:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta challenges Ofcom in UK High Court over the Online Safety Act, which calculates levies based on global, not UK, revenue, in a case scheduled for October (Sam Tobin/Reuters)"
     }
   ]
 }
