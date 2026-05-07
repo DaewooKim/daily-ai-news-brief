@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 21:22:28",
+  "last_updated": "2026-05-07 21:22:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 21:21:42",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips (Anissa Gardizy/The Information)..."
-    },
     {
       "timestamp": "2026-05-07 21:21:47",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI\uc640 Broadcom, Microsoft\uac00 \uc57d 40%\uc758 \uce69\uc744 \uad6c\ub9e4\ud558\ub294 \uc870\uac74\uc73c\ub85c Broadcom\uc774 \uc57d 180\uc5b5 \ub2ec\ub7ec\uc758 \ucd08\uae30 \ub9de\ucda4 \uce69 \uc0dd\uc0b0 \uc790\uae08\uc744 \uc870\ub2ec\ud558\ub294 \uc870\uac74\uc744 \ub17c\uc758 \uc911\n  > Summary: OpenAI\uc640 Broadcom\uc774 \ub9de\ucda4\ud615 \uc778\uacf5\uc9c0\ub2a5 \uce69\uc744 \uc81c\uc791\ud558\uae30 \uc704\ud574 \uc57d 180\uc5b5 \ub2ec\ub7ec\uc758 \ucd08..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 21:22:28",
       "message": "[PROCESSING] Analyzing: Meta challenges Ofcom in UK High Court over the Online Safety Act, which calculates levies based on global, not UK, revenue, in a case scheduled for October (Sam Tobin/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-07 21:22:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta challenges Ofcom in UK High Court over the Online Safety Act, which calculates levies based on global, not UK, revenue, in a case scheduled for October (Sam Tobin/Reuters)"
     }
   ]
 }
