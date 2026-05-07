@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 16:48:18",
+  "last_updated": "2026-05-07 16:48:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 16:47:33",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc804\ub825 \uc0ac\uc6a9 \ud6a8\uc728\uc131(PUE)\ub780 \ubb34\uc5c7\uc778\uac00?\n  > Summary: 2024\ub144 \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc57d 415 \ud14c\ub77c\uc640\ud2b8\uc2dc(TWh)\uc758 \uc804\ub825\uc744 \uc18c\ube44\ud588\uc73c\uba70, \uc774\ub294 \uae00\ub85c\ubc8c ..."
-    },
     {
       "timestamp": "2026-05-07 16:47:35",
       "message": "Reprocessing: NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 16:48:18",
       "message": "[PROCESSING] Analyzing: New Eagle Unveils Single-Controller Solution for EV Architectures..."
+    },
+    {
+      "timestamp": "2026-05-07 16:48:20",
+      "message": "[SKIP] Irrelevant (AI Filter): New Eagle Unveils Single-Controller Solution for EV Architectures"
     }
   ]
 }
