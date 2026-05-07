@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 19:01:02",
+  "last_updated": "2026-05-07 19:01:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 19:00:12",
-      "message": "Reprocessing: Parloa builds service agents customers want to talk to"
-    },
     {
       "timestamp": "2026-05-07 19:00:14",
       "message": "[PROCESSING] Analyzing: Parloa builds service agents customers want to talk to..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 19:01:02",
       "message": "Reprocessing: GPT-5.5 Instant System Card"
+    },
+    {
+      "timestamp": "2026-05-07 19:01:03",
+      "message": "[SKIP] Content too short: GPT-5.5 Instant System Card..."
     }
   ]
 }
