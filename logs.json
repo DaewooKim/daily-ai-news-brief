@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-07 21:24:02",
+  "last_updated": "2026-05-07 21:24:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-07 21:23:18",
-      "message": "[SUCCESS] Processed: SCALE, \ud37c\ub4c0 \ub300\ud559\uad50\uc758 \ucd5c\ub300 \uc5f0\ubc29 \uc790\uae08 \uc9c0\uc6d0 \uc5f0\uad6c \ub178\ub825\uc73c\ub85c \ud655\ub300\n  > Summary: SCALE \ud504\ub85c\uadf8\ub7a8\uc740 \ud37c\ub4c0 \ub300\ud559\uad50\uc758 \ucd5c\ub300 \uc5f0\ubc29 \uc790\uae08 \uc9c0\uc6d0 \uc5f0\uad6c\ub85c, \uc804\ubbf8 \ubc29\uc704 \ubc18\ub3c4\uccb4 \uc778\uc7ac ..."
-    },
     {
       "timestamp": "2026-05-07 21:23:20",
       "message": "[PROCESSING] Analyzing: SNU Researchers Develop Battery-Free Skin-Conformal Wearable System..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-07 21:24:02",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-07 21:24:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
