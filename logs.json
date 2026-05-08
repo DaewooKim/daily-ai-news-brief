@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 04:12:15",
+  "last_updated": "2026-05-08 04:12:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 04:11:29",
-      "message": "[PROCESSING] Analyzing: Nvidia Places Massive AI Infrastructure Bet on IREN\u2019s 5 GW Pipeline..."
-    },
     {
       "timestamp": "2026-05-08 04:11:33",
       "message": "[SUCCESS] Processed: Nvidia, IREN\uc758 5 GW \uc778\uacf5\uc9c0\ub2a5 \uc778\ud504\ub77c \ud22c\uc790\ub97c \uc704\ud55c \ub300\uaddc\ubaa8 \uacc4\ud68d\n  > Summary: Nvidia\uc640 IREN\uc740 \ucd5c\ub300 5 GW\uc758 \uc778\uacf5\uc9c0\ub2a5 \uc778\ud504\ub77c \ubc30\uce58\ub97c \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\uc73c\uba70, \ud14d\uc0ac..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 04:12:15",
       "message": "[PROCESSING] Analyzing: MercadoLibre reports Q1 revenue up 49% YoY to $8.8B, vs. $8.4B est., and net income down 16% to $417M, vs. $433M est.; MELI drops 5%+ after hours (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-08 04:12:17",
+      "message": "[SKIP] Irrelevant (AI Filter): MercadoLibre reports Q1 revenue up 49% YoY to $8.8B, vs. $8.4B est., and net income down 16% to $417M, vs. $433M est.; MELI drops 5%+ after hours (Bloomberg)"
     }
   ]
 }
