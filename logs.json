@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 12:08:41",
+  "last_updated": "2026-05-08 12:08:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 12:07:56",
-      "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
-    },
     {
       "timestamp": "2026-05-08 12:08:00",
       "message": "[SUCCESS] Processed: IBM, '\uc6b4\uc601 \ubaa8\ub378' \ucd94\uc9c4\uc73c\ub85c \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \uc81c\uc5b4 \uacc4\uce35 \ubaa9\ud45c\n  > Summary: IBM\uc740 \ub2e4\uc74c \ub2e8\uacc4\uc758 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI\uac00 \ubaa8\ub378\uacfc \uc778\ud504\ub77c\ubcf4\ub2e4 \uc774\ub4e4\uc744 \uc5f0\uacb0\ud558\ub294 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacc4\uce35..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 12:08:41",
       "message": "[SKIP] Irrelevant (AI Filter): Fintech app Toss, used by ~66% of South Korea's 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September (Financial Times)"
+    },
+    {
+      "timestamp": "2026-05-08 12:08:43",
+      "message": "Reprocessing: Sources: SK Hynix's big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines (Reuters)"
     }
   ]
 }
