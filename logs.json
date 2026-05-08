@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 10:56:27",
+  "last_updated": "2026-05-08 10:56:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 10:55:42",
-      "message": "Found 184 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-08 10:55:42",
       "message": "[PROCESSING] Analyzing: Sony&#8217;s PS5 sales plummet amid price rises and a memory crisis..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 10:56:27",
       "message": "Reprocessing: If You Can Make A Compute Engine, You Can Sell A Compute Engine"
+    },
+    {
+      "timestamp": "2026-05-08 10:56:29",
+      "message": "[SKIP] Content too short: If You Can Make A Compute Engi..."
     }
   ]
 }
