@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 20:14:17",
+  "last_updated": "2026-05-08 20:14:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 20:13:28",
-      "message": "Reprocessing: Investor letter: TCI, one of the world's biggest hedge funds, cut almost all of its $8B Microsoft stake, citing AI risks primarily for Office and some for Azure (Costas Mourselas/Financial Times)"
-    },
     {
       "timestamp": "2026-05-08 20:13:29",
       "message": "[PROCESSING] Analyzing: Investor letter: TCI, one of the world's biggest hedge funds, cut almost all of its $8B Microsoft stake, citing AI risks primarily for Office and some for Azure (Costas Mourselas/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 20:14:17",
       "message": "[PROCESSING] Analyzing: Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region..."
+    },
+    {
+      "timestamp": "2026-05-08 20:14:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region"
     }
   ]
 }
