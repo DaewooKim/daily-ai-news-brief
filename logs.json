@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 13:17:22",
+  "last_updated": "2026-05-08 13:17:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 13:16:40",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-08 13:16:41",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 13:17:22",
       "message": "[PROCESSING] Analyzing: Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube (Pew Research Center)..."
+    },
+    {
+      "timestamp": "2026-05-08 13:17:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube (Pew Research Center)"
     }
   ]
 }
