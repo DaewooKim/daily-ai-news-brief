@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 11:00:15",
+  "last_updated": "2026-05-08 11:00:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 10:59:33",
-      "message": "[PROCESSING] Analyzing: Datadog closed up 31%+ after reporting Q1 revenue up 32% YoY to $1B and raising its FY revenue forecast, an outlier in the software industry amid the AI boom (Mike Wheatley/SiliconANGLE)..."
-    },
     {
       "timestamp": "2026-05-08 10:59:36",
       "message": "[SUCCESS] Processed: \ub2e4\ud0c0\ub3c5, AI \ubd90 \uc18d\uc5d0\uc11c Q1 \ub9e4\ucd9c 32% \uc99d\uac00\ub85c 31% \uc774\uc0c1 \uc0c1\uc2b9\n  > Summary: \ub2e4\ud0c0\ub3c5\uc774 Q1 \ub9e4\ucd9c\uc774 \uc804\ub144 \ub300\ube44 32% \uc99d\uac00\ud55c 10\uc5b5 \ub2ec\ub7ec\ub97c \uae30\ub85d\ud558\uace0 \uc5f0\uac04 \ub9e4\ucd9c \uc804\ub9dd\uc744 \uc0c1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 11:00:15",
       "message": "[PROCESSING] Analyzing: Sony reports 1.5M PS5 unit sales in Q4, down 46% YoY, and forecasts annual sales at its gaming business to fall 6% YoY to $1.69B, amid memory chip price surge (Sam Nussey/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-08 11:00:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Sony reports 1.5M PS5 unit sales in Q4, down 46% YoY, and forecasts annual sales at its gaming business to fall 6% YoY to $1.69B, amid memory chip price surge (Sam Nussey/Reuters)"
     }
   ]
 }
