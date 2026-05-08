@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 22:30:41",
+  "last_updated": "2026-05-08 22:30:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 22:30:02",
-      "message": "[PROCESSING] Analyzing: IREN Buys Mirantis for $625M to Unlock AI Compute Utilization..."
-    },
     {
       "timestamp": "2026-05-08 22:30:05",
       "message": "[SUCCESS] Processed: IREN, 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 Mirantis \uc778\uc218\ud574 AI \ucef4\ud4e8\ud305 \ud65c\uc6a9\ub3c4 \uc99d\uac00\n  > Summary: IREN\uc740 6\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc5d0 Mirantis\ub97c \uc778\uc218\ud558\uc5ec Kubernetes \ubc0f \uae30\uc5c5 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 22:30:41",
       "message": "[PROCESSING] Analyzing: Sources: DeepSeek seeks to raise up to ~$7.3B at a $50B+ valuation in its first-ever funding round and CEO Liang Wenfeng could make a ~$2.9B personal investment (The Information)..."
+    },
+    {
+      "timestamp": "2026-05-08 22:30:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: DeepSeek seeks to raise up to ~$7.3B at a $50B+ valuation in its first-ever funding round and CEO Liang Wenfeng could make a ~$2.9B personal investment (The Information)"
     }
   ]
 }
