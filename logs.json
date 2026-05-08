@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 03:04:28",
+  "last_updated": "2026-05-08 03:04:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 03:03:45",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-08 03:03:47",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 03:04:28",
       "message": "[PROCESSING] Analyzing: Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours (CNBC)..."
+    },
+    {
+      "timestamp": "2026-05-08 03:04:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours (CNBC)"
     }
   ]
 }
