@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 23:36:19",
+  "last_updated": "2026-05-08 23:36:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 23:35:37",
-      "message": "[PROCESSING] Analyzing: Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling..."
-    },
     {
       "timestamp": "2026-05-08 23:35:41",
       "message": "[SUCCESS] Processed: NVIDIA GB200 NVL72\ub85c \uc2acurm \ube14\ub85d \uc2a4\ucf00\uc904\ub9c1\uc5d0\uc11c \uc2dc\uc2a4\ud15c \ubc0f \uc791\uc5c5 \ud6a8\uc728\uc131 \uadf9\ub300\ud654 \ub2ec\uc131\n  > Summary: NVIDIA GB200 NVL72\ub294 \uc804\uccb4 \ub799\uc5d0 \uac78\uccd0 NVIDIA NVLink \uc77c\uad00\uc131\uc744 \ud655\uc7a5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 23:36:19",
       "message": "[SUCCESS] Processed: \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ub124\ud2b8\uc6cc\ud06c\uc758 \ud574\uc81c: MRC(\ub2e4\uacbd\ub85c \uc2e0\ub8b0 \uc5f0\uacb0)\n  > Summary: OpenAI\ub294 \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ud074\ub7ec\uc2a4\ud130\uc758 \ud0c4\ub825\uc131\uacfc \uc131\ub2a5\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud574 OCP\ub97c \ud1b5\ud574 ..."
+    },
+    {
+      "timestamp": "2026-05-08 23:36:21",
+      "message": "Reprocessing: GPT-5.5 Instant: smarter, clearer, and more personalized"
     }
   ]
 }
