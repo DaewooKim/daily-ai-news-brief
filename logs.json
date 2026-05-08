@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 14:22:45",
+  "last_updated": "2026-05-08 14:22:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 14:22:06",
-      "message": "[PROCESSING] Analyzing: Apple\u2019s education discount now requires proof that you\u2019re a student..."
-    },
     {
       "timestamp": "2026-05-08 14:22:09",
       "message": "[SKIP] Irrelevant (AI Filter): Apple\u2019s education discount now requires proof that you\u2019re a student"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 14:22:45",
       "message": "Reprocessing: Microsoft Committed To Doubling AI Infrastructure In Two Years"
+    },
+    {
+      "timestamp": "2026-05-08 14:22:47",
+      "message": "[SKIP] Content too short: Microsoft Committed To Doublin..."
     }
   ]
 }
