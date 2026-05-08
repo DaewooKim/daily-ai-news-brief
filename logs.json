@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 12:05:01",
+  "last_updated": "2026-05-08 12:05:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 12:04:19",
-      "message": "Found 184 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-08 12:04:19",
       "message": "[PROCESSING] Analyzing: Apple\u2019s education discount now requires proof that you\u2019re a student..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 12:05:01",
       "message": "Reprocessing: Arista Rides AI Scale Out Networks, Moves Into Scale Across, And Awaits Scale Up"
+    },
+    {
+      "timestamp": "2026-05-08 12:05:03",
+      "message": "[SKIP] Content too short: Arista Rides AI Scale Out Netw..."
     }
   ]
 }
