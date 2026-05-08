@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 15:39:26",
+  "last_updated": "2026-05-08 15:39:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 15:38:54",
-      "message": "[SKIP] Content too short: \u2018Infrahub\u2019 maker OpsMill raise..."
-    },
     {
       "timestamp": "2026-05-08 15:38:55",
       "message": "Reprocessing: Anthropic is letting Claude agents \u2018dream\u2019 so they don\u2019t sleep on the job"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 15:39:26",
       "message": "[PROCESSING] Analyzing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released..."
+    },
+    {
+      "timestamp": "2026-05-08 15:39:29",
+      "message": "[SKIP] Irrelevant (AI Filter): PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
     }
   ]
 }
