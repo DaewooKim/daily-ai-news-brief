@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 00:50:47",
+  "last_updated": "2026-05-08 00:50:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 00:50:18",
-      "message": "Reprocessing: Anthropic to use SpaceX\u2019s Colossus 1 supercomputer for inference"
-    },
     {
       "timestamp": "2026-05-08 00:50:19",
       "message": "[SKIP] Content too short: Anthropic to use SpaceX\u2019s Colo..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 00:50:47",
       "message": "[PROCESSING] Analyzing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards..."
+    },
+    {
+      "timestamp": "2026-05-08 00:50:51",
+      "message": "[SUCCESS] Processed: AMD, \uc778\uc2a4\ud305\ud2b8 MI350P \uac00\uc18d\uae30 \ucd9c\uc2dc: CDNA 4\uac00 PCIe \uce74\ub4dc\uc5d0 \ucd94\uac00\n  > Summary: AMD\ub294 PCIe \ubc84\uc804\uc758 \uc8fc\ub825 MI350 \uac00\uc18d\uae30\uc778 MI350P\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. MI350X..."
     }
   ]
 }
