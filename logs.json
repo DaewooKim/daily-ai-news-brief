@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 19:01:24",
+  "last_updated": "2026-05-08 19:01:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 19:00:39",
-      "message": "[SUCCESS] Processed: \ucc28 \ub5a8\uc774 \uc2a4\ud0c0\ud2b8\uc5c5 Voi\uc758 \uacf5\ub3d9 \ucc3d\ub9bd\uc790\ub4e4\uc774 \uc0c8 AI \uc2a4\ud0c0\ud2b8\uc5c5 Pit\ub97c \uc124\ub9bd\ud574 \uc2a4\ud1a1\ud640\ub984\uc758 \ub5a0\uc624\ub974\ub294 \uc2a4\ud0c0\uac00 \ub418\ub2e4\n  > Summary: \uc2a4\ud0c0\ud2b8\uc5c5 Pit\ub294 \uc720\ub7fd \uc2a4\ucfe0\ud130 \ub300\uae30\uc5c5 Voi\uc758 \uacf5\ub3d9 \ucc3d\ub9bd\uc790\ub4e4\uc774 \uc774\ub04c\uace0 \uc788\uc73c\uba70, a16z\uac00 ..."
-    },
     {
       "timestamp": "2026-05-08 19:00:41",
       "message": "Reprocessing: OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 19:01:24",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
+    },
+    {
+      "timestamp": "2026-05-08 19:01:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Industrial Control Systems Manufacturer Eliminates Stockouts"
     }
   ]
 }
