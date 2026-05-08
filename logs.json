@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 15:36:28",
+  "last_updated": "2026-05-08 15:36:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 15:35:46",
-      "message": "[PROCESSING] Analyzing: Investor letter: TCI, one of the world's biggest hedge funds, cut almost all of its $8B Microsoft stake, citing AI risks primarily for Office and some for Azure (Costas Mourselas/Financial Times)..."
-    },
     {
       "timestamp": "2026-05-08 15:35:51",
       "message": "[SUCCESS] Processed: \ud22c\uc790\uc790 \uc11c\ud55c: \uc138\uacc4 \ucd5c\ub300 \ud5e4\uc9c0 \ud380\ub4dc \uc911 \ud558\ub098\uc778 TCI, AI \uc704\ud5d8\uc744 \uc774\uc720\ub85c $8B \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc9c0\ubd84 \uac70\uc758 \uc804\ub7c9 \ub9e4\uac01\n  > Summary: TCI\ub294 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc758 $8B \uc9c0\ubd84\uc744 10%\uc5d0\uc11c 1%\ub85c \uc904\uc600\uc73c\uba70, \uc8fc\ub85c \uc624\ud53c\uc2a4\uc640 \uc77c\ubd80\ub294 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 15:36:28",
       "message": "[SKIP] Irrelevant (AI Filter): Nintendo says it will increase the price of the Switch 2 globally on September 1, from $450 to $500 in the US, and the price of the original Switch in Japan (Bloomberg)"
+    },
+    {
+      "timestamp": "2026-05-08 15:36:29",
+      "message": "[PROCESSING] Analyzing: Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of health influencers are on Instagram, 62% on TikTok, and 45% on YouTube (Pew Research Center)..."
     }
   ]
 }
