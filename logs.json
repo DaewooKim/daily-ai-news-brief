@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 21:26:09",
+  "last_updated": "2026-05-08 21:26:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 21:25:36",
-      "message": "[SKIP] Content too short: MongoDB announces platform enh..."
-    },
     {
       "timestamp": "2026-05-08 21:25:38",
       "message": "Reprocessing: AI product team startup Pit raises $16M from a16z and others to automate enterprise workflows"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 21:26:09",
       "message": "[PROCESSING] Analyzing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released..."
+    },
+    {
+      "timestamp": "2026-05-08 21:26:11",
+      "message": "[SKIP] Irrelevant (AI Filter): PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
     }
   ]
 }
