@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 19:00:01",
+  "last_updated": "2026-05-08 19:00:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 18:59:15",
-      "message": "[SUCCESS] Processed: API\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \ubaa8\ub378\ub85c \uc74c\uc131 \uc9c0\ub2a5 \ubc1c\uc804\n  > Summary: OpenAI API\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uc2e4\uc2dc\uac04 \uc74c\uc131 \ubaa8\ub378\uc774 \ub4f1\uc7a5\ud558\uc5ec \ub9d0\ud558\uae30\ub97c \ucd94\ub860, \ubc88\uc5ed \ubc0f \uc804\uc0ac\ud560..."
-    },
     {
       "timestamp": "2026-05-08 18:59:17",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 19:00:01",
       "message": "[PROCESSING] Analyzing: Advancing youth safety and wellbeing in EMEA..."
+    },
+    {
+      "timestamp": "2026-05-08 19:00:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Advancing youth safety and wellbeing in EMEA"
     }
   ]
 }
