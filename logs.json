@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 13:20:37",
+  "last_updated": "2026-05-08 13:20:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 13:20:03",
-      "message": "Reprocessing: Anthropic to use SpaceX\u2019s Colossus 1 supercomputer for inference"
-    },
     {
       "timestamp": "2026-05-08 13:20:05",
       "message": "[SKIP] Content too short: Anthropic to use SpaceX\u2019s Colo..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 13:20:37",
       "message": "[PROCESSING] Analyzing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking..."
+    },
+    {
+      "timestamp": "2026-05-08 13:20:39",
+      "message": "[SKIP] Irrelevant (AI Filter): SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking"
     }
   ]
 }
