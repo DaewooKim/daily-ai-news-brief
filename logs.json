@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 12:09:36",
+  "last_updated": "2026-05-08 12:09:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 12:08:43",
-      "message": "Reprocessing: Sources: SK Hynix's big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines (Reuters)"
-    },
     {
       "timestamp": "2026-05-08 12:08:44",
       "message": "[PROCESSING] Analyzing: Sources: SK Hynix's big customers have been proposing a range of offers to secure memory chip supplies, including investing in dedicated chip production lines (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 12:09:36",
       "message": "[PROCESSING] Analyzing: STM32C5 Redefines Entry-Level Microcontroller Performance..."
+    },
+    {
+      "timestamp": "2026-05-08 12:09:38",
+      "message": "[SKIP] Irrelevant (AI Filter): STM32C5 Redefines Entry-Level Microcontroller Performance"
     }
   ]
 }
