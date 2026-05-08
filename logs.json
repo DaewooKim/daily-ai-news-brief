@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 00:47:03",
+  "last_updated": "2026-05-08 00:47:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 00:46:21",
-      "message": "[SUCCESS] Processed: AI \uac00\uc18d\uae30 \uc0ac\uc591, \ube60\ub978 \uc5c5\ub370\uc774\ud2b8 \uc18d\ub3c4 \uc720\uc9c0\n  > Summary: AI \uac00\uc18d\uae30\uc5d0 \ub300\ud55c \ud45c\uc900\uc774 \ucc98\uc74c \ubc1c\ud45c\ub41c \uc9c0 1\ub144\uc774 \ucc44 \uc9c0\ub098\uc9c0 \uc54a\uc544 \uc5c5\ub370\uc774\ud2b8\ub97c \ubc1c\ud45c\ud558\ub294 \uac83\uc740..."
-    },
     {
       "timestamp": "2026-05-08 00:46:23",
       "message": "[PROCESSING] Analyzing: Industrial Control Systems Manufacturer Eliminates Stockouts..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 00:47:03",
       "message": "[PROCESSING] Analyzing: Data Center Humidifiers: What They Do and How to Choose..."
+    },
+    {
+      "timestamp": "2026-05-08 00:47:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Data Center Humidifiers: What They Do and How to Choose"
     }
   ]
 }
