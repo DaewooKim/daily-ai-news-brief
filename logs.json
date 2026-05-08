@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 03:01:05",
+  "last_updated": "2026-05-08 03:01:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 02:59:55",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-08 03:00:25",
       "message": "Found 183 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 03:01:05",
       "message": "[SKIP] Content too short: If You Can Make A Compute Engi..."
+    },
+    {
+      "timestamp": "2026-05-08 03:01:07",
+      "message": "Reprocessing: Cleveland Clinic Simulates Large Proteins With Quantum-Centric Supercomputing"
     }
   ]
 }
