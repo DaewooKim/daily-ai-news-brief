@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 14:26:41",
+  "last_updated": "2026-05-08 14:26:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 14:25:53",
-      "message": "Reprocessing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push"
-    },
     {
       "timestamp": "2026-05-08 14:25:54",
       "message": "[PROCESSING] Analyzing: IBM Targets Enterprise AI Control Layer with \u2018Operating Model\u2019 Push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 14:26:41",
       "message": "[PROCESSING] Analyzing: Nintendo says it will increase the price of the Switch 2 globally on September 1, from $450 to $500 in the US, and the price of the original Switch in Japan (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-08 14:26:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Nintendo says it will increase the price of the Switch 2 globally on September 1, from $450 to $500 in the US, and the price of the original Switch in Japan (Bloomberg)"
     }
   ]
 }
