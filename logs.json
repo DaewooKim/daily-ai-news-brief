@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-08 01:57:25",
+  "last_updated": "2026-05-08 01:57:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-08 01:56:44",
-      "message": "[SUCCESS] Processed: SEMIFIVE\uc640 ICY Tech, \uc544\uc2dc\uc544\uc5d0\uc11c\uc758 \uc0c1\uc6a9\ud654\ub97c \ubaa9\ud45c\ub85c \ud558\ub294 8nm eMRAM \uae30\ubc18 \uc5e3\uc9c0 AI SoC\uc758 \uc131\uacf5\uc801\uc778 \ud14c\uc774\ud504 \uc544\uc6c3\uc744 \uc2e4\ud604\ud558\ub2e4\n  > Summary: SEMIFIVE\uc640 ICY Tech\ub294 \uc0bc\uc131 \ud30c\uc6b4\ub4dc\ub9ac\uc758 8nm eMRAM \uae30\uc220\uc744 \ud65c\uc6a9\ud558\uc5ec \ucc28\uc138..."
-    },
     {
       "timestamp": "2026-05-08 01:56:46",
       "message": "[PROCESSING] Analyzing: SNU Researchers Develop Battery-Free Skin-Conformal Wearable System..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-08 01:57:25",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-08 01:57:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
