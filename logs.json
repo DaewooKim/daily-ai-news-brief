@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-09 07:36:19",
+  "last_updated": "2026-05-09 07:36:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 07:35:36",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc804\ub825 \uc0ac\uc6a9 \ud6a8\uc728(PUE)\uc774\ub780?\n  > Summary: 2024\ub144 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc804\ub825 \uc18c\ube44\ub294 \uc57d 415 \ud14c\ub77c\uc640\ud2b8\uc2dc(TWh)\ub85c, \uc774\ub294 \uc804 \uc138\uacc4 \uc804\ub825..."
-    },
     {
       "timestamp": "2026-05-09 07:35:37",
       "message": "Reprocessing: AI Ascent 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-09 07:36:19",
       "message": "[PROCESSING] Analyzing: The Basics of iSIMs..."
+    },
+    {
+      "timestamp": "2026-05-09 07:36:23",
+      "message": "[SKIP] Irrelevant (AI Filter): The Basics of iSIMs"
     }
   ]
 }
