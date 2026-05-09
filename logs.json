@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-05-09 01:49:45",
+  "last_updated": "2026-05-09 01:49:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 01:49:02",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-05-09 01:49:02",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-09 01:49:15",
       "message": "Found 202 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-05-09 01:49:45",
       "message": "Reprocessing: If You Can Make A Compute Engine, You Can Sell A Compute Engine"
+    },
+    {
+      "timestamp": "2026-05-09 01:49:46",
+      "message": "[SKIP] Content too short: If You Can Make A Compute Engi..."
+    },
+    {
+      "timestamp": "2026-05-09 01:49:48",
+      "message": "Reprocessing: Cleveland Clinic Simulates Large Proteins With Quantum-Centric Supercomputing"
     }
   ]
 }
