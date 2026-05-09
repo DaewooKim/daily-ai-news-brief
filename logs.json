@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-05-09 07:32:00",
+  "last_updated": "2026-05-09 07:32:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 07:31:17",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-05-09 07:31:17",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-05-09 07:31:30",
-      "message": "Found 202 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-09 07:31:30",
       "message": "[PROCESSING] Analyzing: Asus chases Elgato with its own secondary touchscreen display..."
@@ -81,6 +69,18 @@
     {
       "timestamp": "2026-05-09 07:32:00",
       "message": "Reprocessing: If You Can Make A Compute Engine, You Can Sell A Compute Engine"
+    },
+    {
+      "timestamp": "2026-05-09 07:32:02",
+      "message": "[SKIP] Content too short: If You Can Make A Compute Engi..."
+    },
+    {
+      "timestamp": "2026-05-09 07:32:03",
+      "message": "Reprocessing: Cleveland Clinic Simulates Large Proteins With Quantum-Centric Supercomputing"
+    },
+    {
+      "timestamp": "2026-05-09 07:32:04",
+      "message": "[SKIP] Content too short: Cleveland Clinic Simulates Lar..."
     }
   ]
 }
