@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-09 15:22:49",
+  "last_updated": "2026-05-09 15:22:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 15:22:15",
-      "message": "Found 199 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-09 15:22:15",
       "message": "[PROCESSING] Analyzing: These great digital gifts will arrive just in time for Mother\u2019s Day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-09 15:22:49",
       "message": "Reprocessing: If You Can Make A Compute Engine, You Can Sell A Compute Engine"
+    },
+    {
+      "timestamp": "2026-05-09 15:22:50",
+      "message": "[SKIP] Content too short: If You Can Make A Compute Engi..."
     }
   ]
 }
