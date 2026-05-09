@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-09 22:09:12",
+  "last_updated": "2026-05-09 22:09:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 22:08:32",
-      "message": "[PROCESSING] Analyzing: What Is Power Usage Effectiveness (PUE) In Data Centers?..."
-    },
     {
       "timestamp": "2026-05-09 22:08:36",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c\uc758 \uc804\ub825 \uc0ac\uc6a9 \ud6a8\uc728\uc131(PUE)\ub780?\n  > Summary: 2024\ub144 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc804\ub825 \uc18c\ube44\ub7c9\uc740 \uc57d 415 TWh\ub85c, \uc138\uacc4 \uc804\ub825 \uc18c\ube44\uc758 \uc57d 1.5%..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-09 22:09:12",
       "message": "[PROCESSING] Analyzing: Cirrus Logic Unveils AFE ICs for Industrial Imaging..."
+    },
+    {
+      "timestamp": "2026-05-09 22:09:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Cirrus Logic Unveils AFE ICs for Industrial Imaging"
     }
   ]
 }
