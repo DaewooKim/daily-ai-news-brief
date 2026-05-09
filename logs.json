@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-05-09 05:13:31",
+  "last_updated": "2026-05-09 05:13:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 05:12:43",
-      "message": "Found 202 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-05-09 05:12:43",
-      "message": "[PROCESSING] Analyzing: Asus chases Elgato with its own secondary touchscreen display..."
-    },
     {
       "timestamp": "2026-05-09 05:12:50",
       "message": "[SKIP] Irrelevant (AI Filter): Asus chases Elgato with its own secondary touchscreen display"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-05-09 05:13:31",
       "message": "Reprocessing: Cleveland Clinic Simulates Large Proteins With Quantum-Centric Supercomputing"
+    },
+    {
+      "timestamp": "2026-05-09 05:13:32",
+      "message": "[SKIP] Content too short: Cleveland Clinic Simulates Lar..."
+    },
+    {
+      "timestamp": "2026-05-09 05:13:33",
+      "message": "Reprocessing: Broadcom Helps CPU And XPU Makers Go Vertical With Compute"
     }
   ]
 }
