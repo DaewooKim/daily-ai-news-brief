@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-09 01:53:33",
+  "last_updated": "2026-05-09 01:53:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-09 01:52:50",
-      "message": "[PROCESSING] Analyzing: What Is Power Usage Effectiveness (PUE) In Data Centers?..."
-    },
     {
       "timestamp": "2026-05-09 01:52:57",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c\uc758 \uc804\ub825 \uc0ac\uc6a9 \ud6a8\uacfc(PUE)\ub780?\n  > Summary: 2024\ub144 \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc57d 415\ud14c\ub77c\uc640\ud2b8\uc2dc(TWh)\ub97c \uc18c\ubaa8\ud558\uba70, \uc774\ub294 \uc138\uacc4 \uc804\uae30\uc758 \uc57d 1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-09 01:53:33",
       "message": "[SKIP] Irrelevant (AI Filter): STM32C5 Redefines Entry-Level Microcontroller Performance"
+    },
+    {
+      "timestamp": "2026-05-09 01:53:35",
+      "message": "Reprocessing: TDK Introduces SensorStage for Faster IMU Development"
     }
   ]
 }
