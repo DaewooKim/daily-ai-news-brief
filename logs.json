@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 21:21:04",
+  "last_updated": "2026-05-10 21:21:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 21:20:27",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c\uc758 \uc804\ub825\uc0ac\uc6a9\ud6a8\uc728(PUE)\uc774\ub780?\n  > Summary: 2024\ub144 \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc57d 415 \ud14c\ub77c\uc640\ud2b8\uc2dc(TWh)\uc758 \uc804\ub825\uc744 \uc18c\ube44\ud588\uc73c\uba70, 2030\ub144\uae4c\uc9c0..."
-    },
     {
       "timestamp": "2026-05-10 21:20:28",
       "message": "Reprocessing: AI Ascent 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 21:21:04",
       "message": "[PROCESSING] Analyzing: New Eagle Unveils Single-Controller Solution for EV Architectures..."
+    },
+    {
+      "timestamp": "2026-05-10 21:21:06",
+      "message": "[SKIP] Irrelevant (AI Filter): New Eagle Unveils Single-Controller Solution for EV Architectures"
     }
   ]
 }
