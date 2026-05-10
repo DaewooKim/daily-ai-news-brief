@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 19:06:56",
+  "last_updated": "2026-05-10 19:06:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 19:06:19",
-      "message": "[SUCCESS] Processed: API\uc758 \uc0c8\ub85c\uc6b4 \ubaa8\ub378\ub85c \uc74c\uc131 \uc778\ud154\ub9ac\uc804\uc2a4 \ubc1c\uc804\uc2dc\ud0a4\uae30\n  > Summary: OpenAI API\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uc2e4\uc2dc\uac04 \uc74c\uc131 \ubaa8\ub378\uc744 \ud0d0\ud5d8\ud558\uc2ed\uc2dc\uc624. \uc774 \ubaa8\ub378\uc740 \uc0ac\uace0, \ubc88\uc5ed \ubc0f..."
-    },
     {
       "timestamp": "2026-05-10 19:06:20",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 19:06:56",
       "message": "[PROCESSING] Analyzing: Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-05-10 19:06:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026"
     }
   ]
 }
