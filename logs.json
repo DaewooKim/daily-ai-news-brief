@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 03:38:23",
+  "last_updated": "2026-05-10 03:38:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 03:37:52",
-      "message": "[PROCESSING] Analyzing: The game that makes me actually want to exercise..."
-    },
     {
       "timestamp": "2026-05-10 03:37:54",
       "message": "[SKIP] Irrelevant (AI Filter): The game that makes me actually want to exercise"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 03:38:23",
       "message": "[PROCESSING] Analyzing: Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling..."
+    },
+    {
+      "timestamp": "2026-05-10 03:38:27",
+      "message": "[SUCCESS] Processed: NVIDIA GB200 NVL72\uc5d0\uc11c Slurm \ube14\ub85d \uc2a4\ucf00\uc904\ub9c1\uc744 \ud1b5\ud55c \uc2dc\uc2a4\ud15c \ubc0f \uc5c5\ubb34 \ud6a8\uc728 \uadf9\ub300\ud654 \ub2ec\uc131\n  > Summary: NVIDIA GB200 NVL72\ub294 GPU \ud074\ub7ec\uc2a4\ud130 \uad6c\ucd95 \ubc29\uc2dd\uc744 \ud601\uc2e0\uc801\uc73c\ub85c \ubcc0\ud654\uc2dc\ud0a4\uba70, \uc804..."
     }
   ]
 }
