@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 05:54:03",
+  "last_updated": "2026-05-10 05:54:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 05:53:26",
-      "message": "[SUCCESS] Processed: IBM, '\uc6b4\uc601 \ubaa8\ub378' \ucd94\uc9c4\uc73c\ub85c \uae30\uc5c5 AI \uc81c\uc5b4 \uacc4\uce35 \ubaa9\ud45c\n  > Summary: IBM\uc740 \ub2e4\uc74c \ub2e8\uacc4\uc758 \uae30\uc5c5 AI\uac00 \ubaa8\ub378\uacfc \uc778\ud504\ub77c\ubcf4\ub2e4 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacc4\uce35\uc5d0 \uc758\ud574 \uc815\uc758\ub420 \uac83\uc774\ub77c\uace0..."
-    },
     {
       "timestamp": "2026-05-10 05:53:27",
       "message": "[PROCESSING] Analyzing: NetBlocks: Iran's 70+ day internet blackout is \"the longest recorded national internet shutdown in a connected society\", as businesses warn of layoffs, closures (Golnar Motevalli/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 05:54:03",
       "message": "[PROCESSING] Analyzing: GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers (David Shepardson/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-10 05:54:05",
+      "message": "[SKIP] Irrelevant (AI Filter): GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers (David Shepardson/Reuters)"
     }
   ]
 }
