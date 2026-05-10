@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 20:12:04",
+  "last_updated": "2026-05-10 20:12:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 20:11:20",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-05-10 20:11:20",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 20:12:04",
       "message": "[PROCESSING] Analyzing: Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs..."
+    },
+    {
+      "timestamp": "2026-05-10 20:12:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs"
     }
   ]
 }
