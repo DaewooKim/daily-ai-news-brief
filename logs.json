@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 00:20:00",
+  "last_updated": "2026-05-10 00:20:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 00:19:26",
-      "message": "[SUCCESS] Processed: \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ub124\ud2b8\uc6cc\ud06c\uc758 \uc7a0\uae08 \ud574\uc81c: MRC (Multipath Reliable Connection)\n  > Summary: OpenAI\ub294 \ub300\uaddc\ubaa8 AI \ud6c8\ub828 \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c\uc758 \uc2e0\ub8b0\uc131\uacfc \uc131\ub2a5\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud574 OCP\ub97c \ud1b5..."
-    },
     {
       "timestamp": "2026-05-10 00:19:27",
       "message": "Reprocessing: GPT-5.5 Instant: smarter, clearer, and more personalized"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 00:20:00",
       "message": "[PROCESSING] Analyzing: OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm..."
+    },
+    {
+      "timestamp": "2026-05-10 00:20:02",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm"
     }
   ]
 }
