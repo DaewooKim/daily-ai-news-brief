@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 21:20:50",
+  "last_updated": "2026-05-10 21:20:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 21:20:11",
-      "message": "[PROCESSING] Analyzing: Google seems to require Google Play Services for passing next-gen reCAPTCHA on Android, denying de-Googled Android phones and creating surveillance issues (Rick Findlay/Reclaim The Net)..."
-    },
     {
       "timestamp": "2026-05-10 21:20:13",
       "message": "[SKIP] Irrelevant (AI Filter): Google seems to require Google Play Services for passing next-gen reCAPTCHA on Android, denying de-Googled Android phones and creating surveillance issues (Rick Findlay/Reclaim The Net)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 21:20:50",
       "message": "[PROCESSING] Analyzing: STM32C5 Redefines Entry-Level Microcontroller Performance..."
+    },
+    {
+      "timestamp": "2026-05-10 21:20:52",
+      "message": "[SKIP] Irrelevant (AI Filter): STM32C5 Redefines Entry-Level Microcontroller Performance"
     }
   ]
 }
