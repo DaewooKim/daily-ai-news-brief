@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-10 21:19:08",
+  "last_updated": "2026-05-10 21:19:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-10 21:18:30",
-      "message": "[SUCCESS] Processed: API\uc758 \uc0c8\ub85c\uc6b4 \ubaa8\ub378\ub85c \uc74c\uc131 \uc778\ud154\ub9ac\uc804\uc2a4 \ud5a5\uc0c1\n  > Summary: OpenAI API\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uc2e4\uc2dc\uac04 \uc74c\uc131 \ubaa8\ub378\uc744 \ud0d0\ud5d8\ud574 \ubcf4\uc138\uc694. \uc774 \ubaa8\ub378\uc740 \ucd94\ub860, \ubc88\uc5ed ..."
-    },
     {
       "timestamp": "2026-05-10 21:18:32",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-10 21:19:08",
       "message": "[PROCESSING] Analyzing: Laid-off Oracle workers tried to negotiate better severance. Oracle said no...."
+    },
+    {
+      "timestamp": "2026-05-10 21:19:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Laid-off Oracle workers tried to negotiate better severance. Oracle said no."
     }
   ]
 }
