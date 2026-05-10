@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-10 13:40:10",
-  "status": "idle",
+  "last_updated": "2026-05-10 14:40:40",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-10 13:38:49",
-      "message": "Reprocessing: AI data center firm IREN\u2019s stock soars after it strikes $2.1B deal with Nvidia"
+      "timestamp": "2026-05-10 14:40:27",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-10 13:38:51",
-      "message": "[SKIP] Content too short: AI data center firm IREN\u2019s sto..."
+      "timestamp": "2026-05-10 14:40:28",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-10 13:38:52",
-      "message": "Reprocessing: AWS adds agentic payment features to Amazon Bedrock AgentCore"
+      "timestamp": "2026-05-10 14:40:28",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-10 13:38:54",
-      "message": "[SKIP] Content too short: AWS adds agentic payment featu..."
+      "timestamp": "2026-05-10 14:40:40",
+      "message": "Found 177 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-10 13:38:55",
-      "message": "Reprocessing: CoreWeave ups its spending forecast as revenue guidance falls short, and its stock sinks"
-    },
-    {
-      "timestamp": "2026-05-10 13:38:56",
-      "message": "[SKIP] Content too short: CoreWeave ups its spending for..."
-    },
-    {
-      "timestamp": "2026-05-10 13:38:58",
-      "message": "Reprocessing: Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates"
-    },
-    {
-      "timestamp": "2026-05-10 13:38:59",
-      "message": "[SKIP] Content too short: Akamai shares surge 26% on $1...."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:01",
-      "message": "Reprocessing: Open-source AI developer Moonshot AI raises $2B at $20B+ valuation"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:02",
-      "message": "[SKIP] Content too short: Open-source AI developer Moons..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:04",
-      "message": "Reprocessing: Block raises 2026 outlook after first-quarter earnings beat, accelerating gross profit growth"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:05",
-      "message": "[SKIP] Content too short: Block raises 2026 outlook afte..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:07",
-      "message": "Reprocessing: Something old, something new, something borrowed, something blue: Thoughts from Arvind Krishna\u2019s keynote at IBM Think"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:08",
-      "message": "[SKIP] Content too short: Something old, something new, ..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:10",
-      "message": "Reprocessing: Cloudflare beats on earnings, but 20% AI-driven layoffs and weak guidance send shares down"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:11",
-      "message": "[SKIP] Content too short: Cloudflare beats on earnings, ..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:12",
-      "message": "Reprocessing: Quantum Motion raises $160M to build faster quantum chips"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:14",
-      "message": "[SKIP] Content too short: Quantum Motion raises $160M to..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:15",
-      "message": "Reprocessing: 9 themes defining the future of AI-driven customer engagement: Insights from Twilio\u2019s Signal event"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:17",
-      "message": "[SKIP] Content too short: 9 themes defining the future o..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:18",
-      "message": "Reprocessing: AWS and Atlassian reframe AI as an organizational challenge, not an IT one"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:19",
-      "message": "[SKIP] Content too short: AWS and Atlassian reframe AI a..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:21",
-      "message": "Reprocessing: AI factories are forcing enterprises to reimagine security from the ground up"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:22",
-      "message": "[SKIP] Content too short: AI factories are forcing enter..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:24",
-      "message": "Reprocessing: As agentic AI moves on-prem, Intel puts hardware trust at the center of enterprise security"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:25",
-      "message": "[SKIP] Content too short: As agentic AI moves on-prem, I..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:27",
-      "message": "Reprocessing: Enterprise AI deployment is creating a security blind spot traditional architectures can\u2019t handle"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:28",
-      "message": "[SKIP] Content too short: Enterprise AI deployment is cr..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:30",
-      "message": "Reprocessing: CodeWords\u00a0raises $9M to develop AI agents that automate before you ask"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:31",
-      "message": "[SKIP] Content too short: CodeWords\u00a0raises $9M to develo..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:33",
-      "message": "Reprocessing: Vibe launches Dot, a wearable AI device for capturing real-world workplace conversations"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:34",
-      "message": "[SKIP] Content too short: Vibe launches Dot, a wearable ..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:35",
-      "message": "Reprocessing: MongoDB announces platform enhancements for enterprise-ready AI production"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:37",
-      "message": "[SKIP] Content too short: MongoDB announces platform enh..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:38",
-      "message": "Reprocessing: AI product team startup Pit raises $16M from a16z and others to automate enterprise workflows"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:40",
-      "message": "[SKIP] Content too short: AI product team startup Pit ra..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:41",
-      "message": "[PROCESSING] Analyzing: Sabrent NT-P10G USB4 10GbE Network Adapter Review..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:43",
-      "message": "[SKIP] Irrelevant (AI Filter): Sabrent NT-P10G USB4 10GbE Network Adapter Review"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:45",
-      "message": "Reprocessing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:46",
-      "message": "[PROCESSING] Analyzing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:49",
-      "message": "[SUCCESS] Processed: AMD, \uc778\uc2a4\ud305\ud2b8 MI350P \uac00\uc18d\uae30 \uc18c\uac1c: PCIe \uce74\ub4dc\uc5d0 CDNA 4 \uc801\uc6a9\n  > Summary: AMD\ub294 \uc790\uc0ac\uc758 \uc8fc\ub825 MI350 \uac00\uc18d\uae30\uc778 MI350P\uc758 PCIe \ubc84\uc804\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. MI..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:51",
-      "message": "Reprocessing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:52",
-      "message": "[PROCESSING] Analyzing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released..."
-    },
-    {
-      "timestamp": "2026-05-10 13:39:54",
-      "message": "[SKIP] Irrelevant (AI Filter): PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:55",
-      "message": "Reprocessing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking"
-    },
-    {
-      "timestamp": "2026-05-10 13:39:57",
-      "message": "[PROCESSING] Analyzing: SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking..."
-    },
-    {
-      "timestamp": "2026-05-10 13:40:00",
-      "message": "[SUCCESS] Processed: SPEC \ucee8\uc18c\uc2dc\uc5c4, SPEC CPU 2026 \ubca4\uce58\ub9c8\ud06c \uc2a4\uc704\ud2b8 \ubc1c\ud45c: \ub2e4\uc74c 10\ub144\uc758 CPU \ubca4\uce58\ub9c8\ud0b9\n  > Summary: SPEC\uac00 \uc0b0\uc5c5 \ud45c\uc900 CPU \ubca4\uce58\ub9c8\ud06c\uc778 SPEC CPU 2026\uc758 \uc0c8\ub85c\uc6b4 \ubc84\uc804\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8..."
-    },
-    {
-      "timestamp": "2026-05-10 13:40:02",
-      "message": "Completed! New: 0, Updated: 50"
-    },
-    {
-      "timestamp": "2026-05-10 13:40:06",
-      "message": "Saved 50 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-10 13:40:08",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-10 14:40:40",
+      "message": "[PROCESSING] Analyzing: Cricut\u2019s $99 craft cutting machine helped me feel creative again..."
     }
   ]
 }
