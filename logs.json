@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 13:57:12",
+  "last_updated": "2026-05-11 13:57:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 13:56:29",
-      "message": "Reprocessing: Testing ads in ChatGPT"
-    },
     {
       "timestamp": "2026-05-11 13:56:31",
       "message": "[PROCESSING] Analyzing: Testing ads in ChatGPT..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 13:57:12",
       "message": "[PROCESSING] Analyzing: Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-05-11 13:57:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026"
     }
   ]
 }
