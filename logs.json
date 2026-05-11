@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 19:33:25",
+  "last_updated": "2026-05-11 19:33:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 19:32:36",
-      "message": "[SUCCESS] Processed: \uc804\ub825\uc740 AI \ub370\uc774\ud130 \uc13c\ud130 \ubd90\uc744 \uacac\uc778\ud558\uc9c0\ub9cc, \uc5f0\uacb0\uc131\uc744 \uac04\uacfc\ud574\uc11c\ub294 \uc548 \ub41c\ub2e4\n  > Summary: AI\uc758 \uc804\ub825 \uc218\uc694\ub294 \ub370\uc774\ud130 \uc13c\ud130\uc758 \ud615\ud0dc\ub97c \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\uc9c0\ub9cc, \uac15\ub825\ud55c \uad11 \uc5f0\uacb0\uc774 \uc5c6\uc73c\uba74 \uc774\ub7ec..."
-    },
     {
       "timestamp": "2026-05-11 19:32:38",
       "message": "[PROCESSING] Analyzing: Google's TIG says it has likely thwarted efforts to use AI for a \"mass exploitation event\" and warns that tools like OpenClaw are being used to find exploits (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 19:33:25",
       "message": "[PROCESSING] Analyzing: Discord launches Nitro Rewards, giving Nitro subscribers access to offers from gaming services like Xbox Game Pass and hardware like Logitech G at no extra cost (Amanda Silberling/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-05-11 19:33:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Discord launches Nitro Rewards, giving Nitro subscribers access to offers from gaming services like Xbox Game Pass and hardware like Logitech G at no extra cost (Amanda Silberling/TechCrunch)"
     }
   ]
 }
