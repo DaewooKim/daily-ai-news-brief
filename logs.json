@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 11:42:31",
+  "last_updated": "2026-05-11 11:42:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 11:41:47",
-      "message": "Reprocessing: Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling"
-    },
     {
       "timestamp": "2026-05-11 11:41:49",
       "message": "[PROCESSING] Analyzing: Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 11:42:31",
       "message": "[PROCESSING] Analyzing: Laid-off Oracle workers tried to negotiate better severance. Oracle said no...."
+    },
+    {
+      "timestamp": "2026-05-11 11:42:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Laid-off Oracle workers tried to negotiate better severance. Oracle said no."
     }
   ]
 }
