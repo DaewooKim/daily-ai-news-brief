@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 15:03:29",
+  "last_updated": "2026-05-11 15:03:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 15:02:47",
-      "message": "Found 158 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-11 15:02:47",
       "message": "[PROCESSING] Analyzing: Matter and OpenADR team up to connect smart homes to the grid..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 15:03:29",
       "message": "[PROCESSING] Analyzing: The Bastl Kalimba is a wild synth that thinks it\u2019s a thumb piano..."
+    },
+    {
+      "timestamp": "2026-05-11 15:03:31",
+      "message": "[SKIP] Irrelevant (AI Filter): The Bastl Kalimba is a wild synth that thinks it\u2019s a thumb piano"
     }
   ]
 }
