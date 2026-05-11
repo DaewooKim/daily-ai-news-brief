@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 17:20:41",
+  "last_updated": "2026-05-11 17:20:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 17:19:45",
-      "message": "[SKIP] Irrelevant (AI Filter): Venmo implements a major privacy measure, setting new users' posts to \"friends only\" by default during onboarding; in 2021, a reporter found Joe Biden's Venmo (Jay Peters/The Verge)"
-    },
     {
       "timestamp": "2026-05-11 17:19:47",
       "message": "[PROCESSING] Analyzing: Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation (Bruce Einhorn/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 17:20:41",
       "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8\uac00 \ubcd1\uc6d0 \uae30\ub85d\uacfc \uacf5\uc7a5 \uac80\uc0ac\ub97c \uc218\ud589\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc5d4\ud130\ud504\ub77c\uc774\uc988 IAM\uc740 \uc774\ub4e4\uc744 \uc704\ud574 \uc124\uacc4\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.\n  > Summary: \ubcd1\uc6d0\uc5d0\uc11c AI \uc758\ub8cc \uae30\ub85d \uc5d0\uc774\uc804\ud2b8\uac00 \uc804\uc790 \uac74\uac15 \uae30\ub85d\uc744 \uc5c5\ub370\uc774\ud2b8\ud558\uace0, \uc81c\uc57d \uc635\uc158\uc744 \uc81c\uc548\ud558\uba70,..."
+    },
+    {
+      "timestamp": "2026-05-11 17:20:42",
+      "message": "Reprocessing: AI tool poisoning exposes a major flaw in enterprise agent security"
     }
   ]
 }
