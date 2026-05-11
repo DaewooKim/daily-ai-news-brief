@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 13:57:03",
+  "last_updated": "2026-05-11 13:57:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 13:56:20",
-      "message": "[SUCCESS] Processed: OpenAI, \uae30\uc5c5\ub4e4\uc774 \uc778\uacf5\uc9c0\ub2a5\uc744 \ud65c\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d DeployCo \ucd9c\ubc94\n  > Summary: OpenAI\uac00 DeployCo\ub97c \ucd9c\ubc94\ud558\uc600\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uae30\uc5c5\ub4e4\uc774 \ucd5c\ucca8\ub2e8 \uc778\uacf5\uc9c0\ub2a5\uc744 \uc0dd\uc0b0\uc5d0 \ub3c4..."
-    },
     {
       "timestamp": "2026-05-11 13:56:22",
       "message": "Reprocessing: Advancing voice intelligence with new models in the API"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 13:57:03",
       "message": "[PROCESSING] Analyzing: Laid-off Oracle workers tried to negotiate better severance. Oracle said no...."
+    },
+    {
+      "timestamp": "2026-05-11 13:57:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Laid-off Oracle workers tried to negotiate better severance. Oracle said no."
     }
   ]
 }
