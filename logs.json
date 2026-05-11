@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 23:57:58",
+  "last_updated": "2026-05-11 23:57:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 23:57:22",
-      "message": "Found 162 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-11 23:57:22",
       "message": "[PROCESSING] Analyzing: OpenAI just released its answer to Claude Mythos..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 23:57:58",
       "message": "Reprocessing: Arista Rides AI Scale Out Networks, Moves Into Scale Across, And Awaits Scale Up"
+    },
+    {
+      "timestamp": "2026-05-11 23:57:59",
+      "message": "[SKIP] Content too short: Arista Rides AI Scale Out Netw..."
     }
   ]
 }
