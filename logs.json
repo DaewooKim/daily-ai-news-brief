@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-11 09:33:51",
-  "status": "idle",
+  "last_updated": "2026-05-11 10:34:27",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-11 09:32:15",
-      "message": "[SKIP] Content too short: Stop waiting for practical qua..."
+      "timestamp": "2026-05-11 10:34:14",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-11 09:32:16",
-      "message": "Reprocessing: When well-behaved agents trigger disaster"
+      "timestamp": "2026-05-11 10:34:15",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-11 09:32:17",
-      "message": "[SKIP] Content too short: When well-behaved agents trigg..."
+      "timestamp": "2026-05-11 10:34:15",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-11 09:32:19",
-      "message": "Reprocessing: Anthropic cozies up to Elon Musk, IBM makes its case to win in AI, and Cerebras has big IPO plans"
+      "timestamp": "2026-05-11 10:34:27",
+      "message": "Found 161 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-11 09:32:20",
-      "message": "[SKIP] Content too short: Anthropic cozies up to Elon Mu..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:22",
-      "message": "Reprocessing: Datadog\u2019s stock jumps 31% on crushing earnings beat, showing there\u2019s still hope for software"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:24",
-      "message": "[SKIP] Content too short: Datadog\u2019s stock jumps 31% on c..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:25",
-      "message": "Reprocessing: AI data center firm IREN\u2019s stock soars after it strikes $2.1B deal with Nvidia"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:27",
-      "message": "[SKIP] Content too short: AI data center firm IREN\u2019s sto..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:28",
-      "message": "Reprocessing: AWS adds agentic payment features to Amazon Bedrock AgentCore"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:30",
-      "message": "[SKIP] Content too short: AWS adds agentic payment featu..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:31",
-      "message": "Reprocessing: CoreWeave ups its spending forecast as revenue guidance falls short, and its stock sinks"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:33",
-      "message": "[SKIP] Content too short: CoreWeave ups its spending for..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:35",
-      "message": "Reprocessing: Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:36",
-      "message": "[SKIP] Content too short: Akamai shares surge 26% on $1...."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:38",
-      "message": "Reprocessing: Open-source AI developer Moonshot AI raises $2B at $20B+ valuation"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:40",
-      "message": "[SKIP] Content too short: Open-source AI developer Moons..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:41",
-      "message": "Reprocessing: Block raises 2026 outlook after first-quarter earnings beat, accelerating gross profit growth"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:43",
-      "message": "[SKIP] Content too short: Block raises 2026 outlook afte..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:44",
-      "message": "Reprocessing: Something old, something new, something borrowed, something blue: Thoughts from Arvind Krishna\u2019s keynote at IBM Think"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:46",
-      "message": "[SKIP] Content too short: Something old, something new, ..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:47",
-      "message": "Reprocessing: Cloudflare beats on earnings, but 20% AI-driven layoffs and weak guidance send shares down"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:49",
-      "message": "[SKIP] Content too short: Cloudflare beats on earnings, ..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:51",
-      "message": "Reprocessing: Quantum Motion raises $160M to build faster quantum chips"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:52",
-      "message": "[SKIP] Content too short: Quantum Motion raises $160M to..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:54",
-      "message": "Reprocessing: 9 themes defining the future of AI-driven customer engagement: Insights from Twilio\u2019s Signal event"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:56",
-      "message": "[SKIP] Content too short: 9 themes defining the future o..."
-    },
-    {
-      "timestamp": "2026-05-11 09:32:57",
-      "message": "Reprocessing: AWS and Atlassian reframe AI as an organizational challenge, not an IT one"
-    },
-    {
-      "timestamp": "2026-05-11 09:32:59",
-      "message": "[SKIP] Content too short: AWS and Atlassian reframe AI a..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:01",
-      "message": "Reprocessing: AI factories are forcing enterprises to reimagine security from the ground up"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:02",
-      "message": "[SKIP] Content too short: AI factories are forcing enter..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:04",
-      "message": "Reprocessing: As agentic AI moves on-prem, Intel puts hardware trust at the center of enterprise security"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:05",
-      "message": "[SKIP] Content too short: As agentic AI moves on-prem, I..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:07",
-      "message": "Reprocessing: Enterprise AI deployment is creating a security blind spot traditional architectures can\u2019t handle"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:09",
-      "message": "[SKIP] Content too short: Enterprise AI deployment is cr..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:10",
-      "message": "Reprocessing: CodeWords\u00a0raises $9M to develop AI agents that automate before you ask"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:12",
-      "message": "[SKIP] Content too short: CodeWords\u00a0raises $9M to develo..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:20",
-      "message": "[PROCESSING] Analyzing: The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:23",
-      "message": "[SUCCESS] Processed: \ucef4\ud30c\uc77c\ub7ec\uc758 \ud544\uc694\uc131: LLVM 22\uc5d0\uc11c SPEC CPU 2026 \uc0b4\ud3b4\ubcf4\uae30\n  > Summary: \uc774 \uae30\uc0ac\ub294 SPEC CPU 2026 \uc131\ub2a5\uc5d0\uc11c \ucef4\ud30c\uc77c\ub7ec\uc758 \uc5ed\ud560\uc5d0 \ub300\ud574 \ub2e4\ub8f9\ub2c8\ub2e4. \uc6b0\ub9ac\ub294 LL..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:25",
-      "message": "[PROCESSING] Analyzing: Sabrent NT-P10G USB4 10GbE Network Adapter Review..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:28",
-      "message": "[SKIP] Irrelevant (AI Filter): Sabrent NT-P10G USB4 10GbE Network Adapter Review"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:29",
-      "message": "Reprocessing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:31",
-      "message": "[PROCESSING] Analyzing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:35",
-      "message": "[SUCCESS] Processed: AMD, \uc778\uc2a4\ud305\ud2b8 MI350P \uac00\uc18d\uae30 \uc18c\uac1c: CDNA 4\uac00 PCIe \uce74\ub4dc\uc5d0 \uc801\uc6a9\n  > Summary: AMD\ub294 \uc790\uc0ac\uc758 \uc8fc\ub825 MI350 \uac00\uc18d\uae30\uc758 PCIe \ubc84\uc804\uc778 MI350P\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. MI..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:36",
-      "message": "Reprocessing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:37",
-      "message": "[PROCESSING] Analyzing: PCI-SIG PCIe 8.0 Specification Draft 0.5 Released..."
-    },
-    {
-      "timestamp": "2026-05-11 09:33:40",
-      "message": "[SKIP] Irrelevant (AI Filter): PCI-SIG PCIe 8.0 Specification Draft 0.5 Released"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:42",
-      "message": "Completed! New: 6, Updated: 45"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:46",
-      "message": "Saved 51 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-11 09:33:49",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-11 10:34:27",
+      "message": "[PROCESSING] Analyzing: Forza Horizon 6 has been leaked and cracked a week before its release..."
     }
   ]
 }
