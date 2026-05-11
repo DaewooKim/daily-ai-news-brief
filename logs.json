@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 18:26:17",
+  "last_updated": "2026-05-11 18:26:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 18:25:32",
-      "message": "[PROCESSING] Analyzing: Laid-off Oracle workers tried to negotiate better severance. Oracle said no...."
-    },
     {
       "timestamp": "2026-05-11 18:25:34",
       "message": "[SKIP] Irrelevant (AI Filter): Laid-off Oracle workers tried to negotiate better severance. Oracle said no."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 18:26:17",
       "message": "[PROCESSING] Analyzing: Apple releases iOS 26.5, introducing end-to-end encryption for RCS messaging in beta with supported carriers; the setting is enabled by default (Chance Miller/9to5Mac)..."
+    },
+    {
+      "timestamp": "2026-05-11 18:26:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple releases iOS 26.5, introducing end-to-end encryption for RCS messaging in beta with supported carriers; the setting is enabled by default (Chance Miller/9to5Mac)"
     }
   ]
 }
