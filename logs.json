@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 07:14:13",
+  "last_updated": "2026-05-11 07:14:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 07:13:32",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-11 07:13:32",
       "message": "[PROCESSING] Analyzing: The Bastl Kalimba is a wild synth that thinks it\u2019s a thumb piano..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 07:14:13",
       "message": "Reprocessing: Sometimes, Air Is The Only Way For AI Systems To Keep Their Cool"
+    },
+    {
+      "timestamp": "2026-05-11 07:14:14",
+      "message": "[SKIP] Content too short: Sometimes, Air Is The Only Way..."
     }
   ]
 }
