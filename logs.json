@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 02:51:04",
+  "last_updated": "2026-05-11 02:51:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 02:50:25",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c\uc758 \uc804\ub825 \uc0ac\uc6a9 \ud6a8\uc728\uc131(PUE)\uc740 \ubb34\uc5c7\uc778\uac00?\n  > Summary: 2024\ub144\uc5d0 \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc57d 415 \ud14c\ub77c\uc640\ud2b8\uc2dc(TWh)\uc758 \uc804\uae30\ub97c \uc18c\ube44\ud588\uc73c\uba70, \uc774\ub294 \uc804 \uc138..."
-    },
     {
       "timestamp": "2026-05-11 02:50:27",
       "message": "Reprocessing: AI Ascent 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 02:51:04",
       "message": "[PROCESSING] Analyzing: \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30..."
+    },
+    {
+      "timestamp": "2026-05-11 02:51:07",
+      "message": "[SKIP] Irrelevant (AI Filter): \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30"
     }
   ]
 }
