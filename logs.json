@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 22:53:03",
+  "last_updated": "2026-05-11 22:53:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 22:52:26",
-      "message": "[SUCCESS] Processed: \uc774\ub7ec\ud55c AI \uc6a9\uc5b4\ub97c \ub4e4\uc5b4\ubcf4\uc168\ub2e4\uba74; \uc774\uc81c \uadf8\uac83\uc744 \uc815\ub9ac\ud574\ubcf4\uaca0\uc2b5\ub2c8\ub2e4\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc778\ud574 \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc18d\uc5b4\uac00 \ub9ce\uc544\uc84c\uc2b5\ub2c8\ub2e4. \uc774 \uae00\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774 \ub9cc\ub0a0 \uc218 \uc788..."
-    },
     {
       "timestamp": "2026-05-11 22:52:27",
       "message": "[PROCESSING] Analyzing: Laid-off Oracle workers tried to negotiate better severance. Oracle said no...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 22:53:03",
       "message": "[PROCESSING] Analyzing: Source: Robinhood has filed confidentially for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage startups (Lucinda Shen/Axios)..."
+    },
+    {
+      "timestamp": "2026-05-11 22:53:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Robinhood has filed confidentially for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage startups (Lucinda Shen/Axios)"
     }
   ]
 }
