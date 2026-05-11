@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 23:59:25",
+  "last_updated": "2026-05-11 23:59:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 23:58:49",
-      "message": "Reprocessing: So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that"
-    },
     {
       "timestamp": "2026-05-11 23:58:51",
       "message": "[PROCESSING] Analyzing: So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 23:59:25",
       "message": "[PROCESSING] Analyzing: Several npm packages for the TanStack web development tools were compromised in the Mini Shai-Hulud supply chain attack; Mistral packages were also affected (Socket)..."
+    },
+    {
+      "timestamp": "2026-05-11 23:59:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Several npm packages for the TanStack web development tools were compromised in the Mini Shai-Hulud supply chain attack; Mistral packages were also affected (Socket)"
     }
   ]
 }
