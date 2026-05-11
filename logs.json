@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 18:25:35",
+  "last_updated": "2026-05-11 18:25:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 18:24:52",
-      "message": "[SUCCESS] Processed: NVIDIA GB200 NVL72\uc5d0\uc11c Slurm \ube14\ub85d \uc2a4\ucf00\uc904\ub9c1\uc744 \ud1b5\ud55c \uc2dc\uc2a4\ud15c \ubc0f \uc791\uc5c5 \ud6a8\uc728\uc131 \uadf9\ub300\ud654\n  > Summary: NVIDIA GB200 NVL72\ub294 GPU \ud074\ub7ec\uc2a4\ud130\ub97c \uad6c\ucd95\ud558\ub294 \uc0c8\ub85c\uc6b4 \ubc29\uc2dd\uc744 \ub3c4\uc785\ud558\uc5ec \uc804\uccb4..."
-    },
     {
       "timestamp": "2026-05-11 18:24:54",
       "message": "Reprocessing: OpenAI launches DeployCo to help businesses build around intelligence"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 18:25:35",
       "message": "[PROCESSING] Analyzing: Intel\u2019s comeback story is even wilder than it seems..."
+    },
+    {
+      "timestamp": "2026-05-11 18:25:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Intel\u2019s comeback story is even wilder than it seems"
     }
   ]
 }
