@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 14:00:18",
+  "last_updated": "2026-05-11 14:00:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 13:59:45",
-      "message": "[PROCESSING] Analyzing: \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30..."
-    },
     {
       "timestamp": "2026-05-11 13:59:47",
       "message": "[SKIP] Irrelevant (AI Filter): \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 14:00:18",
       "message": "Reprocessing: OpenAI introduces GPT\u20115.5\u2011Cyber for high-impact cybersecurity research"
+    },
+    {
+      "timestamp": "2026-05-11 14:00:20",
+      "message": "[SKIP] Content too short: OpenAI introduces GPT\u20115.5\u2011Cybe..."
     }
   ]
 }
