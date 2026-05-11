@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 15:06:36",
+  "last_updated": "2026-05-11 15:06:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 15:05:46",
-      "message": "[PROCESSING] Analyzing: SEC filing: Cerebras upsizes its IPO to 30M shares at $150-$160 each, up from 28M shares at $115-$125, aiming to raise up to $4.8B at an up to $34.4B valuation (Carmen Reinicke/Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-11 15:05:50",
       "message": "[SUCCESS] Processed: SEC \uc81c\ucd9c: Cerebras\uac00 IPO \uaddc\ubaa8\ub97c 3000\ub9cc \uc8fc\ub85c \ud655\ub300, \uc8fc\ub2f9 150~160\ub2ec\ub7ec\ub85c 28M \uc8fc\uc5d0\uc11c 115~125\ub2ec\ub7ec\ub85c \uc99d\uac00, 48\uc5b5 \ub2ec\ub7ec \ud655\ubcf4 \ubaa9\ud45c, 344\uc5b5 \ub2ec\ub7ec \uac00\uce58 \uc804\ub9dd(Carmen Reinicke/Bloomberg)\n  > Summary: Cerebras Systems Inc.\uac00 IPO\uc758 \uaddc\ubaa8\ub97c \ud655\ub300\ud558\uc5ec 3000\ub9cc \uc8fc\ub97c \uc8fc\ub2f9 1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 15:06:36",
       "message": "[PROCESSING] Analyzing: Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region..."
+    },
+    {
+      "timestamp": "2026-05-11 15:06:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region"
     }
   ]
 }
