@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 16:10:45",
+  "last_updated": "2026-05-11 16:10:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 16:10:04",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-11 16:10:04",
       "message": "[PROCESSING] Analyzing: Google stopped a zero-day hack that it says was developed with AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 16:10:45",
       "message": "Reprocessing: Sometimes, Air Is The Only Way For AI Systems To Keep Their Cool"
+    },
+    {
+      "timestamp": "2026-05-11 16:10:47",
+      "message": "[SKIP] Content too short: Sometimes, Air Is The Only Way..."
     }
   ]
 }
