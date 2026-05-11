@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 22:54:46",
+  "last_updated": "2026-05-11 22:54:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 22:53:53",
-      "message": "[PROCESSING] Analyzing: indie to Acquire CMOS Image Sensor Product Line from ams OSRAM..."
-    },
     {
       "timestamp": "2026-05-11 22:53:58",
       "message": "[SUCCESS] Processed: indie\uac00 ams OSRAM\uc73c\ub85c\ubd80\ud130 CMOS \uc774\ubbf8\uc9c0 \uc13c\uc11c \uc81c\ud488 \ub77c\uc778\uc744 \uc778\uc218\ud569\ub2c8\ub2e4\n  > Summary: indie Semiconductor\ub294 ams OSRAM AG\ub85c\ubd80\ud130 CMOS \uc774\ubbf8\uc9c0 \uc13c\uc11c \uc81c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 22:54:46",
       "message": "[PROCESSING] Analyzing: Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio..."
+    },
+    {
+      "timestamp": "2026-05-11 22:54:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio"
     }
   ]
 }
