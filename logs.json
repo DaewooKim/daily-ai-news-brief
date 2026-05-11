@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 17:20:28",
+  "last_updated": "2026-05-11 17:20:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 17:19:39",
-      "message": "[PROCESSING] Analyzing: curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was \"just a bug\" (Daniel Stenberg/daniel.haxx.se)..."
-    },
     {
       "timestamp": "2026-05-11 17:19:41",
       "message": "[SKIP] Irrelevant (AI Filter): curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was \"just a bug\" (Daniel Stenberg/daniel.haxx.se)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 17:20:28",
       "message": "[PROCESSING] Analyzing: Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region..."
+    },
+    {
+      "timestamp": "2026-05-11 17:20:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region"
     }
   ]
 }
