@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 11:44:38",
+  "last_updated": "2026-05-11 11:44:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 11:43:51",
-      "message": "Reprocessing: The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately (Himanshu Anand)"
-    },
     {
       "timestamp": "2026-05-11 11:43:52",
       "message": "[PROCESSING] Analyzing: The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately (Himanshu Anand)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 11:44:38",
       "message": "[PROCESSING] Analyzing: Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio..."
+    },
+    {
+      "timestamp": "2026-05-11 11:44:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio"
     }
   ]
 }
