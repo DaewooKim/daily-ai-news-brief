@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 21:47:11",
+  "last_updated": "2026-05-11 21:47:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 21:46:29",
-      "message": "[SUCCESS] Processed: OpenAI, \uc790\uc0b4 \uc704\ud5d8 \uc0ac\ub840\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 '\uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \uc5f0\ub77d\ucc98' \uc548\uc804 \uc7a5\uce58 \ub3c4\uc785\n  > Summary: OpenAI\ub294 \ub300\ud654\uac00 \uc790\uc0b4 \uc704\ud5d8\uc73c\ub85c \uc774\uc5b4\uc9c8 \uc218 \uc788\ub294 \uacbd\uc6b0 ChatGPT \uc0ac\uc6a9\uc790\ub97c \ubcf4\ud638\ud558\uae30 ..."
-    },
     {
       "timestamp": "2026-05-11 21:46:30",
       "message": "[PROCESSING] Analyzing: How BSC Contributes to Europe\u2019s Hybrid Quantum Strategy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 21:47:11",
       "message": "[PROCESSING] Analyzing: curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was \"just a bug\" (Daniel Stenberg/daniel.haxx.se)..."
+    },
+    {
+      "timestamp": "2026-05-11 21:47:13",
+      "message": "[SKIP] Irrelevant (AI Filter): curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was \"just a bug\" (Daniel Stenberg/daniel.haxx.se)"
     }
   ]
 }
