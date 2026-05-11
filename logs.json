@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-11 06:07:29",
+  "last_updated": "2026-05-11 06:07:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-11 06:06:48",
-      "message": "[PROCESSING] Analyzing: Let it snow..."
-    },
     {
       "timestamp": "2026-05-11 06:06:50",
       "message": "[SKIP] Irrelevant (AI Filter): Let it snow"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-11 06:07:29",
       "message": "[SUCCESS] Processed: API\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \ubaa8\ub378\ub85c \uc74c\uc131 \uc778\ud154\ub9ac\uc804\uc2a4 \ud5a5\uc0c1\n  > Summary: OpenAI API\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uc2e4\uc2dc\uac04 \uc74c\uc131 \ubaa8\ub378\uc744 \uc0b4\ud3b4\ubcf4\uc2ed\uc2dc\uc624. \uc774 \ubaa8\ub378\uc740 \ucd94\ub860, \ubc88\uc5ed \ubc0f..."
+    },
+    {
+      "timestamp": "2026-05-11 06:07:31",
+      "message": "Reprocessing: Testing ads in ChatGPT"
     }
   ]
 }
