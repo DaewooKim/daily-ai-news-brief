@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 17:56:56",
+  "last_updated": "2026-05-12 17:56:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 17:55:59",
-      "message": "[SUCCESS] Processed: OpenAI, \ube44\uc988\ub2c8\uc2a4\uac00 \uc778\ud154\ub9ac\uc804\uc2a4\ub97c \uc911\uc2ec\uc73c\ub85c \uad6c\ucd95\ud558\ub3c4\ub85d \ub3d5\uae30 \uc704\ud574 DeployCo\ub97c \uc2dc\uc791\ud558\ub2e4\n  > Summary: OpenAI\ub294 \uc0c8\ub85c\uc6b4 \uae30\uc5c5 \ubc30\ud3ec \ud68c\uc0ac\uc778 DeployCo\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac\ub294 \uc870\uc9c1\uc774 ..."
-    },
     {
       "timestamp": "2026-05-12 17:56:02",
       "message": "[PROCESSING] Analyzing: Anthropic warns investors against secondary platforms offering access to its shares..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 17:56:56",
       "message": "[PROCESSING] Analyzing: Get ready for the whisper-filled office of the future..."
+    },
+    {
+      "timestamp": "2026-05-12 17:56:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Get ready for the whisper-filled office of the future"
     }
   ]
 }
