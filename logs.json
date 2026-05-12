@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 08:55:56",
+  "last_updated": "2026-05-12 08:55:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 08:55:15",
-      "message": "Reprocessing: AI Ascent 2026"
-    },
     {
       "timestamp": "2026-05-12 08:55:16",
       "message": "[PROCESSING] Analyzing: AI Ascent 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 08:55:56",
       "message": "[PROCESSING] Analyzing: STM32C5 Redefines Entry-Level Microcontroller Performance..."
+    },
+    {
+      "timestamp": "2026-05-12 08:55:58",
+      "message": "[SKIP] Irrelevant (AI Filter): STM32C5 Redefines Entry-Level Microcontroller Performance"
     }
   ]
 }
