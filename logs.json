@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 13:25:06",
+  "last_updated": "2026-05-12 13:25:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 13:24:12",
-      "message": "[SUCCESS] Processed: AI \uac00\uc18d\uae30 \ud14c\uc2a4\ud2b8\ub294 DFT \ud601\uc2e0\uc5d0 \uc758\uc874\ud569\ub2c8\ub2e4\n  > Summary: AI \uce69\uc5d0\uc11c \uac00\uc18d\uae30\uc758 \ud655\uc0b0\uc774 \ud14c\uc2a4\ud2b8 \ud504\ub85c\uc138\uc2a4\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\uace0 \uc788\uc73c\uba70, \uc774\ub294 \ub354 \ub9ce\uc740 \ud14c\uc2a4\ud2b8..."
-    },
     {
       "timestamp": "2026-05-12 13:24:13",
       "message": "[PROCESSING] Analyzing: Advanced Metrology for Backside Metallization Using Picosecond Laser Ultrasonics..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 13:25:06",
       "message": "[PROCESSING] Analyzing: LPWAN for IIoT: A Technical Comparison of LoRaWAN and NB-IoT..."
+    },
+    {
+      "timestamp": "2026-05-12 13:25:08",
+      "message": "[SKIP] Irrelevant (AI Filter): LPWAN for IIoT: A Technical Comparison of LoRaWAN and NB-IoT"
     }
   ]
 }
