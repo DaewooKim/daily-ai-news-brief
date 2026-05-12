@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 00:01:29",
+  "last_updated": "2026-05-12 00:01:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 00:00:25",
-      "message": "[PROCESSING] Analyzing: indie to Acquire CMOS Image Sensor Product Line from ams OSRAM..."
-    },
     {
       "timestamp": "2026-05-12 00:00:33",
       "message": "[SUCCESS] Processed: indie, ams OSRAM\uc73c\ub85c\ubd80\ud130 CMOS \uc774\ubbf8\uc9c0 \uc13c\uc11c \uc81c\ud488\uad70 \uc778\uc218 \uc608\uc815\n  > Summary: indie Semiconductor\uac00 ams OSRAM AG\ub85c\ubd80\ud130 CMOS \uc774\ubbf8\uc9c0 \uc13c\uc11c \uc81c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 00:01:29",
       "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio"
+    },
+    {
+      "timestamp": "2026-05-12 00:01:31",
+      "message": "Reprocessing: STM32C5 Redefines Entry-Level Microcontroller Performance"
     }
   ]
 }
