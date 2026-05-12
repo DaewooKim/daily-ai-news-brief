@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 19:06:58",
+  "last_updated": "2026-05-12 19:07:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 19:06:12",
-      "message": "[PROCESSING] Analyzing: Google says it is hiring a team of \"forward deployed engineers\", a source says in the hundreds, to help customers use its business-focused AI products (Erin Woo/The Information)..."
-    },
     {
       "timestamp": "2026-05-12 19:06:17",
       "message": "[SUCCESS] Processed: \uad6c\uae00, \uace0\uac1d\uc774 \ube44\uc988\ub2c8\uc2a4 \uc911\uc2ec AI \uc81c\ud488\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d '\uc804\ubc29 \ubc30\uce58 \uc5d4\uc9c0\ub2c8\uc5b4' \ud300 \uc218\ubc31 \uba85\uc744 \ucc44\uc6a9\ud55c\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: \uad6c\uae00\uc740 \ube44\uc988\ub2c8\uc2a4 \uc911\uc2ec AI \uc81c\ud488\uc744 \uace0\uac1d\uc774 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \ub3d5\uae30 \uc704\ud574 \uc218\ubc31 \uba85\uc758 '\uc804\ubc29 \ubc30..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 19:06:58",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Google is in talks with SpaceX and other companies for a rocket launch deal, as Google expands its own efforts to put orbital data centers in space (Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-05-12 19:07:00",
+      "message": "Reprocessing: Silicon Photonics: Integrated Grating-Based Antennas for Optical Phased Arrays (MIT)"
     }
   ]
 }
