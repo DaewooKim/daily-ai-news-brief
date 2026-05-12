@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 11:09:59",
+  "last_updated": "2026-05-12 11:10:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 11:09:06",
-      "message": "[SUCCESS] Processed: AI \uac00\uc18d\uae30 \ud14c\uc2a4\ud2b8\ub294 DFT \ud601\uc2e0\uc5d0 \uc758\uc874\ud55c\ub2e4\n  > Summary: AI \uce69\uc758 \uac00\uc18d\uae30 \ud14c\uc2a4\ud2b8\ub294 \uc218\ud655\ub7c9 \uac1c\uc120\uc744 \uc704\ud574 I/O \ubc0f \ub808\uc778 \uc218\ub9ac \uae30\ub2a5\uc774 \uc911\uc694\ud574\uc9c0\uace0 \uc788\uc2b5..."
-    },
     {
       "timestamp": "2026-05-12 11:09:08",
       "message": "[PROCESSING] Analyzing: Advanced Metrology for Backside Metallization Using Picosecond Laser Ultrasonics..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 11:09:59",
       "message": "[PROCESSING] Analyzing: Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio..."
+    },
+    {
+      "timestamp": "2026-05-12 11:10:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio"
     }
   ]
 }
