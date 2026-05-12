@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 04:27:11",
+  "last_updated": "2026-05-12 04:27:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 04:26:28",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: OpenAI\uc758 \uc9c0\ubd88\uc744 380\uc5b5 \ub2ec\ub7ec\ub85c \uc81c\ud55c\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc218\uc775 \uacf5\uc720 \uc870\uac74; \uc7a5\uae30 \ubaa9\ud45c\ub97c \ub2ec\uc131\ud588\ub2e4\uba74 2030\ub144\uae4c\uc9c0 1350\uc5b5 \ub2ec\ub7ec\uc5d0 \uc774\ub97c \uc218 \uc788\uc5c8\uc2b5\ub2c8\ub2e4 (\ub354 \uc815\ubcf4)\n  > Summary: OpenAI\uc758 \uc0c8\ub85c\uc6b4 \uc218\uc775 \uacf5\uc720 \uc870\uac74\uc740 Microsoft\uc5d0 \ub300\ud55c \uc9c0\ubd88\uc744 380\uc5b5 \ub2ec\ub7ec\ub85c \uc81c..."
-    },
     {
       "timestamp": "2026-05-12 04:26:29",
       "message": "[PROCESSING] Analyzing: Many npm packages for Mistral, UiPath, TanStack's web dev tools like react-router, and more were compromised, likely in the Mini Shai-Hulud supply chain attack (Socket)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 04:27:11",
       "message": "[PROCESSING] Analyzing: KAIST Demonstrates Ultralow-Noise Microwave and Millimeter-Wave Signal Generation Using Microcomb-based Photonic Chip..."
+    },
+    {
+      "timestamp": "2026-05-12 04:27:15",
+      "message": "[SKIP] Irrelevant (AI Filter): KAIST Demonstrates Ultralow-Noise Microwave and Millimeter-Wave Signal Generation Using Microcomb-based Photonic Chip"
     }
   ]
 }
