@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 01:05:34",
+  "last_updated": "2026-05-12 01:05:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 01:04:40",
-      "message": "[PROCESSING] Analyzing: 7 of our favorite deals from Amazon\u2019s Pet Days sale..."
-    },
     {
       "timestamp": "2026-05-12 01:04:43",
       "message": "[SKIP] Irrelevant (AI Filter): 7 of our favorite deals from Amazon\u2019s Pet Days sale"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 01:05:34",
       "message": "[SUCCESS] Processed: OpenAI, \uae30\uc5c5\ub4e4\uc774 \uc778\uacf5\uc9c0\ub2a5\uc744 \ud65c\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d DeployCo\ub97c \ucd9c\uc2dc\ud558\ub2e4\n  > Summary: OpenAI\ub294 DeployCo\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uae30\uc5c5 \ubc30\ud3ec \ud68c\uc0ac\ub97c \ucd9c\ubc94\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac\ub294 \uc870\uc9c1\ub4e4..."
+    },
+    {
+      "timestamp": "2026-05-12 01:05:36",
+      "message": "Reprocessing: Advancing voice intelligence with new models in the API"
     }
   ]
 }
