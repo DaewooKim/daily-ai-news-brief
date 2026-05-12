@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 03:20:12",
+  "last_updated": "2026-05-12 03:20:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 03:19:33",
-      "message": "[PROCESSING] Analyzing: So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that..."
-    },
     {
       "timestamp": "2026-05-12 03:19:37",
       "message": "[SUCCESS] Processed: AI \uc6a9\uc5b4\ub97c \ub4e4\uc5b4\ubd24\ub2e4\uba74, \uc774\uc81c \uadf8\uac78 \ud574\uacb0\ud558\uc790\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc18d\uc5b4\uac00 \ubc94\ub78c\ud558\uace0 \uc788\ub2e4. \uc774 \uae00\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774 \uc811\ud560 \uc218 \uc788\ub294 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 03:20:12",
       "message": "[SKIP] Irrelevant (AI Filter): AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-05-12 03:20:14",
+      "message": "Reprocessing: Source: new revenue sharing terms cap OpenAI's payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met (The Information)"
     }
   ]
 }
