@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 07:46:46",
+  "last_updated": "2026-05-12 07:46:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 07:46:05",
-      "message": "[PROCESSING] Analyzing: Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026..."
-    },
     {
       "timestamp": "2026-05-12 07:46:07",
       "message": "[SKIP] Irrelevant (AI Filter): Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 07:46:46",
       "message": "[PROCESSING] Analyzing: Many npm packages for Mistral, UiPath, TanStack's web dev tools like react-router, and more were compromised, likely in the Mini Shai-Hulud supply chain attack (Socket)..."
+    },
+    {
+      "timestamp": "2026-05-12 07:46:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Many npm packages for Mistral, UiPath, TanStack's web dev tools like react-router, and more were compromised, likely in the Mini Shai-Hulud supply chain attack (Socket)"
     }
   ]
 }
