@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 16:46:12",
+  "last_updated": "2026-05-12 16:46:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 16:44:59",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-05-12 16:44:59",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 16:46:12",
       "message": "[PROCESSING] Analyzing: Amazon\u2019s ultrafast 30-minute deliveries are now available in more cities..."
+    },
+    {
+      "timestamp": "2026-05-12 16:46:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon\u2019s ultrafast 30-minute deliveries are now available in more cities"
     }
   ]
 }
