@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 15:40:22",
+  "last_updated": "2026-05-12 15:40:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 15:39:32",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd: \uc74c\uc131 \ud544\uae30 \ub3c4\uad6c Wispr Flow \uac1c\ubc1c\uc0ac Wispr AI, \uac00\uce58 20\uc5b5 \ub2ec\ub7ec\ub85c \ub450 \ubc30 \uc774\uc0c1 \uc0c1\uc2b9\ud560 \uc218 \uc788\ub294 \uc57d 2\uc5b5 6000\ub9cc \ub2ec\ub7ec \uc790\uae08 \uc870\ub2ec \ub17c\uc758 \uc911 (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: Wispr AI\ub294 \uc778\uae30 \uc788\ub294 \uc74c\uc131 \ud544\uae30 \ub3c4\uad6c Wispr Flow\uc758 \uac1c\ubc1c\uc0ac\ub85c, \uc0c8 \uc790\uae08 \uc870\ub2ec..."
-    },
     {
       "timestamp": "2026-05-12 15:39:33",
       "message": "[PROCESSING] Analyzing: SAP launches its new Autonomous Enterprise software suite, integrating data, cloud, AI, and automation features to streamline business processes (Mauro Orru/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 15:40:22",
       "message": "[PROCESSING] Analyzing: Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia's e-commerce market (Olivia Poh/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-12 15:40:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia's e-commerce market (Olivia Poh/Bloomberg)"
     }
   ]
 }
