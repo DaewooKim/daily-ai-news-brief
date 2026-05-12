@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 08:55:11",
+  "last_updated": "2026-05-12 08:55:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 08:54:30",
-      "message": "[PROCESSING] Analyzing: A Hollywood writer recounts working as an \"AI trainer\" for companies like Mercor, as AI gig work becomes the \"new waiting tables\" for entertainment workers (Ruth Fowler/Wired)..."
-    },
     {
       "timestamp": "2026-05-12 08:54:34",
       "message": "[SUCCESS] Processed: \ud560\ub9ac\uc6b0\ub4dc \uc791\uac00, 'AI \ud2b8\ub808\uc774\ub108'\ub85c \uc77c\ud55c \uacbd\ud5d8\uc744 \ud68c\uc0c1\ud558\ub2e4, AI \uae30\uae30 \uc791\uc5c5\uc774 \uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \ub178\ub3d9\uc790\ub4e4\uc758 '\uc0c8\ub85c\uc6b4 \ud14c\uc774\ube14 \uae30\ub2e4\ub9bc'\uc774 \ub41c\ub2e4\n  > Summary: \ud560\ub9ac\uc6b0\ub4dc \uc791\uac00\ub294 Mercor\uc640 \uac19\uc740 \ud68c\uc0ac\uc758 'AI \ud2b8\ub808\uc774\ub108'\ub85c \uc77c\ud55c \uacbd\ud5d8\uc744 \uacf5\uc720\ud558\uba70, AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 08:55:11",
       "message": "[PROCESSING] Analyzing: Advanced Metrology for Backside Metallization Using Picosecond Laser Ultrasonics..."
+    },
+    {
+      "timestamp": "2026-05-12 08:55:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Metrology for Backside Metallization Using Picosecond Laser Ultrasonics"
     }
   ]
 }
