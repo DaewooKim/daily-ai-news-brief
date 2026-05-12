@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 12:14:55",
+  "last_updated": "2026-05-12 12:14:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 12:14:16",
-      "message": "[PROCESSING] Analyzing: GM just laid off hundreds of IT workers to hire those with stronger AI skills..."
-    },
     {
       "timestamp": "2026-05-12 12:14:20",
       "message": "[SUCCESS] Processed: GM just laid off hundreds of IT workers to hire those with stronger AI skills\n  > Summary: GM\uc740 \uc778\uacf5\uc9c0\ub2a5 \uae30\uc220\uc5d0 \ub300\ud55c \uac15\uc870\ub85c \uc218\ubc31 \uba85\uc758 IT \uc9c1\uc6d0\uc744 \ud574\uace0\ud558\uace0 \ub354 \uac15\ub825\ud55c AI \uae30\uc220\uc744..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 12:14:55",
       "message": "[PROCESSING] Analyzing: HVO: The Case for Rethinking Data Center Generator Fuel..."
+    },
+    {
+      "timestamp": "2026-05-12 12:14:58",
+      "message": "[SKIP] Irrelevant (AI Filter): HVO: The Case for Rethinking Data Center Generator Fuel"
     }
   ]
 }
