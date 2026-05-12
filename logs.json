@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-12 03:20:10",
+  "last_updated": "2026-05-12 03:20:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-12 03:19:32",
-      "message": "Reprocessing: So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that"
-    },
     {
       "timestamp": "2026-05-12 03:19:33",
       "message": "[PROCESSING] Analyzing: So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-12 03:20:10",
       "message": "[PROCESSING] Analyzing: AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-05-12 03:20:12",
+      "message": "[SKIP] Irrelevant (AI Filter): AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)"
     }
   ]
 }
