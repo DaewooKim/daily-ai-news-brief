@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-12 07:51:29",
-  "status": "idle",
+  "last_updated": "2026-05-12 08:52:02",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-12 07:50:01",
-      "message": "Reprocessing: Google says criminals used AI to build a working zero-day exploit for the first time"
+      "timestamp": "2026-05-12 08:51:49",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-12 07:50:03",
-      "message": "[SKIP] Content too short: Google says criminals used AI ..."
+      "timestamp": "2026-05-12 08:51:50",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-12 07:50:04",
-      "message": "Reprocessing: Imaging tech startup eyeo raises \u20ac40M to try to show the world in a very different light"
+      "timestamp": "2026-05-12 08:51:50",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-12 07:50:06",
-      "message": "[SKIP] Content too short: Imaging tech startup eyeo rais..."
+      "timestamp": "2026-05-12 08:52:02",
+      "message": "Found 160 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-12 07:50:07",
-      "message": "Reprocessing: Report: AI chipmaker Cerebras to increase IPO price target amid surging investor demand"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:09",
-      "message": "[SKIP] Content too short: Report: AI chipmaker Cerebras ..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:11",
-      "message": "Reprocessing: Nvidia, AI factories and the transition to accelerated computing"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:12",
-      "message": "[SKIP] Content too short: Nvidia, AI factories and the t..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:14",
-      "message": "Reprocessing: AIR, ARR and AI: Inside RingCentral\u2019s transformation into an AI-first engagement platform"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:15",
-      "message": "[SKIP] Content too short: AIR, ARR and AI: Inside RingCe..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:17",
-      "message": "Reprocessing: Alphabet\u2019s Isomorphic Labs reportedly raising $2B+ for its medical research AI"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:18",
-      "message": "[SKIP] Content too short: Alphabet\u2019s Isomorphic Labs rep..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:20",
-      "message": "Reprocessing: Intel shares jump on reported chip production deal with Apple"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:22",
-      "message": "[SKIP] Content too short: Intel shares jump on reported ..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:23",
-      "message": "Reprocessing: Three insights you might have missed from theCUBE\u2019s coverage of Appian World"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:25",
-      "message": "[SKIP] Content too short: Three insights you might have ..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:26",
-      "message": "Reprocessing: OpenAI introduces GPT\u20115.5\u2011Cyber for high-impact cybersecurity research"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:28",
-      "message": "[SKIP] Content too short: OpenAI introduces GPT\u20115.5\u2011Cybe..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:30",
-      "message": "Reprocessing: Red Hat brings AI, virtualization and hybrid cloud under one platform"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:31",
-      "message": "[SKIP] Content too short: Red Hat brings AI, virtualizat..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:33",
-      "message": "Reprocessing: What to expect at the AWS Financial Services Symposium: Watch theCUBE\u2019s exclusive on-demand coverage starting May 11"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:34",
-      "message": "[SKIP] Content too short: What to expect at the AWS Fina..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:35",
-      "message": "Reprocessing: 15 signals defining the future of human-AI collaboration: Insights from the Atlassian Team event"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:37",
-      "message": "[SKIP] Content too short: 15 signals defining the future..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:39",
-      "message": "Reprocessing: Stop waiting for practical quantum computers, says Q-CTRL CEO \u2013 they\u2019re already here"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:40",
-      "message": "[SKIP] Content too short: Stop waiting for practical qua..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:42",
-      "message": "Reprocessing: When well-behaved agents trigger disaster"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:43",
-      "message": "[SKIP] Content too short: When well-behaved agents trigg..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:45",
-      "message": "Reprocessing: Anthropic cozies up to Elon Musk, IBM makes its case to win in AI, and Cerebras has big IPO plans"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:46",
-      "message": "[SKIP] Content too short: Anthropic cozies up to Elon Mu..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:48",
-      "message": "Reprocessing: Datadog\u2019s stock jumps 31% on crushing earnings beat, showing there\u2019s still hope for software"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:50",
-      "message": "[SKIP] Content too short: Datadog\u2019s stock jumps 31% on c..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:52",
-      "message": "Reprocessing: AI data center firm IREN\u2019s stock soars after it strikes $2.1B deal with Nvidia"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:53",
-      "message": "[SKIP] Content too short: AI data center firm IREN\u2019s sto..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:55",
-      "message": "Reprocessing: AWS adds agentic payment features to Amazon Bedrock AgentCore"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:56",
-      "message": "[SKIP] Content too short: AWS adds agentic payment featu..."
-    },
-    {
-      "timestamp": "2026-05-12 07:50:57",
-      "message": "Reprocessing: CoreWeave ups its spending forecast as revenue guidance falls short, and its stock sinks"
-    },
-    {
-      "timestamp": "2026-05-12 07:50:59",
-      "message": "[SKIP] Content too short: CoreWeave ups its spending for..."
-    },
-    {
-      "timestamp": "2026-05-12 07:51:01",
-      "message": "Reprocessing: Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates"
-    },
-    {
-      "timestamp": "2026-05-12 07:51:02",
-      "message": "[SKIP] Content too short: Akamai shares surge 26% on $1...."
-    },
-    {
-      "timestamp": "2026-05-12 07:51:04",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch..."
-    },
-    {
-      "timestamp": "2026-05-12 07:51:06",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch"
-    },
-    {
-      "timestamp": "2026-05-12 07:51:08",
-      "message": "[PROCESSING] Analyzing: Sabrent NT-P10G USB4 10GbE Network Adapter Review..."
-    },
-    {
-      "timestamp": "2026-05-12 07:51:10",
-      "message": "[SKIP] Irrelevant (AI Filter): Sabrent NT-P10G USB4 10GbE Network Adapter Review"
-    },
-    {
-      "timestamp": "2026-05-12 07:51:11",
-      "message": "Reprocessing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards"
-    },
-    {
-      "timestamp": "2026-05-12 07:51:13",
-      "message": "[PROCESSING] Analyzing: AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards..."
-    },
-    {
-      "timestamp": "2026-05-12 07:51:18",
-      "message": "[SUCCESS] Processed: AMD, PCIe \uce74\ub4dc\uc6a9 Instinct MI350P \uac00\uc18d\uae30 \ucd9c\uc2dc: CDNA 4\uac00 PCIe \uce74\ub4dc\ub85c \ucd9c\uc2dc\n  > Summary: AMD\ub294 \uc790\uc0ac\uc758 \ud50c\ub798\uadf8\uc2ed MI350 \uac00\uc18d\uae30\uc758 PCIe \ubc84\uc804\uc778 MI350P\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. ..."
-    },
-    {
-      "timestamp": "2026-05-12 07:51:20",
-      "message": "Completed! New: 8, Updated: 47"
-    },
-    {
-      "timestamp": "2026-05-12 07:51:24",
-      "message": "Saved 55 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-12 07:51:27",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-12 08:52:02",
+      "message": "[PROCESSING] Analyzing: Sony upgraded its wearable AC so it\u2019s cooler and better at hugging your neck..."
     }
   ]
 }
