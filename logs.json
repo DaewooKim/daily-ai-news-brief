@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 09:30:07",
+  "last_updated": "2026-05-13 09:30:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 09:29:19",
-      "message": "Reprocessing: Silicon Photonics: Integrated Grating-Based Antennas for Optical Phased Arrays (MIT)"
-    },
     {
       "timestamp": "2026-05-13 09:29:21",
       "message": "[PROCESSING] Analyzing: Silicon Photonics: Integrated Grating-Based Antennas for Optical Phased Arrays (MIT)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 09:30:07",
       "message": "[PROCESSING] Analyzing: LPWAN for IIoT: A Technical Comparison of LoRaWAN and NB-IoT..."
+    },
+    {
+      "timestamp": "2026-05-13 09:30:10",
+      "message": "[SKIP] Irrelevant (AI Filter): LPWAN for IIoT: A Technical Comparison of LoRaWAN and NB-IoT"
     }
   ]
 }
