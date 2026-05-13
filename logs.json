@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 02:51:38",
+  "last_updated": "2026-05-13 02:51:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 02:51:00",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-13 02:51:00",
       "message": "[PROCESSING] Analyzing: Sony\u2019s new Xperia phone gets an overdue redesign..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 02:51:38",
       "message": "[PROCESSING] Analyzing: How finance teams use Codex..."
+    },
+    {
+      "timestamp": "2026-05-13 02:51:41",
+      "message": "[SKIP] Irrelevant (AI Filter): How finance teams use Codex"
     }
   ]
 }
