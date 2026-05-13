@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 03:57:31",
+  "last_updated": "2026-05-13 03:57:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 03:56:54",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-13 03:56:54",
       "message": "[PROCESSING] Analyzing: Sam Altman was winning on the stand, but it might not be enough..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 03:57:31",
       "message": "[SKIP] Irrelevant (AI Filter): How finance teams use Codex"
+    },
+    {
+      "timestamp": "2026-05-13 03:57:32",
+      "message": "Reprocessing: How NVIDIA engineers and researchers build with Codex"
     }
   ]
 }
