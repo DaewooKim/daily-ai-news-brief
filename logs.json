@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 14:58:40",
+  "last_updated": "2026-05-13 14:58:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 14:58:01",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-13 14:58:01",
       "message": "[PROCESSING] Analyzing: Swatch\u2019s latest luxury collaboration is a $400 pocket watch..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 14:58:40",
       "message": "Reprocessing: OpenAI, Microsoft And Friends Build A Better, More Scalable Ethernet"
+    },
+    {
+      "timestamp": "2026-05-13 14:58:42",
+      "message": "[SKIP] Content too short: OpenAI, Microsoft And Friends ..."
     }
   ]
 }
