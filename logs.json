@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 16:10:43",
+  "last_updated": "2026-05-13 16:10:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 16:10:09",
-      "message": "[PROCESSING] Analyzing: \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30..."
-    },
     {
       "timestamp": "2026-05-13 16:10:11",
       "message": "[SKIP] Irrelevant (AI Filter): \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 16:10:43",
       "message": "Reprocessing: Veeam introduces new backup management, cybersecurity features"
+    },
+    {
+      "timestamp": "2026-05-13 16:10:45",
+      "message": "[SKIP] Content too short: Veeam introduces new backup ma..."
     }
   ]
 }
