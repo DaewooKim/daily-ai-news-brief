@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 18:22:54",
+  "last_updated": "2026-05-13 18:23:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 18:21:55",
-      "message": "[SUCCESS] Processed: \ucc28\uc138\ub300 \ud1b5\ud569 \uc804\uc555 \uc870\uc808\uae30: \ub2e4\uce35 \uc804\ub825 \uc778\ub355\ud130 \ubc0f \uc138\ub77c\ubbf9 \ucee4\ud328\uc2dc\ud130\n  > Summary: \uc778\uacf5\uc9c0\ub2a5 \ubc0f GPU\uc758 \uc804\ub825 \uc218\uc694\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uae30\uc874\uc758 \uc804\ub825 \uacf5\uae09 \uad6c\uc870\ub294 \uc694\uad6c\ub418\ub294 \uc804\ub825 ..."
-    },
     {
       "timestamp": "2026-05-13 18:21:57",
       "message": "[PROCESSING] Analyzing: Live GPU Rental Listings Point to Early Price Compression..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 18:22:54",
       "message": "[PROCESSING] Analyzing: The FTC says Shutterstock will pay $35M to settle charges that Shutterstock misled consumers about its subscription plans and made it too difficult to cancel (Jonathan Stempel/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-13 18:23:01",
+      "message": "[SKIP] Irrelevant (AI Filter): The FTC says Shutterstock will pay $35M to settle charges that Shutterstock misled consumers about its subscription plans and made it too difficult to cancel (Jonathan Stempel/Reuters)"
     }
   ]
 }
