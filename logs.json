@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 23:55:57",
+  "last_updated": "2026-05-13 23:56:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 23:55:05",
-      "message": "[SUCCESS] Processed: \uc2e4\ub9ac\ucf58 \uad11\uc790: \uad11\ud559 \uc704\uc0c1 \ubc30\uc5f4\uc744 \uc704\ud55c \ud1b5\ud569 \uaca9\uc790 \uae30\ubc18 \uc548\ud14c\ub098 (MIT)\n  > Summary: MIT\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \"\uadf8\ub808\uc774\ud305 \ub85c\ube0c \uc5c6\ub294 \uad11\uc7a5\uacfc \ub113\uc740 \uc2dc\uc57c\ub97c \uc704\ud55c \ud1b5\ud569 \uad11\ud559 \uc704\uc0c1 \ubc30\uc5f4\uc758 ..."
-    },
     {
       "timestamp": "2026-05-13 23:55:07",
       "message": "[PROCESSING] Analyzing: Oracle Java to Power Samsung Electronics\u2019 Global Semiconductor Development..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 23:55:57",
       "message": "[PROCESSING] Analyzing: Firmware Testing Still Falls Short of What We Need..."
+    },
+    {
+      "timestamp": "2026-05-13 23:56:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Firmware Testing Still Falls Short of What We Need"
     }
   ]
 }
