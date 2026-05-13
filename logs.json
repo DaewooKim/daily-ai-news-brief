@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 11:39:20",
+  "last_updated": "2026-05-13 11:39:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 11:38:46",
-      "message": "Found 158 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-13 11:38:46",
       "message": "[PROCESSING] Analyzing: The Apple Studio Display could have been so much more..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 11:39:20",
       "message": "[PROCESSING] Analyzing: How finance teams use Codex..."
+    },
+    {
+      "timestamp": "2026-05-13 11:39:22",
+      "message": "[SKIP] Irrelevant (AI Filter): How finance teams use Codex"
     }
   ]
 }
