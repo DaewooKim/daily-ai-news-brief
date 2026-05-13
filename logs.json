@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 21:40:53",
+  "last_updated": "2026-05-13 21:40:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 21:40:03",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-05-13 21:40:03",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 21:40:53",
       "message": "[PROCESSING] Analyzing: Sony ups its new A7R VI to 66.8 megapixels and jumps the price to $4,500..."
+    },
+    {
+      "timestamp": "2026-05-13 21:40:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Sony ups its new A7R VI to 66.8 megapixels and jumps the price to $4,500"
     }
   ]
 }
