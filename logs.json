@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 01:48:02",
+  "last_updated": "2026-05-13 01:48:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 01:47:22",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \uba54\ub514\ucf00\uc5b4 \ubc0f \uba54\ub514\ucf00\uc774\ub4dc \uc11c\ube44\uc2a4 \uc13c\ud130\uac00 AI \uae30\ubc18 \uc758\ub8cc\ub97c \uc704\ud55c \uacb0\uacfc \uae30\ubc18 \uc9c0\ubd88 \ubaa8\ub378 ACCESS\ub97c 150\uac1c \uae30\uc220 \ud68c\uc0ac\uc640 \uc2dc\ud5d8 \uc911\n  > Summary: \ubbf8\uad6d \uba54\ub514\ucf00\uc5b4 \ubc0f \uba54\ub514\ucf00\uc774\ub4dc \uc11c\ube44\uc2a4 \uc13c\ud130(CMS)\ub294 AI \uae30\ubc18 \uc758\ub8cc\ub97c \uc704\ud55c \uacb0\uacfc \uae30\ubc18 \uc9c0\ubd88..."
-    },
     {
       "timestamp": "2026-05-13 01:47:23",
       "message": "[PROCESSING] Analyzing: Internal emails: xAI added 19 gas turbines to Colossus 2 over the past two months; xAI is fighting a lawsuit alleging Clean Air Act violations at the site (Molly Taft/Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 01:48:02",
       "message": "[PROCESSING] Analyzing: ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs..."
+    },
+    {
+      "timestamp": "2026-05-13 01:48:04",
+      "message": "[SKIP] Irrelevant (AI Filter): ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs"
     }
   ]
 }
