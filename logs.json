@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-13 19:33:10",
-  "status": "idle",
+  "last_updated": "2026-05-13 20:33:48",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-13 19:31:44",
-      "message": "[SKIP] Content too short: Exclusive: AirOps targets emer..."
+      "timestamp": "2026-05-13 20:33:34",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-13 19:31:45",
-      "message": "Reprocessing: Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company"
+      "timestamp": "2026-05-13 20:33:35",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-13 19:31:47",
-      "message": "[SKIP] Content too short: Sam Altman testifies in landma..."
+      "timestamp": "2026-05-13 20:33:35",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-13 19:31:48",
-      "message": "Reprocessing: Celonis buys decision-intelligence startup Ikigai Labs to provide operational context for enterprise AI"
+      "timestamp": "2026-05-13 20:33:48",
+      "message": "Found 157 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-13 19:31:50",
-      "message": "[SKIP] Content too short: Celonis buys decision-intellig..."
-    },
-    {
-      "timestamp": "2026-05-13 19:31:52",
-      "message": "Reprocessing: Nebius snaps up Clarifai\u2019s compute orchestration tech and talent to enhance AI inference"
-    },
-    {
-      "timestamp": "2026-05-13 19:31:54",
-      "message": "[SKIP] Content too short: Nebius snaps up Clarifai\u2019s com..."
-    },
-    {
-      "timestamp": "2026-05-13 19:31:55",
-      "message": "Reprocessing: Veeam introduces new backup management, cybersecurity features"
-    },
-    {
-      "timestamp": "2026-05-13 19:31:57",
-      "message": "[SKIP] Content too short: Veeam introduces new backup ma..."
-    },
-    {
-      "timestamp": "2026-05-13 19:31:58",
-      "message": "Reprocessing: CME Group and Silicon Data to launch AI compute futures market"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:00",
-      "message": "[SKIP] Content too short: CME Group and Silicon Data to ..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:02",
-      "message": "Reprocessing: Google debuts Gemini Intelligence automation features, Googlebook laptop series"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:03",
-      "message": "[SKIP] Content too short: Google debuts Gemini Intellige..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:05",
-      "message": "Reprocessing: Idira launches as Palo Alto Networks extends CyberArk tech to machine and agentic identities"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:06",
-      "message": "[SKIP] Content too short: Idira launches as Palo Alto Ne..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:08",
-      "message": "Reprocessing: Agentic SOC startup Exaforce closes $125M round at reported $725M valuation"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:10",
-      "message": "[SKIP] Content too short: Agentic SOC startup Exaforce c..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:11",
-      "message": "Reprocessing: What to expect during KB4-CON: Join theCUBE May 14"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:13",
-      "message": "[SKIP] Content too short: What to expect during KB4-CON:..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:14",
-      "message": "Reprocessing: What to expect during Dell Technologies World: Join theCUBE May 18-20"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:16",
-      "message": "[SKIP] Content too short: What to expect during Dell Tec..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:18",
-      "message": "Reprocessing: Elliptic reels in $120M for its cryptocurrency analytics platform"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:19",
-      "message": "[SKIP] Content too short: Elliptic reels in $120M for it..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:21",
-      "message": "Reprocessing: AI\u2019s easy on-ramp has become a costly exit problem for enterprises, says Red Hat"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:22",
-      "message": "[SKIP] Content too short: AI\u2019s easy on-ramp has become a..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:24",
-      "message": "Reprocessing: What to expect during VeeamON: Join theCUBE May 14"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:26",
-      "message": "[SKIP] Content too short: What to expect during VeeamON:..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:27",
-      "message": "Reprocessing: Vapi\u00a0nabs\u00a0$50M to make voice AI more human"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:29",
-      "message": "[SKIP] Content too short: Vapi\u00a0nabs\u00a0$50M to make voice A..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:30",
-      "message": "Reprocessing: Exclusive: ClickUp endows its Brain assistant with agentic capabilities"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:32",
-      "message": "[SKIP] Content too short: Exclusive: ClickUp endows its ..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:34",
-      "message": "Reprocessing: AWS Kiro accelerates software development by proving code correctness before it gets to work"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:36",
-      "message": "[SKIP] Content too short: AWS Kiro accelerates software ..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:38",
-      "message": "Reprocessing: One OS, two speeds: How Red Hat Enterprise Linux is bridging AI innovation and enterprise stability"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:39",
-      "message": "[SKIP] Content too short: One OS, two speeds: How Red Ha..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:41",
-      "message": "Reprocessing: IBM\u2019s enterprise AI strategy makes trust and control the production test"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:43",
-      "message": "[SKIP] Content too short: IBM\u2019s enterprise AI strategy m..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:44",
-      "message": "Reprocessing: White Circle raises $11M to help companies secure and\u00a0monitor\u00a0AI model behavior"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:46",
-      "message": "[SKIP] Content too short: White Circle raises $11M to he..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:47",
-      "message": "Reprocessing: Google Cloud sees its marketplace as the launchpad for the agentic enterprise"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:49",
-      "message": "[SKIP] Content too short: Google Cloud sees its marketpl..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:50",
-      "message": "Reprocessing: DigiCert\u2019s intelligent trust framework targets AI reliability gaps as enterprise risks grow"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:52",
-      "message": "[SKIP] Content too short: DigiCert\u2019s intelligent trust f..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:53",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch..."
-    },
-    {
-      "timestamp": "2026-05-13 19:32:56",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch"
-    },
-    {
-      "timestamp": "2026-05-13 19:32:57",
-      "message": "[PROCESSING] Analyzing: Sabrent NT-P10G USB4 10GbE Network Adapter Review..."
-    },
-    {
-      "timestamp": "2026-05-13 19:33:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Sabrent NT-P10G USB4 10GbE Network Adapter Review"
-    },
-    {
-      "timestamp": "2026-05-13 19:33:01",
-      "message": "Completed! New: 5, Updated: 41"
-    },
-    {
-      "timestamp": "2026-05-13 19:33:05",
-      "message": "Saved 46 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-13 19:33:09",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-13 20:33:48",
+      "message": "[PROCESSING] Analyzing: The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it...."
     }
   ]
 }
