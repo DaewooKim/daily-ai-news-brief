@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 15:01:57",
+  "last_updated": "2026-05-13 15:02:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 15:01:04",
-      "message": "[PROCESSING] Analyzing: Apple files an EU submission criticizing draft DMA measures that would require Google to give competing AI services access to Android apps, citing privacy risks (Foo Yun Chee/Reuters)..."
-    },
     {
       "timestamp": "2026-05-13 15:01:08",
       "message": "[SUCCESS] Processed: \uc560\ud50c, \uad6c\uae00\uc774 \uc548\ub4dc\ub85c\uc774\ub4dc \uc571\uc5d0 \uacbd\uc7c1 AI \uc11c\ube44\uc2a4 \uc811\uadfc\uc744 \ud5c8\uc6a9\ud574\uc57c \ud55c\ub2e4\ub294 \ucd08\uc548 DMA \uc870\uce58\ub97c \ube44\ud310\ud558\ub294 EU \uc81c\ucd9c\uc11c \uc81c\ucd9c\n  > Summary: \uc560\ud50c\uc740 EU \uacbd\uc7c1\ub2f9\uad6d\uc758 \ub3c5\uc810\uae08\uc9c0 \uaddc\uc81c \ucd08\uc548\uc744 \ube44\ud310\ud558\uba70, \uad6c\uae00\uc5d0\uac8c \uacbd\uc7c1 AI \uc11c\ube44\uc2a4\uac00 \uc548\ub4dc\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 15:01:57",
       "message": "[PROCESSING] Analyzing: ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs..."
+    },
+    {
+      "timestamp": "2026-05-13 15:02:01",
+      "message": "[SKIP] Irrelevant (AI Filter): ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs"
     }
   ]
 }
