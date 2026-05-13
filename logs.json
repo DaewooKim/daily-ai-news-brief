@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-13 12:47:38",
+  "last_updated": "2026-05-13 12:47:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-13 12:46:45",
-      "message": "[SUCCESS] Processed: \uc2e4\ub9ac\ucf58 \ud3ec\ud1a0\ub2c9\uc2a4: \uad11\ud559 \uc704\uc0c1 \ubc30\uc5f4\uc744 \uc704\ud55c \uc9d1\uc801 \uadf8\ub808\uc774\ud305 \uae30\ubc18 \uc548\ud14c\ub098 (MIT)\n  > Summary: MIT\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 \ubc1c\ud45c\ud55c \uc0c8\ub85c\uc6b4 \uae30\uc220 \ub17c\ubb38\uc5d0\uc11c\ub294 \uc9d1\uc801 \uad11\ud559 \uc704\uc0c1 \ubc30\uc5f4(OPA)\uc5d0 \ub300\ud55c \uad50..."
-    },
     {
       "timestamp": "2026-05-13 12:46:46",
       "message": "Reprocessing: AI Ascent 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-13 12:47:38",
       "message": "[PROCESSING] Analyzing: Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio..."
+    },
+    {
+      "timestamp": "2026-05-13 12:47:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Analog Devices Upgrades A\u00b2B Platform for Next-Gen In-Car Audio"
     }
   ]
 }
