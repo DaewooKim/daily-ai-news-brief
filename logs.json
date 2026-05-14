@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 06:31:16",
+  "last_updated": "2026-05-14 06:31:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 06:30:25",
-      "message": "Reprocessing: OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency (Maggie Eastland/Bloomberg)"
-    },
     {
       "timestamp": "2026-05-14 06:30:27",
       "message": "[PROCESSING] Analyzing: OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency (Maggie Eastland/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 06:31:16",
       "message": "[PROCESSING] Analyzing: ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs..."
+    },
+    {
+      "timestamp": "2026-05-14 06:31:18",
+      "message": "[SKIP] Irrelevant (AI Filter): ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs"
     }
   ]
 }
