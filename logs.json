@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 16:28:40",
+  "last_updated": "2026-05-14 16:28:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 16:28:05",
-      "message": "[PROCESSING] Analyzing: \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30..."
-    },
     {
       "timestamp": "2026-05-14 16:28:07",
       "message": "[SKIP] Irrelevant (AI Filter): \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 16:28:40",
       "message": "Reprocessing: Okta extends AI agent security to Amazon Bedrock, opens platform to rival identity providers"
+    },
+    {
+      "timestamp": "2026-05-14 16:28:42",
+      "message": "[SKIP] Content too short: Okta extends AI agent security..."
     }
   ]
 }
