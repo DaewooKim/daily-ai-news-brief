@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 23:08:03",
+  "last_updated": "2026-05-14 23:08:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 23:07:02",
-      "message": "[SUCCESS] Processed: T-Global Technology, \ud504\ub791\uc2a4 SiPearl\uacfc \ud611\ub825\ud558\uc5ec \ucc28\uc138\ub300 HPC \ub0c9\uac01 \uae30\uc220 \ubc1c\uc804\n  > Summary: T-Global Technology\ub294 \ub300\ub9cc \uacbd\uc81c\ubd80\uc758 'AI\ub85c \uc0b0\uc5c5 \ud601\uc2e0 \ucd09\uc9c4' \ud504\ub85c\uadf8\ub7a8\uc5d0 ..."
-    },
     {
       "timestamp": "2026-05-14 23:07:03",
       "message": "[PROCESSING] Analyzing: ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 23:08:03",
       "message": "[PROCESSING] Analyzing: Firmware Testing Still Falls Short of What We Need..."
+    },
+    {
+      "timestamp": "2026-05-14 23:08:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Firmware Testing Still Falls Short of What We Need"
     }
   ]
 }
