@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 17:32:25",
+  "last_updated": "2026-05-14 17:32:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 17:31:46",
-      "message": "[SUCCESS] Processed: \ucf54\uc2ac\ub77c \ubca4\ucc98\uc2a4\uac00 \uccab \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ubca4\uce58\uac00 \ubb34\ub108\uc9c4 \uc774\uc548 \ud06c\ub85c\uc2a4\ube44\uc5d0 1\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubca0\ud305\ud558\ub2e4\n  > Summary: \uc774\uc548 \ud06c\ub85c\uc2a4\ube44\uac00 \ub2e4\ub978 \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \uc704\ud55c \uc644\uc804 \uc790\uc728 AI \ud68c\uacc4 \uc11c\ube44\uc2a4\uc778 \uc2e0\uc2dc\ud2f0\uc744 \uad6c\ucd95\ud558\uace0 \uc788\ub2e4..."
-    },
     {
       "timestamp": "2026-05-14 17:31:48",
       "message": "[PROCESSING] Analyzing: Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 17:32:25",
       "message": "[PROCESSING] Analyzing: Europe\u2019s Photonics Push Runs Through Spain..."
+    },
+    {
+      "timestamp": "2026-05-14 17:32:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Europe\u2019s Photonics Push Runs Through Spain"
     }
   ]
 }
