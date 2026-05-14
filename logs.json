@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 17:33:35",
+  "last_updated": "2026-05-14 17:33:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 17:32:52",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short (Mark Gurman/Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-14 17:32:56",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: OpenAI\uac00 ChatGPT\uc758 Siri \ud1b5\ud569\uc73c\ub85c \uc218\uc2ed\uc5b5 \ub2ec\ub7ec\uc758 \uc218\uc775\uc744 \uae30\ub300\ud588\uc73c\ub098 \ubbf8\ub2ec\ud558\uba74\uc11c Apple\uc5d0 \ub300\ud55c \ubc95\uc801 \uc870\uce58\ub97c \uace0\ub824\ud558\uace0 \uc788\ub2e4\n  > Summary: OpenAI\uac00 ChatGPT\uc640 Siri\uc758 \ud1b5\ud569\uc5d0\uc11c \uae30\ub300\ud55c \uc218\uc775\uc774 \ubbf8\ub2ec\ud558\uba74\uc11c Apple\uacfc\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 17:33:35",
       "message": "[PROCESSING] Analyzing: SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY (Sherry Qin/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-05-14 17:33:37",
+      "message": "[SKIP] Irrelevant (AI Filter): SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY (Sherry Qin/Wall Street Journal)"
     }
   ]
 }
