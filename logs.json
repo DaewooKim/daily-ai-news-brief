@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 20:53:19",
+  "last_updated": "2026-05-14 20:53:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 20:52:25",
-      "message": "Reprocessing: Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short (Mark Gurman/Bloomberg)"
-    },
     {
       "timestamp": "2026-05-14 20:52:27",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short (Mark Gurman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 20:53:19",
       "message": "[PROCESSING] Analyzing: Agent authorization is broken \u2014 and authentication passing makes it worse..."
+    },
+    {
+      "timestamp": "2026-05-14 20:53:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Agent authorization is broken \u2014 and authentication passing makes it worse"
     }
   ]
 }
