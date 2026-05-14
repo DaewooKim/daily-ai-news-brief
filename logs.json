@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 14:15:40",
+  "last_updated": "2026-05-14 14:15:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 14:15:06",
-      "message": "[PROCESSING] Analyzing: \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30..."
-    },
     {
       "timestamp": "2026-05-14 14:15:09",
       "message": "[SKIP] Irrelevant (AI Filter): \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 14:15:40",
       "message": "Reprocessing: Microsoft\u2019s LinkedIn is about to lay off 5% of its staff"
+    },
+    {
+      "timestamp": "2026-05-14 14:15:42",
+      "message": "[SKIP] Content too short: Microsoft\u2019s LinkedIn is about ..."
     }
   ]
 }
