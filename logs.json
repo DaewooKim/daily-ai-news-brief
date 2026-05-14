@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 21:56:54",
+  "last_updated": "2026-05-14 21:56:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 21:56:05",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-14 21:56:18",
       "message": "Found 175 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 21:56:54",
       "message": "Reprocessing: OpenAI, Microsoft And Friends Build A Better, More Scalable Ethernet"
+    },
+    {
+      "timestamp": "2026-05-14 21:56:56",
+      "message": "[SKIP] Content too short: OpenAI, Microsoft And Friends ..."
     }
   ]
 }
