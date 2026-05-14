@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 16:27:52",
+  "last_updated": "2026-05-14 16:27:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 16:26:59",
-      "message": "[PROCESSING] Analyzing: SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY (Sherry Qin/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-05-14 16:27:01",
       "message": "[SKIP] Irrelevant (AI Filter): SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY (Sherry Qin/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 16:27:52",
       "message": "[PROCESSING] Analyzing: Firmware Testing Still Falls Short of What We Need..."
+    },
+    {
+      "timestamp": "2026-05-14 16:27:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Firmware Testing Still Falls Short of What We Need"
     }
   ]
 }
