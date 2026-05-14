@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 16:27:03",
+  "last_updated": "2026-05-14 16:27:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 16:26:17",
-      "message": "[PROCESSING] Analyzing: Anthropic and Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January (Jeffrey Dastin/Reuters)..."
-    },
     {
       "timestamp": "2026-05-14 16:26:22",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d\uacfc \uac8c\uc774\uce20 \uc7ac\ub2e8, \uac74\uac15 \ubc0f \uad50\uc721 \uc774\ub2c8\uc154\ud2f0\ube0c\uc5d0 AI \ud65c\uc6a9\uc744 \uc704\ud55c 2\uc5b5 \ub2ec\ub7ec \uc57d\uc18d\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uacfc \uac8c\uc774\uce20 \uc7ac\ub2e8\uc774 \uac74\uac15 \ubc0f \uad50\uc721 \uc774\ub2c8\uc154\ud2f0\ube0c\uc5d0 AI\ub97c \ud65c\uc6a9\ud558\uae30 \uc704\ud574 2\uc5b5 \ub2ec\ub7ec\ub97c \uc57d\uc18d..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 16:27:03",
       "message": "[PROCESSING] Analyzing: Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing's plans to take on Silicon Valley; China is offering big incentives (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-05-14 16:27:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing's plans to take on Silicon Valley; China is offering big incentives (Wall Street Journal)"
     }
   ]
 }
