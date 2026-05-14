@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 01:01:17",
+  "last_updated": "2026-05-14 01:01:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 01:00:24",
-      "message": "[SUCCESS] Processed: \uc2dc\uc2a4\ucf54, 3\ubd84\uae30 \ub9e4\ucd9c 12% \uc99d\uac00 158\uc5b5 4\ucc9c\ub9cc \ub2ec\ub7ec \ubc1c\ud45c, FY 2026 AI \uc8fc\ubb38 \uc804\ub9dd \uc0c1\ud5a5 \uc870\uc815, \uc57d 4,000\uba85 \uac10\uc6d0; \uc7a5\uc678\uac70\ub798\uc5d0\uc11c CSCO 19% \uc774\uc0c1 \uae09\ub4f1\n  > Summary: \uc2dc\uc2a4\ucf54\ub294 3\ubd84\uae30 \ub9e4\ucd9c\uc774 \uc804\ub144 \ub300\ube44 12% \uc99d\uac00\ud55c 158\uc5b5 4\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \uae30\ub85d\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5..."
-    },
     {
       "timestamp": "2026-05-14 01:00:26",
       "message": "Reprocessing: Mythos Preview is the first AI model to complete both of AISI's cyber ranges, which measure models' cyberattack capabilities; GPT-5.5 solved only one of them (AI Security Institute)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 01:01:17",
       "message": "[PROCESSING] Analyzing: ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs..."
+    },
+    {
+      "timestamp": "2026-05-14 01:01:19",
+      "message": "[SKIP] Irrelevant (AI Filter): ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs"
     }
   ]
 }
