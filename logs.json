@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-14 20:53:03",
+  "last_updated": "2026-05-14 20:53:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-14 20:52:16",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd: \uc2a4\ud398\uc774\uc2a4X \uc778\uc218 \uc774\ud6c4 xAI\uc5d0\uc11c 50\uba85 \uc774\uc0c1\uc758 \uc5f0\uad6c\uc6d0\uacfc \uc5d4\uc9c0\ub2c8\uc5b4\uac00 \uc774\uc9c1, \ud574\uace0 \ubc0f \uc790\ubc1c\uc801 \ud1f4\uc0ac\ub97c \ud1b5\ud574 \ub5a0\ub0ac\ub2e4; \ub9ce\uc740 \uc774\ub4e4\uc774 \uba54\ud0c0\uc640 TML\uc5d0 \ud569\ub958\ud588\ub2e4.\n  > Summary: \uc2a4\ud398\uc774\uc2a4X\uc758 \uc778\uc218 \uc774\ud6c4 xAI\uc5d0 \uc18c\uc18d\ub41c 50\uba85 \uc774\uc0c1\uc758 \uc5f0\uad6c\uc6d0\uacfc \uc5d4\uc9c0\ub2c8\uc5b4\uac00 \ud574\uace0\uc640 \uc790\ubc1c\uc801 \ud1f4..."
-    },
     {
       "timestamp": "2026-05-14 20:52:18",
       "message": "[PROCESSING] Analyzing: Sources: Intel has begun testing production of \"low-end/legacy iPhone, iPad, and Mac processors\"; Apple thinks TSMC's resources will continue tilting toward AI (@mingchikuo)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-14 20:53:03",
       "message": "[PROCESSING] Analyzing: ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs..."
+    },
+    {
+      "timestamp": "2026-05-14 20:53:05",
+      "message": "[SKIP] Irrelevant (AI Filter): ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs"
     }
   ]
 }
