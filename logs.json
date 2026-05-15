@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 22:24:57",
+  "last_updated": "2026-05-15 22:24:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 22:24:19",
-      "message": "Found 194 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-15 22:24:19",
       "message": "[PROCESSING] Analyzing: Windows 11 tests an adjustable taskbar and resizable Start menu..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 22:24:57",
       "message": "Reprocessing: OpenAI, Microsoft And Friends Build A Better, More Scalable Ethernet"
+    },
+    {
+      "timestamp": "2026-05-15 22:24:59",
+      "message": "[SKIP] Content too short: OpenAI, Microsoft And Friends ..."
     }
   ]
 }
