@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 13:26:18",
+  "last_updated": "2026-05-15 13:26:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 13:25:36",
-      "message": "[SUCCESS] Processed: EDA\uc758 AI \ud601\uba85\uc774 \ud604\uc2e4 \uc81c\uc57d\uacfc \ub9c8\uc8fc\ud558\ub2e4\n  > Summary: AI\uac00 EDA(\uc804\uc790 \uc124\uacc4 \uc790\ub3d9\ud654)\ub97c \uc7ac\ud3b8\ud558\uace0 \uc788\uc9c0\ub9cc, 2026\ub144 \uc0b0\uc5c5\uc758 \ubc29\ud5a5\uc131\uc740 \ubaa8\ub378 \ud601\uc2e0..."
-    },
     {
       "timestamp": "2026-05-15 13:25:38",
       "message": "Reprocessing: Automakers Face Memory Shock as AI Uses Up Semiconductor Supply"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 13:26:18",
       "message": "[PROCESSING] Analyzing: Ofcom says X has committed to implementing stronger protections for UK users, including reviewing illegal hate content within 24 hours, following a probe (Daniel Thomas/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-15 13:26:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Ofcom says X has committed to implementing stronger protections for UK users, including reviewing illegal hate content within 24 hours, following a probe (Daniel Thomas/Financial Times)"
     }
   ]
 }
