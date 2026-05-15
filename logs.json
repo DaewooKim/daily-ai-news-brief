@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 17:55:38",
+  "last_updated": "2026-05-15 17:55:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 17:54:48",
-      "message": "[PROCESSING] Analyzing: AWS Pushes Graviton into Redshift Analytics Stack..."
-    },
     {
       "timestamp": "2026-05-15 17:54:52",
       "message": "[SUCCESS] Processed: AWS, \ub808\ub4dc\uc26c\ud504\ud2b8 \uc560\ub110\ub9ac\ud2f1\uc2a4 \uc2a4\ud0dd\uc5d0 \uadf8\ub77c\ube44\ud1a4 \ub3c4\uc785\n  > Summary: AWS\ub294 \ub808\ub4dc\uc26c\ud504\ud2b8\uc758 \uc0c8 \uc778\uc2a4\ud134\uc2a4\ub97c \ud1b5\ud574 \ub370\uc774\ud130 \uc6e8\uc5b4\ud558\uc6b0\uc2a4\uc640 \ub370\uc774\ud130 \ub808\uc774\ud06c \ubd84\uc11d\uc744 \uacb0\ud569\ud558\uace0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 17:55:38",
       "message": "[PROCESSING] Analyzing: Ofcom says X has committed to implementing stronger protections for UK users, including reviewing illegal hate and terror content within 24 hours, after a probe (Daniel Thomas/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-15 17:55:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Ofcom says X has committed to implementing stronger protections for UK users, including reviewing illegal hate and terror content within 24 hours, after a probe (Daniel Thomas/Financial Times)"
     }
   ]
 }
