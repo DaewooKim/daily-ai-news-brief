@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 17:52:48",
+  "last_updated": "2026-05-15 17:52:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 17:51:48",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-15 17:52:01",
       "message": "Found 186 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 17:52:48",
       "message": "[PROCESSING] Analyzing: Bose&#8217;s new Lifestyle Ultra speakers are now available..."
+    },
+    {
+      "timestamp": "2026-05-15 17:52:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Bose&#8217;s new Lifestyle Ultra speakers are now available"
     }
   ]
 }
