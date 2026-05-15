@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-15 13:29:41",
-  "status": "idle",
+  "last_updated": "2026-05-15 14:30:21",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-15 13:28:13",
-      "message": "Reprocessing: Boomi and AWS built the guardrails for agents before anyone was asking for them"
+      "timestamp": "2026-05-15 14:30:08",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-15 13:28:15",
-      "message": "[SKIP] Content too short: Boomi and AWS built the guardr..."
+      "timestamp": "2026-05-15 14:30:09",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-15 13:28:17",
-      "message": "Reprocessing: Graphon reels in $8.3M for its persistent relational memory platform"
+      "timestamp": "2026-05-15 14:30:09",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-15 13:28:18",
-      "message": "[SKIP] Content too short: Graphon reels in $8.3M for its..."
+      "timestamp": "2026-05-15 14:30:21",
+      "message": "Found 181 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-15 13:28:20",
-      "message": "Reprocessing: The headless enterprise has arrived: theCUBE\u2019s Boomi World day two keynote analysis"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:22",
-      "message": "[SKIP] Content too short: The headless enterprise has ar..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:23",
-      "message": "Reprocessing: Fuel for the AI factory: Data orchestration becomes Dell\u2019s guiding star in the new age of machine intelligence"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:25",
-      "message": "[SKIP] Content too short: Fuel for the AI factory: Data ..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:27",
-      "message": "Reprocessing: Untrained AI agents are easy security targets \u2014 they don\u2019t know bad people exist, says KnowBe4 CEO"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:28",
-      "message": "[SKIP] Content too short: Untrained AI agents are easy s..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:30",
-      "message": "Reprocessing: As AI agents flood the enterprise, trust becomes one true bedrock: theCUBE\u2019s VeeamON keynote analysis"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:31",
-      "message": "[SKIP] Content too short: As AI agents flood the enterpr..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:33",
-      "message": "Reprocessing: Anthropic announces \u2018programmatic credit pool\u2019 as agentic tool\u00a0use\u00a0rises"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:35",
-      "message": "[SKIP] Content too short: Anthropic announces \u2018programma..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:36",
-      "message": "Reprocessing: Red Hat maintains open source beats the cloud giants on AI economics"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:38",
-      "message": "[SKIP] Content too short: Red Hat maintains open source ..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:40",
-      "message": "Reprocessing: ZenBusiness\u00a0launches\u00a0AI-ready infrastructure for business formation and\u00a0compliance"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:42",
-      "message": "[SKIP] Content too short: ZenBusiness\u00a0launches\u00a0AI-ready ..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:43",
-      "message": "Reprocessing: Inside Freshworks Refresh 2026: theCUBE\u2019s analyst-led coverage airs May 20"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:45",
-      "message": "[SKIP] Content too short: Inside Freshworks Refresh 2026..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:46",
-      "message": "Reprocessing: How the WNBA-AWS data play can turn engagement into fans"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:48",
-      "message": "[SKIP] Content too short: How the WNBA-AWS data play can..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:50",
-      "message": "Reprocessing: To tame enterprise AI chaos, open source rallies around a standard execution layer"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:51",
-      "message": "[SKIP] Content too short: To tame enterprise AI chaos, o..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:53",
-      "message": "Reprocessing: SecurityScorecard acquires internet scanning startup Driftnet to bolster third-party risk platform"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:54",
-      "message": "[SKIP] Content too short: SecurityScorecard acquires int..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:56",
-      "message": "Reprocessing: Fleet launches autonomous endpoint management platform to counter AI-accelerated exploits"
-    },
-    {
-      "timestamp": "2026-05-15 13:28:57",
-      "message": "[SKIP] Content too short: Fleet launches autonomous endp..."
-    },
-    {
-      "timestamp": "2026-05-15 13:28:59",
-      "message": "Reprocessing: Saile raises $2.2M to reduce paperwork for healthcare staffing"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:01",
-      "message": "[SKIP] Content too short: Saile raises $2.2M to reduce p..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:02",
-      "message": "Reprocessing: Data center cooling tech startup Iceotope aims to scale after raising $26M"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:04",
-      "message": "[SKIP] Content too short: Data center cooling tech start..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:06",
-      "message": "Reprocessing: Microsoft and Red Hat are turning a decade-old alliance into enterprise IT\u2019s unified future"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:07",
-      "message": "[SKIP] Content too short: Microsoft and Red Hat are turn..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:09",
-      "message": "Reprocessing: With every department under pressure to adopt AI, the infrastructure layer is being put to the test"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:10",
-      "message": "[SKIP] Content too short: With every department under pr..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:12",
-      "message": "Reprocessing: Okta extends AI agent security to Amazon Bedrock, opens platform to rival identity providers"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:14",
-      "message": "[SKIP] Content too short: Okta extends AI agent security..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:15",
-      "message": "Reprocessing: Freshworks unveils Freddy AI Agent Studio and MCP Gateway for Freshservice"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:17",
-      "message": "[SKIP] Content too short: Freshworks unveils Freddy AI A..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:19",
-      "message": "[PROCESSING] Analyzing: Fortinet FortiGate FG-40F Review Leveling-up Firewall Testing..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:21",
-      "message": "[SKIP] Irrelevant (AI Filter): Fortinet FortiGate FG-40F Review Leveling-up Firewall Testing"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:23",
-      "message": "Reprocessing: Kioxia XG10 Series PCIe Gen5 SSDs Announced"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:24",
-      "message": "[PROCESSING] Analyzing: Kioxia XG10 Series PCIe Gen5 SSDs Announced..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:26",
-      "message": "[SKIP] Irrelevant (AI Filter): Kioxia XG10 Series PCIe Gen5 SSDs Announced"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:28",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch..."
-    },
-    {
-      "timestamp": "2026-05-15 13:29:30",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:32",
-      "message": "Completed! New: 3, Updated: 42"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:36",
-      "message": "Saved 45 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-15 13:29:40",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-15 14:30:21",
+      "message": "[PROCESSING] Analyzing: The funniest thing about the Trump arcade game is how good it is..."
     }
   ]
 }
