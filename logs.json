@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 11:13:47",
+  "last_updated": "2026-05-15 11:13:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 11:12:57",
-      "message": "[SKIP] Irrelevant (AI Filter): Bill Ackman says his fund has taken a new stake in Microsoft after the company's recent share price decline; Ackman says investors have underestimated Microsoft (Amy Thomson/Bloomberg)"
-    },
     {
       "timestamp": "2026-05-15 11:12:59",
       "message": "[PROCESSING] Analyzing: Kioxia reports record Q4 earnings of ~$3.8B, forecasts Q1 operating profit of ~$8.2B, and says it is planning a US listing; Kioxia shares are up 300% YTD (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 11:13:47",
       "message": "[SUCCESS] Processed: SiFive, P500 RISC-V IP \ucf54\uc5b4\ub97c \uc5c5\uadf8\ub808\uc774\ub4dc\ud558\ub2e4\n  > Summary: SiFive Inc.\ub294 \uace0\uae09 \uc18c\ube44\uc790 \ubc0f \uc0c1\uc5c5 IoT \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\uc744 \uc704\ud574 \uc124\uacc4\ub41c P500 ..."
+    },
+    {
+      "timestamp": "2026-05-15 11:13:49",
+      "message": "Reprocessing: MIPI Alliance Forms Physical AI Group Focused on Humanoids"
     }
   ]
 }
