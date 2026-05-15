@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 22:25:20",
+  "last_updated": "2026-05-15 22:25:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 22:24:46",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 \uc774\uc81c ChatGPT\uac00 \uc0ac\uc6a9\uc790\uc758 \uc740\ud589 \uacc4\uc88c\uc5d0 \uc811\uadfc\ud558\uae30\ub97c \uc6d0\ud569\ub2c8\ub2e4\n  > Summary: ChatGPT\ub294 \uc0ac\uc6a9\uc790\uc5d0\uac8c \uc9c1\uc811\uc801\uc73c\ub85c \uc740\ud589 \uacc4\uc88c \uc811\uadfc\uc744 \ud5c8\uc6a9\ud560 \uc608\uc815\uc785\ub2c8\ub2e4. \uc0ac\uc6a9\uc790\ub294 Pla..."
-    },
     {
       "timestamp": "2026-05-15 22:24:48",
       "message": "[PROCESSING] Analyzing: BioLite\u2019s stakeable solar lights are down to a new low price for Memorial Day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 22:25:20",
       "message": "[PROCESSING] Analyzing: Our response to the TanStack npm supply chain attack..."
+    },
+    {
+      "timestamp": "2026-05-15 22:25:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Our response to the TanStack npm supply chain attack"
     }
   ]
 }
