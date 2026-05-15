@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 10:07:50",
+  "last_updated": "2026-05-15 10:07:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 10:07:15",
-      "message": "[PROCESSING] Analyzing: \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30..."
-    },
     {
       "timestamp": "2026-05-15 10:07:17",
       "message": "[SKIP] Irrelevant (AI Filter): \uc0b4\uc544 \uc228\uc274 \ub54c \uc5f4\uc2ec\ud788 \ud558\uae30"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 10:07:50",
       "message": "[SKIP] Content too short: Figma stock jumps as first-qua..."
+    },
+    {
+      "timestamp": "2026-05-15 10:07:51",
+      "message": "Reprocessing: Boomi and AWS built the guardrails for agents before anyone was asking for them"
     }
   ]
 }
