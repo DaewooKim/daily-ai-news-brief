@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 04:38:12",
+  "last_updated": "2026-05-15 04:38:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 04:37:20",
-      "message": "Reprocessing: SEMI and 23 Member Companies Urge U.S. Congress to Extend Advanced Manufacturing Investment Credit"
-    },
     {
       "timestamp": "2026-05-15 04:37:21",
       "message": "[PROCESSING] Analyzing: SEMI and 23 Member Companies Urge U.S. Congress to Extend Advanced Manufacturing Investment Credit..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 04:38:12",
       "message": "[PROCESSING] Analyzing: LPWAN for IIoT: A Technical Comparison of LoRaWAN and NB-IoT..."
+    },
+    {
+      "timestamp": "2026-05-15 04:38:14",
+      "message": "[SKIP] Irrelevant (AI Filter): LPWAN for IIoT: A Technical Comparison of LoRaWAN and NB-IoT"
     }
   ]
 }
