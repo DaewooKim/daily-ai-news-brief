@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 01:20:12",
+  "last_updated": "2026-05-15 01:20:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 01:19:14",
-      "message": "[PROCESSING] Analyzing: Gemini reports Q1 revenue up 42% YoY to $50.3M, vs. $47.9M est., announces a $100M capital injection from Winklevoss Capital Fund; GEMI jumps 22%+ after hours (Tanaya Macheel/CNBC)..."
-    },
     {
       "timestamp": "2026-05-15 01:19:16",
       "message": "[SKIP] Irrelevant (AI Filter): Gemini reports Q1 revenue up 42% YoY to $50.3M, vs. $47.9M est., announces a $100M capital injection from Winklevoss Capital Fund; GEMI jumps 22%+ after hours (Tanaya Macheel/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 01:20:12",
       "message": "[SUCCESS] Processed: KAIST, \ub9c8\uc774\ud06c\ub85c\ucf64 \uae30\ubc18 \ud3ec\ud1a0\ub2c9 \uce69\uc744 \uc774\uc6a9\ud55c \uadf9\uc800\uc18c\uc74c \ub9c8\uc774\ud06c\ub85c\ud30c \ubc0f \ubc00\ub9ac\ubbf8\ud130\ud30c \uc2e0\ud638 \uc0dd\uc131 \uc2dc\uc5f0\n  > Summary: KAIST \uc5f0\uad6c\ud300\uc774 \ub9c8\uc774\ud06c\ub85c\ucf64\uc744 \uc774\uc6a9\ud55c \ud3ec\ud1a0\ub2c9 \uc811\uadfc\ubc95\uc73c\ub85c \uadf9\uc800\uc18c\uc74c \ub9c8\uc774\ud06c\ub85c\ud30c \ubc0f \ubc00\ub9ac\ubbf8\ud130\ud30c..."
+    },
+    {
+      "timestamp": "2026-05-15 01:20:14",
+      "message": "Reprocessing: Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop"
     }
   ]
 }
