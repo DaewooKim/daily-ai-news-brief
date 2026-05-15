@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 14:31:02",
+  "last_updated": "2026-05-15 14:31:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 14:30:21",
-      "message": "Found 181 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-15 14:30:21",
       "message": "[PROCESSING] Analyzing: The funniest thing about the Trump arcade game is how good it is..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 14:31:02",
       "message": "Reprocessing: OpenAI, Microsoft And Friends Build A Better, More Scalable Ethernet"
+    },
+    {
+      "timestamp": "2026-05-15 14:31:03",
+      "message": "[SKIP] Content too short: OpenAI, Microsoft And Friends ..."
     }
   ]
 }
