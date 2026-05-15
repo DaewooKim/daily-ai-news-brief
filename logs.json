@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 10:04:13",
+  "last_updated": "2026-05-15 10:04:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 10:03:33",
-      "message": "Found 179 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-15 10:03:33",
       "message": "[PROCESSING] Analyzing: Honda&#8217;s hybrid future starts with new Accord and RDX prototypes..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 10:04:13",
       "message": "[PROCESSING] Analyzing: Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials..."
+    },
+    {
+      "timestamp": "2026-05-15 10:04:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials"
     }
   ]
 }
