@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-15 03:31:01",
+  "last_updated": "2026-05-15 03:31:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-15 03:30:25",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 Codex\uac00 \ub2f9\uc2e0\uc758 \ud734\ub300\ud3f0\uc73c\ub85c \uc628\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 Codex\uc758 \uc5c5\ub370\uc774\ud2b8\ub97c \ubc1c\ud45c\ud558\uc600\uc73c\uba70, \uc774\ub97c \ud1b5\ud574 \uc0ac\uc6a9\uc790\ub4e4\uc740 \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \ub354 ..."
-    },
     {
       "timestamp": "2026-05-15 03:30:27",
       "message": "Reprocessing: Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-15 03:31:01",
       "message": "[PROCESSING] Analyzing: Europe\u2019s Photonics Push Runs Through Spain..."
+    },
+    {
+      "timestamp": "2026-05-15 03:31:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Europe\u2019s Photonics Push Runs Through Spain"
     }
   ]
 }
