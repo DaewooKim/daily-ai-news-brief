@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 05:02:43",
+  "last_updated": "2026-05-16 05:02:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 05:02:10",
-      "message": "[SUCCESS] Processed: \uc218\uc775 \uc694\uc57d: \ub124\uc624\ud074\ub77c\uc6b0\ub4dc, GPU \uacbd\uc7c1\uc5d0\uc11c \uc804\ub825 \uc804\uc7c1\uc73c\ub85c \uc774\ub3d9\n  > Summary: CoreWeave\uc640 Nebius\uc758 \uc218\uc775 \uacb0\uacfc\ub294 AI \uc778\ud504\ub77c \uacbd\uc7c1\uc774 GPU \uacf5\uae09\ub9cc\uc774 \uc544\ub2cc \uc804..."
-    },
     {
       "timestamp": "2026-05-16 05:02:11",
       "message": "[PROCESSING] Analyzing: HVO: The Case for Rethinking Data Center Generator Fuel..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 05:02:43",
       "message": "[PROCESSING] Analyzing: Structured Or Unstructured Meshes: What Works Best For Turbomachinery CFD..."
+    },
+    {
+      "timestamp": "2026-05-16 05:02:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Structured Or Unstructured Meshes: What Works Best For Turbomachinery CFD"
     }
   ]
 }
