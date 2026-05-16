@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 17:06:36",
+  "last_updated": "2026-05-16 17:06:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 17:06:01",
-      "message": "Found 190 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-16 17:06:01",
       "message": "[PROCESSING] Analyzing: NPR\u2019s Manoush Zomorodi talks about living with too much tech..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 17:06:36",
       "message": "Reprocessing: HPE Throws VM Users A Lifeline, Unifying Containers And VM Management In Cloud Stack"
+    },
+    {
+      "timestamp": "2026-05-16 17:06:37",
+      "message": "[SKIP] Content too short: HPE Throws VM Users A Lifeline..."
     }
   ]
 }
