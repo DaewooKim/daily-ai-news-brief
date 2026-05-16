@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-16 20:29:01",
-  "status": "idle",
+  "last_updated": "2026-05-16 21:29:27",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-16 20:27:45",
-      "message": "[SKIP] Content too short: Boomi CTO: Agentic engineering..."
+      "timestamp": "2026-05-16 21:29:15",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-16 20:27:46",
-      "message": "Reprocessing: Veeam CEO Anand Eswaran says the company\u2019s future is in providing the AI stack\u2019s missing layer"
+      "timestamp": "2026-05-16 21:29:15",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-16 20:27:48",
-      "message": "[SKIP] Content too short: Veeam CEO Anand Eswaran says t..."
+      "timestamp": "2026-05-16 21:29:15",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-16 20:27:49",
-      "message": "Reprocessing: Dataiku launches governed AI workflow builder inside Snowflake"
+      "timestamp": "2026-05-16 21:29:27",
+      "message": "Found 184 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-16 20:27:50",
-      "message": "[SKIP] Content too short: Dataiku launches governed AI w..."
-    },
-    {
-      "timestamp": "2026-05-16 20:27:52",
-      "message": "Reprocessing: OpenAI reportedly mulls taking Apple to court over ChatGPT\u2019s Siri integration"
-    },
-    {
-      "timestamp": "2026-05-16 20:27:53",
-      "message": "[SKIP] Content too short: OpenAI reportedly mulls taking..."
-    },
-    {
-      "timestamp": "2026-05-16 20:27:54",
-      "message": "Reprocessing: OpenAI brings Codex to mobile devices, adds more customization features"
-    },
-    {
-      "timestamp": "2026-05-16 20:27:56",
-      "message": "[SKIP] Content too short: OpenAI brings Codex to mobile ..."
-    },
-    {
-      "timestamp": "2026-05-16 20:27:57",
-      "message": "Reprocessing: Applied Materials boosts its outlook as AI chipmakers scramble to add more production capacity"
-    },
-    {
-      "timestamp": "2026-05-16 20:27:59",
-      "message": "[SKIP] Content too short: Applied Materials boosts its o..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:00",
-      "message": "Reprocessing: AI training data provider Wirestock raises $23M in funding"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:02",
-      "message": "[SKIP] Content too short: AI training data provider Wire..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:03",
-      "message": "Reprocessing: A $10T bet: Coupa leverages data to build its case for AI and autonomous spend management"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:04",
-      "message": "[SKIP] Content too short: A $10T bet: Coupa leverages da..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:06",
-      "message": "Reprocessing: PwC expands Anthropic alliance, will train 30,000 staff on Claude"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:07",
-      "message": "[SKIP] Content too short: PwC expands Anthropic alliance..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:09",
-      "message": "Reprocessing: Autodesk taps Permiso Security to monitor AI agents across its cloud and workforce"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:10",
-      "message": "[SKIP] Content too short: Autodesk taps Permiso Security..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:12",
-      "message": "Reprocessing: Red Hat outlines sovereign AI strategy amid growing regulation and control concerns"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:13",
-      "message": "[SKIP] Content too short: Red Hat outlines sovereign AI ..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:15",
-      "message": "Reprocessing: Figma stock jumps as first-quarter revenue surges 46% on AI monetization traction"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:16",
-      "message": "[SKIP] Content too short: Figma stock jumps as first-qua..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:17",
-      "message": "Reprocessing: Boomi and AWS built the guardrails for agents before anyone was asking for them"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:19",
-      "message": "[SKIP] Content too short: Boomi and AWS built the guardr..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:20",
-      "message": "Reprocessing: Graphon reels in $8.3M for its persistent relational memory platform"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:22",
-      "message": "[SKIP] Content too short: Graphon reels in $8.3M for its..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:23",
-      "message": "Reprocessing: The headless enterprise has arrived: theCUBE\u2019s Boomi World day two keynote analysis"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:25",
-      "message": "[SKIP] Content too short: The headless enterprise has ar..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:26",
-      "message": "Reprocessing: Fuel for the AI factory: Data orchestration becomes Dell\u2019s guiding star in the new age of machine intelligence"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:28",
-      "message": "[SKIP] Content too short: Fuel for the AI factory: Data ..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:29",
-      "message": "Reprocessing: Untrained AI agents are easy security targets \u2014 they don\u2019t know bad people exist, says KnowBe4 CEO"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:30",
-      "message": "[SKIP] Content too short: Untrained AI agents are easy s..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:32",
-      "message": "Reprocessing: As AI agents flood the enterprise, trust becomes one true bedrock: theCUBE\u2019s VeeamON keynote analysis"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:33",
-      "message": "[SKIP] Content too short: As AI agents flood the enterpr..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:35",
-      "message": "Reprocessing: Anthropic announces \u2018programmatic credit pool\u2019 as agentic tool\u00a0use\u00a0rises"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:36",
-      "message": "[SKIP] Content too short: Anthropic announces \u2018programma..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:38",
-      "message": "Reprocessing: Red Hat maintains open source beats the cloud giants on AI economics"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:39",
-      "message": "[SKIP] Content too short: Red Hat maintains open source ..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:40",
-      "message": "Reprocessing: ZenBusiness\u00a0launches\u00a0AI-ready infrastructure for business formation and\u00a0compliance"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:42",
-      "message": "[SKIP] Content too short: ZenBusiness\u00a0launches\u00a0AI-ready ..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:43",
-      "message": "[PROCESSING] Analyzing: ASUS ZenScreen MB16ACE Review A 15.6in 1080P IPS Option..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:45",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS ZenScreen MB16ACE Review A 15.6in 1080P IPS Option"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:47",
-      "message": "[PROCESSING] Analyzing: Fortinet FortiGate FG-40F Review Leveling-up Firewall Testing..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:49",
-      "message": "[SKIP] Irrelevant (AI Filter): Fortinet FortiGate FG-40F Review Leveling-up Firewall Testing"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:50",
-      "message": "[PROCESSING] Analyzing: Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch..."
-    },
-    {
-      "timestamp": "2026-05-16 20:28:52",
-      "message": "[SKIP] Irrelevant (AI Filter): Cisco Catalyst C1300-16XTS Review A 16-Port 10G Switch"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:53",
-      "message": "Completed! New: 1, Updated: 46"
-    },
-    {
-      "timestamp": "2026-05-16 20:28:57",
-      "message": "Saved 47 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-16 20:29:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-16 21:29:27",
+      "message": "[PROCESSING] Analyzing: Snap, YouTube, and TikTok settle suit over harm to students..."
     }
   ]
 }
