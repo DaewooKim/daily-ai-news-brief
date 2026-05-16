@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 23:56:36",
+  "last_updated": "2026-05-16 23:56:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 23:55:58",
-      "message": "[PROCESSING] Analyzing: Agent authorization is broken \u2014 and authentication passing makes it worse..."
-    },
     {
       "timestamp": "2026-05-16 23:56:00",
       "message": "[SKIP] Irrelevant (AI Filter): Agent authorization is broken \u2014 and authentication passing makes it worse"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 23:56:36",
       "message": "Reprocessing: OpenAI previews personal finance features in ChatGPT Pro"
+    },
+    {
+      "timestamp": "2026-05-16 23:56:38",
+      "message": "[SKIP] Content too short: OpenAI previews personal finan..."
     }
   ]
 }
