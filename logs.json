@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 16:01:24",
+  "last_updated": "2026-05-16 16:01:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 16:00:44",
-      "message": "[PROCESSING] Analyzing: OpenAI co-founder Greg Brockman reportedly takes charge of product strategy..."
-    },
     {
       "timestamp": "2026-05-16 16:00:47",
       "message": "[SUCCESS] Processed: OpenAI \uacf5\ub3d9 \ucc3d\ub9bd\uc790 \uadf8\ub809 \ube0c\ub85d\uba3c, \uc81c\ud488 \uc804\ub7b5 \ucc45\uc784\uc790\ub85c \uc784\uba85\n  > Summary: OpenAI\uc758 \ucd5c\uadfc \ubcc0\ud654\ub294 \ud68c\uc0ac\uac00 ChatGPT\uc640 \ud504\ub85c\uadf8\ub798\ubc0d \uc81c\ud488\uc778 Codex\ub97c \ud1b5\ud569\ud560 \uacc4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 16:01:24",
       "message": "[PROCESSING] Analyzing: When Encryption Meets Quantum..."
+    },
+    {
+      "timestamp": "2026-05-16 16:01:26",
+      "message": "[SKIP] Irrelevant (AI Filter): When Encryption Meets Quantum"
     }
   ]
 }
