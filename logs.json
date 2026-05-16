@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 22:44:23",
+  "last_updated": "2026-05-16 22:44:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 22:43:46",
-      "message": "[PROCESSING] Analyzing: OpenAI co-founder Greg Brockman takes charge of product strategy..."
-    },
     {
       "timestamp": "2026-05-16 22:43:49",
       "message": "[SUCCESS] Processed: OpenAI \uacf5\ub3d9 \ucc3d\ub9bd\uc790 \uadf8\ub809 \ube0c\ub85d\ub9e8, \uc81c\ud488 \uc804\ub7b5 \ub2f4\ub2f9\n  > Summary: OpenAI\uc758 \ucd5c\uadfc \ubcc0\ud654\ub294 \ud68c\uc0ac\uac00 ChatGPT\uc640 \ud504\ub85c\uadf8\ub798\ubc0d \uc81c\ud488\uc778 Codex\ub97c \ud1b5\ud569\ud560 \uacc4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 22:44:23",
       "message": "[PROCESSING] Analyzing: Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026..."
+    },
+    {
+      "timestamp": "2026-05-16 22:44:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
     }
   ]
 }
