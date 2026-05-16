@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 12:42:02",
+  "last_updated": "2026-05-16 12:42:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 12:41:31",
-      "message": "Found 192 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-16 12:41:31",
       "message": "[PROCESSING] Analyzing: Mixtape is a musical portrait of teenage life..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 12:42:02",
       "message": "Reprocessing: Compute And Memory Price Hikes Drive IT Spending Way Higher"
+    },
+    {
+      "timestamp": "2026-05-16 12:42:04",
+      "message": "[SKIP] Content too short: Compute And Memory Price Hikes..."
     }
   ]
 }
