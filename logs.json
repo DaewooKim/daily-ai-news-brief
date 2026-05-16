@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 18:12:48",
+  "last_updated": "2026-05-16 18:12:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 18:12:12",
-      "message": "[PROCESSING] Analyzing: NPR\u2019s Manoush Zomorodi talks about living with too much tech..."
-    },
     {
       "timestamp": "2026-05-16 18:12:16",
       "message": "[SKIP] Irrelevant (AI Filter): NPR\u2019s Manoush Zomorodi talks about living with too much tech"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 18:12:48",
       "message": "[SKIP] Content too short: HPE Throws VM Users A Lifeline..."
+    },
+    {
+      "timestamp": "2026-05-16 18:12:50",
+      "message": "Reprocessing: OpenAI, Microsoft And Friends Build A Better, More Scalable Ethernet"
     }
   ]
 }
