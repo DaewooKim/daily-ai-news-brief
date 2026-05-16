@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-16 13:47:57",
+  "last_updated": "2026-05-16 13:47:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-16 13:47:14",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-16 13:47:27",
       "message": "Found 192 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-16 13:47:57",
       "message": "[SKIP] Content too short: HPE Throws VM Users A Lifeline..."
+    },
+    {
+      "timestamp": "2026-05-16 13:47:59",
+      "message": "Reprocessing: OpenAI, Microsoft And Friends Build A Better, More Scalable Ethernet"
     }
   ]
 }
