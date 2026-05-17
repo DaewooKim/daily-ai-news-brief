@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-17 19:53:38",
+  "last_updated": "2026-05-17 19:53:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-17 19:52:56",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-17 19:53:07",
       "message": "Found 169 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-17 19:53:38",
       "message": "[PROCESSING] Analyzing: Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials..."
+    },
+    {
+      "timestamp": "2026-05-17 19:53:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials"
     }
   ]
 }
