@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-17 09:57:36",
+  "last_updated": "2026-05-17 09:57:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-17 09:57:03",
-      "message": "[SUCCESS] Processed: AI\uac00 SAS\uc758 \uc804\ub7b5\uc744 \uc2dc\ud5d8\ud558\ub294 \uac00\uc6b4\ub370, 50\ub144 \ub41c \ubd84\uc11d \ud68c\uc0ac\uc758 \uacf5\ub3d9 \uc124\ub9bd\uc790\uc778 83\uc138 SAS CEO \uc9d0 \uad7f\ub098\uc774\ud2b8 \ud504\ub85c\ud544\n  > Summary: \ud3ec\ube0c\uc2a4\uc758 \ud3ec\ube44 \ub9ac\uc6b0\uac00 \uc804\ud558\ub294 \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 SAS\uc758 CEO\uc774\uc790 \uacf5\ub3d9 \ucc3d\ub9bd\uc790\uc778 \uc9d0 \uad7f\ub098\uc774\ud2b8\ub97c..."
-    },
     {
       "timestamp": "2026-05-17 09:57:04",
       "message": "[PROCESSING] Analyzing: Experts: Stuxnet-linked Fast16 malware, designed to subvert nuclear weapons testing simulations, was likely part of a campaign to slow Iran's nuclear ambitions (Kim Zetter/ZERO DAY)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-17 09:57:36",
       "message": "[PROCESSING] Analyzing: A New Heat Transport Regime Discovered in Ultrathin Semiconductors..."
+    },
+    {
+      "timestamp": "2026-05-17 09:57:38",
+      "message": "[SKIP] Irrelevant (AI Filter): A New Heat Transport Regime Discovered in Ultrathin Semiconductors"
     }
   ]
 }
