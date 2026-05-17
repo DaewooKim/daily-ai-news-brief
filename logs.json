@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-17 21:01:36",
+  "last_updated": "2026-05-17 21:01:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-17 21:00:59",
-      "message": "[SUCCESS] Processed: \uc815\uc804 \ubcf4\uace0\uc11c: AI \ubd90\uc774 \uc218\ub144\uac04\uc758 \ub370\uc774\ud130 \uc13c\ud130 \ubcf5\uc6d0\ub825 \ud5a5\uc0c1\uc5d0 \uc704\ud611\uc744 \uc900\ub2e4\n  > Summary: Uptime Institute\uc758 \uc0c8\ub85c\uc6b4 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74, \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc804\uc6d0 \uc815\uc804 \ubc1c\uc0dd\uc774 \uacc4..."
-    },
     {
       "timestamp": "2026-05-17 21:01:00",
       "message": "[PROCESSING] Analyzing: Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-17 21:01:36",
       "message": "[PROCESSING] Analyzing: Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure..."
+    },
+    {
+      "timestamp": "2026-05-17 21:01:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure"
     }
   ]
 }
