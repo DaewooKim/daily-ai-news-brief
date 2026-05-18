@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-18 19:15:14",
+  "last_updated": "2026-05-18 19:15:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-18 19:14:23",
-      "message": "[SKIP] Irrelevant (AI Filter): X quietly limits users who didn't pay for verification to \"50 original posts and 200 replies per day\", down from 2,400 posts per day (Jackson Chen/Engadget)"
-    },
     {
       "timestamp": "2026-05-18 19:14:25",
       "message": "[PROCESSING] Analyzing: Uber increases its stake in Delivery Hero to 19.5%, up from 7% in April, and says it \"has no intent to acquire 30% or more\" of Delivery Hero's voting rights (Natalie Lung/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-18 19:15:14",
       "message": "[SUCCESS] Processed: \uc2e4\uc2dc\uac04 \uc0dd\uc131 \ube44\ub514\uc624 \ubc0f GPU \ucd5c\uc801\ud654 \uae30\uc220\uc744 \uc81c\uacf5\ud558\ub294 Decart, \uc57d 40\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\ub85c 3\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4.\n  > Summary: Decart\ub294 \uc2e4\uc2dc\uac04 \uc0dd\uc131 \ube44\ub514\uc624 \ubc0f GPU \ucd5c\uc801\ud654 \uae30\uc220\uc744 \uc81c\uacf5\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c, \ucd5c\uadfc 3..."
+    },
+    {
+      "timestamp": "2026-05-18 19:15:16",
+      "message": "Reprocessing: HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)"
     }
   ]
 }
