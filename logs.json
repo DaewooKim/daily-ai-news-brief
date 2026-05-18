@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-18 01:28:05",
-  "status": "idle",
+  "last_updated": "2026-05-18 02:28:37",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-18 01:26:41",
-      "message": "[SKIP] Content too short: Dataiku launches governed AI w..."
+      "timestamp": "2026-05-18 02:28:23",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-18 01:26:43",
-      "message": "Reprocessing: OpenAI reportedly mulls taking Apple to court over ChatGPT\u2019s Siri integration"
+      "timestamp": "2026-05-18 02:28:24",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-18 01:26:44",
-      "message": "[SKIP] Content too short: OpenAI reportedly mulls taking..."
+      "timestamp": "2026-05-18 02:28:24",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-18 01:26:46",
-      "message": "Reprocessing: OpenAI brings Codex to mobile devices, adds more customization features"
+      "timestamp": "2026-05-18 02:28:37",
+      "message": "Found 163 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-18 01:26:47",
-      "message": "[SKIP] Content too short: OpenAI brings Codex to mobile ..."
-    },
-    {
-      "timestamp": "2026-05-18 01:26:49",
-      "message": "Reprocessing: Applied Materials boosts its outlook as AI chipmakers scramble to add more production capacity"
-    },
-    {
-      "timestamp": "2026-05-18 01:26:50",
-      "message": "[SKIP] Content too short: Applied Materials boosts its o..."
-    },
-    {
-      "timestamp": "2026-05-18 01:26:52",
-      "message": "Reprocessing: AI training data provider Wirestock raises $23M in funding"
-    },
-    {
-      "timestamp": "2026-05-18 01:26:53",
-      "message": "[SKIP] Content too short: AI training data provider Wire..."
-    },
-    {
-      "timestamp": "2026-05-18 01:26:55",
-      "message": "Reprocessing: A $10T bet: Coupa leverages data to build its case for AI and autonomous spend management"
-    },
-    {
-      "timestamp": "2026-05-18 01:26:56",
-      "message": "[SKIP] Content too short: A $10T bet: Coupa leverages da..."
-    },
-    {
-      "timestamp": "2026-05-18 01:26:58",
-      "message": "Reprocessing: PwC expands Anthropic alliance, will train 30,000 staff on Claude"
-    },
-    {
-      "timestamp": "2026-05-18 01:26:59",
-      "message": "[SKIP] Content too short: PwC expands Anthropic alliance..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:01",
-      "message": "Reprocessing: Autodesk taps Permiso Security to monitor AI agents across its cloud and workforce"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:02",
-      "message": "[SKIP] Content too short: Autodesk taps Permiso Security..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:04",
-      "message": "Reprocessing: Red Hat outlines sovereign AI strategy amid growing regulation and control concerns"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:05",
-      "message": "[SKIP] Content too short: Red Hat outlines sovereign AI ..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:07",
-      "message": "Reprocessing: Figma stock jumps as first-quarter revenue surges 46% on AI monetization traction"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:08",
-      "message": "[SKIP] Content too short: Figma stock jumps as first-qua..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:10",
-      "message": "Reprocessing: Boomi and AWS built the guardrails for agents before anyone was asking for them"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:11",
-      "message": "[SKIP] Content too short: Boomi and AWS built the guardr..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:12",
-      "message": "Reprocessing: Graphon reels in $8.3M for its persistent relational memory platform"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:14",
-      "message": "[SKIP] Content too short: Graphon reels in $8.3M for its..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:15",
-      "message": "Reprocessing: The headless enterprise has arrived: theCUBE\u2019s Boomi World day two keynote analysis"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:17",
-      "message": "[SKIP] Content too short: The headless enterprise has ar..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:18",
-      "message": "Reprocessing: Fuel for the AI factory: Data orchestration becomes Dell\u2019s guiding star in the new age of machine intelligence"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:20",
-      "message": "[SKIP] Content too short: Fuel for the AI factory: Data ..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:21",
-      "message": "Reprocessing: Untrained AI agents are easy security targets \u2014 they don\u2019t know bad people exist, says KnowBe4 CEO"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:23",
-      "message": "[SKIP] Content too short: Untrained AI agents are easy s..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:24",
-      "message": "Reprocessing: As AI agents flood the enterprise, trust becomes one true bedrock: theCUBE\u2019s VeeamON keynote analysis"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:26",
-      "message": "[SKIP] Content too short: As AI agents flood the enterpr..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:27",
-      "message": "Reprocessing: Anthropic announces \u2018programmatic credit pool\u2019 as agentic tool\u00a0use\u00a0rises"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:29",
-      "message": "[SKIP] Content too short: Anthropic announces \u2018programma..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:30",
-      "message": "[PROCESSING] Analyzing: Dell XPS 14 2026 Review Thin and Light Done Right..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:32",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell XPS 14 2026 Review Thin and Light Done Right"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:34",
-      "message": "[PROCESSING] Analyzing: BZIZU Realtek RTL8127 PCIe 10GbE Network Adapter Review..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:36",
-      "message": "[SKIP] Irrelevant (AI Filter): BZIZU Realtek RTL8127 PCIe 10GbE Network Adapter Review"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:37",
-      "message": "[PROCESSING] Analyzing: ASUS ZenScreen MB16ACE Review A 15.6in 1080P IPS Option..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:39",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS ZenScreen MB16ACE Review A 15.6in 1080P IPS Option"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:41",
-      "message": "[PROCESSING] Analyzing: Fortinet FortiGate FG-40F Review Leveling-up Firewall Testing..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:43",
-      "message": "[SKIP] Irrelevant (AI Filter): Fortinet FortiGate FG-40F Review Leveling-up Firewall Testing"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:44",
-      "message": "Reprocessing: Kioxia XG10 Series PCIe Gen5 SSDs Announced"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:45",
-      "message": "[PROCESSING] Analyzing: Kioxia XG10 Series PCIe Gen5 SSDs Announced..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:49",
-      "message": "[SUCCESS] Processed: Kioxia XG10 \uc2dc\ub9ac\uc988 PCIe Gen5 SSD \ubc1c\ud45c\n  > Summary: Kioxia\uac00 XG10 \uc2dc\ub9ac\uc988\ub97c \ubc1c\ud45c\ud558\uba70 \uace0\uae09 \ud074\ub77c\uc774\uc5b8\ud2b8 M.2 SSD\uc5d0 PCIe Gen5..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:50",
-      "message": "Reprocessing: Building a general-purpose accessibility agent\u2014and what we learned in the process"
-    },
-    {
-      "timestamp": "2026-05-18 01:27:52",
-      "message": "[PROCESSING] Analyzing: Building a general-purpose accessibility agent\u2014and what we learned in the process..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:55",
-      "message": "[SUCCESS] Processed: \ubc94\uc6a9 \uc811\uadfc\uc131 \uc5d0\uc774\uc804\ud2b8 \uad6c\ucd95 - \uacfc\uc815\uc5d0\uc11c \ubc30\uc6b4 \uac83\ub4e4\n  > Summary: GitHub\uc740 \uc811\uadfc\uc131\uc744 \uc704\ud55c \ubc94\uc6a9 \uc5d0\uc774\uc804\ud2b8\ub97c \uc2dc\ubc94 \uc6b4\uc601\ud558\uace0 \uc788\uc73c\uba70, \ucf54\ub4dc \ubcc0\uacbd \uc0ac\ud56d\uc744 \uc790\ub3d9..."
-    },
-    {
-      "timestamp": "2026-05-18 01:27:57",
-      "message": "Completed! New: 1, Updated: 49"
-    },
-    {
-      "timestamp": "2026-05-18 01:28:00",
-      "message": "Saved 50 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-18 01:28:03",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-18 02:28:37",
+      "message": "[PROCESSING] Analyzing: Oddity is masterfully tense horror from the director of Hokum..."
     }
   ]
 }
