@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-18 04:43:28",
+  "last_updated": "2026-05-18 04:43:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-18 04:42:46",
-      "message": "[PROCESSING] Analyzing: Chinese chipmaker CXMT reports Q1 revenue up 719% YoY to ~$7.5B, net profit up 1,688% to $3.6B, and says Omdia ranks it No. 4 in DRAM with a 7.67% global share (Cheng Ting-Fang/Nikkei Asia)..."
-    },
     {
       "timestamp": "2026-05-18 04:42:51",
       "message": "[SUCCESS] Processed: \uc911\uad6d \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4 CXMT, 1\ubd84\uae30 \ub9e4\ucd9c YoY 719% \uc99d\uac00\ud558\uba70 \uc57d 75\uc5b5 \ub2ec\ub7ec, \uc21c\uc774\uc775 1,688% \uc99d\uac00\ud558\uc5ec 36\uc5b5 \ub2ec\ub7ec \uae30\ub85d, Omdia\uc5d0 \uc758\ud574 DRAM \ubd80\ubb38 4\uc704\uc5d0 \uc62c\ub77c\n  > Summary: \uc911\uad6d\uc758 \uba54\ubaa8\ub9ac \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4 CXMT\ub294 1\ubd84\uae30 \ub9e4\ucd9c\uc774 \uc804\ub144 \ub300\ube44 719% \uc99d\uac00\ud55c \uc57d 75..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-18 04:43:28",
       "message": "[PROCESSING] Analyzing: Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure..."
+    },
+    {
+      "timestamp": "2026-05-18 04:43:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure"
     }
   ]
 }
