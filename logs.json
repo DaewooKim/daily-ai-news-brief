@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-18 15:52:34",
+  "last_updated": "2026-05-18 15:52:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-18 15:51:47",
-      "message": "[SUCCESS] Processed: \uc218\uc775 \uc694\uc57d: \ub124\uc624\ud074\ub77c\uc6b0\ub4dc, GPU \uacbd\uc7c1\uc5d0\uc11c \uc804\ub825 \uc804\uc7c1\uc73c\ub85c \uc804\ud658\n  > Summary: CoreWeave\uc640 Nebius\uc758 \uc218\uc775 \uacb0\uacfc\ub294 AI \uc778\ud504\ub77c \uacbd\uc7c1\uc774 \uc774\uc81c GPU \uacf5\uae09\ubfd0\ub9cc \uc544..."
-    },
     {
       "timestamp": "2026-05-18 15:51:49",
       "message": "[PROCESSING] Analyzing: Amazon's Alexa+ now produces AI-generated \"podcasts\" on various topics in the US, featuring chats between two AI \"co-hosts\", using content from media outlets (Todd Spangler/Variety)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-18 15:52:34",
       "message": "[PROCESSING] Analyzing: Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)..."
+    },
+    {
+      "timestamp": "2026-05-18 15:52:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)"
     }
   ]
 }
