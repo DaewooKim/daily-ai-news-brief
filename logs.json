@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-18 08:02:03",
+  "last_updated": "2026-05-18 08:02:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-18 08:01:16",
-      "message": "[SUCCESS] Processed: \uc218\uc775 \uc694\uc57d: \ub124\uc624\ud074\ub77c\uc6b0\ub4dc, GPU \uacbd\uc7c1\uc5d0\uc11c \uc804\ub825 \uc804\uc7c1\uc73c\ub85c \uc774\ub3d9\n  > Summary: CoreWeave\uc640 Nebius\uc758 \uc218\uc775 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, AI \uc778\ud504\ub77c \uacbd\uc7c1\uc740 \uc774\uc81c GPU ..."
-    },
     {
       "timestamp": "2026-05-18 08:01:17",
       "message": "[PROCESSING] Analyzing: A look at how the AI industry's intense pressure and high rewards are creating \"walls of resentment\" between Silicon Valley workers and their spouses (Alessandra Ram/Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-18 08:02:03",
       "message": "[PROCESSING] Analyzing: Source: Shein is acquiring San Francisco-based DTC clothing retailer Everlane, which focuses on sustainability and \"radical transparency\", in a $100M deal (Lauren Sherman/Puck)..."
+    },
+    {
+      "timestamp": "2026-05-18 08:02:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Shein is acquiring San Francisco-based DTC clothing retailer Everlane, which focuses on sustainability and \"radical transparency\", in a $100M deal (Lauren Sherman/Puck)"
     }
   ]
 }
