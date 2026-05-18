@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-18 09:09:20",
+  "last_updated": "2026-05-18 09:09:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-18 09:08:27",
-      "message": "[PROCESSING] Analyzing: In his weekly Linux kernel post, Linus Torvalds says \"AI tools are great\" but the flood of duplicate AI bug reports has made the security list \"unmanageable\" (Simon Sharwood/The Register)..."
-    },
     {
       "timestamp": "2026-05-18 09:08:33",
       "message": "[SUCCESS] Processed: \ub9ac\ub204\uc2a4 \ud1a0\ubc1c\uc988, \"AI \ub3c4\uad6c\ub294 \ud6cc\ub96d\ud558\ub2e4\" \ud558\uc9c0\ub9cc \uc911\ubcf5 AI \ubc84\uadf8 \ubcf4\uace0\uac00 \ubcf4\uc548 \ubaa9\ub85d\uc744 \"\uad00\ub9ac\ud560 \uc218 \uc5c6\uac8c \ub9cc\ub4e4\uc5c8\ub2e4\"\n  > Summary: \ub9ac\ub204\uc2a4 \ud1a0\ubc1c\uc988\ub294 \ub9e4\uc8fc Linux \ucee4\ub110 \uac8c\uc2dc\ubb3c\uc5d0\uc11c \"AI \ub3c4\uad6c\ub294 \ud6cc\ub96d\ud558\ub2e4\"\uace0 \ub9d0\ud588\uc9c0\ub9cc, \uc911\ubcf5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-18 09:09:20",
       "message": "[PROCESSING] Analyzing: Quebec-based telecom software startup Gaiia raised a CA$54.8M Series B led by JMI Equity, bringing its total funding to ~CA$90M from backers including YC (Madison McLauchlan/BetaKit)..."
+    },
+    {
+      "timestamp": "2026-05-18 09:09:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Quebec-based telecom software startup Gaiia raised a CA$54.8M Series B led by JMI Equity, bringing its total funding to ~CA$90M from backers including YC (Madison McLauchlan/BetaKit)"
     }
   ]
 }
