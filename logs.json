@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-18 19:15:26",
+  "last_updated": "2026-05-18 19:15:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-18 19:14:37",
-      "message": "[SUCCESS] Processed: \uc2dc\uac8c\uc774\ud2b8 \uc8fc\uac00 9% \uc774\uc0c1 \ud558\ub77d, AI \uad6c\ucd95\uc73c\ub85c \uc778\ud55c \uc218\uc694 \ubd88\ub9cc \uc6b0\ub824\ub97c \uc81c\uae30\ud55c CEO\uc758 \ubc1c\uc5b8 \ud6c4 \uc804\ubc18\uc801\uc778 \ub9e4\ub3c4 \uc555\ubc15\uc744 \uc774\ub04c\ub2e4\n  > Summary: \uc2dc\uac8c\uc774\ud2b8\uc758 \uc8fc\uac00\ub294 CEO \ub370\uc774\ube0c \ubaa8\uc2ac\ub9ac\uc758 \ubc1c\uc5b8 \ud6c4 9% \uc774\uc0c1 \ud558\ub77d\ud588\uc2b5\ub2c8\ub2e4. \uadf8\ub294 AI \uad6c\ucd95..."
-    },
     {
       "timestamp": "2026-05-18 19:14:38",
       "message": "[PROCESSING] Analyzing: Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation (Cristian Dina/The Next Web)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-18 19:15:26",
       "message": "[PROCESSING] Analyzing: Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)..."
+    },
+    {
+      "timestamp": "2026-05-18 19:15:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)"
     }
   ]
 }
