@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 05:15:35",
+  "last_updated": "2026-05-19 05:15:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 05:14:52",
-      "message": "[PROCESSING] Analyzing: A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)..."
-    },
     {
       "timestamp": "2026-05-19 05:14:54",
       "message": "[SKIP] Irrelevant (AI Filter): A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 05:15:35",
       "message": "Reprocessing: NXP, Quanta Simplify Deployment of Zonal Vehicle Architectures"
+    },
+    {
+      "timestamp": "2026-05-19 05:15:37",
+      "message": "[PROCESSING] Analyzing: NXP, Quanta Simplify Deployment of Zonal Vehicle Architectures..."
     }
   ]
 }
