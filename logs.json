@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 14:06:14",
+  "last_updated": "2026-05-19 14:06:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 14:05:14",
-      "message": "[SUCCESS] Processed: \uc790\ub3d9\ucc28 \uc81c\uc870\uc5c5\uccb4\ub4e4\uc740 AI\ub85c \ubc18\ub3c4\uccb4 \uacf5\uae09 \ubd80\uc871\uc5d0 \uc9c1\uba74\ud558\ub2e4\n  > Summary: 2026\ub144, \uc804 \uc138\uacc4 \uc790\ub3d9\ucc28 \uc0b0\uc5c5\uc740 DRAM \ubc0f NAND \ud50c\ub798\uc2dc \uc2a4\ud1a0\ub9ac\uc9c0\uc758 \uc2ec\uac01\ud55c \ubd80\uc871\uc73c\ub85c..."
-    },
     {
       "timestamp": "2026-05-19 14:05:16",
       "message": "Reprocessing: IDCA: Data Centers Hit 67.7 GW as Policy Pushback Mounts"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 14:06:14",
       "message": "[PROCESSING] Analyzing: CertiK: physical attacks on crypto holders rose 75% YoY to 72 confirmed cases and $41M in known losses in 2025; Coinbase spent ~$7.6M to protect Brian Armstrong (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-19 14:06:17",
+      "message": "[SKIP] Irrelevant (AI Filter): CertiK: physical attacks on crypto holders rose 75% YoY to 72 confirmed cases and $41M in known losses in 2025; Coinbase spent ~$7.6M to protect Brian Armstrong (Bloomberg)"
     }
   ]
 }
