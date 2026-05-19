@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 10:44:05",
+  "last_updated": "2026-05-19 10:44:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 10:43:24",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-19 10:43:24",
       "message": "[PROCESSING] Analyzing: Gemini is in danger of going full Copilot..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 10:44:05",
       "message": "Reprocessing: With Its IPO Done, Cerebras Can Get Back To Pushing The AI Envelope"
+    },
+    {
+      "timestamp": "2026-05-19 10:44:07",
+      "message": "[SKIP] Content too short: With Its IPO Done, Cerebras Ca..."
     }
   ]
 }
