@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 16:22:00",
+  "last_updated": "2026-05-19 16:22:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 16:21:14",
-      "message": "[SUCCESS] Processed: Polymarket, Nasdaq\uc640 \ud611\ub825\ud558\uc5ec IPO \ud0c0\uc774\ubc0d, \ud3c9\uac00, \uc218\uc775 \ubc0f 2\ucc28 \uc2dc\uc7a5 \ud65c\ub3d9\uacfc \uad00\ub828\ub41c \ubbfc\uac04 \uae30\uc5c5 \uc774\uc815\ud45c\uc5d0 \uc5f0\uacb0\ub41c \uc2dc\uc7a5 \ucd9c\uc2dc\n  > Summary: Polymarket\uc774 Nasdaq\uc640 \ud611\ub825\ud558\uc5ec IPO \ud0c0\uc774\ubc0d, \uae30\uc5c5 \ud3c9\uac00, \uc218\uc775 \ubc0f 2\ucc28 \uc2dc..."
-    },
     {
       "timestamp": "2026-05-19 16:21:16",
       "message": "[PROCESSING] Analyzing: NYSE owner Intercontinental Exchange partners with financial infrastructure company Ornn to launch USD-denominated futures contracts for computing power (Katherine Doherty/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 16:22:00",
       "message": "[PROCESSING] Analyzing: Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)..."
+    },
+    {
+      "timestamp": "2026-05-19 16:22:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)"
     }
   ]
 }
