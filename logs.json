@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 20:51:15",
+  "last_updated": "2026-05-19 20:51:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 20:50:25",
-      "message": "[PROCESSING] Analyzing: Meta begins laying off 8,000 employees, or 10% of staff, in a push to become an AI-first company; another 7,000 workers will be reassigned to AI initiatives (New York Times)..."
-    },
     {
       "timestamp": "2026-05-19 20:50:29",
       "message": "[SUCCESS] Processed: \uba54\ud0c0, AI \uc911\uc2ec \ud68c\uc0ac\ub85c \uc804\ud658\ud558\uae30 \uc704\ud574 8,000\uba85 \ud574\uace0 \uc2dc\uc791\n  > Summary: \uba54\ud0c0\ub294 \uc9c1\uc6d0\uc758 10%\uc5d0 \ud574\ub2f9\ud558\ub294 8,000\uba85\uc744 \ud574\uace0\ud558\uace0, \ucd94\uac00\ub85c 7,000\uba85\uc744 AI \uc774\ub2c8\uc154..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 20:51:15",
       "message": "[PROCESSING] Analyzing: A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)..."
+    },
+    {
+      "timestamp": "2026-05-19 20:51:17",
+      "message": "[SKIP] Irrelevant (AI Filter): A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)"
     }
   ]
 }
