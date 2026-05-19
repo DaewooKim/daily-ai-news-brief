@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 17:29:48",
+  "last_updated": "2026-05-19 17:29:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 17:28:57",
-      "message": "[SUCCESS] Processed: SEMI\uc640 23\uac1c \ud68c\uc6d0\uc0ac, \ubbf8\uad6d \uc758\ud68c\uc5d0 \ucca8\ub2e8 \uc81c\uc870 \ud22c\uc790 \uc138\uc561 \uacf5\uc81c\ub97c \uc5f0\uc7a5\ud560 \uac83\uc744 \ucd09\uad6c\ud558\ub2e4\n  > Summary: SEMI\uc640 23\uac1c \ud68c\uc6d0\uc0ac\ub294 \ubbf8\uad6d \uc758\ud68c\uc5d0 \ucca8\ub2e8 \uc81c\uc870 \ud22c\uc790 \uc138\uc561 \uacf5\uc81c(AMIC)\uc758 \ub2e4\ub144 \uc5f0\uc7a5\uc744..."
-    },
     {
       "timestamp": "2026-05-19 17:28:59",
       "message": "[PROCESSING] Analyzing: OpenAI co-founder Andrej Karpathy announces he's joining Anthropic..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 17:29:48",
       "message": "Reprocessing: Torq acquires AI security startup Jit to add context graphs to its security operations center platform"
+    },
+    {
+      "timestamp": "2026-05-19 17:29:50",
+      "message": "[SKIP] Content too short: Torq acquires AI security star..."
     }
   ]
 }
