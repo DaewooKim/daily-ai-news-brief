@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 19:42:43",
+  "last_updated": "2026-05-19 19:42:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 19:41:49",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-19 19:42:04",
       "message": "Found 160 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 19:42:43",
       "message": "[SUCCESS] Processed: \uad6c\uae00, \uba54\ud0c0\uc758 \ubc29\uce68\uc744 \ub530\ub974\uba70 \uc0c8\ub85c\uc6b4 \uc624\ub514\uc624 \uae30\ubc18 \uc2a4\ub9c8\ud2b8 \uae00\ub798\uc2a4 \ubc1c\ud45c\n  > Summary: \uad6c\uae00\uc774 '\uc624\ub514\uc624 \uae00\ub798\uc2a4'\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uc7a5\uce58\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc0ac\uc6a9\uc790\ub294 \uc74c\uc131 \uba85\ub839\uc744 \ud1b5\ud574 \uc7a5\uce58\ub97c..."
+    },
+    {
+      "timestamp": "2026-05-19 19:42:45",
+      "message": "Reprocessing: OpenAI is making it easier to check if an image was made by their models"
     }
   ]
 }
