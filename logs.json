@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-19 00:52:17",
+  "last_updated": "2026-05-19 00:52:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-19 00:51:35",
-      "message": "[SUCCESS] Processed: SEMI\uc640 23\uac1c \ud68c\uc6d0\uc0ac, \ubbf8\uad6d \uc758\ud68c\uc5d0 \uace0\uae09 \uc81c\uc870 \ud22c\uc790 \uc138\uc561 \uacf5\uc81c \uc5f0\uc7a5\uc744 \ucd09\uad6c\ud558\ub2e4\n  > Summary: SEMI\uc640 23\uac1c \ud68c\uc6d0\uc0ac\ub294 \ubbf8\uad6d \uc758\ud68c\uc5d0 \uace0\uae09 \uc81c\uc870 \ud22c\uc790 \uc138\uc561 \uacf5\uc81c(AMIC)\uc758 \ub2e4\ub144 \uac04 \uc5f0..."
-    },
     {
       "timestamp": "2026-05-19 00:51:36",
       "message": "Reprocessing: Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-19 00:52:17",
       "message": "Reprocessing: Enterprises are facing an integration problem no model alone can fix"
+    },
+    {
+      "timestamp": "2026-05-19 00:52:19",
+      "message": "[SKIP] Content too short: Enterprises are facing an inte..."
     }
   ]
 }
