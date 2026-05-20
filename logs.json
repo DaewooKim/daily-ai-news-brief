@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 14:26:56",
+  "last_updated": "2026-05-20 14:26:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 14:26:12",
-      "message": "[SUCCESS] Processed: \ub354 \uc548\uc804\ud558\uace0 \ud22c\uba85\ud55c AI \uc0dd\ud0dc\uacc4\ub97c \uc704\ud55c \ucf58\ud150\uce20 \ucd9c\ucc98\uc758 \ubc1c\uc804\n  > Summary: OpenAI\ub294 \ucf58\ud150\uce20 \uc790\uaca9 \uc99d\uba85(Content Credentials), SynthID, \ubc0f..."
-    },
     {
       "timestamp": "2026-05-20 14:26:14",
       "message": "[PROCESSING] Analyzing: Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 14:26:56",
       "message": "[PROCESSING] Analyzing: ASML, Tata Electronics Partner for India\u2019s First 300-mm Semiconductor Fab..."
+    },
+    {
+      "timestamp": "2026-05-20 14:26:59",
+      "message": "[SKIP] Irrelevant (AI Filter): ASML, Tata Electronics Partner for India\u2019s First 300-mm Semiconductor Fab"
     }
   ]
 }
