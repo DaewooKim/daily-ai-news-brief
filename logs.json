@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 22:18:21",
+  "last_updated": "2026-05-20 22:18:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 22:17:36",
-      "message": "[PROCESSING] Analyzing: Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)..."
-    },
     {
       "timestamp": "2026-05-20 22:17:38",
       "message": "[SKIP] Irrelevant (AI Filter): Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 22:18:21",
       "message": "Reprocessing: Exa Labs raises $250M at $2.2B valuation for its AI search tools"
+    },
+    {
+      "timestamp": "2026-05-20 22:18:23",
+      "message": "[SKIP] Content too short: Exa Labs raises $250M at $2.2B..."
     }
   ]
 }
