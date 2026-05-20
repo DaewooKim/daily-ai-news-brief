@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 23:23:30",
+  "last_updated": "2026-05-20 23:23:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 23:22:52",
-      "message": "Reprocessing: GITEX AI EUROPE"
-    },
     {
       "timestamp": "2026-05-20 23:22:53",
       "message": "[SKIP] Content too short: GITEX AI EUROPE..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 23:23:30",
       "message": "[PROCESSING] Analyzing: Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-20 23:23:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)"
     }
   ]
 }
