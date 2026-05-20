@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 10:02:59",
+  "last_updated": "2026-05-20 10:03:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 10:02:12",
-      "message": "[SUCCESS] Processed: EU: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc744 \ubcc0\ud601\ud560 \uac83 - \ud558\uc9c0\ub9cc \ud558\ub8fb\ubc24 \uc0ac\uc774\uc5d0 \uc77c\uc5b4\ub098\uc9c0\ub294 \uc54a\uc744 \uac83\n  > Summary: \uc6b0\ub9ac\ub294 \uc815\ubd80 \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc5d0\uc11c AI\uc758 \ube44\uc804\uc744 \uad00\ub9ac\ud558\ub294 EU \uae30\uad00\uacfc \ub300\ud654\ud588\uc2b5\ub2c8\ub2e4. AI\uac00..."
-    },
     {
       "timestamp": "2026-05-20 10:02:14",
       "message": "Reprocessing: IDCA: Data Centers Hit 67.7 GW as Policy Pushback Mounts"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 10:02:59",
       "message": "[PROCESSING] Analyzing: A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)..."
+    },
+    {
+      "timestamp": "2026-05-20 10:03:01",
+      "message": "[SKIP] Irrelevant (AI Filter): A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)"
     }
   ]
 }
