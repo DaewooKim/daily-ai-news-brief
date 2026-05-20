@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 14:29:04",
+  "last_updated": "2026-05-20 14:29:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 14:28:11",
-      "message": "[PROCESSING] Analyzing: Kickstarter retracts its stricter rules on mature content after creator backlash, and says it adopted the tougher rules because of its payment processor Stripe (Mariella Moon/Engadget)..."
-    },
     {
       "timestamp": "2026-05-20 14:28:13",
       "message": "[SKIP] Irrelevant (AI Filter): Kickstarter retracts its stricter rules on mature content after creator backlash, and says it adopted the tougher rules because of its payment processor Stripe (Mariella Moon/Engadget)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 14:29:04",
       "message": "Reprocessing: 1Password extends OpenAI collaboration with Codex MCP server for just-in-time credential access"
+    },
+    {
+      "timestamp": "2026-05-20 14:29:06",
+      "message": "[SKIP] Content too short: 1Password extends OpenAI colla..."
     }
   ]
 }
