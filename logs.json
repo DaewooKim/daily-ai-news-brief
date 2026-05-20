@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 05:39:43",
+  "last_updated": "2026-05-20 05:39:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 05:39:04",
-      "message": "[SUCCESS] Processed: \ubca0\ud2b8\ub0a8, AI \ubc95\ub960 \uc2dc\ud589\uc744 \uc704\ud55c \uc81c142\ud638 \ud3ec\uace0\ub839 \ub3c4\uc785, \uae30\uc5c5\uc5d0 AI \ubaa8\ub378\uc744 \uc704\ud5d8 \uc218\uc900\ubcc4\ub85c \ubd84\ub958\ud558\uace0 \ub525\ud398\uc774\ud06c\uc5d0 \ub77c\ubca8\uc744 \ubd99\uc774\uba70 \ucc57\ubd07 \uc0ac\uc6a9\uc744 \uacf5\uac1c\ud558\ub3c4\ub85d \uc694\uad6c\n  > Summary: \ubca0\ud2b8\ub0a8\uc774 AI \ubc95\ub960\uc744 \uc2dc\ud589\ud558\uae30 \uc704\ud574 \uc81c142\ud638 \ud3ec\uace0\ub839\uc744 \ub3c4\uc785\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubc95\uc740 \uae30\uc5c5\ub4e4\uc774 A..."
-    },
     {
       "timestamp": "2026-05-20 05:39:05",
       "message": "[PROCESSING] Analyzing: Filing and sources: PE firm Hg has spun out \u20ac500M worth of assets from its \u20ac19B software group Visma, whose London IPO remains shelved amid the \"SaaSpocalypse\" (Alexandra Heal/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 05:39:43",
       "message": "[PROCESSING] Analyzing: A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)..."
+    },
+    {
+      "timestamp": "2026-05-20 05:39:45",
+      "message": "[SKIP] Irrelevant (AI Filter): A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)"
     }
   ]
 }
