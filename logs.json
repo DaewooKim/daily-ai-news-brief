@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 22:17:49",
+  "last_updated": "2026-05-20 22:17:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 22:17:05",
-      "message": "[PROCESSING] Analyzing: SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it's expanding the deal to include Colossus 2 capacity (Ina Fried/Axios)..."
-    },
     {
       "timestamp": "2026-05-20 22:17:09",
       "message": "[SUCCESS] Processed: SpaceX S-1: Anthropic\uc774 \ucef4\ud4e8\ud2b8 \uacc4\uc57d\uc5d0 \ub530\ub77c SpaceX\uc5d0 \ub9e4\uc6d4 12\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \uc9c0\ubd88\ud558\uace0 \uc788\uc73c\uba70, Colossus 2 \uc6a9\ub7c9\uc744 \ud3ec\ud568\ud558\uae30 \uc704\ud574 \uacc4\uc57d\uc744 \ud655\uc7a5\ud558\uace0 \uc788\ub2e4\uace0 \ubc1c\ud45c\ud558\ub2e4.\n  > Summary: Anthropic\uc740 SpaceX\uc640 \uccb4\uacb0\ud55c \ucef4\ud4e8\ud2b8 \uacc4\uc57d\uc5d0 \ub530\ub77c 2029\ub144 5\uc6d4\uae4c\uc9c0 \ub9e4\ub2ec 12..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 22:17:49",
       "message": "[PROCESSING] Analyzing: SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics..."
+    },
+    {
+      "timestamp": "2026-05-20 22:17:51",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics"
     }
   ]
 }
