@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 17:49:44",
+  "last_updated": "2026-05-20 17:49:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 17:49:06",
-      "message": "[PROCESSING] Analyzing: Airbnb says it is adding luggage storage, airport pickups, car rentals, grocery delivery, and thousands of boutique and independent hotels to its platform (Jacob Passy/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-05-20 17:49:09",
       "message": "[SUCCESS] Processed: \uc5d0\uc5b4\ube44\uc564\ube44, \uc218\ud558\ubb3c \ubcf4\uad00\uc18c, \uacf5\ud56d \ud53d\uc5c5, \uc790\ub3d9\ucc28 \ub80c\ud0c8, \uc2dd\ub8cc\ud488 \ubc30\ub2ec \ubc0f \ub3c5\ub9bd \ubd80\ud2f0\ud06c \ud638\ud154 \ucd94\uac00\n  > Summary: \uc5d0\uc5b4\ube44\uc564\ube44\ub294 \ud50c\ub7ab\ud3fc\uc5d0 \uc218\ud558\ubb3c \ubcf4\uad00\uc18c, \uacf5\ud56d \ud53d\uc5c5, \uc790\ub3d9\ucc28 \ub80c\ud0c8, \uc2dd\ub8cc\ud488 \ubc30\ub2ec \ubc0f \uc218\ucc9c \uac1c\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 17:49:44",
       "message": "[PROCESSING] Analyzing: Apple says the App Store prevented over $2.2B in potentially fraudulent transactions in 2025, rejected over 2M problematic app submissions, and more (Ryan Christoffel/9to5Mac)..."
+    },
+    {
+      "timestamp": "2026-05-20 17:49:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple says the App Store prevented over $2.2B in potentially fraudulent transactions in 2025, rejected over 2M problematic app submissions, and more (Ryan Christoffel/9to5Mac)"
     }
   ]
 }
