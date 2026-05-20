@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 16:43:07",
+  "last_updated": "2026-05-20 16:43:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 16:42:25",
-      "message": "[PROCESSING] Analyzing: Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)..."
-    },
     {
       "timestamp": "2026-05-20 16:42:28",
       "message": "[SKIP] Irrelevant (AI Filter): Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 16:43:07",
       "message": "[PROCESSING] Analyzing: A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)..."
+    },
+    {
+      "timestamp": "2026-05-20 16:43:09",
+      "message": "[SKIP] Irrelevant (AI Filter): A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)"
     }
   ]
 }
