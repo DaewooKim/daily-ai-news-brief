@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 20:04:33",
+  "last_updated": "2026-05-20 20:04:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 20:03:36",
-      "message": "[PROCESSING] Analyzing: Mercury, which provides banking services to startups, raised a $200M Series D led by TCV at a $5.2B valuation, up from $3.5B in March 2025 (Hugh Son/CNBC)..."
-    },
     {
       "timestamp": "2026-05-20 20:03:39",
       "message": "[SKIP] Irrelevant (AI Filter): Mercury, which provides banking services to startups, raised a $200M Series D led by TCV at a $5.2B valuation, up from $3.5B in March 2025 (Hugh Son/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 20:04:33",
       "message": "[PROCESSING] Analyzing: GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft\u2019s Python SDK..."
+    },
+    {
+      "timestamp": "2026-05-20 20:04:35",
+      "message": "[SKIP] Irrelevant (AI Filter): GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft\u2019s Python SDK"
     }
   ]
 }
