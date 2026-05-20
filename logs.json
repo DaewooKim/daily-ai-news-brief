@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 14:29:00",
+  "last_updated": "2026-05-20 14:29:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 14:28:06",
-      "message": "[PROCESSING] Analyzing: S. \"Soma\" Somasegar, who led Microsoft's Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59 (Todd Bishop/GeekWire)..."
-    },
     {
       "timestamp": "2026-05-20 14:28:09",
       "message": "[SKIP] Irrelevant (AI Filter): S. \"Soma\" Somasegar, who led Microsoft's Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59 (Todd Bishop/GeekWire)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 14:29:00",
       "message": "Reprocessing: Forward launches Predict to verify network changes before they reach production"
+    },
+    {
+      "timestamp": "2026-05-20 14:29:02",
+      "message": "[SKIP] Content too short: Forward launches Predict to ve..."
     }
   ]
 }
