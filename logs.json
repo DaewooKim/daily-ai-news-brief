@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 00:11:09",
+  "last_updated": "2026-05-20 00:11:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 00:10:11",
-      "message": "[SUCCESS] Processed: \uc218\uc775 \uc694\uc57d: \ub124\uc624\ud074\ub77c\uc6b0\ub4dc, GPU \uacbd\uc7c1\uc5d0\uc11c \uc804\ub825 \uc804\uc7c1\uc73c\ub85c \uc804\ud658\n  > Summary: CoreWeave\uc640 Nebius\uc758 \uc218\uc775 \ubc1c\ud45c\uc5d0 \ub530\ub974\uba74, AI \uc778\ud504\ub77c \uacbd\uc7c1\uc774 \uc774\uc81c GPU \uacf5..."
-    },
     {
       "timestamp": "2026-05-20 00:10:12",
       "message": "[PROCESSING] Analyzing: Google unveils Continue On, a new feature in Android 17 that will let users move tasks between Android devices, similar to Apple's Handoff feature (Ben Schoon/9to5Google)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 00:11:09",
       "message": "[SKIP] Irrelevant (AI Filter): Roblox authorizes its first share buyback program, aiming to repurchase up to $3B of its stock, including $1B over the next year; RBLX is down ~45% YTD (Cecilia D'Anastasio/Bloomberg)"
+    },
+    {
+      "timestamp": "2026-05-20 00:11:11",
+      "message": "Reprocessing: OpenAI introduces Guaranteed Capacity, a new offering that lets customers guarantee access to OpenAI's compute through one- to three-year commitments (OpenAI)"
     }
   ]
 }
