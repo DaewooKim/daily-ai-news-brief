@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 02:23:40",
+  "last_updated": "2026-05-20 02:23:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 02:23:01",
-      "message": "[PROCESSING] Analyzing: Threat actors published 600+ malicious versions to npm as part of the Shai-Hulud supply chain campaign; most of the affected packages are in the @antv ecosystem (Bill Toulas/BleepingComputer)..."
-    },
     {
       "timestamp": "2026-05-20 02:23:03",
       "message": "[SKIP] Irrelevant (AI Filter): Threat actors published 600+ malicious versions to npm as part of the Shai-Hulud supply chain campaign; most of the affected packages are in the @antv ecosystem (Bill Toulas/BleepingComputer)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 02:23:40",
       "message": "Reprocessing: Google to embed AI shopping features in multiple services with Universal Cart"
+    },
+    {
+      "timestamp": "2026-05-20 02:23:42",
+      "message": "[SKIP] Content too short: Google to embed AI shopping fe..."
     }
   ]
 }
