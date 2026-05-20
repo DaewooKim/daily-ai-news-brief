@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 12:14:01",
+  "last_updated": "2026-05-20 12:14:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 12:13:13",
-      "message": "Reprocessing: OpenAI is making it easier to check if an image was made by their models"
-    },
     {
       "timestamp": "2026-05-20 12:13:15",
       "message": "[PROCESSING] Analyzing: OpenAI is making it easier to check if an image was made by their models..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 12:14:01",
       "message": "[PROCESSING] Analyzing: Hollow-Core Fiber: Faster, Greener, but Is It Worth the Cost?..."
+    },
+    {
+      "timestamp": "2026-05-20 12:14:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Hollow-Core Fiber: Faster, Greener, but Is It Worth the Cost?"
     }
   ]
 }
