@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 14:28:02",
+  "last_updated": "2026-05-20 14:28:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 14:27:15",
-      "message": "Reprocessing: IDCA: Data Centers Hit 67.7 GW as Policy Pushback Mounts"
-    },
     {
       "timestamp": "2026-05-20 14:27:17",
       "message": "[PROCESSING] Analyzing: IDCA: Data Centers Hit 67.7 GW as Policy Pushback Mounts..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 14:28:02",
       "message": "[PROCESSING] Analyzing: Cloud provider Railway says Google Cloud suspended its account without cause, resulting in an outage; in 2024, GCP deleted an Australian pension fund's account (The Register)..."
+    },
+    {
+      "timestamp": "2026-05-20 14:28:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Cloud provider Railway says Google Cloud suspended its account without cause, resulting in an outage; in 2024, GCP deleted an Australian pension fund's account (The Register)"
     }
   ]
 }
