@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-20 14:28:58",
+  "last_updated": "2026-05-20 14:29:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-20 14:28:04",
-      "message": "[SKIP] Irrelevant (AI Filter): Cloud provider Railway says Google Cloud suspended its account without cause, resulting in an outage; in 2024, GCP deleted an Australian pension fund's account (The Register)"
-    },
     {
       "timestamp": "2026-05-20 14:28:06",
       "message": "[PROCESSING] Analyzing: S. \"Soma\" Somasegar, who led Microsoft's Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59 (Todd Bishop/GeekWire)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-20 14:28:58",
       "message": "[SKIP] Content too short: NanoCo raises $12M to accelera..."
+    },
+    {
+      "timestamp": "2026-05-20 14:29:00",
+      "message": "Reprocessing: Forward launches Predict to verify network changes before they reach production"
     }
   ]
 }
