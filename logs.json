@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 00:28:02",
+  "last_updated": "2026-05-21 00:28:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 00:27:26",
-      "message": "[PROCESSING] Analyzing: Volvo is trying to put its EV stumbles in the rearview..."
-    },
     {
       "timestamp": "2026-05-21 00:27:28",
       "message": "[SKIP] Irrelevant (AI Filter): Volvo is trying to put its EV stumbles in the rearview"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 00:28:02",
       "message": "[PROCESSING] Analyzing: Anthropic says it\u2019s about to have its first profitable quarter..."
+    },
+    {
+      "timestamp": "2026-05-21 00:28:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic says it\u2019s about to have its first profitable quarter"
     }
   ]
 }
