@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 17:10:37",
+  "last_updated": "2026-05-21 17:10:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 17:09:50",
-      "message": "Reprocessing: AI video is moving beyond clip slop"
-    },
     {
       "timestamp": "2026-05-21 17:09:52",
       "message": "[PROCESSING] Analyzing: AI video is moving beyond clip slop..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 17:10:37",
       "message": "[PROCESSING] Analyzing: Spotify launches an ElevenLabs-powered audiobook creation tool..."
+    },
+    {
+      "timestamp": "2026-05-21 17:10:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Spotify launches an ElevenLabs-powered audiobook creation tool"
     }
   ]
 }
