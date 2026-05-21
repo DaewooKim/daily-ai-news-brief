@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 21:44:08",
+  "last_updated": "2026-05-21 21:44:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 21:43:23",
-      "message": "Reprocessing: Sources: OpenAI generated ~$5.7B in revenue in Q1, ~$1B more than Anthropic; its adjusted operating income margin was -122%, and ChatGPT user growth stalled (Sri Muppidi/The Information)"
-    },
     {
       "timestamp": "2026-05-21 21:43:25",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI generated ~$5.7B in revenue in Q1, ~$1B more than Anthropic; its adjusted operating income margin was -122%, and ChatGPT user growth stalled (Sri Muppidi/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 21:44:08",
       "message": "[PROCESSING] Analyzing: Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%..."
+    },
+    {
+      "timestamp": "2026-05-21 21:44:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%"
     }
   ]
 }
