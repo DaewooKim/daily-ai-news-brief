@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 20:37:51",
+  "last_updated": "2026-05-21 20:37:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 20:37:09",
-      "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
-    },
     {
       "timestamp": "2026-05-21 20:37:12",
       "message": "[SKIP] Irrelevant (AI Filter): MFA verifies who logged in. It has no idea what they do next."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 20:37:51",
       "message": "Reprocessing: Freshworks CEO: Mid-size enterprises can\u2019t compete with giants until they fix their fragmented data"
+    },
+    {
+      "timestamp": "2026-05-21 20:37:53",
+      "message": "[SKIP] Content too short: Freshworks CEO: Mid-size enter..."
     }
   ]
 }
