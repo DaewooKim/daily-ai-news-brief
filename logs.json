@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 17:14:14",
+  "last_updated": "2026-05-21 17:14:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 17:13:23",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d\uc778\ub4e4\uc740 \ub525\ud398\uc774\ud06c\ub97c \uad6c\ubcc4\ud560 \uc218 \uc5c6\uace0, \uc774\ub294 \uc18c\ube44\uc790 \ubb38\uc81c\ubfd0\ub9cc \uc544\ub2c8\ub77c \ube44\uc988\ub2c8\uc2a4 \uc704\uae30\uc774\ub2e4.\n  > Summary: \ubbf8\uad6d\uc778\ub4e4\uc740 AI\uac00 \uc0dd\uc131\ud55c \ucf58\ud150\uce20\uc640 \uc2e4\uc81c \ucf58\ud150\uce20\ub97c \uc2dd\ubcc4\ud558\ub294 \ub370 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\uc73c\uba70, \uc774\ub294 ..."
-    },
     {
       "timestamp": "2026-05-21 17:13:24",
       "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 17:14:14",
       "message": "Reprocessing: Major advances in AI and 3D medical imaging are changing what patients see in the exam room"
+    },
+    {
+      "timestamp": "2026-05-21 17:14:16",
+      "message": "[SKIP] Content too short: Major advances in AI and 3D me..."
     }
   ]
 }
