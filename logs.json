@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 00:30:01",
+  "last_updated": "2026-05-21 00:30:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 00:29:23",
-      "message": "[PROCESSING] Analyzing: SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company (Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-21 00:29:26",
       "message": "[SKIP] Irrelevant (AI Filter): SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 00:30:01",
       "message": "[SKIP] Content too short: Nvidia almost doubles its data..."
+    },
+    {
+      "timestamp": "2026-05-21 00:30:03",
+      "message": "Reprocessing: Mega IPOs on the way: SpaceX releases filing as OpenAI reportedly prepares for September listing"
     }
   ]
 }
