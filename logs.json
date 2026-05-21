@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 19:28:03",
+  "last_updated": "2026-05-21 19:28:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 19:27:18",
-      "message": "[SUCCESS] Processed: \uac00\ube48 \ub274\uc2a4\uc5c4, \uc9c1\uc6d0 \ub300\uccb4\ud558\uc9c0 \uc54a\ub294 \uae30\uc5c5\uc5d0 \ub300\ud55c \ubcf4\uc870\uae08 \uc5f0\uad6c\ub97c \uc704\ud574 AI \uc0b0\uc5c5\uacfc \ud611\ub825\ud558\ub77c\ub294 \ud589\uc815\uba85\ub839\uc5d0 \uc11c\uba85\ud558\ub2e4\n  > Summary: \uac00\ube48 \ub274\uc2a4\uc5c4 \uc8fc\uc9c0\uc0ac\uac00 \uc778\uacf5\uc9c0\ub2a5\uc73c\ub85c \uc778\ud55c \ub300\ub7c9 \uc2e4\uc5c5 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud574 \uc8fc \uc815\ubd80 \uae30\uad00\uc774 A..."
-    },
     {
       "timestamp": "2026-05-21 19:27:20",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI generated about $5.7B in revenue in Q1, nearly $1B more than Anthropic (Sri Muppidi/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 19:28:03",
       "message": "[PROCESSING] Analyzing: Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction..."
+    },
+    {
+      "timestamp": "2026-05-21 19:28:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction"
     }
   ]
 }
