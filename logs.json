@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 13:47:37",
+  "last_updated": "2026-05-21 13:47:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 13:46:48",
-      "message": "[PROCESSING] Analyzing: Sources: Anthropic is in talks to rent servers powered by Microsoft-designed chips; source: Anthropic has steadily increased its Azure usage since November 2025 (The Information)..."
-    },
     {
       "timestamp": "2026-05-21 13:46:52",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \uc564\ud2b8\ub85c\ud53d, \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc124\uacc4 \uce69\uc73c\ub85c \uad6c\ub3d9\ub418\ub294 \uc11c\ubc84 \uc784\ub300 \ud611\uc0c1 \uc911; \uc18c\uc2dd\ud1b5: \uc564\ud2b8\ub85c\ud53d\uc740 2025\ub144 11\uc6d4\ubd80\ud130 Azure \uc0ac\uc6a9\ub7c9\uc744 \uafb8\uc900\ud788 \uc99d\uac00\uc2dc\ucf1c\uc654\ub2e4\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uac00 \uc124\uacc4\ud55c AI \uc11c\ubc84 \uce69\uc73c\ub85c \uad6c\ub3d9\ub418\ub294 \uc11c\ubc84\ub97c \uc784\ub300\ud560 \ud611\uc0c1\uc744 \uc9c4\ud589 \uc911..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 13:47:37",
       "message": "[PROCESSING] Analyzing: Sources: Manus' co-founders are in talks to raise $1B+ to buy back the Chinese-founded startup, after Beijing ordered Meta to unwind its $2B Manus acquisition (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-21 13:47:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Manus' co-founders are in talks to raise $1B+ to buy back the Chinese-founded startup, after Beijing ordered Meta to unwind its $2B Manus acquisition (Bloomberg)"
     }
   ]
 }
