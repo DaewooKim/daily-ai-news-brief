@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 13:45:04",
+  "last_updated": "2026-05-21 13:45:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 13:44:12",
-      "message": "Found 157 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-21 13:44:12",
       "message": "[PROCESSING] Analyzing: Anthropic is paying $15 billion a year for access to Elon Musk\u2019s data centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 13:45:04",
       "message": "[SKIP] Content too short: Oak Ridge Starts Weaving Toget..."
+    },
+    {
+      "timestamp": "2026-05-21 13:45:05",
+      "message": "Reprocessing: Dell Bulks Up Hardware As AI Infrastructure Shifts To On-Premises"
     }
   ]
 }
