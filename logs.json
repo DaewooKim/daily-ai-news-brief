@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 19:29:45",
+  "last_updated": "2026-05-21 19:29:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 19:29:03",
-      "message": "[SUCCESS] Processed: \uae30\uc5c5 AI \uc5d0\uc774\uc804\ud2b8\ub294 \ubc30\uc6b4 \uac83\uc744 \uc78a\uae30 \ub54c\ubb38\uc5d0 \uc2e4\ud328\ud55c\ub2e4\n  > Summary: RAG \uc544\ud0a4\ud14d\ucc98\ub294 \uad00\ub828 \ubb38\uc11c\ub97c \uac80\uc0c9\ud558\ub294 \ub370\uc5d0\ub294 \uc88b\uc9c0\ub9cc, \uacb0\uc815\uc801 \ub9e5\ub77d\uc744 \uc81c\uacf5\ud558\ub294 \ub370\uc5d0\ub294 \ubd80\uc871..."
-    },
     {
       "timestamp": "2026-05-21 19:29:05",
       "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 19:29:45",
       "message": "Reprocessing: August Robotics lands $30M to automate precision construction with robots"
+    },
+    {
+      "timestamp": "2026-05-21 19:29:46",
+      "message": "[SKIP] Content too short: August Robotics lands $30M to ..."
     }
   ]
 }
