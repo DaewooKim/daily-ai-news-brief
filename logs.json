@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 16:05:53",
+  "last_updated": "2026-05-21 16:05:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 16:05:01",
-      "message": "[SUCCESS] Processed: EV \uadf8\ub8f9, 2026 ECTC\uc5d0\uc11c \uc774\uc885 \ud1b5\ud569 \ubc0f \uace0\uae09 \ud328\ud0a4\uc9d5\uc744 \uc704\ud55c \ud558\uc774\ube0c\ub9ac\ub4dc \ubcf8\ub529, \ub808\uc774\uc5b4 \uc804\uc774 \ubc0f \ubb34MASK \ub9ac\ud130\uadf8\ub798\ud53c \uae30\uc220 \uac15\uc870\n  > Summary: EV \uadf8\ub8f9\uc740 2026 IEEE \uc804\uc790 \ubd80\ud488 \ubc0f \uae30\uc220 \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c \uc774\uc885 \ud1b5\ud569 \ubc0f \uace0\uae09 \ud328\ud0a4\uc9d5 ..."
-    },
     {
       "timestamp": "2026-05-21 16:05:04",
       "message": "Reprocessing: Enterprise AI agents keep failing because they forget what they learned"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 16:05:53",
       "message": "Reprocessing: Versa applies zero-trust controls to AI agent actions with new MCP architecture"
+    },
+    {
+      "timestamp": "2026-05-21 16:05:55",
+      "message": "[SKIP] Content too short: Versa applies zero-trust contr..."
     }
   ]
 }
