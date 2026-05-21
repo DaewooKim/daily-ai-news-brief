@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 13:47:10",
+  "last_updated": "2026-05-21 13:47:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 13:46:21",
-      "message": "[SUCCESS] Processed: \uc2a4\ud398\uc774\uc2a4X IPO \uc81c\ucd9c, \ud68c\uc0ac\ub97c AI \uc778\ud504\ub77c \ub300\uae30\uc5c5\uc73c\ub85c \uc7ac\uad6c\uc131\n  > Summary: \uc2a4\ud398\uc774\uc2a4X\uc758 IPO \uc81c\ucd9c\uc5d0\uc11c \ud68c\uc0ac\uac00 \ucef4\ud4e8\ud305, \ub124\ud2b8\uc6cc\ud0b9, \uc5d0\ub108\uc9c0 \ubc0f \uada4\ub3c4 \uc2dc\uc2a4\ud15c\uc744 \uc544\uc6b0\ub974\ub294 ..."
-    },
     {
       "timestamp": "2026-05-21 13:46:23",
       "message": "Reprocessing: Scaling the Memory Wall: HBM, CXL, and the New GPU Playbook"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 13:47:10",
       "message": "[PROCESSING] Analyzing: Bluesky and Clemson University researchers detail a novel Russian influence campaign that hijacked influential Bluesky accounts to spread pro-Kremlin propaganda (Steven Lee Myers/New York Times)..."
+    },
+    {
+      "timestamp": "2026-05-21 13:47:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Bluesky and Clemson University researchers detail a novel Russian influence campaign that hijacked influential Bluesky accounts to spread pro-Kremlin propaganda (Steven Lee Myers/New York Times)"
     }
   ]
 }
