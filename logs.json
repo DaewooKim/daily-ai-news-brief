@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 05:57:41",
+  "last_updated": "2026-05-21 05:57:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 05:57:03",
-      "message": "[PROCESSING] Analyzing: Ofcom says Meta, Snap, and Roblox will adopt stronger anti-grooming measures, while TikTok and YouTube \"failed to commit to any significant changes\" (Ofcom)..."
-    },
     {
       "timestamp": "2026-05-21 05:57:05",
       "message": "[SKIP] Irrelevant (AI Filter): Ofcom says Meta, Snap, and Roblox will adopt stronger anti-grooming measures, while TikTok and YouTube \"failed to commit to any significant changes\" (Ofcom)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 05:57:41",
       "message": "[SUCCESS] Processed: EV \uadf8\ub8f9, ECTC 2026\uc5d0\uc11c \uc774\uc885 \ud1b5\ud569 \ubc0f \uace0\uae09 \ud328\ud0a4\uc9d5\uc744 \uc704\ud55c \ud558\uc774\ube0c\ub9ac\ub4dc \ubcf8\ub529, \uce35 \uc804\uc1a1 \ubc0f \ub9c8\uc2a4\ud06c\ub9ac\uc2a4 \ub9ac\uc18c\uadf8\ub798\ud53c \uae30\uc220 \uac15\uc870\n  > Summary: EV \uadf8\ub8f9\uc740 2026 IEEE \uc804\uc790 \ubd80\ud488 \ubc0f \uae30\uc220 \ud68c\uc758(ECTC)\uc5d0\uc11c \uc774\uc885 \ud1b5\ud569 \ubc0f \uace0\uae09 ..."
+    },
+    {
+      "timestamp": "2026-05-21 05:57:43",
+      "message": "Reprocessing: Enterprise AI agents keep failing because they forget what they learned"
     }
   ]
 }
