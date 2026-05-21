@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 10:25:41",
+  "last_updated": "2026-05-21 10:25:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 10:24:51",
-      "message": "Reprocessing: AMD pledges to invest $10B+ in Taiwan's chip industry to make advanced chip packaging for AI, and says TSMC will ramp up production of its next-gen Venice chips (Sherry Qin/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-05-21 10:24:53",
       "message": "[PROCESSING] Analyzing: AMD pledges to invest $10B+ in Taiwan's chip industry to make advanced chip packaging for AI, and says TSMC will ramp up production of its next-gen Venice chips (Sherry Qin/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 10:25:41",
       "message": "[PROCESSING] Analyzing: Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction..."
+    },
+    {
+      "timestamp": "2026-05-21 10:25:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction"
     }
   ]
 }
