@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 16:04:48",
+  "last_updated": "2026-05-21 16:04:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 16:03:57",
-      "message": "[SUCCESS] Processed: \uba54\ubaa8: \ubc31\uc545\uad00, \ud2b8\ub7fc\ud504\uac00 AI \ubc0f \uc0ac\uc774\ubc84 \ubcf4\uc548\uc5d0 \uad00\ud55c \uc0c8\ub85c\uc6b4 EO\uc5d0 \uc11c\uba85\ud558\uae30 \uc704\ud55c \uacc4\ud68d\ub41c \uc138\ub9ac\uba38\ub2c8\ub97c \uc624\ub298 \uc624\ud6c4 \uc5f0\uae30\ud558\ub2e4; \uc8fc\uc694 \uae30\uc220 CEO\ub4e4\uc744 \ucd08\ub300\ud588\ub2e4\n  > Summary: \ubc31\uc545\uad00\uc740 \ud2b8\ub7fc\ud504 \ub300\ud1b5\ub839\uc774 AI \ubc0f \uc0ac\uc774\ubc84 \ubcf4\uc548\uc5d0 \uad00\ud55c \uc0c8\ub85c\uc6b4 \ud589\uc815\uba85\ub839\uc5d0 \uc11c\uba85\ud558\uae30 \uc704\ud55c \uc138\ub9ac..."
-    },
     {
       "timestamp": "2026-05-21 16:03:58",
       "message": "[PROCESSING] Analyzing: Federal records: Grok was utilized in only 3 of 400+ publicly identified federal AI use cases in 2025, behind 234 for ChatGPT, 33 for Gemini, 26 for Claude (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 16:04:48",
       "message": "[PROCESSING] Analyzing: SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics..."
+    },
+    {
+      "timestamp": "2026-05-21 16:04:51",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics"
     }
   ]
 }
