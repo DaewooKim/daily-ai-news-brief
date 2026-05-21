@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 22:51:55",
+  "last_updated": "2026-05-21 22:51:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 22:51:07",
-      "message": "[SUCCESS] Processed: \uc801\uc6a9 \uc5d0\ub108\uc9c0 \uc2dc\uc2a4\ud15c, \uc5b4\ud50c\ub77c\uc774\ub4dc \uc18c\uc7ac\ub85c\ubd80\ud130 \uacf5\uae09\uc5c5\uccb4 \uc6b0\uc218\uc0c1 \uc218\uc0c1\n  > Summary: \uc801\uc6a9 \uc5d0\ub108\uc9c0 \uc2dc\uc2a4\ud15c\uc774 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \uc120\ub450\uc8fc\uc790\uc778 \uc5b4\ud50c\ub77c\uc774\ub4dc \uc18c\uc7ac\ub85c\ubd80\ud130 \uacf5\uae09\uc5c5\uccb4 \uc6b0\uc218\uc0c1\uc744 \uc218\uc0c1..."
-    },
     {
       "timestamp": "2026-05-21 22:51:09",
       "message": "Reprocessing: Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 22:51:55",
       "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
+    },
+    {
+      "timestamp": "2026-05-21 22:51:57",
+      "message": "[SKIP] Irrelevant (AI Filter): MFA verifies who logged in. It has no idea what they do next."
     }
   ]
 }
