@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 23:58:05",
+  "last_updated": "2026-05-21 23:58:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 23:57:30",
-      "message": "[SUCCESS] Processed: \uc62c\uc778\uc6d0 AI \uc74c\uc131 \uc571\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 ElevenLabs, \uc8fc\uc694 \ucd9c\ud310\uc0ac\ub85c\ubd80\ud130 20\ub9cc \uac1c\uc758 \uc778\uac04 \ubaa9\uc18c\ub9ac \uc624\ub514\uc624\ubd81 \ub77c\uc774\uc13c\uc2a4 \ucde8\ub4dd\n  > Summary: ElevenLabs\ub294 \uc8fc\uc694 \ucd9c\ud310\uc0ac\ub85c\ubd80\ud130 20\ub9cc \uac1c\uc758 \uc778\uac04 \ubaa9\uc18c\ub9ac \uc624\ub514\uc624\ubd81\uc744 \ub77c\uc774\uc13c\uc2a4\ud558\uc5ec \uc6d4..."
-    },
     {
       "timestamp": "2026-05-21 23:57:32",
       "message": "[PROCESSING] Analyzing: Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis (Rachel Metz/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 23:58:05",
       "message": "[PROCESSING] Analyzing: Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%..."
+    },
+    {
+      "timestamp": "2026-05-21 23:58:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%"
     }
   ]
 }
