@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-21 11:33:00",
+  "last_updated": "2026-05-21 11:33:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-21 11:32:17",
-      "message": "[SUCCESS] Processed: \ud788\uadf8\uc2a4\ud544\ub4dc AI, \uce78\uc5d0\uc11c 95\ubd84\uc9dc\ub9ac \uc644\uc804 AI \uc0dd\uc131 \uc601\ud654 '\ud5ec \uadf8\ub77c\uc778\ub4dc' \uacf5\uac1c\n  > Summary: '\ud5ec \uadf8\ub77c\uc778\ub4dc'\ub294 95\ubd84 \uae38\uc774\uc758 \uc644\uc804 AI \uc0dd\uc131 \uc601\ud654\ub85c, \uce78\uc5d0\uc11c \uccab \uc120\uc744 \ubcf4\uc600\ub2e4. \uc81c\uc791\uc5d0\ub294..."
-    },
     {
       "timestamp": "2026-05-21 11:32:19",
       "message": "[PROCESSING] Analyzing: SpaceX S-1: Valor Equity Partners founder Antonio Gracias, a longtime Elon Musk ally, controls a 7.3% stake in SpaceX, the second-largest holder after Musk (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-21 11:33:00",
       "message": "[PROCESSING] Analyzing: Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction..."
+    },
+    {
+      "timestamp": "2026-05-21 11:33:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction"
     }
   ]
 }
