@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 15:36:46",
+  "last_updated": "2026-05-22 15:36:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 15:36:05",
-      "message": "[SUCCESS] Processed: AI \uc9c0\uc6d0 \uae08\uc735 \uc790\ubb38 \ud50c\ub7ab\ud3fc\uc744 \uad6c\ucd95\ud558\ub294 Farther Finance, 150\uc5b5 \ub2ec\ub7ec \uc2dc\ub9ac\uc988 D \uc790\uae08\uc744 \uc870\ub2ec\n  > Summary: Farther Finance\ub294 \uae08\uc735 \uc790\ubb38\uac00\ub97c \uc704\ud55c AI \uc9c0\uc6d0 \uc790\uc0b0 \uad00\ub9ac \ud50c\ub7ab\ud3fc\uc744 \uac1c\ubc1c \uc911\uc774..."
-    },
     {
       "timestamp": "2026-05-22 15:36:07",
       "message": "[PROCESSING] Analyzing: Microsoft veteran executive Yusuf Mehdi is leaving after the next fiscal year, an internal memo shows (Ashley Stewart/Business Insider)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 15:36:46",
       "message": "[PROCESSING] Analyzing: PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments..."
+    },
+    {
+      "timestamp": "2026-05-22 15:36:50",
+      "message": "[SKIP] Irrelevant (AI Filter): PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments"
     }
   ]
 }
