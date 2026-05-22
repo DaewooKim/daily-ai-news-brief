@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 03:19:19",
+  "last_updated": "2026-05-22 03:19:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 03:18:38",
-      "message": "[SUCCESS] Processed: AMD, AI \uc778\ud504\ub77c \uac15\ud654\ub97c \uc704\ud574 \ub300\ub9cc\uc5d0 100\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d\n  > Summary: AMD\ub294 AI \uce69\uacfc \uc11c\ubc84 \uc0dd\uc0b0\uc744 \uc99d\uac00\uc2dc\ud0a4\uae30 \uc704\ud574 \ub300\ub9cc\uc758 \uc804\uc790 \uc0dd\ud0dc\uacc4\uc5d0 100\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc744..."
-    },
     {
       "timestamp": "2026-05-22 03:18:40",
       "message": "[PROCESSING] Analyzing: Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 03:19:19",
       "message": "[PROCESSING] Analyzing: Hollow-Core Fiber: Faster, Greener, but Is It Worth the Cost?..."
+    },
+    {
+      "timestamp": "2026-05-22 03:19:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Hollow-Core Fiber: Faster, Greener, but Is It Worth the Cost?"
     }
   ]
 }
