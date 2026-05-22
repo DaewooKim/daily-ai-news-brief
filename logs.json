@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 02:14:14",
+  "last_updated": "2026-05-22 02:14:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 02:13:33",
-      "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
-    },
     {
       "timestamp": "2026-05-22 02:13:38",
       "message": "[SKIP] Irrelevant (AI Filter): MFA verifies who logged in. It has no idea what they do next."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 02:14:14",
       "message": "[SKIP] Content too short: US issues $2B+ in grants to IB..."
+    },
+    {
+      "timestamp": "2026-05-22 02:14:15",
+      "message": "Reprocessing: Three insights you may have missed from theCUBE\u2019s coverage of the DigiCert Trust Summit"
     }
   ]
 }
