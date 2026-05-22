@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 17:49:42",
+  "last_updated": "2026-05-22 17:49:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 17:49:02",
-      "message": "[SUCCESS] Processed: \uc5d8\ub860, \uadf8\ub85c\ud06c\ub97c \ub9cc\ub4e4\ub824\uace0 \ud558\uc9c0 \ub9c8\uc138\uc694\n  > Summary: \uc5d8\ub860 \uba38\uc2a4\ud06c\uc758 AI \ucc57\ubd07 \uadf8\ub85c\ud06c\ub294 \uc131\uacfc\uac00 \uc88b\uc9c0 \uc54a\uc73c\uba70 \uc0ac\uc6a9\uc790 \uc218\uac00 \uc801\ub2e4\ub294 harsh tru..."
-    },
     {
       "timestamp": "2026-05-22 17:49:03",
       "message": "[PROCESSING] Analyzing: The best Memorial Day sales you can shop this weekend..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 17:49:42",
       "message": "[SUCCESS] Processed: Kubernetes \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c GPU \uc0ac\uc6a9\uc5d0 \ub300\ud55c \uc2e4\uc2dc\uac04 \uac00\uc2dc\uc131 \ud655\ubcf4\n  > Summary: AI \uc778\ud504\ub77c\uc758 \uac00\uce58\ub97c \uadf9\ub300\ud654\ud558\uae30 \uc704\ud574 GPU \ud65c\uc6a9\ub3c4\ub97c \uae4a\uc774 \uc788\uac8c \ud30c\uc545\ud558\ub294 \uac83\uc774 \uc911\uc694\ud569\ub2c8\ub2e4...."
+    },
+    {
+      "timestamp": "2026-05-22 17:49:44",
+      "message": "Reprocessing: Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling"
     }
   ]
 }
