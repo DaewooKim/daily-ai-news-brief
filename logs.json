@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 20:08:05",
+  "last_updated": "2026-05-22 20:08:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 20:07:13",
-      "message": "[PROCESSING] Analyzing: AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure..."
-    },
     {
       "timestamp": "2026-05-22 20:07:24",
       "message": "[SUCCESS] Processed: AMD, AI \uc778\ud504\ub77c\ub97c \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \ub300\ub9cc \uc5d0\ucf54\uc2dc\uc2a4\ud15c\uc5d0 100\uc5b5 \ub2ec\ub7ec \uc774\uc0c1 \ud22c\uc790 \ubc1c\ud45c\n  > Summary: AMD\ub294 AI \uc778\ud504\ub77c \uc218\uc694 \uc99d\uac00\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 \ub300\ub9cc \uc5d0\ucf54\uc2dc\uc2a4\ud15c\uc5d0 100\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \ud22c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 20:08:05",
       "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
+    },
+    {
+      "timestamp": "2026-05-22 20:08:07",
+      "message": "[SKIP] Irrelevant (AI Filter): MFA verifies who logged in. It has no idea what they do next."
     }
   ]
 }
