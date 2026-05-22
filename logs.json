@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 03:20:40",
+  "last_updated": "2026-05-22 03:20:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 03:19:49",
-      "message": "[PROCESSING] Analyzing: Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis (Rachel Metz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-22 03:19:51",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis (Rachel Metz/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 03:20:40",
       "message": "[PROCESSING] Analyzing: PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments..."
+    },
+    {
+      "timestamp": "2026-05-22 03:20:42",
+      "message": "[SKIP] Irrelevant (AI Filter): PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments"
     }
   ]
 }
