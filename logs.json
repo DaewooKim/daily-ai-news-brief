@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 03:21:45",
+  "last_updated": "2026-05-22 03:21:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 03:21:10",
-      "message": "[PROCESSING] Analyzing: MFA verifies who logged in. It has no idea what they do next...."
-    },
     {
       "timestamp": "2026-05-22 03:21:14",
       "message": "[SKIP] Irrelevant (AI Filter): MFA verifies who logged in. It has no idea what they do next."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 03:21:45",
       "message": "Reprocessing: Zoom raises outlook and authorizes $1B in buybacks after first-quarter beat"
+    },
+    {
+      "timestamp": "2026-05-22 03:21:47",
+      "message": "[SKIP] Content too short: Zoom raises outlook and author..."
     }
   ]
 }
