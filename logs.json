@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 04:26:32",
+  "last_updated": "2026-05-22 04:26:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 04:25:57",
-      "message": "[SUCCESS] Processed: \uba54\ubaa8\ub9ac \ubcbd \ud655\uc7a5: HBM, CXL, \uadf8\ub9ac\uace0 \uc0c8\ub85c\uc6b4 GPU \ud50c\ub808\uc774\ubd81\n  > Summary: AI \ub370\uc774\ud130 \uc13c\ud130\ub294 GPU \ucc98\ub9ac \ub2a5\ub825\uc774 \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed\uacfc \uc6a9\ub7c9\uc744 \ud06c\uac8c \ucd08\uacfc\ud558\ub294 '\uba54\ubaa8\ub9ac \ubcbd'..."
-    },
     {
       "timestamp": "2026-05-22 04:25:59",
       "message": "Reprocessing: GITEX AI EUROPE"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 04:26:32",
       "message": "[PROCESSING] Analyzing: Texas AG Ken Paxton sues Meta, accusing WhatsApp of marketing its services as secure but failing to \"deliver on those promises\" by accessing encrypted messages (Ryan Autullo/Bloomberg Law)..."
+    },
+    {
+      "timestamp": "2026-05-22 04:26:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Texas AG Ken Paxton sues Meta, accusing WhatsApp of marketing its services as secure but failing to \"deliver on those promises\" by accessing encrypted messages (Ryan Autullo/Bloomberg Law)"
     }
   ]
 }
