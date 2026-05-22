@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-22 22:21:26",
+  "last_updated": "2026-05-22 22:21:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-22 22:20:50",
-      "message": "[PROCESSING] Analyzing: Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices (Katie Tarasov/CNBC)..."
-    },
     {
       "timestamp": "2026-05-22 22:20:53",
       "message": "[SUCCESS] Processed: \ud004\ucef4 \uc8fc\uac00\ub294 \uae08\uc694\uc77c\uc5d0 11.6% \uc0c1\uc2b9\ud558\uc5ec \uc9c0\ub09c \ud55c \ub2ec \ub3d9\uc548 75% \uc0c1\uc2b9\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac\ub294 AI \uae30\uae30\uc5d0\uc11c \uc810\uc810 \ub354 \uc911\uc694\ud55c \uc5ed\ud560\uc744 \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: \ud004\ucef4\uc758 \uc8fc\uac00\ub294 \uae08\uc694\uc77c\uc5d0 11.6% \uc0c1\uc2b9\ud588\uc73c\uba70, \uc9c0\ub09c \ud55c \ub2ec \ub3d9\uc548 75% \uc0c1\uc2b9\ud55c \uac83\uc73c\ub85c \ub098\ud0c0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-22 22:21:26",
       "message": "[SKIP] Irrelevant (AI Filter): Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction"
+    },
+    {
+      "timestamp": "2026-05-22 22:21:27",
+      "message": "Reprocessing: AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure"
     }
   ]
 }
