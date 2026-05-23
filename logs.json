@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-23 01:41:00",
+  "last_updated": "2026-05-23 01:41:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-23 01:40:20",
-      "message": "Reprocessing: GITEX AI EUROPE"
-    },
     {
       "timestamp": "2026-05-23 01:40:22",
       "message": "[SKIP] Content too short: GITEX AI EUROPE..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-23 01:41:00",
       "message": "[PROCESSING] Analyzing: Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit's stock is now down almost 40% this year (Jonathan Vanian/CNBC)..."
+    },
+    {
+      "timestamp": "2026-05-23 01:41:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit's stock is now down almost 40% this year (Jonathan Vanian/CNBC)"
     }
   ]
 }
