@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-23 00:34:13",
+  "last_updated": "2026-05-23 00:34:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-23 00:33:33",
-      "message": "[PROCESSING] Analyzing: AI Inference Pulls Infrastructure Back into Metro Data Centers..."
-    },
     {
       "timestamp": "2026-05-23 00:33:38",
       "message": "[SUCCESS] Processed: AI \ucd94\ub860\uc774 \uc778\ud504\ub77c\ub97c \uba54\ud2b8\ub85c \ub370\uc774\ud130 \uc13c\ud130\ub85c \ub04c\uc5b4\ub2f9\uae34\ub2e4\n  > Summary: Mathpix\uc758 \ube0c\ub8e8\ud074\ub9b0 GPU \ubc30\uce58\ub294 \uc0dd\uc0b0 AI \uc791\uc5c5 \ubd80\ud558\uac00 \ub3c4\uc2dc \uacf5\ub3d9 \uc12c\uc720 \uc778\ud504\ub77c\uc5d0 \ub300..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-23 00:34:13",
       "message": "[PROCESSING] Analyzing: The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers (Peter Wells/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-23 00:34:15",
+      "message": "[SKIP] Irrelevant (AI Filter): The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers (Peter Wells/Financial Times)"
     }
   ]
 }
