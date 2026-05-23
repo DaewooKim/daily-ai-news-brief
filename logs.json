@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-23 12:44:32",
+  "last_updated": "2026-05-23 12:44:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-23 12:43:57",
-      "message": "[SUCCESS] Processed: \ubcf4\ub2e4 \uc548\uc804\ud558\uace0 \ud22c\uba85\ud55c AI \uc0dd\ud0dc\uacc4\ub97c \uc704\ud55c \ucf58\ud150\uce20 \ucd9c\ucc98 \uac1c\uc120\n  > Summary: OpenAI\ub294 Content Credentials, SynthID \ubc0f \uac80\uc99d \ub3c4\uad6c\ub97c \ud1b5\ud574 A..."
-    },
     {
       "timestamp": "2026-05-23 12:43:59",
       "message": "[PROCESSING] Analyzing: Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-23 12:44:32",
       "message": "[PROCESSING] Analyzing: U.S. Injects $2B into Quantum Computing Companies..."
+    },
+    {
+      "timestamp": "2026-05-23 12:44:34",
+      "message": "[SKIP] Irrelevant (AI Filter): U.S. Injects $2B into Quantum Computing Companies"
     }
   ]
 }
