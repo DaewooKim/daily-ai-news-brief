@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-23 07:13:07",
+  "last_updated": "2026-05-23 07:13:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-23 07:12:27",
-      "message": "[SUCCESS] Processed: AMD, AI \uc778\ud504\ub77c \uac15\ud654 \uc704\ud574 \ub300\ub9cc\uc5d0 100\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d\n  > Summary: AMD\ub294 \ub300\ub9cc\uc758 \ubc29\ub300\ud55c \uc804\uc790 \uc0dd\ud0dc\uacc4\uc5d0 100\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc744 \ud22c\uc790\ud558\uc5ec AI \uce69 \ubc0f \uc11c\ubc84 \uc0dd\uc0b0..."
-    },
     {
       "timestamp": "2026-05-23 07:12:29",
       "message": "[PROCESSING] Analyzing: Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-23 07:13:07",
       "message": "[PROCESSING] Analyzing: IDCA: Data Centers Hit 67.7 GW as Policy Pushback Mounts..."
+    },
+    {
+      "timestamp": "2026-05-23 07:13:10",
+      "message": "[SKIP] Irrelevant (AI Filter): IDCA: Data Centers Hit 67.7 GW as Policy Pushback Mounts"
     }
   ]
 }
