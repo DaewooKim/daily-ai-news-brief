@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-23 13:50:44",
+  "last_updated": "2026-05-23 13:50:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-23 13:50:10",
-      "message": "[SUCCESS] Processed: \ub354 \uc548\uc804\ud558\uace0 \ud22c\uba85\ud55c AI \uc0dd\ud0dc\uacc4\ub97c \uc704\ud55c \ucf58\ud150\uce20 \ucd9c\ucc98 \ud5a5\uc0c1\n  > Summary: OpenAI\ub294 AI\ub85c \uc0dd\uc131\ub41c \ubbf8\ub514\uc5b4\uc758 \uc2e0\ub8b0\uc131\uc744 \ub192\uc774\uae30 \uc704\ud574 \ucf58\ud150\uce20 \ucd9c\ucc98\ub97c \uac1c\uc120\ud588\uc2b5\ub2c8\ub2e4. \uc774..."
-    },
     {
       "timestamp": "2026-05-23 13:50:11",
       "message": "[PROCESSING] Analyzing: Elon Musk has given up on solar power (on Earth)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-23 13:50:44",
       "message": "[PROCESSING] Analyzing: U.S. Injects $2B into Quantum Computing Companies..."
+    },
+    {
+      "timestamp": "2026-05-23 13:50:46",
+      "message": "[SKIP] Irrelevant (AI Filter): U.S. Injects $2B into Quantum Computing Companies"
     }
   ]
 }
