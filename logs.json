@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-24 05:21:52",
+  "last_updated": "2026-05-24 05:21:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-24 05:21:11",
-      "message": "[PROCESSING] Analyzing: DeepSeek says it will lower V4 Pro API prices by 75% to $0.435/1M input and $0.87/1M output tokens, making permanent the discount prices set to expire on May 31 (Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-24 05:21:16",
       "message": "[SUCCESS] Processed: DeepSeek, V4 Pro API \uac00\uaca9\uc744 75% \uc778\ud558\ud558\uc5ec 1M \uc785\ub825\uac12\uc5d0 $0.435, 1M \ucd9c\ub825\uac12\uc5d0 $0.87\uc73c\ub85c \uc124\uc815\n  > Summary: DeepSeek\ub294 V4 Pro API \uac00\uaca9\uc744 75% \uc778\ud558\ud558\uc5ec 1M \uc785\ub825\uac12 \ub2f9 $0.435,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-24 05:21:52",
       "message": "[PROCESSING] Analyzing: Toward Power-Generating Displays: A Single Device That Harvests And Emits Light..."
+    },
+    {
+      "timestamp": "2026-05-24 05:21:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Toward Power-Generating Displays: A Single Device That Harvests And Emits Light"
     }
   ]
 }
