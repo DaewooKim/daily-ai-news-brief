@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-24 21:55:00",
+  "last_updated": "2026-05-24 21:55:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-24 21:54:23",
-      "message": "[PROCESSING] Analyzing: Tether buys out SoftBank's ~26% stake in bitcoin treasury company Twenty One Capital, taking Tether's stake to ~71%; SoftBank's stake was worth ~$679M (Emily Nicolle/Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-24 21:54:26",
       "message": "[SKIP] Irrelevant (AI Filter): Tether buys out SoftBank's ~26% stake in bitcoin treasury company Twenty One Capital, taking Tether's stake to ~71%; SoftBank's stake was worth ~$679M (Emily Nicolle/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-24 21:55:00",
       "message": "[PROCESSING] Analyzing: Valid certificates, stolen accounts: how attackers broke npm's last trust signal..."
+    },
+    {
+      "timestamp": "2026-05-24 21:55:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Valid certificates, stolen accounts: how attackers broke npm's last trust signal"
     }
   ]
 }
