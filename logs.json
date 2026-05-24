@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-24 16:21:54",
+  "last_updated": "2026-05-24 16:21:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-24 16:21:05",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-24 16:21:17",
       "message": "Found 169 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-24 16:21:54",
       "message": "[SKIP] Content too short: Oak Ridge Starts Weaving Toget..."
+    },
+    {
+      "timestamp": "2026-05-24 16:21:55",
+      "message": "Reprocessing: Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters"
     }
   ]
 }
