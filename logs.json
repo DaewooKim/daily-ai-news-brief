@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-24 07:34:30",
+  "last_updated": "2026-05-24 07:34:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-24 07:33:50",
-      "message": "[PROCESSING] Analyzing: DeepSeek says it will lower V4 Pro API prices by 75% to $0.435/1M input and $0.87/1M output tokens, making permanent the discount prices set to expire on May 31 (Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-24 07:33:55",
       "message": "[SUCCESS] Processed: \ub525\uc2dc\ud06c, V4 Pro API \uac00\uaca9\uc744 75% \uc778\ud558\ud558\uc5ec 1M \uc785\ub825\ub2f9 $0.435, 1M \ucd9c\ub825\ub2f9 $0.87\ub85c \uc870\uc815\n  > Summary: \ub525\uc2dc\ud06c\ub294 V4 Pro API \uac00\uaca9\uc744 75% \uc778\ud558\ud558\uc5ec \uc601\uad6c\uc801\uc73c\ub85c \uc720\uc9c0\ud560 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-24 07:34:30",
       "message": "[PROCESSING] Analyzing: Mark Rossman of Cadence Wins Si2 Pinnacle Award\ufeff..."
+    },
+    {
+      "timestamp": "2026-05-24 07:34:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Mark Rossman of Cadence Wins Si2 Pinnacle Award\ufeff"
     }
   ]
 }
