@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-24 11:58:40",
+  "last_updated": "2026-05-24 11:58:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-24 11:58:03",
-      "message": "Reprocessing: AI Inference Pulls Infrastructure Back into Metro Data Centers"
-    },
     {
       "timestamp": "2026-05-24 11:58:05",
       "message": "[PROCESSING] Analyzing: AI Inference Pulls Infrastructure Back into Metro Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-24 11:58:40",
       "message": "[PROCESSING] Analyzing: Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-24 11:58:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin (Financial Times)"
     }
   ]
 }
