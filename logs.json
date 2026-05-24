@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-24 15:17:32",
+  "last_updated": "2026-05-24 15:17:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-24 15:16:52",
-      "message": "[PROCESSING] Analyzing: AMD Plans $10B Investment in Taiwan to Boost AI Infrastructure..."
-    },
     {
       "timestamp": "2026-05-24 15:16:55",
       "message": "[SUCCESS] Processed: AMD, AI \uc778\ud504\ub77c \uc99d\ub300\ub97c \uc704\ud574 \ud0c0\uc774\uc644\uc5d0 100\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d \ubc1c\ud45c\n  > Summary: AMD\ub294 \uc624\ub298(5\uc6d4 21\uc77c) AI \uce69\uacfc \uc11c\ubc84 \uc0dd\uc0b0\uc744 \ub298\ub9ac\uae30 \uc704\ud574 \ud0c0\uc774\uc644\uc758 \uc804\uc790 \uc0dd\ud0dc\uacc4\uc5d0 1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-24 15:17:32",
       "message": "[PROCESSING] Analyzing: Tether buys out SoftBank's ~26% stake in bitcoin treasury company Twenty One Capital, taking its stake to ~71%; SoftBank's stake was worth ~$679M (Emily Nicolle/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-05-24 15:17:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Tether buys out SoftBank's ~26% stake in bitcoin treasury company Twenty One Capital, taking its stake to ~71%; SoftBank's stake was worth ~$679M (Emily Nicolle/Bloomberg)"
     }
   ]
 }
