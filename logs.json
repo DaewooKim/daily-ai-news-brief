@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-25 06:43:41",
+  "last_updated": "2026-05-25 06:43:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-25 06:43:04",
-      "message": "[PROCESSING] Analyzing: Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a \u20ac38-per-share bid, valuing the group at \u20ac11.5B+, but was rebuffed (Financial Times)..."
-    },
     {
       "timestamp": "2026-05-25 06:43:06",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a \u20ac38-per-share bid, valuing the group at \u20ac11.5B+, but was rebuffed (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-25 06:43:41",
       "message": "[PROCESSING] Analyzing: Valid certificates, stolen accounts: how attackers broke npm's last trust signal..."
+    },
+    {
+      "timestamp": "2026-05-25 06:43:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Valid certificates, stolen accounts: how attackers broke npm's last trust signal"
     }
   ]
 }
