@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-25 18:53:36",
+  "last_updated": "2026-05-25 18:53:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-25 18:52:55",
-      "message": "[PROCESSING] Analyzing: AMD Plans $10B Investment in Taiwan to Boost AI Infrastructure..."
-    },
     {
       "timestamp": "2026-05-25 18:53:00",
       "message": "[SUCCESS] Processed: AMD\ub294 AI \uc778\ud504\ub77c\ub97c \uac15\ud654\ud558\uae30 \uc704\ud574 \ub300\ub9cc\uc5d0 100\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud560 \uacc4\ud68d\uc774\ub2e4\n  > Summary: AMD\ub294 \ub300\ub9cc\uc758 \uc804\uc790 \uc0dd\ud0dc\uacc4\uc5d0 100\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc744 \ud22c\uc790\ud558\uc5ec AI \uce69\uacfc \uc11c\ubc84 \uc0dd\uc0b0\uc744 \uc99d\ub300\uc2dc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-25 18:53:36",
       "message": "[PROCESSING] Analyzing: Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference (Tristan Bove/Fortune)..."
+    },
+    {
+      "timestamp": "2026-05-25 18:53:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference (Tristan Bove/Fortune)"
     }
   ]
 }
