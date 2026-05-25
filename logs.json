@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-25 14:28:37",
+  "last_updated": "2026-05-25 14:28:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-25 14:27:55",
-      "message": "[PROCESSING] Analyzing: SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company's stakes in OpenAI and SB Energy Corp if they go public (Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-25 14:28:00",
       "message": "[SUCCESS] Processed: \uc18c\ud504\ud2b8\ubc45\ud06c \uc8fc\uc2dd, \uc624\ud508AI\uc640 SB \uc5d0\ub108\uc9c0\uc758 \uc0c1\uc7a5 \uae30\ub300\uac10\uc5d0 4.6% \uc0c1\uc2b9\ud558\uc5ec \uc0ac\uc0c1 \ucd5c\uace0\uce58 \uae30\ub85d\n  > Summary: \uc18c\ud504\ud2b8\ubc45\ud06c \uc8fc\uc2dd\uc774 \uc6d4\uc694\uc77c\uc5d0 4.6% \uc0c1\uc2b9\ud558\uc5ec \uc0ac\uc0c1 \ucd5c\uace0\uce58\ub97c \uae30\ub85d\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc624\ud508AI\uc640 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-25 14:28:37",
       "message": "[PROCESSING] Analyzing: Valid certificates, stolen accounts: how attackers broke npm's last trust signal..."
+    },
+    {
+      "timestamp": "2026-05-25 14:28:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Valid certificates, stolen accounts: how attackers broke npm's last trust signal"
     }
   ]
 }
