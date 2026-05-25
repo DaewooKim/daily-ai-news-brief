@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-25 22:13:50",
+  "last_updated": "2026-05-25 22:13:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-25 22:12:58",
-      "message": "[SUCCESS] Processed: AI \ucd94\ub860\uc774 \uba54\ud2b8\ub85c \ub370\uc774\ud130 \uc13c\ud130\ub85c \uc778\ud504\ub77c\ub97c \ub04c\uc5b4\ub2f9\uae30\ub2e4\n  > Summary: Mathpix\uc758 \ube0c\ub8e8\ud074\ub9b0 GPU \ubc30\uce58\ub294 \uc0dd\uc0b0 AI \uc6cc\ud06c\ub85c\ub4dc\uac00 \ub3c4\uc2dc \uacf5\ub3d9 \uc704\uce58 \uc778\ud504\ub77c\uc5d0 \ub300\ud55c..."
-    },
     {
       "timestamp": "2026-05-25 22:12:59",
       "message": "[PROCESSING] Analyzing: Do Data Centers Really Boost Property Values? A Closer Look..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-25 22:13:50",
       "message": "[PROCESSING] Analyzing: Star Citizen, a video game in development since 2012, has reached $1B in lifetime funding; it remains in alpha and does not have a confirmed release date (Jennifer Maas/Variety)..."
+    },
+    {
+      "timestamp": "2026-05-25 22:13:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Star Citizen, a video game in development since 2012, has reached $1B in lifetime funding; it remains in alpha and does not have a confirmed release date (Jennifer Maas/Variety)"
     }
   ]
 }
