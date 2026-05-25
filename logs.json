@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-25 06:43:43",
+  "last_updated": "2026-05-25 06:43:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-25 06:43:06",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a \u20ac38-per-share bid, valuing the group at \u20ac11.5B+, but was rebuffed (Financial Times)"
-    },
     {
       "timestamp": "2026-05-25 06:43:07",
       "message": "[PROCESSING] Analyzing: A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones (New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-25 06:43:43",
       "message": "[SKIP] Irrelevant (AI Filter): Valid certificates, stolen accounts: how attackers broke npm's last trust signal"
+    },
+    {
+      "timestamp": "2026-05-25 06:43:44",
+      "message": "Reprocessing: MATLAB and Simulink Now Support Renesas MCUs"
     }
   ]
 }
