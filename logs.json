@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 14:58:56",
+  "last_updated": "2026-05-26 14:58:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 14:58:07",
-      "message": "[PROCESSING] Analyzing: Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump (Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-26 14:58:10",
       "message": "[SKIP] Irrelevant (AI Filter): Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 14:58:56",
       "message": "Reprocessing: Novee debuts Agentic Fix, pushing pentest findings into Claude, Copilot and Cursor"
+    },
+    {
+      "timestamp": "2026-05-26 14:58:58",
+      "message": "[SKIP] Content too short: Novee debuts Agentic Fix, push..."
     }
   ]
 }
