@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 22:46:04",
+  "last_updated": "2026-05-26 22:46:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 22:45:25",
-      "message": "[PROCESSING] Analyzing: DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search..."
-    },
     {
       "timestamp": "2026-05-26 22:45:29",
       "message": "[SUCCESS] Processed: DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search\n  > Summary: \uad6c\uae00\uc740 I/O 2026\uc5d0\uc11c \uac80\uc0c9\uc744 \ud601\uc2e0\ud558\uc5ec \ud30c\ub780 \ub9c1\ud06c \ub300\uc2e0 AI \uc5d0\uc774\uc804\ud2b8\ub97c \ub3c4\uc785\ud588\uc2b5\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 22:46:04",
       "message": "[PROCESSING] Analyzing: Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019..."
+    },
+    {
+      "timestamp": "2026-05-26 22:46:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019"
     }
   ]
 }
