@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 21:39:23",
+  "last_updated": "2026-05-26 21:39:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 21:38:46",
-      "message": "[PROCESSING] Analyzing: Govee included a book on \u2018white supremacy\u2019 in its website imagery..."
-    },
     {
       "timestamp": "2026-05-26 21:38:48",
       "message": "[SKIP] Irrelevant (AI Filter): Govee included a book on \u2018white supremacy\u2019 in its website imagery"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 21:39:23",
       "message": "[PROCESSING] Analyzing: Everyone is navigating AI security in real time \u2014 even Google..."
+    },
+    {
+      "timestamp": "2026-05-26 21:39:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Everyone is navigating AI security in real time \u2014 even Google"
     }
   ]
 }
