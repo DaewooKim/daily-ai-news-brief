@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 11:36:10",
+  "last_updated": "2026-05-26 11:36:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 11:35:29",
-      "message": "[PROCESSING] Analyzing: Handelsblatt: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in Search (Reuters)..."
-    },
     {
       "timestamp": "2026-05-26 11:35:31",
       "message": "[SKIP] Irrelevant (AI Filter): Handelsblatt: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in Search (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 11:36:10",
       "message": "Reprocessing: Detectify debuts MCP server to let AI agents find and fix vulnerabilities in real time"
+    },
+    {
+      "timestamp": "2026-05-26 11:36:11",
+      "message": "[SKIP] Content too short: Detectify debuts MCP server to..."
     }
   ]
 }
