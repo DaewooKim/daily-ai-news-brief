@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 22:44:58",
+  "last_updated": "2026-05-26 22:45:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 22:44:22",
-      "message": "Found 138 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-26 22:44:22",
       "message": "[PROCESSING] Analyzing: NASA&#8217;s permanent Moon base plans start with three missions this year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 22:44:58",
       "message": "[PROCESSING] Analyzing: Govee included a book on \u2018white supremacy\u2019 in its website imagery..."
+    },
+    {
+      "timestamp": "2026-05-26 22:45:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Govee included a book on \u2018white supremacy\u2019 in its website imagery"
     }
   ]
 }
