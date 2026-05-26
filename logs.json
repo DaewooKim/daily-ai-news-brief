@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 20:34:50",
+  "last_updated": "2026-05-26 20:34:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 20:34:05",
-      "message": "[SKIP] Content too short: GITEX AI EUROPE..."
-    },
     {
       "timestamp": "2026-05-26 20:34:07",
       "message": "[PROCESSING] Analyzing: Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 20:34:50",
       "message": "[PROCESSING] Analyzing: The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing \"a possible risk to the public interest\" (Pieter Haeck/Politico)..."
+    },
+    {
+      "timestamp": "2026-05-26 20:34:53",
+      "message": "[SKIP] Irrelevant (AI Filter): The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing \"a possible risk to the public interest\" (Pieter Haeck/Politico)"
     }
   ]
 }
