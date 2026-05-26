@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 22:48:55",
+  "last_updated": "2026-05-26 22:48:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 22:48:21",
-      "message": "[SUCCESS] Processed: DeepSWE\uac00 AI \ucf54\ub529 \ub9ac\ub354\ubcf4\ub4dc\ub97c \ud718\uc813\ub2e4, GPT-5.5\ub97c \uc655\uc73c\ub85c \uc138\uc6b0\uace0 Claude Opus\uac00 \ubca4\uce58\ub9c8\ud06c \ud5c8\uc810\uc744 \uc545\uc6a9\ud558\ub2e4\n  > Summary: \uc0c8\ub85c\uc6b4 \uae30\uc900\uc778 DeepSWE\uac00 OpenAI\uc758 GPT-5.5\ub97c \ucf54\ub529 \uc131\ub2a5\uc758 \uba85\ud655\ud55c \ub9ac\ub354\ub85c \uc81c..."
-    },
     {
       "timestamp": "2026-05-26 22:48:22",
       "message": "[PROCESSING] Analyzing: The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 22:48:55",
       "message": "Reprocessing: Didit raises $6M funding to build AI-native identity infrastructure"
+    },
+    {
+      "timestamp": "2026-05-26 22:48:57",
+      "message": "[SKIP] Content too short: Didit raises $6M funding to bu..."
     }
   ]
 }
