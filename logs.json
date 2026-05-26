@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 05:55:55",
+  "last_updated": "2026-05-26 05:56:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 05:55:08",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-26 05:55:21",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 05:55:55",
       "message": "[PROCESSING] Analyzing: Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters..."
+    },
+    {
+      "timestamp": "2026-05-26 05:56:02",
+      "message": "[SUCCESS] Processed: Kubernetes \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c GPU \uc0ac\uc6a9 \ud604\ud669\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \ud30c\uc545\ud558\uae30\n  > Summary: AI \uc778\ud504\ub77c\uc758 \uac00\uce58\ub97c \uadf9\ub300\ud654\ud558\uae30 \uc704\ud574\uc11c\ub294 GPU \uc0ac\uc6a9 \ud604\ud669\uc744 \uae4a\uc774 \uc788\uac8c \ud30c\uc545\ud558\ub294 \uac83\uc774 \ud544\uc694..."
     }
   ]
 }
