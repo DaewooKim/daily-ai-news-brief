@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 00:26:45",
+  "last_updated": "2026-05-26 00:26:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 00:26:09",
-      "message": "Reprocessing: AI Inference Pulls Infrastructure Back into Metro Data Centers"
-    },
     {
       "timestamp": "2026-05-26 00:26:10",
       "message": "[PROCESSING] Analyzing: AI Inference Pulls Infrastructure Back into Metro Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 00:26:45",
       "message": "[PROCESSING] Analyzing: Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout (Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-26 00:26:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout (Reuters)"
     }
   ]
 }
