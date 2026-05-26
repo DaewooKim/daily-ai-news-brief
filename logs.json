@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 10:25:23",
+  "last_updated": "2026-05-26 10:25:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 10:24:40",
-      "message": "Found 145 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-26 10:24:40",
       "message": "[PROCESSING] Analyzing: Uber president says AI spending is getting \u2018harder to justify\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 10:25:23",
       "message": "Reprocessing: Oak Ridge Starts Weaving Together A Quantum, Classical HPC, And AI System Stack"
+    },
+    {
+      "timestamp": "2026-05-26 10:25:25",
+      "message": "[SKIP] Content too short: Oak Ridge Starts Weaving Toget..."
     }
   ]
 }
