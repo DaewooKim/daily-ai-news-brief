@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 05:56:44",
+  "last_updated": "2026-05-26 05:56:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 05:56:02",
-      "message": "[SUCCESS] Processed: Kubernetes \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c GPU \uc0ac\uc6a9 \ud604\ud669\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \ud30c\uc545\ud558\uae30\n  > Summary: AI \uc778\ud504\ub77c\uc758 \uac00\uce58\ub97c \uadf9\ub300\ud654\ud558\uae30 \uc704\ud574\uc11c\ub294 GPU \uc0ac\uc6a9 \ud604\ud669\uc744 \uae4a\uc774 \uc788\uac8c \ud30c\uc545\ud558\ub294 \uac83\uc774 \ud544\uc694..."
-    },
     {
       "timestamp": "2026-05-26 05:56:03",
       "message": "Reprocessing: Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 05:56:44",
       "message": "[PROCESSING] Analyzing: Elon Musk has given up on solar power (on Earth)..."
+    },
+    {
+      "timestamp": "2026-05-26 05:56:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Elon Musk has given up on solar power (on Earth)"
     }
   ]
 }
