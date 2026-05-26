@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-26 21:38:50",
+  "last_updated": "2026-05-26 21:38:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-26 21:38:13",
-      "message": "Found 131 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-26 21:38:13",
       "message": "[PROCESSING] Analyzing: Google Health is here, but a lot of people want their Fitbit app back instead..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-26 21:38:50",
       "message": "[PROCESSING] Analyzing: Jony Ive\u2019s Ferrari looks nothing like a Ferrari..."
+    },
+    {
+      "timestamp": "2026-05-26 21:38:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Jony Ive\u2019s Ferrari looks nothing like a Ferrari"
     }
   ]
 }
