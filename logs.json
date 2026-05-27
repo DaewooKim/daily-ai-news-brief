@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 17:53:15",
+  "last_updated": "2026-05-27 17:53:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 17:52:35",
-      "message": "[PROCESSING] Analyzing: Everyone is navigating AI security in real time \u2014 even Google..."
-    },
     {
       "timestamp": "2026-05-27 17:52:37",
       "message": "[SKIP] Irrelevant (AI Filter): Everyone is navigating AI security in real time \u2014 even Google"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 17:53:15",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI announces partnerships to combat election misinformation, offering cybersecurity products to state officials and backing legislation to curb deepfakes (Maria Curi/Axios)"
+    },
+    {
+      "timestamp": "2026-05-27 17:53:17",
+      "message": "[PROCESSING] Analyzing: Starlette, an open-source Python framework underpinning FastAPI, has a vulnerability, called BadHost, that can allow hackers to bypass authorization (Dan Goodin/Ars Technica)..."
     }
   ]
 }
