@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 02:09:17",
+  "last_updated": "2026-05-27 02:09:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 02:08:25",
-      "message": "[PROCESSING] Analyzing: Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter's Salesforce instance and threatened to leak the data (Lawrence Abrams/BleepingComputer)..."
-    },
     {
       "timestamp": "2026-05-27 02:08:27",
       "message": "[SKIP] Irrelevant (AI Filter): Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter's Salesforce instance and threatened to leak the data (Lawrence Abrams/BleepingComputer)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 02:09:17",
       "message": "[PROCESSING] Analyzing: The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token...."
+    },
+    {
+      "timestamp": "2026-05-27 02:09:19",
+      "message": "[SKIP] Irrelevant (AI Filter): The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token."
     }
   ]
 }
