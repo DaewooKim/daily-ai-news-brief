@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 23:25:40",
+  "last_updated": "2026-05-27 23:25:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 23:25:06",
-      "message": "[PROCESSING] Analyzing: Apple\u2019s newest iPad Air is up to $100 off for the first time..."
-    },
     {
       "timestamp": "2026-05-27 23:25:08",
       "message": "[SKIP] Irrelevant (AI Filter): Apple\u2019s newest iPad Air is up to $100 off for the first time"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 23:25:40",
       "message": "Reprocessing: Not So Fast On That Charge For 800 Volt Datacenter Power"
+    },
+    {
+      "timestamp": "2026-05-27 23:25:42",
+      "message": "[SKIP] Content too short: Not So Fast On That Charge For..."
     }
   ]
 }
