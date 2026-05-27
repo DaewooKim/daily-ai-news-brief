@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 06:36:29",
+  "last_updated": "2026-05-27 06:36:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 06:35:41",
-      "message": "[PROCESSING] Analyzing: Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January (The Information)..."
-    },
     {
       "timestamp": "2026-05-27 06:35:46",
       "message": "[SUCCESS] Processed: AI \ucd94\ub860 \uc81c\uacf5\uc5c5\uccb4 Baseten\uc774 10\uc5b5 \ub2ec\ub7ec \ubaa8\uc9d1\uc744 \ub17c\uc758 \uc911\uc774\uba70, \uc0ac\ud6c4 \ud3c9\uac00\uc561\uc740 110\uc5b5 \ub2ec\ub7ec\ub85c, 1\uc6d4\uc5d0 \ubc1c\ud45c\ub41c 3\uc5b5 \ub2ec\ub7ec \uc2dc\ub9ac\uc988 E \uc774\ud6c4 50\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c \uc99d\uac00\n  > Summary: AI \uc2a4\ud0c0\ud2b8\uc5c5 Baseten\uc740 \ucd5c\uadfc \ud22c\uc790\uc790\ub4e4\uacfc 10\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uc9d1\ud558\uae30 \uc704\ud55c \ub17c\uc758\ub97c \uc9c4\ud589\ud558\uace0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 06:36:29",
       "message": "[SKIP] Irrelevant (AI Filter): The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token."
+    },
+    {
+      "timestamp": "2026-05-27 06:36:31",
+      "message": "[PROCESSING] Analyzing: Valid certificates, stolen accounts: how attackers broke npm's last trust signal..."
     }
   ]
 }
