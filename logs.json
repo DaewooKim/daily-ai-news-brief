@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 05:28:58",
+  "last_updated": "2026-05-27 05:28:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 05:28:20",
-      "message": "[SUCCESS] Processed: Nvidia\uc758 \ubca0\ub77c CPU, 88\uac1c\uc758 \uc790\uccb4 \uc124\uacc4\ub41c \uc62c\ub9bc\ud478\uc2a4 \ucf54\uc5b4\ub97c \ud2b9\uc9d5\uc73c\ub85c \ud558\uc5ec \uc778\ud154\uacfc AMD\uc758 x86_64 CPU\ub97c \uc81c\uce58\ub2e4\n  > Summary: Nvidia\uc758 \ubca0\ub77c CPU\ub294 88\uac1c\uc758 \uc62c\ub9bc\ud478\uc2a4 \ucf54\uc5b4\ub97c \ud0d1\uc7ac\ud558\uace0 \uc788\uc73c\uba70 \ucd08\uae30 \ubca4\uce58\ub9c8\ud06c\uc5d0\uc11c \uc778..."
-    },
     {
       "timestamp": "2026-05-27 05:28:22",
       "message": "[PROCESSING] Analyzing: Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 05:28:58",
       "message": "[SKIP] Irrelevant (AI Filter): Nvidia officially retires its GeForce Control Panel app after 20 years, following the porting of all of its major features to the Nvidia app (Tom Warren/The Verge)"
+    },
+    {
+      "timestamp": "2026-05-27 05:28:59",
+      "message": "Reprocessing: Improving GPU Energy Efficiency With Component-Level Power Management (AMD)"
     }
   ]
 }
