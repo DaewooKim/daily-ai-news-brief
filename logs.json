@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 04:20:05",
+  "last_updated": "2026-05-27 04:20:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 04:19:25",
-      "message": "[PROCESSING] Analyzing: American Airlines is getting Starlink Wi-Fi..."
-    },
     {
       "timestamp": "2026-05-27 04:19:27",
       "message": "[SKIP] Irrelevant (AI Filter): American Airlines is getting Starlink Wi-Fi"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 04:20:05",
       "message": "[PROCESSING] Analyzing: The pope\u2019s AI encyclical isn\u2019t really about AI..."
+    },
+    {
+      "timestamp": "2026-05-27 04:20:07",
+      "message": "[SKIP] Irrelevant (AI Filter): The pope\u2019s AI encyclical isn\u2019t really about AI"
     }
   ]
 }
