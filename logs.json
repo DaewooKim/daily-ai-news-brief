@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 07:39:56",
+  "last_updated": "2026-05-27 07:39:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 07:39:18",
-      "message": "Found 138 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-27 07:39:18",
       "message": "[PROCESSING] Analyzing: NASA&#8217;s permanent Moon base plans start with three missions this year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 07:39:56",
       "message": "Reprocessing: Not So Fast On That Charge For 800 Volt Datacenter Power"
+    },
+    {
+      "timestamp": "2026-05-27 07:39:58",
+      "message": "[SKIP] Content too short: Not So Fast On That Charge For..."
     }
   ]
 }
