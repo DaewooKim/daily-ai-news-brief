@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 02:08:50",
+  "last_updated": "2026-05-27 02:08:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 02:08:05",
-      "message": "Reprocessing: Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January (The Information)"
-    },
     {
       "timestamp": "2026-05-27 02:08:06",
       "message": "[PROCESSING] Analyzing: Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 02:08:50",
       "message": "[PROCESSING] Analyzing: SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education..."
+    },
+    {
+      "timestamp": "2026-05-27 02:08:53",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education"
     }
   ]
 }
