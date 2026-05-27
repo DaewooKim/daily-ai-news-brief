@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 07:42:45",
+  "last_updated": "2026-05-27 07:42:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 07:42:02",
-      "message": "[PROCESSING] Analyzing: Analysis: the share of entry-level hiring in India's tech sector fell to ~15% in 2025 from 28% in 2024 as companies shifted focus to AI and automation roles (Tanya Pandey/The Economic Times)..."
-    },
     {
       "timestamp": "2026-05-27 07:42:06",
       "message": "[SUCCESS] Processed: \ubd84\uc11d: \uc778\ub3c4\uc758 \uae30\uc220 \ubd80\ubb38\uc5d0\uc11c \ucd08\uae09 \ucc44\uc6a9 \ube44\uc728\uc774 2024\ub144 28%\uc5d0\uc11c 2025\ub144 ~15%\ub85c \uc904\uc5b4\ub4e4\uc5c8\uc73c\uba70, \uae30\uc5c5\ub4e4\uc774 AI \ubc0f \uc790\ub3d9\ud654 \uc5ed\ud560\uc5d0 \uc9d1\uc911\ud558\uace0 \uc788\ub294 \uc0c1\ud669\n  > Summary: \uc778\ub3c4\uc758 \uae30\uc220 \ubd80\ubb38\uc5d0\uc11c \ucd08\uae09 \ucc44\uc6a9 \ube44\uc728\uc774 2024\ub144 28%\uc5d0\uc11c 2025\ub144\uc5d0\ub294 \uc57d 15%\ub85c \uac10..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 07:42:45",
       "message": "[PROCESSING] Analyzing: US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours (Harshita Mary Varghese/Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-27 07:42:50",
+      "message": "[SKIP] Irrelevant (AI Filter): US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours (Harshita Mary Varghese/Reuters)"
     }
   ]
 }
