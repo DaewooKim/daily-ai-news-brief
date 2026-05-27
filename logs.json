@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 06:36:08",
+  "last_updated": "2026-05-27 06:36:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 06:35:23",
-      "message": "[PROCESSING] Analyzing: Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 (Reuters)..."
-    },
     {
       "timestamp": "2026-05-27 06:35:25",
       "message": "[SKIP] Irrelevant (AI Filter): Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 06:36:08",
       "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education"
+    },
+    {
+      "timestamp": "2026-05-27 06:36:10",
+      "message": "Reprocessing: STMicroelectronics\u2019 New GaN Semiconductors Improve Energy Efficiency for High-Demand Applications from AI Servers to Robotics"
     }
   ]
 }
