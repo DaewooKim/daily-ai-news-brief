@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 05:28:59",
+  "last_updated": "2026-05-27 05:29:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 05:28:22",
-      "message": "[PROCESSING] Analyzing: Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 (Reuters)..."
-    },
     {
       "timestamp": "2026-05-27 05:28:24",
       "message": "[SKIP] Irrelevant (AI Filter): Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 05:28:59",
       "message": "Reprocessing: Improving GPU Energy Efficiency With Component-Level Power Management (AMD)"
+    },
+    {
+      "timestamp": "2026-05-27 05:29:01",
+      "message": "[PROCESSING] Analyzing: Improving GPU Energy Efficiency With Component-Level Power Management (AMD)..."
     }
   ]
 }
