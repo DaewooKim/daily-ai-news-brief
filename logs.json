@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 18:58:07",
+  "last_updated": "2026-05-27 18:58:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 18:57:31",
-      "message": "Found 138 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-27 18:57:31",
       "message": "[PROCESSING] Analyzing: Valve raises Steam Deck prices by more than $200..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 18:58:07",
       "message": "Reprocessing: Not So Fast On That Charge For 800 Volt Datacenter Power"
+    },
+    {
+      "timestamp": "2026-05-27 18:58:09",
+      "message": "[SKIP] Content too short: Not So Fast On That Charge For..."
     }
   ]
 }
