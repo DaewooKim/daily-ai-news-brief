@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 07:41:20",
+  "last_updated": "2026-05-27 07:41:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 07:40:41",
-      "message": "Reprocessing: Ferrari is using IBM\u2019s AI to create F1 superfans"
-    },
     {
       "timestamp": "2026-05-27 07:40:42",
       "message": "[PROCESSING] Analyzing: Ferrari is using IBM\u2019s AI to create F1 superfans..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 07:41:20",
       "message": "[PROCESSING] Analyzing: Commercial Space Screening Approach for Agile, High-Reliability Payloads..."
+    },
+    {
+      "timestamp": "2026-05-27 07:41:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Commercial Space Screening Approach for Agile, High-Reliability Payloads"
     }
   ]
 }
