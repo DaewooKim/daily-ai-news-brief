@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-27 13:19:22",
+  "last_updated": "2026-05-27 13:19:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-27 13:18:36",
-      "message": "[PROCESSING] Analyzing: The Witcher 3 is getting another expansion, more than a decade after launch..."
-    },
     {
       "timestamp": "2026-05-27 13:18:39",
       "message": "[SKIP] Irrelevant (AI Filter): The Witcher 3 is getting another expansion, more than a decade after launch"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-27 13:19:22",
       "message": "[PROCESSING] Analyzing: ClickHouse triples anualized revenue to $250M, charting a path toward an IPO..."
+    },
+    {
+      "timestamp": "2026-05-27 13:19:25",
+      "message": "[SKIP] Irrelevant (AI Filter): ClickHouse triples anualized revenue to $250M, charting a path toward an IPO"
     }
   ]
 }
