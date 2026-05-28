@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 19:46:36",
+  "last_updated": "2026-05-28 19:46:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 19:45:51",
-      "message": "[SUCCESS] Processed: \uc6e8\uc774\ud37c \uc2a4\ucf00\uc77c \ub300 \uce69\ub81b: \uc0c8\ub85c\uc6b4 \uc804\uc7c1\uc778\uac00? 1\ud3b8\n  > Summary: \uce7c\uc138\ub77c\ube0c\ub77c\uc2a4\uc758 IPO\ub294 \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc5d0 \uc911\uc694\ud55c \uc21c\uac04\uc73c\ub85c, AI \uc778\ud504\ub77c\uc758 \uc694\uad6c\uc5d0 \uc801\ud569\ud55c \ud601\uc2e0\uc801..."
-    },
     {
       "timestamp": "2026-05-28 19:45:52",
       "message": "Reprocessing: TDK Ventures Invests in C2i Semiconductors"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 19:46:36",
       "message": "[PROCESSING] Analyzing: Melexis Launches Automotive 18-Channel LIN RGB LED Controller..."
+    },
+    {
+      "timestamp": "2026-05-28 19:46:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Melexis Launches Automotive 18-Channel LIN RGB LED Controller"
     }
   ]
 }
