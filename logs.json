@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 18:37:47",
+  "last_updated": "2026-05-28 18:37:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 18:37:01",
-      "message": "[SUCCESS] Processed: \uc2a4\ub178\uc6b0\ud50c\ub808\uc774\ud06c\uc758 60\uc5b5 \ub2ec\ub7ec AWS \ubca0\ud305, \uae30\uc5c5 AI \uc778\ud504\ub77c\uc758 \uc0c8\ub85c\uc6b4 \uc2dc\ub300\ub97c \uc54c\ub9ac\ub2e4\n  > Summary: \uae30\uc5c5 AI \uc6cc\ud06c\ub85c\ub4dc\uac00 \uc2e4\ud5d8\uc801\uc778 \ud30c\uc77c\ub7ff\uc5d0\uc11c \uc9c0\uc18d\uc801\uc778 \uc6b4\uc601 \uc778\ud504\ub77c\ub85c \uc774\ub3d9\ud558\uace0 \uc788\uc73c\uba70, \uc774\ub294 \ud558..."
-    },
     {
       "timestamp": "2026-05-28 18:37:02",
       "message": "[PROCESSING] Analyzing: How the EPA\u2019s New Rules Could Spark Backlash for Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 18:37:47",
       "message": "[PROCESSING] Analyzing: IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029 (Reuters)..."
+    },
+    {
+      "timestamp": "2026-05-28 18:37:49",
+      "message": "[SKIP] Irrelevant (AI Filter): IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029 (Reuters)"
     }
   ]
 }
