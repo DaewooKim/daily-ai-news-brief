@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 10:33:01",
+  "last_updated": "2026-05-28 10:33:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 10:32:23",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-28 10:32:23",
       "message": "[PROCESSING] Analyzing: The golden age of handheld gaming is already over..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 10:33:01",
       "message": "Reprocessing: Uncle Sam Awards $2 Billion-Plus To Quantum Companies, But Wants A Cut"
+    },
+    {
+      "timestamp": "2026-05-28 10:33:02",
+      "message": "[SKIP] Content too short: Uncle Sam Awards $2 Billion-Pl..."
     }
   ]
 }
