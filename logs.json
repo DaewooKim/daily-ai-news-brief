@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-28 17:32:55",
-  "status": "idle",
+  "last_updated": "2026-05-28 18:33:38",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-28 17:31:10",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uce69, PQC \uce69\uc73c\ub85c \uc778\ud504\ub77c \ubcf4\uc548 \uac15\ud654\n  > Summary: \uc591\uc790 \ucef4\ud4e8\ud305\uc758 \uae30\uc220 \ubc1c\uc804\uc5d0 \ub530\ub77c \uae30\uc874 \uc554\ud638\ud654 \uc2dc\uc2a4\ud15c\uc774 \uc704\ud5d8\uc5d0 \ucc98\ud558\uac8c \ub418\uba74\uc11c, \ub9c8\uc774\ud06c\ub85c\uce69 \ud14c..."
+      "timestamp": "2026-05-28 18:33:24",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-28 17:31:11",
-      "message": "[PROCESSING] Analyzing: Rambus Launches DDR5 9600 Client Chipset for Next-Gen AI PCs..."
+      "timestamp": "2026-05-28 18:33:25",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-28 17:31:16",
-      "message": "[SUCCESS] Processed: \ub7a8\ubc84\uc2a4, \ucc28\uc138\ub300 AI PC\uc6a9 DDR5 9600 \ud074\ub77c\uc774\uc5b8\ud2b8 \uce69\uc14b \ucd9c\uc2dc\n  > Summary: \ub7a8\ubc84\uc2a4\uac00 \ucc28\uc138\ub300 AI PC\ub97c \uc704\ud55c DDR5 9600 \ud074\ub77c\uc774\uc5b8\ud2b8 \uba54\ubaa8\ub9ac \ubaa8\ub4c8 \uce69\uc14b\uc744 \ucd9c\uc2dc\ud588\uc2b5..."
+      "timestamp": "2026-05-28 18:33:25",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-28 17:31:18",
-      "message": "[PROCESSING] Analyzing: Broadcom Expands Edge AI Broadband Portfolio..."
+      "timestamp": "2026-05-28 18:33:38",
+      "message": "Found 154 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-28 17:31:23",
-      "message": "[SUCCESS] Processed: \ube0c\ub85c\ub4dc\ucef4, \uc5e3\uc9c0 AI \ube0c\ub85c\ub4dc\ubc34\ub4dc \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud655\uc7a5\n  > Summary: \ube0c\ub85c\ub4dc\ucef4\uc740 \uc0b0\uc5c5 \ucd5c\ucd08\uc758 50G ITU-PON \ud648 \uac8c\uc774\ud2b8\uc6e8\uc774 SoC\uc778 BCM68850\uc744 \ucd9c\uc2dc..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:25",
-      "message": "[PROCESSING] Analyzing: Melexis Launches Automotive 18-Channel LIN RGB LED Controller..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:27",
-      "message": "[SKIP] Irrelevant (AI Filter): Melexis Launches Automotive 18-Channel LIN RGB LED Controller"
-    },
-    {
-      "timestamp": "2026-05-28 17:31:29",
-      "message": "[SKIP] Content too short: Chrome Enterprise rolls out AI..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:31",
-      "message": "[SKIP] Content too short: Writer helps solve brand consi..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:33",
-      "message": "[SKIP] Content too short: Modiqo raises $3M in pre-seed ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:34",
-      "message": "[SKIP] Content too short: CSC report finds FIFA-themed d..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:36",
-      "message": "[SKIP] Content too short: Orchid Security targets AI age..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:38",
-      "message": "[SKIP] Content too short: AI is changing everything \u2014 bu..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:40",
-      "message": "[SKIP] Content too short: CoreWeave introduces autonomou..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:41",
-      "message": "[SKIP] Content too short: Starburst bets on semantic con..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:43",
-      "message": "[SKIP] Content too short: IBM expands digital sovereignt..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:45",
-      "message": "[SKIP] Content too short: Utilidata raises $40M more to ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:47",
-      "message": "[SKIP] Content too short: Dell and H2O.ai target the tok..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:48",
-      "message": "[SKIP] Content too short: Becoming an AI-native company ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:50",
-      "message": "[SKIP] Content too short: Amazon will acquire Apple\u2019s 20..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:52",
-      "message": "[SKIP] Content too short: Nutanix\u2019s stock inches up on s..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:54",
-      "message": "[SKIP] Content too short: Salesforce crushes Wall Street..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:55",
-      "message": "[SKIP] Content too short: Marvell, Synopsys close lower ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:57",
-      "message": "[SKIP] Content too short: Snowflake\u2019s stock surges after..."
-    },
-    {
-      "timestamp": "2026-05-28 17:31:59",
-      "message": "[SKIP] Content too short: Vibe coding startup Cognition ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:00",
-      "message": "[SKIP] Content too short: Robinhood opens its platform t..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:02",
-      "message": "[SKIP] Content too short: Everpure beats on revenue and ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:04",
-      "message": "[SKIP] Content too short: HP beats on Q2 earnings and re..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:06",
-      "message": "[SKIP] Content too short: AWS launches Agentic Shopping ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:08",
-      "message": "[SKIP] Content too short: Microsoft and Dell believe the..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:10",
-      "message": "[SKIP] Content too short: Azure Local and disaggregated ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:12",
-      "message": "[SKIP] Content too short: Aztec Labs acquires ZKPassport..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:13",
-      "message": "[SKIP] Content too short: The AI GPU market has belonged..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:15",
-      "message": "[SKIP] Content too short: For the critical middle market..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:17",
-      "message": "[SKIP] Content too short: XM Cyber rolls out tools to id..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:19",
-      "message": "[SKIP] Content too short: Tensormesh taps Nvidia, AMD an..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:20",
-      "message": "[SKIP] Content too short: WisdomAI brings plug-and-play ..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:22",
-      "message": "[PROCESSING] Analyzing: Quick Look JOYJOM Stackable PC Test Bench Cheap But Cheap..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Quick Look JOYJOM Stackable PC Test Bench Cheap But Cheap"
-    },
-    {
-      "timestamp": "2026-05-28 17:32:26",
-      "message": "[PROCESSING] Analyzing: ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:28",
-      "message": "[SKIP] Irrelevant (AI Filter): ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots"
-    },
-    {
-      "timestamp": "2026-05-28 17:32:30",
-      "message": "[PROCESSING] Analyzing: Supermicro SYS-112D-36C-FN3P Review A 36 Core Intel Xeon 6 SoC Server with 2x 100GbE..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:35",
-      "message": "[SUCCESS] Processed: \uc288\ud37c\ub9c8\uc774\ud06c\ub85c SYS-112D-36C-FN3P \ub9ac\ubdf0: 36\ucf54\uc5b4 \uc778\ud154 \uc81c\uc628 6 SoC \uc11c\ubc84\uc640 2x 100GbE\n  > Summary: \uc288\ud37c\ub9c8\uc774\ud06c\ub85c SYS-112D-36C-FN3P\uc5d0 \ub300\ud55c \ub9ac\ubdf0\uc5d0\uc11c\ub294 36\ucf54\uc5b4 \uc778\ud154 \uc81c\uc628 6 So..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:37",
-      "message": "[PROCESSING] Analyzing: APC PowerForge with Dell and NVIDIA at DTW 2026..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:40",
-      "message": "[SUCCESS] Processed: DTW 2026\uc5d0\uc11c Dell\uacfc NVIDIA\uc640 \ud568\uaed8\ud558\ub294 APC PowerForge\n  > Summary: 2026\ub144 Dell Tech World\uc5d0\uc11c APC PowerForge \ub799\uc774 \uc18c\uac1c\ub418\uc5c8\uc2b5\ub2c8\ub2e4...."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:42",
-      "message": "[PROCESSING] Analyzing: Arzopa Z1RC 16\u2033 QHD Portable Monitor Review..."
-    },
-    {
-      "timestamp": "2026-05-28 17:32:44",
-      "message": "[SKIP] Irrelevant (AI Filter): Arzopa Z1RC 16\u2033 QHD Portable Monitor Review"
-    },
-    {
-      "timestamp": "2026-05-28 17:32:46",
-      "message": "Completed! New: 123, Updated: 0"
-    },
-    {
-      "timestamp": "2026-05-28 17:32:50",
-      "message": "Saved 123 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-28 17:32:53",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-28 18:33:38",
+      "message": "[PROCESSING] Analyzing: Motorola\u2019s last-gen Razr Ultra is almost half off..."
     }
   ]
 }
