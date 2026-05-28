@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 23:07:55",
+  "last_updated": "2026-05-28 23:07:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 23:07:19",
-      "message": "[SUCCESS] Processed: Mistral AI, Vibe \ucd9c\uc2dc\ub85c \uc0b0\uc5c5 AI\ub85c \uc9c4\ucd9c \ubc0f OpenAI \ub3c4\uc804 \uc704\ud55c \ub370\uc774\ud130 \uc13c\ud130 \ucd94\uc9c4 \ubc1c\ud45c\n  > Summary: Mistral AI\ub294 \uc0b0\uc5c5 \uc81c\uc870 \ubd84\uc57c\ub85c\uc758 \ud655\uc7a5, \ud30c\ub9ac \ub0a8\ubd80\uc5d0 \uc0c8\ub85c\uc6b4 \ucd94\ub860 \ub370\uc774\ud130 \uc13c\ud130 \uad6c\ucd95..."
-    },
     {
       "timestamp": "2026-05-28 23:07:21",
       "message": "Reprocessing: SQL query logs hold the context AI agents need to stop hallucinating joins"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 23:07:55",
       "message": "Reprocessing: Chrome Enterprise rolls out AI agents and automation to streamline security management"
+    },
+    {
+      "timestamp": "2026-05-28 23:07:57",
+      "message": "[SKIP] Content too short: Chrome Enterprise rolls out AI..."
     }
   ]
 }
