@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 03:53:18",
+  "last_updated": "2026-05-28 03:53:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 03:52:40",
-      "message": "[SUCCESS] Processed: \uba54\ubaa8: \uba54\ud0c0\ub294 \ub300\uae30\uc5c5 \uace0\uac1d \ub0b4\uc5d0 \uc5d4\uc9c0\ub2c8\uc5b4 \ubc0f \uc81c\ud488 \uad00\ub9ac\uc790\ub97c \ubc30\uce58\ud558\uc5ec AI \ub3c4\uad6c\ub97c \ubc30\ud3ec\ud558\ub294 \uc0c8\ub85c\uc6b4 \uae30\uc5c5 \uc194\ub8e8\uc158 \uc720\ub2db\uc744 \uacc4\ud68d\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: \uba54\ud0c0 \ud50c\ub7ab\ud3fc\uc740 \uc0c8\ub85c\uc6b4 \uae30\uc5c5 \uc194\ub8e8\uc158 \uc720\ub2db\uc758 \uc77c\ud658\uc73c\ub85c \ub300\uae30\uc5c5 \uace0\uac1d \ub0b4\uc5d0 \uc5d4\uc9c0\ub2c8\uc5b4\uc640 \uc81c\ud488 \uad00\ub9ac\uc790..."
-    },
     {
       "timestamp": "2026-05-28 03:52:41",
       "message": "[PROCESSING] Analyzing: Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower unit costs (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 03:53:18",
       "message": "[PROCESSING] Analyzing: Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. (Jordan Novet/CNBC)..."
+    },
+    {
+      "timestamp": "2026-05-28 03:53:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. (Jordan Novet/CNBC)"
     }
   ]
 }
