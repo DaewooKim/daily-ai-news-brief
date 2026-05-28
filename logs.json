@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 15:03:17",
+  "last_updated": "2026-05-28 15:03:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 15:02:14",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-28 15:02:27",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 15:03:17",
       "message": "[SKIP] Irrelevant (AI Filter): They\u2019ve finally made the Oura Ring smaller and lighter"
+    },
+    {
+      "timestamp": "2026-05-28 15:03:19",
+      "message": "Reprocessing: GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians"
     }
   ]
 }
