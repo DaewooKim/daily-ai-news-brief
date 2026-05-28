@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-28 18:41:36",
-  "status": "idle",
+  "last_updated": "2026-05-28 19:42:18",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-28 18:40:04",
-      "message": "Reprocessing: Dell and H2O.ai target the token-cost problem with vertical AI models"
+      "timestamp": "2026-05-28 19:42:03",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-28 18:40:06",
-      "message": "[SKIP] Content too short: Dell and H2O.ai target the tok..."
+      "timestamp": "2026-05-28 19:42:04",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-28 18:40:08",
-      "message": "Reprocessing: Becoming an AI-native company is existential for every business, says Dell CMO"
+      "timestamp": "2026-05-28 19:42:04",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-28 18:40:10",
-      "message": "[SKIP] Content too short: Becoming an AI-native company ..."
+      "timestamp": "2026-05-28 19:42:18",
+      "message": "Found 154 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-28 18:40:12",
-      "message": "Reprocessing: Amazon will acquire Apple\u2019s 20% stake in satellite firm Globalstar"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:13",
-      "message": "[SKIP] Content too short: Amazon will acquire Apple\u2019s 20..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:15",
-      "message": "Reprocessing: Nutanix\u2019s stock inches up on solid earnings and revenue beat and growing customer acquisitions"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:17",
-      "message": "[SKIP] Content too short: Nutanix\u2019s stock inches up on s..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:18",
-      "message": "Reprocessing: Salesforce crushes Wall Street\u2019s targets in its latest results but can\u2019t boost its struggling stock"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:20",
-      "message": "[SKIP] Content too short: Salesforce crushes Wall Street..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:22",
-      "message": "Reprocessing: Marvell, Synopsys close lower despite forecast-topping earnings buoyed by AI"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:24",
-      "message": "[SKIP] Content too short: Marvell, Synopsys close lower ..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:25",
-      "message": "Reprocessing: Snowflake\u2019s stock surges after-hours on solid earnings beat and multibillion-dollar AWS cloud deal"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:27",
-      "message": "[SKIP] Content too short: Snowflake\u2019s stock surges after..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:29",
-      "message": "Reprocessing: Vibe coding startup Cognition more than doubles valuation in new $1B+ round"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:30",
-      "message": "[SKIP] Content too short: Vibe coding startup Cognition ..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:32",
-      "message": "Reprocessing: Robinhood opens its platform to AI agents for trading and credit card spending"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:34",
-      "message": "[SKIP] Content too short: Robinhood opens its platform t..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:35",
-      "message": "Reprocessing: Everpure beats on revenue and earnings but free cash flow drop sends shares lower"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:37",
-      "message": "[SKIP] Content too short: Everpure beats on revenue and ..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:39",
-      "message": "Reprocessing: HP beats on Q2 earnings and revenue as commercial PC demand rebounds"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:40",
-      "message": "[SKIP] Content too short: HP beats on Q2 earnings and re..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:42",
-      "message": "Reprocessing: AWS launches Agentic Shopping Assistant to help retailers build AI tools"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:44",
-      "message": "[SKIP] Content too short: AWS launches Agentic Shopping ..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:45",
-      "message": "Reprocessing: Microsoft and Dell believe the answer to rising cloud token costs sits on every employee\u2019s desk"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:47",
-      "message": "[SKIP] Content too short: Microsoft and Dell believe the..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:49",
-      "message": "Reprocessing: Azure Local and disaggregated infrastructure are rewriting private cloud economics"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:51",
-      "message": "[SKIP] Content too short: Azure Local and disaggregated ..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:52",
-      "message": "Reprocessing: Aztec Labs acquires ZKPassport maker Obsidion as age verification pressure mounts"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:54",
-      "message": "[SKIP] Content too short: Aztec Labs acquires ZKPassport..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:55",
-      "message": "Reprocessing: The AI GPU market has belonged to hyperscalers, but AMD\u2019s MI350P is coming for the enterprise"
-    },
-    {
-      "timestamp": "2026-05-28 18:40:57",
-      "message": "[SKIP] Content too short: The AI GPU market has belonged..."
-    },
-    {
-      "timestamp": "2026-05-28 18:40:59",
-      "message": "Reprocessing: For the critical middle market, Microsoft and Dell want to make AI adoption less daunting"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:01",
-      "message": "[SKIP] Content too short: For the critical middle market..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:02",
-      "message": "Reprocessing: XM Cyber rolls out tools to identify and revoke unused permissions across hybrid environments"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:04",
-      "message": "[SKIP] Content too short: XM Cyber rolls out tools to id..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:06",
-      "message": "Reprocessing: Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:08",
-      "message": "[SKIP] Content too short: Tensormesh taps Nvidia, AMD an..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:09",
-      "message": "[PROCESSING] Analyzing: Quick Look JOYJOM Stackable PC Test Bench Cheap But Cheap..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:12",
-      "message": "[SKIP] Irrelevant (AI Filter): Quick Look JOYJOM Stackable PC Test Bench Cheap But Cheap"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:13",
-      "message": "[PROCESSING] Analyzing: ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:15",
-      "message": "[SKIP] Irrelevant (AI Filter): ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:17",
-      "message": "Reprocessing: APC PowerForge with Dell and NVIDIA at DTW 2026"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:19",
-      "message": "[PROCESSING] Analyzing: APC PowerForge with Dell and NVIDIA at DTW 2026..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:23",
-      "message": "[SUCCESS] Processed: DTW 2026\uc5d0\uc11c Dell \ubc0f NVIDIA\uc640 \ud568\uaed8\ud55c APC PowerForge\n  > Summary: 2026\ub144 Dell Tech World\uc5d0\uc11c APC PowerForge \ub799\uc774 \uc18c\uac1c\ub418\uc5c8\uc2b5\ub2c8\ub2e4...."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:24",
-      "message": "[PROCESSING] Analyzing: Arzopa Z1RC 16\u2033 QHD Portable Monitor Review..."
-    },
-    {
-      "timestamp": "2026-05-28 18:41:26",
-      "message": "[SKIP] Irrelevant (AI Filter): Arzopa Z1RC 16\u2033 QHD Portable Monitor Review"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:28",
-      "message": "Completed! New: 8, Updated: 59"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:32",
-      "message": "Saved 67 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-28 18:41:35",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-28 19:42:18",
+      "message": "[PROCESSING] Analyzing: Motorola\u2019s last-gen Razr Ultra is almost half off..."
     }
   ]
 }
