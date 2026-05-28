@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 15:03:19",
+  "last_updated": "2026-05-28 15:03:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 15:02:27",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-28 15:02:27",
       "message": "[PROCESSING] Analyzing: Waymo to begin passenger rides in its new Ojai robotaxi..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 15:03:19",
       "message": "Reprocessing: GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians"
+    },
+    {
+      "timestamp": "2026-05-28 15:03:21",
+      "message": "[SKIP] Content too short: GPUs And RAM Are In Short Supp..."
     }
   ]
 }
