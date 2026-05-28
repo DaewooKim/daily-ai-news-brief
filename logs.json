@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 13:56:05",
+  "last_updated": "2026-05-28 13:56:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 13:55:19",
-      "message": "[PROCESSING] Analyzing: Private analytics via zero-trust aggregation..."
-    },
     {
       "timestamp": "2026-05-28 13:55:22",
       "message": "[SKIP] Irrelevant (AI Filter): Private analytics via zero-trust aggregation"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 13:56:05",
       "message": "[PROCESSING] Analyzing: SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M..."
+    },
+    {
+      "timestamp": "2026-05-28 13:56:07",
+      "message": "[SKIP] Irrelevant (AI Filter): SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M"
     }
   ]
 }
