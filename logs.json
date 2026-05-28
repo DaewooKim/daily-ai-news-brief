@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 15:05:43",
+  "last_updated": "2026-05-28 15:05:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 15:04:57",
-      "message": "[PROCESSING] Analyzing: TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days..."
-    },
     {
       "timestamp": "2026-05-28 15:04:59",
       "message": "[SKIP] Irrelevant (AI Filter): TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 15:05:43",
       "message": "Reprocessing: GITEX AI EUROPE"
+    },
+    {
+      "timestamp": "2026-05-28 15:05:45",
+      "message": "[SKIP] Content too short: GITEX AI EUROPE..."
     }
   ]
 }
