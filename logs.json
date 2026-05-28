@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-28 18:34:20",
+  "last_updated": "2026-05-28 18:34:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-28 18:33:43",
-      "message": "[PROCESSING] Analyzing: The line between games and movies keeps getting blurrier..."
-    },
     {
       "timestamp": "2026-05-28 18:33:46",
       "message": "[SKIP] Irrelevant (AI Filter): The line between games and movies keeps getting blurrier"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-28 18:34:20",
       "message": "[SKIP] Content too short: Not So Fast On That Charge For..."
+    },
+    {
+      "timestamp": "2026-05-28 18:34:21",
+      "message": "Reprocessing: NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes"
     }
   ]
 }
