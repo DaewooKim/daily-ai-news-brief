@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 09:02:02",
+  "last_updated": "2026-05-29 09:02:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 09:01:12",
-      "message": "[SUCCESS] Processed: BYD, \uc790\uc728\uc8fc\ud589\ucc28\ub97c \uc704\ud55c \uc911\uad6d\uc5d0\uc11c \uac00\uc7a5 \uac15\ub825\ud55c \uce69 Xuanji A3 \ubc1c\ud45c\n  > Summary: BYD\uac00 \uc790\uc728\uc8fc\ud589\ucc28\ub97c \uc704\ud55c \uc911\uad6d\uc5d0\uc11c \uac00\uc7a5 \uac15\ub825\ud55c \uce69\uc778 Xuanji A3\uc640 \uc0c8\ub86d\uac8c \ucd9c\uc2dc\ud558\ub294 ..."
-    },
     {
       "timestamp": "2026-05-29 09:01:14",
       "message": "[PROCESSING] Analyzing: France's market regulator warns crypto companies they could face blacklisting and lawsuits if they don't have MiCA licenses by the EU's June 30 deadline (Elizabeth Howcroft/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 09:02:02",
       "message": "[PROCESSING] Analyzing: Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia..."
+    },
+    {
+      "timestamp": "2026-05-29 09:02:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia"
     }
   ]
 }
