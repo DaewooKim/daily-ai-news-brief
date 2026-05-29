@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 12:23:04",
+  "last_updated": "2026-05-29 12:23:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 12:22:10",
-      "message": "[PROCESSING] Analyzing: Allegations that China is behind US data center protests draw criticism from allies of the AI industry, who say the industry and politicians are in denial (Evan Halper/Washington Post)..."
-    },
     {
       "timestamp": "2026-05-29 12:22:15",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \ub370\uc774\ud130 \uc13c\ud130 protest\ub97c \uc911\uad6d\uc774 \uc8fc\ub3c4\ud588\ub2e4\ub294 \uc8fc\uc7a5, AI \uc0b0\uc5c5 \ub3d9\ub9f9\uad6d\ub4e4\uc758 \ube44\ud310\uc744 \ubc1b\ub2e4\n  > Summary: \uc911\uad6d\uc774 \ubbf8\uad6d\uc758 \ub370\uc774\ud130 \uc13c\ud130 protest\ub97c \uc8fc\ub3c4\ud588\ub2e4\ub294 \uc8fc\uc7a5\uc740 AI \uc0b0\uc5c5\uc758 \ub3d9\ub9f9\uad6d\ub4e4\ub85c\ubd80\ud130 \ube44..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 12:23:04",
       "message": "[PROCESSING] Analyzing: Automating Traditional PCB Layout Verification With Electrically Based Design Rule Checks..."
+    },
+    {
+      "timestamp": "2026-05-29 12:23:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Automating Traditional PCB Layout Verification With Electrically Based Design Rule Checks"
     }
   ]
 }
