@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 17:58:50",
+  "last_updated": "2026-05-29 17:58:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 17:58:10",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-29 17:58:10",
       "message": "[PROCESSING] Analyzing: Tech companies desperately want to film you doing chores..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 17:58:50",
       "message": "[PROCESSING] Analyzing: Backrooms is at the forefront of horror&#8217;s YouTube wave..."
+    },
+    {
+      "timestamp": "2026-05-29 17:58:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Backrooms is at the forefront of horror&#8217;s YouTube wave"
     }
   ]
 }
