@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 21:22:06",
+  "last_updated": "2026-05-29 21:22:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 21:21:17",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-29 21:21:30",
       "message": "Found 180 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 21:22:06",
       "message": "[SKIP] Irrelevant (AI Filter): What would you be willing to put in your body?"
+    },
+    {
+      "timestamp": "2026-05-29 21:22:08",
+      "message": "Reprocessing: Data And Storage At The Center Of The AI Stack"
     }
   ]
 }
