@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-05-29 13:33:17",
-  "status": "idle",
+  "last_updated": "2026-05-29 14:33:58",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-05-29 13:31:43",
-      "message": "Reprocessing: Three insights you might have missed from theCUBE\u2019s coverage of Boomi World 2026"
+      "timestamp": "2026-05-29 14:33:43",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-05-29 13:31:45",
-      "message": "[SKIP] Content too short: Three insights you might have ..."
+      "timestamp": "2026-05-29 14:33:43",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-05-29 13:31:46",
-      "message": "Reprocessing: What to expect during Snowflake Summit: Join theCUBE June 2-3"
+      "timestamp": "2026-05-29 14:33:43",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-05-29 13:31:48",
-      "message": "[SKIP] Content too short: What to expect during Snowflak..."
+      "timestamp": "2026-05-29 14:33:58",
+      "message": "Found 166 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-05-29 13:31:50",
-      "message": "Reprocessing: IBM, Red Hat launch $5B Project Lightwell to boost open-source security"
-    },
-    {
-      "timestamp": "2026-05-29 13:31:51",
-      "message": "[SKIP] Content too short: IBM, Red Hat launch $5B Projec..."
-    },
-    {
-      "timestamp": "2026-05-29 13:31:53",
-      "message": "Reprocessing: Rising AI spend turns FinOps into a boardroom strategist"
-    },
-    {
-      "timestamp": "2026-05-29 13:31:55",
-      "message": "[SKIP] Content too short: Rising AI spend turns FinOps i..."
-    },
-    {
-      "timestamp": "2026-05-29 13:31:56",
-      "message": "Reprocessing: Riverbed accelerates enterprise adoption of autonomous IT operations"
-    },
-    {
-      "timestamp": "2026-05-29 13:31:58",
-      "message": "[SKIP] Content too short: Riverbed accelerates enterpris..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:00",
-      "message": "Reprocessing: Chrome Enterprise rolls out AI agents and automation to streamline security management"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:02",
-      "message": "[SKIP] Content too short: Chrome Enterprise rolls out AI..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:04",
-      "message": "Reprocessing: Writer helps solve brand consistency for enterprise marketing at scale"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:06",
-      "message": "[SKIP] Content too short: Writer helps solve brand consi..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:07",
-      "message": "Reprocessing: Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:09",
-      "message": "[SKIP] Content too short: Modiqo raises $3M in pre-seed ..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:11",
-      "message": "Reprocessing: CSC report finds FIFA-themed domain registrations surging as scammers position for 2026 World Cup"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:13",
-      "message": "[SKIP] Content too short: CSC report finds FIFA-themed d..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:16",
-      "message": "Reprocessing: Orchid Security targets AI agent sprawl with new identity governance tools"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:17",
-      "message": "[SKIP] Content too short: Orchid Security targets AI age..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:20",
-      "message": "Reprocessing: AI is changing everything \u2014 but Dell says data remains the enterprise\u2019s crown jewel"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:22",
-      "message": "[SKIP] Content too short: AI is changing everything \u2014 bu..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:24",
-      "message": "Reprocessing: CoreWeave introduces autonomous improvement capabilities for AI agents"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:25",
-      "message": "[SKIP] Content too short: CoreWeave introduces autonomou..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:27",
-      "message": "Reprocessing: Starburst bets on semantic context to solve enterprise AI trust problem"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:29",
-      "message": "[SKIP] Content too short: Starburst bets on semantic con..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:31",
-      "message": "Reprocessing: IBM expands digital sovereignty push with new cloud compliance and visibility platform"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:33",
-      "message": "[SKIP] Content too short: IBM expands digital sovereignt..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:34",
-      "message": "Reprocessing: Utilidata raises $40M more to optimize data center power use"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:36",
-      "message": "[SKIP] Content too short: Utilidata raises $40M more to ..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:38",
-      "message": "Reprocessing: Dell and H2O.ai target the token-cost problem with vertical AI models"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:40",
-      "message": "[SKIP] Content too short: Dell and H2O.ai target the tok..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:41",
-      "message": "Reprocessing: Becoming an AI-native company is existential for every business, says Dell CMO"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:43",
-      "message": "[SKIP] Content too short: Becoming an AI-native company ..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:45",
-      "message": "Reprocessing: Amazon will acquire Apple\u2019s 20% stake in satellite firm Globalstar"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:46",
-      "message": "[SKIP] Content too short: Amazon will acquire Apple\u2019s 20..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:48",
-      "message": "Reprocessing: Nutanix\u2019s stock inches up on solid earnings and revenue beat and growing customer acquisitions"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:49",
-      "message": "[SKIP] Content too short: Nutanix\u2019s stock inches up on s..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:51",
-      "message": "Reprocessing: Salesforce crushes Wall Street\u2019s targets in its latest results but can\u2019t boost its struggling stock"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:53",
-      "message": "[SKIP] Content too short: Salesforce crushes Wall Street..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:54",
-      "message": "Reprocessing: Marvell, Synopsys close lower despite forecast-topping earnings buoyed by AI"
-    },
-    {
-      "timestamp": "2026-05-29 13:32:56",
-      "message": "[SKIP] Content too short: Marvell, Synopsys close lower ..."
-    },
-    {
-      "timestamp": "2026-05-29 13:32:58",
-      "message": "[PROCESSING] Analyzing: Quick Look JOYJOM Stackable PC Test Bench Cheap But Cheap..."
-    },
-    {
-      "timestamp": "2026-05-29 13:33:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Quick Look JOYJOM Stackable PC Test Bench Cheap But Cheap"
-    },
-    {
-      "timestamp": "2026-05-29 13:33:01",
-      "message": "Reprocessing: ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots"
-    },
-    {
-      "timestamp": "2026-05-29 13:33:03",
-      "message": "[PROCESSING] Analyzing: ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots..."
-    },
-    {
-      "timestamp": "2026-05-29 13:33:05",
-      "message": "[SKIP] Irrelevant (AI Filter): ZimaCube 2 Pro Review An Unexpected 10GbE NAS with Thunderbolt and PCIe Slots"
-    },
-    {
-      "timestamp": "2026-05-29 13:33:07",
-      "message": "Completed! New: 4, Updated: 52"
-    },
-    {
-      "timestamp": "2026-05-29 13:33:11",
-      "message": "Saved 56 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-05-29 13:33:15",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-05-29 14:33:58",
+      "message": "[PROCESSING] Analyzing: How Ferrari bungled the design of its first EV..."
     }
   ]
 }
