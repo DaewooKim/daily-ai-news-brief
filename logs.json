@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 12:23:43",
+  "last_updated": "2026-05-29 12:23:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 12:22:54",
-      "message": "[PROCESSING] Analyzing: BYD announces the Xuanji A3 chip, which it calls China's most powerful chip for ADAS and the centerpiece of its new laptop-sized central computing platform (Bloomberg)..."
-    },
     {
       "timestamp": "2026-05-29 12:23:02",
       "message": "[SUCCESS] Processed: BYD, \uc790\uc728\uc8fc\ud589\ucc28\ub97c \uc704\ud55c \uc911\uad6d\uc758 \uac00\uc7a5 \uac15\ub825\ud55c \uce69\uc774\ub77c\uace0 \ubd80\ub974\ub294 Xuanji A3 \uce69 \ubc1c\ud45c\n  > Summary: BYD\uac00 \uc790\uc728\uc8fc\ud589\ucc28\ub97c \uc704\ud55c \uc911\uad6d\uc758 \uac00\uc7a5 \uac15\ub825\ud55c \uce69\uc774\ub77c\uace0 \uc8fc\uc7a5\ud558\ub294 Xuanji A3 \uce69\uc744 \ubc1c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 12:23:43",
       "message": "Reprocessing: CNN sues Perplexity alleging \u2018massive\u2019 copyright infringement"
+    },
+    {
+      "timestamp": "2026-05-29 12:23:45",
+      "message": "[SKIP] Content too short: CNN sues Perplexity alleging \u2018..."
     }
   ]
 }
