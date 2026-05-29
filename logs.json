@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 00:13:55",
+  "last_updated": "2026-05-29 00:13:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 00:13:09",
-      "message": "[PROCESSING] Analyzing: The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-05-29 00:13:11",
       "message": "[SKIP] Irrelevant (AI Filter): The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins (Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 00:13:55",
       "message": "[SUCCESS] Processed: \ubbf8\uc2a4\ud2b8\ub784 AI, Vibe \ucd9c\uc2dc \ubc0f \uc0b0\uc5c5 AI\ub85c \ud655\ub300, \uc624\ud508AI\uc5d0 \ub3c4\uc804\ud558\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uc124\ub9bd \ubc1c\ud45c\n  > Summary: \ubbf8\uc2a4\ud2b8\ub784 AI\ub294 \uc0c8\ub85c\uc6b4 \uc0b0\uc5c5 \uc81c\uc870\ub85c\uc758 \ud655\uc7a5\uc744 \ubc1c\ud45c\ud558\uba70 \ud30c\ub9ac \ub0a8\ubd80\uc5d0 \uc0c8\ub85c\uc6b4 \ucd94\ub860 \ub370\uc774\ud130 \uc13c\ud130..."
+    },
+    {
+      "timestamp": "2026-05-29 00:13:56",
+      "message": "Reprocessing: SQL query logs hold the context AI agents need to stop hallucinating joins"
     }
   ]
 }
