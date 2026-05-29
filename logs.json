@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 14:38:04",
+  "last_updated": "2026-05-29 14:38:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 14:37:05",
-      "message": "[SKIP] Content too short: GITEX AI EUROPE..."
-    },
     {
       "timestamp": "2026-05-29 14:37:07",
       "message": "[PROCESSING] Analyzing: Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 14:38:04",
       "message": "[PROCESSING] Analyzing: A look at strains in the UK's fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-05-29 14:38:06",
+      "message": "[SKIP] Irrelevant (AI Filter): A look at strains in the UK's fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability (Financial Times)"
     }
   ]
 }
