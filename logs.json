@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 22:32:16",
+  "last_updated": "2026-05-29 22:32:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 22:31:33",
-      "message": "Reprocessing: A BBC Question Time episode featured a panel with AI-generated historical figures like Churchill, intended to show AI images' \"hyper-real and persuasive\" nature (Holly Bishop/The Independent)"
-    },
     {
       "timestamp": "2026-05-29 22:31:35",
       "message": "[PROCESSING] Analyzing: A BBC Question Time episode featured a panel with AI-generated historical figures like Churchill, intended to show AI images' \"hyper-real and persuasive\" nature (Holly Bishop/The Independent)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 22:32:16",
       "message": "[PROCESSING] Analyzing: Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia..."
+    },
+    {
+      "timestamp": "2026-05-29 22:32:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia"
     }
   ]
 }
