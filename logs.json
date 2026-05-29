@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 15:46:29",
+  "last_updated": "2026-05-29 15:46:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 15:45:38",
-      "message": "[SUCCESS] Processed: OpenAI, \uc0c8\ub85c\uc6b4 \uc0dd\ubb3c \ubc29\uc5b4 \ud504\ub85c\uadf8\ub7a8\uc5d0 \ub300\ud574 \ubc31\uc545\uad00\uc5d0 \ube0c\ub9ac\ud551\n  > Summary: OpenAI\ub294 \uc0c8\ub85c\uc6b4 \uc0dd\ubb3c \ubc29\uc5b4 \ud504\ub85c\uadf8\ub7a8\uc5d0 \ub300\ud574 \ubc31\uc545\uad00\uc5d0 \ube0c\ub9ac\ud551\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud504..."
-    },
     {
       "timestamp": "2026-05-29 15:45:40",
       "message": "[PROCESSING] Analyzing: Paxos says the US SEC has approved its registration as a clearing agency, allowing it to provide clearing and settlement services for eligible transactions (Danny Park/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 15:46:29",
       "message": "[SKIP] Irrelevant (AI Filter): SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education"
+    },
+    {
+      "timestamp": "2026-05-29 15:46:31",
+      "message": "Reprocessing: STMicroelectronics\u2019 New GaN Semiconductors Improve Energy Efficiency for High-Demand Applications from AI Servers to Robotics"
     }
   ]
 }
