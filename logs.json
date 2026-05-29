@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 14:38:06",
+  "last_updated": "2026-05-29 14:38:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 14:37:07",
-      "message": "[PROCESSING] Analyzing: Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost (The Information)..."
-    },
     {
       "timestamp": "2026-05-29 14:37:12",
       "message": "[SUCCESS] Processed: \ubc14\uc774\ud2b8\ub304\uc2a4, AI \ucd94\ub860 \uce69 \uac1c\ubc1c\uc744 \uc704\ud574 \uc778\ub178\uc2a4\ud0c0\uc640 \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0\n  > Summary: \ubc14\uc774\ud2b8\ub304\uc2a4\uac00 AI \ubaa8\ub378\uc744 \uc800\ube44\uc6a9\uc73c\ub85c \uc2e4\ud589\ud558\uae30 \uc704\ud574 Groq\uc758 LPU\ub97c \ubaa8\ub378\ub85c \ud55c AI \ucd94\ub860..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 14:38:06",
       "message": "[SKIP] Irrelevant (AI Filter): A look at strains in the UK's fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability (Financial Times)"
+    },
+    {
+      "timestamp": "2026-05-29 14:38:08",
+      "message": "[PROCESSING] Analyzing: Sources: SpaceX is currently targeting an IPO valuation of at least $1.8T, down from a previous $2T+ target, after consultations with advisers and investors (Bloomberg)..."
     }
   ]
 }
