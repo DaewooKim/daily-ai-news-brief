@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 15:46:22",
+  "last_updated": "2026-05-29 15:46:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 15:45:30",
-      "message": "[SUCCESS] Processed: \uc5d1\uc138\ub098, MX1 \uce69\uc774 \uba54\ubaa8\ub9ac \ubaa8\ub4c8 \ub0b4\uc5d0\uc11c \ub370\uc774\ud130 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158 \ubc0f KV \uce90\uc2dc \uad00\ub9ac\ub97c \uc218\ud589\ud558\uba70 5\uc5b5 7\ucc9c\ub9cc \ub2ec\ub7ec\uc758 \uac00\uce58\ub97c \ud3c9\uac00\ubc1b\uc544 1\uc5b5 3\ucc9c 5\ubc31\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \ud380\ub529\uc744 \uc720\uce58\ud558\ub2e4\n  > Summary: \uc5d1\uc138\ub098\uc758 MX1 \uce69\uc740 \uba54\ubaa8\ub9ac \ubaa8\ub4c8 \ub0b4\uc5d0\uc11c \uc9c1\uc811 \ub370\uc774\ud130 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc KV \uce90\uc2dc \uad00\ub9ac\ub97c \uc218..."
-    },
     {
       "timestamp": "2026-05-29 15:45:31",
       "message": "Reprocessing: OpenAI says it has briefed the White House on its new biodefense program, which uses GPT-Rosalind to help develop biodefense and pandemic preparedness tools (Maria Curi/Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 15:46:22",
       "message": "[PROCESSING] Analyzing: Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia..."
+    },
+    {
+      "timestamp": "2026-05-29 15:46:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia"
     }
   ]
 }
