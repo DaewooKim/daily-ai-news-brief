@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 13:27:14",
+  "last_updated": "2026-05-29 13:27:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 13:26:23",
-      "message": "Found 166 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-29 13:26:23",
       "message": "[PROCESSING] Analyzing: Backrooms is at the forefront of horror&#8217;s YouTube wave..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 13:27:14",
       "message": "[PROCESSING] Analyzing: Nintendo&#8217;s newest WarioWare is a weirdo smartphone app..."
+    },
+    {
+      "timestamp": "2026-05-29 13:27:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Nintendo&#8217;s newest WarioWare is a weirdo smartphone app"
     }
   ]
 }
