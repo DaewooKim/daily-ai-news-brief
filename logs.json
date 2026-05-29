@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-29 15:42:39",
+  "last_updated": "2026-05-29 15:42:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-29 15:41:57",
-      "message": "Found 168 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-29 15:41:57",
       "message": "[PROCESSING] Analyzing: Trump\u2019s mass deportations are only possible with racial profiling..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-29 15:42:39",
       "message": "[PROCESSING] Analyzing: Hundreds of prolific Wikipedia editors are threatening to go on strike..."
+    },
+    {
+      "timestamp": "2026-05-29 15:42:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Hundreds of prolific Wikipedia editors are threatening to go on strike"
     }
   ]
 }
