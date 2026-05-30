@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-30 09:26:09",
+  "last_updated": "2026-05-30 09:26:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-30 09:25:27",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-30 09:25:39",
       "message": "Found 180 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-30 09:26:09",
       "message": "[SKIP] Content too short: Data And Storage At The Center..."
+    },
+    {
+      "timestamp": "2026-05-30 09:26:10",
+      "message": "Reprocessing: GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians"
     }
   ]
 }
