@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-30 03:58:50",
+  "last_updated": "2026-05-30 03:58:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-30 03:58:20",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-30 03:58:20",
       "message": "[PROCESSING] Analyzing: SpaceX gets $4 billion contract to build missile-tracking \u2018Golden Dome\u2019 satellites..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-30 03:58:50",
       "message": "Reprocessing: GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians"
+    },
+    {
+      "timestamp": "2026-05-30 03:58:52",
+      "message": "[SKIP] Content too short: GPUs And RAM Are In Short Supp..."
     }
   ]
 }
