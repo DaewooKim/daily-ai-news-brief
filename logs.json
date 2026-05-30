@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-30 04:01:26",
+  "last_updated": "2026-05-30 04:01:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-30 04:00:45",
-      "message": "Reprocessing: CEA-Leti Presents Die-to-Wafer Hybrid Bonding  At 1 \u03bcm Pitch"
-    },
     {
       "timestamp": "2026-05-30 04:00:46",
       "message": "[PROCESSING] Analyzing: CEA-Leti Presents Die-to-Wafer Hybrid Bonding  At 1 \u03bcm Pitch..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-30 04:01:26",
       "message": "[PROCESSING] Analyzing: Melexis Launches Automotive 18-Channel LIN RGB LED Controller..."
+    },
+    {
+      "timestamp": "2026-05-30 04:01:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Melexis Launches Automotive 18-Channel LIN RGB LED Controller"
     }
   ]
 }
