@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-30 07:17:23",
+  "last_updated": "2026-05-30 07:17:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-30 07:16:50",
-      "message": "[SKIP] Content too short: GITEX AI EUROPE..."
-    },
     {
       "timestamp": "2026-05-30 07:16:52",
       "message": "[PROCESSING] Analyzing: A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-30 07:17:23",
       "message": "[PROCESSING] Analyzing: Polymer Dipole Engineering Enables Efficiency Breakthrough in Blue Perovskite QLEDs..."
+    },
+    {
+      "timestamp": "2026-05-30 07:17:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Polymer Dipole Engineering Enables Efficiency Breakthrough in Blue Perovskite QLEDs"
     }
   ]
 }
