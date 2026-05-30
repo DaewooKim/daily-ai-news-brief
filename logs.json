@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-30 05:05:42",
+  "last_updated": "2026-05-30 05:05:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-30 05:05:09",
-      "message": "[SUCCESS] Processed: AI \uc6a9\uc5b4\ub97c \ub4e4\uc5b4\ubd24\ub098\uc694? \uc774\uc81c \uc815\ub9ac\ud574 \ubd05\uc2dc\ub2e4\n  > Summary: AI\uc758 \ub4f1\uc7a5\uc740 \uc218\ub9ce\uc740 \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc18d\uc5b4\ub97c \uac00\uc838\uc654\uc2b5\ub2c8\ub2e4. \uc774 \uae00\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774 \ub9c8\uc8fc\uce60 \uc218 ..."
-    },
     {
       "timestamp": "2026-05-30 05:05:11",
       "message": "[PROCESSING] Analyzing: Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-30 05:05:42",
       "message": "[PROCESSING] Analyzing: The DOD's $9.7B contract with Dell has raised eyebrows as a potential payback for Michael and Susan Dell's $6.25B donation to 25M US children's Trump Accounts (CNBC)..."
+    },
+    {
+      "timestamp": "2026-05-30 05:05:43",
+      "message": "[SKIP] Irrelevant (AI Filter): The DOD's $9.7B contract with Dell has raised eyebrows as a potential payback for Michael and Susan Dell's $6.25B donation to 25M US children's Trump Accounts (CNBC)"
     }
   ]
 }
