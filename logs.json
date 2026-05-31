@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 06:11:31",
+  "last_updated": "2026-05-31 06:11:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 06:10:53",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc640 \uc5d4\ube44\ub514\uc544\uac00 \ucef4\ud4e8\ud14d\uc2a4\uc640 \ube4c\ub4dc 2026\uc5d0\uc11c \uc5d4\ube44\ub514\uc544 SoC\ub85c \uad6c\ub3d9\ub418\ub294 \ucd5c\ucd08\uc758 \uc708\ub3c4\uc6b0 PC\ub97c \uacf5\uac1c\ud560 \uc608\uc815\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc640 \uc5d4\ube44\ub514\uc544\ub294 \ucef4\ud4e8\ud14d\uc2a4\uc640 \ube4c\ub4dc 2026\uc5d0\uc11c \uc5d4\ube44\ub514\uc544 SoC\uac00 \ud0d1\uc7ac\ub41c \ucd5c\ucd08\uc758 \uc708..."
-    },
     {
       "timestamp": "2026-05-31 06:10:55",
       "message": "[PROCESSING] Analyzing: A US court ordered Circle to blacklist Zama's cUSDC contract, freezing ~$12.6M in funds, likely catching many in the \"crossfire\" of a civil suit against a DAO (Zack Abrams/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 06:11:31",
       "message": "[PROCESSING] Analyzing: Polymer Dipole Engineering Enables Efficiency Breakthrough in Blue Perovskite QLEDs..."
+    },
+    {
+      "timestamp": "2026-05-31 06:11:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Polymer Dipole Engineering Enables Efficiency Breakthrough in Blue Perovskite QLEDs"
     }
   ]
 }
