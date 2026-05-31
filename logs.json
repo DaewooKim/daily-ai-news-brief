@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 15:57:29",
+  "last_updated": "2026-05-31 15:57:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 15:56:50",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-05-31 15:56:50",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 15:57:29",
       "message": "[PROCESSING] Analyzing: Backrooms is a certified blockbuster with a $38 million opening day..."
+    },
+    {
+      "timestamp": "2026-05-31 15:57:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Backrooms is a certified blockbuster with a $38 million opening day"
     }
   ]
 }
