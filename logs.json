@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 19:13:22",
+  "last_updated": "2026-05-31 19:13:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 19:12:50",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-31 19:12:50",
       "message": "[PROCESSING] Analyzing: Feeble Little Horse leans into digital weirdness on bitknot..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 19:13:22",
       "message": "[PROCESSING] Analyzing: Backrooms is a certified blockbuster with a $38 million opening day..."
+    },
+    {
+      "timestamp": "2026-05-31 19:13:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Backrooms is a certified blockbuster with a $38 million opening day"
     }
   ]
 }
