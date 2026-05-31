@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 15:57:32",
+  "last_updated": "2026-05-31 15:57:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 15:57:02",
-      "message": "Found 175 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-31 15:57:02",
       "message": "[PROCESSING] Analyzing: United flight forced to turn around because of a Bluetooth speaker name..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 15:57:32",
       "message": "[PROCESSING] Analyzing: Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves..."
+    },
+    {
+      "timestamp": "2026-05-31 15:57:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves"
     }
   ]
 }
