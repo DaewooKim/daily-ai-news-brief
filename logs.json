@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 09:27:56",
+  "last_updated": "2026-05-31 09:27:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 09:27:11",
-      "message": "[PROCESSING] Analyzing: So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that..."
-    },
     {
       "timestamp": "2026-05-31 09:27:13",
       "message": "[SUCCESS] Processed: \uc774\ub7f0 AI \uc6a9\uc5b4\uc5d0 \ub300\ud574 \ub4e4\uc5b4\ubd24\uace0 \uace0\uac1c\ub97c \ub044\ub355\uc600\ub2e4\uba74; \uc774\uc81c \uadf8\uac78 \uace0\uce58\uc790\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc18d\uc5b4\uac00 \ub118\uccd0\ub098\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774 \ub9c8\uc8fc\uce60 \uc218..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 09:27:56",
       "message": "[PROCESSING] Analyzing: China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-05-31 09:27:58",
+      "message": "[SKIP] Irrelevant (AI Filter): China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses (Nikkei Asia)"
     }
   ]
 }
