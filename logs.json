@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 12:43:01",
+  "last_updated": "2026-05-31 12:43:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 12:42:27",
-      "message": "[PROCESSING] Analyzing: Private analytics via zero-trust aggregation..."
-    },
     {
       "timestamp": "2026-05-31 12:42:29",
       "message": "[SKIP] Irrelevant (AI Filter): Private analytics via zero-trust aggregation"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 12:43:01",
       "message": "Reprocessing: GITEX AI EUROPE"
+    },
+    {
+      "timestamp": "2026-05-31 12:43:03",
+      "message": "[SKIP] Content too short: GITEX AI EUROPE..."
     }
   ]
 }
