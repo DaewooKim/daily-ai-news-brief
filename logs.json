@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 13:46:56",
+  "last_updated": "2026-05-31 13:47:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 13:46:25",
-      "message": "Found 177 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-05-31 13:46:25",
       "message": "[PROCESSING] Analyzing: A meteor exploded over New England..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 13:46:56",
       "message": "[PROCESSING] Analyzing: Pebblebee\u2019s Halo watches my back and my belongings..."
+    },
+    {
+      "timestamp": "2026-05-31 13:47:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Pebblebee\u2019s Halo watches my back and my belongings"
     }
   ]
 }
