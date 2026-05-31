@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 19:14:24",
+  "last_updated": "2026-05-31 19:14:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 19:13:48",
-      "message": "[SUCCESS] Processed: NVIDIA MCG \ud234\ud0b7\uc73c\ub85c AI \ubaa8\ub378 \ubb38\uc11c\ud654 \uc790\ub3d9\ud654\ud558\ub294 \ubc29\ubc95\n  > Summary: AI \ubaa8\ub378\uc774 \ubcf5\uc7a1\ud574\uc9c0\uace0 \uaddc\uc81c\uc758 \uc774\ubaa9\uc774 \uc9d1\uc911\ub428\uc5d0 \ub530\ub77c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud300\uc740 \ub2e8\uc21c\ud788 \ud6cc\ub96d\ud55c \ucf54\ub4dc\ub97c ..."
-    },
     {
       "timestamp": "2026-05-31 19:13:50",
       "message": "Reprocessing: Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 19:14:24",
       "message": "[PROCESSING] Analyzing: Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-05-31 19:14:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026"
     }
   ]
 }
