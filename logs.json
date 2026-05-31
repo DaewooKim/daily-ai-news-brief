@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 23:34:37",
+  "last_updated": "2026-05-31 23:34:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 23:33:55",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-05-31 23:34:07",
       "message": "Found 165 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 23:34:37",
       "message": "[PROCESSING] Analyzing: 007 First Light is already discounted for the PS5 and Steam..."
+    },
+    {
+      "timestamp": "2026-05-31 23:34:39",
+      "message": "[SKIP] Irrelevant (AI Filter): 007 First Light is already discounted for the PS5 and Steam"
     }
   ]
 }
