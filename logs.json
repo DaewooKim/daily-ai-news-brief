@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 12:41:44",
+  "last_updated": "2026-05-31 12:41:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 12:41:04",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-05-31 12:41:04",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 12:41:44",
       "message": "[PROCESSING] Analyzing: The Arduboy FX-C is an excellent time killer you might forget you\u2019re carrying..."
+    },
+    {
+      "timestamp": "2026-05-31 12:41:46",
+      "message": "[SKIP] Irrelevant (AI Filter): The Arduboy FX-C is an excellent time killer you might forget you\u2019re carrying"
     }
   ]
 }
