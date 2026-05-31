@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-31 06:10:55",
+  "last_updated": "2026-05-31 06:10:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-05-31 06:10:20",
-      "message": "[SUCCESS] Processed: AI \uc6a9\uc5b4\ub97c \ub4e4\uc5c8\uace0 \uace0\uac1c\ub97c \ub044\ub355\uc600\ub2e4\uba74, \uc774\uc81c \uace0\uccd0\ubd05\uc2dc\ub2e4\n  > Summary: AI\uc758 \ubd80\uc0c1\uc73c\ub85c \ub9ce\uc740 \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc2ac\ub7ad\uc774 \uc0dd\uaca8\ub0ac\uc2b5\ub2c8\ub2e4. \uc774 \uae00\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774 \uc811\ud560 \uc218 \uc788..."
-    },
     {
       "timestamp": "2026-05-31 06:10:21",
       "message": "[PROCESSING] Analyzing: Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-05-31 06:10:55",
       "message": "[PROCESSING] Analyzing: A US court ordered Circle to blacklist Zama's cUSDC contract, freezing ~$12.6M in funds, likely catching many in the \"crossfire\" of a civil suit against a DAO (Zack Abrams/The Block)..."
+    },
+    {
+      "timestamp": "2026-05-31 06:10:56",
+      "message": "[SKIP] Irrelevant (AI Filter): A US court ordered Circle to blacklist Zama's cUSDC contract, freezing ~$12.6M in funds, likely catching many in the \"crossfire\" of a civil suit against a DAO (Zack Abrams/The Block)"
     }
   ]
 }
