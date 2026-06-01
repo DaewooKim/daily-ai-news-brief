@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 02:50:19",
+  "last_updated": "2026-06-01 02:50:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 02:49:47",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-01 02:49:47",
       "message": "[PROCESSING] Analyzing: AMD\u2019s new pitch: our old tech is so good you should just keep using it..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 02:50:19",
       "message": "Reprocessing: GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians"
+    },
+    {
+      "timestamp": "2026-06-01 02:50:21",
+      "message": "[SKIP] Content too short: GPUs And RAM Are In Short Supp..."
     }
   ]
 }
