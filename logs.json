@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 19:29:19",
+  "last_updated": "2026-06-01 19:29:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 19:28:39",
-      "message": "Reprocessing: A shared playbook for trustworthy third party evaluations"
-    },
     {
       "timestamp": "2026-06-01 19:28:41",
       "message": "[PROCESSING] Analyzing: A shared playbook for trustworthy third party evaluations..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 19:29:19",
       "message": "[PROCESSING] Analyzing: Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026..."
+    },
+    {
+      "timestamp": "2026-06-01 19:29:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026"
     }
   ]
 }
