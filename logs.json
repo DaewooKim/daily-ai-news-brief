@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 00:39:46",
+  "last_updated": "2026-06-01 00:39:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 00:39:12",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-01 00:39:12",
       "message": "[PROCESSING] Analyzing: AMD\u2019s new pitch: our old tech is so good you should just keep using it..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 00:39:46",
       "message": "Reprocessing: Data And Storage At The Center Of The AI Stack"
+    },
+    {
+      "timestamp": "2026-06-01 00:39:48",
+      "message": "[SKIP] Content too short: Data And Storage At The Center..."
     }
   ]
 }
