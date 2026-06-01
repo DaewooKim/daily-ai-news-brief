@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 12:49:03",
+  "last_updated": "2026-06-01 12:49:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 12:48:31",
-      "message": "[SUCCESS] Processed: MeMo\uc758 \uba54\ubaa8\ub9ac \ubaa8\ub378\uc740 \ud300\uc774 LLM\uc744 \uc7ac\ud6c8\ub828\ud558\uc9c0 \uc54a\uace0 \uc5c5\uadf8\ub808\uc774\ub4dc\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\uba70 \uc131\ub2a5\uc774 26% \ud5a5\uc0c1\ub429\ub2c8\ub2e4\n  > Summary: MeMo\ub294 LLM(\ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378)\uc774 \ud6c8\ub828 \ud6c4 \uc0c8\ub85c\uc6b4 \uc9c0\uc2dd\uc744 \ud68d\ub4dd\ud560 \uc218 \uc788\ub3c4\ub85d \ub3d5\ub294 \ud504\ub808\uc784..."
-    },
     {
       "timestamp": "2026-06-01 12:48:33",
       "message": "Reprocessing: Fingerprint launches AI Assistant Detection to spot traffic from ChatGPT, Gemini and Claude"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 12:49:03",
       "message": "Reprocessing: XCENA raises $135M for its computational memory controller"
+    },
+    {
+      "timestamp": "2026-06-01 12:49:05",
+      "message": "[SKIP] Content too short: XCENA raises $135M for its com..."
     }
   ]
 }
