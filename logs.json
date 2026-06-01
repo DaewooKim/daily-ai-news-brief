@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 16:10:57",
+  "last_updated": "2026-06-01 16:10:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 16:10:16",
-      "message": "[PROCESSING] Analyzing: Anthropic\u2019s browser agent got hijacked 31.5% of the time before safeguards engaged..."
-    },
     {
       "timestamp": "2026-06-01 16:10:21",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d\uc758 \ube0c\ub77c\uc6b0\uc800 \uc5d0\uc774\uc804\ud2b8\ub294 \ubcf4\ud638\uc7a5\uce58\uac00 \uc791\ub3d9\ud558\uae30 \uc804\uc5d0 31.5%\uc758 \ube44\uc728\ub85c \ud0c8\ucde8\ub2f9\ud588\ub2e4\n  > Summary: \uc218\ub9ce\uc740 \uc2e4\ud5d8\uc2e4\uc5d0\uc11c \ubc1c\ud45c\ud55c \ud504\ub86c\ud504\ud2b8 \uc8fc\uc785 \uc218\uce58 \uc911 \uc564\ud2b8\ub85c\ud53d\uc758 \uc218\uce58\uac00 \uac00\uc7a5 \ub192\uc558\uc73c\uba70, \ubcf4\ud638\uc7a5\uce58..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 16:10:57",
       "message": "[SKIP] Content too short: Nvidia ramps up production of ..."
+    },
+    {
+      "timestamp": "2026-06-01 16:10:58",
+      "message": "Reprocessing: With DGX Station for Windows, Nvidia squeezes 1 trillion-parameter AI supercomputer into a deskside form factor"
     }
   ]
 }
