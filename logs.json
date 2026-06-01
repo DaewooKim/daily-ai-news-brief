@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 15:02:41",
+  "last_updated": "2026-06-01 15:02:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 15:01:50",
-      "message": "[SKIP] Irrelevant (AI Filter): SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M, at an average net price of $77,135 per coin, its first disclosed bitcoin disposal (CoinDesk)"
-    },
     {
       "timestamp": "2026-06-01 15:01:52",
       "message": "[PROCESSING] Analyzing: Google plans to open its first physical Google Store outside of the US, in Tokyo's Omotesando district \"this summer\", marking Google's 11th physical store (Damien Wilde/9to5Google)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 15:02:41",
       "message": "[SUCCESS] Processed: AI\ub294 \ubcf4\uc548\uc744 \uae68\ub728\ub9ac\uc9c0 \uc54a\ub294\ub2e4. \ubcf5\uc7a1\uc131\uc774 \ubb38\uc81c\ub2e4\n  > Summary: \uc774 \uae30\uc0ac\ub294 \uae30\uc5c5 \ubcf4\uc548\uc5d0\uc11c\uc758 \ubcf5\uc7a1\uc131\uacfc AI\uc758 \uc5ed\ud560\uc5d0 \ub300\ud574 \ub17c\uc758\ud55c\ub2e4. AI\uac00 \uacf5\uaca9 \ud45c\uba74\uc744 \ud655\uc7a5..."
+    },
+    {
+      "timestamp": "2026-06-01 15:02:42",
+      "message": "Reprocessing: Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow"
     }
   ]
 }
