@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 23:56:23",
+  "last_updated": "2026-06-01 23:56:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 23:55:42",
-      "message": "Reprocessing: OpenAI frontier models and Codex are now available on AWS"
-    },
     {
       "timestamp": "2026-06-01 23:55:44",
       "message": "[PROCESSING] Analyzing: OpenAI frontier models and Codex are now available on AWS..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 23:56:23",
       "message": "[PROCESSING] Analyzing: DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms..."
+    },
+    {
+      "timestamp": "2026-06-01 23:56:25",
+      "message": "[SKIP] Irrelevant (AI Filter): DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms"
     }
   ]
 }
