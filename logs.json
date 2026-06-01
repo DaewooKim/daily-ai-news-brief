@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 06:07:35",
+  "last_updated": "2026-06-01 06:07:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 06:07:01",
-      "message": "Found 168 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-01 06:07:01",
       "message": "[PROCESSING] Analyzing: AMD\u2019s new pitch: our old tech is so good you should just keep using it..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 06:07:35",
       "message": "Reprocessing: Uncle Sam Awards $2 Billion-Plus To Quantum Companies, But Wants A Cut"
+    },
+    {
+      "timestamp": "2026-06-01 06:07:37",
+      "message": "[SKIP] Content too short: Uncle Sam Awards $2 Billion-Pl..."
     }
   ]
 }
