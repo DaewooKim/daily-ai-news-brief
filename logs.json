@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 05:03:54",
+  "last_updated": "2026-06-01 05:03:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 05:03:06",
-      "message": "[PROCESSING] Analyzing: Nvidia announces the RTX Spark, an Arm-based consumer PC chip family that it says is \"the most efficient PC chip ever built\", made in partnership with MediaTek (Sean Hollister/The Verge)..."
-    },
     {
       "timestamp": "2026-06-01 05:03:09",
       "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, '\uac00\uc7a5 \ud6a8\uc728\uc801\uc778' ARM \uae30\ubc18 \uc18c\ube44\uc790 PC \uce69 \ucd9c\uc2dc\n  > Summary: \uc5d4\ube44\ub514\uc544\ub294 \uba54\ub514\uc544\ud14d\uacfc \ud611\ub825\ud558\uc5ec '\uac00\uc7a5 \ud6a8\uc728\uc801\uc778 PC \uce69'\uc774\ub77c\uace0 \uc8fc\uc7a5\ud558\ub294 RTX Spark\ub77c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 05:03:54",
       "message": "[PROCESSING] Analyzing: NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures (Cailey Gleeson/Fierce Healthcare)..."
+    },
+    {
+      "timestamp": "2026-06-01 05:03:56",
+      "message": "[SKIP] Irrelevant (AI Filter): NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures (Cailey Gleeson/Fierce Healthcare)"
     }
   ]
 }
