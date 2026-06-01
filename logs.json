@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 03:57:04",
+  "last_updated": "2026-06-01 03:57:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 03:56:32",
-      "message": "[SUCCESS] Processed: MUFG, OpenAI\uc640 \ud568\uaed8 AI \ub124\uc774\ud2f0\ube0c\ub85c \ubc1c\uc804 \ubaa9\ud45c\n  > Summary: MUFG\ub294 ChatGPT Enterprise\ub97c \ud65c\uc6a9\ud558\uc5ec AI \ub124\uc774\ud2f0\ube0c \uc870\uc9c1\uc73c\ub85c \ubc1c\uc804\ud558\uace0, ..."
-    },
     {
       "timestamp": "2026-06-01 03:56:33",
       "message": "[PROCESSING] Analyzing: Erin Brockovich takes aim at data center secrecy..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 03:57:04",
       "message": "[PROCESSING] Analyzing: Daloopa, which structures financial data from filings, transcripts, investor decks, and other public sources for investment firms, raised a $47M Series C (Ryan Lawler/Axios)..."
+    },
+    {
+      "timestamp": "2026-06-01 03:57:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Daloopa, which structures financial data from filings, transcripts, investor decks, and other public sources for investment firms, raised a $47M Series C (Ryan Lawler/Axios)"
     }
   ]
 }
