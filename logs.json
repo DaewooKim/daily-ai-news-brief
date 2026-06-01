@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 07:16:37",
+  "last_updated": "2026-06-01 07:16:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 07:15:53",
-      "message": "[PROCESSING] Analyzing: Nvidia says RTX Spark offers up to 20 CPU cores and a Blackwell GPU with 6,144 CUDA cores, capable of \"100 FPS 1440p gaming\" or running 120B-parameter models (Jeffrey Kampman/Tom's Hardware)..."
-    },
     {
       "timestamp": "2026-06-01 07:15:57",
       "message": "[SUCCESS] Processed: Nvidia\ub294 RTX Spark\uac00 \ucd5c\ub300 20\uac1c\uc758 CPU \ucf54\uc5b4\uc640 6,144\uac1c\uc758 CUDA \ucf54\uc5b4\ub97c \uac00\uc9c4 Blackwell GPU\ub97c \uc81c\uacf5\ud558\uc5ec '100 FPS 1440p \uac8c\uc784'\uacfc 120B \ub9e4\uac1c\ubcc0\uc218 \ubaa8\ub378 \uc2e4\ud589\uc774 \uac00\ub2a5\ud558\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Nvidia\ub294 \uc0c8\ub85c\uc6b4 RTX Spark \ud50c\ub7ab\ud3fc\uc774 \ucd5c\ub300 20\uac1c\uc758 CPU \ucf54\uc5b4\uc640 6,144\uac1c\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 07:16:37",
       "message": "[PROCESSING] Analyzing: Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia..."
+    },
+    {
+      "timestamp": "2026-06-01 07:16:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia"
     }
   ]
 }
