@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 06:10:24",
+  "last_updated": "2026-06-01 06:10:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 06:09:40",
-      "message": "[PROCESSING] Analyzing: Dell introduces the $699+ Dell XPS 13, starting with 8GB of RAM, a six-core Intel Core 5 320 chip, and a 13.4-inch touchscreen, rivaling the MacBook Neo (Antonio G. Di Benedetto/The Verge)..."
-    },
     {
       "timestamp": "2026-06-01 06:09:42",
       "message": "[SKIP] Irrelevant (AI Filter): Dell introduces the $699+ Dell XPS 13, starting with 8GB of RAM, a six-core Intel Core 5 320 chip, and a 13.4-inch touchscreen, rivaling the MacBook Neo (Antonio G. Di Benedetto/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 06:10:24",
       "message": "[SUCCESS] Processed: \ud074\ub85c\ub4dc \ubbf8\ud1a0\uc2a4\uac00 \ub4dc\ub7ec\ub0b8 \uace0\ub41c \uc9c4\uc2e4: \uadc0\uc0ac\uc758 \uc5d4\ud130\ud504\ub77c\uc774\uc988 \ud328\uce58 \ud504\ub85c\uc138\uc2a4\uac00 \ub108\ubb34 \ub290\ub9bd\ub2c8\ub2e4\n  > Summary: 2024\ub144 \uc77c\ub9ac\ub178\uc774 \ub300\ud559\uad50\uc758 \uc5f0\uad6c\uc790\ub4e4\uc740 GPT-4\uac00 CVE \uc124\uba85\ubb38\uc73c\ub85c 15\uac1c\uc758 \ucde8\uc57d\uc810 \ub370\uc774..."
+    },
+    {
+      "timestamp": "2026-06-01 06:10:25",
+      "message": "Reprocessing: MeMo's memory model lets teams upgrade their LLM without retraining it \u2014 and performance jumps 26%"
     }
   ]
 }
