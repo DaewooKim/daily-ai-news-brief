@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 15:03:08",
+  "last_updated": "2026-06-01 15:03:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 15:02:06",
-      "message": "[PROCESSING] Analyzing: CEA-Leti Presents Die-to-Wafer Hybrid Bonding  At 1 \u03bcm Pitch..."
-    },
     {
       "timestamp": "2026-06-01 15:02:11",
       "message": "[SUCCESS] Processed: CEA-Leti, 1\u03bcm \ud53c\uce58\uc5d0\uc11c \ub2e4\uc774-\ud22c-\uc6e8\uc774\ud37c \ud558\uc774\ube0c\ub9ac\ub4dc \ubcf8\ub529 \ubc1c\ud45c\n  > Summary: CEA-Leti\uac00 \uace0\uc131\ub2a5 \ucef4\ud4e8\ud305 \ubc0f \uc778\uacf5\uc9c0\ub2a5\uc744 \uc704\ud55c 3D \ud1b5\ud569\uc758 \uc911\uc694\ud55c \uc774\uc815\ud45c\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 15:03:08",
       "message": "[SUCCESS] Processed: \ub85c\ubd07 \uac1c\ubc1c \ud0a4\ud2b8: \uad6c\uc131 \uc694\uc18c\uc5d0\uc11c \uc644\uc804 \ud50c\ub7ab\ud3fc\uc73c\ub85c\n  > Summary: \uc804 \uc138\uacc4 \ub85c\ubd07 \uc2dc\uc7a5\uc740 \ud604\uc7ac \uc57d 800\uc5b5 \ub2ec\ub7ec\ub85c \ud3c9\uac00\ub418\uba70, \ud5a5\ud6c4 10\ub144 \ub3d9\uc548 \uac15\ud55c \uc131\uc7a5\uc774 \uc608..."
+    },
+    {
+      "timestamp": "2026-06-01 15:03:09",
+      "message": "[SKIP] Content too short: On theCUBE Pod: Dell\u2019s AI hard..."
     }
   ]
 }
