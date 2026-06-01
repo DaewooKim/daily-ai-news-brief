@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 00:41:30",
+  "last_updated": "2026-06-01 00:41:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 00:40:54",
-      "message": "[PROCESSING] Analyzing: AMD unveils the $330 Ryzen 7 7700X3D CPU, relaunches the 5800X3D as a $349 10th-anniversary edition, and plans to support the AM5 motherboard socket until 2030 (Sean Hollister/The Verge)..."
-    },
     {
       "timestamp": "2026-06-01 00:40:58",
       "message": "[SUCCESS] Processed: AMD, 330\ub2ec\ub7ec Ryzen 7 7700X3D CPU \uacf5\uac1c \ubc0f 5800X3D 10\uc8fc\ub144 \uae30\ub150\ud310 349\ub2ec\ub7ec\ub85c \uc7ac\ucd9c\uc2dc, AM5 \uba54\uc778\ubcf4\ub4dc \uc18c\ucf13\uc744 2030\ub144\uae4c\uc9c0 \uc9c0\uc6d0\ud560 \uacc4\ud68d\n  > Summary: AMD\uac00 330\ub2ec\ub7ec\uc758 Ryzen 7 7700X3D CPU\ub97c \uacf5\uac1c\ud558\uace0, 5800X3D\ub97c 10..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 00:41:30",
       "message": "[PROCESSING] Analyzing: China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-06-01 00:41:32",
+      "message": "[SKIP] Irrelevant (AI Filter): China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses (Nikkei Asia)"
     }
   ]
 }
