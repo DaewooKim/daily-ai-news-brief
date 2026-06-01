@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 23:56:37",
+  "last_updated": "2026-06-01 23:56:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 23:56:00",
-      "message": "[SUCCESS] Processed: MUFG\ub294 OpenAI\uc640 \ud568\uaed8 AI \ub124\uc774\ud2f0\ube0c\ub85c \uac70\ub4ed\ub09c\ub2e4\n  > Summary: MUFG\ub294 ChatGPT Enterprise\ub97c \uc0ac\uc6a9\ud558\uc5ec AI \ub124\uc774\ud2f0\ube0c \uc870\uc9c1\uc73c\ub85c \ubc1c\uc804\ud558\uace0, ..."
-    },
     {
       "timestamp": "2026-06-01 23:56:02",
       "message": "[PROCESSING] Analyzing: Alphabet plans to raise $80B to pay for AI buildout..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 23:56:37",
       "message": "[PROCESSING] Analyzing: High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use..."
+    },
+    {
+      "timestamp": "2026-06-01 23:56:39",
+      "message": "[SKIP] Irrelevant (AI Filter): High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use"
     }
   ]
 }
