@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 12:47:59",
+  "last_updated": "2026-06-01 12:48:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 12:47:19",
-      "message": "[PROCESSING] Analyzing: SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M at an average net price of $77,135 per coin, its first disclosed bitcoin disposal (CoinDesk)..."
-    },
     {
       "timestamp": "2026-06-01 12:47:21",
       "message": "[SKIP] Irrelevant (AI Filter): SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M at an average net price of $77,135 per coin, its first disclosed bitcoin disposal (CoinDesk)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 12:47:59",
       "message": "Reprocessing: TDK Ventures Invests in C2i Semiconductors"
+    },
+    {
+      "timestamp": "2026-06-01 12:48:01",
+      "message": "[PROCESSING] Analyzing: TDK Ventures Invests in C2i Semiconductors..."
     }
   ]
 }
