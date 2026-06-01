@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 00:40:59",
+  "last_updated": "2026-06-01 00:41:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 00:40:23",
-      "message": "[PROCESSING] Analyzing: A shared playbook for trustworthy third party evaluations..."
-    },
     {
       "timestamp": "2026-06-01 00:40:26",
       "message": "[SUCCESS] Processed: \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \uc81c3\uc790 \ud3c9\uac00\ub97c \uc704\ud55c \uacf5\uc720\ub41c \ud50c\ub808\uc774\ubd81\n  > Summary: OpenAI\ub294 \ucd5c\ucca8\ub2e8 \uc2dc\uc2a4\ud15c\uc5d0 \ub300\ud55c \ubaa8\ub378\uc758 \ub2a5\ub825, \uc548\uc804 \uc7a5\uce58 \ubc0f \uc720\ud6a8\uc131\uc744 \ud3c9\uac00\ud558\ub294 \ubc29\ubc95\uc5d0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 00:40:59",
       "message": "[PROCESSING] Analyzing: Twitch rolls out Dual Format, a feature that lets creators stream horizontally and vertically simultaneously, and 2K streaming for partners and affiliates (Cheyenne MacDonald/Engadget)..."
+    },
+    {
+      "timestamp": "2026-06-01 00:41:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Twitch rolls out Dual Format, a feature that lets creators stream horizontally and vertically simultaneously, and 2K streaming for partners and affiliates (Cheyenne MacDonald/Engadget)"
     }
   ]
 }
