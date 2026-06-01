@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 19:27:47",
+  "last_updated": "2026-06-01 19:27:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 19:27:10",
-      "message": "[SUCCESS] Processed: \uba54\ud0c0\uc758 AI\uac00 \uc778\uc2a4\ud0c0\uadf8\ub7a8 \uacc4\uc815\uc744 \ud0c8\ucde8\ud558\ub294 \ub370 \uc774\uc6a9\ub418\ub2e4\n  > Summary: \uba54\ud0c0\uc758 AI \uc9c0\uc6d0 \ucc57\ubd07\uc774 \ud574\ucee4\ub4e4\uc5d0\uac8c \uc778\uc2a4\ud0c0\uadf8\ub7a8 \uacc4\uc815\uc744 \ud0c8\ucde8\ud558\ub294 \ub370 \ub3c4\uc6c0\uc744 \uc8fc\uc5c8\uc74c\uc774 \ubcf4\ub3c4\ub418\uc5c8..."
-    },
     {
       "timestamp": "2026-06-01 19:27:12",
       "message": "[PROCESSING] Analyzing: Casey Neistat\u2019s guide to posting every day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 19:27:47",
       "message": "[PROCESSING] Analyzing: Overcoming the trade-offs in data sovereignty..."
+    },
+    {
+      "timestamp": "2026-06-01 19:27:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Overcoming the trade-offs in data sovereignty"
     }
   ]
 }
