@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 12:47:15",
+  "last_updated": "2026-06-01 12:47:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 12:46:38",
-      "message": "Reprocessing: MUFG aims to become AI-native with OpenAI"
-    },
     {
       "timestamp": "2026-06-01 12:46:39",
       "message": "[PROCESSING] Analyzing: MUFG aims to become AI-native with OpenAI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 12:47:15",
       "message": "[PROCESSING] Analyzing: SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives' friends and family; 60%+ of shares have an extended lock-up (Charles Capel/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-01 12:47:17",
+      "message": "[SKIP] Irrelevant (AI Filter): SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives' friends and family; 60%+ of shares have an extended lock-up (Charles Capel/Bloomberg)"
     }
   ]
 }
