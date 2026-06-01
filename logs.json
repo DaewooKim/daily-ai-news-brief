@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-01 16:10:14",
+  "last_updated": "2026-06-01 16:10:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-01 16:09:30",
-      "message": "[SKIP] Irrelevant (AI Filter): SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives' friends and family; 60%+ of shares have an extended lock-up (Charles Capel/Bloomberg)"
-    },
     {
       "timestamp": "2026-06-01 16:09:32",
       "message": "[PROCESSING] Analyzing: SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M, at an average net price of $77,135 per coin, its first disclosed bitcoin disposal (CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-01 16:10:14",
       "message": "[SKIP] Irrelevant (AI Filter): Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia"
+    },
+    {
+      "timestamp": "2026-06-01 16:10:16",
+      "message": "[PROCESSING] Analyzing: Anthropic\u2019s browser agent got hijacked 31.5% of the time before safeguards engaged..."
     }
   ]
 }
