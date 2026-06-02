@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 12:12:30",
+  "last_updated": "2026-06-02 12:12:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 12:11:42",
-      "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
-    },
     {
       "timestamp": "2026-06-02 12:11:44",
       "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 12:12:30",
       "message": "Reprocessing: JupiterOne launches Continuous Controls Monitoring to test security controls against live asset data"
+    },
+    {
+      "timestamp": "2026-06-02 12:12:32",
+      "message": "[SKIP] Content too short: JupiterOne launches Continuous..."
     }
   ]
 }
