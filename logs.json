@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 06:36:03",
+  "last_updated": "2026-06-02 06:36:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 06:35:20",
-      "message": "[PROCESSING] Analyzing: The IPOs of SpaceX, Anthropic, and OpenAI could add up to $4T to US stock market value within months, fueling concerns they could trigger more capital-raising (The Economist)..."
-    },
     {
       "timestamp": "2026-06-02 06:35:24",
       "message": "[SUCCESS] Processed: SpaceX, Anthropic, OpenAI\uc758 IPO\uac00 \uc218\uac1c\uc6d4 \ub0b4\uc5d0 \ubbf8\uad6d \uc8fc\uc2dd \uc2dc\uc7a5 \uac00\uce58\uc5d0 4\uc870 \ub2ec\ub7ec\ub97c \ucd94\uac00\ud560 \uc218 \uc788\ub2e4\n  > Summary: \uc2a4\ud398\uc774\uc2a4X, \uc564\uc18c\ud53d, \uc624\ud508AI\uc758 IPO\ub294 \uc218\uac1c\uc6d4 \ub0b4\uc5d0 \ubbf8\uad6d \uc8fc\uc2dd \uc2dc\uc7a5\uc5d0 4\uc870 \ub2ec\ub7ec\ub97c \ucd94\uac00\ud560..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 06:36:03",
       "message": "[SKIP] Irrelevant (AI Filter): Salesforce is acquiring CMS provider Contentful; source: Salesforce paid between $1B and $1.5B, a steep discount from Contentful's $3B valuation in 2021 (The Information)"
+    },
+    {
+      "timestamp": "2026-06-02 06:36:05",
+      "message": "[PROCESSING] Analyzing: Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven't raised in three years, 220+ are \"fallen unicorns\" (Hugh Son/CNBC)..."
     }
   ]
 }
