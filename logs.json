@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 02:10:56",
+  "last_updated": "2026-06-02 02:10:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 02:10:12",
-      "message": "[PROCESSING] Analyzing: Listen to the Market..."
-    },
     {
       "timestamp": "2026-06-02 02:10:15",
       "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 02:10:56",
       "message": "Reprocessing: Intel introduces Xeon 6+ server processors, previews upcoming graphics cards"
+    },
+    {
+      "timestamp": "2026-06-02 02:10:58",
+      "message": "[SKIP] Content too short: Intel introduces Xeon 6+ serve..."
     }
   ]
 }
