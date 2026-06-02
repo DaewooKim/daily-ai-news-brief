@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 16:41:06",
+  "last_updated": "2026-06-02 16:41:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 16:40:25",
-      "message": "Found 171 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-02 16:40:25",
       "message": "[PROCESSING] Analyzing: Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 16:41:06",
       "message": "[PROCESSING] Analyzing: Amazon\u2019s four-day Prime Day begins on June 23rd..."
+    },
+    {
+      "timestamp": "2026-06-02 16:41:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon\u2019s four-day Prime Day begins on June 23rd"
     }
   ]
 }
