@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 01:02:40",
+  "last_updated": "2026-06-02 01:02:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 01:02:01",
-      "message": "[SUCCESS] Processed: AI \uc815\ucc45 \ubc0f \uc815\uce58 \uc639\ud638\uc5d0 \ub300\ud55c \uc6b0\ub9ac\uc758 \uacac\ud574\n  > Summary: \uc774 \uae00\uc5d0\uc11c\ub294 AI \uc815\ucc45 \ubc0f \uc815\uce58\uc801 \uc639\ud638\uc5d0 \ub300\ud55c \uc811\uadfc \ubc29\uc2dd, \ud22c\uba85\uc131, \uc2e0\uc911\ud55c \uaddc\uc81c \ubc0f AI ..."
-    },
     {
       "timestamp": "2026-06-02 01:02:02",
       "message": "Reprocessing: OpenAI frontier models and Codex are now available on AWS"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 01:02:40",
       "message": "[PROCESSING] Analyzing: As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026..."
+    },
+    {
+      "timestamp": "2026-06-02 01:02:42",
+      "message": "[SKIP] Irrelevant (AI Filter): As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026"
     }
   ]
 }
