@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 23:33:11",
+  "last_updated": "2026-06-02 23:33:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 23:32:30",
-      "message": "[SUCCESS] Processed: CEA-Leti, 1\u03bcm \ud53c\uce58\ub85c \ub2e4\uc774-\ud22c-\uc6e8\uc774\ud37c \ud558\uc774\ube0c\ub9ac\ub4dc \ubcf8\ub529 \ubc1c\ud45c\n  > Summary: CEA-Leti\uac00 \uace0\uc131\ub2a5 \ucef4\ud4e8\ud305\uacfc \uc778\uacf5\uc9c0\ub2a5(AI)\uc744 \uc704\ud55c 3D \ud1b5\ud569 \uae30\uc220\uc5d0\uc11c \uc911\uc694\ud55c \uc774\uc815\ud45c..."
-    },
     {
       "timestamp": "2026-06-02 23:32:31",
       "message": "[PROCESSING] Analyzing: Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token \u2014 but it's proprietary..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 23:33:11",
       "message": "Reprocessing: Anthropic expands Project Glasswing cybersecurity program to 150 more organizations"
+    },
+    {
+      "timestamp": "2026-06-02 23:33:12",
+      "message": "[SKIP] Content too short: Anthropic expands Project Glas..."
     }
   ]
 }
