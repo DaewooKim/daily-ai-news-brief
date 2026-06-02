@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 19:00:15",
+  "last_updated": "2026-06-02 19:00:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 18:59:31",
-      "message": "[SUCCESS] Processed: \ub9c8\ud2f4 \uc2a4\ucf54\uc138\uc774\uc9c0, AI\uc5d0 \ub300\ud55c \ud560\ub9ac\uc6b0\ub4dc\uc758 \uac00\uc7a5 \ucd5c\uadfc\uc774\uc790 \uac00\uc7a5 \uc608\uc0c1\uce58 \ubabb\ud55c \ubaa9\uc18c\ub9ac\uac00 \ub418\ub2e4\n  > Summary: \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \uc720\uba85\ud55c \uac10\ub3c5 \uc911 \ud55c \uba85\uc778 \ub9c8\ud2f4 \uc2a4\ucf54\uc138\uc774\uc9c0\uac00 AI\ub97c \uc774\uc6a9\ud574 \uc2a4\ud1a0\ub9ac\ubcf4\ub4dc\ub97c \uc81c\uc791\ud558..."
-    },
     {
       "timestamp": "2026-06-02 18:59:33",
       "message": "[PROCESSING] Analyzing: Microsoft launches Scout, an OpenClaw-inspired personal assistant..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 19:00:15",
       "message": "[PROCESSING] Analyzing: Erin Brockovich takes aim at data center secrecy..."
+    },
+    {
+      "timestamp": "2026-06-02 19:00:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Erin Brockovich takes aim at data center secrecy"
     }
   ]
 }
