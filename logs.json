@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 01:03:57",
+  "last_updated": "2026-06-02 01:03:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 01:03:21",
-      "message": "[SUCCESS] Processed: Nvidia, 550B \ud30c\ub77c\ubbf8\ud130 MoE \uc624\ud508 \ubaa8\ub378 Nemotron 3 Ultra \ucd9c\uc2dc\n  > Summary: Nvidia\ub294 550\uc5b5 \ud30c\ub77c\ubbf8\ud130\ub97c \uac00\uc9c4 MoE \uc624\ud508 \ubaa8\ub378\uc778 Nemotron 3 Ultra\ub97c..."
-    },
     {
       "timestamp": "2026-06-02 01:03:23",
       "message": "[PROCESSING] Analyzing: Salesforce is acquiring CMS provider Contentful; source: Salesforce paid between $1B and $1.5B, a steep discount from Contentful's $3B valuation in 2021 (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 01:03:57",
       "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
+    },
+    {
+      "timestamp": "2026-06-02 01:03:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
     }
   ]
 }
