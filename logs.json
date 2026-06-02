@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-02 03:19:02",
-  "status": "idle",
+  "last_updated": "2026-06-02 04:19:42",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-02 03:17:34",
-      "message": "Reprocessing: Merge launches Agent Handler for Employees as an IT gatekeeper for workplace AI agents"
+      "timestamp": "2026-06-02 04:19:21",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-02 03:17:36",
-      "message": "[SKIP] Content too short: Merge launches Agent Handler f..."
+      "timestamp": "2026-06-02 04:19:22",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-02 03:17:38",
-      "message": "Reprocessing: Fingerprint launches AI Assistant Detection to spot traffic from ChatGPT, Gemini and Claude"
+      "timestamp": "2026-06-02 04:19:22",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-02 03:17:39",
-      "message": "[SKIP] Content too short: Fingerprint launches AI Assist..."
+      "timestamp": "2026-06-02 04:19:42",
+      "message": "Found 165 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-02 03:17:41",
-      "message": "Reprocessing: Nvidia gives developers the tools to build secure, autonomous AI workers that scale"
-    },
-    {
-      "timestamp": "2026-06-02 03:17:43",
-      "message": "[SKIP] Content too short: Nvidia gives developers the to..."
-    },
-    {
-      "timestamp": "2026-06-02 03:17:44",
-      "message": "Reprocessing: Nvidia ramps up production of Vera Rubin, the foundation of the next generation of AI factories"
-    },
-    {
-      "timestamp": "2026-06-02 03:17:46",
-      "message": "[SKIP] Content too short: Nvidia ramps up production of ..."
-    },
-    {
-      "timestamp": "2026-06-02 03:17:47",
-      "message": "Reprocessing: With DGX Station for Windows, Nvidia squeezes 1 trillion-parameter AI supercomputer into a deskside form factor"
-    },
-    {
-      "timestamp": "2026-06-02 03:17:49",
-      "message": "[SKIP] Content too short: With DGX Station for Windows, ..."
-    },
-    {
-      "timestamp": "2026-06-02 03:17:50",
-      "message": "Reprocessing: Intel touts 130-plus edge design wins for Series 3 and launches OpenVINO Physical AI framework"
-    },
-    {
-      "timestamp": "2026-06-02 03:17:52",
-      "message": "[SKIP] Content too short: Intel touts 130-plus edge desi..."
-    },
-    {
-      "timestamp": "2026-06-02 03:17:53",
-      "message": "Reprocessing: Why \u2018human in the loop\u2019 falls short \u2013 and what to do about it"
-    },
-    {
-      "timestamp": "2026-06-02 03:17:55",
-      "message": "[SKIP] Content too short: Why \u2018human in the loop\u2019 falls ..."
-    },
-    {
-      "timestamp": "2026-06-02 03:17:57",
-      "message": "Reprocessing: From reactive operations to autonomous infrastructure: What IT leaders must do next"
-    },
-    {
-      "timestamp": "2026-06-02 03:17:58",
-      "message": "[SKIP] Content too short: From reactive operations to au..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:00",
-      "message": "Reprocessing: Personal agents light the fuse as Snowflake and Databricks move up the AI stack"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:01",
-      "message": "[SKIP] Content too short: Personal agents light the fuse..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:03",
-      "message": "Reprocessing: From resilience to survivability: How AI forces a rethink of business continuity"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:05",
-      "message": "[SKIP] Content too short: From resilience to survivabili..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:06",
-      "message": "Reprocessing: XCENA raises $135M for its computational memory controller"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:08",
-      "message": "[SKIP] Content too short: XCENA raises $135M for its com..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:10",
-      "message": "Reprocessing: Blue Origin\u2019s New Glenn rocket explodes on launchpad during test"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:11",
-      "message": "[SKIP] Content too short: Blue Origin\u2019s New Glenn rocket..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:13",
-      "message": "Reprocessing: Hardware\u2019s back, baby: AI supercharges server, PC and memory sales"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:15",
-      "message": "[SKIP] Content too short: Hardware\u2019s back, baby: AI supe..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:16",
-      "message": "Reprocessing: CNN sues Perplexity alleging \u2018massive\u2019 copyright infringement"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:18",
-      "message": "[SKIP] Content too short: CNN sues Perplexity alleging \u2018..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:19",
-      "message": "Reprocessing: MongoDB posts stellar earnings and revenue beat as software rebound accelerates"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:21",
-      "message": "[SKIP] Content too short: MongoDB posts stellar earnings..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:23",
-      "message": "Reprocessing: Agentic AI success helps UiPath swing to a profit, but investors weren\u2019t impressed"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:24",
-      "message": "[SKIP] Content too short: Agentic AI success helps UiPat..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:26",
-      "message": "Reprocessing: AWS details new RNG data center network design that boosts throughput and reliability"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:27",
-      "message": "[SKIP] Content too short: AWS details new RNG data cente..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:29",
-      "message": "Reprocessing: AI server demand drives staggering revenue growth for Dell and its stock soars"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:30",
-      "message": "[SKIP] Content too short: AI server demand drives stagge..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:32",
-      "message": "Reprocessing: As Anthropic launches Claude Opus 4.8, it raises $65B in new funding"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:34",
-      "message": "[SKIP] Content too short: As Anthropic launches Claude O..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:35",
-      "message": "Reprocessing: Asana acquires StackAI to run AI agent workflows across enterprise systems"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:37",
-      "message": "[SKIP] Content too short: Asana acquires StackAI to run ..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:38",
-      "message": "Reprocessing: Okta tops estimates and raises outlook as SentinelOne slides on weak guidance"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:40",
-      "message": "[SKIP] Content too short: Okta tops estimates and raises..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:42",
-      "message": "[PROCESSING] Analyzing: Marvell Computex 2026 Keynote Live Coverage..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:45",
-      "message": "[SUCCESS] Processed: \ub9c8\ubca8 \ucef4\ud4e8\ud14d\uc2a4 2026 \uae30\uc870\uc5f0\uc124 \uc0dd\uc911\uacc4\n  > Summary: \ub9c8\ubca8\uc758 \uae30\uc870\uc5f0\uc124\uc740 \ucef4\ud4e8\ud14d\uc2a4 2026\uc758 2\uc77c \ucc28\ub97c \uc2dc\uc791\ud558\uba70, CEO \ub9f7 \uba38\ud53c\uac00 AI \ub370\uc774\ud130 ..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:46",
-      "message": "Reprocessing: NVIDA Introduces RTX Spark: An Arm SoC for Windows PCs"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:48",
-      "message": "[PROCESSING] Analyzing: NVIDA Introduces RTX Spark: An Arm SoC for Windows PCs..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:51",
-      "message": "[SUCCESS] Processed: NVIDIA\uac00 RTX Spark\ub97c \uc18c\uac1c\ud558\ub2e4: Windows PC\uc6a9 Arm SoC\n  > Summary: NVIDIA\ub294 Computex\uc5d0\uc11c Windows PC\uc6a9 Arm SoC\uc778 RTX Spark\ub97c..."
-    },
-    {
-      "timestamp": "2026-06-02 03:18:53",
-      "message": "Completed! New: 2, Updated: 49"
-    },
-    {
-      "timestamp": "2026-06-02 03:18:57",
-      "message": "Saved 51 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-02 03:19:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-02 04:19:42",
+      "message": "[PROCESSING] Analyzing: The Google Pixel Watch 5 may have been spoiled by\u2026 the creator of Borderlands..."
     }
   ]
 }
