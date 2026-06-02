@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 03:16:13",
+  "last_updated": "2026-06-02 03:16:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 03:15:33",
-      "message": "[SUCCESS] Processed: AWS: \ub09c\uc218 \uadf8\ub798\ud504 \ub124\ud2b8\uc6cc\ud06c\ub294 \uc900\ube44 \uc644\ub8cc\n  > Summary: AWS\ub294 \ud68c\ubcf5\ub825\uc774 \ub6f0\uc5b4\ub09c \ub124\ud2b8\uc6cc\ud06c \uadf8\ub798\ud504 \uc544\ud0a4\ud14d\ucc98\uac00 \uc0c8\ub85c\uc6b4 \ube44GPU \uc778\ud504\ub77c\uc758 \uae30\ubcf8 \ub124\ud2b8\uc6cc\ud06c..."
-    },
     {
       "timestamp": "2026-06-02 03:15:35",
       "message": "[PROCESSING] Analyzing: Can Data Centers Ditch Concrete \u2013 or Just Use Less of It?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 03:16:13",
       "message": "[PROCESSING] Analyzing: Researchers find packages in the @redhat-cloud-services npm namespace shipped malware that harvests credentials for GitHub Actions, AWS, GCP, Azure, and others (Rohan Prabhu/Step Security Blog)..."
+    },
+    {
+      "timestamp": "2026-06-02 03:16:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Researchers find packages in the @redhat-cloud-services npm namespace shipped malware that harvests credentials for GitHub Actions, AWS, GCP, Azure, and others (Rohan Prabhu/Step Security Blog)"
     }
   ]
 }
