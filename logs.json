@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 21:16:52",
+  "last_updated": "2026-06-02 21:16:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 21:16:09",
-      "message": "[SUCCESS] Processed: \uccad\uc18c\ub144 \uc548\uc804\uacfc \uae30\ud68c\ub97c \uc704\ud55c \uae00\ub85c\ubc8c \ub9ac\ub354\uc2ed \uc99d\uc9c4\n  > Summary: OpenAI\ub294 \uccad\uc18c\ub144 AI \uc548\uc804\uc744 \uc704\ud55c \uae00\ub85c\ubc8c \ud589\ub3d9\uc744 \ucd09\uad6c\ud558\uba70, \uc80a\uc740\uc774\ub4e4\uc744 \uc704\ud55c \ubcf4\ud638\uc7a5\uce58,..."
-    },
     {
       "timestamp": "2026-06-02 21:16:11",
       "message": "Reprocessing: A shared playbook for trustworthy third party evaluations"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 21:16:52",
       "message": "[PROCESSING] Analyzing: Erin Brockovich takes aim at data center secrecy..."
+    },
+    {
+      "timestamp": "2026-06-02 21:16:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Erin Brockovich takes aim at data center secrecy"
     }
   ]
 }
