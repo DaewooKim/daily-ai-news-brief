@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 21:19:47",
+  "last_updated": "2026-06-02 21:19:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 21:19:09",
-      "message": "[SUCCESS] Processed: \ud589\ub3d9\uc801 \uc7ac\uace0: \uae30\uc5c5 AI \uc870\uc9c1\uc740 \ubaa8\ub378 \ubb38\uc81c\uac00 \uc544\ub2c8\ub77c \ub7f0\ud0c0\uc784 \ubb38\uc81c\ub97c \uac00\uc9c0\uace0 \uc788\uc73c\uba70, \ub300\ubd80\ubd84 \uc798\ubabb\ub41c \uc194\ub8e8\uc158\uc744 \uad6c\ucd95\ud558\uace0 \uc788\ub2e4\n  > Summary: 2026\ub144 1\ubd84\uae30, VentureBeat\uc758 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 \uae30\uc5c5\uc758 AI \uac70\ubc84\ub10c\uc2a4 \ubb38\uc81c\ub294 \ubaa8\ub378..."
-    },
     {
       "timestamp": "2026-06-02 21:19:11",
       "message": "Reprocessing: OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 21:19:47",
       "message": "Reprocessing: AWS adds database features and license options aimed at simplifying agent deployment"
+    },
+    {
+      "timestamp": "2026-06-02 21:19:48",
+      "message": "[SKIP] Content too short: AWS adds database features and..."
     }
   ]
 }
