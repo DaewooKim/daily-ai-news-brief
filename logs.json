@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 19:00:10",
+  "last_updated": "2026-06-02 19:00:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 18:59:26",
-      "message": "[SUCCESS] Processed: \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \uc81c3\uc790 \ud3c9\uac00\ub97c \uc704\ud55c \uacf5\ub3d9 \ud50c\ub808\uc774\ubd81\n  > Summary: OpenAI\ub294 \ucd5c\ucca8\ub2e8 \uc2dc\uc2a4\ud15c\uc5d0 \ub300\ud55c \ubaa8\ub378 \ub2a5\ub825, \uc548\uc804\uc7a5\uce58 \ubc0f \uc720\ud6a8\uc131 \ud3c9\uac00 \ubc29\ubc95\uc5d0 \ub300\ud55c \uc9c0\uce68..."
-    },
     {
       "timestamp": "2026-06-02 18:59:28",
       "message": "[PROCESSING] Analyzing: Martin Scorsese becomes the latest \u2014 and most unlikely \u2014 Hollywood voice for AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 19:00:10",
       "message": "[PROCESSING] Analyzing: DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms..."
+    },
+    {
+      "timestamp": "2026-06-02 19:00:13",
+      "message": "[SKIP] Irrelevant (AI Filter): DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms"
     }
   ]
 }
