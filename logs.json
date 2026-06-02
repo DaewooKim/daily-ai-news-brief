@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 05:29:54",
+  "last_updated": "2026-06-02 05:29:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 05:29:18",
-      "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
-    },
     {
       "timestamp": "2026-06-02 05:29:20",
       "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 05:29:54",
       "message": "Reprocessing: Intel introduces Xeon 6+ server processors, previews upcoming graphics cards"
+    },
+    {
+      "timestamp": "2026-06-02 05:29:56",
+      "message": "[SKIP] Content too short: Intel introduces Xeon 6+ serve..."
     }
   ]
 }
