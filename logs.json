@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 19:02:50",
+  "last_updated": "2026-06-02 19:02:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 19:01:47",
-      "message": "[SUCCESS] Processed: GitHub, \uc0ac\uc6a9\uc790\uc640 \uc5d0\uc774\uc804\ud2b8 \uac04\uc758 \uc591\ubc29\ud5a5 \uc791\uc5c5\uc744 \uc704\ud55c \uce94\ubc84\uc2a4\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc744 \ub3c4\uc785\ud558\ub294 GitHub Copilot \ub370\uc2a4\ud06c\ud1b1 \uc571 \ubbf8\ub9ac\ubcf4\uae30 \uacf5\uac1c\n  > Summary: \ub9c8\ub9ac\uc624 \ub85c\ub4dc\ub9ac\uac8c\uc2a4(GitHub \ube14\ub85c\uadf8)\uc5d0 \ub530\ub974\uba74, GitHub\uc740 Microsoft Buil..."
-    },
     {
       "timestamp": "2026-06-02 19:01:49",
       "message": "[PROCESSING] Analyzing: Microsoft announces seven AI models, including one focused on reasoning and an \"ultra efficient\" coding model that it says was fine-tuned for GitHub (Rafe Rosner-Uddin/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 19:02:50",
       "message": "[PROCESSING] Analyzing: Listen to the Market..."
+    },
+    {
+      "timestamp": "2026-06-02 19:02:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
     }
   ]
 }
