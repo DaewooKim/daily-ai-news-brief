@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 23:32:17",
+  "last_updated": "2026-06-02 23:32:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 23:31:36",
-      "message": "[PROCESSING] Analyzing: Source: a CoreWeave-tied data center raised $900M via five-year junk bonds, priced at par to yield 7.5%, as the sector increasingly turns to high-yield bonds (Gowri Gurumurthy/Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-02 23:31:39",
       "message": "[SKIP] Irrelevant (AI Filter): Source: a CoreWeave-tied data center raised $900M via five-year junk bonds, priced at par to yield 7.5%, as the sector increasingly turns to high-yield bonds (Gowri Gurumurthy/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 23:32:17",
       "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
+    },
+    {
+      "timestamp": "2026-06-02 23:32:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
     }
   ]
 }
