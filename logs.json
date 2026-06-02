@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 05:29:07",
+  "last_updated": "2026-06-02 05:29:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 05:28:27",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 \uc5b4\ub5a4 \uc288\ud37c PAC\uc5d0\ub3c4 \uae30\ubd80\ud558\uc9c0 \uc54a\uc558\uc73c\uba70 \uc9c1\uc6d0 \uc790\uae08 \uc9c0\uc6d0 PAC\uc774 \uc5c6\ub2e4\uace0 \ub9d0\ud558\uba70, Greg Brockman\uc758 Leading the Future\uc5d0 \ub300\ud55c \uc9c0\uc6d0\uc740 \uac1c\uc778\uc801\uc774\ub77c\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 \uc5b4\ub5a4 \uc288\ud37c PAC\uc5d0\ub3c4 \uae30\ubd80\ud558\uc9c0 \uc54a\uc558\uc73c\uba70, \uc9c1\uc6d0\ub4e4\uc5d0 \uc758\ud55c \uc790\uae08 \uc9c0\uc6d0 PAC\uc774 ..."
-    },
     {
       "timestamp": "2026-06-02 05:28:28",
       "message": "[PROCESSING] Analyzing: Procurement records show at least seven Chinese universities that support the country's military and defense industry are seeking access to Nvidia's H200 chips (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 05:29:07",
       "message": "[PROCESSING] Analyzing: HPE reports Q2 revenue up 40% YoY to $10.7B, vs. $9.74B est., Server revenue up 33%, forecasts revenue for FY26 and FY27 above est.; HPE jumps 30%+ after hours (Brody Ford/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-02 05:29:09",
+      "message": "[SKIP] Irrelevant (AI Filter): HPE reports Q2 revenue up 40% YoY to $10.7B, vs. $9.74B est., Server revenue up 33%, forecasts revenue for FY26 and FY27 above est.; HPE jumps 30%+ after hours (Brody Ford/Bloomberg)"
     }
   ]
 }
