@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-02 15:36:52",
+  "last_updated": "2026-06-02 15:36:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-02 15:36:06",
-      "message": "[PROCESSING] Analyzing: Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability (Siobhan Roberts/New York Times)..."
-    },
     {
       "timestamp": "2026-06-02 15:36:10",
       "message": "[SUCCESS] Processed: AI\uc640 \uc218\ud559\uc5d0 \uad00\ud55c \ub77c\uc774\ub374 \uc120\uc5b8\n  > Summary: 16\uba85\uc758 \uc218\ud559\uc790\ub4e4\uc774 AI\uc640 \uc218\ud559\uc5d0 \ub300\ud55c \ub77c\uc774\ub374 \uc120\uc5b8\uc744 \ubc1c\ud45c\ud558\uc600\uace0, \uc774\ub97c \ud1b5\ud574 \uc815\ud655\uc131\uacfc \uc2e0\ub8b0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-02 15:36:52",
       "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
+    },
+    {
+      "timestamp": "2026-06-02 15:36:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
     }
   ]
 }
