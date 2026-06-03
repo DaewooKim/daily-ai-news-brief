@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 09:31:03",
+  "last_updated": "2026-06-03 09:31:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 09:30:24",
-      "message": "Reprocessing: GITEX AI EUROPE"
-    },
     {
       "timestamp": "2026-06-03 09:30:26",
       "message": "[SKIP] Content too short: GITEX AI EUROPE..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 09:31:03",
       "message": "[PROCESSING] Analyzing: Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)..."
+    },
+    {
+      "timestamp": "2026-06-03 09:31:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)"
     }
   ]
 }
