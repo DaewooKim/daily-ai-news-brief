@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 11:45:30",
+  "last_updated": "2026-06-03 11:45:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 11:44:49",
-      "message": "Reprocessing: 1 Megawatt Racks In Data Centers"
-    },
     {
       "timestamp": "2026-06-03 11:44:51",
       "message": "[PROCESSING] Analyzing: 1 Megawatt Racks In Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 11:45:30",
       "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
+    },
+    {
+      "timestamp": "2026-06-03 11:45:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
     }
   ]
 }
