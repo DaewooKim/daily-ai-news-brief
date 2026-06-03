@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 18:29:48",
+  "last_updated": "2026-06-03 18:29:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 18:29:10",
-      "message": "Found 167 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-03 18:29:10",
       "message": "[PROCESSING] Analyzing: The best Qi2 batteries for iPhone and Pixel..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 18:29:48",
       "message": "[PROCESSING] Analyzing: Overcoming the trade-offs in data sovereignty..."
+    },
+    {
+      "timestamp": "2026-06-03 18:29:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Overcoming the trade-offs in data sovereignty"
     }
   ]
 }
