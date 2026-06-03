@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 23:01:17",
+  "last_updated": "2026-06-03 23:01:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 23:00:31",
-      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, \uae30\uc5c5\uc5d0 \uc608\uce21 AI \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \ud310\ub9e4\ud558\ub294 \ucfe0\ubaa8 \uc778\uc218, 4\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\n  > Summary: \uc5d4\ube44\ub514\uc544\uac00 \uc608\uce21 AI \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uae30\uc5c5\uc5d0 \uc81c\uacf5\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 \ucfe0\ubaa8\ub97c 4\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc5d0 \uc778\uc218\ud588..."
-    },
     {
       "timestamp": "2026-06-03 23:00:33",
       "message": "[PROCESSING] Analyzing: Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory (Carl Franzen/VentureBeat)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 23:01:17",
       "message": "[PROCESSING] Analyzing: Pentesting: The Required Human Ingenuity to Uncover Security Gaps..."
+    },
+    {
+      "timestamp": "2026-06-03 23:01:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Pentesting: The Required Human Ingenuity to Uncover Security Gaps"
     }
   ]
 }
