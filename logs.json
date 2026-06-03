@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 12:49:19",
+  "last_updated": "2026-06-03 12:49:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 12:48:43",
-      "message": "Found 167 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-03 12:48:43",
       "message": "[PROCESSING] Analyzing: SwitchBot\u2019s acquisition of Nanoleaf is about more than lighting..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 12:49:19",
       "message": "[PROCESSING] Analyzing: Overcoming the trade-offs in data sovereignty..."
+    },
+    {
+      "timestamp": "2026-06-03 12:49:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Overcoming the trade-offs in data sovereignty"
     }
   ]
 }
