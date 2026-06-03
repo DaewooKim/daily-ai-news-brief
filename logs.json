@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 21:54:28",
+  "last_updated": "2026-06-03 21:54:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 21:53:46",
-      "message": "[PROCESSING] Analyzing: Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at ~$1.77T (Bailey Lipschultz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-03 21:53:49",
       "message": "[SUCCESS] Processed: \uc2a4\ud398\uc774\uc2a4X, 750\uc5b5 \ub2ec\ub7ec \uacf5\ubaa8\ub85c 5\uc5b5 5560\ub9cc \uc8fc\ub97c \uc8fc\ub2f9 135\ub2ec\ub7ec\uc5d0 \ud310\ub9e4 \ubaa9\ud45c\n  > Summary: \uc2a4\ud398\uc774\uc2a4X\ub294 IPO\ub97c \ud1b5\ud574 750\uc5b5 \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud558\uace0\uc790 \ud558\uba70, \uc8fc\ub2f9 135\ub2ec\ub7ec\ub85c 5\uc5b5 556..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 21:54:28",
       "message": "[PROCESSING] Analyzing: Pentesting: The Required Human Ingenuity to Uncover Security Gaps..."
+    },
+    {
+      "timestamp": "2026-06-03 21:54:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Pentesting: The Required Human Ingenuity to Uncover Security Gaps"
     }
   ]
 }
