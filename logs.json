@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 11:44:18",
+  "last_updated": "2026-06-03 11:44:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 11:43:35",
-      "message": "Reprocessing: AWS: Randomized Graph Networks Are Ready for Prime Time"
-    },
     {
       "timestamp": "2026-06-03 11:43:37",
       "message": "[PROCESSING] Analyzing: AWS: Randomized Graph Networks Are Ready for Prime Time..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 11:44:18",
       "message": "[PROCESSING] Analyzing: Doc: Apple agreed in May to submit the financials of its India business to the country's antitrust body as part of an investigation over alleged market abuses (Aditya Kalra/Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-03 11:44:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Doc: Apple agreed in May to submit the financials of its India business to the country's antitrust body as part of an investigation over alleged market abuses (Aditya Kalra/Reuters)"
     }
   ]
 }
