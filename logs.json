@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-03 12:52:41",
+  "last_updated": "2026-06-03 12:52:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-03 12:51:58",
-      "message": "[PROCESSING] Analyzing: How OpenAI, Anthropic, and AI startups are pursuing \"recursive self-improvement\", in a bid to build AI that can improve itself with little to no human input (Financial Times)..."
-    },
     {
       "timestamp": "2026-06-03 12:52:01",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, \uc564\ud2b8\ub85c\ud53d, \uadf8\ub9ac\uace0 AI \uc2a4\ud0c0\ud2b8\uc5c5\ub4e4\uc774 \uc778\uac04\uc758 \uac1c\uc785 \uc5c6\uc774 \uc2a4\uc2a4\ub85c\ub97c \uac1c\uc120\ud560 \uc218 \uc788\ub294 AI \uad6c\ucd95\uc744 \uc704\ud55c '\uc7ac\uadc0\uc801 \uc790\uae30 \uac1c\uc120'\uc744 \ucd94\uad6c\ud558\ub294 \ubc29\ubc95\n  > Summary: \uc624\ud508AI\uc640 \uc564\ud2b8\ub85c\ud53d \ub4f1 AI \uc2a4\ud0c0\ud2b8\uc5c5\ub4e4\uc774 \uc778\uac04\uc758 \uac1c\uc785 \uc5c6\uc774 \uc2a4\uc2a4\ub85c\ub97c \uac1c\uc120\ud560 \uc218 \uc788\ub294 AI ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-03 12:52:41",
       "message": "[PROCESSING] Analyzing: Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)..."
+    },
+    {
+      "timestamp": "2026-06-03 12:52:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)"
     }
   ]
 }
