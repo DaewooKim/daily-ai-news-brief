@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 20:14:51",
+  "last_updated": "2026-06-04 20:14:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 20:14:10",
-      "message": "[PROCESSING] Analyzing: In a letter to Utah Senate President, Kevin O'Leary says he will cut a 40,000-acre AI data center project in Utah by roughly half, after backlash from lawmakers (John Ainger/Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-04 20:14:14",
       "message": "[SUCCESS] Processed: \uc720\ud0c0 \uc0c1\uc6d0\uc758\uc7a5\uc5d0\uac8c \ubcf4\ub0b8 \ud3b8\uc9c0\uc5d0\uc11c \ucf00\ube48 \uc624\ub9ac\ub9ac\ub294 \uc720\ud0c0\uc758 40,000\uc5d0\uc774\ucee4 AI \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub85c\uc81d\ud2b8\ub97c \ub300\ub7b5 \uc808\ubc18\uc73c\ub85c \uc904\uc77c \uac83\uc774\ub77c\uace0 \ub9d0\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: \uc874 \uc5d0\uc774\ub108\uc5d0 \ub530\ub974\uba74, \ucf00\ube48 \uc624\ub9ac\ub9ac\ub294 \uc720\ud0c0 \uc0c1\uc6d0\uc758\uc7a5\uc5d0\uac8c \ubcf4\ub0b8 \ud3b8\uc9c0\uc5d0\uc11c 40,000\uc5d0\uc774\ucee4 \uaddc\ubaa8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 20:14:51",
       "message": "[PROCESSING] Analyzing: SCOTUS sides with the FCC in its clash with wireless carriers, upholding the agency's in-house system for levying fines for regulatory violations (John Kruzel/Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-04 20:14:54",
+      "message": "[SKIP] Irrelevant (AI Filter): SCOTUS sides with the FCC in its clash with wireless carriers, upholding the agency's in-house system for levying fines for regulatory violations (John Kruzel/Reuters)"
     }
   ]
 }
