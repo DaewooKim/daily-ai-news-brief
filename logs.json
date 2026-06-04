@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 10:07:00",
+  "last_updated": "2026-06-04 10:07:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 10:06:18",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-04 10:06:18",
       "message": "[PROCESSING] Analyzing: Amazon develops a warehouse robot workers can speak to..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 10:07:00",
       "message": "Reprocessing: Nvidia Extends Its Grip On The AI Datacenter Outwards"
+    },
+    {
+      "timestamp": "2026-06-04 10:07:01",
+      "message": "[SKIP] Content too short: Nvidia Extends Its Grip On The..."
     }
   ]
 }
