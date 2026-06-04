@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 09:03:20",
+  "last_updated": "2026-06-04 09:03:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 09:02:37",
-      "message": "[PROCESSING] Analyzing: Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B (Natalia Kniazhevich/Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-04 09:02:39",
       "message": "[SKIP] Irrelevant (AI Filter): Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B (Natalia Kniazhevich/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 09:03:20",
       "message": "[PROCESSING] Analyzing: Listen to the Market..."
+    },
+    {
+      "timestamp": "2026-06-04 09:03:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
     }
   ]
 }
