@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 16:53:09",
+  "last_updated": "2026-06-04 16:53:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 16:52:27",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \ubd90\uc5d0\uc11c\uc758 \uc2e4\uc6a9\uc8fc\uc758\uc5d0 \ub300\ud55c \uc8fc\uc7a5\n  > Summary: AI \ud22c\uc790\uac00 \uac00\uc18d\ud654\ub428\uc5d0 \ub530\ub77c \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc790\ub4e4\uc740 \uc774\uc804 \uc0ac\uc774\ud074\uc758 \uad50\ud6c8\uc744 \ud65c\uc6a9\ud558\uc5ec \uc804\ub825, ..."
-    },
     {
       "timestamp": "2026-06-04 16:52:29",
       "message": "Reprocessing: AWS: Randomized Graph Networks Are Ready for Prime Time"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 16:53:09",
       "message": "[PROCESSING] Analyzing: SCOTUS sides with the FCC in its clash with wireless carriers, upholding the agency's in-house system for levying fines for regulatory violations (John Kruzel/Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-04 16:53:12",
+      "message": "[SKIP] Irrelevant (AI Filter): SCOTUS sides with the FCC in its clash with wireless carriers, upholding the agency's in-house system for levying fines for regulatory violations (John Kruzel/Reuters)"
     }
   ]
 }
