@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 13:31:28",
+  "last_updated": "2026-06-04 13:31:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 13:30:37",
-      "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8\ub85c \uc804\ud1b5 CRM \ub300\uc2dc\ubcf4\ub4dc\ub97c \ub300\uccb4\ud558\ub294 Airspeed, 2000\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \ud22c\uc790 \uc720\uce58\n  > Summary: \ub7f0\ub358\uacfc \ub274\uc695\uc5d0 \ubcf8\uc0ac\ub97c \ub454 AI \uc2a4\ud0c0\ud2b8\uc5c5 Airspeed\uac00 \uc804\ud1b5\uc801\uc778 CRM \ub300\uc2dc\ubcf4\ub4dc\ub97c \ub300\uccb4\ud560..."
-    },
     {
       "timestamp": "2026-06-04 13:30:39",
       "message": "[PROCESSING] Analyzing: Sam Altman says he has no plans to put money into the 2026 US midterms; OpenAI has tried to distance itself from the Greg Brockman-backed Leading the Future PAC (Emily Birnbaum/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 13:31:28",
       "message": "[PROCESSING] Analyzing: Breaking The \u201cUnhackable\u201d Xbox One..."
+    },
+    {
+      "timestamp": "2026-06-04 13:31:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Breaking The \u201cUnhackable\u201d Xbox One"
     }
   ]
 }
