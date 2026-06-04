@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 01:16:04",
+  "last_updated": "2026-06-04 01:16:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 01:15:12",
-      "message": "Reprocessing: GaN Power Devices Power Up"
-    },
     {
       "timestamp": "2026-06-04 01:15:14",
       "message": "[PROCESSING] Analyzing: GaN Power Devices Power Up..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 01:16:04",
       "message": "[SUCCESS] Processed: XELA \ub85c\ubcf4\ud2f1\uc2a4, \uace0\uae09 uSkin \ucd09\uac01 \uc13c\uc11c \ub3c4\uc785\n  > Summary: XELA \ub85c\ubcf4\ud2f1\uc2a4\ub294 Automate 2026 \ubc15\ub78c\ud68c\uc5d0\uc11c \ub85c\ubd07\uc758 \ubbfc\ucca9\uc131, \ubb3c\uccb4 \uc778\uc2dd \ubc0f \uc870\uc791..."
+    },
+    {
+      "timestamp": "2026-06-04 01:16:06",
+      "message": "[SKIP] Content too short: Observability provider Coralog..."
     }
   ]
 }
