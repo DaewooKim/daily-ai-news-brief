@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 07:57:03",
+  "last_updated": "2026-06-04 07:57:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 07:56:17",
-      "message": "[PROCESSING] Analyzing: Listen to the Market..."
-    },
     {
       "timestamp": "2026-06-04 07:56:21",
       "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 07:57:03",
       "message": "Reprocessing: Observability provider Coralogix nabs $200M investment"
+    },
+    {
+      "timestamp": "2026-06-04 07:57:04",
+      "message": "[SKIP] Content too short: Observability provider Coralog..."
     }
   ]
 }
