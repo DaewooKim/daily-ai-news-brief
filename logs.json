@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 04:35:52",
+  "last_updated": "2026-06-04 04:35:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 04:35:14",
-      "message": "[PROCESSING] Analyzing: Listen to the Market..."
-    },
     {
       "timestamp": "2026-06-04 04:35:16",
       "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 04:35:52",
       "message": "Reprocessing: SpaceX hopes to raise $75B when world\u2019s biggest-ever IPO lifts off next week"
+    },
+    {
+      "timestamp": "2026-06-04 04:35:54",
+      "message": "[SKIP] Content too short: SpaceX hopes to raise $75B whe..."
     }
   ]
 }
