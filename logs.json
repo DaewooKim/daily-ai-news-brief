@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 11:18:07",
+  "last_updated": "2026-06-04 11:18:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 11:17:33",
-      "message": "[PROCESSING] Analyzing: Hemlock Semiconductor Appoints New Vice President of Manufacturing..."
-    },
     {
       "timestamp": "2026-06-04 11:17:35",
       "message": "[SKIP] Irrelevant (AI Filter): Hemlock Semiconductor Appoints New Vice President of Manufacturing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 11:18:07",
       "message": "Reprocessing: OQC raises $350M for its sapphire-based superconducting quantum chips"
+    },
+    {
+      "timestamp": "2026-06-04 11:18:09",
+      "message": "[SKIP] Content too short: OQC raises $350M for its sapph..."
     }
   ]
 }
