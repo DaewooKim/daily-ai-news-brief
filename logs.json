@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-04 03:28:37",
+  "last_updated": "2026-06-04 03:28:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-04 03:27:57",
-      "message": "Reprocessing: Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, above its marketed range of $53 to $55, valuing the company at $15.6B (Carmen Reinicke/Bloomberg)"
-    },
     {
       "timestamp": "2026-06-04 03:27:58",
       "message": "[PROCESSING] Analyzing: Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, above its marketed range of $53 to $55, valuing the company at $15.6B (Carmen Reinicke/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-04 03:28:37",
       "message": "[PROCESSING] Analyzing: Listen to the Market..."
+    },
+    {
+      "timestamp": "2026-06-04 03:28:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
     }
   ]
 }
