@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-05 12:59:10",
+  "last_updated": "2026-06-05 12:59:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-05 12:58:27",
-      "message": "[SUCCESS] Processed: \uc5d8\ub860 \uba38\uc2a4\ud06c, \ud2b8\uc704\ud130 \ub370\uc774\ud130 \uc0ac\uc6a9 \uc81c\ud55c \ud574\uc81c\ub97c \uc694\uccad\ud558\ub2e4\n  > Summary: \uc5d8\ub860 \uba38\uc2a4\ud06c\uac00 5\uc6d4\uc5d0 FTC\uc5d0 2022\ub144 \ud2b8\uc704\ud130 \ub370\uc774\ud130 \uc0ac\uc6a9\uc744 \uc81c\ud55c\ud558\ub294 \uba85\ub839\uc744 \ud574\uc81c\ud574 \uc904 ..."
-    },
     {
       "timestamp": "2026-06-05 12:58:28",
       "message": "[PROCESSING] Analyzing: S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs (Isabelle Lee/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-05 12:59:10",
       "message": "[PROCESSING] Analyzing: Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033..."
+    },
+    {
+      "timestamp": "2026-06-05 12:59:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033"
     }
   ]
 }
