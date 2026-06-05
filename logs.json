@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-05 07:22:40",
+  "last_updated": "2026-06-05 07:22:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-05 07:21:58",
-      "message": "[PROCESSING] Analyzing: PJM Monitor: AI Data Center Growth Reshaping Power Markets..."
-    },
     {
       "timestamp": "2026-06-05 07:22:02",
       "message": "[SUCCESS] Processed: PJM \ubaa8\ub2c8\ud130: AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc73c\ub85c \uc804\ub825 \uc2dc\uc7a5 \uc7ac\ud3b8\n  > Summary: AI \uae30\ubc18\uc758 \uc804\ub825 \uc218\uc694 \uc131\uc7a5\uc774 \ub300\uae30 \uc2dc\uac04 \uc9c0\uc5f0, \uacf5\uae09 \ubd80\uc871 \ubc0f \uc624\ub798\ub41c \uc804\ub825 \uc2dc\uc7a5 \uac00\uc815\uacfc \ucda9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-05 07:22:40",
       "message": "[SKIP] Irrelevant (AI Filter): S&P Dow Jones rejected proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX, which remains ineligible until one year after going public (Isabelle Lee/Bloomberg)"
+    },
+    {
+      "timestamp": "2026-06-05 07:22:42",
+      "message": "Reprocessing: OpenAI updates ChatGPT memory with a \"more capable and compute-efficient\" architecture and a summary page that lets users review and steer what it remembers (OpenAI)"
     }
   ]
 }
