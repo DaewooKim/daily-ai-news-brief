@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-05 16:19:15",
+  "last_updated": "2026-06-05 16:19:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-05 16:18:22",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-05 16:18:36",
       "message": "Found 195 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-05 16:19:15",
       "message": "[PROCESSING] Analyzing: Porsche\u2019s Cayenne Coupe Turbo will even make 911 owners nervous..."
+    },
+    {
+      "timestamp": "2026-06-05 16:19:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Porsche\u2019s Cayenne Coupe Turbo will even make 911 owners nervous"
     }
   ]
 }
