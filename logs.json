@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-05 15:10:45",
+  "last_updated": "2026-06-05 15:10:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-05 15:09:51",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-05 15:10:05",
       "message": "Found 193 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-05 15:10:45",
       "message": "[PROCESSING] Analyzing: Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal..."
+    },
+    {
+      "timestamp": "2026-06-05 15:10:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal"
     }
   ]
 }
