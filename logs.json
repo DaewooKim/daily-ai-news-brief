@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-05 01:50:51",
+  "last_updated": "2026-06-05 01:50:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-05 01:50:17",
-      "message": "[PROCESSING] Analyzing: Listen to the Market..."
-    },
     {
       "timestamp": "2026-06-05 01:50:19",
       "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-05 01:50:51",
       "message": "Reprocessing: Cloudflare acquires VoidZero, maker of the Vite JavaScript toolchain"
+    },
+    {
+      "timestamp": "2026-06-05 01:50:52",
+      "message": "[SKIP] Content too short: Cloudflare acquires VoidZero, ..."
     }
   ]
 }
