@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-05 02:54:43",
+  "last_updated": "2026-06-05 02:54:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-05 02:54:05",
-      "message": "[PROCESSING] Analyzing: Introducing new capabilities to GPT-Rosalind..."
-    },
     {
       "timestamp": "2026-06-05 02:54:08",
       "message": "[SUCCESS] Processed: GPT-Rosalind\uc758 \uc0c8\ub85c\uc6b4 \uae30\ub2a5 \uc18c\uac1c\n  > Summary: GPT-Rosalind\ub294 \uc0dd\uba85 \uacfc\ud559 \uc5f0\uad6c\ub97c \uc704\ud55c \uac15\ud654\ub41c \uc0dd\ubb3c\ud559\uc801 \ucd94\ub860, \uc758\uc57d \ud654\ud559 \uc804\ubb38 \uc9c0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-05 02:54:43",
       "message": "[PROCESSING] Analyzing: Cyera eyes $12B valuation at 80x ARR multiple despite operating losses..."
+    },
+    {
+      "timestamp": "2026-06-05 02:54:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Cyera eyes $12B valuation at 80x ARR multiple despite operating losses"
     }
   ]
 }
