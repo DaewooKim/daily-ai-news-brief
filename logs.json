@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-06 15:44:08",
+  "last_updated": "2026-06-06 15:44:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-06 15:43:33",
-      "message": "[PROCESSING] Analyzing: Listen to the Market..."
-    },
     {
       "timestamp": "2026-06-06 15:43:35",
       "message": "[SKIP] Irrelevant (AI Filter): Listen to the Market"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-06 15:44:08",
       "message": "Reprocessing: Fusion power startup Helion valued at $15.5B in $465M funding round"
+    },
+    {
+      "timestamp": "2026-06-06 15:44:10",
+      "message": "[SKIP] Content too short: Fusion power startup Helion va..."
     }
   ]
 }
