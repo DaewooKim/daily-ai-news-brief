@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-06 14:37:10",
+  "last_updated": "2026-06-06 14:37:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-06 14:36:31",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI, \ud504\ub86c\ud504\ud2b8 \uc778\uc81d\uc158 \uacf5\uaca9\uc73c\ub85c\ubd80\ud130 \uace0\uae09 \ubcf4\ud638\ub97c \uc81c\uacf5\ud558\uae30 \uc704\ud55c \uc120\ud0dd\uc801 \ubcf4\uc548 \uc124\uc815 '\ub85d\ub2e4\uc6b4 \ubaa8\ub4dc' \ucd9c\uc2dc\n  > Summary: \uc624\ud508AI\uac00 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ud504\ub86c\ud504\ud2b8 \uc778\uc81d\uc158 \uacf5\uaca9\uc73c\ub85c\ubd80\ud130 \uace0\uae09 \ubcf4\ud638\ub97c \uc81c\uacf5\ud558\ub294 \uc120\ud0dd\uc801 \ubcf4\uc548 \uc124\uc815\uc778..."
-    },
     {
       "timestamp": "2026-06-06 14:36:32",
       "message": "[PROCESSING] Analyzing: Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting (Akash Girimath/Decrypt)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-06 14:37:10",
       "message": "[PROCESSING] Analyzing: Scaling Semiconductor Manufacturing from Pilot Lines to High-Volume Execution..."
+    },
+    {
+      "timestamp": "2026-06-06 14:37:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Scaling Semiconductor Manufacturing from Pilot Lines to High-Volume Execution"
     }
   ]
 }
