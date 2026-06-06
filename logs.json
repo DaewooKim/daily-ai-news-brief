@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-06 14:33:46",
+  "last_updated": "2026-06-06 14:33:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-06 14:32:55",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-06 14:33:10",
       "message": "Found 187 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-06 14:33:46",
       "message": "[PROCESSING] Analyzing: Control Resonant is a sequel \u2014 and also a starting point..."
+    },
+    {
+      "timestamp": "2026-06-06 14:33:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Control Resonant is a sequel \u2014 and also a starting point"
     }
   ]
 }
