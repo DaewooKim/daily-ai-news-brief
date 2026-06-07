@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-07 18:13:28",
+  "last_updated": "2026-06-07 18:13:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-07 18:12:39",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-07 18:12:39",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-07 18:13:28",
       "message": "[PROCESSING] Analyzing: Govee\u2019s all-weather smart lamp post is under $200 for the first time..."
+    },
+    {
+      "timestamp": "2026-06-07 18:13:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Govee\u2019s all-weather smart lamp post is under $200 for the first time"
     }
   ]
 }
