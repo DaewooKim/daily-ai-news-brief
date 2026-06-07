@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-07 22:42:07",
-  "status": "idle",
+  "last_updated": "2026-06-07 23:42:36",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-07 22:40:49",
-      "message": "Reprocessing: After filing for its IPO, Anthropic says we need a way to slow down AI. Fat chance."
+      "timestamp": "2026-06-07 23:42:23",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-07 22:40:50",
-      "message": "[SKIP] Content too short: After filing for its IPO, Anth..."
+      "timestamp": "2026-06-07 23:42:23",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-07 22:40:51",
-      "message": "Reprocessing: Snowflake pushes interoperability-first vision as Apache Iceberg gains enterprise momentum"
+      "timestamp": "2026-06-07 23:42:23",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-07 22:40:53",
-      "message": "[SKIP] Content too short: Snowflake pushes interoperabil..."
+      "timestamp": "2026-06-07 23:42:36",
+      "message": "Found 156 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-07 22:40:54",
-      "message": "Reprocessing: As enterprise AI scales, Capital One and Snowflake focus on governance and trust"
-    },
-    {
-      "timestamp": "2026-06-07 22:40:56",
-      "message": "[SKIP] Content too short: As enterprise AI scales, Capit..."
-    },
-    {
-      "timestamp": "2026-06-07 22:40:57",
-      "message": "Reprocessing: AI agent web traffic has surpassed that of humans, lending weight to the \u2018dead internet\u2019 theory"
-    },
-    {
-      "timestamp": "2026-06-07 22:40:59",
-      "message": "[SKIP] Content too short: AI agent web traffic has surpa..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:00",
-      "message": "Reprocessing: How SiriusXM and Snowflake are using AI to power personalized media experiences"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:01",
-      "message": "[SKIP] Content too short: How SiriusXM and Snowflake are..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:03",
-      "message": "Reprocessing: Supabase raises $500M as AI coding tools drive \u2018phenomenal\u2019 growth"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:04",
-      "message": "[SKIP] Content too short: Supabase raises $500M as AI co..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:06",
-      "message": "Reprocessing: Quantum computer maker Quantinuum closes flat after $1.68B IPO"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:07",
-      "message": "[SKIP] Content too short: Quantum computer maker Quantin..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:09",
-      "message": "Reprocessing: Anthropic calls for global pause in AI development before humans lose control"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:10",
-      "message": "[SKIP] Content too short: Anthropic calls for global pau..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:11",
-      "message": "Reprocessing: Financial technology provider Ramp raises $750M in funding at $44B valuation"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:13",
-      "message": "[SKIP] Content too short: Financial technology provider ..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:14",
-      "message": "Reprocessing: Rubrik shares slip after-hours despite first-quarter beat and raised outlook"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:16",
-      "message": "[SKIP] Content too short: Rubrik shares slip after-hours..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:17",
-      "message": "Reprocessing: Cloudflare acquires VoidZero, maker of the Vite JavaScript toolchain"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:19",
-      "message": "[SKIP] Content too short: Cloudflare acquires VoidZero, ..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:20",
-      "message": "Reprocessing: Five takeaways from the Cisco Live keynotes"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:22",
-      "message": "[SKIP] Content too short: Five takeaways from the Cisco ..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:23",
-      "message": "Reprocessing: What to expect during Broadcom\u2019s \u2018Modern Private Cloud\u2019 event: Join theCUBE June 9"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:25",
-      "message": "[SKIP] Content too short: What to expect during Broadcom..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:26",
-      "message": "Reprocessing: AI startup Flourish reportedly raises $500M round backed by Jeff Bezos"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:28",
-      "message": "[SKIP] Content too short: AI startup Flourish reportedly..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:29",
-      "message": "Reprocessing: Why the semantic layer is becoming the foundation for trusted agentic AI"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:30",
-      "message": "[SKIP] Content too short: Why the semantic layer is beco..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:32",
-      "message": "Reprocessing: Radiant Logic extends identity visibility platform to enterprise AI agents with real-time risk scoring"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:33",
-      "message": "[SKIP] Content too short: Radiant Logic extends identity..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:35",
-      "message": "Reprocessing: Generalist AI raises $400M at $2B valuation to build general intelligence for robotics"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:36",
-      "message": "[SKIP] Content too short: Generalist AI raises $400M at ..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:38",
-      "message": "Reprocessing: Trusted healthcare AI hinges on data foundations, not models alone"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:39",
-      "message": "[SKIP] Content too short: Trusted healthcare AI hinges o..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:40",
-      "message": "Reprocessing: Vibe coding moves from weekend hobby to enterprise change management mandate"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:42",
-      "message": "[SKIP] Content too short: Vibe coding moves from weekend..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:43",
-      "message": "Reprocessing: Agentic commerce puts data quality at the center of retail\u2019s next era"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:45",
-      "message": "[SKIP] Content too short: Agentic commerce puts data qua..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:46",
-      "message": "Reprocessing: How Canva turns a unified data strategy into AI personalization at scale"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:48",
-      "message": "[SKIP] Content too short: How Canva turns a unified data..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:49",
-      "message": "Reprocessing: As enterprise AI matures, data and context emerge as new competitive edge"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:51",
-      "message": "[SKIP] Content too short: As enterprise AI matures, data..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:52",
-      "message": "Reprocessing: A 40-Node 1U Cluster Gigabyte R1C7-K0A-AS1"
-    },
-    {
-      "timestamp": "2026-06-07 22:41:54",
-      "message": "[PROCESSING] Analyzing: A 40-Node 1U Cluster Gigabyte R1C7-K0A-AS1..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:57",
-      "message": "[SUCCESS] Processed: 40-\ub178\ub4dc 1U \ud074\ub7ec\uc2a4\ud130 \uae30\uac00\ubc14\uc774\ud2b8 R1C7-K0A-AS1\n  > Summary: 2026\ub144 \ucef4\ud4e8\ud14d\uc2a4\uc5d0\uc11c \uae30\uac00\ubc14\uc774\ud2b8 R1C7-K0A-AS1\uc744 \ub9cc\ub098\ubcf4\uc558\uc2b5\ub2c8\ub2e4. \uc774 \uc2dc\uc2a4\ud15c\uc740 \ub2e8..."
-    },
-    {
-      "timestamp": "2026-06-07 22:41:59",
-      "message": "Completed! New: 0, Updated: 49"
-    },
-    {
-      "timestamp": "2026-06-07 22:42:03",
-      "message": "Saved 49 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-07 22:42:06",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-07 23:42:36",
+      "message": "[PROCESSING] Analyzing: NASA will wear high-tech Prada long johns to the Moon..."
     }
   ]
 }
