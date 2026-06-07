@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-07 22:37:24",
+  "last_updated": "2026-06-07 22:37:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-07 22:36:40",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-07 22:36:40",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-07 22:37:24",
       "message": "[PROCESSING] Analyzing: The Verge Weekend Questionnaire..."
+    },
+    {
+      "timestamp": "2026-06-07 22:37:26",
+      "message": "[SKIP] Irrelevant (AI Filter): The Verge Weekend Questionnaire"
     }
   ]
 }
