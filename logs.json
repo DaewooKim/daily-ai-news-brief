@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-07 21:34:09",
+  "last_updated": "2026-06-07 21:34:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-07 21:33:32",
-      "message": "[PROCESSING] Analyzing: KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-06-07 21:33:36",
       "message": "[SUCCESS] Processed: KPMG \uc124\ubb38 \uc870\uc0ac: \ub2e8\uc9c0 26%\uc758 \uae30\uc5c5\ub9cc\uc774 AI \ube44\uc6a9\uc5d0 \ub300\ud55c \ud3ec\uad04\uc801\uc778 \uc2dc\uac01\uc744 \uac00\uc9c0\uace0 \uc788\uc73c\uba70, 50%\ub294 \uc77c\ubd80 \uac00\uc2dc\uc131\uc744 \uac00\uc9c0\uace0 \uc788\uace0, 22%\ub294 \uc804\ud600 \uc5c6\uac70\ub098 \uccad\uad6c \ud6c4\uc5d0\ub9cc \ube44\uc6a9\uc744 \ud655\uc778\ud560 \uc218 \uc788\ub2e4\n  > Summary: KPMG\uc758 \uc0c8 \uc124\ubb38 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uae30\uc5c5 \uc911 \ub2e8\uc9c0 26%\ub9cc\uc774 AI \ube44\uc6a9\uc5d0 \ub300\ud55c \ud3ec\uad04\uc801\uc778 \uc2dc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-07 21:34:09",
       "message": "[PROCESSING] Analyzing: A Comprehensive Approach To 3D-IC Physical Verification..."
+    },
+    {
+      "timestamp": "2026-06-07 21:34:11",
+      "message": "[SKIP] Irrelevant (AI Filter): A Comprehensive Approach To 3D-IC Physical Verification"
     }
   ]
 }
