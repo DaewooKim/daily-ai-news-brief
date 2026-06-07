@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-07 20:25:32",
+  "last_updated": "2026-06-07 20:25:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-07 20:24:46",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-07 20:24:46",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-07 20:25:32",
       "message": "[PROCESSING] Analyzing: Xbox Games Showcase 2026: All the news and trailers..."
+    },
+    {
+      "timestamp": "2026-06-07 20:25:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox Games Showcase 2026: All the news and trailers"
     }
   ]
 }
