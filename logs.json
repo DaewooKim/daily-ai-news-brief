@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-07 18:13:32",
+  "last_updated": "2026-06-07 18:13:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-07 18:12:57",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-07 18:12:57",
       "message": "[PROCESSING] Analyzing: Persona 6 exists, and that\u2019s all we know..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-07 18:13:32",
       "message": "[PROCESSING] Analyzing: Japanese Gothic is a gorgeously grotesque ghost story..."
+    },
+    {
+      "timestamp": "2026-06-07 18:13:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Japanese Gothic is a gorgeously grotesque ghost story"
     }
   ]
 }
