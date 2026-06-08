@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 18:36:29",
+  "last_updated": "2026-06-08 18:36:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 18:35:45",
-      "message": "[PROCESSING] Analyzing: The US DOD designates some of China's biggest companies, including Alibaba, BYD, and Baidu, as entities that support the Chinese military (Kate O'Keeffe/Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-08 18:35:48",
       "message": "[SKIP] Irrelevant (AI Filter): The US DOD designates some of China's biggest companies, including Alibaba, BYD, and Baidu, as entities that support the Chinese military (Kate O'Keeffe/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 18:36:29",
       "message": "[PROCESSING] Analyzing: Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033..."
+    },
+    {
+      "timestamp": "2026-06-08 18:36:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033"
     }
   ]
 }
