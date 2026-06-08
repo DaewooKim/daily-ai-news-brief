@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 23:00:28",
+  "last_updated": "2026-06-08 23:00:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 22:59:46",
-      "message": "[PROCESSING] Analyzing: Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. (Richard Nieva/Forbes)..."
-    },
     {
       "timestamp": "2026-06-08 22:59:50",
       "message": "[SUCCESS] Processed: \uc2a4\ud398\uc774\uc2a4X\uc758 \uc778\uc218\ub97c \uc900\ube44 \uc911\uc778 Cursor, \uc9c0\ub09c\uc8fc \uc5f0\uac04 40\uc5b5 \ub2ec\ub7ec \ub9e4\ucd9c \ub3cc\ud30c\n  > Summary: \uc18c\uc2a4\uc5d0 \ub530\ub974\uba74, \uc2a4\ud398\uc774\uc2a4X\uc5d0 \uc778\uc218\ub420 \uac83\uc73c\ub85c \uc608\uc0c1\ub418\ub294 Cursor\uac00 \uc9c0\ub09c\uc8fc \uc5f0\uac04 40\uc5b5 \ub2ec\ub7ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 23:00:28",
       "message": "[PROCESSING] Analyzing: Van der Waals Forces Can Play Unexpected Role in Thin Film Properties..."
+    },
+    {
+      "timestamp": "2026-06-08 23:00:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Van der Waals Forces Can Play Unexpected Role in Thin Film Properties"
     }
   ]
 }
