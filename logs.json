@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 19:43:55",
+  "last_updated": "2026-06-08 19:43:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 19:43:12",
-      "message": "[PROCESSING] Analyzing: Apple says Siri AI will be delayed in the EU for iOS 27 and iPadOS 27 due to the DMA; Siri AI will also not be available in China at launch (Tim Hardwick/MacRumors)..."
-    },
     {
       "timestamp": "2026-06-08 19:43:16",
       "message": "[SUCCESS] Processed: \uc560\ud50c, DMA\ub85c \uc778\ud574 iOS 27 \ubc0f iPadOS 27\uc5d0\uc11c \uc720\ub7fd\uc5d0\uc11c Siri AI\uc758 \ucd9c\uc2dc \uc5f0\uae30 \ubc1c\ud45c; \ucd9c\uc2dc \uc2dc \uc911\uad6d\uc5d0\uc11c\ub294 Siri AI\ub3c4 \uc81c\uacf5\ub418\uc9c0 \uc54a\uc74c\n  > Summary: \uc560\ud50c\uc740 2026 WWDC\uc5d0\uc11c \ubc1c\ud45c\ub41c \uc0c8\ub86d\uace0 \ud5a5\uc0c1\ub41c Siri AI \uae30\ub2a5\uc774 \ub098\uc911\uc5d0 \ubca0\ud0c0\ub85c \ucd9c\uc2dc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 19:43:55",
       "message": "[PROCESSING] Analyzing: Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033..."
+    },
+    {
+      "timestamp": "2026-06-08 19:43:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033"
     }
   ]
 }
