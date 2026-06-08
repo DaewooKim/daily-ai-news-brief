@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 11:51:02",
+  "last_updated": "2026-06-08 11:51:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 11:50:22",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-08 11:50:22",
       "message": "[PROCESSING] Analyzing: Uber tells London to get ready for robotaxis..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 11:51:02",
       "message": "[PROCESSING] Analyzing: Gears of War: E-Day isn\u2019t coming to the PS5..."
+    },
+    {
+      "timestamp": "2026-06-08 11:51:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Gears of War: E-Day isn\u2019t coming to the PS5"
     }
   ]
 }
