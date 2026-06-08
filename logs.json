@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 18:32:47",
+  "last_updated": "2026-06-08 18:32:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 18:32:00",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874\uc774 AI\ub85c \uc0dd\uc131\ub41c \ub9de\ucda4\ud615 \uc0c1\ud488\uc744 \ucd9c\uc2dc\ud569\ub2c8\ub2e4\n  > Summary: \uc544\ub9c8\uc874\uc740 Alexa for Shopping\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc0dd\uc131\ub41c AI \ub514\uc790\uc778\uc758 \uc8fc\ubb38\ud615 \uc778\uc1c4 \uae30..."
-    },
     {
       "timestamp": "2026-06-08 18:32:02",
       "message": "[PROCESSING] Analyzing: Apple announces iPadOS 27..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 18:32:47",
       "message": "[PROCESSING] Analyzing: Overcoming the trade-offs in data sovereignty..."
+    },
+    {
+      "timestamp": "2026-06-08 18:32:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Overcoming the trade-offs in data sovereignty"
     }
   ]
 }
