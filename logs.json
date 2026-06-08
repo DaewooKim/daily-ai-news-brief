@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 05:15:02",
+  "last_updated": "2026-06-08 05:15:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 05:14:17",
-      "message": "[PROCESSING] Analyzing: KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-06-08 05:14:22",
       "message": "[SUCCESS] Processed: KPMG \uc870\uc0ac: AI \ube44\uc6a9\uc5d0 \ub300\ud55c \uc885\ud569\uc801 \uad00\uc810\uc744 \uac00\uc9c4 \uae30\uc5c5\uc740 26%\uc5d0 \ubd88\uacfc\ud558\uba70, 50%\ub294 \uc77c\ubd80 \uac00\uc2dc\uc131\uc744 \uac00\uc9c0\uace0 \uc788\uace0, 22%\ub294 \uc5c6\uc74c \ub610\ub294 \uccad\uad6c \ud6c4\uc5d0\ub9cc \ube44\uc6a9\uc744 \ud655\uc778\ud568\n  > Summary: KPMG\uc758 \uc0c8\ub85c\uc6b4 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, \uae30\uc5c5\uc758 26%\ub9cc\uc774 AI \ube44\uc6a9\uc5d0 \ub300\ud55c \uc885\ud569\uc801\uc778 \uad00\uc810\uc744 \uac00\uc9c0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 05:15:02",
       "message": "[SKIP] Irrelevant (AI Filter): Scaling Semiconductor Manufacturing from Pilot Lines to High-Volume Execution"
+    },
+    {
+      "timestamp": "2026-06-08 05:15:03",
+      "message": "[PROCESSING] Analyzing: Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033..."
     }
   ]
 }
