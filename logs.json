@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 18:35:49",
+  "last_updated": "2026-06-08 18:35:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 18:35:09",
-      "message": "[SUCCESS] Processed: \uc560\ud50c, \ud654\uba74 \uc778\uc2dd, \uac1c\uc778 \ub9e5\ub77d \uc774\ud574 \ubc0f \ub2e4\uc774\ub098\ubbf9 \uc544\uc77c\ub79c\ub4dc \uae30\ubc18 \uc778\ud130\ud398\uc774\uc2a4\ub97c \uac16\ucd98 Siri AI \ubc1c\ud45c\n  > Summary: \uc560\ud50c\uc740 WWDC 2026\uc5d0\uc11c Google Gemini \ud611\uc5c5\uc744 \uc2dc\uc791\uc73c\ub85c Siri AI\uc758 \uac1c\uc120..."
-    },
     {
       "timestamp": "2026-06-08 18:35:10",
       "message": "[PROCESSING] Analyzing: Apple announces new parental controls, letting kids ask to browse specific websites or contact specific people, adding automatic image filtering, and more (Daniel Cooper/Engadget)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 18:35:49",
       "message": "[PROCESSING] Analyzing: A recording of Apple's WWDC 2026 keynote (Apple on YouTube)..."
+    },
+    {
+      "timestamp": "2026-06-08 18:35:52",
+      "message": "[SKIP] Irrelevant (AI Filter): A recording of Apple's WWDC 2026 keynote (Apple on YouTube)"
     }
   ]
 }
