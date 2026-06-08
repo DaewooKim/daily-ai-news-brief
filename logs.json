@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-08 01:54:23",
+  "last_updated": "2026-06-08 01:54:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-08 01:53:49",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-08 01:53:49",
       "message": "[PROCESSING] Analyzing: NASA will wear high-tech Prada long johns to the Moon..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-08 01:54:23",
       "message": "[PROCESSING] Analyzing: Xbox Games Showcase 2026: All the news and trailers..."
+    },
+    {
+      "timestamp": "2026-06-08 01:54:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox Games Showcase 2026: All the news and trailers"
     }
   ]
 }
