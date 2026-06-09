@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-09 01:10:36",
+  "last_updated": "2026-06-09 01:10:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-09 01:10:00",
-      "message": "[SUCCESS] Processed: iOS 27 \ubca0\ud0c0\uc5d0\uc11c \ub0b4\uac00 \uc774\ubbf8 \uc88b\uc544\ud558\ub294 5\uac00\uc9c0\n  > Summary: iOS 27 \ubca0\ud0c0\ub294 \uba87 \uc2dc\uac04 \uc804\uc5d0 \ucd9c\uc2dc\ub418\uc5c8\uc73c\uba70, \ub9ce\uc740 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\ub4e4\uc774 \ud765\ubbf8\ub86d\uc2b5\ub2c8\ub2e4. \ud2b9\ud788 ..."
-    },
     {
       "timestamp": "2026-06-09 01:10:02",
       "message": "[PROCESSING] Analyzing: Where was tvOS 27 at WWDC?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-09 01:10:36",
       "message": "[PROCESSING] Analyzing: Confidential submission of draft S-1 to the SEC..."
+    },
+    {
+      "timestamp": "2026-06-09 01:10:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Confidential submission of draft S-1 to the SEC"
     }
   ]
 }
