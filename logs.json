@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-09 04:29:48",
+  "last_updated": "2026-06-09 04:29:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-09 04:29:12",
-      "message": "Reprocessing: 5 things I already love from the iOS 27 beta"
-    },
     {
       "timestamp": "2026-06-09 04:29:13",
       "message": "[PROCESSING] Analyzing: 5 things I already love from the iOS 27 beta..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-09 04:29:48",
       "message": "[PROCESSING] Analyzing: Confidential submission of draft S-1 to the SEC..."
+    },
+    {
+      "timestamp": "2026-06-09 04:29:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Confidential submission of draft S-1 to the SEC"
     }
   ]
 }
