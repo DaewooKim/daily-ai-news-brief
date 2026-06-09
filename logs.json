@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-09 02:20:10",
+  "last_updated": "2026-06-09 02:20:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-09 02:18:46",
-      "message": "Reprocessing: Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)"
-    },
     {
       "timestamp": "2026-06-09 02:18:48",
       "message": "[PROCESSING] Analyzing: Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-09 02:20:10",
       "message": "[PROCESSING] Analyzing: Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033..."
+    },
+    {
+      "timestamp": "2026-06-09 02:20:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033"
     }
   ]
 }
