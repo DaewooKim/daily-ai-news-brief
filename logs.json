@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 08:45:14",
+  "last_updated": "2026-06-10 08:45:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 08:44:35",
-      "message": "[PROCESSING] Analyzing: Confidential submission of draft S-1 to the SEC..."
-    },
     {
       "timestamp": "2026-06-10 08:44:37",
       "message": "[SKIP] Irrelevant (AI Filter): Confidential submission of draft S-1 to the SEC"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 08:45:14",
       "message": "[PROCESSING] Analyzing: As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says..."
+    },
+    {
+      "timestamp": "2026-06-10 08:45:17",
+      "message": "[SKIP] Irrelevant (AI Filter): As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says"
     }
   ]
 }
