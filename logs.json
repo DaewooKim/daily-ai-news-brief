@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 12:05:50",
+  "last_updated": "2026-06-10 12:05:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 12:05:12",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-10 12:05:12",
       "message": "[PROCESSING] Analyzing: The three sets of earbuds I reach for..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 12:05:50",
       "message": "[PROCESSING] Analyzing: Overcoming the trade-offs in data sovereignty..."
+    },
+    {
+      "timestamp": "2026-06-10 12:05:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Overcoming the trade-offs in data sovereignty"
     }
   ]
 }
