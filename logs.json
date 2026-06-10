@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 20:06:20",
+  "last_updated": "2026-06-10 20:06:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 20:05:34",
-      "message": "[PROCESSING] Analyzing: An essay on policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics (Dario Amodei)..."
-    },
     {
       "timestamp": "2026-06-10 20:05:38",
       "message": "[SUCCESS] Processed: AI\uc758 \uae30\ud558\uae09\uc218\uc801 \ubc1c\uc804\uc5d0 \ub300\ud55c \uc815\ucc45 \ub300\uc751\uc5d0 \uad00\ud55c \uc5d0\uc138\uc774\n  > Summary: \ub2e4\ub9ac\uc624 \uc544\ubaa8\ub370\uc774\uac00 AI\uc758 \uae30\ud558\uae09\uc218\uc801 \ubc1c\uc804\uc5d0 \ub530\ub978 \uc815\ucc45 \ub300\uc751\uc744 \ub2e4\ub8ec \uc5d0\uc138\uc774\uc5d0\uc11c \uaddc\uc81c \ubc0f \uacf5\uacf5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 20:06:20",
       "message": "[PROCESSING] Analyzing: Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules..."
+    },
+    {
+      "timestamp": "2026-06-10 20:06:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules"
     }
   ]
 }
