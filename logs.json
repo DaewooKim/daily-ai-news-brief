@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 20:06:28",
+  "last_updated": "2026-06-10 20:06:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 20:05:46",
-      "message": "[SUCCESS] Processed: OpenAI\uc640 Visa, \uc0ac\uc6a9\uc790\uc758 \ud5c8\uac00 \ud6c4 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc628\ub77c\uc778\uc5d0\uc11c \uad6c\ub9e4\ud560 \uc218 \uc788\ub3c4\ub85d \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0\n  > Summary: OpenAI\uc640 Visa\uac00 \ud611\ub825\ud558\uc5ec \uc0ac\uc6a9\uc790\uc758 \ud5c8\uac00\ub97c \ubc1b\uc740 \ud6c4 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc628\ub77c\uc778\uc5d0\uc11c \uad6c\ub9e4..."
-    },
     {
       "timestamp": "2026-06-10 20:05:47",
       "message": "[PROCESSING] Analyzing: Interfax: Russia restored access to Roblox after concluding the company had complied with local legal requirements; Russia had banned Roblox in December (Andrey Lemeshko/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 20:06:28",
       "message": "[PROCESSING] Analyzing: Valve Selection for UHP Gas and Chemical Delivery..."
+    },
+    {
+      "timestamp": "2026-06-10 20:06:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Valve Selection for UHP Gas and Chemical Delivery"
     }
   ]
 }
