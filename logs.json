@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 15:34:33",
+  "last_updated": "2026-06-10 15:34:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 15:33:39",
-      "message": "Reprocessing: Poetic, which aims to use AI to automate tasks like financial compliance, emerges from stealth with $50M in funding from OpenAI and others at a $500M valuation (Paayal Zaveri/Bloomberg)"
-    },
     {
       "timestamp": "2026-06-10 15:33:41",
       "message": "[PROCESSING] Analyzing: Poetic, which aims to use AI to automate tasks like financial compliance, emerges from stealth with $50M in funding from OpenAI and others at a $500M valuation (Paayal Zaveri/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 15:34:33",
       "message": "[PROCESSING] Analyzing: Every World Cup fan deserves a seat. Norton Neo says its free browser is the ticket..."
+    },
+    {
+      "timestamp": "2026-06-10 15:34:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Every World Cup fan deserves a seat. Norton Neo says its free browser is the ticket"
     }
   ]
 }
