@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 08:47:16",
+  "last_updated": "2026-06-10 08:47:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 08:46:27",
-      "message": "Reprocessing: Sources: OpenAI is in advanced talks to lease a proposed 10GW data center campus in Ohio as part of a deal that could include financial backing from Nvidia (Anissa Gardizy/The Information)"
-    },
     {
       "timestamp": "2026-06-10 08:46:29",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI is in advanced talks to lease a proposed 10GW data center campus in Ohio as part of a deal that could include financial backing from Nvidia (Anissa Gardizy/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 08:47:16",
       "message": "[PROCESSING] Analyzing: Veeco Receives Follow-On Order for Nanosecond Annealing System..."
+    },
+    {
+      "timestamp": "2026-06-10 08:47:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Veeco Receives Follow-On Order for Nanosecond Annealing System"
     }
   ]
 }
