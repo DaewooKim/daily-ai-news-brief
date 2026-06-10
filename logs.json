@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 16:44:22",
+  "last_updated": "2026-06-10 16:44:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 16:43:36",
-      "message": "[SUCCESS] Processed: \ud68c\uc0ac\uc758 \ucde8\uc57d\uc810\uc744 \ud3c9\uac00\ud558\uace0 \uc6b0\uc120 \uc21c\uc704\ub97c \ub9e4\uae30\uace0 \ud328\uce58\ud558\ub294 \ub370 \ub3c4\uc6c0\uc744 \uc8fc\ub294 AI \uc5d0\uc774\uc804\ud2b8 'Security Brain'\uc744 \uac00\uc9c4 Pi\uac00 3,500\ub9cc \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud558\uc5ec 1\uc5b5 \ub2ec\ub7ec \uac00\uce58 \ud3c9\uac00\ub97c \ubc1b\uc558\uc2b5\ub2c8\ub2e4; \uc18c\uc2dd\ud1b5\uc5d0 \ub530\ub974\uba74 xAI\uac00 \uace0\uac1d\uc785\ub2c8\ub2e4.\n  > Summary: \uc2a4\ud0c0\ud2b8\uc5c5 Pi\ub294 'Security Brain' AI \uc5d0\uc774\uc804\ud2b8\ub97c \ud1b5\ud574 \uae30\uc5c5\uc774 \ubcf4\uc548 \ucde8\uc57d\uc810\uc744 ..."
-    },
     {
       "timestamp": "2026-06-10 16:43:37",
       "message": "[PROCESSING] Analyzing: Aryon Security, whose platform lets companies set security strategy, which it translates into enforceable policies that can't be ignored, raised a $29M Series A (Chris Metinko/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 16:44:22",
       "message": "[PROCESSING] Analyzing: Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules..."
+    },
+    {
+      "timestamp": "2026-06-10 16:44:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules"
     }
   ]
 }
