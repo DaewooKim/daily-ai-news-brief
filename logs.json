@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 15:30:00",
+  "last_updated": "2026-06-10 15:30:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 15:29:05",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-10 15:29:05",
       "message": "[PROCESSING] Analyzing: Boox\u2019s quirky page-turning remote won me over..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 15:30:00",
       "message": "[PROCESSING] Analyzing: Insta360\u2019s Luna Ultra 8K stabilized camera is now available in the US..."
+    },
+    {
+      "timestamp": "2026-06-10 15:30:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Insta360\u2019s Luna Ultra 8K stabilized camera is now available in the US"
     }
   ]
 }
