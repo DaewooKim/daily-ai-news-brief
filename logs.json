@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 11:01:36",
+  "last_updated": "2026-06-10 11:01:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 11:00:52",
-      "message": "[PROCESSING] Analyzing: Sources: Ant International is considering raising ~$1B at a $10B+ valuation, paving the way for a potential Hong Kong IPO as soon as this year (Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-10 11:00:55",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Ant International is considering raising ~$1B at a $10B+ valuation, paving the way for a potential Hong Kong IPO as soon as this year (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 11:01:36",
       "message": "[PROCESSING] Analyzing: Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules..."
+    },
+    {
+      "timestamp": "2026-06-10 11:01:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules"
     }
   ]
 }
