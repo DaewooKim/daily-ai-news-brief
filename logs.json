@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-10 15:33:34",
+  "last_updated": "2026-06-10 15:33:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 15:32:34",
-      "message": "[PROCESSING] Analyzing: CameraMatics, which uses AI to help fleet operators improve safety, reduce operational risk, and lower carbon emissions, raised \u20ac49M (Joe Brennan/The Irish Times)..."
-    },
-    {
-      "timestamp": "2026-06-10 15:32:39",
-      "message": "[SUCCESS] Processed: \uce74\uba54\ub77c\ub9e4\ud2f1\uc2a4, \uc548\uc804\uc131 \ud5a5\uc0c1 \ubc0f \ud0c4\uc18c \ubc30\ucd9c \uac10\uc18c\ub97c \uc704\ud55c AI \uc194\ub8e8\uc158\uc73c\ub85c 4900\ub9cc \uc720\ub85c \ubaa8\uae08\n  > Summary: \uce74\uba54\ub77c\ub9e4\ud2f1\uc2a4\ub294 AI\ub97c \ud65c\uc6a9\ud558\uc5ec \ucc28\ub7c9 \uc6b4\uc601\uc790\ub4e4\uc774 \uc548\uc804\uc131\uc744 \ud5a5\uc0c1\ud558\uace0 \uc6b4\uc601 \uc704\ud5d8\uc744 \uc904\uc774\uba70 \ud0c4\uc18c ..."
-    },
     {
       "timestamp": "2026-06-10 15:32:41",
       "message": "[PROCESSING] Analyzing: Sources: Germany's Neura Robotics, which builds AI-powered humanoid robots, raised $1.4B from Tether, Qualcomm, Amazon, Nvidia, and others at a ~$7B valuation (Financial Times)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-10 15:33:34",
       "message": "[PROCESSING] Analyzing: Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation (Dylan Tokar/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-06-10 15:33:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation (Dylan Tokar/Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-06-10 15:33:39",
+      "message": "Reprocessing: Poetic, which aims to use AI to automate tasks like financial compliance, emerges from stealth with $50M in funding from OpenAI and others at a $500M valuation (Paayal Zaveri/Bloomberg)"
     }
   ]
 }
