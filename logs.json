@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-10 15:29:54",
+  "last_updated": "2026-06-10 15:30:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 15:28:53",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-06-10 15:28:53",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-10 15:29:05",
       "message": "Found 153 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-10 15:29:54",
       "message": "[PROCESSING] Analyzing: AT&#038;T is launching $3 \u2018unlimited\u2019 day passes for iPads..."
+    },
+    {
+      "timestamp": "2026-06-10 15:29:57",
+      "message": "[SKIP] Irrelevant (AI Filter): AT&#038;T is launching $3 \u2018unlimited\u2019 day passes for iPads"
+    },
+    {
+      "timestamp": "2026-06-10 15:30:00",
+      "message": "[PROCESSING] Analyzing: Insta360\u2019s Luna Ultra 8K stabilized camera is now available in the US..."
     }
   ]
 }
