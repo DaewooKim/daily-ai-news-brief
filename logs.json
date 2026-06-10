@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 08:47:25",
+  "last_updated": "2026-06-10 08:47:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 08:46:39",
-      "message": "Reprocessing: The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new \"designer\" drug precursors that evade existing product blacklists (Michael Peel/Financial Times)"
-    },
     {
       "timestamp": "2026-06-10 08:46:41",
       "message": "[PROCESSING] Analyzing: The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new \"designer\" drug precursors that evade existing product blacklists (Michael Peel/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 08:47:25",
       "message": "[PROCESSING] Analyzing: Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules..."
+    },
+    {
+      "timestamp": "2026-06-10 08:47:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules"
     }
   ]
 }
