@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-10 05:16:43",
+  "last_updated": "2026-06-10 05:16:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-10 05:15:51",
-      "message": "[SUCCESS] Processed: \ud5e4\uc774, \uc2dc\ub9ac, \ub0b4\uac00 AI\uc5d0\uac8c \uc2e4\uc81c\ub85c \uc6d0\ud558\ub294 \uac83\uc740 \uc774\uac70\uc57c\n  > Summary: \ub098\ub294 \uac1c\uc778 AI \ube44\uc11c\ub97c \uac04\uc808\ud788 \uc6d0\ud558\uc9c0\ub9cc, \ub0b4 \uc804\ud654 \uc18d \uce5c\uadfc\ud55c \ub85c\ubd07 \ubaa9\uc18c\ub9ac \uc5c6\uc774\ub294 \uae30\ub2a5\ud558\uc9c0 ..."
-    },
     {
       "timestamp": "2026-06-10 05:15:53",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-10 05:16:43",
       "message": "[PROCESSING] Analyzing: As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says..."
+    },
+    {
+      "timestamp": "2026-06-10 05:16:45",
+      "message": "[SKIP] Irrelevant (AI Filter): As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says"
     }
   ]
 }
