@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 16:01:25",
+  "last_updated": "2026-06-11 16:01:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 16:00:33",
-      "message": "Found 175 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-11 16:00:33",
       "message": "[PROCESSING] Analyzing: Waymo introduces $30-a-month premium tier for riders who want faster pickups..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 16:01:25",
       "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
+    },
+    {
+      "timestamp": "2026-06-11 16:01:27",
+      "message": "[SKIP] Content too short: Cost Per Genomics Sample? Try ..."
     }
   ]
 }
