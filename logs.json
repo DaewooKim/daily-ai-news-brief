@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 19:31:47",
+  "last_updated": "2026-06-11 19:31:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 19:30:59",
-      "message": "[SUCCESS] Processed: Omdia: \ubc18\ub3c4\uccb4 \uc2dc\uc7a5, 1Q26\uc5d0\uc11c \uba54\ubaa8\ub9ac \uc2dc\uc7a5\uc774 \uc5ed\uc0ac\uc801 \ud328\ud134\uc744 \uc804\ud658\ud558\uba70 3000\uc5b5 \ub2ec\ub7ec \ubd84\uae30 \ub9e4\ucd9c \ub3cc\ud30c\n  > Summary: Omdia\uc758 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 1Q26 \ubc18\ub3c4\uccb4 \ub9e4\ucd9c\uc740 4Q25 \ub300\ube44 27% \uc99d\uac00\ud558\uc5ec 3190\uc5b5..."
-    },
     {
       "timestamp": "2026-06-11 19:31:01",
       "message": "Reprocessing: CEA\u2011Leti Advances European FD-SOI Innovation with GlobalFoundries\u2019 Collaboration in the FAMES Pilot Line"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 19:31:47",
       "message": "[SKIP] Irrelevant (AI Filter): Valve Selection for UHP Gas and Chemical Delivery"
+    },
+    {
+      "timestamp": "2026-06-11 19:31:49",
+      "message": "Reprocessing: Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit"
     }
   ]
 }
