@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 20:36:43",
+  "last_updated": "2026-06-11 20:36:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 20:36:00",
-      "message": "Reprocessing: BBVA puts AI at the core of banking with OpenAI"
-    },
     {
       "timestamp": "2026-06-11 20:36:02",
       "message": "[PROCESSING] Analyzing: BBVA puts AI at the core of banking with OpenAI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 20:36:43",
       "message": "[PROCESSING] Analyzing: GigaDevice Introduces GD32E512 and GD32E252 MCUs for Optical Modules..."
+    },
+    {
+      "timestamp": "2026-06-11 20:36:46",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Introduces GD32E512 and GD32E252 MCUs for Optical Modules"
     }
   ]
 }
