@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 12:37:49",
+  "last_updated": "2026-06-11 12:37:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 12:37:09",
-      "message": "Found 166 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-11 12:37:09",
       "message": "[PROCESSING] Analyzing: I went to the woods to drink surprisingly great espresso..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 12:37:49",
       "message": "Reprocessing: D-Wave Riding The Dual-Rail For Its Gate-Model Quantum Ambitions"
+    },
+    {
+      "timestamp": "2026-06-11 12:37:51",
+      "message": "[SKIP] Content too short: D-Wave Riding The Dual-Rail Fo..."
     }
   ]
 }
