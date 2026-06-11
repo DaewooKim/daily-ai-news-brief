@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 07:06:07",
+  "last_updated": "2026-06-11 07:06:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 07:05:25",
-      "message": "[SUCCESS] Processed: Opendoor, \uc778\ub3c4 \uc6b4\uc601 \uc911\ub2e8 \ubc0f \uc57d 250\uba85 \ud574\uace0, \ubbf8\uad6d\uc758 AI \uc9c0\uc6d0 \ud300\uc73c\ub85c \ub300\uccb4\n  > Summary: Opendoor\ub294 \uc778\ub3c4 \uc6b4\uc601\uc744 \uc911\ub2e8\ud558\uace0 \uc57d 250\uba85\uc758 \uc9c1\uc6d0\uc744 \ud574\uace0\ud558\uba70, \ubbf8\uad6d\uc758 \uc18c\uaddc\ubaa8 AI..."
-    },
     {
       "timestamp": "2026-06-11 07:05:26",
       "message": "[PROCESSING] Analyzing: The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents (A.J. Vicens/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 07:06:07",
       "message": "[PROCESSING] Analyzing: Optimizing ABF Drilling with Picosecond Lasers..."
+    },
+    {
+      "timestamp": "2026-06-11 07:06:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Optimizing ABF Drilling with Picosecond Lasers"
     }
   ]
 }
