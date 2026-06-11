@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 18:24:47",
+  "last_updated": "2026-06-11 18:24:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 18:24:11",
-      "message": "[PROCESSING] Analyzing: Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit..."
-    },
     {
       "timestamp": "2026-06-11 18:24:16",
       "message": "[SUCCESS] Processed: \ucee8\ud14d\uc2a4\ud2b8 \uc555\ucd95, \uc815\ud655\ub3c4 \uc190\uc2e4 \uc5c6\uc774 LLM \uc785\ub825\uc744 16\ubc30 \uc808\uac10\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc5f0\uad6c\n  > Summary: NYU, \ucf5c\ub86c\ube44\uc544, \ud504\ub9b0\uc2a4\ud134, \uba54\ub9b4\ub79c\ub4dc \ub300\ud559\uad50, \ud558\ubc84\ub4dc \ubc0f \ub85c\ub80c\uc2a4 \ub9ac\ubc84\ubaa8\uc5b4 \uad6d\ub9bd \uc5f0\uad6c\uc18c\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 18:24:47",
       "message": "Reprocessing: Alice & Bob unveils its first quantum hardware system to advance qubit fault tolerance"
+    },
+    {
+      "timestamp": "2026-06-11 18:24:49",
+      "message": "[SKIP] Content too short: Alice & Bob unveils its first ..."
     }
   ]
 }
