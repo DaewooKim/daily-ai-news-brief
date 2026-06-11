@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 11:33:20",
+  "last_updated": "2026-06-11 11:33:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 11:32:38",
-      "message": "[SUCCESS] Processed: JP\ubaa8\uac74, OQC, AMD\uac00 \uae08\uc735\uc744 \uc704\ud55c \uc591\uc790 AI \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d\n  > Summary: OQC\uc640 AMD\uc758 \ud611\ub825\uc73c\ub85c JP\ubaa8\uac74 \uccb4\uc774\uc2a4\uac00 \ucd5c\ucd08\uc758 \uc804\uc6a9 \uc0ac\uc6a9\uc790\ub85c \ucc38\uc5ec\ud558\ub294 \uc591\uc790 AI \ub370\uc774..."
-    },
     {
       "timestamp": "2026-06-11 11:32:40",
       "message": "[PROCESSING] Analyzing: Elon Musk is busy stoking far-right culture wars across the West on the eve of SpaceX's IPO, with an impunity unmatched in modern corporate history (Zachary Basu/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 11:33:20",
       "message": "[PROCESSING] Analyzing: US OPM awards a ~$400M, 10-year IT contract to Oracle to develop a single, government-wide system for agencies to manage their HR capabilities (Drew Friedman/Federal News Network)..."
+    },
+    {
+      "timestamp": "2026-06-11 11:33:22",
+      "message": "[SKIP] Irrelevant (AI Filter): US OPM awards a ~$400M, 10-year IT contract to Oracle to develop a single, government-wide system for agencies to manage their HR capabilities (Drew Friedman/Federal News Network)"
     }
   ]
 }
