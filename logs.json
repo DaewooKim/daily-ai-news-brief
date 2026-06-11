@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 07:05:37",
+  "last_updated": "2026-06-11 07:05:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 07:04:52",
-      "message": "[SUCCESS] Processed: AI \uc218\uc694 \ub51c\ub808\ub9c8: \uc720\ud2f8\ub9ac\ud2f0\uac00 \ud22c\uae30\uc801 \uc131\uc7a5\uc5d0 \uc9c1\uba74\ud558\ub2e4\n  > Summary: AI \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc131\uc7a5\uc740 \uc720\ud2f8\ub9ac\ud2f0\uc640 \uaddc\uc81c \uae30\uad00\uc5d0\uac8c \uc804\ub825\ub9dd\uc758 \uacc4\ud68d, \uc790\uae08 \uc870\ub2ec \ubc0f \ud22c..."
-    },
     {
       "timestamp": "2026-06-11 07:04:54",
       "message": "Reprocessing: JPMorgan, OQC, and AMD Plan Quantum AI Data Center for Finance"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 07:05:37",
       "message": "[PROCESSING] Analyzing: South Korean regulators fined Coupang $409M for a data leak in 2025 that exposed ~33.7M accounts and escalated into a diplomatic conflict with the US (Shinhye Kang/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-11 07:05:40",
+      "message": "[SKIP] Irrelevant (AI Filter): South Korean regulators fined Coupang $409M for a data leak in 2025 that exposed ~33.7M accounts and escalated into a diplomatic conflict with the US (Shinhye Kang/Bloomberg)"
     }
   ]
 }
