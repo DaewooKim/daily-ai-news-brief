@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 02:42:18",
+  "last_updated": "2026-06-11 02:42:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 02:41:38",
-      "message": "[SUCCESS] Processed: \uc778\ub354\uc2a4\ud2b8\ub9ac \uadf8\ub8f9, \uc99d\uac00\ud558\ub294 \uc804\ub825 \uc218\uc694\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 AI \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub808\uc784\uc6cc\ud06c \ucd9c\uc2dc\n  > Summary: NEMA, ASHRAE, PNNL \ub4f1 \uc5ec\ub7ec \uc870\uc9c1\uc774 AI \uc791\uc5c5\uc758 \uc804\ub825 \uc9d1\uc57d\uc801 \uad00\ub9ac\uc5d0 \ub300\ud55c \uac00..."
-    },
     {
       "timestamp": "2026-06-11 02:41:40",
       "message": "[PROCESSING] Analyzing: Data Center Architects Reimagine Facilities as Urban Assets..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 02:42:18",
       "message": "[PROCESSING] Analyzing: Amazon secures a $17.5B loan from Citigroup and other banks, after selling CA$14B in bonds on Monday, the largest corporate debt offering in Canadian dollars (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-11 02:42:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon secures a $17.5B loan from Citigroup and other banks, after selling CA$14B in bonds on Monday, the largest corporate debt offering in Canadian dollars (Bloomberg)"
     }
   ]
 }
