@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-11 11:33:31",
+  "last_updated": "2026-06-11 11:33:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-11 11:32:49",
-      "message": "[PROCESSING] Analyzing: Deezer launches an AI music detection tool for users of 20 services, including Spotify and Apple Music, after no company licensed its AI detection tech (Terrence O'Brien/The Verge)..."
-    },
     {
       "timestamp": "2026-06-11 11:32:53",
       "message": "[SUCCESS] Processed: \ub514\uc800(Doozer), \uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubc0f \uc560\ud50c \ubba4\uc9c1\uc744 \ud3ec\ud568\ud55c 20\uac1c \uc11c\ube44\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc744 \uc704\ud55c AI \uc74c\uc545 \uac10\uc9c0 \ub3c4\uad6c \ucd9c\uc2dc\n  > Summary: \ub514\uc800\uac00 \uc790\uc0ac\uc758 AI \uac10\uc9c0 \uae30\uc220\uc744 \uad6c\ub9e4\ud558\uc9c0 \uc54a\uc740 \uacbd\uc7c1\uc790\ub4e4\uc5d0 \ub300\uc751\ud558\uc5ec, \uc0ac\uc6a9\uc790\ub4e4\uc774 \uc0ac\uc6a9\ud560 \uc218 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-11 11:33:31",
       "message": "[PROCESSING] Analyzing: The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents (A.J. Vicens/Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-11 11:33:33",
+      "message": "[SKIP] Irrelevant (AI Filter): The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents (A.J. Vicens/Reuters)"
     }
   ]
 }
