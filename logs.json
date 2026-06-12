@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 02:16:10",
+  "last_updated": "2026-06-12 02:16:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 02:15:34",
-      "message": "[PROCESSING] Analyzing: Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively (@semianalysis_)..."
-    },
     {
       "timestamp": "2026-06-12 02:15:37",
       "message": "[SUCCESS] Processed: \ubd84\uc11d: API \uac00\uaca9\uc744 \uac00\uc815\ud560 \ub54c, 200\ub2ec\ub7ec/\uc6d4 Claude Max \ubc0f ChatGPT Pro \ud50c\ub79c\uc740 \uac01\uac01 \uc57d 8,000\ub2ec\ub7ec/\uc6d4 \ubc0f 14,000\ub2ec\ub7ec/\uc6d4 \uc0c1\ub2f9\uc758 \ud1a0\ud070\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4\n  > Summary: \ucd5c\uadfc\uc5d0 Anthropic/OpenAI\uc758 \uad6c\ub3c5 \ud50c\ub79c\uc744 \uad6c\ub9e4\ud558\uace0 \uc8fc\uac04 \ud55c\ub3c4\ub97c \uc18c\uc9c4\ud560 \ub54c\uae4c\uc9c0 \uae34..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 02:16:10",
       "message": "[SKIP] Irrelevant (AI Filter): Europol says it has dismantled the AudiA6 crypto mixing service, which allegedly laundered $380M+ for ransomware actors and others between 2022 and 2025 (Bill Toulas/BleepingComputer)"
+    },
+    {
+      "timestamp": "2026-06-12 02:16:11",
+      "message": "Reprocessing: Clocked DDR5 Client Memory Modules Enable Scaling To 9600 MT/s For AI PCs"
     }
   ]
 }
