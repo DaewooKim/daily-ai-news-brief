@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 23:34:24",
+  "last_updated": "2026-06-12 23:34:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 23:33:44",
-      "message": "[PROCESSING] Analyzing: JPMorgan, OQC, and AMD Plan Quantum AI Data Center for Finance..."
-    },
     {
       "timestamp": "2026-06-12 23:33:47",
       "message": "[SUCCESS] Processed: JP\ubaa8\uac74, OQC \ubc0f AMD\uac00 \uae08\uc735\uc744 \uc704\ud55c \uc591\uc790 AI \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d\n  > Summary: OQC-AMD \uac74\uc124\uc740 JP\ubaa8\uac74 \uccb4\uc774\uc2a4\uac00 \uccab \ubc88\uc9f8 \uc804\uc6a9 \uc0ac\uc6a9\uc790\ub85c \ucc38\uc5ec\ud558\uba70, \uc6d0\uaca9 \uc561\uc138\uc2a4 \ub514\ubaa8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 23:34:24",
       "message": "[PROCESSING] Analyzing: Meta's services, including Facebook and Instagram, are recovering after a brief outage that affected thousands of users (Jaspreet Singh/Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-12 23:34:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta's services, including Facebook and Instagram, are recovering after a brief outage that affected thousands of users (Jaspreet Singh/Reuters)"
     }
   ]
 }
