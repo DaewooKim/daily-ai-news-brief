@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 10:02:28",
+  "last_updated": "2026-06-12 10:02:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 10:01:39",
-      "message": "[PROCESSING] Analyzing: Here are the price-matching policies for Best Buy, GameStop, and others..."
-    },
     {
       "timestamp": "2026-06-12 10:01:44",
       "message": "[SKIP] Irrelevant (AI Filter): Here are the price-matching policies for Best Buy, GameStop, and others"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 10:02:28",
       "message": "[SUCCESS] Processed: NVIDIA DGX Spark \uc5d4\ud130\ud504\ub77c\uc774\uc988 \uad00\ub9ac\uc758 AI \uc778\ud504\ub77c \uc804\ud658 \uc81c\uc5b4 \uc81c\uacf5\n  > Summary: AI \uc778\ud504\ub77c\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c \uae30\uc5c5\ub4e4\uc740 \uc6b4\uc601 \uc131\uc219\ub3c4\uc5d0 \ub300\ud55c \uae30\ub300\ub97c \ub192\uc774\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc870\uc9c1\ub4e4\uc740..."
+    },
+    {
+      "timestamp": "2026-06-12 10:02:30",
+      "message": "Reprocessing: New framework for auditing machine unlearning"
     }
   ]
 }
