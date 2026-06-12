@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 14:31:29",
+  "last_updated": "2026-06-12 14:31:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 14:30:48",
-      "message": "Found 188 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-12 14:30:48",
       "message": "[PROCESSING] Analyzing: Jeff Bezos\u2019 AI startup aims to build an \u2018artificial general engineer\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 14:31:29",
       "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
+    },
+    {
+      "timestamp": "2026-06-12 14:31:31",
+      "message": "[SKIP] Content too short: Cost Per Genomics Sample? Try ..."
     }
   ]
 }
