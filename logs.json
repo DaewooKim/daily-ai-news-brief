@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 12:16:36",
+  "last_updated": "2026-06-12 12:16:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 12:16:00",
-      "message": "Found 187 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-12 12:16:00",
       "message": "[PROCESSING] Analyzing: This portable light is great for way more than camping..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 12:16:36",
       "message": "[PROCESSING] Analyzing: Thriving Through Volatility: The Everpure Advantage in an Uncertain Market..."
+    },
+    {
+      "timestamp": "2026-06-12 12:16:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Thriving Through Volatility: The Everpure Advantage in an Uncertain Market"
     }
   ]
 }
