@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 01:09:03",
+  "last_updated": "2026-06-12 01:09:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 01:08:12",
-      "message": "[SUCCESS] Processed: JPMorgan, OQC, \uadf8\ub9ac\uace0 AMD\ub294 \uae08\uc735\uc744 \uc704\ud55c \uc591\uc790 AI \ub370\uc774\ud130 \uc13c\ud130 \uacc4\ud68d\uc744 \uc138\uc6b0\uace0 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: JPMorgan Chase\uac00 \uccab \ubc88\uc9f8 \uc804\uc6a9 \uc0ac\uc6a9\uc790\ub85c \ucc38\uc5ec\ud558\ub294 OQC-AMD\uc758 \ud611\ub825\uc740 \uc6d0\uaca9 ..."
-    },
     {
       "timestamp": "2026-06-12 01:08:14",
       "message": "[PROCESSING] Analyzing: Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks (Carl Franzen/VentureBeat)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 01:09:03",
       "message": "[PROCESSING] Analyzing: Europol says it has dismantled the AudiA6 crypto mixing service, which allegedly laundered $380M+ for ransomware actors and others between 2022 and 2025 (Bill Toulas/BleepingComputer)..."
+    },
+    {
+      "timestamp": "2026-06-12 01:09:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Europol says it has dismantled the AudiA6 crypto mixing service, which allegedly laundered $380M+ for ransomware actors and others between 2022 and 2025 (Bill Toulas/BleepingComputer)"
     }
   ]
 }
