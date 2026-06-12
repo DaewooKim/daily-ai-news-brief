@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 08:58:48",
+  "last_updated": "2026-06-12 08:58:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 08:58:06",
-      "message": "[SUCCESS] Processed: DDR5 MRDIMM: DDR5 DIMM\uc744 \uc704\ud55c \ud601\uc2e0\uc801\uc778 \ubc1c\uc804\n  > Summary: DDR5\ub294 \ucd5c\ub300 9,200 Mbps\uc758 \ub370\uc774\ud130 \uc804\uc1a1\uc18d\ub3c4\ub97c \uc9c0\uc6d0\ud558\ub294 \ucd5c\uc2e0 DDR \uc11c\ubc84 \uba54\ubaa8\ub9ac\ub85c..."
-    },
     {
       "timestamp": "2026-06-12 08:58:07",
       "message": "Reprocessing: Re-Architecting Die-to-Die IO For AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 08:58:48",
       "message": "[PROCESSING] Analyzing: Van der Waals Forces Can Play Unexpected Role in Thin Film Properties..."
+    },
+    {
+      "timestamp": "2026-06-12 08:58:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Van der Waals Forces Can Play Unexpected Role in Thin Film Properties"
     }
   ]
 }
