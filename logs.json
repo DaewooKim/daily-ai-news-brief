@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 19:01:47",
+  "last_updated": "2026-06-12 19:01:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 19:01:10",
-      "message": "[PROCESSING] Analyzing: Sorry, the Ooni pizza oven is totally worth it..."
-    },
     {
       "timestamp": "2026-06-12 19:01:13",
       "message": "[SKIP] Irrelevant (AI Filter): Sorry, the Ooni pizza oven is totally worth it"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 19:01:47",
       "message": "Reprocessing: Research into how AI can help users understand skin conditions"
+    },
+    {
+      "timestamp": "2026-06-12 19:01:49",
+      "message": "[SKIP] Content too short: Research into how AI can help ..."
     }
   ]
 }
