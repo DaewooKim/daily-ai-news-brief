@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 21:16:55",
+  "last_updated": "2026-06-12 21:16:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 21:16:21",
-      "message": "Found 197 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-12 21:16:21",
       "message": "[PROCESSING] Analyzing: Nothing CEO says phone prices are going to keep going up..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 21:16:55",
       "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
+    },
+    {
+      "timestamp": "2026-06-12 21:16:56",
+      "message": "[SKIP] Content too short: Cost Per Genomics Sample? Try ..."
     }
   ]
 }
