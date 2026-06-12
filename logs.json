@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 04:31:34",
+  "last_updated": "2026-06-12 04:31:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 04:30:51",
-      "message": "[SUCCESS] Processed: imec, 300mm \uc2e4\ub9ac\ucf58\uc5d0 III-V \uce69\ub81b \ud1b5\ud569\uc744 \ud574\uc81c\ud558\ub2e4\n  > Summary: imec\ub294 300mm RF \uc2e4\ub9ac\ucf58 \uc778\ud130\ud3ec\uc800\ub97c III-V \uce69\ub81b\uc758 \uc774\uc9c8\uc801 \ud1b5\ud569\uc744 \uc704\ud55c \uc2dc\uc2a4\ud15c ..."
-    },
     {
       "timestamp": "2026-06-12 04:30:52",
       "message": "Reprocessing: Omdia: Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q26 as Memory Market Shifts Historical Patterns"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 04:31:34",
       "message": "[PROCESSING] Analyzing: Van der Waals Forces Can Play Unexpected Role in Thin Film Properties..."
+    },
+    {
+      "timestamp": "2026-06-12 04:31:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Van der Waals Forces Can Play Unexpected Role in Thin Film Properties"
     }
   ]
 }
