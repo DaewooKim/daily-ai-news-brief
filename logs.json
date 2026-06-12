@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 16:48:38",
+  "last_updated": "2026-06-12 16:48:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 16:48:00",
-      "message": "[PROCESSING] Analyzing: Rethinking the Logic-Routing Tradeoff in FPGAs..."
-    },
     {
       "timestamp": "2026-06-12 16:48:03",
       "message": "[SUCCESS] Processed: FPGA\uc758 \ub17c\ub9ac-\ub77c\uc6b0\ud305 \ud2b8\ub808\uc774\ub4dc\uc624\ud504 \uc7ac\uace0\n  > Summary: Efinix\ub294 AI \uc5e3\uc9c0 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uaca8\ub0e5\ud55c FPGA \uc81c\ud488\uad70\uc778 Titanium Edge\ub97c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 16:48:38",
       "message": "[PROCESSING] Analyzing: Meta confirms that a widespread outage is affecting its services, including Facebook and Instagram (Jaspreet Singh/Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-12 16:48:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta confirms that a widespread outage is affecting its services, including Facebook and Instagram (Jaspreet Singh/Reuters)"
     }
   ]
 }
