@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-12 03:26:01",
-  "status": "idle",
+  "last_updated": "2026-06-12 04:26:33",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-12 03:24:39",
-      "message": "[SKIP] Content too short: Three insights you may have mi..."
+      "timestamp": "2026-06-12 04:26:20",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-12 03:24:41",
-      "message": "Reprocessing: Jeff Bezos\u2019 Prometheus raises $12B to accelerate industrial engineering projects"
+      "timestamp": "2026-06-12 04:26:21",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-12 03:24:42",
-      "message": "[SKIP] Content too short: Jeff Bezos\u2019 Prometheus raises ..."
+      "timestamp": "2026-06-12 04:26:21",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-12 03:24:44",
-      "message": "Reprocessing: QumulusAI and the shift from GPU scarcity to GPU efficiency"
+      "timestamp": "2026-06-12 04:26:33",
+      "message": "Found 184 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-12 03:24:46",
-      "message": "[SKIP] Content too short: QumulusAI and the shift from G..."
-    },
-    {
-      "timestamp": "2026-06-12 03:24:47",
-      "message": "Reprocessing: Coinbase for Agents lets AI assistants trade crypto and move money"
-    },
-    {
-      "timestamp": "2026-06-12 03:24:49",
-      "message": "[SKIP] Content too short: Coinbase for Agents lets AI as..."
-    },
-    {
-      "timestamp": "2026-06-12 03:24:50",
-      "message": "Reprocessing: PhoenixAI raises $80M to drive the development of agentic AI-ready database technology"
-    },
-    {
-      "timestamp": "2026-06-12 03:24:52",
-      "message": "[SKIP] Content too short: PhoenixAI raises $80M to drive..."
-    },
-    {
-      "timestamp": "2026-06-12 03:24:53",
-      "message": "Reprocessing: Blue Yonder pushes supply chain AI toward autonomous operations"
-    },
-    {
-      "timestamp": "2026-06-12 03:24:55",
-      "message": "[SKIP] Content too short: Blue Yonder pushes supply chai..."
-    },
-    {
-      "timestamp": "2026-06-12 03:24:56",
-      "message": "Reprocessing: AWS launches FinOps agent to bring AI cost governance to cloud spend"
-    },
-    {
-      "timestamp": "2026-06-12 03:24:58",
-      "message": "[SKIP] Content too short: AWS launches FinOps agent to b..."
-    },
-    {
-      "timestamp": "2026-06-12 03:24:59",
-      "message": "Reprocessing: Pegasystems uses FinOps foundation to navigate the unpredictable economics of AI"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:01",
-      "message": "[SKIP] Content too short: Pegasystems uses FinOps founda..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:02",
-      "message": "Reprocessing: AI value creation meets cost accountability as FinOps evolves beyond cloud"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:04",
-      "message": "[SKIP] Content too short: AI value creation meets cost a..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:05",
-      "message": "Reprocessing: Diagrid brings cryptographic proof to AI agent and workflow execution"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:07",
-      "message": "[SKIP] Content too short: Diagrid brings cryptographic p..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:08",
-      "message": "Reprocessing: Alice & Bob unveils its first quantum hardware system to advance qubit fault tolerance"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:10",
-      "message": "[SKIP] Content too short: Alice & Bob unveils its first ..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:12",
-      "message": "Reprocessing: TestSprite launches an open-source command-line tool to help AI agents check their own work"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:13",
-      "message": "[SKIP] Content too short: TestSprite launches an open-so..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:15",
-      "message": "Reprocessing: Publicis Sapient launches Sustain to transform IT operations with AI-enabled support"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:16",
-      "message": "[SKIP] Content too short: Publicis Sapient launches Sust..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:18",
-      "message": "Reprocessing: Openchip taps Baya Systems data-movement platform for RISC-V systems"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:19",
-      "message": "[SKIP] Content too short: Openchip taps Baya Systems dat..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:21",
-      "message": "Reprocessing: Data center infrastructure startup TensorWave raises $350M to help break Nvidia\u2019s AI chip monopoly"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:23",
-      "message": "[SKIP] Content too short: Data center infrastructure sta..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:24",
-      "message": "Reprocessing: With chatbot regulation, Canada proposes a ban on social media for under 16s"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:26",
-      "message": "[SKIP] Content too short: With chatbot regulation, Canad..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:27",
-      "message": "Reprocessing: Anthropic\u2019s Dario Amodei wants governments to have the power to block \u2018dangerous\u2019 AI systems"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:29",
-      "message": "[SKIP] Content too short: Anthropic\u2019s Dario Amodei wants..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:30",
-      "message": "Reprocessing: Google open-sources speedy DiffusionGemma text diffusion model"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:32",
-      "message": "[SKIP] Content too short: Google open-sources speedy Dif..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:33",
-      "message": "Reprocessing: Oracle\u2019s AI investments spook investors despite impressive earnings and revenue beats"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:35",
-      "message": "[SKIP] Content too short: Oracle\u2019s AI investments spook ..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:36",
-      "message": "Reprocessing: Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:38",
-      "message": "[SKIP] Content too short: Microsoft patches record 200-p..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:39",
-      "message": "Reprocessing: Neura Robotics to raise up to $1.4B from Nvidia-backed consortium"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:41",
-      "message": "[SKIP] Content too short: Neura Robotics to raise up to ..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:42",
-      "message": "Reprocessing: Securing the AI workforce: Zscaler\u2019s zero-trust play for agentic AI"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:44",
-      "message": "[SKIP] Content too short: Securing the AI workforce: Zsc..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:45",
-      "message": "[PROCESSING] Analyzing: ASRock Industrial NUC BOX-358H Mini PC Review..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:48",
-      "message": "[SKIP] Irrelevant (AI Filter): ASRock Industrial NUC BOX-358H Mini PC Review"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:49",
-      "message": "[PROCESSING] Analyzing: ServeTheHome Turns 17 The Places You Will Go..."
-    },
-    {
-      "timestamp": "2026-06-12 03:25:51",
-      "message": "[SKIP] Irrelevant (AI Filter): ServeTheHome Turns 17 The Places You Will Go"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:53",
-      "message": "Completed! New: 0, Updated: 55"
-    },
-    {
-      "timestamp": "2026-06-12 03:25:57",
-      "message": "Saved 55 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-12 03:26:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-12 04:26:33",
+      "message": "[PROCESSING] Analyzing: Logitech\u2019s awesome MX Master 3S mouse drops to under $100..."
     }
   ]
 }
