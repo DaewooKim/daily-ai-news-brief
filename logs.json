@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 00:00:55",
+  "last_updated": "2026-06-12 00:00:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 00:00:08",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uc774\ub807\uac8c \ub9ce\uc740 \uc804\ub825\uc744 \uc0ac\uc6a9\ud558\ub294 \uac04\uacfc\ub41c \uc774\uc720\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uc758 \ubcc0\ub3d9\uc131\uc774 \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \ubcf4\uc870 \uc791\uc5c5\uc744 \uc218\ud589\ud558\uac8c \ub9cc\ub4e4\uc5b4 \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\ub7c9\uacfc \uc778..."
-    },
     {
       "timestamp": "2026-06-12 00:00:10",
       "message": "Reprocessing: Industry Groups Launch AI Data Center Framework Amid Rising Power Needs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 00:00:55",
       "message": "[PROCESSING] Analyzing: SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T (Bailey Lipschultz/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-12 00:00:58",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T (Bailey Lipschultz/Bloomberg)"
     }
   ]
 }
