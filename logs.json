@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-12 10:06:29",
+  "last_updated": "2026-06-12 10:06:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-12 10:05:34",
-      "message": "[PROCESSING] Analyzing: Re-Architecting Die-to-Die IO For AI..."
-    },
     {
       "timestamp": "2026-06-12 10:05:39",
       "message": "[SUCCESS] Processed: AI\ub97c \uc704\ud55c Die-to-Die IO \uc7ac\uc124\uacc4\n  > Summary: AI \uae30\ubc18 \uc6cc\ud06c\ub85c\ub4dc\uac00 \ucef4\ud4e8\ud305 \uc2a4\ucf00\uc77c\uacfc \uc804\ub825 \ud6a8\uc728\uc131\uc758 \ud55c\uacc4\ub97c \ud655\uc7a5\ud568\uc5d0 \ub530\ub77c \uc804\ud1b5\uc801\uc778 Die-..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-12 10:06:29",
       "message": "[PROCESSING] Analyzing: Valve Selection for UHP Gas and Chemical Delivery..."
+    },
+    {
+      "timestamp": "2026-06-12 10:06:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Valve Selection for UHP Gas and Chemical Delivery"
     }
   ]
 }
