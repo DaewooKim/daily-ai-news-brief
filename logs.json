@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 19:39:37",
+  "last_updated": "2026-06-13 19:39:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 19:38:58",
-      "message": "[PROCESSING] Analyzing: Amazon CEO reportedly raised Anthropic model concerns before government crackdown..."
-    },
     {
       "timestamp": "2026-06-13 19:39:02",
       "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874 CEO, \uc815\ubd80 \ub2e8\uc18d \uc774\uc804 \uc564\ud2b8\ub85c\ud53d \ubaa8\ub378 \uc6b0\ub824 \uc81c\uae30\n  > Summary: \uc544\ub9c8\uc874 CEO \uc564\ub514 \uc7ac\uc2dc\ub294 \ubcf4\uc548 \uc6b0\ub824\ub85c \uc778\ud574 \uc564\ud2b8\ub85c\ud53d\uc774 \ub450 \ubaa8\ub378\uc758 \uc804 \uc138\uacc4 \uc811\uadfc\uc744 \ucc28\ub2e8\ud558\uac8c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 19:39:37",
       "message": "[PROCESSING] Analyzing: SpaceX officially prices shares at $135 in the largest IPO ever..."
+    },
+    {
+      "timestamp": "2026-06-13 19:39:39",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX officially prices shares at $135 in the largest IPO ever"
     }
   ]
 }
