@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 12:57:12",
+  "last_updated": "2026-06-13 12:57:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 12:56:35",
-      "message": "Found 196 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-13 12:56:35",
       "message": "[PROCESSING] Analyzing: Anthropic cuts off Fable 5 and Mythos 5 access following government order..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 12:57:12",
       "message": "Reprocessing: AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime"
+    },
+    {
+      "timestamp": "2026-06-13 12:57:13",
+      "message": "[SKIP] Content too short: AWS Tunes Up Graviton5 For Age..."
     }
   ]
 }
