@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 23:00:25",
+  "last_updated": "2026-06-13 23:00:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 22:59:45",
-      "message": "[SUCCESS] Processed: \ubc31\uc545\uad00, \uc911\uad6d \uad00\ub828 \uadf8\ub8f9\uc774 \uc811\uc18d\ud588\uc744 \uac00\ub2a5\uc131 \ub54c\ubb38\uc5d0 Mythos\uc5d0 \uc218\ucd9c \ud1b5\uc81c \uc870\uce58\ub97c \ubd80\uacfc\ud558\ub2e4\n  > Summary: \ubc31\uc545\uad00\uc740 Anthropic\uc758 \uac15\ub825\ud55c AI \ubaa8\ub378 Mythos\uc5d0 \ub300\ud574 \uc911\uad6d\uacfc \uc5f0\uad00\ub41c \uadf8\ub8f9\uc774 \uc811..."
-    },
     {
       "timestamp": "2026-06-13 22:59:47",
       "message": "[PROCESSING] Analyzing: How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet's planned ~$85B in equity offerings for AI (Robert Armstrong/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 23:00:25",
       "message": "[PROCESSING] Analyzing: Ennostar Qualifies Veeco\u2019s New LUMINA+ MOCVD System for Advanced Product Applications..."
+    },
+    {
+      "timestamp": "2026-06-13 23:00:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Ennostar Qualifies Veeco\u2019s New LUMINA+ MOCVD System for Advanced Product Applications"
     }
   ]
 }
