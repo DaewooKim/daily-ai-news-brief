@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 21:51:21",
+  "last_updated": "2026-06-13 21:51:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 21:50:45",
-      "message": "Found 186 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-13 21:50:45",
       "message": "[PROCESSING] Analyzing: Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 21:51:21",
       "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
+    },
+    {
+      "timestamp": "2026-06-13 21:51:22",
+      "message": "[SKIP] Content too short: Cost Per Genomics Sample? Try ..."
     }
   ]
 }
