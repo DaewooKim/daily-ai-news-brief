@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 14:07:59",
+  "last_updated": "2026-06-13 14:08:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 14:07:17",
-      "message": "Reprocessing: imec Unlocks III-V Chiplet Integration on 300mm Silicon"
-    },
     {
       "timestamp": "2026-06-13 14:07:19",
       "message": "[PROCESSING] Analyzing: imec Unlocks III-V Chiplet Integration on 300mm Silicon..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 14:07:59",
       "message": "[PROCESSING] Analyzing: MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices..."
+    },
+    {
+      "timestamp": "2026-06-13 14:08:01",
+      "message": "[SKIP] Irrelevant (AI Filter): MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices"
     }
   ]
 }
