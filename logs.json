@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 08:31:07",
+  "last_updated": "2026-06-13 08:31:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 08:30:28",
-      "message": "[PROCESSING] Analyzing: BBVA puts AI at the core of banking with OpenAI..."
-    },
     {
       "timestamp": "2026-06-13 08:30:31",
       "message": "[SUCCESS] Processed: BBVA, OpenAI\uc640 \ud568\uaed8 AI\ub97c \uc740\ud589\uc5c5\uc758 \ud575\uc2ec\uc73c\ub85c \uc0bc\ub2e4\n  > Summary: BBVA\ub294 OpenAI\uc640 \ud611\ub825\ud558\uc5ec \uc804 \uc138\uacc4\uc801\uc73c\ub85c AI \uae30\ubc18 \uc740\ud589 \ud601\uc2e0\uc744 \uac00\uc18d\ud654\ud558\uace0 Chat..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 08:31:07",
       "message": "[PROCESSING] Analyzing: SpaceX officially prices shares at $135 in the largest IPO ever..."
+    },
+    {
+      "timestamp": "2026-06-13 08:31:10",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX officially prices shares at $135 in the largest IPO ever"
     }
   ]
 }
