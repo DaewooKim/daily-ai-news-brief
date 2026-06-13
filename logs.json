@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 19:39:11",
+  "last_updated": "2026-06-13 19:39:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 19:38:35",
-      "message": "[SUCCESS] Processed: NVIDIA DGX \uc2a4\ud30c\ud06c\ub97c \ud1b5\ud55c \ub300\uaddc\ubaa8 AI \uc778\ud504\ub77c\uc758 \uc0dd\uc560\uc8fc\uae30 \uad00\ub9ac \uc81c\uacf5\n  > Summary: AI \uc778\ud504\ub77c\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c \uae30\uc5c5\uc758 \uc6b4\uc601 \uc131\uc219\ub3c4\uc5d0 \ub300\ud55c \uae30\ub300\uac00 \uc99d\uac00\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc870\uc9c1\ub4e4\uc740..."
-    },
     {
       "timestamp": "2026-06-13 19:38:37",
       "message": "Reprocessing: Research into how AI can help users understand skin conditions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 19:39:11",
       "message": "[PROCESSING] Analyzing: SpaceX IPO: Live updates on everything you need to know..."
+    },
+    {
+      "timestamp": "2026-06-13 19:39:13",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX IPO: Live updates on everything you need to know"
     }
   ]
 }
