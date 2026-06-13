@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 12:57:13",
+  "last_updated": "2026-06-13 12:57:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 12:56:35",
-      "message": "[PROCESSING] Analyzing: Anthropic cuts off Fable 5 and Mythos 5 access following government order..."
-    },
     {
       "timestamp": "2026-06-13 12:56:39",
       "message": "[SUCCESS] Processed: \uc564\uc2a4\ub85c\ud53d, \uc815\ubd80 \uba85\ub839\uc5d0 \ub530\ub77c \ud328\ube14 5\uc640 \ubbf8\ud1a0\uc2a4 5 \uc811\uadfc \ucc28\ub2e8\n  > Summary: \uae08\uc694\uc77c \uc800\ub141, \uc815\ubd80\ub294 \uad6d\uac00 \uc548\ubcf4 \ubb38\uc81c\ub85c \uc778\ud574 \uc564\uc2a4\ub85c\ud53d\uc5d0\uac8c \ubaa8\ub4e0 \uc678\uad6d \uad6d\uac00\uc5d0 \ub300\ud574 \ud328\ube14 5\uc640..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 12:57:13",
       "message": "[SKIP] Content too short: AWS Tunes Up Graviton5 For Age..."
+    },
+    {
+      "timestamp": "2026-06-13 12:57:15",
+      "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
     }
   ]
 }
