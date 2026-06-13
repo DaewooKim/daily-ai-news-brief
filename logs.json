@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 06:15:30",
+  "last_updated": "2026-06-13 06:15:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 06:14:57",
-      "message": "Found 197 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-13 06:14:57",
       "message": "[PROCESSING] Analyzing: Valve just imported 13 tons of VR headsets in one day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 06:15:30",
       "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
+    },
+    {
+      "timestamp": "2026-06-13 06:15:32",
+      "message": "[SKIP] Content too short: Cost Per Genomics Sample? Try ..."
     }
   ]
 }
