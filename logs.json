@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 19:38:14",
+  "last_updated": "2026-06-13 19:38:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 19:37:42",
-      "message": "Found 190 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-13 19:37:42",
       "message": "[PROCESSING] Analyzing: Sealed Super Mario Bros. sells for a record $3 million..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 19:38:14",
       "message": "Reprocessing: D-Wave Riding The Dual-Rail For Its Gate-Model Quantum Ambitions"
+    },
+    {
+      "timestamp": "2026-06-13 19:38:16",
+      "message": "[SKIP] Content too short: D-Wave Riding The Dual-Rail Fo..."
     }
   ]
 }
