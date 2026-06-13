@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 01:50:02",
+  "last_updated": "2026-06-13 01:50:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 01:49:24",
-      "message": "[SUCCESS] Processed: \uc6e8\uc77c\uc2a4 \ub0a8\ubd80 \ubc18\ub3c4\uccb4 \ud074\ub7ec\uc2a4\ud130, 4\uc5b5 3\ucc9c6\ubc31\ub9cc \ud30c\uc6b4\ub4dc \uc601\ud5a5\ub825 \ubc1c\ud718\n  > Summary: CSconnected\uac00 \ubc1c\ud45c\ud55c \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, \uc6e8\uc77c\uc2a4 \ub0a8\ubd80\uc758 \ubc18\ub3c4\uccb4 \ud074\ub7ec\uc2a4\ud130\ub294 4\uc5b5 3\ucc9c..."
-    },
     {
       "timestamp": "2026-06-13 01:49:26",
       "message": "Reprocessing: imec Unlocks III-V Chiplet Integration on 300mm Silicon"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 01:50:02",
       "message": "[PROCESSING] Analyzing: Valve Selection for UHP Gas and Chemical Delivery..."
+    },
+    {
+      "timestamp": "2026-06-13 01:50:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Valve Selection for UHP Gas and Chemical Delivery"
     }
   ]
 }
