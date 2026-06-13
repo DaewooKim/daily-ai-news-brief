@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 08:29:32",
+  "last_updated": "2026-06-13 08:29:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 08:28:48",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-13 08:29:00",
       "message": "Found 197 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 08:29:32",
       "message": "[SKIP] Content too short: AWS Tunes Up Graviton5 For Age..."
+    },
+    {
+      "timestamp": "2026-06-13 08:29:34",
+      "message": "Reprocessing: Cost Per Genomics Sample? Try Cost Per Sequencing Attempt"
     }
   ]
 }
