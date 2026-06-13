@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-13 04:03:42",
+  "last_updated": "2026-06-13 04:03:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-13 04:03:05",
-      "message": "[SUCCESS] Processed: \uc0b0\uc5c5 \ub2e8\uccb4\ub4e4\uc774 \uc99d\uac00\ud558\ub294 \uc804\ub825 \uc218\uc694\uc5d0 \ub9de\ucdb0 AI \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ucd9c\uc2dc\ud558\ub2e4\n  > Summary: NEMA, ASHRAE, PNNL\uc744 \ud3ec\ud568\ud55c \uc870\uc9c1\ub4e4\uc774 \uc810\uc810 \uc99d\uac00\ud558\ub294 \uc804\ub825 \uc9d1\uc57d\uc801\uc778 AI \uc791\uc5c5..."
-    },
     {
       "timestamp": "2026-06-13 04:03:06",
       "message": "[PROCESSING] Analyzing: Data Center Architects Reimagine Facilities as Urban Assets..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-13 04:03:42",
       "message": "[PROCESSING] Analyzing: Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)..."
+    },
+    {
+      "timestamp": "2026-06-13 04:03:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)"
     }
   ]
 }
