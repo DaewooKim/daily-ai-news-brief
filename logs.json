@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-14 13:28:53",
+  "last_updated": "2026-06-14 13:28:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-14 13:28:13",
-      "message": "[SUCCESS] Processed: \ud074\ub85d DDR5 \ud074\ub77c\uc774\uc5b8\ud2b8 \uba54\ubaa8\ub9ac \ubaa8\ub4c8, AI PC\ub97c \uc704\ud55c 9600 MT/s\ub85c \ud655\uc7a5 \uac00\ub2a5\ud558\uac8c \ud568\n  > Summary: AI PC\ub294 \uae30\uc874\uc758 \uc0dd\uc0b0\uc131\uc774\ub098 \uba40\ud2f0\ubbf8\ub514\uc5b4 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\uacfc \ub2ec\ub9ac \uc0c8\ub85c\uc6b4 \ud615\ud0dc\uc758 \ud074\ub77c\uc774\uc5b8\ud2b8 \uc6cc..."
-    },
     {
       "timestamp": "2026-06-14 13:28:15",
       "message": "Reprocessing: Ennostar Qualifies Veeco\u2019s New LUMINA+ MOCVD System for Advanced Product Applications"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-14 13:28:53",
       "message": "[PROCESSING] Analyzing: MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices..."
+    },
+    {
+      "timestamp": "2026-06-14 13:28:55",
+      "message": "[SKIP] Irrelevant (AI Filter): MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices"
     }
   ]
 }
