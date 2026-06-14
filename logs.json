@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-14 12:22:09",
+  "last_updated": "2026-06-14 12:22:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-14 12:21:32",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130 \ud504\ub808\uc784\uc6cc\ud06c\uac00 \uc804\ub825 \uc218\uc694 \uc99d\uac00 \uc18d\uc5d0 \uc5c5\uacc4 \ub2e8\uccb4\ub4e4\uc5d0 \uc758\ud574 \ucd9c\uc2dc\ub428\n  > Summary: NEMA, ASHRAE, PNNL \ub4f1 \uc870\uc9c1\ub4e4\uc774 \uc99d\uac00\ud558\ub294 \uc804\ub825 \uc9d1\uc57d\uc801\uc778 AI \uc791\uc5c5\uc744 \uad00\ub9ac\ud558\uae30..."
-    },
     {
       "timestamp": "2026-06-14 12:21:34",
       "message": "[PROCESSING] Analyzing: Data Center Architects Reimagine Facilities as Urban Assets..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-14 12:22:09",
       "message": "[PROCESSING] Analyzing: Ennostar Qualifies Veeco\u2019s New LUMINA+ MOCVD System for Advanced Product Applications..."
+    },
+    {
+      "timestamp": "2026-06-14 12:22:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Ennostar Qualifies Veeco\u2019s New LUMINA+ MOCVD System for Advanced Product Applications"
     }
   ]
 }
