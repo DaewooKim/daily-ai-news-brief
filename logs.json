@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-14 12:20:56",
+  "last_updated": "2026-06-14 12:20:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-14 12:20:19",
-      "message": "Reprocessing: KPMG pulls report on AI usage due to apparent hallucinations"
-    },
     {
       "timestamp": "2026-06-14 12:20:20",
       "message": "[PROCESSING] Analyzing: KPMG pulls report on AI usage due to apparent hallucinations..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-14 12:20:56",
       "message": "[PROCESSING] Analyzing: SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift..."
+    },
+    {
+      "timestamp": "2026-06-14 12:20:58",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift"
     }
   ]
 }
