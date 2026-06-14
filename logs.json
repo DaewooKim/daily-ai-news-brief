@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-14 03:24:15",
+  "last_updated": "2026-06-14 03:24:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-14 03:23:39",
-      "message": "[SUCCESS] Processed: KPMG\uac00 AI \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ubcf4\uace0\uc11c\ub97c \ud3d0\uae30\ud558\ub2e4\n  > Summary: KPMG\ub294 AI\uc758 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ubcf4\uace0\uc11c\ub97c \ucca0\ud68c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 AI\uac00 \uc81c\uacf5\ud55c \uc815\ubcf4\uc5d0\uc11c \ub098\ud0c0\ub09c ..."
-    },
     {
       "timestamp": "2026-06-14 03:23:41",
       "message": "[PROCESSING] Analyzing: OpenAI faces investigation from state attorneys general..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-14 03:24:15",
       "message": "[PROCESSING] Analyzing: Pool\u2019s new app turns your screenshots into something useful..."
+    },
+    {
+      "timestamp": "2026-06-14 03:24:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Pool\u2019s new app turns your screenshots into something useful"
     }
   ]
 }
