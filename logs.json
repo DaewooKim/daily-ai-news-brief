@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-14 11:14:03",
+  "last_updated": "2026-06-14 11:14:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-14 11:13:24",
-      "message": "[PROCESSING] Analyzing: Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability..."
-    },
     {
       "timestamp": "2026-06-14 11:13:28",
       "message": "[SUCCESS] Processed: NVIDIA DGX \uc2a4\ud30c\ud06c\ub97c \ud1b5\ud55c AI \uc778\ud504\ub77c\uc758 \ub77c\uc774\ud504\uc0ac\uc774\ud074 \uc81c\uc5b4 \uc81c\uacf5\n  > Summary: AI \uc778\ud504\ub77c\uac00 \ud655\uc7a5\ub428\uc5d0 \ub530\ub77c \uae30\uc5c5\uc758 \uc6b4\uc601 \uc131\uc219\ub3c4\uc5d0 \ub300\ud55c \uae30\ub300\uce58\uac00 \ub192\uc544\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uae30\uc5c5\ub4e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-14 11:14:03",
       "message": "[PROCESSING] Analyzing: OpenAI faces investigation from state attorneys general..."
+    },
+    {
+      "timestamp": "2026-06-14 11:14:05",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI faces investigation from state attorneys general"
     }
   ]
 }
