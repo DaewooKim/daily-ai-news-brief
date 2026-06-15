@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 01:35:52",
+  "last_updated": "2026-06-15 01:35:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 01:35:17",
-      "message": "[SUCCESS] Processed: KPMG, \uc778\uacf5\uc9c0\ub2a5 \uc0ac\uc6a9\uc5d0 \uad00\ud55c \ubcf4\uace0\uc11c\ub97c \ucca0\ud68c\ud558\ub2e4\n  > Summary: KPMG\uac00 \uc778\uacf5\uc9c0\ub2a5 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ubcf4\uace0\uc11c\ub97c \ucca0\ud68c\ud588\uc2b5\ub2c8\ub2e4. \ubcf4\uace0\uc11c\uc5d0\uc11c \ub098\ud0c0\ub09c \uc815\ubcf4\uc758 \ubd88\ud655\uc2e4\uc131,..."
-    },
     {
       "timestamp": "2026-06-15 01:35:19",
       "message": "[PROCESSING] Analyzing: OpenAI faces investigation from state attorneys general..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 01:35:52",
       "message": "[PROCESSING] Analyzing: Tecate Group Announces New Ultracapacitor Cells Rated forOperation up to 105\u00b0C (221\u00b0F)..."
+    },
+    {
+      "timestamp": "2026-06-15 01:35:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Tecate Group Announces New Ultracapacitor Cells Rated forOperation up to 105\u00b0C (221\u00b0F)"
     }
   ]
 }
