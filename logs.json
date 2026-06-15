@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 11:37:57",
+  "last_updated": "2026-06-15 11:38:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 11:37:16",
-      "message": "[SUCCESS] Processed: AI \uac00\uc9dc\ub97c \uc2dd\ubcc4\ud558\ub294 \ub370 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\ub294 \uc138\uacc4\uc801\uc778 \ub514\uc9c0\ud138 \ud3ec\ub80c\uc2dd \uc804\ubb38\uac00 Hany Farid\uc758 \ud504\ub85c\ud30c\uc77c\n  > Summary: UC \ubc84\ud074\ub9ac\uc758 Hany Farid \uad50\uc218\ub294 20\ub144 \ub118\uac8c \ub514\uc9c0\ud138 \ud3ec\ub80c\uc2dd \ubd84\uc57c\uc758 \uc138\uacc4\uc801\uc778 \uc804\ubb38\uac00..."
-    },
     {
       "timestamp": "2026-06-15 11:37:18",
       "message": "[PROCESSING] Analyzing: Sources: Alibaba is in talks to buy Chinese fresh grocery delivery platform Pupu for $1.5B, in a bid to better compete with food delivery rivals like Meituan (Cathy Chan/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 11:37:57",
       "message": "[PROCESSING] Analyzing: MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices..."
+    },
+    {
+      "timestamp": "2026-06-15 11:38:00",
+      "message": "[SKIP] Irrelevant (AI Filter): MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices"
     }
   ]
 }
