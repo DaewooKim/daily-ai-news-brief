@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 12:45:08",
+  "last_updated": "2026-06-15 12:45:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 12:44:26",
-      "message": "[PROCESSING] Analyzing: A profile of UC Berkeley professor Hany Farid, the world's leading digital forensics expert for 20+ years, who says he is now struggling to identify deepfakes (New York Times)..."
-    },
     {
       "timestamp": "2026-06-15 12:44:28",
       "message": "[SKIP] Irrelevant (AI Filter): A profile of UC Berkeley professor Hany Farid, the world's leading digital forensics expert for 20+ years, who says he is now struggling to identify deepfakes (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 12:45:08",
       "message": "[SKIP] Irrelevant (AI Filter): MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices"
+    },
+    {
+      "timestamp": "2026-06-15 12:45:09",
+      "message": "Reprocessing: Undo lands $37M to give AI agents the runtime context to fix bugs"
     }
   ]
 }
