@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 12:43:04",
+  "last_updated": "2026-06-15 12:43:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 12:42:22",
-      "message": "[PROCESSING] Analyzing: KPMG pulls report on AI usage due to apparent hallucinations..."
-    },
     {
       "timestamp": "2026-06-15 12:42:26",
       "message": "[SUCCESS] Processed: KPMG, \uc778\uacf5\uc9c0\ub2a5 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ubcf4\uace0\uc11c\ub97c \ud658\uac01 \ubb38\uc81c\ub85c \ucca0\ud68c\ud558\ub2e4\n  > Summary: KPMG\uac00 \uc778\uacf5\uc9c0\ub2a5 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ubcf4\uace0\uc11c\ub97c \ud658\uac01\uc73c\ub85c \uc778\ud574 \ucca0\ud68c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ubc88 \uc0ac\uac74\uc740 AI\uac00 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 12:43:04",
       "message": "[PROCESSING] Analyzing: Imec Pushes Quantum Toward Manufacturable Silicon Systems..."
+    },
+    {
+      "timestamp": "2026-06-15 12:43:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Imec Pushes Quantum Toward Manufacturable Silicon Systems"
     }
   ]
 }
