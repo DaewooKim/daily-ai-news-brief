@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 17:15:02",
+  "last_updated": "2026-06-15 17:15:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 17:14:19",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uc804\ub825\uc744 \ub9ce\uc774 \uc0ac\uc6a9\ud558\ub294 \uac04\uacfc\ub41c \uc774\uc720\n  > Summary: AI \uc791\uc5c5\u8d1f\u8377 \ubcc0\ub3d9\uc131\uc774 \ub370\uc774\ud130 \uc13c\ud130\uac00 \ubd80\uac00 \uc791\uc5c5\uc744 \uc218\ud589\ud558\uac8c \ud558\uc5ec \uc5d0\ub108\uc9c0 \uc0ac\uc6a9\ub7c9, \uc778\ud504\ub77c \uc694..."
-    },
     {
       "timestamp": "2026-06-15 17:14:20",
       "message": "[PROCESSING] Analyzing: Source: Anthropic was given 90 minutes to comply and was not provided with detailed concerns before the export control order was issued (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 17:15:02",
       "message": "[SKIP] Irrelevant (AI Filter): SpaceX IPO raised a total of $85.7B as underwriters exercised their overallotment of shares, after raising an initial $75B on June 11 (CNBC)"
+    },
+    {
+      "timestamp": "2026-06-15 17:15:04",
+      "message": "[PROCESSING] Analyzing: SailPoint is acquiring Entro Security, which develops a cybersecurity platform for managing non-human identities, a source says in a deal valued at ~$200M (Meir Orbach/CTech)..."
     }
   ]
 }
