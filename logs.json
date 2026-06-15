@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 14:56:08",
+  "last_updated": "2026-06-15 14:56:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 14:55:21",
-      "message": "Found 162 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-15 14:55:21",
       "message": "[PROCESSING] Analyzing: My favorite Qi2 power bank is cheaper than ever for Verge readers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 14:56:08",
       "message": "[PROCESSING] Analyzing: The FBI built a small town to simulate cyberattacks..."
+    },
+    {
+      "timestamp": "2026-06-15 14:56:11",
+      "message": "[SKIP] Irrelevant (AI Filter): The FBI built a small town to simulate cyberattacks"
     }
   ]
 }
