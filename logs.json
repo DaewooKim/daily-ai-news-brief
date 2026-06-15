@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 20:35:28",
+  "last_updated": "2026-06-15 20:35:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 20:34:50",
-      "message": "[SUCCESS] Processed: KPMG, \uc778\uacf5\uc9c0\ub2a5 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \ubcf4\uace0\uc11c\ub97c \ucca0\ud68c\ud558\ub2e4\n  > Summary: KPMG\uac00 \uc778\uacf5\uc9c0\ub2a5 \uc0ac\uc6a9 \uad00\ub828 \ubcf4\uace0\uc11c\ub97c \ucca0\ud68c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 AI\uac00 \uc815\ubcf4\ub97c \uc81c\uacf5\ud558\ub294 \ub370 \uc2e0\ub8b0..."
-    },
     {
       "timestamp": "2026-06-15 20:34:52",
       "message": "[PROCESSING] Analyzing: OpenAI faces investigation from state attorneys general..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 20:35:28",
       "message": "[PROCESSING] Analyzing: Data Centers\u2019 Next Hurdle: Winning Public Trust and Social License..."
+    },
+    {
+      "timestamp": "2026-06-15 20:35:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Data Centers\u2019 Next Hurdle: Winning Public Trust and Social License"
     }
   ]
 }
