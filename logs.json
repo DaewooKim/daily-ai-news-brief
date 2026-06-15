@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 16:07:27",
+  "last_updated": "2026-06-15 16:07:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 16:06:42",
-      "message": "[PROCESSING] Analyzing: Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027 (Reuters)..."
-    },
     {
       "timestamp": "2026-06-15 16:06:44",
       "message": "[SKIP] Irrelevant (AI Filter): Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027 (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 16:07:27",
       "message": "[PROCESSING] Analyzing: Source: Nvidia is seeking to raise $20B+ from its first corporate bond sale since 2021, marketed in seven tranches, with maturities spanning two to 30 years (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-15 16:07:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Nvidia is seeking to raise $20B+ from its first corporate bond sale since 2021, marketed in seven tranches, with maturities spanning two to 30 years (Bloomberg)"
     }
   ]
 }
