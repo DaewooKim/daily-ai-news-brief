@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-15 21:43:28",
+  "last_updated": "2026-06-15 21:43:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-15 21:42:45",
-      "message": "[PROCESSING] Analyzing: Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year (The Information)..."
-    },
     {
       "timestamp": "2026-06-15 21:42:48",
       "message": "[SUCCESS] Processed: \ud004\ucef4, AI \uce69 \uc124\uacc4\uc0ac \ud150\uc2a4\ud1a0\ub80c\ud2b8\ub97c 80\uc5b5\uc5d0\uc11c 100\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218 \ub17c\uc758 \uc911\n  > Summary: \ud004\ucef4\uc774 AI \uce69\uc744 \uc124\uacc4\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 \ud150\uc2a4\ud1a0\ub80c\ud2b8\ub97c 80\uc5b5\uc5d0\uc11c 100\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\ub824\ub294 \ub17c\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-15 21:43:28",
       "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
+    },
+    {
+      "timestamp": "2026-06-15 21:43:29",
+      "message": "Reprocessing: CEA-Leti Scales Ferroelectric RAM to 22nm Node, Unlocking Denser, More Efficient Memory for Edge AI"
     }
   ]
 }
