@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 20:55:06",
+  "last_updated": "2026-06-16 20:55:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 20:54:22",
-      "message": "[PROCESSING] Analyzing: Zhipu launches GLM-5.2, says it markedly improves coding and agentic tasks, with strong long-horizon capabilities and a 1M context window, under an MIT license (Z.ai)..."
-    },
     {
       "timestamp": "2026-06-16 20:54:26",
       "message": "[SUCCESS] Processed: Zhipu\uac00 GLM-5.2\ub97c \ucd9c\uc2dc\ud558\uba70 \ucf54\ub529 \ubc0f \uc5d0\uc774\uc804\ud2f1 \uc791\uc5c5\uc5d0\uc11c \ud604\uc800\ud55c \uac1c\uc120\uc744 \uc774\ub8e8\uc5c8\ub2e4\uace0 \ubc1c\ud45c\ud558\uace0, \uac15\ub825\ud55c \uc7a5\uae30 \uc791\uc5c5 \ub2a5\ub825\uacfc 1M \ucee8\ud14d\uc2a4\ud2b8 \ucc3d\uc744 \uc81c\uacf5\ud55c\ub2e4\uace0 \uc804\ud588\ub2e4.\n  > Summary: Zhipu\ub294 \ucd5c\uc2e0 \ud50c\ub798\uadf8\uc2ed \ubaa8\ub378\uc778 GLM-5.2\ub97c \ucd9c\uc2dc\ud588\ub2e4. \uc774 \ubaa8\ub378\uc740 \uc7a5\uae30 \uc791\uc5c5 \ub2a5\ub825\uc774 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 20:55:06",
       "message": "[PROCESSING] Analyzing: Element Six and Orbray Accelerate Wafer-Scale Single Crystal Diamond for Volume Production..."
+    },
+    {
+      "timestamp": "2026-06-16 20:55:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Element Six and Orbray Accelerate Wafer-Scale Single Crystal Diamond for Volume Production"
     }
   ]
 }
