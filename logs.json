@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 14:23:10",
+  "last_updated": "2026-06-16 14:23:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 14:22:31",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-16 14:22:31",
       "message": "[PROCESSING] Analyzing: Florida sues TikTok for allegedly violating its social media ban for kids..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 14:23:10",
       "message": "Reprocessing: AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime"
+    },
+    {
+      "timestamp": "2026-06-16 14:23:12",
+      "message": "[SKIP] Content too short: AWS Tunes Up Graviton5 For Age..."
     }
   ]
 }
