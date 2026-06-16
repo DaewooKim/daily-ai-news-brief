@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 18:55:05",
+  "last_updated": "2026-06-16 18:55:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 18:54:17",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-16 18:54:30",
       "message": "Found 159 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 18:55:05",
       "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
+    },
+    {
+      "timestamp": "2026-06-16 18:55:07",
+      "message": "[SKIP] Content too short: More Power To You \u2013 And To The..."
     }
   ]
 }
