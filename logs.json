@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 18:55:21",
+  "last_updated": "2026-06-16 18:55:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 18:54:44",
-      "message": "[PROCESSING] Analyzing: Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers..."
-    },
     {
       "timestamp": "2026-06-16 18:54:46",
       "message": "[SKIP] Irrelevant (AI Filter): Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 18:55:21",
       "message": "[SUCCESS] Processed: NVIDIA ACE \uac8c\uc784 \uc5d0\uc774\uc804\ud2b8 SDK\uc640 \uc5b8\ub9ac\uc5bc \uc5d4\uc9c4 5 \ud50c\ub7ec\uadf8\uc778\uc73c\ub85c On-Device AI \ub3d9\ubc18\uc790 \uad6c\ucd95\n  > Summary: NVIDIA RTX \uae30\uc220\uc740 \uc5b8\ub9ac\uc5bc \uc5d4\uc9c4 5\uc5d0 \uae4a\uc774 \ud1b5\ud569\ub418\uc5b4 \uc788\uc73c\uba70, \uac8c\uc784 \uac1c\ubc1c\uc790\ub4e4\uc5d0\uac8c \uace0\uae09..."
+    },
+    {
+      "timestamp": "2026-06-16 18:55:22",
+      "message": "Reprocessing: NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance"
     }
   ]
 }
