@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 17:47:22",
+  "last_updated": "2026-06-16 17:47:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 17:46:36",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-16 17:46:36",
       "message": "[PROCESSING] Analyzing: Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 17:47:22",
       "message": "[SKIP] Content too short: QuEra\u2019s Libra Fault-Tolerant Q..."
+    },
+    {
+      "timestamp": "2026-06-16 17:47:24",
+      "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
     }
   ]
 }
