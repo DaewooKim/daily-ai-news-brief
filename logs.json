@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 06:33:41",
+  "last_updated": "2026-06-16 06:33:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 06:33:05",
-      "message": "[PROCESSING] Analyzing: Fox wants to take over your TV \u2014 and the tech inside it..."
-    },
     {
       "timestamp": "2026-06-16 06:33:08",
       "message": "[SKIP] Irrelevant (AI Filter): Fox wants to take over your TV \u2014 and the tech inside it"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 06:33:41",
       "message": "Reprocessing: Research into how AI can help users understand skin conditions"
+    },
+    {
+      "timestamp": "2026-06-16 06:33:42",
+      "message": "[SKIP] Content too short: Research into how AI can help ..."
     }
   ]
 }
