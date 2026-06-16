@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 15:31:55",
+  "last_updated": "2026-06-16 15:31:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 15:31:09",
-      "message": "[SKIP] Content too short: AWS Tunes Up Graviton5 For Age..."
-    },
     {
       "timestamp": "2026-06-16 15:31:11",
       "message": "[PROCESSING] Analyzing: NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 15:31:55",
       "message": "[PROCESSING] Analyzing: SpaceX passes Amazon as valuation balloons to $2.7T..."
+    },
+    {
+      "timestamp": "2026-06-16 15:31:57",
+      "message": "[SKIP] Irrelevant (AI Filter): SpaceX passes Amazon as valuation balloons to $2.7T"
     }
   ]
 }
