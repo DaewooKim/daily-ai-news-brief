@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-16 17:47:24",
+  "last_updated": "2026-06-16 17:47:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-16 17:46:36",
-      "message": "[PROCESSING] Analyzing: Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers..."
-    },
     {
       "timestamp": "2026-06-16 17:46:40",
       "message": "[SKIP] Irrelevant (AI Filter): Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-16 17:47:24",
       "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
+    },
+    {
+      "timestamp": "2026-06-16 17:47:26",
+      "message": "[SKIP] Content too short: More Power To You \u2013 And To The..."
     }
   ]
 }
