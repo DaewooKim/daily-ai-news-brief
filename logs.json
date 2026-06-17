@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 22:29:56",
+  "last_updated": "2026-06-17 22:29:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 22:29:20",
-      "message": "[PROCESSING] Analyzing: Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices..."
-    },
     {
       "timestamp": "2026-06-17 22:29:23",
       "message": "[SKIP] Irrelevant (AI Filter): Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 22:29:56",
       "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
+    },
+    {
+      "timestamp": "2026-06-17 22:29:57",
+      "message": "[SKIP] Content too short: More Power To You \u2013 And To The..."
     }
   ]
 }
