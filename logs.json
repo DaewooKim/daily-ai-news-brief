@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 15:50:12",
+  "last_updated": "2026-06-17 15:50:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 15:49:24",
-      "message": "[SUCCESS] Processed: AI\uc758 \ub2e4\uc74c \ub370\uc774\ud130 \uc13c\ud130 \ub3c4\uc804: \ucd94\ub860 \uc2dc\ub300\ub97c \uc704\ud55c \uba54\ubaa8\ub9ac \ud655\uc7a5\n  > Summary: AI \ucd94\ub860\uc740 \ub2e8\uc21c\ud55c \ucef4\ud4e8\ud305 \ub2a5\ub825\ubcf4\ub2e4 \ud655\uc7a5 \uac00\ub2a5\ud55c \uba54\ubaa8\ub9ac\uac00 \ud544\uc694\ud558\ub2e4. CXL\uc740 \uc774 \ub458\uc744 \ubd84\ub9ac..."
-    },
     {
       "timestamp": "2026-06-17 15:49:26",
       "message": "[PROCESSING] Analyzing: The UK CMA orders Google to provide greater transparency on how its search rankings work and to let users transfer their search data to authorized third parties (Muvija M/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 15:50:12",
       "message": "[PROCESSING] Analyzing: EigenQ, which makes cybersecurity systems to protect devices from future attacks by quantum computers, plans to go public via a SPAC merger at a ~$3B valuation (Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-17 15:50:15",
+      "message": "[SKIP] Irrelevant (AI Filter): EigenQ, which makes cybersecurity systems to protect devices from future attacks by quantum computers, plans to go public via a SPAC merger at a ~$3B valuation (Reuters)"
     }
   ]
 }
