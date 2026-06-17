@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 06:49:42",
+  "last_updated": "2026-06-17 06:49:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 06:49:05",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-17 06:49:05",
       "message": "[PROCESSING] Analyzing: The Complete Calvin and Hobbes is a great last-minute Father\u2019s Day gift..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 06:49:42",
       "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
+    },
+    {
+      "timestamp": "2026-06-17 06:49:44",
+      "message": "[SKIP] Content too short: More Power To You \u2013 And To The..."
     }
   ]
 }
