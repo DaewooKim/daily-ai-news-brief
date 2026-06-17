@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 13:31:09",
+  "last_updated": "2026-06-17 13:31:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 13:30:27",
-      "message": "Found 162 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-17 13:30:27",
       "message": "[PROCESSING] Analyzing: The best Apple deals you can already get ahead of Prime Day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 13:31:09",
       "message": "[PROCESSING] Analyzing: My backyard made me a color-changing smart lighting convert..."
+    },
+    {
+      "timestamp": "2026-06-17 13:31:12",
+      "message": "[SKIP] Irrelevant (AI Filter): My backyard made me a color-changing smart lighting convert"
     }
   ]
 }
