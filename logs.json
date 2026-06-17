@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 14:39:02",
+  "last_updated": "2026-06-17 14:39:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 14:37:58",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-17 14:37:58",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 14:39:02",
       "message": "[PROCESSING] Analyzing: Jackery announces \u2018world\u2019s slimmest\u2019 fridge battery..."
+    },
+    {
+      "timestamp": "2026-06-17 14:39:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Jackery announces \u2018world\u2019s slimmest\u2019 fridge battery"
     }
   ]
 }
