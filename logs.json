@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 16:54:54",
+  "last_updated": "2026-06-17 16:54:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 16:54:11",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-17 16:54:11",
       "message": "[PROCESSING] Analyzing: The Echo Dot Max is cheaper than ever in an early Prime Day sale..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 16:54:54",
       "message": "Reprocessing: Tensordyne Converts AI Matrix Math To Logs To Crank Up Inference Oomph"
+    },
+    {
+      "timestamp": "2026-06-17 16:54:55",
+      "message": "[SKIP] Content too short: Tensordyne Converts AI Matrix ..."
     }
   ]
 }
