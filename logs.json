@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 19:12:45",
+  "last_updated": "2026-06-17 19:12:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 19:12:06",
-      "message": "[SUCCESS] Processed: \uc544\ubaa8\ub370\uc774, \uc54c\ud2b8\uba3c, \ud558\uc0ac\ube44\uc2a4\uac00 G7 \uc815\uc0c1 \ud68c\ub2f4\uc5d0\uc11c AI \uaddc\uce59\uc5d0 \ub300\ud55c \ubbf8\uad6d \uc8fc\ub3c4\uc758 \ud611\ub825\uc744 \ucd09\uad6c\ud558\ub2e4; \ub9c8\ud06c\ub871\uacfc \ubaa8\ub514\ub294 \ubbf8 \uad6d\uc758 Mythos \ucc28\ub2e8\uc5d0 \ub300\ud574 \uc6b0\ub824\ub97c \uc81c\uae30\ud558\ub2e4\n  > Summary: \ub2e4\ub9ac\uc624 \uc544\ubaa8\ub370\uc774, \uc0d8 \uc54c\ud2b8\uba3c, \ub370\ubbf8\uc2a4 \ud558\uc0ac\ube44\uc2a4\uac00 G7 \uc815\uc0c1 \ud68c\ub2f4\uc5d0\uc11c AI \uaddc\uce59\uc5d0 \ub300\ud55c \ubbf8\uad6d..."
-    },
     {
       "timestamp": "2026-06-17 19:12:08",
       "message": "[PROCESSING] Analyzing: A newly discovered data leak has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs across 194 countries (Lawrence Abrams/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 19:12:45",
       "message": "[PROCESSING] Analyzing: Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays..."
+    },
+    {
+      "timestamp": "2026-06-17 19:12:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays"
     }
   ]
 }
