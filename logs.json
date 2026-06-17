@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 00:16:56",
+  "last_updated": "2026-06-17 00:16:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 00:16:27",
-      "message": "[SKIP] Content too short: AppViewX targets ungoverned AI..."
-    },
     {
       "timestamp": "2026-06-17 00:16:28",
       "message": "Reprocessing: Exclusive: Daylight gives managed detection and response customers searchable telemetry without a SIEM"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 00:16:56",
       "message": "[PROCESSING] Analyzing: What are git worktrees, and why should I use them?..."
+    },
+    {
+      "timestamp": "2026-06-17 00:16:58",
+      "message": "[SKIP] Irrelevant (AI Filter): What are git worktrees, and why should I use them?"
     }
   ]
 }
