@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 22:29:54",
+  "last_updated": "2026-06-17 22:29:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 22:29:20",
-      "message": "Found 165 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-17 22:29:20",
       "message": "[PROCESSING] Analyzing: Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 22:29:54",
       "message": "[SKIP] Content too short: QuEra\u2019s Libra Fault-Tolerant Q..."
+    },
+    {
+      "timestamp": "2026-06-17 22:29:56",
+      "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
     }
   ]
 }
