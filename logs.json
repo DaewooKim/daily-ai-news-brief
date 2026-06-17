@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 12:27:12",
+  "last_updated": "2026-06-17 12:27:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 12:26:31",
-      "message": "[PROCESSING] Analyzing: The US government awards $500M under the CHIPS Act to SandboxAQ to use AI to develop new chemicals and materials for domestic semiconductor manufacturing (Stephen Nellis/Reuters)..."
-    },
     {
       "timestamp": "2026-06-17 12:26:34",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc815\ubd80, CHIPS \ubc95\uc548\uc5d0 \ub530\ub77c SandboxAQ\uc5d0 5\uc5b5 \ub2ec\ub7ec\ub97c \uc9c0\uc6d0\ud558\uc5ec AI\ub97c \ud65c\uc6a9\ud574 \uad6d\ub0b4 \ubc18\ub3c4\uccb4 \uc81c\uc870\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 \ud654\ud559\ubb3c\uc9c8 \ubc0f \uc7ac\ub8cc \uac1c\ubc1c\n  > Summary: \ubbf8\uad6d \uc815\ubd80\ub294 CHIPS \ubc95\uc548\uc5d0 \ub530\ub77c \uc2a4\ud0c0\ud2b8\uc5c5 SandboxAQ\uc5d0 5\uc5b5 \ub2ec\ub7ec\ub97c \uc9c0\uc6d0\ud558\uae30\ub85c \uacb0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 12:27:12",
       "message": "[PROCESSING] Analyzing: Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify..."
+    },
+    {
+      "timestamp": "2026-06-17 12:27:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
     }
   ]
 }
