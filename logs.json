@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-17 20:22:15",
-  "status": "idle",
+  "last_updated": "2026-06-17 21:22:53",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-17 20:20:41",
-      "message": "[SKIP] Content too short: Atom Computing raises $300M to..."
+      "timestamp": "2026-06-17 21:22:40",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-17 20:20:42",
-      "message": "Reprocessing: China\u2019s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation"
+      "timestamp": "2026-06-17 21:22:41",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-17 20:20:44",
-      "message": "[SKIP] Content too short: China\u2019s DeepSeek reportedly ra..."
+      "timestamp": "2026-06-17 21:22:41",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-17 20:20:46",
-      "message": "Reprocessing: Databricks\u2019 new agentic coworker Genie One brings AI automation to every part of the business"
+      "timestamp": "2026-06-17 21:22:53",
+      "message": "Found 165 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-17 20:20:47",
-      "message": "[SKIP] Content too short: Databricks\u2019 new agentic cowork..."
-    },
-    {
-      "timestamp": "2026-06-17 20:20:49",
-      "message": "Reprocessing: Databricks acquires cyberattack detection startup Panther"
-    },
-    {
-      "timestamp": "2026-06-17 20:20:51",
-      "message": "[SKIP] Content too short: Databricks acquires cyberattac..."
-    },
-    {
-      "timestamp": "2026-06-17 20:20:53",
-      "message": "Reprocessing: The AGI moment? Databricks\u2019 new releases zero in on support and deployment of AI agents"
-    },
-    {
-      "timestamp": "2026-06-17 20:20:55",
-      "message": "[SKIP] Content too short: The AGI moment? Databricks\u2019 ne..."
-    },
-    {
-      "timestamp": "2026-06-17 20:20:56",
-      "message": "Reprocessing: Bland raises $50M to automate complex, high-stakes phone calls"
-    },
-    {
-      "timestamp": "2026-06-17 20:20:58",
-      "message": "[SKIP] Content too short: Bland raises $50M to automate ..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:00",
-      "message": "Reprocessing: SpaceX to acquire vibe coding startup Cursor for $60B"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:01",
-      "message": "[SKIP] Content too short: SpaceX to acquire vibe coding ..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:03",
-      "message": "Reprocessing: Oligo Security delivers runtime protection in the new age of AI-driven attacks"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:05",
-      "message": "[SKIP] Content too short: Oligo Security delivers runtim..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:07",
-      "message": "Reprocessing: Nexla\u2019s Express solution leverages conversational interface to fuel agentic AI"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:09",
-      "message": "[SKIP] Content too short: Nexla\u2019s Express solution lever..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:10",
-      "message": "Reprocessing: HPE expands self-driving networking strategy as AI moves into production"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:12",
-      "message": "[SKIP] Content too short: HPE expands self-driving netwo..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:13",
-      "message": "Reprocessing: Qualcomm takes spatial computing into the AI era with Snapdragon Reality Elite"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:15",
-      "message": "[SKIP] Content too short: Qualcomm takes spatial computi..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:17",
-      "message": "Reprocessing: Xreal unveils Aura, its lightweight smart glasses powered by Android XR"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:21",
-      "message": "[SKIP] Content too short: Xreal unveils Aura, its lightw..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:23",
-      "message": "Reprocessing: TwelveLabs\u2019 video AI finds new use cases on AWS Marketplace"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:24",
-      "message": "[SKIP] Content too short: TwelveLabs\u2019 video AI finds new..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:26",
-      "message": "Reprocessing: HPE expands Private Cloud AI factory portfolio to support next-gen autonomous agents"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:27",
-      "message": "[SKIP] Content too short: HPE expands Private Cloud AI f..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:29",
-      "message": "Reprocessing: Hydrolix brings high-speed analytics to petabyte-scale agentic AI"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:31",
-      "message": "[SKIP] Content too short: Hydrolix brings high-speed ana..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:32",
-      "message": "Reprocessing: SiMa.ai cuts physical AI deployment from months to days with agentic developer tooling"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:34",
-      "message": "[SKIP] Content too short: SiMa.ai cuts physical AI deplo..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:36",
-      "message": "Reprocessing: How Spacelift blends AI experimentation with GitOps governance"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:37",
-      "message": "[SKIP] Content too short: How Spacelift blends AI experi..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:39",
-      "message": "Reprocessing: Terra Security uses agentic AI to find risks before attackers do"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:41",
-      "message": "[SKIP] Content too short: Terra Security uses agentic AI..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:42",
-      "message": "Reprocessing: AI app development is rewriting the database market"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:44",
-      "message": "[SKIP] Content too short: AI app development is rewritin..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:46",
-      "message": "Reprocessing: Glean\u2019s AI platform leverages enterprise data to power models and agents"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:47",
-      "message": "[SKIP] Content too short: Glean\u2019s AI platform leverages ..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:49",
-      "message": "Reprocessing: Okta expands Google Cloud partnership to secure AI agents and the browser"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:51",
-      "message": "[SKIP] Content too short: Okta expands Google Cloud part..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:52",
-      "message": "[PROCESSING] Analyzing: STH Weekly Newsletters You Want to Subscribe in Q2 2026..."
-    },
-    {
-      "timestamp": "2026-06-17 20:21:55",
-      "message": "[SKIP] Irrelevant (AI Filter): STH Weekly Newsletters You Want to Subscribe in Q2 2026"
-    },
-    {
-      "timestamp": "2026-06-17 20:21:57",
-      "message": "[PROCESSING] Analyzing: Getting more from each token: How Copilot improves context handling and model routing..."
-    },
-    {
-      "timestamp": "2026-06-17 20:22:00",
-      "message": "[SUCCESS] Processed: \ud1a0\ud070 \uc0ac\uc6a9\uc744 \uadf9\ub300\ud654\ud558\uae30: Copilot\uc758 \ucee8\ud14d\uc2a4\ud2b8 \ucc98\ub9ac \ubc0f \ubaa8\ub378 \ub77c\uc6b0\ud305 \uac1c\uc120\n  > Summary: Copilot\uc740 \uc791\uc5c5 \ud6a8\uc728\uc131\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud574 \ubc18\ubcf5\ub418\ub294 \uc815\ubcf4\ub97c \uc904\uc774\uace0, \uc791\uc5c5\uc5d0 \uc801\ud569\ud55c \ubaa8\ub378..."
-    },
-    {
-      "timestamp": "2026-06-17 20:22:02",
-      "message": "[PROCESSING] Analyzing: What are git worktrees, and why should I use them?..."
-    },
-    {
-      "timestamp": "2026-06-17 20:22:04",
-      "message": "[SKIP] Irrelevant (AI Filter): What are git worktrees, and why should I use them?"
-    },
-    {
-      "timestamp": "2026-06-17 20:22:05",
-      "message": "Completed! New: 8, Updated: 45"
-    },
-    {
-      "timestamp": "2026-06-17 20:22:10",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-17 20:22:14",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-17 21:22:53",
+      "message": "[PROCESSING] Analyzing: VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription..."
     }
   ]
 }
