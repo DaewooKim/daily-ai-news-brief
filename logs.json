@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 15:50:48",
+  "last_updated": "2026-06-17 15:50:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 15:50:05",
-      "message": "Reprocessing: Andera, which uses AI to automate corporate audit and compliance testing, raised a $37M Series A led by Lightspeed (Ryan Lawler/Axios)"
-    },
     {
       "timestamp": "2026-06-17 15:50:07",
       "message": "[PROCESSING] Analyzing: Andera, which uses AI to automate corporate audit and compliance testing, raised a $37M Series A led by Lightspeed (Ryan Lawler/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 15:50:48",
       "message": "[PROCESSING] Analyzing: Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify..."
+    },
+    {
+      "timestamp": "2026-06-17 15:50:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
     }
   ]
 }
