@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 16:58:10",
+  "last_updated": "2026-06-17 16:58:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 16:57:20",
-      "message": "[PROCESSING] Analyzing: Studies: Mira, an AI medical tool developed by researchers in Germany, and Google's Amie matched or surpassed doctors on diagnostic and treatment decisions (Michael Peel/Financial Times)..."
-    },
     {
       "timestamp": "2026-06-17 16:57:23",
       "message": "[SUCCESS] Processed: \uc5f0\uad6c: \ub3c5\uc77c \uc5f0\uad6c\uc9c4\uc774 \uac1c\ubc1c\ud55c AI \uc758\ub8cc \ub3c4\uad6c Mira\uc640 \uad6c\uae00\uc758 Amie\uac00 \uc9c4\ub2e8 \ubc0f \uce58\ub8cc \uacb0\uc815\uc5d0\uc11c \uc758\uc0ac\uc640 \uc77c\uce58\ud558\uac70\ub098 \uc774\ub97c \ucd08\uc6d4\ud568\n  > Summary: \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74, \ub3c5\uc77c \uc5f0\uad6c\uc9c4\uc774 \uac1c\ubc1c\ud55c AI \uc758\ub8cc \ub3c4\uad6c Mira\uc640 \uad6c\uae00\uc758 AI \ub3c4\uad6c Amie..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 16:58:10",
       "message": "[PROCESSING] Analyzing: EigenQ, which makes cybersecurity systems to protect devices from future attacks by quantum computers, plans to go public via a SPAC merger at a ~$3B valuation (Reuters)..."
+    },
+    {
+      "timestamp": "2026-06-17 16:58:12",
+      "message": "[SKIP] Irrelevant (AI Filter): EigenQ, which makes cybersecurity systems to protect devices from future attacks by quantum computers, plans to go public via a SPAC merger at a ~$3B valuation (Reuters)"
     }
   ]
 }
