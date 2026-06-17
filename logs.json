@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 06:52:54",
+  "last_updated": "2026-06-17 06:52:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 06:52:12",
-      "message": "[PROCESSING] Analyzing: Dealogic: investors have poured $58B across 42 data center deals YTD; Oxford Economics says ~850 data centers worth some $7T are under construction globally (Financial Times)..."
-    },
     {
       "timestamp": "2026-06-17 06:52:16",
       "message": "[SUCCESS] Processed: \ub51c\ub85c\uc9c1: \ud22c\uc790\uc790\ub4e4\uc774 \uc62c\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uac70\ub798\uc5d0 580\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc785\ud588\uc2b5\ub2c8\ub2e4; \uc625\uc2a4\ud3ec\ub4dc \uacbd\uc81c\ud559\uc740 \uc804 \uc138\uacc4\uc801\uc73c\ub85c \uc57d 850\uac1c\uc758 \ub370\uc774\ud130 \uc13c\ud130\uac00 7\uc870 \ub2ec\ub7ec \uc0c1\ub2f9\uc758 \uac74\uc124 \uc911\uc774\ub77c\uace0 \ub9d0\ud569\ub2c8\ub2e4 (\ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988)\n  > Summary: \ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988\uc5d0 \ub530\ub974\uba74, \ub51c\ub85c\uc9c1\uc740 \uc62c\ud574 \ud22c\uc790\uc790\ub4e4\uc774 \ub370\uc774\ud130 \uc13c\ud130 \uac70\ub798\uc5d0 580\uc5b5 \ub2ec\ub7ec\ub97c \ud22c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 06:52:54",
       "message": "[PROCESSING] Analyzing: Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify..."
+    },
+    {
+      "timestamp": "2026-06-17 06:52:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
     }
   ]
 }
