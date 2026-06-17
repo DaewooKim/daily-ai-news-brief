@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-17 19:09:54",
+  "last_updated": "2026-06-17 19:09:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-17 19:09:14",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-17 19:09:14",
       "message": "[PROCESSING] Analyzing: Anthropic got hit by export rules nobody understands..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-17 19:09:54",
       "message": "[PROCESSING] Analyzing: Architecting the Future: Unlocking Enterprise Data Services for Kubernetes..."
+    },
+    {
+      "timestamp": "2026-06-17 19:09:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Architecting the Future: Unlocking Enterprise Data Services for Kubernetes"
     }
   ]
 }
