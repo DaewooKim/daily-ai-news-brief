@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 06:17:43",
+  "last_updated": "2026-06-18 06:17:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 06:17:02",
-      "message": "Reprocessing: Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models, following a similar move by rival Goldman Sachs (Financial Times)"
-    },
     {
       "timestamp": "2026-06-18 06:17:03",
       "message": "[PROCESSING] Analyzing: Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models, following a similar move by rival Goldman Sachs (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 06:17:43",
       "message": "[PROCESSING] Analyzing: Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify..."
+    },
+    {
+      "timestamp": "2026-06-18 06:17:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
     }
   ]
 }
