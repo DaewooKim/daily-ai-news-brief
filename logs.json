@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 14:04:09",
+  "last_updated": "2026-06-18 14:04:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 14:03:20",
-      "message": "[SUCCESS] Processed: AI\ub97c \ud65c\uc6a9\ud558\uc5ec \ub9de\ucda4\ud615 \uce69 \uc124\uacc4 \ud504\ub85c\uc138\uc2a4\ub97c \uc800\ub834\ud558\uac8c \ud558\uace0 \ube60\ub974\uac8c \ub9cc\ub4dc\ub294 Architect Labs, Kindred Ventures \uc8fc\ub3c4\ub85c 2400\ub9cc \ub2ec\ub7ec \uc720\uce58\n  > Summary: Architect Labs\ub294 AI\ub97c \ud65c\uc6a9\ud558\uc5ec \ub9de\ucda4\ud615 \uce69 \uc124\uacc4 \uacfc\uc815\uc744 \uc800\ub834\ud558\uace0 \uac04\ud3b8\ud558\uac8c \ub9cc\ub4e4..."
-    },
     {
       "timestamp": "2026-06-18 14:03:22",
       "message": "[PROCESSING] Analyzing: Sources: the EU is set to unveil its preliminary findings that AWS and Azure likely meet the criteria for regulation under the DMA as early as next week (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 14:04:09",
       "message": "[PROCESSING] Analyzing: How to Create Efficient Bump and TSV Plans for Multi-Die Designs..."
+    },
+    {
+      "timestamp": "2026-06-18 14:04:11",
+      "message": "[SKIP] Irrelevant (AI Filter): How to Create Efficient Bump and TSV Plans for Multi-Die Designs"
     }
   ]
 }
