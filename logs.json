@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 12:53:41",
+  "last_updated": "2026-06-18 12:53:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 12:53:07",
-      "message": "Found 166 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-18 12:53:07",
       "message": "[PROCESSING] Analyzing: This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 12:53:41",
       "message": "Reprocessing: More Power To You \u2013 And To The Datacenters"
+    },
+    {
+      "timestamp": "2026-06-18 12:53:42",
+      "message": "[SKIP] Content too short: More Power To You \u2013 And To The..."
     }
   ]
 }
