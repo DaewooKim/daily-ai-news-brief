@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 20:47:01",
+  "last_updated": "2026-06-18 20:47:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 20:46:23",
-      "message": "[PROCESSING] Analyzing: Amazon hopes to challenge Nvidia more directly by selling its AI chips..."
-    },
     {
       "timestamp": "2026-06-18 20:46:26",
       "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, AI \uce69 \ud310\ub9e4\ub85c \uc5d4\ube44\ub514\uc544\uc5d0 \uc9c1\uc811 \ub3c4\uc804\ud558\uae30\ub97c \ud76c\ub9dd\ud558\ub2e4\n  > Summary: AWS\uac00 \uc790\uc0ac \uce69\uc744 \ub2e4\ub978 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ud310\ub9e4\ud558\ub294 \ubc29\uc548\uc744 \ub17c\uc758 \uc911\uc774\ub2e4. CEO \uc564\ub514 \uc7ac\uc2dc(A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 20:47:01",
       "message": "[PROCESSING] Analyzing: Space Industry Is Standardizing on RISC-V..."
+    },
+    {
+      "timestamp": "2026-06-18 20:47:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Space Industry Is Standardizing on RISC-V"
     }
   ]
 }
