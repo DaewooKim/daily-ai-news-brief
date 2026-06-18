@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-18 12:59:07",
-  "status": "idle",
+  "last_updated": "2026-06-18 13:59:46",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-18 12:57:40",
-      "message": "Reprocessing: AWS launches Continuum to find and fix code vulnerabilities at machine speed"
+      "timestamp": "2026-06-18 13:59:32",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-18 12:57:41",
-      "message": "[SKIP] Content too short: AWS launches Continuum to find..."
+      "timestamp": "2026-06-18 13:59:33",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-18 12:57:43",
-      "message": "Reprocessing: Key takeaways from day two of the Databricks Data + AI Summit"
+      "timestamp": "2026-06-18 13:59:33",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-18 12:57:45",
-      "message": "[SKIP] Content too short: Key takeaways from day two of ..."
+      "timestamp": "2026-06-18 13:59:46",
+      "message": "Found 166 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-18 12:57:46",
-      "message": "Reprocessing: AI material discovery startup CuspAI reportedly raising $400M round"
-    },
-    {
-      "timestamp": "2026-06-18 12:57:48",
-      "message": "[SKIP] Content too short: AI material discovery startup ..."
-    },
-    {
-      "timestamp": "2026-06-18 12:57:49",
-      "message": "Reprocessing: Data primacy puts Everpure at the center of enterprise AI: theCUBE\u2019s Pure Accelerate 2026 keynote analysis"
-    },
-    {
-      "timestamp": "2026-06-18 12:57:51",
-      "message": "[SKIP] Content too short: Data primacy puts Everpure at ..."
-    },
-    {
-      "timestamp": "2026-06-18 12:57:52",
-      "message": "Reprocessing: Vercel launches a new framework and enterprise controls for agentic AI infrastructure"
-    },
-    {
-      "timestamp": "2026-06-18 12:57:54",
-      "message": "[SKIP] Content too short: Vercel launches a new framewor..."
-    },
-    {
-      "timestamp": "2026-06-18 12:57:55",
-      "message": "Reprocessing: Odyssey raises $310M at $1.45B valuation to transform AI model simulation"
-    },
-    {
-      "timestamp": "2026-06-18 12:57:57",
-      "message": "[SKIP] Content too short: Odyssey raises $310M at $1.45B..."
-    },
-    {
-      "timestamp": "2026-06-18 12:57:59",
-      "message": "Reprocessing: The AI-era CFO: Why standing still is the riskiest move"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:00",
-      "message": "[SKIP] Content too short: The AI-era CFO: Why standing s..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:02",
-      "message": "Reprocessing: SentinelOne turns Purple AI loose to investigate threats on its own"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:03",
-      "message": "[SKIP] Content too short: SentinelOne turns Purple AI lo..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:05",
-      "message": "Reprocessing: Everpure accelerates AI workloads with Data Stream and unveils data-primacy architectural vision"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:06",
-      "message": "[SKIP] Content too short: Everpure accelerates AI worklo..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:08",
-      "message": "Reprocessing: Ex-Cisco researchers launch Tenet Security to lock down rogue AI agents"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:10",
-      "message": "[SKIP] Content too short: Ex-Cisco researchers launch Te..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:11",
-      "message": "Reprocessing: CYGNVS launches command center for crises caused by a company\u2019s own AI"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:13",
-      "message": "[SKIP] Content too short: CYGNVS launches command center..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:14",
-      "message": "Reprocessing: Sweeping Android 17 update brings new AI capabilities and features to Pixel smartphones"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:16",
-      "message": "[SKIP] Content too short: Sweeping Android 17 update bri..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:18",
-      "message": "Reprocessing: Atom Computing raises $300M to build world\u2019s first fault-tolerant, commercially viable quantum computer"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:19",
-      "message": "[SKIP] Content too short: Atom Computing raises $300M to..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:21",
-      "message": "Reprocessing: China\u2019s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:22",
-      "message": "[SKIP] Content too short: China\u2019s DeepSeek reportedly ra..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:24",
-      "message": "Reprocessing: Databricks\u2019 new agentic coworker Genie One brings AI automation to every part of the business"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:26",
-      "message": "[SKIP] Content too short: Databricks\u2019 new agentic cowork..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:27",
-      "message": "Reprocessing: Databricks acquires cyberattack detection startup Panther"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:29",
-      "message": "[SKIP] Content too short: Databricks acquires cyberattac..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:30",
-      "message": "Reprocessing: The AGI moment? Databricks\u2019 new releases zero in on support and deployment of AI agents"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:32",
-      "message": "[SKIP] Content too short: The AGI moment? Databricks\u2019 ne..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:34",
-      "message": "Reprocessing: Bland raises $50M to automate complex, high-stakes phone calls"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:35",
-      "message": "[SKIP] Content too short: Bland raises $50M to automate ..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:37",
-      "message": "Reprocessing: SpaceX to acquire vibe coding startup Cursor for $60B"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:38",
-      "message": "[SKIP] Content too short: SpaceX to acquire vibe coding ..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:40",
-      "message": "Reprocessing: Oligo Security delivers runtime protection in the new age of AI-driven attacks"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:42",
-      "message": "[SKIP] Content too short: Oligo Security delivers runtim..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:44",
-      "message": "Reprocessing: 81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:45",
-      "message": "[PROCESSING] Analyzing: 81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:48",
-      "message": "[SUCCESS] Processed: 81920 \ucf54\uc5b4\ub97c \uac16\ucd98 AMD EPYC Venice, HPE Discover 2026\uc5d0\uc11c\n  > Summary: HPE Discover 2026\uc5d0\uc11c \uc6b0\ub9ac\ub294 AMD EPYC Venice CPU\ub97c \ud0d1\uc7ac\ud55c H..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:50",
-      "message": "[PROCESSING] Analyzing: STH Weekly Newsletters You Want to Subscribe in Q2 2026..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:52",
-      "message": "[SKIP] Irrelevant (AI Filter): STH Weekly Newsletters You Want to Subscribe in Q2 2026"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:54",
-      "message": "[PROCESSING] Analyzing: What are git worktrees, and why should I use them?..."
-    },
-    {
-      "timestamp": "2026-06-18 12:58:56",
-      "message": "[SKIP] Irrelevant (AI Filter): What are git worktrees, and why should I use them?"
-    },
-    {
-      "timestamp": "2026-06-18 12:58:58",
-      "message": "Completed! New: 4, Updated: 49"
-    },
-    {
-      "timestamp": "2026-06-18 12:59:02",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-18 12:59:05",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-18 13:59:46",
+      "message": "[PROCESSING] Analyzing: Amazon\u2019s Kindle Colorsoft bundle is almost half off for Prime Day..."
     }
   ]
 }
