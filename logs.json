@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 12:56:40",
+  "last_updated": "2026-06-18 12:56:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 12:56:02",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \uc5d0\ub108\uc9c0 \uad00\ub9ac \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uc81c\uacf5\ud558\uace0\uc790 \ud558\ub294 Verse Enterprises, Nvidia \ub4f1\uc73c\ub85c\ubd80\ud130 5400\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \uc870\ub2ec\n  > Summary: Verse Enterprises\uac00 2027\ub144\uae4c\uc9c0 100\uac1c\uc758 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \uc5d0\ub108\uc9c0 \uad00\ub9ac \uc18c\ud504..."
-    },
     {
       "timestamp": "2026-06-18 12:56:04",
       "message": "Reprocessing: AI inference startup Baseten is raising $1.5B in a dual-tiered deal, with some investors putting in money at an $11B valuation and others at a $13B valuation (Angel Au-Yeung/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 12:56:40",
       "message": "[PROCESSING] Analyzing: Production Evaluation of 255 nm UV LEDs as a Replacement for Mercury Lamps for Wafer Edge Exposure Processes..."
+    },
+    {
+      "timestamp": "2026-06-18 12:56:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Production Evaluation of 255 nm UV LEDs as a Replacement for Mercury Lamps for Wafer Edge Exposure Processes"
     }
   ]
 }
