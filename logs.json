@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 15:12:07",
+  "last_updated": "2026-06-18 15:12:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 15:11:23",
-      "message": "[PROCESSING] Analyzing: Sources: as early as next week, the EU is set to unveil its preliminary findings that AWS and Azure seem to meet the criteria for regulation under the DMA (Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-18 15:11:25",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: as early as next week, the EU is set to unveil its preliminary findings that AWS and Azure seem to meet the criteria for regulation under the DMA (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 15:12:07",
       "message": "[PROCESSING] Analyzing: Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify..."
+    },
+    {
+      "timestamp": "2026-06-18 15:12:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
     }
   ]
 }
