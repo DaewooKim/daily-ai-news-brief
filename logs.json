@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 08:28:30",
+  "last_updated": "2026-06-18 08:28:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 08:27:52",
-      "message": "[SUCCESS] Processed: \uadfc\uc790\uc728 AI \ud654\ud559\uc790, \uc758\uc57d \ud654\ud559\uc5d0\uc11c \uc5b4\ub824\uc6b4 \ubc18\uc751 \uac1c\uc120\n  > Summary: OpenAI\uc640 Molecule.one\uc740 GPT-5.4\ub97c \uc0ac\uc6a9\ud55c \uadfc\uc790\uc728 AI \ud654\ud559\uc790\uac00 \uc8fc\uc694 ..."
-    },
     {
       "timestamp": "2026-06-18 08:27:54",
       "message": "Reprocessing: Introducing LifeSciBench"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 08:28:30",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests..."
+    },
+    {
+      "timestamp": "2026-06-18 08:28:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests"
     }
   ]
 }
