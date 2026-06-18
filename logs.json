@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 07:24:18",
+  "last_updated": "2026-06-18 07:24:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 07:23:40",
-      "message": "[PROCESSING] Analyzing: Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models, following a similar move by rival Goldman Sachs (Financial Times)..."
-    },
     {
       "timestamp": "2026-06-18 07:23:43",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: JPMorgan Chase\uac00 \ud64d\ucf69\uc5d0\uc11c \uc9c1\uc6d0\ub4e4\uc774 Anthropic\uc758 AI \ubaa8\ub378\uc5d0 \uc811\uadfc\ud558\ub294 \uac83\uc744 \uc911\ub2e8\ud588\ub2e4\n  > Summary: JPMorgan Chase\ub294 \ud64d\ucf69\uc5d0\uc11c \uc9c1\uc6d0\ub4e4\uc774 Anthropic\uc758 AI \ubaa8\ub378\uc778 Claude..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 07:24:18",
       "message": "[SKIP] Content too short: Robotic teleoperation data sta..."
+    },
+    {
+      "timestamp": "2026-06-18 07:24:20",
+      "message": "Reprocessing: AI ready data is the missing link keeping enterprise AI stuck in pilot mode"
     }
   ]
 }
