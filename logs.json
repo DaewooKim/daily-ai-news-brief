@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 04:04:19",
+  "last_updated": "2026-06-18 04:04:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 04:03:41",
-      "message": "[PROCESSING] Analyzing: A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT (Pew Research Center)..."
-    },
     {
       "timestamp": "2026-06-18 04:03:45",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc131\uc778 \uc870\uc0ac: 2026\ub144\uc5d0 49%\uac00 \ucc44\ud305\ubd07 \uc0ac\uc6a9, 2024\ub144 33%\uc5d0\uc11c \uc99d\uac00\n  > Summary: Pew Research Center\uc758 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, 2026\ub144\uc5d0\ub294 \ubbf8\uad6d \uc131\uc778\uc758 49%\uac00 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 04:04:19",
       "message": "[PROCESSING] Analyzing: Sources: Apple is testing a second-generation iPhone Air, planned for spring 2027, with a second rear camera for ultrawide-angle photos and better battery life (Mark Gurman/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-18 04:04:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple is testing a second-generation iPhone Air, planned for spring 2027, with a second rear camera for ultrawide-angle photos and better battery life (Mark Gurman/Bloomberg)"
     }
   ]
 }
