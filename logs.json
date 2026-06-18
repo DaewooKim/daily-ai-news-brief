@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 16:15:58",
+  "last_updated": "2026-06-18 16:15:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 16:15:20",
-      "message": "Found 168 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-18 16:15:20",
       "message": "[PROCESSING] Analyzing: Amazon employees say they\u2019re facing termination for backing data center limits..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 16:15:58",
       "message": "Reprocessing: Tensordyne Converts AI Matrix Math To Logs To Crank Up Inference Oomph"
+    },
+    {
+      "timestamp": "2026-06-18 16:15:59",
+      "message": "[SKIP] Content too short: Tensordyne Converts AI Matrix ..."
     }
   ]
 }
