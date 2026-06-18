@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-18 02:57:33",
+  "last_updated": "2026-06-18 02:57:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-18 02:56:53",
-      "message": "[SUCCESS] Processed: \uc544\ub974\ud2f0\ud058\ub808\uc774\ud2b8, \uc8fc\uc694 \uc0b0\uc5c5 AI \uacc4\uc57d \uccb4\uacb0 - \ub300\ud615 \uc81c\ub108\ub808\uc774\ud2f0\ube0c AI \uacbd\uc7c1\uc790\ub4e4\uc744 \ub204\ub974\ub2e4\n  > Summary: AI \uc2a4\ud0c0\ud2b8\uc5c5 \uc544\ub974\ud2f0\ud058\ub808\uc774\ud2b8\uac00 \ub2e4\uad6d\uc801 \uc0b0\uc5c5 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\uc5d0 \uc758\ud574 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1, \uc2dc\ubbac\ub808\uc774\uc158 ..."
-    },
     {
       "timestamp": "2026-06-18 02:56:54",
       "message": "Reprocessing: Discover 2026: HPE Bets on Hybrid Quantum-Supercomputing Architectures"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-18 02:57:33",
       "message": "[PROCESSING] Analyzing: Apple's planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them (Arseniy Shestakov)..."
+    },
+    {
+      "timestamp": "2026-06-18 02:57:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple's planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them (Arseniy Shestakov)"
     }
   ]
 }
