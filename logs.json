@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 13:31:52",
+  "last_updated": "2026-06-19 13:31:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 13:31:15",
-      "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874 MGM \uc2a4\ud29c\ub514\uc624, \ub8e8\uce74 \uacfc\ub2e4\ub2c8\ub178\uc758 \ub300\ubd80\ubd84 \uc644\uc131\ub41c \uc0d8 \uc54c\ud2b8\uba3c \uc601\ud654 \ud3ec\uae30; \uc544\ub9c8\uc874, 2\uc6d4\uc5d0 OpenAI\uc640 500\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc8fc\uc694 \uacc4\uc57d \uccb4\uacb0\n  > Summary: \uc544\ub9c8\uc874 MGM \uc2a4\ud29c\ub514\uc624\uac00 \ub8e8\uce74 \uacfc\ub2e4\ub2c8\ub178 \uac10\ub3c5\uc758 \ub300\uc911\uc801\uc778 \uc601\ud654 '\uc0d8 \uc54c\ud2b8\uba3c'\uc744 \ud3ec\uae30\ud588\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-06-19 13:31:16",
       "message": "[PROCESSING] Analyzing: John Edwards, UK Information Commissioner and chair of the ICO, the country's data and AI regulator, resigned following a workplace investigation (Liv McMahon/BBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 13:31:52",
       "message": "[PROCESSING] Analyzing: Randomizing Wafers To Zero In On Process Problems Much Faster..."
+    },
+    {
+      "timestamp": "2026-06-19 13:31:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Randomizing Wafers To Zero In On Process Problems Much Faster"
     }
   ]
 }
