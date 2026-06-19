@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-19 11:16:52",
+  "last_updated": "2026-06-19 11:16:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 11:16:18",
-      "message": "[SUCCESS] Processed: \ubc30\ud3ec \uc2dc\ubbac\ub808\uc774\uc158\uc744 \ud1b5\ud55c \ubaa8\ub378 \ub3d9\uc791 \uc608\uce21\n  > Summary: OpenAI\ub294 \ubc30\ud3ec \uc804\uc5d0 AI \ubaa8\ub378\uc758 \ub3d9\uc791\uc744 \uc608\uce21\ud558\uae30 \uc704\ud574 \uc2e4\uc81c \ub300\ud654 \ub370\uc774\ud130\ub97c \uc0ac\uc6a9\ud55c \ubc30\ud3ec..."
-    },
-    {
-      "timestamp": "2026-06-19 11:16:19",
-      "message": "[PROCESSING] Analyzing: The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t..."
-    },
     {
       "timestamp": "2026-06-19 11:16:21",
       "message": "[SKIP] Irrelevant (AI Filter): The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-19 11:16:52",
       "message": "[SKIP] Irrelevant (AI Filter): All Semiconductor Roads Lead to Taiwan"
+    },
+    {
+      "timestamp": "2026-06-19 11:16:54",
+      "message": "[PROCESSING] Analyzing: Space Industry Is Standardizing on RISC-V..."
+    },
+    {
+      "timestamp": "2026-06-19 11:16:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Space Industry Is Standardizing on RISC-V"
     }
   ]
 }
