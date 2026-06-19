@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 05:40:54",
+  "last_updated": "2026-06-19 05:40:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 05:40:18",
-      "message": "Found 178 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-19 05:40:18",
       "message": "[PROCESSING] Analyzing: Barret Zoph is out at OpenAI again after just five months..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 05:40:54",
       "message": "Reprocessing: The Server Boom Balances Price Increases Against Chip Shortages"
+    },
+    {
+      "timestamp": "2026-06-19 05:40:56",
+      "message": "[SKIP] Content too short: The Server Boom Balances Price..."
     }
   ]
 }
