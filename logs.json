@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 14:35:49",
+  "last_updated": "2026-06-19 14:35:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 14:35:12",
-      "message": "Found 182 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-19 14:35:12",
       "message": "[PROCESSING] Analyzing: The film about Sam Altman has been dropped by Amazon MGM..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 14:35:49",
       "message": "Reprocessing: The Server Boom Balances Price Increases Against Chip Shortages"
+    },
+    {
+      "timestamp": "2026-06-19 14:35:51",
+      "message": "[SKIP] Content too short: The Server Boom Balances Price..."
     }
   ]
 }
