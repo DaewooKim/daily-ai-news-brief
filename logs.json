@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 16:53:41",
+  "last_updated": "2026-06-19 16:53:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 16:53:10",
-      "message": "[SUCCESS] Processed: \ub799 \ubc00\ub3c4\uac00 \uc544\ub2cc \uc804\ub825\ub9dd\uc774 \ucc28\uc138\ub300 AI \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc815\uc758\ud560 \uac83\uc774\ub2e4\n  > Summary: AI \ud329\ud1a0\ub9ac\uac00 \ub370\uc774\ud130 \uc13c\ud130\ub97c \ube44\uc6a9 \uc911\uc2ec\uc5d0\uc11c \uc218\uc775 \uc0dd\uc131\uae30\ub85c \ubcc0\ud658\ud568\uc5d0 \ub530\ub77c \ucef4\ud4e8\ud305 \uc131\ub2a5\uc744 \ub192\uc774..."
-    },
     {
       "timestamp": "2026-06-19 16:53:11",
       "message": "[PROCESSING] Analyzing: Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 16:53:41",
       "message": "Reprocessing: Dream raises $260M for its sovereign AI and cybersecurity tools"
+    },
+    {
+      "timestamp": "2026-06-19 16:53:43",
+      "message": "[SKIP] Content too short: Dream raises $260M for its sov..."
     }
   ]
 }
