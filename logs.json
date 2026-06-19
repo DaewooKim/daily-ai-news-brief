@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 20:09:00",
+  "last_updated": "2026-06-19 20:09:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 20:08:27",
-      "message": "Found 187 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-19 20:08:27",
       "message": "[PROCESSING] Analyzing: NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 20:09:00",
       "message": "Reprocessing: The Server Boom Balances Price Increases Against Chip Shortages"
+    },
+    {
+      "timestamp": "2026-06-19 20:09:02",
+      "message": "[SKIP] Content too short: The Server Boom Balances Price..."
     }
   ]
 }
