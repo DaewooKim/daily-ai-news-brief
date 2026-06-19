@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 00:08:41",
+  "last_updated": "2026-06-19 00:08:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 00:08:03",
-      "message": "Reprocessing: Predicting model behavior before release by simulating deployment"
-    },
     {
       "timestamp": "2026-06-19 00:08:04",
       "message": "[PROCESSING] Analyzing: Predicting model behavior before release by simulating deployment..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 00:08:41",
       "message": "[PROCESSING] Analyzing: Anthropic becomes first AI startup to join the Frontier carbon removal coalition..."
+    },
+    {
+      "timestamp": "2026-06-19 00:08:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic becomes first AI startup to join the Frontier carbon removal coalition"
     }
   ]
 }
