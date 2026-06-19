@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-19 03:33:03",
-  "status": "idle",
+  "last_updated": "2026-06-19 04:33:34",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-19 03:31:39",
-      "message": "[SKIP] Content too short: AI inference provider Baseten ..."
+      "timestamp": "2026-06-19 04:33:21",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-19 03:31:40",
-      "message": "Reprocessing: What to expect during the \u2018Scaling the Agentic Era\u2019 event: Join theCUBE on June 30"
+      "timestamp": "2026-06-19 04:33:22",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-19 03:31:42",
-      "message": "[SKIP] Content too short: What to expect during the \u2018Sca..."
+      "timestamp": "2026-06-19 04:33:22",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-19 03:31:43",
-      "message": "Reprocessing: Three insights you may have missed from theCUBE\u2019s coverage of FinOps X"
+      "timestamp": "2026-06-19 04:33:34",
+      "message": "Found 178 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-19 03:31:45",
-      "message": "[SKIP] Content too short: Three insights you may have mi..."
-    },
-    {
-      "timestamp": "2026-06-19 03:31:46",
-      "message": "Reprocessing: Crusoe AI puts energy first to power sustainable AI infrastructure at scale"
-    },
-    {
-      "timestamp": "2026-06-19 03:31:48",
-      "message": "[SKIP] Content too short: Crusoe AI puts energy first to..."
-    },
-    {
-      "timestamp": "2026-06-19 03:31:49",
-      "message": "Reprocessing: Everpure shifts from hardware to data-centric model as governance emerges as the key to AI returns"
-    },
-    {
-      "timestamp": "2026-06-19 03:31:51",
-      "message": "[SKIP] Content too short: Everpure shifts from hardware ..."
-    },
-    {
-      "timestamp": "2026-06-19 03:31:52",
-      "message": "Reprocessing: Data context and governance are the missing ingredients keeping enterprise AI from scaling"
-    },
-    {
-      "timestamp": "2026-06-19 03:31:54",
-      "message": "[SKIP] Content too short: Data context and governance ar..."
-    },
-    {
-      "timestamp": "2026-06-19 03:31:55",
-      "message": "Reprocessing: Kubernetes-based virtualization proves its enterprise credentials on critical rail infrastructure"
-    },
-    {
-      "timestamp": "2026-06-19 03:31:57",
-      "message": "[SKIP] Content too short: Kubernetes-based virtualizatio..."
-    },
-    {
-      "timestamp": "2026-06-19 03:31:58",
-      "message": "Reprocessing: Devplan raises $2.5M to build an intelligence coordination layer for product development"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:00",
-      "message": "[SKIP] Content too short: Devplan raises $2.5M to build ..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:01",
-      "message": "Reprocessing: Startup pioneers early-stage ticker reservation model aimed at reviving the public-company mindset"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:03",
-      "message": "[SKIP] Content too short: Startup pioneers early-stage t..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:04",
-      "message": "Reprocessing: Cloudflare blocked 38.5 billion attacks on civil society groups in the past year"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:06",
-      "message": "[SKIP] Content too short: Cloudflare blocked 38.5 billio..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:07",
-      "message": "Reprocessing: BlackFog launches ADX Vision for macOS to curb shadow AI leaks"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:09",
-      "message": "[SKIP] Content too short: BlackFog launches ADX Vision f..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:10",
-      "message": "Reprocessing: Autonomous infrastructure breaks data silos to accelerate enterprise AI"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:12",
-      "message": "[SKIP] Content too short: Autonomous infrastructure brea..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:13",
-      "message": "Reprocessing: Nine themes defining the unified data and AI platform: theCUBE insights from the Databricks Data + AI Summit"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:15",
-      "message": "[SKIP] Content too short: Nine themes defining the unifi..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:16",
-      "message": "Reprocessing: BoolSi raises $6M to compile ordinary code into custom chips"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:18",
-      "message": "[SKIP] Content too short: BoolSi raises $6M to compile o..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:19",
-      "message": "Reprocessing: Architecting for AI: Five things Antonio Neri told the enterprise at HPE Discover"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:21",
-      "message": "[SKIP] Content too short: Architecting for AI: Five thin..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:23",
-      "message": "Reprocessing: Robotic teleoperation data startup XDOF launches with $70M in funding"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:24",
-      "message": "[SKIP] Content too short: Robotic teleoperation data sta..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:25",
-      "message": "Reprocessing: AI ready data is the missing link keeping enterprise AI stuck in pilot mode"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:27",
-      "message": "[SKIP] Content too short: AI ready data is the missing l..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:28",
-      "message": "Reprocessing: Conduct raises $60M to speed up software modernization projects"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:30",
-      "message": "[SKIP] Content too short: Conduct raises $60M to speed u..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:31",
-      "message": "Reprocessing: Convey closes on $38M round to help companies automate repetitive work with AI teammates"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:33",
-      "message": "[SKIP] Content too short: Convey closes on $38M round to..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:34",
-      "message": "Reprocessing: Pramaana Labs raises $27M to make AI prove its answers"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:36",
-      "message": "[SKIP] Content too short: Pramaana Labs raises $27M to m..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:37",
-      "message": "Reprocessing: This is the New Intel E835 NIC Lineup from HPE Discover 2026"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:39",
-      "message": "[PROCESSING] Analyzing: This is the New Intel E835 NIC Lineup from HPE Discover 2026..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:42",
-      "message": "[SUCCESS] Processed: HPE Discover 2026\uc5d0\uc11c \ubc1c\ud45c\ub41c \uc0c8\ub85c\uc6b4 Intel E835 NIC \ub77c\uc778\uc5c5\n  > Summary: HPE Discover 2026\uc5d0\uc11c \uc800\uc804\ub825 \ubc0f \uc800\ube44\uc6a9\uc758 25GbE\uc5d0\uc11c 200GbE \ub124\ud2b8\uc6cc\ud0b9..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:44",
-      "message": "Reprocessing: 81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:45",
-      "message": "[PROCESSING] Analyzing: 81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:49",
-      "message": "[SUCCESS] Processed: HPE Discover 2026\uc5d0\uc11c AMD EPYC Venice\ub85c \ub799\ub2f9 81920 \ucf54\uc5b4\n  > Summary: HPE Discover 2026\uc5d0\uc11c AMD EPYC Venice CPU\ub97c \ud0d1\uc7ac\ud55c HPE C..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:51",
-      "message": "[PROCESSING] Analyzing: What are git worktrees, and why should I use them?..."
-    },
-    {
-      "timestamp": "2026-06-19 03:32:53",
-      "message": "[SKIP] Irrelevant (AI Filter): What are git worktrees, and why should I use them?"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:55",
-      "message": "Completed! New: 1, Updated: 52"
-    },
-    {
-      "timestamp": "2026-06-19 03:32:59",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-19 03:33:02",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-19 04:33:34",
+      "message": "[PROCESSING] Analyzing: Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027..."
     }
   ]
 }
