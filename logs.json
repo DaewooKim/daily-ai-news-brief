@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 12:22:00",
+  "last_updated": "2026-06-19 12:22:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 12:21:25",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-19 12:21:25",
       "message": "[PROCESSING] Analyzing: In season 2 of Sugar, Colin Farrell\u2019s quirky detective becomes much more human..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 12:22:00",
       "message": "Reprocessing: Quantum Pulse Does Industrial Light Magic To Deliver Massive Boost In Qubits"
+    },
+    {
+      "timestamp": "2026-06-19 12:22:01",
+      "message": "[SKIP] Content too short: Quantum Pulse Does Industrial ..."
     }
   ]
 }
