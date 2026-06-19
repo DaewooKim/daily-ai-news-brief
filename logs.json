@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 10:09:53",
+  "last_updated": "2026-06-19 10:09:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 10:09:18",
-      "message": "[PROCESSING] Analyzing: The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t..."
-    },
     {
       "timestamp": "2026-06-19 10:09:20",
       "message": "[SKIP] Irrelevant (AI Filter): The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 10:09:53",
       "message": "[PROCESSING] Analyzing: Space Industry Is Standardizing on RISC-V..."
+    },
+    {
+      "timestamp": "2026-06-19 10:09:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Space Industry Is Standardizing on RISC-V"
     }
   ]
 }
