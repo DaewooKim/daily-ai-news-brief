@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-19 05:40:50",
+  "last_updated": "2026-06-19 05:40:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-19 05:40:00",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-19 05:40:00",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-19 05:40:50",
       "message": "[PROCESSING] Analyzing: The Onion\u2019s rebooted InfoWars is coming July 2nd..."
+    },
+    {
+      "timestamp": "2026-06-19 05:40:53",
+      "message": "[SKIP] Irrelevant (AI Filter): The Onion\u2019s rebooted InfoWars is coming July 2nd"
     }
   ]
 }
