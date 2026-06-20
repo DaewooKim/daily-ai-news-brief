@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-20 10:30:59",
+  "last_updated": "2026-06-20 10:31:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-20 10:30:03",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-06-20 10:30:03",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-20 10:30:30",
       "message": "Found 187 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-20 10:30:59",
       "message": "[PROCESSING] Analyzing: Kaleidescape\u2019s movie player blows streaming, and your wallet, away..."
+    },
+    {
+      "timestamp": "2026-06-20 10:31:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Kaleidescape\u2019s movie player blows streaming, and your wallet, away"
+    },
+    {
+      "timestamp": "2026-06-20 10:31:03",
+      "message": "Reprocessing: Everpure\u2019s AI Strategy Is Almost Purely Based On Nvidia"
     }
   ]
 }
