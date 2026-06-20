@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-20 09:27:49",
+  "last_updated": "2026-06-20 09:27:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-20 09:27:13",
-      "message": "Reprocessing: SK hynix Ships Samples of 12-Layer Next-Gen \u2018HBM4E\u2019"
-    },
-    {
-      "timestamp": "2026-06-20 09:27:14",
-      "message": "[PROCESSING] Analyzing: SK hynix Ships Samples of 12-Layer Next-Gen \u2018HBM4E\u2019..."
-    },
     {
       "timestamp": "2026-06-20 09:27:18",
       "message": "[SUCCESS] Processed: SK hynix, \ucc28\uc138\ub300 'HBM4E' 12\uce35 \uc0d8\ud50c \ubc30\uc1a1\n  > Summary: SK hynix\ub294 AI\ub97c \uc704\ud55c \ucc28\uc138\ub300 DRAM\uc778 HBM4E\uc758 12\uce35 \uc0d8\ud50c\uc744 \uc8fc\uc694 \uace0\uac1d\uc5d0\uac8c ..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-20 09:27:49",
       "message": "[PROCESSING] Analyzing: Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify..."
+    },
+    {
+      "timestamp": "2026-06-20 09:27:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify"
+    },
+    {
+      "timestamp": "2026-06-20 09:27:52",
+      "message": "Reprocessing: CEA-Leti Scales Ferroelectric RAM to 22nm Node, Unlocking Denser, More Efficient Memory for Edge AI"
     }
   ]
 }
