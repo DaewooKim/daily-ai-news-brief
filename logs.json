@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-20 13:49:06",
+  "last_updated": "2026-06-20 13:49:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-20 13:48:33",
-      "message": "Found 184 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-06-20 13:48:33",
-      "message": "[PROCESSING] Analyzing: Toy Story has the right take on tech..."
-    },
-    {
-      "timestamp": "2026-06-20 13:48:36",
-      "message": "[SKIP] Irrelevant (AI Filter): Toy Story has the right take on tech"
-    },
     {
       "timestamp": "2026-06-20 13:48:37",
       "message": "[PROCESSING] Analyzing: SwitchBot\u2019s Standing Circulator Fan is worth fighting for..."
@@ -81,6 +69,18 @@
     {
       "timestamp": "2026-06-20 13:49:06",
       "message": "Reprocessing: Everpure\u2019s AI Strategy Is Almost Purely Based On Nvidia"
+    },
+    {
+      "timestamp": "2026-06-20 13:49:08",
+      "message": "[SKIP] Content too short: Everpure\u2019s AI Strategy Is Almo..."
+    },
+    {
+      "timestamp": "2026-06-20 13:49:09",
+      "message": "Reprocessing: The Server Boom Balances Price Increases Against Chip Shortages"
+    },
+    {
+      "timestamp": "2026-06-20 13:49:10",
+      "message": "[SKIP] Content too short: The Server Boom Balances Price..."
     }
   ]
 }
