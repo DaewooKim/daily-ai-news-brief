@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-21 22:34:27",
+  "last_updated": "2026-06-21 22:34:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-21 22:34:01",
-      "message": "Reprocessing: Data context and governance are the missing ingredients keeping enterprise AI from scaling"
-    },
-    {
-      "timestamp": "2026-06-21 22:34:03",
-      "message": "[SKIP] Content too short: Data context and governance ar..."
-    },
-    {
-      "timestamp": "2026-06-21 22:34:04",
-      "message": "Reprocessing: Kubernetes-based virtualization proves its enterprise credentials on critical rail infrastructure"
-    },
     {
       "timestamp": "2026-06-21 22:34:05",
       "message": "[SKIP] Content too short: Kubernetes-based virtualizatio..."
@@ -81,6 +69,18 @@
     {
       "timestamp": "2026-06-21 22:34:27",
       "message": "Reprocessing: 81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026"
+    },
+    {
+      "timestamp": "2026-06-21 22:34:29",
+      "message": "[PROCESSING] Analyzing: 81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026..."
+    },
+    {
+      "timestamp": "2026-06-21 22:34:32",
+      "message": "[SUCCESS] Processed: HPE Discover 2026\uc5d0\uc11c AMD EPYC Venice\ub85c \ub799\ub2f9 81920 \ucf54\uc5b4\n  > Summary: HPE Discover 2026\uc5d0\uc11c AMD EPYC Venice CPU\ub97c \ud1b5\ud574 \uc561\uccb4 \ub0c9\uac01\uc774..."
+    },
+    {
+      "timestamp": "2026-06-21 22:34:33",
+      "message": "Completed! New: 0, Updated: 42"
     }
   ]
 }
