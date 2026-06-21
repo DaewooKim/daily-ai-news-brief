@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-21 19:17:51",
+  "last_updated": "2026-06-21 19:17:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-21 19:17:20",
-      "message": "[SUCCESS] Processed: HPE\uac00 Discover 2026\uc5d0\uc11c AI\uc758 \uc911\uc2ec\uc5d0 \ub124\ud2b8\uc6cc\ud0b9\uc744 \ub193\ub2e4\n  > Summary: HPE\uc758 CEO \uc548\ud1a0\ub2c8\uc624 \ub124\ub9ac(Antonio Neri)\ub294 \ud68c\uc0ac\uc758 '\uc5d0\uc774\uc804\ud2f1 \uae30\uc5c5' \ube44\uc804\uc744 ..."
-    },
     {
       "timestamp": "2026-06-21 19:17:21",
       "message": "[PROCESSING] Analyzing: SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M (Caroline Petrow-Cohen/Los Angeles Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-21 19:17:51",
       "message": "[PROCESSING] Analyzing: Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France (Angela Cullen/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-21 19:17:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France (Angela Cullen/Bloomberg)"
     }
   ]
 }
