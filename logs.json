@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-21 08:25:32",
+  "last_updated": "2026-06-21 08:25:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-21 08:25:00",
-      "message": "[SUCCESS] Processed: \uc65c \uac80\uc99d\uc774 HPC\uc640 AI\uc758 \ubbf8\ub798\ub97c \uc815\uc758\ud560 \uac83\uc778\uac00\n  > Summary: AI\uac00 \uace0\uc131\ub2a5 \ucef4\ud4e8\ud305(HPC) \uc6cc\ud06c\ud50c\ub85c\uc5d0 \ud1b5\ud569\ub428\uc5d0 \ub530\ub77c, \uac80\uc99d, \ub370\uc774\ud130 \ud488\uc9c8 \ubc0f \uc2e0\ub8b0\uc131\uc774 ..."
-    },
-    {
-      "timestamp": "2026-06-21 08:25:01",
-      "message": "Reprocessing: HPE Puts Networking at the Center of AI at Discover 2026"
-    },
     {
       "timestamp": "2026-06-21 08:25:03",
       "message": "[PROCESSING] Analyzing: HPE Puts Networking at the Center of AI at Discover 2026..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-21 08:25:32",
       "message": "[PROCESSING] Analyzing: Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-06-21 08:25:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms (Financial Times)"
+    },
+    {
+      "timestamp": "2026-06-21 08:25:35",
+      "message": "[PROCESSING] Analyzing: Paris-based Kyber, which develops a low-latency remote device control SDK and is founded by VLC lead developer Jean-Baptiste Kempf, raised $5M led by Lightspeed (Anna Heim/TechCrunch)..."
     }
   ]
 }
