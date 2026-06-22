@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-22 17:41:03",
+  "last_updated": "2026-06-22 17:41:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 17:40:13",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-06-22 17:40:25",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-22 17:40:25",
       "message": "[PROCESSING] Analyzing: Google invests in A24 to build AI movie tools..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-22 17:41:03",
       "message": "[SUCCESS] Processed: AMD, \uad6c\ud615 \uadf8\ub798\ud53d \uce74\ub4dc\uc6a9 FSR 4.1 \uc5c5\uc2a4\ucf00\uc77c\ub9c1 \ucd9c\uc2dc\n  > Summary: AMD\ub294 \uc624\ub298 Radeon RX 7000 \uc2dc\ub9ac\uc988 GPU\ub97c \uc704\ud55c FSR Upscaling 4..."
+    },
+    {
+      "timestamp": "2026-06-22 17:41:05",
+      "message": "[PROCESSING] Analyzing: The Nintendo Switch 2 is up to $50 off for Prime Day..."
+    },
+    {
+      "timestamp": "2026-06-22 17:41:07",
+      "message": "[SKIP] Irrelevant (AI Filter): The Nintendo Switch 2 is up to $50 off for Prime Day"
     }
   ]
 }
