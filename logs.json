@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-22 22:06:08",
+  "last_updated": "2026-06-22 22:06:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 22:05:23",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-06-22 22:05:23",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-06-22 22:05:34",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-22 22:05:34",
       "message": "[PROCESSING] Analyzing: Valve describes just how brutal RAM negotiations are in 2026..."
@@ -81,6 +69,18 @@
     {
       "timestamp": "2026-06-22 22:06:08",
       "message": "[PROCESSING] Analyzing: Valve prices the Steam Machine at $1,049..."
+    },
+    {
+      "timestamp": "2026-06-22 22:06:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Valve prices the Steam Machine at $1,049"
+    },
+    {
+      "timestamp": "2026-06-22 22:06:11",
+      "message": "Reprocessing: HPE Rides The Agentic AI Wave Back Into The Datacenter"
+    },
+    {
+      "timestamp": "2026-06-22 22:06:12",
+      "message": "[SKIP] Content too short: HPE Rides The Agentic AI Wave ..."
     }
   ]
 }
