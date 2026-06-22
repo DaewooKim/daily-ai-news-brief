@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-22 00:42:36",
+  "last_updated": "2026-06-22 00:42:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 00:42:05",
-      "message": "[SUCCESS] Processed: \uac80\uc99d\uc774 HPC\uc640 AI\uc758 \ubbf8\ub798\ub97c \uc815\uc758\ud560 \uc774\uc720\n  > Summary: AI\uac00 HPC(\uace0\uc131\ub2a5 \ucef4\ud4e8\ud305) \uc6cc\ud06c\ud50c\ub85c\uc5d0 \ud1b5\ud569\ub428\uc5d0 \ub530\ub77c, \uac80\uc99d, \ub370\uc774\ud130 \ud488\uc9c8, \uc2e0\ub8b0\uac00 \uae30\uc220..."
-    },
     {
       "timestamp": "2026-06-22 00:42:06",
       "message": "[PROCESSING] Analyzing: Toto, Japan's largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&D for next-gen 1nm chip production (Nikkei Asia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-22 00:42:36",
       "message": "[PROCESSING] Analyzing: A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data..."
+    },
+    {
+      "timestamp": "2026-06-22 00:42:38",
+      "message": "[SKIP] Irrelevant (AI Filter): A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data"
     }
   ]
 }
