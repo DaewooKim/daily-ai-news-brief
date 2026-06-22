@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-22 11:06:18",
+  "last_updated": "2026-06-22 11:06:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 11:05:37",
-      "message": "Starting automatic background collection..."
-    },
-    {
-      "timestamp": "2026-06-22 11:05:38",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-22 11:05:38",
       "message": "Fetching RSS feeds..."
@@ -77,6 +69,18 @@
     {
       "timestamp": "2026-06-22 11:06:18",
       "message": "[PROCESSING] Analyzing: Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG..."
+    },
+    {
+      "timestamp": "2026-06-22 11:06:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG"
+    },
+    {
+      "timestamp": "2026-06-22 11:06:22",
+      "message": "Reprocessing: Everpure\u2019s AI Strategy Is Almost Purely Based On Nvidia"
+    },
+    {
+      "timestamp": "2026-06-22 11:06:23",
+      "message": "[SKIP] Content too short: Everpure\u2019s AI Strategy Is Almo..."
     }
   ]
 }
