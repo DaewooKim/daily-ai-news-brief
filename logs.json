@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-22 18:46:46",
+  "last_updated": "2026-06-22 18:46:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 18:46:03",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-06-22 18:46:03",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-06-22 18:46:15",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-22 18:46:15",
       "message": "[PROCESSING] Analyzing: The Apple Watch SE 3 is just $199 for Prime Day..."
@@ -81,6 +69,18 @@
     {
       "timestamp": "2026-06-22 18:46:46",
       "message": "[PROCESSING] Analyzing: RingConn&#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum..."
+    },
+    {
+      "timestamp": "2026-06-22 18:46:48",
+      "message": "[SKIP] Irrelevant (AI Filter): RingConn&#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum"
+    },
+    {
+      "timestamp": "2026-06-22 18:46:49",
+      "message": "Reprocessing: HPE Rides The Agentic AI Wave Back Into The Datacenter"
+    },
+    {
+      "timestamp": "2026-06-22 18:46:50",
+      "message": "[SKIP] Content too short: HPE Rides The Agentic AI Wave ..."
     }
   ]
 }
