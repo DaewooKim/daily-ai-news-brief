@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-22 05:00:56",
+  "last_updated": "2026-06-22 05:00:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 05:00:23",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-06-22 05:00:23",
-      "message": "[PROCESSING] Analyzing: Bose thinks it can be a media company for some reason..."
-    },
     {
       "timestamp": "2026-06-22 05:00:26",
       "message": "[SKIP] Irrelevant (AI Filter): Bose thinks it can be a media company for some reason"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-22 05:00:56",
       "message": "Reprocessing: The Server Boom Balances Price Increases Against Chip Shortages"
+    },
+    {
+      "timestamp": "2026-06-22 05:00:58",
+      "message": "[SKIP] Content too short: The Server Boom Balances Price..."
+    },
+    {
+      "timestamp": "2026-06-22 05:00:59",
+      "message": "Reprocessing: HPE\u2019s Datacenter Networking Picture Comes Into Clearer Focus"
     }
   ]
 }
