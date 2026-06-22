@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-22 14:24:09",
+  "last_updated": "2026-06-22 14:24:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 14:23:30",
-      "message": "[SUCCESS] Processed: ChatGPT\uc758 \uac74\uac15 \uc9c0\ub2a5 \ud5a5\uc0c1\n  > Summary: GPT-5.5 Instant\uac00 ChatGPT\uc758 \uac74\uac15 \ubc0f \uc6f0\ub2c8\uc2a4 \uc751\ub2f5\uc744 \uc5b4\ub5bb\uac8c \ud5a5\uc0c1\uc2dc\ud0a4\ub294\uc9c0 ..."
-    },
     {
       "timestamp": "2026-06-22 14:23:32",
       "message": "[PROCESSING] Analyzing: The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-22 14:24:09",
       "message": "[PROCESSING] Analyzing: Battery Storage Moves Closer to Data Centers, but Challenges Persist..."
+    },
+    {
+      "timestamp": "2026-06-22 14:24:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Battery Storage Moves Closer to Data Centers, but Challenges Persist"
     }
   ]
 }
