@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-22 19:55:08",
+  "last_updated": "2026-06-22 19:55:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 19:54:32",
-      "message": "[PROCESSING] Analyzing: Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range (Echo Wang/Reuters)..."
-    },
-    {
-      "timestamp": "2026-06-22 19:54:34",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range (Echo Wang/Reuters)"
-    },
     {
       "timestamp": "2026-06-22 19:54:35",
       "message": "[PROCESSING] Analyzing: Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration (Sean Hollister/The Verge)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-22 19:55:08",
       "message": "[SKIP] Irrelevant (AI Filter): Crypto trading app Fomo raised a $75M Series B led by Index at a $550M valuation, taking its total funding to ~$94M, and claims to add 3,500 new users per day (Ben Weiss/Fortune)"
+    },
+    {
+      "timestamp": "2026-06-22 19:55:09",
+      "message": "Reprocessing: Nvidia unveils Halos, a safety-focused OS developed from autonomous vehicle tech and designed to run on IGX Thor hardware for humanoid robots, and opens a lab (Ian King/Bloomberg)"
+    },
+    {
+      "timestamp": "2026-06-22 19:55:10",
+      "message": "[PROCESSING] Analyzing: Nvidia unveils Halos, a safety-focused OS developed from autonomous vehicle tech and designed to run on IGX Thor hardware for humanoid robots, and opens a lab (Ian King/Bloomberg)..."
     }
   ]
 }
