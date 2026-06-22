@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-22 10:01:11",
+  "last_updated": "2026-06-22 10:01:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 10:00:34",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-22 10:00:34",
       "message": "[PROCESSING] Analyzing: Bose thinks it can be a media company for some reason..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-22 10:01:11",
       "message": "Reprocessing: The Server Boom Balances Price Increases Against Chip Shortages"
+    },
+    {
+      "timestamp": "2026-06-22 10:01:13",
+      "message": "[SKIP] Content too short: The Server Boom Balances Price..."
     }
   ]
 }
