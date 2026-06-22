@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-22 18:47:06",
+  "last_updated": "2026-06-22 18:47:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 18:46:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Valve explains why it isn&#8217;t subsidizing the Steam Machine"
-    },
-    {
-      "timestamp": "2026-06-22 18:46:39",
-      "message": "[PROCESSING] Analyzing: Valve prices the Steam Machine at $1,049..."
-    },
     {
       "timestamp": "2026-06-22 18:46:41",
       "message": "[SKIP] Irrelevant (AI Filter): Valve prices the Steam Machine at $1,049"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-22 18:47:06",
       "message": "Reprocessing: CCCL Runtime: A Modern C++ Runtime for CUDA"
+    },
+    {
+      "timestamp": "2026-06-22 18:47:08",
+      "message": "[PROCESSING] Analyzing: CCCL Runtime: A Modern C++ Runtime for CUDA..."
+    },
+    {
+      "timestamp": "2026-06-22 18:47:11",
+      "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ud604\ub300 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA CUDA Core Compute Libraries (CCCL)\ub294 C++\uc640 Py..."
     }
   ]
 }
