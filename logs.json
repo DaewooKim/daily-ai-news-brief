@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-22 16:35:31",
+  "last_updated": "2026-06-22 16:35:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 16:34:54",
-      "message": "Found 145 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-22 16:34:54",
       "message": "[PROCESSING] Analyzing: The Nintendo Switch 2 is up to $50 off for Prime Day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-22 16:35:31",
       "message": "[PROCESSING] Analyzing: Polymarket reportedly paid people to post fake videos of themselves placing bets..."
+    },
+    {
+      "timestamp": "2026-06-22 16:35:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Polymarket reportedly paid people to post fake videos of themselves placing bets"
     }
   ]
 }
