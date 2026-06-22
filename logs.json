@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-22 10:03:04",
+  "last_updated": "2026-06-22 10:03:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 10:02:24",
-      "message": "[SUCCESS] Processed: \ubca0\uc778, AI \ucf54\ub529 \ub3c4\uad6c\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc801arget \uae30\uc5c5\uc758 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc77c\ubd80\ub97c \uc7ac\ucc3d\uc870\ud558\uace0, \ucd5c\uadfc \uba87 \ub144\uac04 \uc218\ubc31 \uac1c\uc758 \ub300\ucda9 \ud504\ub85c\ud1a0\ud0c0\uc785\uc744 \ub9cc\ub4dc\ub294 \uc911\uc774\ub77c\uace0 \ubc1d\ud600\n  > Summary: \ubca0\uc778\uc774 AI \ucf54\ub529 \ub3c4\uad6c\ub97c \ud65c\uc6a9\ud558\uc5ec \ubaa9\ud45c \uae30\uc5c5\uc758 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uc7ac\uad6c\uc131\ud558\uace0 \uc788\uc73c\uba70, \uba87 \ub144 \ub3d9\uc548..."
-    },
     {
       "timestamp": "2026-06-22 10:02:26",
       "message": "[PROCESSING] Analyzing: S&P and IBM: 22% of global cyberattacks in 2024 hit Japan, the most targeted country, as it scrambles to improve its substandard systems against AI threats (Catherine Thorbecke/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-22 10:03:04",
       "message": "[PROCESSING] Analyzing: Agile Analog Collaborates with Xiphera for Post-Quantum Cryptography Challenge..."
+    },
+    {
+      "timestamp": "2026-06-22 10:03:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Agile Analog Collaborates with Xiphera for Post-Quantum Cryptography Challenge"
     }
   ]
 }
