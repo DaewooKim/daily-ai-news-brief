@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-22 23:15:12",
+  "last_updated": "2026-06-22 23:15:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 23:14:34",
-      "message": "[PROCESSING] Analyzing: Advancements In Atomic-Scale Plasma Processing..."
-    },
-    {
-      "timestamp": "2026-06-22 23:14:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Advancements In Atomic-Scale Plasma Processing"
-    },
     {
       "timestamp": "2026-06-22 23:14:38",
       "message": "[PROCESSING] Analyzing: Atom Probe Framework Tracks Phase Instability In Si-Doped Gallium Oxide (SUNY, Ohio State, LLNL)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-22 23:15:12",
       "message": "Reprocessing: AI hit the memory wall \u2014 now it needs a new context tier"
+    },
+    {
+      "timestamp": "2026-06-22 23:15:13",
+      "message": "[PROCESSING] Analyzing: AI hit the memory wall \u2014 now it needs a new context tier..."
+    },
+    {
+      "timestamp": "2026-06-22 23:15:17",
+      "message": "[SUCCESS] Processed: AI\uac00 \uba54\ubaa8\ub9ac \uc7a5\ubcbd\uc5d0 \ubd80\ub52a\ud614\ub2e4 \u2014 \uc774\uc81c \uc0c8\ub85c\uc6b4 \ucee8\ud14d\uc2a4\ud2b8 \uacc4\uce35\uc774 \ud544\uc694\ud558\ub2e4\n  > Summary: AI \uc2dc\uc2a4\ud15c\uc758 \ucd94\ub860 \uc791\uc5c5\uc774 \ubc1c\uc804\ud568\uc5d0 \ub530\ub77c GPU\uc758 \uac00\uc6a9\uc131\uc774 \ub354 \uc774\uc0c1 \uc8fc\uc694 \ubcd1\ubaa9 \ud604\uc0c1\uc774 \uc544\ub2d9..."
     }
   ]
 }
