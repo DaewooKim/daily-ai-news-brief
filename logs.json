@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-22 15:29:25",
+  "last_updated": "2026-06-22 15:29:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-22 15:28:47",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-22 15:28:47",
       "message": "[PROCESSING] Analyzing: Apple\u2019s latest AirTags are cheaper than ever for Prime Day..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-22 15:29:25",
       "message": "Reprocessing: HPE Rides The Agentic AI Wave Back Into The Datacenter"
+    },
+    {
+      "timestamp": "2026-06-22 15:29:27",
+      "message": "[SKIP] Content too short: HPE Rides The Agentic AI Wave ..."
     }
   ]
 }
