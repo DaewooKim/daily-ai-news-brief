@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 22:04:52",
+  "last_updated": "2026-06-23 22:04:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 22:04:04",
-      "message": "[PROCESSING] Analyzing: Hollywood is bending the knee to OpenAI..."
-    },
     {
       "timestamp": "2026-06-23 22:04:10",
       "message": "[SUCCESS] Processed: \ud560\ub9ac\uc6b0\ub4dc\ub294 OpenAI\uc5d0 \ubb34\ub98e\uc744 \uafc7\uace0 \uc788\ub2e4\n  > Summary: \ub137\ud50c\ub9ad\uc2a4, A24, \ud3ec\ucee4\uc2a4 \ud53c\ucc98\uc2a4, \uc6cc\ub108 \ube0c\ub77c\ub354\uc2a4\uc758 Clockwork\uac00 OpenAI \uacf5\ub3d9 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 22:04:52",
       "message": "[SKIP] Irrelevant (AI Filter): The Lenovo Legion Go S gaming handheld is $549 for Prime Day"
+    },
+    {
+      "timestamp": "2026-06-23 22:04:54",
+      "message": "[SKIP] Content too short: AMD And Nvidia Are Neck In HPC..."
     }
   ]
 }
