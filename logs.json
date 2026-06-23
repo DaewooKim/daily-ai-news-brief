@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 00:20:28",
+  "last_updated": "2026-06-23 00:20:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 00:19:44",
-      "message": "[SUCCESS] Processed: AI \uce69 \uc81c\uc870\uc5c5\uccb4 Groq, 6\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec \uc790\uae08 \uc870\ub2ec \ud655\uc778 \ubc0f Nvidia\uc758 200\uc5b5 \ub2ec\ub7ec \ube44\uc778\uc218 \uace0\uc6a9 \uac70\ub798 \uc774\ud6c4 \uc778\ub825 \uc7ac\ud3b8\n  > Summary: AI \uce69 \uc81c\uc870\uc5c5\uccb4\uc778 Groq\uac00 6\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \uc790\uae08 \uc870\ub2ec\ud558\uba70, Nvidia\uc758 200\uc5b5 ..."
-    },
     {
       "timestamp": "2026-06-23 00:19:45",
       "message": "[PROCESSING] Analyzing: Nvidia wants to cut data center water use, but that\u2019s not the same as fixing AI\u2019s water problem..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 00:20:28",
       "message": "[PROCESSING] Analyzing: Nobel laureate John Jumper is leaving DeepMind for rival Anthropic..."
+    },
+    {
+      "timestamp": "2026-06-23 00:20:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Nobel laureate John Jumper is leaving DeepMind for rival Anthropic"
     }
   ]
 }
