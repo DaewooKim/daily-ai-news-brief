@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 00:26:28",
+  "last_updated": "2026-06-23 00:26:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 00:25:40",
-      "message": "[PROCESSING] Analyzing: AI hit the memory wall \u2014 now it needs a new context tier..."
-    },
     {
       "timestamp": "2026-06-23 00:25:44",
       "message": "[SUCCESS] Processed: AI \uba54\ubaa8\ub9ac \ubcbd\uc5d0 \ubd80\ub52a\ud788\ub2e4 - \uc774\uc81c \uc0c8\ub85c\uc6b4 \ucee8\ud14d\uc2a4\ud2b8 \uacc4\uce35\uc774 \ud544\uc694\ud558\ub2e4\n  > Summary: AI\uc758 \ucd94\ub860 \uc791\uc5c5\uc774 \ub2e8\uc21c\ud55c Q&A\ub97c \ub118\uc5b4\uc11c \uba40\ud2f0 \uc2a4\ud15d \uc2dc\uc2a4\ud15c\uc73c\ub85c \ubc1c\uc804\ud558\uba74\uc11c, GPU\uc758 \uac00\uc6a9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 00:26:28",
       "message": "[SKIP] Content too short: AI networking provider Upscale..."
+    },
+    {
+      "timestamp": "2026-06-23 00:26:30",
+      "message": "[SKIP] Content too short: OpenAI expands Daybreak with P..."
     }
   ]
 }
