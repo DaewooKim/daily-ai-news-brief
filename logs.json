@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 22:04:50",
+  "last_updated": "2026-06-23 22:04:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 22:04:04",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-23 22:04:04",
       "message": "[PROCESSING] Analyzing: Hollywood is bending the knee to OpenAI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 22:04:50",
       "message": "[PROCESSING] Analyzing: The Lenovo Legion Go S gaming handheld is $549 for Prime Day..."
+    },
+    {
+      "timestamp": "2026-06-23 22:04:52",
+      "message": "[SKIP] Irrelevant (AI Filter): The Lenovo Legion Go S gaming handheld is $549 for Prime Day"
     }
   ]
 }
