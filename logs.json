@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 00:18:27",
+  "last_updated": "2026-06-23 00:18:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 00:17:48",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-23 00:17:48",
       "message": "[PROCESSING] Analyzing: Nvidia says its AI data center design runs hotter to use a lot less water..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 00:18:27",
       "message": "[PROCESSING] Analyzing: Valve explains why it isn&#8217;t subsidizing the Steam Machine..."
+    },
+    {
+      "timestamp": "2026-06-23 00:18:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Valve explains why it isn&#8217;t subsidizing the Steam Machine"
     }
   ]
 }
