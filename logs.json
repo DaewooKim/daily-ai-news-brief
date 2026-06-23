@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 08:11:58",
+  "last_updated": "2026-06-23 08:12:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 08:11:10",
-      "message": "[PROCESSING] Analyzing: OpenAI launches new initiative to help find and patch open source bugs..."
-    },
     {
       "timestamp": "2026-06-23 08:11:14",
       "message": "[SUCCESS] Processed: OpenAI, \uc624\ud508 \uc18c\uc2a4 \ubc84\uadf8\ub97c \ucc3e\uc544 \uc218\uc815\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc774\ub2c8\uc154\ud2f0\ube0c \ub7f0\uce6d\n  > Summary: OpenAI\ub294 \uc624\ud508 \uc18c\uc2a4 \ucee4\ubba4\ub2c8\ud2f0\uac00 \uc2a4\uc2a4\ub85c\ub97c \ub354 \uc798 \ubcf4\ud638\ud560 \uc218 \uc788\ub3c4\ub85d AI\ub97c \ud65c\uc6a9\ud558\uace0 \uc788\uc2b5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 08:11:58",
       "message": "[PROCESSING] Analyzing: The US says ASML\u2019s top chip tool may be in China, but how?..."
+    },
+    {
+      "timestamp": "2026-06-23 08:12:00",
+      "message": "[SKIP] Irrelevant (AI Filter): The US says ASML\u2019s top chip tool may be in China, but how?"
     }
   ]
 }
