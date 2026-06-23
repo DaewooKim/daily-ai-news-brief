@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 07:03:41",
+  "last_updated": "2026-06-23 07:03:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 07:03:05",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-23 07:03:05",
       "message": "[PROCESSING] Analyzing: Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 07:03:41",
       "message": "[PROCESSING] Analyzing: Accelerate your innovation..."
+    },
+    {
+      "timestamp": "2026-06-23 07:03:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerate your innovation"
     }
   ]
 }
