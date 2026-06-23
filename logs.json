@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 01:30:18",
+  "last_updated": "2026-06-23 01:30:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 01:29:36",
-      "message": "Reprocessing: New usage analytics and updated spend controls for enterprises"
-    },
     {
       "timestamp": "2026-06-23 01:29:38",
       "message": "[PROCESSING] Analyzing: New usage analytics and updated spend controls for enterprises..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 01:30:18",
       "message": "[PROCESSING] Analyzing: The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26..."
+    },
+    {
+      "timestamp": "2026-06-23 01:30:21",
+      "message": "[SKIP] Irrelevant (AI Filter): The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26"
     }
   ]
 }
