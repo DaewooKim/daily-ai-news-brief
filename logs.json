@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-23 00:20:24",
+  "last_updated": "2026-06-23 00:20:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-23 00:19:39",
-      "message": "[SUCCESS] Processed: AI \uc138\uacc4\uac00 \u2018\ub8e8\ud504\u2019\uc5d0 \ube60\uc9c0\uace0 \uc788\ub2e4\n  > Summary: \uc774 \ub8e8\ud504\ub294 \ub300\ub9ac AI\ub97c \ud55c \ub2e8\uacc4 \ub354 \ubc1c\uc804\uc2dc\ucf1c, \ub04a\uc784\uc5c6\uc774 \ubc30\uacbd\uc5d0\uc11c \uc77c\ud558\ub294 \uc5d0\uc774\uc804\ud2b8\uc758 \uc9d1\ub2e8\uc744 ..."
-    },
     {
       "timestamp": "2026-06-23 00:19:40",
       "message": "[PROCESSING] Analyzing: AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-23 00:20:24",
       "message": "[PROCESSING] Analyzing: In the Weights is your new AI-centric vanity search..."
+    },
+    {
+      "timestamp": "2026-06-23 00:20:26",
+      "message": "[SKIP] Irrelevant (AI Filter): In the Weights is your new AI-centric vanity search"
     }
   ]
 }
