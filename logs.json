@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 14:23:27",
+  "last_updated": "2026-06-24 14:23:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 14:22:43",
-      "message": "[SKIP] Irrelevant (AI Filter): The Dyson PencilWash is down to its lowest price ever for Prime Day"
-    },
     {
       "timestamp": "2026-06-24 14:22:45",
       "message": "[PROCESSING] Analyzing: Our favorite Prime Day deals you can shop on day two..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 14:23:27",
       "message": "[SUCCESS] Processed: CCCL \uc2e4\ud589 \uc2dc\uac04: CUDA\ub97c \uc704\ud55c \ud604\ub300 C++ \uc2e4\ud589 \uc2dc\uac04\n  > Summary: NVIDIA CUDA Core Compute Libraries(CCCL)\ub294 CUDA \uac1c\ubc1c\uc790..."
+    },
+    {
+      "timestamp": "2026-06-24 14:23:28",
+      "message": "Reprocessing: OpenAI and Broadcom unveil LLM-optimized inference chip"
     }
   ]
 }
