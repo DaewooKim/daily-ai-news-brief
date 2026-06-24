@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 21:09:43",
+  "last_updated": "2026-06-24 21:09:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 21:08:52",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-24 21:08:52",
       "message": "[PROCESSING] Analyzing: A new paper argues Microsoft exaggerated its quantum claims a year ago..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 21:09:43",
       "message": "Reprocessing: AMD And Nvidia Are Neck In HPC Supercomputing"
+    },
+    {
+      "timestamp": "2026-06-24 21:09:45",
+      "message": "[SKIP] Content too short: AMD And Nvidia Are Neck In HPC..."
     }
   ]
 }
