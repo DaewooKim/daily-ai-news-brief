@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 14:22:45",
+  "last_updated": "2026-06-24 14:22:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 14:22:02",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-24 14:22:02",
       "message": "[PROCESSING] Analyzing: Philips Hue\u2019s smart lights are getting a connectivity upgrade..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 14:22:45",
       "message": "[PROCESSING] Analyzing: Our favorite Prime Day deals you can shop on day two..."
+    },
+    {
+      "timestamp": "2026-06-24 14:22:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Our favorite Prime Day deals you can shop on day two"
     }
   ]
 }
