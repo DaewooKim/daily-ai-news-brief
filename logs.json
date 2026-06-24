@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 17:51:06",
+  "last_updated": "2026-06-24 17:51:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 17:50:23",
-      "message": "[SUCCESS] Processed: OpenAI\uc640 \ube0c\ub85c\ub4dc\ucef4, LLM \ucd5c\uc801\ud654\ub41c \ucd94\ub860 \uce69 '\ud560\ub77c\ud398\ub1e8' \uacf5\uac1c\n  > Summary: OpenAI\uc640 \ube0c\ub85c\ub4dc\ucef4\uc774 LLM \ucd5c\uc801\ud654\ub41c \ucd94\ub860 \uce69\uc778 '\ud560\ub77c\ud398\ub1e8'\ub97c \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uce69\uc740 ..."
-    },
     {
       "timestamp": "2026-06-24 17:50:25",
       "message": "[PROCESSING] Analyzing: Google Home Speaker review: the $100 speaker, the company's first such device in six years, works for Gemini power users but has underwhelming music playback (Chris Welch/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 17:51:06",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer..."
+    },
+    {
+      "timestamp": "2026-06-24 17:51:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer"
     }
   ]
 }
