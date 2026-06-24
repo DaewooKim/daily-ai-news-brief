@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 23:25:05",
+  "last_updated": "2026-06-24 23:25:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 23:24:27",
-      "message": "[SUCCESS] Processed: AI\uac00 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \uc77c\uc790\ub9ac\ub97c \uc5c6\uc568 \uac83\uc774\ub77c\uace0 \uc608\uc0c1\ud588\uc73c\ub098, \uc0c8\ub85c\uc6b4 \ub370\uc774\ud130\ub294 \uc774\ub4e4\uc774 \uac00\uc7a5 \ud68c\ubcf5\ub825 \uc788\ub294 \uc9c1\uc885\uc784\uc744 \uc2dc\uc0ac\ud55c\ub2e4.\n  > Summary: AI\uac00 \uc77c\uc790\ub9ac\ub97c \uc704\ud611\ud55c\ub2e4\ub294 \uc18c\ubb38\uacfc \ub2ec\ub9ac, \ucd5c\uadfc SignalFire \ub370\uc774\ud130\uc5d0 \ub530\ub974\uba74 \uc5d4\uc9c0\ub2c8\uc5b4..."
-    },
     {
       "timestamp": "2026-06-24 23:24:29",
       "message": "[PROCESSING] Analyzing: The memory chip crunch is paying off for this US company..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 23:25:05",
       "message": "[PROCESSING] Analyzing: Silicon Saxony Shows Promise, Limits of Europe\u2019s Chips Act..."
+    },
+    {
+      "timestamp": "2026-06-24 23:25:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Silicon Saxony Shows Promise, Limits of Europe\u2019s Chips Act"
     }
   ]
 }
