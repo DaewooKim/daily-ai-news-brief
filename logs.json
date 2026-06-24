@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 02:37:10",
+  "last_updated": "2026-06-24 02:37:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 02:36:29",
-      "message": "[SUCCESS] Processed: \uc624\ub354\ud480, \uacf5\uae09\ub9dd \ub370\uc774\ud130 \uad00\ub9ac\ub97c \uc790\ub3d9\ud654\ud558\ub294 AI \uae30\ubc18 \ub3c4\uad6c\ub85c 3,500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 C \ud22c\uc790 \uc720\uce58\n  > Summary: \uc624\ub354\ud480\uc740 \uacf5\uae09\ub9dd \ub370\uc774\ud130 \uad00\ub9ac\ub97c \uc790\ub3d9\ud654\ud558\ub294 AI \uae30\ubc18 \ub3c4\uad6c\ub97c \uc81c\uacf5\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c, KDT ..."
-    },
     {
       "timestamp": "2026-06-24 02:36:31",
       "message": "[PROCESSING] Analyzing: xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay and Bain Capital (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 02:37:10",
       "message": "[PROCESSING] Analyzing: Advancements In Atomic-Scale Plasma Processing..."
+    },
+    {
+      "timestamp": "2026-06-24 02:37:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Advancements In Atomic-Scale Plasma Processing"
     }
   ]
 }
