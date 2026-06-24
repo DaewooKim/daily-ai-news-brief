@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 23:27:02",
+  "last_updated": "2026-06-24 23:27:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 23:26:14",
-      "message": "Reprocessing: Blog Review: June 24"
-    },
     {
       "timestamp": "2026-06-24 23:26:15",
       "message": "[PROCESSING] Analyzing: Blog Review: June 24..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 23:27:02",
       "message": "[PROCESSING] Analyzing: From Silicon to Systems: Reimagining the Future of Embedded Engineering..."
+    },
+    {
+      "timestamp": "2026-06-24 23:27:04",
+      "message": "[SKIP] Irrelevant (AI Filter): From Silicon to Systems: Reimagining the Future of Embedded Engineering"
     }
   ]
 }
