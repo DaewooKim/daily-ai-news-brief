@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 17:48:10",
+  "last_updated": "2026-06-24 17:48:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 17:47:27",
-      "message": "[PROCESSING] Analyzing: The solar-powered Birdbuddy Pro is on sale for $168, the lowest price yet..."
-    },
     {
       "timestamp": "2026-06-24 17:47:29",
       "message": "[SKIP] Irrelevant (AI Filter): The solar-powered Birdbuddy Pro is on sale for $168, the lowest price yet"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 17:48:10",
       "message": "[PROCESSING] Analyzing: CCCL Runtime: A Modern C++ Runtime for CUDA..."
+    },
+    {
+      "timestamp": "2026-06-24 17:48:14",
+      "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ud604\ub300 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA CUDA Core Compute Libraries (CCCL)\ub294 C++ \ubc0f P..."
     }
   ]
 }
