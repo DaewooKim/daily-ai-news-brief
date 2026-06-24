@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 21:12:28",
+  "last_updated": "2026-06-24 21:12:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 21:11:46",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: \ubbf8\uad6d \uad00\ub9ac\ub4e4\uc5d0\uac8c \ubcf4\ub0b8 \ud3b8\uc9c0\uc5d0\uc11c Anthropic\uc740 Alibaba\uac00 \ubc18\ub300 \uace0\ucc30\uc744 \ud1b5\ud574 Claude\uc5d0 2880\ub9cc \ubc88 \uc811\uadfc\ud588\ub2e4\uace0 \ube44\ub09c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Anthropic PBC\ub294 \ud3b8\uc9c0\uc5d0\uc11c \uc911\uad6d \ub300\uae30\uc5c5 Alibaba\uc5d0 \ub300\ud574 Claude\uc5d0 288..."
-    },
     {
       "timestamp": "2026-06-24 21:11:48",
       "message": "[PROCESSING] Analyzing: Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 21:12:28",
       "message": "[PROCESSING] Analyzing: Blog Review: June 24..."
+    },
+    {
+      "timestamp": "2026-06-24 21:12:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Blog Review: June 24"
     }
   ]
 }
