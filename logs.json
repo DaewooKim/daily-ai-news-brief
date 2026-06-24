@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-24 10:23:26",
+  "last_updated": "2026-06-24 10:23:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-24 10:22:50",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-24 10:22:50",
       "message": "[PROCESSING] Analyzing: Bob Iger\u2019s Disney wanted Apple, Twitter, and 007..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-24 10:23:26",
       "message": "[PROCESSING] Analyzing: Accelerate your innovation..."
+    },
+    {
+      "timestamp": "2026-06-24 10:23:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerate your innovation"
     }
   ]
 }
