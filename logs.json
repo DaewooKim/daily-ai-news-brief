@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 14:57:00",
+  "last_updated": "2026-06-25 14:57:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 14:56:24",
-      "message": "[PROCESSING] Analyzing: Leica\u2019s $6,690 SL3-P pairs 44-megapixel stills with 8K video..."
-    },
     {
       "timestamp": "2026-06-25 14:56:27",
       "message": "[SKIP] Irrelevant (AI Filter): Leica\u2019s $6,690 SL3-P pairs 44-megapixel stills with 8K video"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 14:57:00",
       "message": "[SKIP] Irrelevant (AI Filter): Accelerate your innovation"
+    },
+    {
+      "timestamp": "2026-06-25 14:57:02",
+      "message": "Reprocessing: Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding"
     }
   ]
 }
