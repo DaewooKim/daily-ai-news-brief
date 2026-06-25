@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 16:04:06",
+  "last_updated": "2026-06-25 16:04:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 16:03:27",
-      "message": "Found 171 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-25 16:03:27",
       "message": "[PROCESSING] Analyzing: Upgrade your home with Prime Day deals for $40 or less..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 16:04:06",
       "message": "[PROCESSING] Analyzing: Leica\u2019s $6,690 SL3-P pairs 44-megapixel stills with 8K video..."
+    },
+    {
+      "timestamp": "2026-06-25 16:04:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Leica\u2019s $6,690 SL3-P pairs 44-megapixel stills with 8K video"
     }
   ]
 }
