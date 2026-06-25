@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 08:17:11",
+  "last_updated": "2026-06-25 08:17:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 08:16:33",
-      "message": "[SUCCESS] Processed: \uace0\uae09 AI\ub97c \uc704\ud55c \uacf5\ub3d9 \ud45c\uc900 \uad6c\ucd95 \uc9c0\uc6d0\n  > Summary: OpenAI\ub294 Appia Foundation\uc744 \ud1b5\ud574 \ud3c9\uac00 \ud504\ub808\uc784\uc6cc\ud06c, \uc548\uc804 \uad00\ud589 \ubc0f \uae00\ub85c\ubc8c..."
-    },
     {
       "timestamp": "2026-06-25 08:16:34",
       "message": "Reprocessing: How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 08:17:11",
       "message": "[PROCESSING] Analyzing: Pressure and Ultrasonic Flow Sensing for Smarter Fluid Systems..."
+    },
+    {
+      "timestamp": "2026-06-25 08:17:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Pressure and Ultrasonic Flow Sensing for Smarter Fluid Systems"
     }
   ]
 }
