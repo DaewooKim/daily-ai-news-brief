@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 20:37:11",
+  "last_updated": "2026-06-25 20:37:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 20:34:07",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-25 20:34:07",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 20:37:11",
       "message": "[PROCESSING] Analyzing: 54 Prime Day steals under $25 you won&#8217;t want to miss..."
+    },
+    {
+      "timestamp": "2026-06-25 20:37:13",
+      "message": "[SKIP] Irrelevant (AI Filter): 54 Prime Day steals under $25 you won&#8217;t want to miss"
     }
   ]
 }
