@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 07:12:04",
+  "last_updated": "2026-06-25 07:12:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 07:11:18",
-      "message": "[PROCESSING] Analyzing: Digital advocacy firms like CiviClick and Influent appear to use AI to generate mass public comments on local energy projects, mostly favoring fossil fuel use (Bloomberg)..."
-    },
     {
       "timestamp": "2026-06-25 07:11:23",
       "message": "[SUCCESS] Processed: \ub514\uc9c0\ud138 \uc639\ud638 \uae30\uc5c5\uc778 CiviClick\uacfc Influent\uac00 \uc5d0\ub108\uc9c0 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub300\ud55c \ub300\ub7c9 \uacf5\uacf5 \ub313\uae00 \uc0dd\uc131\uc744 \uc704\ud574 AI\ub97c \uc0ac\uc6a9\ud558\ub294 \uac83\uc73c\ub85c \ubcf4\uc784\n  > Summary: CiviClick\uacfc Influent\uc640 \uac19\uc740 \ub514\uc9c0\ud138 \uc639\ud638 \uae30\uc5c5\ub4e4\uc774 AI\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc9c0\uc5ed \uc5d0\ub108..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 07:12:04",
       "message": "[PROCESSING] Analyzing: Advancements In Atomic-Scale Plasma Processing..."
+    },
+    {
+      "timestamp": "2026-06-25 07:12:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Advancements In Atomic-Scale Plasma Processing"
     }
   ]
 }
