@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-06-25 16:10:18",
-  "status": "idle",
+  "last_updated": "2026-06-25 17:10:59",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-06-25 16:08:49",
-      "message": "Reprocessing: Ornn raises $33M to help companies buy and sell AI compute as a commodity like oil"
+      "timestamp": "2026-06-25 17:10:43",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-06-25 16:08:51",
-      "message": "[SKIP] Content too short: Ornn raises $33M to help compa..."
+      "timestamp": "2026-06-25 17:10:44",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-06-25 16:08:53",
-      "message": "Reprocessing: Agentic infrastructure startup Seltz raises $12.5M to help AI agents search the web for answers"
+      "timestamp": "2026-06-25 17:10:44",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-06-25 16:08:55",
-      "message": "[SKIP] Content too short: Agentic infrastructure startup..."
+      "timestamp": "2026-06-25 17:10:59",
+      "message": "Found 174 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-06-25 16:08:56",
-      "message": "Reprocessing: Memory maker SK hynix files for $29B US IPO amid AI demand"
-    },
-    {
-      "timestamp": "2026-06-25 16:08:58",
-      "message": "[SKIP] Content too short: Memory maker SK hynix files fo..."
-    },
-    {
-      "timestamp": "2026-06-25 16:08:59",
-      "message": "Reprocessing: Soaring memory chip demand helps Micron quadruple its revenue and crush expectations again"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:01",
-      "message": "[SKIP] Content too short: Soaring memory chip demand hel..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:02",
-      "message": "Reprocessing: Qualcomm shares jump 14% on Modular acquisition, guidance upgrade"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:04",
-      "message": "[SKIP] Content too short: Qualcomm shares jump 14% on Mo..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:05",
-      "message": "Reprocessing: Grammarly parent Superhuman buys AI detector GPTZero"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:07",
-      "message": "[SKIP] Content too short: Grammarly parent Superhuman bu..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:08",
-      "message": "Reprocessing: OpenAI, Broadcom debut custom Jalape\u00f1o chip for AI inference"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:10",
-      "message": "[SKIP] Content too short: OpenAI, Broadcom debut custom ..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:11",
-      "message": "Reprocessing: HelloTwin launches \u2018Digital Authority\u2019 to bring governed AI agents to the enterprise"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:13",
-      "message": "[SKIP] Content too short: HelloTwin launches \u2018Digital Au..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:15",
-      "message": "Reprocessing: Three insights you may have missed from theCUBE\u2019s coverage of Pure Accelerate"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:16",
-      "message": "[SKIP] Content too short: Three insights you may have mi..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:18",
-      "message": "Reprocessing: AI agents are changing work \u2014 and Dell\u2019s John Roese says it\u2019s just beginning"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:20",
-      "message": "[SKIP] Content too short: AI agents are changing work \u2014 ..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:22",
-      "message": "Reprocessing: Beyond the $7.8B in deals: Why Wall Street is suddenly watching Argentum AI"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:23",
-      "message": "[SKIP] Content too short: Beyond the $7.8B in deals: Why..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:25",
-      "message": "Reprocessing: Coval raises $28M as enterprises push voice agents into production"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:27",
-      "message": "[SKIP] Content too short: Coval raises $28M as enterpris..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:28",
-      "message": "Reprocessing: Kinoa pushes AI-native mobile app revenue operations after raising $10M in funding"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:30",
-      "message": "[SKIP] Content too short: Kinoa pushes AI-native mobile ..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:31",
-      "message": "Reprocessing: Modulate launches AI music detection as synthetic tracks flood streaming"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:33",
-      "message": "[SKIP] Content too short: Modulate launches AI music det..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:35",
-      "message": "Reprocessing: Commvault deepens Microsoft tie-up with native Azure resilience service"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:36",
-      "message": "[SKIP] Content too short: Commvault deepens Microsoft ti..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:38",
-      "message": "Reprocessing: Google settles lawsuit over social media harm"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:40",
-      "message": "[SKIP] Content too short: Google settles lawsuit over so..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:42",
-      "message": "Reprocessing: Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:44",
-      "message": "[SKIP] Content too short: Anthropic debuts Claude Tag, a..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:45",
-      "message": "Reprocessing: Upbound open-sources Modelplane to optimize inference clusters"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:46",
-      "message": "[SKIP] Content too short: Upbound open-sources Modelplan..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:48",
-      "message": "Reprocessing: Nvidia bets on agentic AI to turbocharge biotech discovery"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:50",
-      "message": "[SKIP] Content too short: Nvidia bets on agentic AI to t..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:51",
-      "message": "Reprocessing: Shares of AI chipmaker Cerebras sink following first earnings report since going public"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:53",
-      "message": "[SKIP] Content too short: Shares of AI chipmaker Cerebra..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:55",
-      "message": "Reprocessing: Orderful nabs $35M to streamline supply chain data management"
-    },
-    {
-      "timestamp": "2026-06-25 16:09:56",
-      "message": "[SKIP] Content too short: Orderful nabs $35M to streamli..."
-    },
-    {
-      "timestamp": "2026-06-25 16:09:58",
-      "message": "Reprocessing: Snyk launches Evo Agentic Development Security to police AI coding agents"
-    },
-    {
-      "timestamp": "2026-06-25 16:10:00",
-      "message": "[SKIP] Content too short: Snyk launches Evo Agentic Deve..."
-    },
-    {
-      "timestamp": "2026-06-25 16:10:01",
-      "message": "Reprocessing: Arm CPUs Take Number 1 in Latest Top500 List with Chinese LineShine"
-    },
-    {
-      "timestamp": "2026-06-25 16:10:03",
-      "message": "[PROCESSING] Analyzing: Arm CPUs Take Number 1 in Latest Top500 List with Chinese LineShine..."
-    },
-    {
-      "timestamp": "2026-06-25 16:10:07",
-      "message": "[SUCCESS] Processed: \uc554 CPU\uac00 \uc911\uad6d\uc758 \ub77c\uc778\uc0e4\uc778\uacfc \ud568\uaed8 \ucd5c\uc2e0 Top500 \ubaa9\ub85d\uc5d0\uc11c 1\uc704\ub97c \ucc28\uc9c0\ud558\ub2e4\n  > Summary: 2026\ub144 6\uc6d4 Top500 \uc288\ud37c\ucef4\ud4e8\ud130 \ubaa9\ub85d\uc774 \ubc1c\ud45c\ub418\uc5c8\uc73c\uba70, Arm \uae30\ubc18 \uc2dc\uc2a4\ud15c\uc774 1\uc704\ub97c ..."
-    },
-    {
-      "timestamp": "2026-06-25 16:10:08",
-      "message": "Completed! New: 6, Updated: 52"
-    },
-    {
-      "timestamp": "2026-06-25 16:10:12",
-      "message": "Saved 58 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-06-25 16:10:16",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-06-25 17:10:59",
+      "message": "[PROCESSING] Analyzing: 54 Prime Day steals under $25 you won&#8217;t want to miss..."
     }
   ]
 }
