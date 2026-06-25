@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 20:41:31",
+  "last_updated": "2026-06-25 20:41:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 20:40:49",
-      "message": "[PROCESSING] Analyzing: OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent\u00a0 \u2014 and it's already in the API..."
-    },
     {
       "timestamp": "2026-06-25 20:40:53",
       "message": "[SUCCESS] Processed: OpenAI\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c GPT-5.5 Instant\ub294 \uc1fc\ud551, \ubcf5\uc7a1\ud55c \uc81c\uc57d \uc870\uac74, \uc0ac\uc6a9\uc790 \uc758\ub3c4 \uc774\ud574\uc5d0\uc11c \ub354 \ub098\uc544\uc84c\uc2b5\ub2c8\ub2e4 - \uc774\ubbf8 API\uc5d0 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 \uc5b8\uc5b4 \ubaa8\ub378 GPT-5.5 Instant\uc758 \uc911\uc694\ud55c \uc5c5\ub370\uc774\ud2b8\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 20:41:31",
       "message": "Completed! New: 6, Updated: 19"
+    },
+    {
+      "timestamp": "2026-06-25 20:41:35",
+      "message": "Saved 25 changes to news_data.json"
     }
   ]
 }
