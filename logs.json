@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-25 18:20:05",
+  "last_updated": "2026-06-25 18:20:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 18:19:22",
-      "message": "Found 172 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-06-25 18:19:22",
-      "message": "[PROCESSING] Analyzing: You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike..."
-    },
     {
       "timestamp": "2026-06-25 18:19:26",
       "message": "[SKIP] Irrelevant (AI Filter): You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-25 18:20:05",
       "message": "[PROCESSING] Analyzing: The Samsung S26 Ultra is already marked down to $920 for Prime Day..."
+    },
+    {
+      "timestamp": "2026-06-25 18:20:07",
+      "message": "[SKIP] Irrelevant (AI Filter): The Samsung S26 Ultra is already marked down to $920 for Prime Day"
+    },
+    {
+      "timestamp": "2026-06-25 18:20:08",
+      "message": "Reprocessing: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE"
     }
   ]
 }
