@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 11:36:01",
+  "last_updated": "2026-06-25 11:36:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 11:35:27",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-25 11:35:27",
       "message": "[PROCESSING] Analyzing: Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 11:36:01",
       "message": "Reprocessing: AMD And Nvidia Are Neck And Neck In HPC Supercomputing"
+    },
+    {
+      "timestamp": "2026-06-25 11:36:03",
+      "message": "[SKIP] Content too short: AMD And Nvidia Are Neck And Ne..."
     }
   ]
 }
