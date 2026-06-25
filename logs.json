@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-25 12:46:28",
+  "last_updated": "2026-06-25 12:46:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 12:45:48",
-      "message": "[PROCESSING] Analyzing: Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer..."
-    },
-    {
-      "timestamp": "2026-06-25 12:45:51",
-      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer"
-    },
     {
       "timestamp": "2026-06-25 12:45:52",
       "message": "[PROCESSING] Analyzing: Iridium Development Kit Accelerates Hybrid IoT Design..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-25 12:46:28",
       "message": "Reprocessing: Ornn raises $33M to help companies buy and sell AI compute as a commodity like oil"
+    },
+    {
+      "timestamp": "2026-06-25 12:46:31",
+      "message": "[SKIP] Content too short: Ornn raises $33M to help compa..."
+    },
+    {
+      "timestamp": "2026-06-25 12:46:32",
+      "message": "Reprocessing: Agentic infrastructure startup Seltz raises $12.5M to help AI agents search the web for answers"
     }
   ]
 }
