@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 15:00:14",
+  "last_updated": "2026-06-25 15:00:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 14:59:28",
-      "message": "Reprocessing: IBM details a 0.7nm chip manufacturing process that utilizes a \"nanostack\" 3D transistor architecture, which it says could continue chip innovation for 10 years (Don Clark/New York Times)"
-    },
     {
       "timestamp": "2026-06-25 14:59:30",
       "message": "[PROCESSING] Analyzing: IBM details a 0.7nm chip manufacturing process that utilizes a \"nanostack\" 3D transistor architecture, which it says could continue chip innovation for 10 years (Don Clark/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 15:00:14",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer..."
+    },
+    {
+      "timestamp": "2026-06-25 15:00:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer"
     }
   ]
 }
