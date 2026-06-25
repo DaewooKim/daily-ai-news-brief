@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 21:42:55",
+  "last_updated": "2026-06-25 21:42:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 21:42:07",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-25 21:42:20",
       "message": "Found 173 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 21:42:55",
       "message": "[SKIP] Irrelevant (AI Filter): This year\u2019s Prime Day deals on Apple products are the best I\u2019ve seen"
+    },
+    {
+      "timestamp": "2026-06-25 21:42:57",
+      "message": "Reprocessing: Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding"
     }
   ]
 }
