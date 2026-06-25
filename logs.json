@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-25 22:51:58",
+  "last_updated": "2026-06-25 22:52:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 22:51:12",
-      "message": "[PROCESSING] Analyzing: IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years..."
-    },
     {
       "timestamp": "2026-06-25 22:51:15",
       "message": "[SUCCESS] Processed: IBM, 5\ub144 \ub0b4 \uc0dd\uc0b0 \ubaa9\ud45c\ub85c 1nm \ubbf8\ub9cc \uce69 \uacf5\uac1c\n  > Summary: IBM\uc774 \uc138\uacc4 \ucd5c\ucd08\uc758 1nm \ubbf8\ub9cc(0.7nm) \uce69 \uc81c\uc870 \uae30\uc220\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uae30\uc220\uc740 I..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-25 22:51:58",
       "message": "[PROCESSING] Analyzing: Source: Muon Space, which operates satellite networks for climate and national security monitoring, is raising $250M; it has raised ~$181M since its 2021 launch (Alan Neuhauser/Axios)..."
+    },
+    {
+      "timestamp": "2026-06-25 22:52:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Muon Space, which operates satellite networks for climate and national security monitoring, is raising $250M; it has raised ~$181M since its 2021 launch (Alan Neuhauser/Axios)"
     }
   ]
 }
