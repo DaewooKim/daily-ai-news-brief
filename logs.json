@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-26 22:17:18",
+  "last_updated": "2026-06-26 22:17:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 22:16:31",
-      "message": "[SKIP] Irrelevant (AI Filter): Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want"
-    },
-    {
-      "timestamp": "2026-06-26 22:16:33",
-      "message": "[PROCESSING] Analyzing: It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from..."
-    },
     {
       "timestamp": "2026-06-26 22:16:36",
       "message": "[SKIP] Irrelevant (AI Filter): It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-26 22:17:18",
       "message": "Reprocessing: HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy"
+    },
+    {
+      "timestamp": "2026-06-26 22:17:20",
+      "message": "[SKIP] Content too short: HPE Delivers Upgraded HPC Hard..."
+    },
+    {
+      "timestamp": "2026-06-26 22:17:21",
+      "message": "Reprocessing: AMD And Nvidia Are Neck And Neck In HPC Supercomputing"
     }
   ]
 }
