@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 15:31:57",
+  "last_updated": "2026-06-26 15:32:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 15:31:18",
-      "message": "[PROCESSING] Analyzing: It\u2019s the last day of Prime Day \u2014 here are over 130 great deals to choose from..."
-    },
     {
       "timestamp": "2026-06-26 15:31:21",
       "message": "[SKIP] Irrelevant (AI Filter): It\u2019s the last day of Prime Day \u2014 here are over 130 great deals to choose from"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 15:31:57",
       "message": "[PROCESSING] Analyzing: CCCL Runtime: A Modern C++ Runtime for CUDA..."
+    },
+    {
+      "timestamp": "2026-06-26 15:32:00",
+      "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ud604\ub300 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA\uc758 CUDA Core Compute Libraries (CCCL)\ub294 C++\uc640 P..."
     }
   ]
 }
