@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 07:45:14",
+  "last_updated": "2026-06-26 07:45:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 07:44:34",
-      "message": "[SUCCESS] Processed: \ubc31\uc545\uad00, OpenAI\uc5d0 \uc548\uc804 \ubb38\uc81c \uc774\uc720\ub85c \uc0c8\ub85c\uc6b4 \ubaa8\ub378 \uacf5\uac1c \uc18d\ub3c4 \uc870\uc808 \uc694\uccad\n  > Summary: OpenAI\ub294 \ucd5c\uc2e0 \ubaa8\ub378\uc778 GPT 5.6\uc744 \ub113\uc740 \ub300\uc911\uc774 \uc544\ub2cc \uc77c\ubd80 \ud30c\ud2b8\ub108\uc5d0\uac8c\ub9cc \uacf5\uc720\ud560 \uacc4\ud68d..."
-    },
     {
       "timestamp": "2026-06-26 07:44:36",
       "message": "[PROCESSING] Analyzing: 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 07:45:14",
       "message": "[PROCESSING] Analyzing: Solid-State Circuit Breakers for DC Grids Architecture, Protection Performance..."
+    },
+    {
+      "timestamp": "2026-06-26 07:45:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Solid-State Circuit Breakers for DC Grids Architecture, Protection Performance"
     }
   ]
 }
