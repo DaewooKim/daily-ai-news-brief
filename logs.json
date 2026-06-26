@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 02:10:31",
+  "last_updated": "2026-06-26 02:10:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 02:09:51",
-      "message": "Found 175 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-26 02:09:51",
       "message": "[PROCESSING] Analyzing: This year\u2019s Prime Day deals on Apple products are the best I\u2019ve seen..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 02:10:31",
       "message": "[SUCCESS] Processed: Vulkan \ub514\uc2a4\ud06c\ub9bd\ud130 \ud799\uc5d0 \ub300\ud55c \uc885\ub2e8 \uac04 \uc9c0\uc6d0\uc73c\ub85c \ub9ac\uc18c\uc2a4 \ubc14\uc778\ub529 \uac04\uc18c\ud654\n  > Summary: \uc774 \uae30\uc0ac\ub294 \uc170\uc774\ub354\uc640 GPU \ud504\ub85c\uadf8\ub7a8\uc744 \ud1b5\ud574 \uc2dc\uac01 \ub370\uc774\ud130\ub97c \ucc98\ub9ac\ud558\uace0 \ub80c\ub354\ub9c1 \ud6a8\uacfc\ub97c \uc0dd\uc131\ud558\ub294 ..."
+    },
+    {
+      "timestamp": "2026-06-26 02:10:33",
+      "message": "Reprocessing: Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding"
     }
   ]
 }
