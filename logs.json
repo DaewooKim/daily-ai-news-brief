@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-26 18:52:29",
+  "last_updated": "2026-06-26 18:52:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 18:51:49",
-      "message": "Found 190 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-06-26 18:51:49",
-      "message": "[PROCESSING] Analyzing: Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox..."
-    },
     {
       "timestamp": "2026-06-26 18:51:52",
       "message": "[SKIP] Irrelevant (AI Filter): Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-26 18:52:29",
       "message": "Reprocessing: HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy"
+    },
+    {
+      "timestamp": "2026-06-26 18:52:31",
+      "message": "[SKIP] Content too short: HPE Delivers Upgraded HPC Hard..."
+    },
+    {
+      "timestamp": "2026-06-26 18:52:32",
+      "message": "Reprocessing: AMD And Nvidia Are Neck And Neck In HPC Supercomputing"
     }
   ]
 }
