@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 11:06:29",
+  "last_updated": "2026-06-26 11:06:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 11:05:42",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network (Financial Times)"
-    },
     {
       "timestamp": "2026-06-26 11:05:44",
       "message": "[PROCESSING] Analyzing: Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega (Alistair Gray/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 11:06:29",
       "message": "[SUCCESS] Processed: OpenAI\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c GPT-5.5 Instant, \uc1fc\ud551, \ubcf5\uc7a1\ud55c \uc81c\uc57d \ubc0f \uc0ac\uc6a9\uc790 \uc758\ub3c4 \uc774\ud574\uc5d0\uc11c \ud5a5\uc0c1\ub428 \u2014 \uc774\ubbf8 API\uc5d0 \ucd94\uac00\ub428\n  > Summary: OpenAI\ub294 \uac00\uc7a5 widely \uc0ac\uc6a9\ub418\ub294 \uc5b8\uc5b4 \ubaa8\ub378\uc778 GPT-5.5 Instant\ub97c \uc5c5\ub370\uc774..."
+    },
+    {
+      "timestamp": "2026-06-26 11:06:31",
+      "message": "Reprocessing: ST Unveils Secure Mobile Chip with PQC"
     }
   ]
 }
