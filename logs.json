@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 10:00:04",
+  "last_updated": "2026-06-26 10:00:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 09:59:21",
-      "message": "[SUCCESS] Processed: \uce69 \uc124\uacc4\ub97c \uc704\ud55c \uc5d0\uc774\uc804\ud2b8 LLM \uc18c\uac1c\n  > Summary: ChipAgents\ub294 '\uac31\uc2e0'\uc744 \uc758\ubbf8\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378(LLM)\uc778 Renoir\ub97c..."
-    },
     {
       "timestamp": "2026-06-26 09:59:22",
       "message": "Reprocessing: IBM Unveils World\u2019s First Sub-1 Nanometer Chip Technology with New NanoStack Architecture"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 10:00:04",
       "message": "[PROCESSING] Analyzing: Mubina Toa: Engineering Is Both Rewarding and Fun..."
+    },
+    {
+      "timestamp": "2026-06-26 10:00:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Mubina Toa: Engineering Is Both Rewarding and Fun"
     }
   ]
 }
