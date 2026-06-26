@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 11:05:11",
+  "last_updated": "2026-06-26 11:05:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 11:04:32",
-      "message": "Reprocessing: The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
-    },
     {
       "timestamp": "2026-06-26 11:04:34",
       "message": "[PROCESSING] Analyzing: The White House is asking OpenAI to slow roll the release of its new model over safety concerns..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 11:05:11",
       "message": "[PROCESSING] Analyzing: Pressure and Ultrasonic Flow Sensing for Smarter Fluid Systems..."
+    },
+    {
+      "timestamp": "2026-06-26 11:05:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Pressure and Ultrasonic Flow Sensing for Smarter Fluid Systems"
     }
   ]
 }
