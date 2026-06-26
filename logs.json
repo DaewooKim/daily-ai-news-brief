@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 12:10:11",
+  "last_updated": "2026-06-26 12:10:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 12:09:21",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-06-26 12:09:33",
       "message": "Found 182 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 12:10:11",
       "message": "[SKIP] Irrelevant (AI Filter): Framework has good news and bad news"
+    },
+    {
+      "timestamp": "2026-06-26 12:10:13",
+      "message": "Reprocessing: A Deep Dive On China\u2019s \u201cLineShine\u201d All-CPU, Exaflops-Class Supercomputer"
     }
   ]
 }
