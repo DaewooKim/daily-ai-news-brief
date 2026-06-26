@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 14:25:41",
+  "last_updated": "2026-06-26 14:25:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 14:24:56",
-      "message": "[PROCESSING] Analyzing: CCCL Runtime: A Modern C++ Runtime for CUDA..."
-    },
     {
       "timestamp": "2026-06-26 14:25:01",
       "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ucd5c\uc2e0 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA CUDA Core Compute Libraries (CCCL)\uc740 C++\uc640 Py..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 14:25:41",
       "message": "[PROCESSING] Analyzing: Adobe acquires image and video enhancement tool maker Topaz Labs..."
+    },
+    {
+      "timestamp": "2026-06-26 14:25:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Adobe acquires image and video enhancement tool maker Topaz Labs"
     }
   ]
 }
