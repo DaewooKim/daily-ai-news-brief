@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 23:29:28",
+  "last_updated": "2026-06-26 23:29:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 23:28:40",
-      "message": "Reprocessing: Chip Industry Week In Review"
-    },
     {
       "timestamp": "2026-06-26 23:28:42",
       "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 23:29:28",
       "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer"
+    },
+    {
+      "timestamp": "2026-06-26 23:29:30",
+      "message": "[PROCESSING] Analyzing: New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M...."
     }
   ]
 }
