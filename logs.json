@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 04:24:39",
+  "last_updated": "2026-06-26 04:24:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 04:23:43",
-      "message": "[PROCESSING] Analyzing: CCCL Runtime: A Modern C++ Runtime for CUDA..."
-    },
     {
       "timestamp": "2026-06-26 04:23:56",
       "message": "[SUCCESS] Processed: CCCL Runtime: A Modern C++ Runtime for CUDA\n  > Summary: {\"is_relevant\": true, \"title\": \"CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 04:24:39",
       "message": "[PROCESSING] Analyzing: Europe is pushing back on Washington\u2019s chip war..."
+    },
+    {
+      "timestamp": "2026-06-26 04:24:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Europe is pushing back on Washington\u2019s chip war"
     }
   ]
 }
