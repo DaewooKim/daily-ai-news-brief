@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 18:53:48",
+  "last_updated": "2026-06-26 18:53:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 18:53:08",
-      "message": "[PROCESSING] Analyzing: CCCL Runtime: A Modern C++ Runtime for CUDA..."
-    },
     {
       "timestamp": "2026-06-26 18:53:11",
       "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ud604\ub300\uc801\uc778 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA CUDA Core Compute Libraries (CCCL)\uc740 C++ \ubc0f P..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 18:53:48",
       "message": "[PROCESSING] Analyzing: OpenAI poaches Uber India chief to lead its biggest market outside the US..."
+    },
+    {
+      "timestamp": "2026-06-26 18:53:50",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI poaches Uber India chief to lead its biggest market outside the US"
     }
   ]
 }
