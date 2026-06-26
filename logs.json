@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 17:45:10",
+  "last_updated": "2026-06-26 17:45:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 17:44:30",
-      "message": "Found 185 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-26 17:44:30",
       "message": "[PROCESSING] Analyzing: It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 17:45:10",
       "message": "Reprocessing: A Deep Dive On China\u2019s \u201cLineShine\u201d All-CPU, Exaflops-Class Supercomputer"
+    },
+    {
+      "timestamp": "2026-06-26 17:45:12",
+      "message": "[SKIP] Content too short: A Deep Dive On China\u2019s \u201cLineSh..."
     }
   ]
 }
