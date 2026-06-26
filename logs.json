@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 04:27:14",
+  "last_updated": "2026-06-26 04:27:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 04:26:36",
-      "message": "[SUCCESS] Processed: OpenAI\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c GPT-5.5 Instant\ub294 \uc1fc\ud551, \ubcf5\uc7a1\ud55c \uc81c\uc57d \uc870\uac74, \uc0ac\uc6a9\uc790 \uc758\ub3c4 \uc774\ud574\uc5d0\uc11c \ub354 \ub098\uc544\uc84c\uc2b5\ub2c8\ub2e4 \u2014 \uadf8\ub9ac\uace0 \uc774\ubbf8 API\uc5d0 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 ChatGPT\uc758 \uae30\ubcf8 \ubaa8\ub378\uc778 GPT-5.5 Instant\ub97c \uc5c5\ub370\uc774\ud2b8\ud588\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-06-26 04:26:37",
       "message": "Reprocessing: ST Unveils Secure Mobile Chip with PQC"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 04:27:14",
       "message": "Reprocessing: Sail Research raises $80M to optimize long-horizon AI agents"
+    },
+    {
+      "timestamp": "2026-06-26 04:27:15",
+      "message": "[SKIP] Content too short: Sail Research raises $80M to o..."
     }
   ]
 }
