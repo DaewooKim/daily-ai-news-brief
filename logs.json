@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 05:34:01",
+  "last_updated": "2026-06-26 05:34:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 05:33:17",
-      "message": "[PROCESSING] Analyzing: OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent\u00a0 \u2014 and it's already in the API..."
-    },
     {
       "timestamp": "2026-06-26 05:33:22",
       "message": "[SUCCESS] Processed: OpenAI\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c GPT-5.5 Instant, \uc1fc\ud551, \ubcf5\uc7a1\ud55c \uc81c\uc57d \uc774\ud574 \ubc0f \uc0ac\uc6a9\uc790 \uc758\ub3c4 \uc774\ud574\uc5d0 \ub354 \ub6f0\uc5b4\ub098\uba70 \uc774\ubbf8 API\uc5d0 \ud3ec\ud568\ub428\n  > Summary: OpenAI\ub294 \uac00\uc7a5 \ub110\ub9ac \uc0ac\uc6a9\ub418\ub294 \uc5b8\uc5b4 \ubaa8\ub378\uc778 GPT-5.5 Instant\ub97c \uc5c5\ub370\uc774\ud2b8\ud588\uc2b5\ub2c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 05:34:01",
       "message": "[SKIP] Content too short: Analog chipmaker Onsemi buys S..."
+    },
+    {
+      "timestamp": "2026-06-26 05:34:03",
+      "message": "Reprocessing: Sail Research raises $80M to optimize long-horizon AI agents"
     }
   ]
 }
