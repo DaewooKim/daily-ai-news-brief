@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 18:56:57",
+  "last_updated": "2026-06-26 18:56:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 18:56:13",
-      "message": "[SUCCESS] Processed: SiEngine, \ucc28\uc138\ub300 \uc790\ub3d9\ucc28 SoC\ub97c \uc704\ud55c Arteris \uae30\uc220 \ub77c\uc774\uc13c\uc2a4\n  > Summary: Arteris\ub294 SiEngine Technology\uac00 \ucc28\uc138\ub300 \uc790\ub3d9\ucc28 SoC \ud50c\ub7ab\ud3fc\uc744 \uc704\ud55c ..."
-    },
     {
       "timestamp": "2026-06-26 18:56:15",
       "message": "[PROCESSING] Analyzing: HANMI Semiconductor Launches FC Bonder 3.5 for AI System Semiconductors..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 18:56:57",
       "message": "[PROCESSING] Analyzing: Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design..."
+    },
+    {
+      "timestamp": "2026-06-26 18:56:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design"
     }
   ]
 }
