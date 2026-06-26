@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 00:00:10",
+  "last_updated": "2026-06-26 00:00:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-25 23:59:30",
-      "message": "[SUCCESS] Processed: Liquid AI\uc758 \uac00\uc7a5 \uc791\uc740 \ubaa8\ub378 LFM2.5-230M, \ub370\uc774\ud130 \ucd94\ucd9c\uc5d0\uc11c 4\ubc30 \ud070 \ubaa8\ub378\ub4e4\uc744 \ub2a5\uac00\ud558\uba70 '\uc5b4\ub514\uc11c\ub098' \uc2e4\ud589 \uac00\ub2a5\n  > Summary: Liquid AI\ub294 \ub370\uc774\ud130 \ucd94\ucd9c\uacfc \ub85c\uceec \ubc30\ud3ec\ub97c \uc704\ud574 \uc124\uacc4\ub41c 230\ubc31\ub9cc \ub9e4\uac1c\ubcc0\uc218\uc758 AI \uc5b8\uc5b4..."
-    },
     {
       "timestamp": "2026-06-25 23:59:31",
       "message": "Reprocessing: OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent\u00a0 \u2014 and it's already in the API"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 00:00:10",
       "message": "[SKIP] Content too short: Scaled Cognition nabs $100M to..."
+    },
+    {
+      "timestamp": "2026-06-26 00:00:12",
+      "message": "Reprocessing: OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO"
     }
   ]
 }
