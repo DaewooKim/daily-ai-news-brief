@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 23:29:53",
+  "last_updated": "2026-06-26 23:29:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 23:29:07",
-      "message": "[SUCCESS] Processed: HANMI \ubc18\ub3c4\uccb4, AI \uc2dc\uc2a4\ud15c \ubc18\ub3c4\uccb4\uc6a9 FC \ubcf8\ub354 3.5 \ucd9c\uc2dc\n  > Summary: HANMI \ubc18\ub3c4\uccb4\uac00 AI \uc2dc\uc2a4\ud15c \ubc0f \ub85c\uc9c1 \ubc18\ub3c4\uccb4 \ud3ec\uc7a5\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 '\ud50c\ub9bd \uce69(FC) \ubcf8\ub354..."
-    },
     {
       "timestamp": "2026-06-26 23:29:09",
       "message": "Reprocessing: IBM Unveils World\u2019s First Sub-1 Nanometer Chip Technology with New NanoStack Architecture"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 23:29:53",
       "message": "[PROCESSING] Analyzing: Iridium Development Kit Accelerates Hybrid IoT Design..."
+    },
+    {
+      "timestamp": "2026-06-26 23:29:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Iridium Development Kit Accelerates Hybrid IoT Design"
     }
   ]
 }
