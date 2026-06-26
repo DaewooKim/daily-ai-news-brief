@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 12:13:21",
+  "last_updated": "2026-06-26 12:13:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 12:12:34",
-      "message": "[SUCCESS] Processed: \uce69 \uc124\uacc4\ub97c \uc704\ud55c \uc5d0\uc774\uc804\ud2f1 LLM \uc18c\uac1c\n  > Summary: ChipAgents\ub294 \uc774\ub984\uc774 '\uac31\uc2e0'\uc744 \uc758\ubbf8\ud558\ub294 \uc5d0\uc774\uc804\ud2f1 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378(Renoir)\uc744 ..."
-    },
     {
       "timestamp": "2026-06-26 12:12:36",
       "message": "Reprocessing: IBM Unveils World\u2019s First Sub-1 Nanometer Chip Technology with New NanoStack Architecture"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 12:13:21",
       "message": "[PROCESSING] Analyzing: Iridium Development Kit Accelerates Hybrid IoT Design..."
+    },
+    {
+      "timestamp": "2026-06-26 12:13:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Iridium Development Kit Accelerates Hybrid IoT Design"
     }
   ]
 }
