@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 13:18:28",
+  "last_updated": "2026-06-26 13:18:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 13:17:40",
-      "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ud604\ub300 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA CUDA \ud575\uc2ec \ucef4\ud4e8\ud305 \ub77c\uc774\ube0c\ub7ec\ub9ac(CCCL)\ub294 C++\uc640 Python\uc5d0\uc11c CUDA..."
-    },
     {
       "timestamp": "2026-06-26 13:17:41",
       "message": "Reprocessing: Optimizing cloud economics with linear elastic caching"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 13:18:28",
       "message": "[PROCESSING] Analyzing: Europe is pushing back on Washington\u2019s chip war..."
+    },
+    {
+      "timestamp": "2026-06-26 13:18:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Europe is pushing back on Washington\u2019s chip war"
     }
   ]
 }
