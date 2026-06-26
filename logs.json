@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-26 22:21:58",
+  "last_updated": "2026-06-26 22:22:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-26 22:21:18",
-      "message": "[SUCCESS] Processed: HANMI \ubc18\ub3c4\uccb4, AI \uc2dc\uc2a4\ud15c \ubc18\ub3c4\uccb4\uc6a9 FC \ubcf8\ub354 3.5 \ucd9c\uc2dc\n  > Summary: HANMI \ubc18\ub3c4\uccb4\uac00 AI \uc2dc\uc2a4\ud15c \ubc0f \ub17c\ub9ac \ubc18\ub3c4\uccb4 \ud328\ud0a4\uc9d5\uc6a9 'FC \ubcf8\ub354 3.5'\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-06-26 22:21:20",
       "message": "Reprocessing: IBM Unveils World\u2019s First Sub-1 Nanometer Chip Technology with New NanoStack Architecture"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-26 22:21:58",
       "message": "[PROCESSING] Analyzing: Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design..."
+    },
+    {
+      "timestamp": "2026-06-26 22:22:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design"
     }
   ]
 }
