@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-27 00:35:07",
+  "last_updated": "2026-06-27 00:35:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-27 00:34:30",
-      "message": "[SUCCESS] Processed: \uace0\uae09 AI\ub97c \uc704\ud55c \uacf5\uc720 \ud45c\uc900 \uad6c\ucd95 \uc9c0\uc6d0\n  > Summary: OpenAI\ub294 Appia Foundation\uc744 \ud1b5\ud574 \uace0\uae09 AI\ub97c \uc704\ud55c \uacf5\uc720 \ud45c\uc900 \uad6c\ucd95\uc744 \ub3c4..."
-    },
     {
       "timestamp": "2026-06-27 00:34:32",
       "message": "Reprocessing: How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-27 00:35:07",
       "message": "[PROCESSING] Analyzing: Former Infosys chief has a new startup that wants to challenge the IT services world..."
+    },
+    {
+      "timestamp": "2026-06-27 00:35:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Former Infosys chief has a new startup that wants to challenge the IT services world"
     }
   ]
 }
