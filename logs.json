@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-27 03:57:04",
+  "last_updated": "2026-06-27 03:57:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-27 03:56:27",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: the CFTC began an extensive investigation of Polymarket earlier this year; the agency's former acting head killed a separate investigation in July 2025 (New York Times)"
-    },
-    {
-      "timestamp": "2026-06-27 03:56:28",
-      "message": "[PROCESSING] Analyzing: Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices (Financial Times)..."
-    },
     {
       "timestamp": "2026-06-27 03:56:32",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc560\ud50c, \uc0c1\uc2b9\ud558\ub294 \uce69 \uac00\uaca9 \uc644\ud654\ub97c \uc704\ud574 \ubbf8\uad6d\uc774 \uc81c\uc7ac\ud55c \uc911\uad6d \ud68c\uc0ac CXMT\ub85c\ubd80\ud130 \uba54\ubaa8\ub9ac \uce69 \uad6c\ub9e4 \ud5c8\uac00\ub97c \uc704\ud574 \ud2b8\ub7fc\ud504 \ud589\uc815\ubd80\uc5d0 \ub85c\ube44 \uc911 (\ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988)\n  > Summary: \uc560\ud50c\uc740 \uc0c1\uc2b9\ud558\ub294 \uce69 \uac00\uaca9 \uc555\ubc15\uc744 \uc644\ud654\ud558\uae30 \uc704\ud574 \ubbf8\uad6d\uc774 \uc81c\uc7ac\ud55c \uc911\uad6d \ud68c\uc0ac CXMT\ub85c\ubd80\ud130 \uba54\ubaa8..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-27 03:57:04",
       "message": "Reprocessing: Introducing An Agentic LLM For Chip Design"
+    },
+    {
+      "timestamp": "2026-06-27 03:57:06",
+      "message": "[PROCESSING] Analyzing: Introducing An Agentic LLM For Chip Design..."
+    },
+    {
+      "timestamp": "2026-06-27 03:57:09",
+      "message": "[SUCCESS] Processed: \ubc18\ub3c4\uccb4 \uc124\uacc4\ub97c \uc704\ud55c \uc5d0\uc774\uc804\ud2b8 LLM \uc18c\uac1c\n  > Summary: ChipAgents\ub294 '\uc7ac\uc0dd'\uc744 \uc758\ubbf8\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378(LLM)\uc778 \ub808\ub178\ub974\ub97c \uc18c\uac1c..."
     }
   ]
 }
