@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-27 02:49:02",
+  "last_updated": "2026-06-27 02:49:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-27 02:48:28",
-      "message": "[SUCCESS] Processed: CCCL \ub7f0\ud0c0\uc784: CUDA\ub97c \uc704\ud55c \ud604\ub300 C++ \ub7f0\ud0c0\uc784\n  > Summary: NVIDIA CUDA Core Compute Libraries (CCCL)\uc740 C++\uc640 Py..."
-    },
     {
       "timestamp": "2026-06-27 02:48:29",
       "message": "[PROCESSING] Analyzing: Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-27 02:49:02",
       "message": "[PROCESSING] Analyzing: Early Bird pricing ends tonight for TechCrunch Founder Summit..."
+    },
+    {
+      "timestamp": "2026-06-27 02:49:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Early Bird pricing ends tonight for TechCrunch Founder Summit"
     }
   ]
 }
