@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-27 00:33:25",
+  "last_updated": "2026-06-27 00:33:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-27 00:32:48",
-      "message": "Found 196 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-27 00:32:48",
       "message": "[PROCESSING] Analyzing: Prime Day&#8217;s final hours bring rare discounts on Philips Hue smart lights..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-27 00:33:25",
       "message": "[PROCESSING] Analyzing: This video bird feeder is the surprise hit of Prime Day..."
+    },
+    {
+      "timestamp": "2026-06-27 00:33:28",
+      "message": "[SKIP] Irrelevant (AI Filter): This video bird feeder is the surprise hit of Prime Day"
     }
   ]
 }
