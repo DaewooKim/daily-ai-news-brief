@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-27 18:24:14",
+  "last_updated": "2026-06-27 18:24:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-27 18:23:38",
-      "message": "[PROCESSING] Analyzing: It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from..."
-    },
-    {
-      "timestamp": "2026-06-27 18:23:40",
-      "message": "[SKIP] Irrelevant (AI Filter): It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from"
-    },
     {
       "timestamp": "2026-06-27 18:23:42",
       "message": "[PROCESSING] Analyzing: 24 Prime Day deals Verge readers are grabbing before Prime Day ends..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-27 18:24:14",
       "message": "[SUCCESS] Processed: NVIDIA BioNeMo \uc5d0\uc774\uc804\ud2b8 \ub3c4\uad6c \ud0a4\ud2b8\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc0dd\uba85 \uacfc\ud559 \ubc1c\uacac\uc744 \uc704\ud55c AI \uacfc\ud559\uc790 \uad6c\ucd95\ud558\uae30\n  > Summary: AI \uacfc\ud559\uc790\ub4e4\uc740 \uacfc\ud559 \ucef4\ud4e8\ud305\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 \uc778\ud130\ud398\uc774\uc2a4\ub85c \ub5a0\uc624\ub974\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \uc5d0\uc774\uc804\ud2b8\ub4e4\uc740..."
+    },
+    {
+      "timestamp": "2026-06-27 18:24:15",
+      "message": "Reprocessing: Optimizing cloud economics with linear elastic caching"
+    },
+    {
+      "timestamp": "2026-06-27 18:24:17",
+      "message": "[SKIP] Content too short: Optimizing cloud economics wit..."
     }
   ]
 }
