@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-27 00:36:20",
+  "last_updated": "2026-06-27 00:36:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-27 00:35:37",
-      "message": "[PROCESSING] Analyzing: AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged (Catherine Perloff/The Information)..."
-    },
     {
       "timestamp": "2026-06-27 00:35:40",
       "message": "[SUCCESS] Processed: AWS, AI \ucef4\ud4e8\ud2b8 \uc0ac\uc804 \uc784\ub300\ub97c \uc704\ud55c EC2 \uc6a9\ub7c9 \ube14\ub85d \uc11c\ube44\uc2a4\uc5d0\uc11c Nvidia GPU \uac00\uaca9 20% \uc778\uc0c1\n  > Summary: \uc544\ub9c8\uc874 \uc6f9 \uc11c\ube44\uc2a4(AWS)\uac00 AI \uc6cc\ud06c\ub85c\ub4dc \ub80c\ud0c8 \uc11c\ube44\uc2a4\uc778 EC2 \uc6a9\ub7c9 \ube14\ub85d\uc5d0\uc11c Nvidia..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-27 00:36:20",
       "message": "[SUCCESS] Processed: OpenAI\ub294 GPT-5.6\uc744 \uace7 \uc77c\ubc18 \uacf5\uac1c\ud560 \uacc4\ud68d\uc774\uba70 \u201c\uc774\ub7ec\ud55c \uc815\ubd80 \uc811\uadfc \uacfc\uc815\u201d\uc774 \uc7a5\uae30\uc801 \uae30\ubcf8\uc774 \ub418\uc5b4\uc11c\ub294 \uc548 \ub41c\ub2e4\uace0 \ub9d0\ud569\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 \ud5a5\ud6c4 \uba87 \uc8fc \ub0b4\uc5d0 GPT-5.6\uc744 \uc77c\ubc18\uc5d0\uac8c \uacf5\uac1c\ud560 \uacc4\ud68d\uc774\ub77c\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \ub610..."
+    },
+    {
+      "timestamp": "2026-06-27 00:36:21",
+      "message": "Reprocessing: Chip Industry Week In Review"
     }
   ]
 }
