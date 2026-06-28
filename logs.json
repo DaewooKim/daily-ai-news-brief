@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-28 13:04:01",
+  "last_updated": "2026-06-28 13:04:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-28 13:03:23",
-      "message": "Found 171 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-28 13:03:23",
       "message": "[PROCESSING] Analyzing: Nest&#8217;s quest to fix your thermostat..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-28 13:04:01",
       "message": "Reprocessing: HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy"
+    },
+    {
+      "timestamp": "2026-06-28 13:04:02",
+      "message": "[SKIP] Content too short: HPE Delivers Upgraded HPC Hard..."
     }
   ]
 }
