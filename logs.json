@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-28 04:19:00",
+  "last_updated": "2026-06-28 04:19:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-28 04:18:28",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-06-28 04:18:28",
-      "message": "[PROCESSING] Analyzing: Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler..."
-    },
     {
       "timestamp": "2026-06-28 04:18:31",
       "message": "[SKIP] Irrelevant (AI Filter): Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-28 04:19:00",
       "message": "Reprocessing: HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy"
+    },
+    {
+      "timestamp": "2026-06-28 04:19:01",
+      "message": "[SKIP] Content too short: HPE Delivers Upgraded HPC Hard..."
+    },
+    {
+      "timestamp": "2026-06-28 04:19:03",
+      "message": "Reprocessing: AMD And Nvidia Are Neck And Neck In HPC Supercomputing"
     }
   ]
 }
