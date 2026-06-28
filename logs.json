@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-28 13:05:43",
+  "last_updated": "2026-06-28 13:05:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-28 13:05:01",
-      "message": "[PROCESSING] Analyzing: Early Bird pricing ends tonight for TechCrunch Founder Summit..."
-    },
     {
       "timestamp": "2026-06-28 13:05:04",
       "message": "[SKIP] Irrelevant (AI Filter): Early Bird pricing ends tonight for TechCrunch Founder Summit"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-28 13:05:43",
       "message": "[PROCESSING] Analyzing: Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles (Scharon Harding/Ars Technica)..."
+    },
+    {
+      "timestamp": "2026-06-28 13:05:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles (Scharon Harding/Ars Technica)"
     }
   ]
 }
