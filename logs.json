@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-06-28 07:36:27",
+  "last_updated": "2026-06-28 07:36:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-28 07:35:55",
-      "message": "Found 179 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-06-28 07:35:55",
-      "message": "[PROCESSING] Analyzing: TMD\u2019s keyless bike lock is a $280 solution to a $60 problem..."
-    },
     {
       "timestamp": "2026-06-28 07:35:58",
       "message": "[SKIP] Irrelevant (AI Filter): TMD\u2019s keyless bike lock is a $280 solution to a $60 problem"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-06-28 07:36:27",
       "message": "Reprocessing: HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy"
+    },
+    {
+      "timestamp": "2026-06-28 07:36:29",
+      "message": "[SKIP] Content too short: HPE Delivers Upgraded HPC Hard..."
+    },
+    {
+      "timestamp": "2026-06-28 07:36:30",
+      "message": "Reprocessing: AMD And Nvidia Are Neck And Neck In HPC Supercomputing"
     }
   ]
 }
