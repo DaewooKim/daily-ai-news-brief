@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-28 16:22:54",
+  "last_updated": "2026-06-28 16:22:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-28 16:22:03",
-      "message": "Reprocessing: Chip Industry Week In Review"
-    },
     {
       "timestamp": "2026-06-28 16:22:05",
       "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-28 16:22:54",
       "message": "[PROCESSING] Analyzing: Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design..."
+    },
+    {
+      "timestamp": "2026-06-28 16:22:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Eggtronic, Renesas Unveil GaN-Based Microinverter Reference Design"
     }
   ]
 }
