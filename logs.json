@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-28 12:00:39",
+  "last_updated": "2026-06-28 12:00:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-28 11:59:58",
-      "message": "[PROCESSING] Analyzing: Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles (Scharon Harding/Ars Technica)..."
-    },
     {
       "timestamp": "2026-06-28 12:00:00",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles (Scharon Harding/Ars Technica)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-28 12:00:39",
       "message": "[PROCESSING] Analyzing: ST Unveils Secure Mobile Chip with PQC..."
+    },
+    {
+      "timestamp": "2026-06-28 12:00:41",
+      "message": "[SKIP] Irrelevant (AI Filter): ST Unveils Secure Mobile Chip with PQC"
     }
   ]
 }
