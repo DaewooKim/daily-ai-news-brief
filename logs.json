@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-29 06:26:30",
+  "last_updated": "2026-06-29 06:26:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-29 06:25:50",
-      "message": "[PROCESSING] Analyzing: The White House is asking OpenAI to slow roll the release of its new model over safety concerns..."
-    },
     {
       "timestamp": "2026-06-29 06:25:53",
       "message": "[SUCCESS] Processed: \ubc31\uc545\uad00, OpenAI\uc5d0 \uc548\uc804 \uc6b0\ub824\ub85c \uc0c8 \ubaa8\ub378 \ucd9c\uc2dc \uc18d\ub3c4 \uc870\uc808 \uc694\uccad\n  > Summary: OpenAI\ub294 \ucd5c\uadfc \ubaa8\ub378 GPT 5.6\uc744 \uc77c\ubc18 \ub300\uc911 \ub300\uc2e0 \uc120\ud0dd\ub41c \ud30c\ud2b8\ub108 \uadf8\ub8f9\uacfc \uacf5\uc720\ud560 \uacc4\ud68d..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-29 06:26:30",
       "message": "[PROCESSING] Analyzing: Google's Earthquake Alerts system reached 11.4M+ Android users ahead of Venezuela's June 24 earthquakes, providing seconds or up to two minutes of prior notice (New York Times)..."
+    },
+    {
+      "timestamp": "2026-06-29 06:26:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Google's Earthquake Alerts system reached 11.4M+ Android users ahead of Venezuela's June 24 earthquakes, providing seconds or up to two minutes of prior notice (New York Times)"
     }
   ]
 }
