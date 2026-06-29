@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-29 23:59:19",
+  "last_updated": "2026-06-29 23:59:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-29 23:58:40",
-      "message": "[SUCCESS] Processed: TIDAL, AI \uc74c\uc545 \uae08\uc9c0\ub97c \uac15\ud654\ud558\uba70 \uc218\uc775 \ucc3d\ucd9c \uc911\ub2e8\n  > Summary: TIDAL\uc740 \uc544\ud2f0\uc2a4\ud2b8\ub098 \uadf8\ub8f9\uc744 \uc0ac\uce6d\ud558\ub294 AI \uc0dd\uc131 \uc74c\uc545\uc758 \uc218\uc775 \ucc3d\ucd9c\uc744 \uc911\ub2e8\ud558\uae30\ub85c \uacb0\uc815\ud588\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-06-29 23:58:42",
       "message": "[PROCESSING] Analyzing: SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-29 23:59:19",
       "message": "[PROCESSING] Analyzing: In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak (Joanna Glasner/Crunchbase News)..."
+    },
+    {
+      "timestamp": "2026-06-29 23:59:21",
+      "message": "[SKIP] Irrelevant (AI Filter): In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak (Joanna Glasner/Crunchbase News)"
     }
   ]
 }
