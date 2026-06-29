@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-29 18:32:02",
+  "last_updated": "2026-06-29 18:32:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-29 18:31:19",
-      "message": "[PROCESSING] Analyzing: In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak (Joanna Glasner/Crunchbase News)..."
-    },
     {
       "timestamp": "2026-06-29 18:31:24",
       "message": "[SKIP] Irrelevant (AI Filter): In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak (Joanna Glasner/Crunchbase News)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-29 18:32:02",
       "message": "[SUCCESS] Processed: \uc624\ud508 \uc18c\uc2a4 RISC-V \ud50c\ub7ab\ud3fc, \uce69 \ub514\uc790\uc774\ub108\ub97c RTL\uc5d0\uc11c \uc2e4\ub9ac\ucf58\uae4c\uc9c0 \uad50\uc721\ud558\ub2e4 (ETH Z., lowRISC, \ubcfc\ub85c\ub0d0 \ub300\ud559\uad50)\n  > Summary: ETH \ucde8\ub9ac\ud788, lowRISC, \ubcfc\ub85c\ub0d0 \ub300\ud559\uad50\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 'Croc: \ub3c4\uba54\uc778 \ud2b9\ud654\uc758 \uc5d4\ub4dc..."
+    },
+    {
+      "timestamp": "2026-06-29 18:32:04",
+      "message": "Reprocessing: Chip Industry Week In Review"
     }
   ]
 }
