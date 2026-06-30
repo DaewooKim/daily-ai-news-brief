@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 15:14:59",
+  "last_updated": "2026-06-30 15:15:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 15:14:15",
-      "message": "[SUCCESS] Processed: AWS, AI\ub97c \uc704\ud55c CPU\uc758 \uc911\uc694\uc131\uc744 \uac15\uc870\ud558\uba70 EC2 C9g/C9gd\uc5d0 Graviton5 \ub3c4\uc785\n  > Summary: AWS\ub294 Graviton5\ub97c \uae30\ubc18\uc73c\ub85c \ud55c C9g \ubc0f C9gd \uc778\uc2a4\ud134\uc2a4\ub97c \ucd9c\uc2dc\ud558\uc5ec AI \uc624\ucf00..."
-    },
     {
       "timestamp": "2026-06-30 15:14:17",
       "message": "[PROCESSING] Analyzing: Digital Realty Pays $3.5B for Blackstone Data Center Stakes..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 15:14:59",
       "message": "[SKIP] Irrelevant (AI Filter): Five Chinese tech and advanced manufacturing companies launch Hong Kong listings, seeking to raise up to $5.6B, led by Apple supplier Luxshare's $3.15B offering (Reuters)"
+    },
+    {
+      "timestamp": "2026-06-30 15:15:01",
+      "message": "Reprocessing: Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)"
     }
   ]
 }
