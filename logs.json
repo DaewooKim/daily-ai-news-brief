@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 17:25:26",
+  "last_updated": "2026-06-30 17:25:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 17:24:37",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-06-30 17:24:37",
       "message": "[PROCESSING] Analyzing: Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 17:25:26",
       "message": "Reprocessing: Three HPC Gurus Ask: Do We Still Need GPUs?"
+    },
+    {
+      "timestamp": "2026-06-30 17:25:28",
+      "message": "[SKIP] Content too short: Three HPC Gurus Ask: Do We Sti..."
     }
   ]
 }
