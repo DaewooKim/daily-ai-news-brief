@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 15:12:56",
+  "last_updated": "2026-06-30 15:12:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 15:12:06",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-06-30 15:12:06",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 15:12:56",
       "message": "[PROCESSING] Analyzing: Sony&#8217;s next-gen PlayStation will go \u2018beyond the living room\u2019..."
+    },
+    {
+      "timestamp": "2026-06-30 15:12:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Sony&#8217;s next-gen PlayStation will go \u2018beyond the living room\u2019"
     }
   ]
 }
