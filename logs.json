@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 07:35:38",
+  "last_updated": "2026-06-30 07:35:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 07:34:59",
-      "message": "[SUCCESS] Processed: TIDAL, AI \uc74c\uc545 \ucc28\ub2e8\uc744 \uc704\ud574 \uc218\uc775\ud654 \uc911\ub2e8\n  > Summary: TIDAL\uc740 \uc544\ud2f0\uc2a4\ud2b8\ub098 \uadf8\ub8f9\uc744 \ubaa8\ubc29\ud558\ub824\ub294 AI \uc0dd\uc131 \uc74c\uc545\uc758 \uc218\uc775\ud654\ub97c \uc911\ub2e8\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-06-30 07:35:01",
       "message": "[PROCESSING] Analyzing: SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 07:35:38",
       "message": "[PROCESSING] Analyzing: Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-06-30 07:35:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV (Bloomberg)"
     }
   ]
 }
