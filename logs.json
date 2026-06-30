@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 16:20:34",
+  "last_updated": "2026-06-30 16:20:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 16:19:53",
-      "message": "[SUCCESS] Processed: \ud31f\uce90\uc2a4\ud305 \ud50c\ub7ab\ud3fc \ub9ac\ubc84\uc0ac\uc774\ub4dc, \ub274\uc2a4\ub808\ud130 \ucd9c\ud310 \uac8c\uc784\uc5d0 \uc9c4\uc785\n  > Summary: \uc0ac\uc6a9\uc790\ub4e4\uc740 \uc790\uc2e0\uc758 \ub179\uc74c\uc744 \uae30\ubc18\uc73c\ub85c \ub274\uc2a4\ub808\ud130\ub97c \uc0dd\uc131\ud558\ub294 \ub370 AI\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub9ac\ubc84..."
-    },
     {
       "timestamp": "2026-06-30 16:19:54",
       "message": "Reprocessing: Crypto exchange OKX wants AI agents to hire and pay each other"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 16:20:34",
       "message": "[PROCESSING] Analyzing: Filings: Microsoft's Ireland hub generated $47B in pretax profits for FY 2025, or 38.1% of its global total; new EU rules require country-by-country reporting (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-06-30 16:20:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Filings: Microsoft's Ireland hub generated $47B in pretax profits for FY 2025, or 38.1% of its global total; new EU rules require country-by-country reporting (Wall Street Journal)"
     }
   ]
 }
