@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 13:03:59",
+  "last_updated": "2026-06-30 13:04:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 13:03:16",
-      "message": "[PROCESSING] Analyzing: Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units (Nikkei Asia)..."
-    },
     {
       "timestamp": "2026-06-30 13:03:19",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units (Nikkei Asia)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 13:03:59",
       "message": "[PROCESSING] Analyzing: Qualinx Integrates Galileo OSNMA into GNSS Receiver..."
+    },
+    {
+      "timestamp": "2026-06-30 13:04:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Qualinx Integrates Galileo OSNMA into GNSS Receiver"
     }
   ]
 }
