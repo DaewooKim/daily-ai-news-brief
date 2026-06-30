@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 17:28:46",
+  "last_updated": "2026-06-30 17:28:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 17:28:02",
-      "message": "[SUCCESS] Processed: AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5 Etched, Jane Street\uc640 TSMC \uc5f0\uacb0 \ubca4\ucc98 \ud380\ub4dc \ub4f1\uc73c\ub85c\ubd80\ud130 8\uc5b5 \ub2ec\ub7ec \ubaa8\uae08\n  > Summary: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Etched\ub294 Jane Street \ubc0f TSMC \uc5f0\uacb0 \ubca4\ucc98 \ud380\ub4dc\ub85c\ubd80\ud130 8..."
-    },
     {
       "timestamp": "2026-06-30 17:28:04",
       "message": "[PROCESSING] Analyzing: An Indonesian court sentences Gojek co-founder and ex-education minister Nadiem Makarim to 10 years in prison for power abuses over a Chromebook contract (New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 17:28:46",
       "message": "[PROCESSING] Analyzing: Qualinx Integrates Galileo OSNMA into GNSS Receiver..."
+    },
+    {
+      "timestamp": "2026-06-30 17:28:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Qualinx Integrates Galileo OSNMA into GNSS Receiver"
     }
   ]
 }
