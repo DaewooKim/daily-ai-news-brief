@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 10:53:00",
+  "last_updated": "2026-06-30 10:53:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 10:52:19",
-      "message": "[PROCESSING] Analyzing: Meituan open-sources LongCat-2.0, a 1.6T-parameter model that it says was trained on a 50K-chip cluster of domestic Chinese processors, without giving details (Reuters)..."
-    },
     {
       "timestamp": "2026-06-30 10:52:22",
       "message": "[SUCCESS] Processed: Meituan, LongCat-2.0\uc744 \uc624\ud508\uc18c\uc2a4\ud654\ud558\ub2e4. \uc774 \ubaa8\ub378\uc740 5\ub9cc \uac1c\uc758 \uad6d\ub0b4 \ud504\ub85c\uc138\uc11c \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c \ud6c8\ub828\ub418\uc5c8\ub2e4\uace0 \uc804\ud588\ub2e4.\n  > Summary: \uc911\uad6d\uc758 \uc74c\uc2dd \ubc30\ub2ec \uac70\ub300 \uae30\uc5c5\uc778 Meituan\uc774 \ub2e4\uc74c \uc138\ub300\uc758 LongCat-2.0\uc744 \uc624\ud508\uc18c\uc2a4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 10:53:00",
       "message": "[SUCCESS] Processed: \uc624\ud508\uc18c\uc2a4 RISC-V \ud50c\ub7ab\ud3fc, \uce69 \uc124\uacc4\uc790\ub97c RTL\uc5d0\uc11c \uc2e4\ub9ac\ucf58\uae4c\uc9c0 \uad50\uc721\ud558\ub2e4 (ETH Z., lowRISC, \ubcfc\ub85c\ub0d0 \ub300\ud559\uad50)\n  > Summary: ETH \ucde8\ub9ac\ud788, lowRISC, \ubcfc\ub85c\ub0d0 \ub300\ud559\uad50\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 'Croc: \ub3c4\uba54\uc778 \ud2b9\ud654 \uc5d4\ub4dc ..."
+    },
+    {
+      "timestamp": "2026-06-30 10:53:01",
+      "message": "Reprocessing: Chip Industry Week In Review"
     }
   ]
 }
