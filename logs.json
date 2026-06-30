@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-06-30 16:21:10",
+  "last_updated": "2026-06-30 16:21:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-06-30 16:20:26",
-      "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc HPC \ubc0f \ubd84\uc11d\uc744 \ubaa9\ud45c\ub85c \ud55c Graviton5 \uae30\ubc18\uc758 C9g..."
-    },
     {
       "timestamp": "2026-06-30 16:20:28",
       "message": "[PROCESSING] Analyzing: Google launches Nano Banana 2 Lite, a low cost text-to-image model that delivers outputs in four seconds, and rolls out Gemini Omni Flash to developers (The Keyword)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-06-30 16:21:10",
       "message": "[SKIP] Irrelevant (AI Filter): The UK CMA proposes requiring Apple and Google to relax UK developer payment \"steering\" rules, and Apple to open NFC; Google says it \"already made the changes\" (Sam Tabahriti/Reuters)"
+    },
+    {
+      "timestamp": "2026-06-30 16:21:12",
+      "message": "Reprocessing: Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)"
     }
   ]
 }
