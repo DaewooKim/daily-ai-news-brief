@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 20:23:21",
+  "last_updated": "2026-07-01 20:23:23",
   "status": "running",
   "logs": [
     {
@@ -45,6 +45,10 @@
     {
       "timestamp": "2026-07-01 20:23:21",
       "message": "[PROCESSING] Analyzing: My favorite Kindle alternative is $30 off after a recent price increase..."
+    },
+    {
+      "timestamp": "2026-07-01 20:23:23",
+      "message": "[SKIP] Irrelevant (AI Filter): My favorite Kindle alternative is $30 off after a recent price increase"
     }
   ]
 }
