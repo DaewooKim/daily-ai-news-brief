@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 04:59:49",
+  "last_updated": "2026-07-01 04:59:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 04:59:13",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d\uc740 \ud074\ub85c\ub4dc \uc0ac\uc6a9\uc790\ub97c \uc704\ud574 7\uc6d4 7\uc77c\ubd80\ud130 \uc0ac\uc6a9 \ud06c\ub808\ub527\uc744 \ud1b5\ud574 \ud30c\ube14 5\ub97c \uc81c\uacf5\ud560 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud558\uba70, AI \ud0c8\uc625 \uc2ec\uac01\uc131 \uae30\uc900\uc744 \ucd08\uc548\ud558\uae30 \uc704\ud574 \ud30c\ud2b8\ub108\ub4e4\uacfc \ud611\ub825\ud558\uace0 \uc788\ub2e4.\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ud074\ub85c\ub4dc \uc0ac\uc6a9\uc790\ub97c \uc704\ud574 7\uc6d4 7\uc77c\ubd80\ud130 \ud30c\ube14 5\ub97c \uc0ac\uc6a9 \ud06c\ub808\ub527\uc73c\ub85c \uc774\uc6a9\ud560 \uc218 \uc788\ub2e4\uace0..."
-    },
     {
       "timestamp": "2026-07-01 04:59:15",
       "message": "[PROCESSING] Analyzing: Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business (Elias Schisgall/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 04:59:49",
       "message": "[PROCESSING] Analyzing: Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-01 04:59:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants (Bloomberg)"
     }
   ]
 }
