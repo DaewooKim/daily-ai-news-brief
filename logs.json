@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-01 14:51:53",
+  "last_updated": "2026-07-01 14:51:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 14:51:04",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-07-01 14:51:04",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-01 14:51:18",
       "message": "Found 154 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-01 14:51:53",
       "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-01 14:51:55",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
+    },
+    {
+      "timestamp": "2026-07-01 14:51:56",
+      "message": "Reprocessing: Introducing GeneBench-Pro"
     }
   ]
 }
