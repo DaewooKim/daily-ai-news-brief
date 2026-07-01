@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 07:12:41",
+  "last_updated": "2026-07-01 07:12:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 07:11:54",
-      "message": "[PROCESSING] Analyzing: Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)..."
-    },
     {
       "timestamp": "2026-07-01 07:11:59",
       "message": "[SUCCESS] Processed: \uc624\ud508 \uc18c\uc2a4 RISC-V \ud50c\ub7ab\ud3fc, RTL\uc5d0\uc11c \uc2e4\ub9ac\ucf58\uae4c\uc9c0 \uce69 \uc124\uacc4\uc790\ub97c \uad50\uc721\ud558\ub2e4 (ETH Z., lowRISC, \ubcfc\ub85c\ub0d0\ub300)\n  > Summary: ETH \ucde8\ub9ac\ud788, lowRISC, \ubcfc\ub85c\ub0d0\ub300\ud559\uad50\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 'Croc: \ub3c4\uba54\uc778 \ud2b9\ud654 \uc885\ub2e8 \uac04..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 07:12:41",
       "message": "[SKIP] Content too short: Visa, Stripe and 140 others ba..."
+    },
+    {
+      "timestamp": "2026-07-01 07:12:43",
+      "message": "Reprocessing: New instances bring AWS\u2019 Graviton5 CPUs to high-performance cloud workloads"
     }
   ]
 }
