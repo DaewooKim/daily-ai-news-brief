@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 01:42:40",
+  "last_updated": "2026-07-01 01:42:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 01:41:59",
-      "message": "[PROCESSING] Analyzing: Why AI Data Centers Make Existing Power Plants More Valuable..."
-    },
     {
       "timestamp": "2026-07-01 01:42:02",
       "message": "[SUCCESS] Processed: \uc65c AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uae30\uc874 \ubc1c\uc804\uc18c\uc758 \uac00\uce58\ub97c \ub192\uc774\ub294\uac00\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc804\ub825 \uc218\uc694\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uc720\ud2f8\ub9ac\ud2f0 \uae30\uc5c5\uacfc \ud22c\uc790\uc790\ub4e4\uc740 \uc0c8\ub85c\uc6b4 \ud504\ub85c\uc81d\ud2b8\ubcf4\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 01:42:40",
       "message": "[PROCESSING] Analyzing: Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app (Bobby Allyn/NPR)..."
+    },
+    {
+      "timestamp": "2026-07-01 01:42:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app (Bobby Allyn/NPR)"
     }
   ]
 }
