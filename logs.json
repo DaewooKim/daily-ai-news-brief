@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 07:11:38",
+  "last_updated": "2026-07-01 07:11:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 07:10:55",
-      "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc HPC, \ubd84\uc11d\uc744 \uc9c0\uc6d0\ud558\ub294 Graviton5 \uae30\ubc18\uc758 C9g \ubc0f..."
-    },
     {
       "timestamp": "2026-07-01 07:10:57",
       "message": "[PROCESSING] Analyzing: A look at Manifest, an annual convention for prediction markets where many purists worry that Kalshi and Polymarket are undermining the technology's public good (Christopher Beam/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 07:11:38",
       "message": "[PROCESSING] Analyzing: Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-01 07:11:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B (Bloomberg)"
     }
   ]
 }
