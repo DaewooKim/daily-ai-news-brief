@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 00:36:31",
+  "last_updated": "2026-07-01 00:36:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 00:35:52",
-      "message": "Reprocessing: Crypto exchange OKX wants AI agents to hire and pay each other"
-    },
     {
       "timestamp": "2026-07-01 00:35:53",
       "message": "[PROCESSING] Analyzing: Crypto exchange OKX wants AI agents to hire and pay each other..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 00:36:31",
       "message": "[PROCESSING] Analyzing: Sources: Microsoft plans to announce job cuts next week affecting less than 2.5% of its 220,000-person workforce, including roles in sales, consulting, and Xbox (Ashley Stewart/Business Insider)..."
+    },
+    {
+      "timestamp": "2026-07-01 00:36:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Microsoft plans to announce job cuts next week affecting less than 2.5% of its 220,000-person workforce, including roles in sales, consulting, and Xbox (Ashley Stewart/Business Insider)"
     }
   ]
 }
