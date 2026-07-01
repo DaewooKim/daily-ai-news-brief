@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 06:06:45",
+  "last_updated": "2026-07-01 06:06:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 06:06:03",
-      "message": "[PROCESSING] Analyzing: Chip Industry Week In Review..."
-    },
     {
       "timestamp": "2026-07-01 06:06:09",
       "message": "[SUCCESS] Processed: \ubc18\ub3c4\uccb4 \uc0b0\uc5c5 \uc8fc\uac04 \ub9ac\ubdf0\n  > Summary: IBM\uc740 \uc815\ubc00\ud558\uac8c \uac01\uc774 \uc838 \uc788\ub294 \uc2a4\ud0dc\uac70\ub4dc \ub098\ub178\uc2dc\ud2b8 \ud2b8\ub79c\uc9c0\uc2a4\ud130\ub97c \uc0ac\uc6a9\ud558\ub294 7\u00c5 \ud2b8\ub79c\uc9c0\uc2a4\ud130 \uc544..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 06:06:45",
       "message": "[SKIP] Content too short: Visa, Stripe and 140 others ba..."
+    },
+    {
+      "timestamp": "2026-07-01 06:06:47",
+      "message": "Reprocessing: New instances bring AWS\u2019 Graviton5 CPUs to high-performance cloud workloads"
     }
   ]
 }
