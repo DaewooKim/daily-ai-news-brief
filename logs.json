@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 08:17:36",
+  "last_updated": "2026-07-01 08:17:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 08:16:53",
-      "message": "[PROCESSING] Analyzing: AWS Launches Graviton5-Powered EC2 Instances for AI and HPC..."
-    },
     {
       "timestamp": "2026-07-01 08:16:56",
       "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\uac00 AI \uc870\uc815\uacfc HPC \ubc0f \ubd84\uc11d\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 Graviton5 \uae30\ubc18\uc758 C9g \ubc0f C..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 08:17:36",
       "message": "[PROCESSING] Analyzing: Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business (Elias Schisgall/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-07-01 08:17:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business (Elias Schisgall/Wall Street Journal)"
     }
   ]
 }
