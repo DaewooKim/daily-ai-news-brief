@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-01 16:01:50",
+  "last_updated": "2026-07-01 16:01:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-01 16:01:10",
-      "message": "[PROCESSING] Analyzing: Anthropic is bringing back Claude Fable 5 globally after US lifts export control order \u2014 where can enterprises access it?..."
-    },
     {
       "timestamp": "2026-07-01 16:01:15",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ubbf8\uad6d\uc758 \uc218\ucd9c \ud1b5\uc81c \uba85\ub839 \ud574\uc81c \ud6c4 \ud074\ub85c\ub4dc \ud398\uc774\ube14 5\ub97c \uc804 \uc138\uacc4\uc5d0 \ub2e4\uc2dc \uc81c\uacf5 - \uae30\uc5c5\ub4e4\uc740 \uc5b4\ub514\uc5d0\uc11c \uc811\uadfc\ud560 \uc218 \uc788\ub098?\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ubbf8\uad6d \uc0c1\ubb34\ubd80\uac00 \uae34\uae09 \uc218\ucd9c \ud1b5\uc81c \uba85\ub839\uc744 \ud574\uc81c\ud55c \ud6c4, \uac00\uc7a5 \uac15\ub825\ud55c \uc77c\ubc18 \ucd9c\uc2dc AI ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-01 16:01:50",
       "message": "Reprocessing: Inference chip startup Etched launches with $800M in funding"
+    },
+    {
+      "timestamp": "2026-07-01 16:01:52",
+      "message": "[SKIP] Content too short: Inference chip startup Etched ..."
     }
   ]
 }
