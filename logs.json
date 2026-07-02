@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 03:03:32",
+  "last_updated": "2026-07-02 03:03:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 03:03:02",
-      "message": "[PROCESSING] Analyzing: Qualinx Integrates Galileo OSNMA into GNSS Receiver..."
-    },
     {
       "timestamp": "2026-07-02 03:03:04",
       "message": "[SKIP] Irrelevant (AI Filter): Qualinx Integrates Galileo OSNMA into GNSS Receiver"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 03:03:32",
       "message": "Reprocessing: AWS turbocharges log analytics in Amazon OpenSearch Service at no extra cost"
+    },
+    {
+      "timestamp": "2026-07-02 03:03:34",
+      "message": "[SKIP] Content too short: AWS turbocharges log analytics..."
     }
   ]
 }
