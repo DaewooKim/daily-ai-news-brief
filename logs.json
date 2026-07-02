@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 14:04:22",
+  "last_updated": "2026-07-02 14:04:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 14:03:38",
-      "message": "[PROCESSING] Analyzing: AWS Launches Graviton5-Powered EC2 Instances for AI and HPC..."
-    },
     {
       "timestamp": "2026-07-02 14:03:41",
       "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc HPC, \ubd84\uc11d\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 \uc0c8\ub85c\uc6b4 Graviton5 \uae30\ubc18 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 14:04:22",
       "message": "[PROCESSING] Analyzing: The European Court of Justice rules that Google's earlier defeat against a \u20ac4.1B European Commission penalty over abusing Android's market power should stand (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-02 14:04:24",
+      "message": "[SKIP] Irrelevant (AI Filter): The European Court of Justice rules that Google's earlier defeat against a \u20ac4.1B European Commission penalty over abusing Android's market power should stand (Bloomberg)"
     }
   ]
 }
