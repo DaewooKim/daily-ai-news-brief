@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 07:25:22",
+  "last_updated": "2026-07-02 07:25:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 07:24:40",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-02 07:24:40",
       "message": "[PROCESSING] Analyzing: Apple\u2019s entry-level MacBook Pro could be up for a redesign..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 07:25:22",
       "message": "Reprocessing: Of Course Meta Platforms Is Going To Be A Cloud"
+    },
+    {
+      "timestamp": "2026-07-02 07:25:23",
+      "message": "[SKIP] Content too short: Of Course Meta Platforms Is Go..."
     }
   ]
 }
