@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 10:47:03",
+  "last_updated": "2026-07-02 10:47:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 10:46:24",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)..."
-    },
     {
       "timestamp": "2026-07-02 10:46:28",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 10:47:03",
       "message": "[SKIP] Content too short: Palantir CEO Alex Karp doesn\u2019t..."
+    },
+    {
+      "timestamp": "2026-07-02 10:47:05",
+      "message": "Reprocessing: Homebuilding AI startup Higharc bags $90M in Series C funding"
     }
   ]
 }
