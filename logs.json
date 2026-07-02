@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 15:08:11",
+  "last_updated": "2026-07-02 15:08:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 15:07:19",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-02 15:07:30",
       "message": "Found 151 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 15:08:11",
       "message": "[PROCESSING] Analyzing: Xbox\u2019s \u2018reset\u2019: all the news about Microsoft&#8217;s looming layoffs and studio closures..."
+    },
+    {
+      "timestamp": "2026-07-02 15:08:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Xbox\u2019s \u2018reset\u2019: all the news about Microsoft&#8217;s looming layoffs and studio closures"
     }
   ]
 }
