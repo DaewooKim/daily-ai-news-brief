@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 11:51:53",
+  "last_updated": "2026-07-02 11:51:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 11:51:12",
-      "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 \uc0c8\ub85c\uc6b4 Graviton5 \uae30\ubc18\uc758 C9g \ubc0f C9gd \uc778\uc2a4\ud134\uc2a4\ub97c \ucd9c\uc2dc\ud558\uc600\uc73c\uba70, \uc774\ub294..."
-    },
     {
       "timestamp": "2026-07-02 11:51:14",
       "message": "[PROCESSING] Analyzing: Z.ai launches ZCode, an \"Agentic Development Environment\" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month (Michael Nu\u00f1ez/VentureBeat)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 11:51:53",
       "message": "[PROCESSING] Analyzing: A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban (Pew Research Center)..."
+    },
+    {
+      "timestamp": "2026-07-02 11:51:55",
+      "message": "[SKIP] Irrelevant (AI Filter): A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban (Pew Research Center)"
     }
   ]
 }
