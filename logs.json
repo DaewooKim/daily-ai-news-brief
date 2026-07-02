@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 04:08:19",
+  "last_updated": "2026-07-02 04:08:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 04:07:33",
-      "message": "[SUCCESS] Processed: \uc65c AI \ub370\uc774\ud130 \uc13c\ud130\ub294 \uae30\uc874 \ubc1c\uc804\uc18c\uc758 \uac00\uce58\ub97c \ub192\uc774\ub294\uac00\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc804\ub825 \uc218\uc694\uac00 \uc99d\uac00\ud558\uba74\uc11c, \uc720\ud2f8\ub9ac\ud2f0\uc640 \ud22c\uc790\uc790\ub4e4\uc740 \uc0c8\ub85c\uc6b4 \ud504\ub85c\uc81d\ud2b8\ubcf4\ub2e4 \ub354 \ube60\ub974..."
-    },
     {
       "timestamp": "2026-07-02 04:07:34",
       "message": "Reprocessing: AWS Launches Graviton5-Powered EC2 Instances for AI and HPC"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 04:08:19",
       "message": "[PROCESSING] Analyzing: Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO (Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-02 04:08:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO (Reuters)"
     }
   ]
 }
