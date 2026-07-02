@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-02 00:50:27",
+  "last_updated": "2026-07-02 00:50:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 00:49:50",
-      "message": "[SKIP] Irrelevant (AI Filter): Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO (Reuters)"
-    },
-    {
-      "timestamp": "2026-07-02 00:49:51",
-      "message": "[PROCESSING] Analyzing: Sources: Apple is working on new iPad Pros and an entry-level 14\" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 (Mark Gurman/Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-02 00:49:53",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple is working on new iPad Pros and an entry-level 14\" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 (Mark Gurman/Bloomberg)"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-02 00:50:27",
       "message": "Reprocessing: HyperLane: GPU Virtualization with Imagination"
+    },
+    {
+      "timestamp": "2026-07-02 00:50:28",
+      "message": "[PROCESSING] Analyzing: HyperLane: GPU Virtualization with Imagination..."
+    },
+    {
+      "timestamp": "2026-07-02 00:50:32",
+      "message": "[SUCCESS] Processed: \ud558\uc774\ud37c\ub808\uc778: \uc0c1\uc0c1\ub825\uc73c\ub85c GPU \uac00\uc0c1\ud654\n  > Summary: GPU \uac00\uc0c1\ud654\ub294 \uc5ec\ub7ec \uc6b4\uc601 \uccb4\uc81c\uac00 \ub2e8\uc77c GPU\ub97c \uacf5\uc720\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\uc5ec \uac01\uc790 \ub3c5\ub9bd\uc801\uc73c\ub85c \uc791..."
     }
   ]
 }
