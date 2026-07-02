@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 20:36:44",
+  "last_updated": "2026-07-02 20:36:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 20:36:03",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-02 20:36:03",
       "message": "[PROCESSING] Analyzing: The best July 4th sales we found so far..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 20:36:44",
       "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-02 20:36:46",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
     }
   ]
 }
