@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 07:28:21",
+  "last_updated": "2026-07-02 07:28:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 07:27:33",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)"
-    },
     {
       "timestamp": "2026-07-02 07:27:34",
       "message": "[PROCESSING] Analyzing: Sources: Apple has told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from 7M-8M previously, and 80M iPhones in total across new models (Nikkei Asia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 07:28:21",
       "message": "[SUCCESS] Processed: HyperLane: GPU \uac00\uc0c1\ud654 \uae30\uc220\n  > Summary: GPU \uac00\uc0c1\ud654\ub294 \uc5ec\ub7ec \uc6b4\uc601 \uccb4\uc81c\uac00 \ub2e8\uc77c GPU\ub97c \uacf5\uc720\ud558\uc5ec \uac01\uc790 \ub3c5\ub9bd\uc801\uc73c\ub85c \uc791\uc5c5\uc744 \uc218\ud589\ud560 \uc218..."
+    },
+    {
+      "timestamp": "2026-07-02 07:28:22",
+      "message": "Reprocessing: The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem \u2014 and most are governing it by hand"
     }
   ]
 }
