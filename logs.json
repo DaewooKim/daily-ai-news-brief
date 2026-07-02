@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 00:50:19",
+  "last_updated": "2026-07-02 00:50:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 00:49:42",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: \ubc31\uc545\uad00\uc740 \uc0c8\ub85c\uc6b4 \ubaa8\ub378\uc5d0 \ub300\ud55c \uc790\ubc1c\uc801\uc778 \uae30\uc900\uacfc \ucd9c\uc2dc \uc77c\uc815\uc5d0 \uad00\ud574 AI \ud68c\uc0ac\ub4e4\uacfc \uace0\uc704\uae09 \ub17c\uc758\ub97c \uc9c4\ud589 \uc911\uc785\ub2c8\ub2e4.\n  > Summary: \ubc31\uc545\uad00\uc740 AI \ud68c\uc0ac\ub4e4\uacfc \uc790\ubc1c\uc801\uc778 \uae30\uc900 \ubc0f \uc0c8\ub85c\uc6b4 \ubaa8\ub378 \ucd9c\uc2dc \uc77c\uc815\uc5d0 \ub300\ud574 \uace0\uc704\uae09 \ub17c\uc758\ub97c \uc9c4\ud589..."
-    },
     {
       "timestamp": "2026-07-02 00:49:44",
       "message": "[PROCESSING] Analyzing: Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 00:50:19",
       "message": "[PROCESSING] Analyzing: Build Your Device Security Test Lab..."
+    },
+    {
+      "timestamp": "2026-07-02 00:50:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Build Your Device Security Test Lab"
     }
   ]
 }
