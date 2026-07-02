@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 08:32:07",
+  "last_updated": "2026-07-02 08:32:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 08:31:22",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-07-02 08:31:22",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 08:32:07",
       "message": "[PROCESSING] Analyzing: Sony is killing discs \u2014 and showing us why it\u2019s a terrible idea..."
+    },
+    {
+      "timestamp": "2026-07-02 08:32:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Sony is killing discs \u2014 and showing us why it\u2019s a terrible idea"
     }
   ]
 }
