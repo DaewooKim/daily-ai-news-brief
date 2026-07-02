@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 05:14:00",
+  "last_updated": "2026-07-02 05:14:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 05:13:20",
-      "message": "[PROCESSING] Analyzing: X now offers an MCP server to make its platform easier for AI tools to use..."
-    },
     {
       "timestamp": "2026-07-02 05:13:23",
       "message": "[SUCCESS] Processed: X\ub294 \uc774\uc81c AI \ub3c4\uad6c \uc0ac\uc6a9\uc744 \uc27d\uac8c \ud558\uae30 \uc704\ud574 MCP \uc11c\ubc84\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4\n  > Summary: X\ub294 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc774 \ud68c\uc0ac\uc758 API\uc640 \uc5f0\uacb0\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\ub294 \ud638\uc2a4\ud2f0\ub4dc MCP \uc11c\ubc84\ub97c \ucd9c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 05:14:00",
       "message": "[PROCESSING] Analyzing: An EU draft proposal dated June 30 shows the bloc is weighing weaker climate impact rules for gas-powered data centers, after heavy lobbying from tech groups (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-07-02 05:14:03",
+      "message": "[SKIP] Irrelevant (AI Filter): An EU draft proposal dated June 30 shows the bloc is weighing weaker climate impact rules for gas-powered data centers, after heavy lobbying from tech groups (Financial Times)"
     }
   ]
 }
