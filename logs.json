@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 03:02:24",
+  "last_updated": "2026-07-02 03:02:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 03:01:43",
-      "message": "Reprocessing: Amazon's emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google's \"ambition-based\" emissions jumped 18% YoY in 2025 (Bloomberg)"
-    },
     {
       "timestamp": "2026-07-02 03:01:45",
       "message": "[PROCESSING] Analyzing: Amazon's emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google's \"ambition-based\" emissions jumped 18% YoY in 2025 (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 03:02:24",
       "message": "[PROCESSING] Analyzing: Build Your Device Security Test Lab..."
+    },
+    {
+      "timestamp": "2026-07-02 03:02:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Build Your Device Security Test Lab"
     }
   ]
 }
