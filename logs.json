@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-07-02 09:43:06",
-  "status": "idle",
+  "last_updated": "2026-07-02 10:43:43",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-02 09:41:42",
-      "message": "Reprocessing: AWS turbocharges log analytics in Amazon OpenSearch Service at no extra cost"
+      "timestamp": "2026-07-02 10:43:29",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-02 09:41:43",
-      "message": "[SKIP] Content too short: AWS turbocharges log analytics..."
+      "timestamp": "2026-07-02 10:43:30",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-02 09:41:45",
-      "message": "Reprocessing: Neurologyca launches research labs to help frontier AI models understand people"
+      "timestamp": "2026-07-02 10:43:30",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-02 09:41:47",
-      "message": "[SKIP] Content too short: Neurologyca launches research ..."
+      "timestamp": "2026-07-02 10:43:43",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-02 09:41:48",
-      "message": "Reprocessing: TwelveLabs raises $100M to bring superintelligence to AI video models"
-    },
-    {
-      "timestamp": "2026-07-02 09:41:50",
-      "message": "[SKIP] Content too short: TwelveLabs raises $100M to bri..."
-    },
-    {
-      "timestamp": "2026-07-02 09:41:52",
-      "message": "Reprocessing: Armadin details full sandbox escape in Claude Cowork but Anthropic disputes risk"
-    },
-    {
-      "timestamp": "2026-07-02 09:41:53",
-      "message": "[SKIP] Content too short: Armadin details full sandbox e..."
-    },
-    {
-      "timestamp": "2026-07-02 09:41:55",
-      "message": "Reprocessing: Exabeam doubles AI detection coverage and adds Anthropic Claude support"
-    },
-    {
-      "timestamp": "2026-07-02 09:41:56",
-      "message": "[SKIP] Content too short: Exabeam doubles AI detection c..."
-    },
-    {
-      "timestamp": "2026-07-02 09:41:58",
-      "message": "Reprocessing: Jamf launches Beacon threat hunting service for enterprise Mac environments"
-    },
-    {
-      "timestamp": "2026-07-02 09:41:59",
-      "message": "[SKIP] Content too short: Jamf launches Beacon threat hu..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:01",
-      "message": "Reprocessing: Aligned bags $60M in funding to build the AI-native sales execution layer for enterprise deals"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:02",
-      "message": "[SKIP] Content too short: Aligned bags $60M in funding t..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:04",
-      "message": "Reprocessing: Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:05",
-      "message": "[SKIP] Content too short: Anthropic launches Claude Sonn..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:06",
-      "message": "Reprocessing: Schneider Electric acquires Cognite for $3.1B in industrial AI push"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:08",
-      "message": "[SKIP] Content too short: Schneider Electric acquires Co..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:09",
-      "message": "Reprocessing: Inference chip startup Etched launches with $800M in funding"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:11",
-      "message": "[SKIP] Content too short: Inference chip startup Etched ..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:13",
-      "message": "Reprocessing: Visa, Stripe and 140 others back new Open USD stablecoin to challenge Tether"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:14",
-      "message": "[SKIP] Content too short: Visa, Stripe and 140 others ba..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:16",
-      "message": "Reprocessing: New instances bring AWS\u2019 Graviton5 CPUs to high-performance cloud workloads"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:17",
-      "message": "[SKIP] Content too short: New instances bring AWS\u2019 Gravi..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:19",
-      "message": "Reprocessing: Stathera nabs $55M to make vacuum-sealed silicon oscillators for AI chips"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:21",
-      "message": "[SKIP] Content too short: Stathera nabs $55M to make vac..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:22",
-      "message": "Reprocessing: Powering AI agents: CoreWeave\u2019s validation of Nvidia Vera Rubin signals new chapter for rack-scale computing"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:24",
-      "message": "[SKIP] Content too short: Powering AI agents: CoreWeave\u2019..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:25",
-      "message": "Reprocessing: Google\u2019s Gemini Omni Flash and Nano Banana 2 Lite support slick media content creation at lower costs"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:27",
-      "message": "[SKIP] Content too short: Google\u2019s Gemini Omni Flash and..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:28",
-      "message": "Reprocessing: China\u2019s Meituan open-sources massive LongCat-2.0 AI model, saying it was trained on domestic chips"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:30",
-      "message": "[SKIP] Content too short: China\u2019s Meituan open-sources m..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:31",
-      "message": "Reprocessing: AWS launches forward-deployed engineering team to speed enterprise agentic AI adoption"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:33",
-      "message": "[SKIP] Content too short: AWS launches forward-deployed ..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:34",
-      "message": "Reprocessing: Couchbase\u2019s AI Data Plane aims to turn fragmented data into real enterprise agent memory"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:36",
-      "message": "[SKIP] Content too short: Couchbase\u2019s AI Data Plane aims..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:37",
-      "message": "Reprocessing: Aikido acquires Root to patch open-source software without forced upgrades"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:39",
-      "message": "[SKIP] Content too short: Aikido acquires Root to patch ..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:41",
-      "message": "Reprocessing: Queue raises $12.6M to launch \u2018fully robotic pharmacy\u2019 kiosk to make picking up meds more convenient"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:42",
-      "message": "[SKIP] Content too short: Queue raises $12.6M to launch ..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:44",
-      "message": "Reprocessing: Pie launches with $19.5M to bring AI marketing to small businesses"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:45",
-      "message": "[SKIP] Content too short: Pie launches with $19.5M to br..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:47",
-      "message": "[PROCESSING] Analyzing: This is a Thing KYY X90G \u201cQuad\u201d Portable Monitor Review..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:49",
-      "message": "[SKIP] Irrelevant (AI Filter): This is a Thing KYY X90G \u201cQuad\u201d Portable Monitor Review"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:51",
-      "message": "Reprocessing: AMD Pivots From HBM to LPDDR5X For New Versal Premium Gen 2 Memory on Package Chips"
-    },
-    {
-      "timestamp": "2026-07-02 09:42:52",
-      "message": "[PROCESSING] Analyzing: AMD Pivots From HBM to LPDDR5X For New Versal Premium Gen 2 Memory on Package Chips..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:56",
-      "message": "[SUCCESS] Processed: AMD HBM\uc5d0\uc11c LPDDR5X\ub85c \uc804\ud658, \uc0c8\ub85c\uc6b4 Versal Premium Gen 2 \uba54\ubaa8\ub9ac \ud328\ud0a4\uc9c0 \uce69 \ubc1c\ud45c\n  > Summary: HBM \uacf5\uae09 \ubd80\uc871 \ubb38\uc81c\ub85c \uc778\ud574 AMD\ub294 \ucc28\uc138\ub300 \uc801\uc751\ud615 SoC\uc5d0\uc11c HBM \ub300\uc2e0 LPDDR5X..."
-    },
-    {
-      "timestamp": "2026-07-02 09:42:57",
-      "message": "Completed! New: 2, Updated: 42"
-    },
-    {
-      "timestamp": "2026-07-02 09:43:02",
-      "message": "Saved 44 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-07-02 09:43:05",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-07-02 10:43:43",
+      "message": "[PROCESSING] Analyzing: OpenAI floats giving Trump administration 5 percent cut of AI boom..."
     }
   ]
 }
