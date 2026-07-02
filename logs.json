@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 19:35:04",
+  "last_updated": "2026-07-02 19:35:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 19:34:35",
-      "message": "[SKIP] Content too short: Aligned bags $60M in funding t..."
-    },
     {
       "timestamp": "2026-07-02 19:34:37",
       "message": "Reprocessing: Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 19:35:04",
       "message": "[PROCESSING] Analyzing: Fortinet FortiGate FG-60F Review A Bigger Gateway Firewall..."
+    },
+    {
+      "timestamp": "2026-07-02 19:35:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Fortinet FortiGate FG-60F Review A Bigger Gateway Firewall"
     }
   ]
 }
