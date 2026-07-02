@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 23:57:16",
+  "last_updated": "2026-07-02 23:57:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 23:56:37",
-      "message": "[PROCESSING] Analyzing: Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation (Anna Heim/TechCrunch)..."
-    },
     {
       "timestamp": "2026-07-02 23:56:40",
       "message": "[SUCCESS] Processed: \ud540\ub780\ub4dc \uc591\uc790 \ucef4\ud4e8\ud305 \ud68c\uc0ac IQM, \uc57d 19\uc5b5 \ub2ec\ub7ec \uac00\uce58\ub85c SPAC \ud569\ubcd1 \ud6c4 \ub098\uc2a4\ub2e5 \ub370\ubdd4\uc5d0\uc11c 2% \uc0c1\uc2b9\n  > Summary: \ud540\ub780\ub4dc\uc758 \uc591\uc790 \ucef4\ud4e8\ud305 \ud68c\uc0ac\uc778 IQM\uc774 \uc57d 19\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\ub85c SPAC \ud569\ubcd1\uc744 \ud1b5\ud574 \ub098\uc2a4\ub2e5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 23:57:16",
       "message": "[PROCESSING] Analyzing: Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes..."
+    },
+    {
+      "timestamp": "2026-07-02 23:57:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes"
     }
   ]
 }
