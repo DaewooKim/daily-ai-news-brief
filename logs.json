@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 23:57:20",
+  "last_updated": "2026-07-02 23:57:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 23:56:42",
-      "message": "Reprocessing: Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October (Bloomberg)"
-    },
     {
       "timestamp": "2026-07-02 23:56:43",
       "message": "[PROCESSING] Analyzing: Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 23:57:20",
       "message": "[PROCESSING] Analyzing: Hanbat National University Researchers Develop a New Predictive Model for Designing 2D Perovskites..."
+    },
+    {
+      "timestamp": "2026-07-02 23:57:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Hanbat National University Researchers Develop a New Predictive Model for Designing 2D Perovskites"
     }
   ]
 }
