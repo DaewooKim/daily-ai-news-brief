@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-02 04:09:01",
+  "last_updated": "2026-07-02 04:09:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 04:08:17",
-      "message": "[SKIP] Irrelevant (AI Filter): Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO (Bloomberg)"
-    },
     {
       "timestamp": "2026-07-02 04:08:19",
       "message": "[PROCESSING] Analyzing: Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-02 04:09:01",
       "message": "[SUCCESS] Processed: \ud558\uc774\ud37c\ub808\uc778: \uc0c1\uc0c1\ub825\uc73c\ub85c \uad6c\ud604\ud55c GPU \uac00\uc0c1\ud654\n  > Summary: GPU \uac00\uc0c1\ud654\ub294 \uc5ec\ub7ec \uc6b4\uc601 \uccb4\uc81c\uac00 \ub2e8\uc77c GPU\ub97c \uacf5\uc720\ud558\uba70 \ub3c5\ub9bd\uc801\uc73c\ub85c \uc791\uc5c5\uc744 \uc81c\ucd9c\ud558\ub294 \uae30\uc220\uc785..."
+    },
+    {
+      "timestamp": "2026-07-02 04:09:03",
+      "message": "Reprocessing: The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem \u2014 and most are governing it by hand"
     }
   ]
 }
