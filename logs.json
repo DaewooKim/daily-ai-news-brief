@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-02 23:55:19",
+  "last_updated": "2026-07-02 23:55:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-02 23:54:41",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-07-02 23:54:41",
-      "message": "[PROCESSING] Analyzing: The best July 4th sales we found so far..."
-    },
     {
       "timestamp": "2026-07-02 23:54:44",
       "message": "[SKIP] Irrelevant (AI Filter): The best July 4th sales we found so far"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-02 23:55:19",
       "message": "[SKIP] Irrelevant (AI Filter): Expanding our Heat Resilience data to 50+ global cities"
+    },
+    {
+      "timestamp": "2026-07-02 23:55:20",
+      "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-02 23:55:21",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
     }
   ]
 }
