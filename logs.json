@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-07-03 21:54:16",
-  "status": "idle",
+  "last_updated": "2026-07-03 22:54:52",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-03 21:52:53",
-      "message": "[SKIP] Content too short: 15 examples of real-world chal..."
+      "timestamp": "2026-07-03 22:54:39",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-03 21:52:54",
-      "message": "Reprocessing: What to expect during the Machina AI summit: Join theCUBE July 7"
+      "timestamp": "2026-07-03 22:54:40",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-03 21:52:56",
-      "message": "[SKIP] Content too short: What to expect during the Mach..."
+      "timestamp": "2026-07-03 22:54:40",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-03 21:52:57",
-      "message": "Reprocessing: Dell/Microsoft partnership: Three insights you may have missed from theCUBE\u2019s coverage of Dell Technologies World"
+      "timestamp": "2026-07-03 22:54:52",
+      "message": "Found 162 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-03 21:52:59",
-      "message": "[SKIP] Content too short: Dell/Microsoft partnership: Th..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:00",
-      "message": "Reprocessing: Pinecone releases Nexus into public preview to bring business knowledge to AI agents"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:02",
-      "message": "[SKIP] Content too short: Pinecone releases Nexus into p..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:03",
-      "message": "Reprocessing: CarbonSix raises $40M to deliver intelligent learning machines to the factory floor"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:04",
-      "message": "[SKIP] Content too short: CarbonSix raises $40M to deliv..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:06",
-      "message": "Reprocessing: Tripo AI secures additional $150M in funding to enhance its 3D and world models"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:07",
-      "message": "[SKIP] Content too short: Tripo AI secures additional $1..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:09",
-      "message": "Reprocessing: Global venture funding hits record $510B in first half as AI boom accelerates"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:11",
-      "message": "[SKIP] Content too short: Global venture funding hits re..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:12",
-      "message": "Reprocessing: Palantir CEO Alex Karp doesn\u2019t hold back in interview as he rails against AI industry"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:13",
-      "message": "[SKIP] Content too short: Palantir CEO Alex Karp doesn\u2019t..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:15",
-      "message": "Reprocessing: Homebuilding AI startup Higharc bags $90M in Series C funding"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:17",
-      "message": "[SKIP] Content too short: Homebuilding AI startup Highar..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:18",
-      "message": "Reprocessing: AI stock trading startup EquiLibre raises funding at a $500M+ valuation"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:20",
-      "message": "[SKIP] Content too short: AI stock trading startup EquiL..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:21",
-      "message": "Reprocessing: Raja Koduri\u2019s Oxmiq Labs raises $35M to lower the design cost of custom AI silicon"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:22",
-      "message": "[SKIP] Content too short: Raja Koduri\u2019s Oxmiq Labs raise..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:24",
-      "message": "Reprocessing: Verkada takes Nvidia investment to expand its physical AI platform"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:25",
-      "message": "[SKIP] Content too short: Verkada takes Nvidia investmen..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:27",
-      "message": "Reprocessing: Meta shares jump 9% on reported plan to offer AI infrastructure services"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:28",
-      "message": "[SKIP] Content too short: Meta shares jump 9% on reporte..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:30",
-      "message": "Reprocessing: Report: SpaceX showed investors an AI device before IPO; Musk denies it"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:31",
-      "message": "[SKIP] Content too short: Report: SpaceX showed investor..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:33",
-      "message": "Reprocessing: Venice raises $65M at $1B valuation for private, uncensored AI"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:34",
-      "message": "[SKIP] Content too short: Venice raises $65M at $1B valu..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:36",
-      "message": "Reprocessing: Together AI raises $800M to grow its AI-optimized public cloud"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:37",
-      "message": "[SKIP] Content too short: Together AI raises $800M to gr..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:39",
-      "message": "Reprocessing: AWS turbocharges log analytics in Amazon OpenSearch Service at no extra cost"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:40",
-      "message": "[SKIP] Content too short: AWS turbocharges log analytics..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:41",
-      "message": "Reprocessing: Neurologyca launches research labs to help frontier AI models understand people"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:43",
-      "message": "[SKIP] Content too short: Neurologyca launches research ..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:44",
-      "message": "Reprocessing: TwelveLabs raises $100M to bring superintelligence to AI video models"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:46",
-      "message": "[SKIP] Content too short: TwelveLabs raises $100M to bri..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:47",
-      "message": "Reprocessing: ASRock Rack Had One of the First Arm AGI Servers at Computex 2026"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:49",
-      "message": "[PROCESSING] Analyzing: ASRock Rack Had One of the First Arm AGI Servers at Computex 2026..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:52",
-      "message": "[SUCCESS] Processed: ASRock Rack\uc774 Computex 2026\uc5d0\uc11c \ucd5c\ucd08\uc758 Arm AGI \uc11c\ubc84 \uc911 \ud558\ub098\ub97c \uacf5\uac1c\ud558\ub2e4\n  > Summary: 2026\ub144 Computex\uc5d0\uc11c ASRock Rack\uc740 Arm\uc758 \uc0c8\ub85c\uc6b4 AGI \uc11c\ubc84 CPU\ub97c..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:53",
-      "message": "[PROCESSING] Analyzing: Fortinet FortiGate FG-60F Review A Bigger Gateway Firewall..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:56",
-      "message": "[SKIP] Irrelevant (AI Filter): Fortinet FortiGate FG-60F Review A Bigger Gateway Firewall"
-    },
-    {
-      "timestamp": "2026-07-03 21:53:57",
-      "message": "[PROCESSING] Analyzing: This is a Thing KYY X90G \u201cQuad\u201d Portable Monitor Review..."
-    },
-    {
-      "timestamp": "2026-07-03 21:53:59",
-      "message": "[SKIP] Irrelevant (AI Filter): This is a Thing KYY X90G \u201cQuad\u201d Portable Monitor Review"
-    },
-    {
-      "timestamp": "2026-07-03 21:54:01",
-      "message": "Reprocessing: AMD Pivots From HBM to LPDDR5X For New Versal Premium Gen 2 Memory on Package Chips"
-    },
-    {
-      "timestamp": "2026-07-03 21:54:02",
-      "message": "[PROCESSING] Analyzing: AMD Pivots From HBM to LPDDR5X For New Versal Premium Gen 2 Memory on Package Chips..."
-    },
-    {
-      "timestamp": "2026-07-03 21:54:05",
-      "message": "[SUCCESS] Processed: AMD, \uc0c8\ub85c\uc6b4 Versal Premium Gen 2 \uba54\ubaa8\ub9ac \uce69\uc744 \uc704\ud574 HBM\uc5d0\uc11c LPDDR5X\ub85c \uc804\ud658\n  > Summary: AMD\ub294 HBM\uc758 \uacf5\uae09 \ubd80\uc871\uacfc \ud568\uaed8 \uc0c8\ub85c\uc6b4 \uc801\uc751\ud615 SoC\uc5d0\uc11c HBM \ub300\uc2e0 LPDDR5X \uba54..."
-    },
-    {
-      "timestamp": "2026-07-03 21:54:07",
-      "message": "Completed! New: 2, Updated: 43"
-    },
-    {
-      "timestamp": "2026-07-03 21:54:11",
-      "message": "Saved 45 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-07-03 21:54:15",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-07-03 22:54:52",
+      "message": "[PROCESSING] Analyzing: Amazon updated 2023\u2019s Fire HD 10 tablet with 4GB of RAM..."
     }
   ]
 }
