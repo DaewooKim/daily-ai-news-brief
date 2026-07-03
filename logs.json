@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 14:10:28",
+  "last_updated": "2026-07-03 14:10:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 14:09:44",
-      "message": "[SUCCESS] Processed: SK hynix, 713\uc5b5 \ub2ec\ub7ec \uad6d\ub0b4 \ud22c\uc790 \uacc4\ud68d \ubc1c\ud45c\n  > Summary: \ud55c\uad6d\uc758 AI \uba54\ubaa8\ub9ac \ubc18\ub3c4\uccb4 \uc81c\uc870\uc5c5\uccb4\uc778 SK hynix\uac00 \uad6d\ub0b4 \uc81c\uc870 \ub2a5\ub825 \ud655\ub300\ub97c \uc704\ud574 \uc57d 7..."
-    },
     {
       "timestamp": "2026-07-03 14:09:45",
       "message": "[PROCESSING] Analyzing: Design of a Single Pair Ethernet System with Power over Data Lines (SPoE)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 14:10:28",
       "message": "[PROCESSING] Analyzing: How Jeff Bezos' changing relationship with President Trump has impacted his companies, including increased federal contract awards during Trump's second term (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-07-03 14:10:30",
+      "message": "[SKIP] Irrelevant (AI Filter): How Jeff Bezos' changing relationship with President Trump has impacted his companies, including increased federal contract awards during Trump's second term (Wall Street Journal)"
     }
   ]
 }
