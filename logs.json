@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 09:46:36",
+  "last_updated": "2026-07-03 09:46:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 09:45:58",
-      "message": "[PROCESSING] Analyzing: AWS Launches Graviton5-Powered EC2 Instances for AI and HPC..."
-    },
     {
       "timestamp": "2026-07-03 09:46:01",
       "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c \uadf8\ub77c\ube44\ud1a45 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 \uc778\uacf5\uc9c0\ub2a5 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc HPC(\uace0\uc131\ub2a5 \ucef4\ud4e8\ud305), \ubd84\uc11d\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 \uadf8\ub77c\ube44\ud1a45 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 09:46:36",
       "message": "[PROCESSING] Analyzing: Kyocera AVX Launches Antenna Integration Tool..."
+    },
+    {
+      "timestamp": "2026-07-03 09:46:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Kyocera AVX Launches Antenna Integration Tool"
     }
   ]
 }
