@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-07-03 12:00:34",
-  "status": "idle",
+  "last_updated": "2026-07-03 13:01:12",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-03 11:59:06",
-      "message": "Reprocessing: Dell/Microsoft partnership: Three insights you may have missed from theCUBE\u2019s coverage of Dell Technologies World"
+      "timestamp": "2026-07-03 13:00:58",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-03 11:59:08",
-      "message": "[SKIP] Content too short: Dell/Microsoft partnership: Th..."
+      "timestamp": "2026-07-03 13:00:59",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-03 11:59:09",
-      "message": "Reprocessing: Pinecone releases Nexus into public preview to bring business knowledge to AI agents"
+      "timestamp": "2026-07-03 13:00:59",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-03 11:59:10",
-      "message": "[SKIP] Content too short: Pinecone releases Nexus into p..."
+      "timestamp": "2026-07-03 13:01:12",
+      "message": "Found 162 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-03 11:59:12",
-      "message": "Reprocessing: CarbonSix raises $40M to deliver intelligent learning machines to the factory floor"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:14",
-      "message": "[SKIP] Content too short: CarbonSix raises $40M to deliv..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:15",
-      "message": "Reprocessing: Tripo AI secures additional $150M in funding to enhance its 3D and world models"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:17",
-      "message": "[SKIP] Content too short: Tripo AI secures additional $1..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:19",
-      "message": "Reprocessing: Global venture funding hits record $510B in first half as AI boom accelerates"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:20",
-      "message": "[SKIP] Content too short: Global venture funding hits re..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:22",
-      "message": "Reprocessing: Palantir CEO Alex Karp doesn\u2019t hold back in interview as he rails against AI industry"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:24",
-      "message": "[SKIP] Content too short: Palantir CEO Alex Karp doesn\u2019t..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:25",
-      "message": "Reprocessing: Homebuilding AI startup Higharc bags $90M in Series C funding"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:27",
-      "message": "[SKIP] Content too short: Homebuilding AI startup Highar..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:29",
-      "message": "Reprocessing: AI stock trading startup EquiLibre raises funding at a $500M+ valuation"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:30",
-      "message": "[SKIP] Content too short: AI stock trading startup EquiL..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:31",
-      "message": "Reprocessing: Raja Koduri\u2019s Oxmiq Labs raises $35M to lower the design cost of custom AI silicon"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:33",
-      "message": "[SKIP] Content too short: Raja Koduri\u2019s Oxmiq Labs raise..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:35",
-      "message": "Reprocessing: Verkada takes Nvidia investment to expand its physical AI platform"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:36",
-      "message": "[SKIP] Content too short: Verkada takes Nvidia investmen..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:38",
-      "message": "Reprocessing: Meta shares jump 9% on reported plan to offer AI infrastructure services"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:39",
-      "message": "[SKIP] Content too short: Meta shares jump 9% on reporte..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:41",
-      "message": "Reprocessing: Report: SpaceX showed investors an AI device before IPO; Musk denies it"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:42",
-      "message": "[SKIP] Content too short: Report: SpaceX showed investor..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:44",
-      "message": "Reprocessing: Venice raises $65M at $1B valuation for private, uncensored AI"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:45",
-      "message": "[SKIP] Content too short: Venice raises $65M at $1B valu..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:47",
-      "message": "Reprocessing: Together AI raises $800M to grow its AI-optimized public cloud"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:48",
-      "message": "[SKIP] Content too short: Together AI raises $800M to gr..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:50",
-      "message": "Reprocessing: AWS turbocharges log analytics in Amazon OpenSearch Service at no extra cost"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:51",
-      "message": "[SKIP] Content too short: AWS turbocharges log analytics..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:53",
-      "message": "Reprocessing: Neurologyca launches research labs to help frontier AI models understand people"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:54",
-      "message": "[SKIP] Content too short: Neurologyca launches research ..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:56",
-      "message": "Reprocessing: TwelveLabs raises $100M to bring superintelligence to AI video models"
-    },
-    {
-      "timestamp": "2026-07-03 11:59:57",
-      "message": "[SKIP] Content too short: TwelveLabs raises $100M to bri..."
-    },
-    {
-      "timestamp": "2026-07-03 11:59:59",
-      "message": "Reprocessing: Armadin details full sandbox escape in Claude Cowork but Anthropic disputes risk"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:00",
-      "message": "[SKIP] Content too short: Armadin details full sandbox e..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:02",
-      "message": "Reprocessing: Exabeam doubles AI detection coverage and adds Anthropic Claude support"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:03",
-      "message": "[SKIP] Content too short: Exabeam doubles AI detection c..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:05",
-      "message": "Reprocessing: Jamf launches Beacon threat hunting service for enterprise Mac environments"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:07",
-      "message": "[SKIP] Content too short: Jamf launches Beacon threat hu..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:08",
-      "message": "[PROCESSING] Analyzing: Fortinet FortiGate FG-60F Review A Bigger Gateway Firewall..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:10",
-      "message": "[SKIP] Irrelevant (AI Filter): Fortinet FortiGate FG-60F Review A Bigger Gateway Firewall"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:12",
-      "message": "[PROCESSING] Analyzing: This is a Thing KYY X90G \u201cQuad\u201d Portable Monitor Review..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:14",
-      "message": "[SKIP] Irrelevant (AI Filter): This is a Thing KYY X90G \u201cQuad\u201d Portable Monitor Review"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:16",
-      "message": "Reprocessing: AMD Pivots From HBM to LPDDR5X For New Versal Premium Gen 2 Memory on Package Chips"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:18",
-      "message": "[PROCESSING] Analyzing: AMD Pivots From HBM to LPDDR5X For New Versal Premium Gen 2 Memory on Package Chips..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:23",
-      "message": "[SUCCESS] Processed: AMD, \uc0c8\ub85c\uc6b4 Versal Premium Gen 2 \uba54\ubaa8\ub9ac \ud328\ud0a4\uc9c0 \uce69\uc744 \uc704\ud574 HBM\uc5d0\uc11c LPDDR5X\ub85c \uc804\ud658\n  > Summary: HBM \uacf5\uae09\uc774 \ubd80\uc871\ud574\uc9c0\uba74\uc11c AMD\uc758 \ucc28\uc138\ub300 \uc801\uc751\ud615 SoC\uac00 HBM\uc5d0\uc11c LPDDR5X \uba54\ubaa8\ub9ac..."
-    },
-    {
-      "timestamp": "2026-07-03 12:00:25",
-      "message": "Completed! New: 1, Updated: 43"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:29",
-      "message": "Saved 44 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-07-03 12:00:32",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-07-03 13:01:12",
+      "message": "[PROCESSING] Analyzing: The Verge\u2019s annual summer \u2018in\u2019 and \u2018out\u2019 list..."
     }
   ]
 }
