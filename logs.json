@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 14:08:58",
+  "last_updated": "2026-07-03 14:08:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 14:08:14",
-      "message": "[PROCESSING] Analyzing: Anthropic wants to develop its own drugs..."
-    },
     {
       "timestamp": "2026-07-03 14:08:19",
       "message": "[SUCCESS] Processed: Anthropic\uc740 \uadf8\ub4e4\uc758 \uc57d\ubb3c\uc744 \uac1c\ubc1c\ud558\uace0 \uc2f6\uc5b4\ud569\ub2c8\ub2e4\n  > Summary: \uc774\ubc88 \uc8fc \ucd08 'AI for Science' \ud589\uc0ac\uc5d0\uc11c Anthropic\uc740 \uacfc\ud559\uc790\ub4e4\uc744 \uc704\ud55c \uc0c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 14:08:58",
       "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
+    },
+    {
+      "timestamp": "2026-07-03 14:08:59",
+      "message": "Reprocessing: Inside Genebench-Pro"
     }
   ]
 }
