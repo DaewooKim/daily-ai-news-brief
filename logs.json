@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 07:34:28",
+  "last_updated": "2026-07-03 07:34:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 07:33:46",
-      "message": "[PROCESSING] Analyzing: HP Inc. launches Frontier strategic partnership with OpenAI..."
-    },
     {
       "timestamp": "2026-07-03 07:33:50",
       "message": "[SUCCESS] Processed: HP Inc.\uac00 OpenAI\uc640 Frontier \uc804\ub7b5\uc801 \ud30c\ud2b8\ub108\uc2ed\uc744 \uc2dc\uc791\ud558\ub2e4\n  > Summary: HP Inc.\ub294 OpenAI\uc640\uc758 Frontier \ud30c\ud2b8\ub108\uc2ed\uc744 \ud655\ub300\ud558\uc5ec \uace0\uac1d \uacbd\ud5d8, \uc18c\ud504\ud2b8\uc6e8\uc5b4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 07:34:28",
       "message": "[PROCESSING] Analyzing: Brookfield-Bloom $25B Aims to Make Energy Certainty Financeable..."
+    },
+    {
+      "timestamp": "2026-07-03 07:34:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Brookfield-Bloom $25B Aims to Make Energy Certainty Financeable"
     }
   ]
 }
