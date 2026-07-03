@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 15:16:01",
+  "last_updated": "2026-07-03 15:16:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 15:15:23",
-      "message": "[SUCCESS] Processed: HP Inc.\uac00 OpenAI\uc640\uc758 Frontier \uc804\ub7b5\uc801 \ud30c\ud2b8\ub108\uc2ed\uc744 \ucd9c\uc2dc\ud558\ub2e4\n  > Summary: HP Inc.\ub294 \uace0\uac1d \uacbd\ud5d8, \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c, \uae30\uc5c5 \uc6b4\uc601 \uc804\ubc18\uc5d0 \uac78\uccd0 AI\ub97c \ubc30\uce58\ud558\uae30 \uc704\ud574..."
-    },
     {
       "timestamp": "2026-07-03 15:15:25",
       "message": "[PROCESSING] Analyzing: Yep, we\u2019re using OpenClaw to date now..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 15:16:01",
       "message": "[PROCESSING] Analyzing: Brookfield-Bloom $25B Aims to Make Energy Certainty Financeable..."
+    },
+    {
+      "timestamp": "2026-07-03 15:16:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Brookfield-Bloom $25B Aims to Make Energy Certainty Financeable"
     }
   ]
 }
