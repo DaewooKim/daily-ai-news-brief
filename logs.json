@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 04:18:08",
+  "last_updated": "2026-07-03 04:18:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 04:17:31",
-      "message": "Reprocessing: Inside Genebench-Pro"
-    },
     {
       "timestamp": "2026-07-03 04:17:33",
       "message": "[SKIP] Content too short: Inside Genebench-Pro..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 04:18:08",
       "message": "[PROCESSING] Analyzing: Design of a Single Pair Ethernet System with Power over Data Lines (SPoE)..."
+    },
+    {
+      "timestamp": "2026-07-03 04:18:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Design of a Single Pair Ethernet System with Power over Data Lines (SPoE)"
     }
   ]
 }
