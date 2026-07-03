@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-03 03:12:13",
+  "last_updated": "2026-07-03 03:12:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 03:11:28",
-      "message": "[PROCESSING] Analyzing: Sony\u2019s PlayStation disc factory is already being repurposed..."
-    },
-    {
-      "timestamp": "2026-07-03 03:11:33",
-      "message": "[SKIP] Irrelevant (AI Filter): Sony\u2019s PlayStation disc factory is already being repurposed"
-    },
     {
       "timestamp": "2026-07-03 03:11:35",
       "message": "[PROCESSING] Analyzing: The best July 4th sales we found so far..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-03 03:12:13",
       "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-03 03:12:14",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
+    },
+    {
+      "timestamp": "2026-07-03 03:12:16",
+      "message": "Reprocessing: Inside Genebench-Pro"
     }
   ]
 }
