@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-03 13:03:58",
+  "last_updated": "2026-07-03 13:04:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-03 13:03:09",
-      "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
-    },
     {
       "timestamp": "2026-07-03 13:03:16",
       "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \uc704\ud5d8 \uacbd\uace0 \ubcf4\uace0\uc11c \ubc1c\ud45c\n  > Summary: NERC\uc758 2026 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \uac00\uae4c\uc6cc\uc9c0\uace0 \uc9c0\uc5ed\uc801\uc73c\ub85c \uc9d1\ud569\ud574 \uac10..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-03 13:03:58",
       "message": "[PROCESSING] Analyzing: Pitch document: Chris Larsen and Palmer Luckey invested an undisclosed amount in APEC, a derivatives exchange founded by the son of Senator Kirsten Gillibrand (Declan Harty/Politico)..."
+    },
+    {
+      "timestamp": "2026-07-03 13:04:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Pitch document: Chris Larsen and Palmer Luckey invested an undisclosed amount in APEC, a derivatives exchange founded by the son of Senator Kirsten Gillibrand (Declan Harty/Politico)"
     }
   ]
 }
