@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-04 21:50:42",
+  "last_updated": "2026-07-04 21:50:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 21:50:04",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-04 21:50:04",
       "message": "[PROCESSING] Analyzing: NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-04 21:50:42",
       "message": "Reprocessing: Three HPC Gurus Ask: Do We Still Need GPUs?"
+    },
+    {
+      "timestamp": "2026-07-04 21:50:44",
+      "message": "[SKIP] Content too short: Three HPC Gurus Ask: Do We Sti..."
     }
   ]
 }
