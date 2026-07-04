@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-04 05:32:12",
+  "last_updated": "2026-07-04 05:32:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 05:31:29",
-      "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc HPC \ubc0f \ubd84\uc11d\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 Graviton5 \uae30\ubc18 C9g..."
-    },
     {
       "timestamp": "2026-07-04 05:31:31",
       "message": "[PROCESSING] Analyzing: Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A (Duc Dao/TNGlobal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-04 05:32:12",
       "message": "[PROCESSING] Analyzing: Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)..."
+    },
+    {
+      "timestamp": "2026-07-04 05:32:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)"
     }
   ]
 }
