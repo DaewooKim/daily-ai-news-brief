@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-04 14:14:03",
+  "last_updated": "2026-07-04 14:14:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 14:13:24",
-      "message": "[PROCESSING] Analyzing: The square-ish phone that I wanted to love..."
-    },
-    {
-      "timestamp": "2026-07-04 14:13:27",
-      "message": "[SKIP] Irrelevant (AI Filter): The square-ish phone that I wanted to love"
-    },
     {
       "timestamp": "2026-07-04 14:13:28",
       "message": "[PROCESSING] Analyzing: Qi fan fan..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-04 14:14:03",
       "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-04 14:14:04",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
+    },
+    {
+      "timestamp": "2026-07-04 14:14:06",
+      "message": "Reprocessing: Inside Genebench-Pro"
     }
   ]
 }
