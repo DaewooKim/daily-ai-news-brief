@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-04 07:43:48",
+  "last_updated": "2026-07-04 07:43:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 07:43:10",
-      "message": "[SUCCESS] Processed: \uc65c AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uae30\uc874 \ubc1c\uc804\uc18c\ub97c \ub354 \uac00\uce58 \uc788\uac8c \ub9cc\ub4dc\ub294\uac00\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc804\uae30 \uc218\uc694\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uc720\ud2f8\ub9ac\ud2f0\uc640 \ud22c\uc790\uc790\ub4e4\uc740 \uc0c8\ub85c\uc6b4 \ud504\ub85c\uc81d\ud2b8\ubcf4\ub2e4 \ub354 ..."
-    },
     {
       "timestamp": "2026-07-04 07:43:11",
       "message": "Reprocessing: AWS Launches Graviton5-Powered EC2 Instances for AI and HPC"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-04 07:43:48",
       "message": "[PROCESSING] Analyzing: Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes..."
+    },
+    {
+      "timestamp": "2026-07-04 07:43:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes"
     }
   ]
 }
