@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-04 12:03:31",
+  "last_updated": "2026-07-04 12:03:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 12:02:52",
-      "message": "[PROCESSING] Analyzing: Qi fan fan..."
-    },
     {
       "timestamp": "2026-07-04 12:02:55",
       "message": "[SKIP] Irrelevant (AI Filter): Qi fan fan"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-04 12:03:31",
       "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-04 12:03:32",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
     }
   ]
 }
