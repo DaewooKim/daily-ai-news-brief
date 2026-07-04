@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-04 10:58:10",
+  "last_updated": "2026-07-04 10:58:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 10:57:38",
-      "message": "[PROCESSING] Analyzing: Jon Prosser responds to Apple lawsuit by blaming the other guy..."
-    },
     {
       "timestamp": "2026-07-04 10:57:40",
       "message": "[SKIP] Irrelevant (AI Filter): Jon Prosser responds to Apple lawsuit by blaming the other guy"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-04 10:58:10",
       "message": "Reprocessing: Introducing TabFM: A zero-shot foundation model for tabular data"
+    },
+    {
+      "timestamp": "2026-07-04 10:58:12",
+      "message": "[SKIP] Content too short: Introducing TabFM: A zero-shot..."
     }
   ]
 }
