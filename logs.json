@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-04 17:32:04",
+  "last_updated": "2026-07-04 17:32:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-04 17:31:26",
-      "message": "[SUCCESS] Processed: AWS, AI \ubc0f HPC\ub97c \uc704\ud55c Graviton5 \uae30\ubc18 EC2 \uc778\uc2a4\ud134\uc2a4 \ucd9c\uc2dc\n  > Summary: AWS\ub294 AI \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158\uacfc HPC \ubc0f \ubd84\uc11d\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 Graviton5 \uae30\ubc18 C9g..."
-    },
     {
       "timestamp": "2026-07-04 17:31:28",
       "message": "[PROCESSING] Analyzing: A look at the troubled rollout of the EU's automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-04 17:32:04",
       "message": "[SKIP] Irrelevant (AI Filter): TeleCANesis Launches Version 1.1 of its Connectivity Platform"
+    },
+    {
+      "timestamp": "2026-07-04 17:32:05",
+      "message": "Reprocessing: AI data center builder Crusoe reportedly raising $3B at $30B valuation"
     }
   ]
 }
