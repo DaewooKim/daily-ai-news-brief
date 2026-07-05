@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-05 21:38:48",
+  "last_updated": "2026-07-05 21:38:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-05 21:38:10",
-      "message": "[SUCCESS] Processed: \uc62c\ud574 \ub2f9\uc2e0\uc774 \ud544\uc694\ub85c \ud560 \uc720\uc77c\ud55c AI \uc6a9\uc5b4\uc9d1\n  > Summary: AI\uc758 \ubd80\uc0c1\uc740 \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc804\ubb38\uc5b4\uc758 \ud64d\uc218\ub97c \uac00\uc838\uc654\uc2b5\ub2c8\ub2e4. \uc774 \uae00\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774 \uc790\uc8fc \uc811\ud560..."
-    },
     {
       "timestamp": "2026-07-05 21:38:11",
       "message": "[PROCESSING] Analyzing: The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-05 21:38:48",
       "message": "[PROCESSING] Analyzing: Chainalysis: addresses linked to Iran, Russia, North Korea, and other US-sanctioned entities received $100B+ in crypto last year, almost 8x the amount in 2024 (Patricia Kowsmann/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-07-05 21:38:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Chainalysis: addresses linked to Iran, Russia, North Korea, and other US-sanctioned entities received $100B+ in crypto last year, almost 8x the amount in 2024 (Patricia Kowsmann/Wall Street Journal)"
     }
   ]
 }
