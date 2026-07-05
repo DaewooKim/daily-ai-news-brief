@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-05 09:45:48",
+  "last_updated": "2026-07-05 09:45:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-05 09:45:09",
-      "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
-    },
-    {
-      "timestamp": "2026-07-05 09:45:11",
-      "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
-    },
     {
       "timestamp": "2026-07-05 09:45:15",
       "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \uc704\ud5d8\uc744 \ubcf4\uace0\uc11c\uc5d0\uc11c \uc9c0\uc801\n  > Summary: NERC\uc758 2026 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \uc811\uadfc\ud558\uace0 \uc9c0\uc5ed\ubcc4\ub85c \uc9d1\ub2e8\ud654\ub418\uba74\uc11c ..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-05 09:45:48",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Uber halts plans to launch food delivery in five of the seven European countries it had targeted for expansion as it pursues a Delivery Hero takeover (Kieran Smith/Financial Times)"
+    },
+    {
+      "timestamp": "2026-07-05 09:45:50",
+      "message": "[PROCESSING] Analyzing: India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days (Sejal Sharma/Hindustan Times)..."
+    },
+    {
+      "timestamp": "2026-07-05 09:45:51",
+      "message": "[SKIP] Irrelevant (AI Filter): India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days (Sejal Sharma/Hindustan Times)"
     }
   ]
 }
