@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 10:38:42",
+  "last_updated": "2026-07-06 10:38:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 10:38:02",
-      "message": "[PROCESSING] Analyzing: Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance..."
-    },
     {
       "timestamp": "2026-07-06 10:38:04",
       "message": "[SKIP] Irrelevant (AI Filter): Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 10:38:42",
       "message": "[SKIP] Irrelevant (AI Filter): SK Hynix launches a US share sale on the Nasdaq to raise ~$28B by selling 17.79M shares; the company is set to announce the specific price range later on Monday (Reuters)"
+    },
+    {
+      "timestamp": "2026-07-06 10:38:43",
+      "message": "Reprocessing: Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets (Armin Ronacher/Armin Ronacher's Thoughts and Writings)"
     }
   ]
 }
