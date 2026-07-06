@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 15:00:35",
+  "last_updated": "2026-07-06 15:00:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 14:59:49",
-      "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8 \ud6c8\ub828 \ud50c\ub7ab\ud3fc Bespoke Labs, 8VC \uc8fc\ub3c4\uc758 \uc2dc\ub4dc \ubc0f Wing \uc8fc\ub3c4\uc758 \uc2dc\ub9ac\uc988 A\uc5d0\uc11c 4\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: AI \uc5d0\uc774\uc804\ud2b8 \ud6c8\ub828 \ud50c\ub7ab\ud3fc\uc778 Bespoke Labs\uac00 8VC\uac00 \uc8fc\ub3c4\ud558\ub294 \uc2dc\ub4dc\uc640 Wing\uc774 ..."
-    },
     {
       "timestamp": "2026-07-06 14:59:51",
       "message": "Reprocessing: An interview with Agility Robotics CEO Peggy Johnson on why the startup is going public via a SPAC, the physical layer as its core advantage, safety, and more (Connie Loizos/TechCrunch)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 15:00:35",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-06 15:00:38",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
