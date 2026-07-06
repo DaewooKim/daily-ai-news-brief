@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 09:33:25",
+  "last_updated": "2026-07-06 09:33:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 09:32:44",
-      "message": "[SKIP] Irrelevant (AI Filter): Yep, we\u2019re using OpenClaw to date now"
-    },
     {
       "timestamp": "2026-07-06 09:32:45",
       "message": "Reprocessing: Kioxia All Set to Raise the NAND Game in AI SSDs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 09:33:25",
       "message": "[SUCCESS] Processed: \ubbf8\uad6d \uc7ac\ubb34\ubd80\uc758 \ucd08\uc548 \ubcf4\uace0\uc11c\ub294 AI \uc2dc\uc7a5\uc758 \uc704\ud5d8\uc5d0 \ub300\ud574 \uacbd\uace0\ud558\uba70, \uc77c\ubd80 \uc8fc\uc694 \uce21\uba74\uc744 2000\ub144\ub300 \ucd08\uc758 \ub2f7\ucef4 \ubd95\uad34\uc640 \ube44\uc720\ud560 \uc608\uc815\uc774\ub2e4.\n  > Summary: \ubbf8\uad6d \uc7ac\ubb34\ubd80\uc758 \ucd08\uc548 \ubcf4\uace0\uc11c\ub294 AI \uc2dc\uc7a5\uc758 \uc704\ud5d8\uc5d0 \ub300\ud574 \uacbd\uace0\ud558\uace0 \uc788\uc73c\uba70, \uba87 \uac00\uc9c0 \uc8fc\uc694 \uc694\uc18c..."
+    },
+    {
+      "timestamp": "2026-07-06 09:33:26",
+      "message": "[PROCESSING] Analyzing: Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets (Armin Ronacher/Armin Ronacher's Thoughts and Writings)..."
     }
   ]
 }
