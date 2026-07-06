@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 11:43:51",
+  "last_updated": "2026-07-06 11:43:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 11:43:01",
-      "message": "[PROCESSING] Analyzing: Design of a Single Pair Ethernet System with Power over Data Lines (SPoE)..."
-    },
     {
       "timestamp": "2026-07-06 11:43:03",
       "message": "[SKIP] Irrelevant (AI Filter): Design of a Single Pair Ethernet System with Power over Data Lines (SPoE)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 11:43:51",
       "message": "[SKIP] Irrelevant (AI Filter): SK Hynix launches a US share sale on the Nasdaq to raise ~$28B, selling 17.79M new shares; the final listing price is due Thursday before trading starts Friday (Reuters)"
+    },
+    {
+      "timestamp": "2026-07-06 11:43:52",
+      "message": "Reprocessing: Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets (Armin Ronacher/Armin Ronacher's Thoughts and Writings)"
     }
   ]
 }
