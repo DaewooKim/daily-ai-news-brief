@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 21:35:04",
+  "last_updated": "2026-07-06 21:35:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 21:34:23",
-      "message": "[SUCCESS] Processed: \uc2a4\uc704\uce58\ub294 \ubcd1\ubaa9\ud604\uc0c1\uc774\ub2e4: AI \uc778\ud504\ub77c\uc5d0 \uc65c \ub124\ud2b8\uc6cc\ud06c \ubb38\uc81c\uac00 \uc788\ub294\uac00\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\uac00 \ub124\ud2b8\uc6cc\ud06c \ub2a5\ub825\uc744 \ucd08\uacfc\ud558\uba74\uc11c \ube44\uc2f8\uace0 \ud6a8\uc728\uc801\uc778 \uce69\ub4e4\uc774 \uc720\ud734 \uc0c1\ud0dc\uac00 \ub418\uace0 \uc788\ub2e4..."
-    },
     {
       "timestamp": "2026-07-06 21:34:25",
       "message": "[PROCESSING] Analyzing: Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 21:35:04",
       "message": "[PROCESSING] Analyzing: Filing: Strategy sold 3,588 bitcoin for ~$216M between June 29 and July 5 to replenish its USD reserve; its holdings have an $11.4B paper loss at current prices (James Hunt/The Block)..."
+    },
+    {
+      "timestamp": "2026-07-06 21:35:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Filing: Strategy sold 3,588 bitcoin for ~$216M between June 29 and July 5 to replenish its USD reserve; its holdings have an $11.4B paper loss at current prices (James Hunt/The Block)"
     }
   ]
 }
