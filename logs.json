@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 10:39:22",
+  "last_updated": "2026-07-06 10:39:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 10:38:43",
-      "message": "Reprocessing: Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets (Armin Ronacher/Armin Ronacher's Thoughts and Writings)"
-    },
     {
       "timestamp": "2026-07-06 10:38:45",
       "message": "[PROCESSING] Analyzing: Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets (Armin Ronacher/Armin Ronacher's Thoughts and Writings)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 10:39:22",
       "message": "[PROCESSING] Analyzing: Kyocera AVX Launches Antenna Integration Tool..."
+    },
+    {
+      "timestamp": "2026-07-06 10:39:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Kyocera AVX Launches Antenna Integration Tool"
     }
   ]
 }
