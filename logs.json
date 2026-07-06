@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 20:28:55",
+  "last_updated": "2026-07-06 20:28:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 20:28:16",
-      "message": "[SUCCESS] Processed: QTS\uc758 300\uc5b5 \ub2ec\ub7ec \ud504\ub85c\uc81d\ud2b8 \ucde8\uc18c\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud574 \ubc1d\ud788\ub294 \uac83\n  > Summary: QTS\ub294 \uac15\ub825\ud55c \uc778\ud504\ub77c\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 Digital Gateway \ud504\ub85c..."
-    },
     {
       "timestamp": "2026-07-06 20:28:18",
       "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 20:28:55",
       "message": "[PROCESSING] Analyzing: Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis (Julia Hornstein/The Information)..."
+    },
+    {
+      "timestamp": "2026-07-06 20:28:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis (Julia Hornstein/The Information)"
     }
   ]
 }
