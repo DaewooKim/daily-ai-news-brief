@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 12:49:23",
+  "last_updated": "2026-07-06 12:49:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 12:48:38",
-      "message": "[PROCESSING] Analyzing: Anthropic signs a 20-year, $19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity, with the first power delivery in H2 2027 (CNBC)..."
-    },
     {
       "timestamp": "2026-07-06 12:48:42",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ucf04\ud130\ud0a4\uc758 \ud14c\ub77c\uc6b8\ud504 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 20\ub144 \uac04 190\uc5b5 \ub2ec\ub7ec \uc784\ub300 \uacc4\uc57d \uccb4\uacb0\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \ucf04\ud130\ud0a4\uc5d0 \uc704\uce58\ud55c \ud14c\ub77c\uc6b8\ud504 \ub370\uc774\ud130 \uc13c\ud130\uc640 20\ub144 \ub3d9\uc548 190\uc5b5 \ub2ec\ub7ec\uc5d0 \uc784\ub300 \uacc4\uc57d\uc744..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 12:49:23",
       "message": "[PROCESSING] Analyzing: Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)..."
+    },
+    {
+      "timestamp": "2026-07-06 12:49:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)"
     }
   ]
 }
