@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 19:23:57",
+  "last_updated": "2026-07-06 19:23:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 19:23:16",
-      "message": "[PROCESSING] Analyzing: Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027 (Tom Warren/The Verge)..."
-    },
     {
       "timestamp": "2026-07-06 19:23:18",
       "message": "[SKIP] Irrelevant (AI Filter): Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027 (Tom Warren/The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 19:23:57",
       "message": "[PROCESSING] Analyzing: Kyocera AVX Launches Antenna Integration Tool..."
+    },
+    {
+      "timestamp": "2026-07-06 19:23:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Kyocera AVX Launches Antenna Integration Tool"
     }
   ]
 }
