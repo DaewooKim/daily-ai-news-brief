@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 20:29:08",
+  "last_updated": "2026-07-06 20:29:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 20:28:31",
-      "message": "[PROCESSING] Analyzing: Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities (Raphael Satter/Reuters)..."
-    },
     {
       "timestamp": "2026-07-06 20:28:34",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: CISA\uc758 \uacf5\uaca9 \ud45c\uba74 \ud3c9\uac00 \ud300\uc774 \uc2e0\ud654\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc815\ubd80 \ucf54\ub4dc \uc800\uc7a5\uc18c\ub97c \uac10\uc0ac\ud558\uace0 \uc788\uc73c\uba70 \uc774\ubbf8 \ub9ce\uc740 \ucde8\uc57d\uc810\uc744 \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4\n  > Summary: \ubbf8\uad6d \uc0ac\uc774\ubc84 \ubc29\uc5b4 \uae30\uad00\uc778 CISA\ub294 Anthropic\uc758 AI \ubaa8\ub378\uc778 Mythos\ub97c \uc0ac\uc6a9\ud558\uc5ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 20:29:08",
       "message": "[SKIP] Irrelevant (AI Filter): Microsoft's Xbox unit plans to cut 3,200 jobs over the next year, including 1,600 on Monday, and divest up to five studios, including Ninja Theory, in a \"reset\" (Bloomberg)"
+    },
+    {
+      "timestamp": "2026-07-06 20:29:10",
+      "message": "[PROCESSING] Analyzing: Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027 (Tom Warren/The Verge)..."
     }
   ]
 }
