@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-06 20:28:57",
+  "last_updated": "2026-07-06 20:29:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 20:28:18",
-      "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
-    },
-    {
-      "timestamp": "2026-07-06 20:28:19",
-      "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
-    },
     {
       "timestamp": "2026-07-06 20:28:22",
       "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \ub9ac\uc2a4\ud06c \ubcf4\uace0\uc11c\uc5d0\uc11c \uacbd\uace0\n  > Summary: NERC\uc758 2026 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \uc811\uadfc\ud558\uace0 \uc9c0\uc5ed\uc801\uc73c\ub85c \ud074\ub7ec\uc2a4\ud130\ub9c1\ub428..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-06 20:28:57",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis (Julia Hornstein/The Information)"
+    },
+    {
+      "timestamp": "2026-07-06 20:28:59",
+      "message": "[PROCESSING] Analyzing: Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules (Andrew Webster/The Verge)..."
+    },
+    {
+      "timestamp": "2026-07-06 20:29:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules (Andrew Webster/The Verge)"
     }
   ]
 }
