@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-06 20:28:36",
+  "last_updated": "2026-07-06 20:28:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-06 20:27:55",
-      "message": "[SUCCESS] Processed: \uc62c\ud574 \ud544\uc694\ud55c \uc720\uc77c\ud55c AI \uc6a9\uc5b4\uc9d1\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc778\ud574 \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\uc640 \uc18d\uc5b4\uac00 \uc3df\uc544\uc838 \ub098\uc624\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 \uc5ec\ub7ec\ubd84\uc774..."
-    },
     {
       "timestamp": "2026-07-06 20:27:56",
       "message": "[PROCESSING] Analyzing: The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-06 20:28:36",
       "message": "[PROCESSING] Analyzing: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-06 20:28:38",
+      "message": "[SKIP] Irrelevant (AI Filter): SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)"
     }
   ]
 }
