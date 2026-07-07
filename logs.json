@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 19:44:51",
+  "last_updated": "2026-07-07 19:44:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 19:44:11",
-      "message": "[SUCCESS] Processed: QTS\uc758 \ucde8\uc18c\ub41c 300\uc5b5 \ub2ec\ub7ec \ud504\ub85c\uc81d\ud2b8\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud574 \ubc1d\ud600\uc8fc\ub294 \uac83\n  > Summary: QTS\ub294 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub514\uc9c0\ud138 \uac8c\uc774\ud2b8\uc6e8\uc774 \ud504\ub85c\uc81d\ud2b8\ub97c \ucca0\ud68c\ud588\uc73c\uba70, \uc774\ub294 \uc778\ud504\ub77c\uc758 \uac15\ud568..."
-    },
     {
       "timestamp": "2026-07-07 19:44:13",
       "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 19:44:51",
       "message": "[PROCESSING] Analyzing: Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-07 19:44:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday (Bloomberg)"
     }
   ]
 }
