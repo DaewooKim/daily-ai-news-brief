@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 12:54:07",
+  "last_updated": "2026-07-07 12:54:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 12:53:21",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d\uc758 \uccab \uc790\uc728 \uc8fc\ud589 \uc9c0\uc0c1 \ucc28\ub7c9\ub4e4\uc774 \uc6b0\ud06c\ub77c\uc774\ub098\uc5d0\uc11c \uc2f8\uc6b0\uace0 \uc788\ub2e4\n  > Summary: \ud3ec\ud14c\ub77c(Forterra)\ub294 \uc6b0\ud06c\ub77c\uc774\ub098\uc758 \ubd84\uc7c1\uc9c0\uc5ed\uc5d0 100\ub300 \uc774\uc0c1\uc758 \uc790\uc728\uc8fc\ud589 ATV\ub97c \ubc30\uce58\ud588..."
-    },
     {
       "timestamp": "2026-07-07 12:53:23",
       "message": "[PROCESSING] Analyzing: The \u2018first\u2019 AI-run ransomware attack still needed a human..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 12:54:07",
       "message": "[PROCESSING] Analyzing: Amazon will stop accepting new customers for Mechanical Turk..."
+    },
+    {
+      "timestamp": "2026-07-07 12:54:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will stop accepting new customers for Mechanical Turk"
     }
   ]
 }
