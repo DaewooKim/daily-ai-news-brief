@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-07 03:04:35",
+  "last_updated": "2026-07-07 03:04:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 03:03:56",
-      "message": "[PROCESSING] Analyzing: Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year (Ben Fritz/Wall Street Journal)..."
-    },
-    {
-      "timestamp": "2026-07-07 03:03:58",
-      "message": "[SKIP] Irrelevant (AI Filter): Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year (Ben Fritz/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-07-07 03:04:00",
       "message": "Reprocessing: Data Center AI Growth Faces Challenging Bottlenecks"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-07 03:04:35",
       "message": "Reprocessing: Anthropic inks $19B AI data center lease with TeraWulf"
+    },
+    {
+      "timestamp": "2026-07-07 03:04:37",
+      "message": "[SKIP] Content too short: Anthropic inks $19B AI data ce..."
+    },
+    {
+      "timestamp": "2026-07-07 03:04:38",
+      "message": "Reprocessing: Memory chipmaker SK hynix seeks to raise $28B through US IPO"
     }
   ]
 }
