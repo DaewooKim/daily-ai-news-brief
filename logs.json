@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 03:04:19",
+  "last_updated": "2026-07-07 03:04:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 03:03:34",
-      "message": "Reprocessing: Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B (Julia Hornstein/The Information)"
-    },
     {
       "timestamp": "2026-07-07 03:03:36",
       "message": "[PROCESSING] Analyzing: Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B (Julia Hornstein/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 03:04:19",
       "message": "[PROCESSING] Analyzing: Hanbat National University Researchers Develop a New Predictive Model for Designing 2D Perovskites..."
+    },
+    {
+      "timestamp": "2026-07-07 03:04:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Hanbat National University Researchers Develop a New Predictive Model for Designing 2D Perovskites"
     }
   ]
 }
