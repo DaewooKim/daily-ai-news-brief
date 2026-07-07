@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 12:57:34",
+  "last_updated": "2026-07-07 12:57:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 12:56:47",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: \ubca0\uc774\uc9d5\uc774 \ucd5c\uadfc \uc54c\ub9ac\ubc14\ubc14, \ubc14\uc774\ud2b8\ub304\uc2a4, Z.ai \ub4f1\uacfc \ud68c\uc758\ub97c \uc5f4\uc5b4 \uace0\uae09 \uac1c\ubc29 \ubc0f \ud3d0\uc1c4 AI \ubaa8\ub378\uc5d0 \ub300\ud55c \ud574\uc678 \uc811\uadfc \uc81c\ud55c\uc744 \ub17c\uc758\ud588\ub2e4\n  > Summary: \uc911\uad6d \ub2f9\uad6d\uc740 \uc9c0\ub09c \ud55c \ub2ec \ub3d9\uc548 \uc54c\ub9ac\ubc14\ubc14, \ubc14\uc774\ud2b8\ub304\uc2a4, Z.ai \ub4f1 \uc8fc\uc694 \uae30\uc220 \uae30\uc5c5\ub4e4\uacfc \ud68c\uc758..."
-    },
     {
       "timestamp": "2026-07-07 12:56:49",
       "message": "[PROCESSING] Analyzing: Survey: Chinese companies plan to allocate 46% of their AI accelerator budget to domestic products in the next 12 months, up from 30% today, a shift from Nvidia (Gao Yuan/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 12:57:34",
       "message": "[PROCESSING] Analyzing: Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T (Diana Novak Jones/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-07 12:57:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T (Diana Novak Jones/Reuters)"
     }
   ]
 }
