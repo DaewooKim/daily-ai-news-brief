@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 18:37:38",
+  "last_updated": "2026-07-07 18:37:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 18:36:50",
-      "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
-    },
     {
       "timestamp": "2026-07-07 18:36:52",
       "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 18:37:38",
       "message": "[SKIP] Irrelevant (AI Filter): EDX Markets, an institutional cryptocurrency trading platform, raised a $76M Series C led by SBI Holdings (Francisco Rodrigues/CoinDesk)"
+    },
+    {
+      "timestamp": "2026-07-07 18:37:40",
+      "message": "[PROCESSING] Analyzing: Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday (Bloomberg)..."
     }
   ]
 }
