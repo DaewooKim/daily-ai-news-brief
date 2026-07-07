@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 12:57:43",
+  "last_updated": "2026-07-07 12:57:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 12:56:57",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: DeepSeek, \uc778\ud37c\ub7f0\uc2a4\ub97c \uc704\ud55c \uc790\uccb4 AI \uce69 \uac1c\ubc1c \ucd08\uae30 \ub2e8\uacc4\n  > Summary: \uc911\uad6d \uc2a4\ud0c0\ud2b8\uc5c5 DeepSeek\uc774 Nvidia\uc640 Huawei \ud558\ub4dc\uc6e8\uc5b4\uc5d0 \ub300\ud55c \uc758\uc874\ub3c4\ub97c \uc904\uc774\uae30..."
-    },
     {
       "timestamp": "2026-07-07 12:56:59",
       "message": "[PROCESSING] Analyzing: US autonomous military vehicle startup Forterra says it deployed 100+ Lancer UGVs, based on Polaris ATVs, in Ukraine since 2025, completing 1,100+ missions (Tim Fernholz/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 12:57:43",
       "message": "[PROCESSING] Analyzing: Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices..."
+    },
+    {
+      "timestamp": "2026-07-07 12:57:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices"
     }
   ]
 }
