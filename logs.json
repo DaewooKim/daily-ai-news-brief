@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 14:06:45",
+  "last_updated": "2026-07-07 14:06:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 14:05:53",
-      "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
-    },
     {
       "timestamp": "2026-07-07 14:05:58",
       "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \uc704\ud5d8 \uacbd\uace0\n  > Summary: NERC\uc758 2026\ub144 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \uc811\uadfc\ud568\uc5d0 \ub530\ub77c \uc774\ub4e4\uc774 \uc9c0\uc5ed\uc801\uc73c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 14:06:45",
       "message": "[PROCESSING] Analyzing: Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices..."
+    },
+    {
+      "timestamp": "2026-07-07 14:06:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices"
     }
   ]
 }
