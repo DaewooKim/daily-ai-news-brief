@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 06:20:31",
+  "last_updated": "2026-07-07 06:20:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 06:19:47",
-      "message": "[SUCCESS] Processed: QTS\uc758 \ucde8\uc18c\ub41c 300\uc5b5 \ub2ec\ub7ec \ud504\ub85c\uc81d\ud2b8\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud574 \ub4dc\ub7ec\ub0b4\ub294 \uac83\n  > Summary: QTS\ub294 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub514\uc9c0\ud138 \uac8c\uc774\ud2b8\uc6e8\uc774 \ud504\ub85c\uc81d\ud2b8\ub97c \uc911\ub2e8\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc778\ud504\ub77c\uac00 \uac15..."
-    },
     {
       "timestamp": "2026-07-07 06:19:48",
       "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 06:20:31",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks (Bloomberg)"
+    },
+    {
+      "timestamp": "2026-07-07 06:20:33",
+      "message": "[PROCESSING] Analyzing: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)..."
     }
   ]
 }
