@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 21:56:38",
+  "last_updated": "2026-07-07 21:56:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 21:56:00",
-      "message": "[PROCESSING] Analyzing: ABC tells the government to get out of its newsrooms..."
-    },
     {
       "timestamp": "2026-07-07 21:56:03",
       "message": "[SKIP] Irrelevant (AI Filter): ABC tells the government to get out of its newsrooms"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 21:56:38",
       "message": "[SKIP] Irrelevant (AI Filter): Claude Cowork expands to mobile and web"
+    },
+    {
+      "timestamp": "2026-07-07 21:56:39",
+      "message": "Reprocessing: The \u2018first\u2019 AI-run ransomware attack still needed a human"
     }
   ]
 }
