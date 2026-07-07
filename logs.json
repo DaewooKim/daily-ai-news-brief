@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 17:26:49",
+  "last_updated": "2026-07-07 17:26:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 17:26:10",
-      "message": "Found 138 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-07 17:26:10",
       "message": "[PROCESSING] Analyzing: Google announces Pixel 11 launch event in August..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 17:26:49",
       "message": "Reprocessing: QuiX Quantum Shows Off A Photonic Architecture For HPC Datacenters"
+    },
+    {
+      "timestamp": "2026-07-07 17:26:51",
+      "message": "[SKIP] Content too short: QuiX Quantum Shows Off A Photo..."
     }
   ]
 }
