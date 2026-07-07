@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 12:54:46",
+  "last_updated": "2026-07-07 12:54:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 12:54:00",
-      "message": "[SUCCESS] Processed: \ub808\ub527, LLM\uc774 \ub300\uccb4\ub85c \ucd08\ub798\ud55c \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud574 LLM\uc744 \uc0ac\uc6a9\ud558\ub2e4\n  > Summary: \ub808\ub527\uc740 AI \uc2dc\ub300\uc5d0 \uc2a4\ud338 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud574 LLM(\ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378)\uc744 \ud65c\uc6a9\ud558\uace0 \uc788\ub2e4. ..."
-    },
     {
       "timestamp": "2026-07-07 12:54:02",
       "message": "[PROCESSING] Analyzing: Station F ramps up as a launchpad for Europe\u2019s hottest AI startups..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 12:54:46",
       "message": "[PROCESSING] Analyzing: Jersey Mike\u2019s IPO illustrates how bad the AI hype has become..."
+    },
+    {
+      "timestamp": "2026-07-07 12:54:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Jersey Mike\u2019s IPO illustrates how bad the AI hype has become"
     }
   ]
 }
