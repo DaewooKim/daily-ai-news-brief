@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 04:09:57",
+  "last_updated": "2026-07-07 04:09:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 04:09:13",
-      "message": "Reprocessing: Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B (Julia Hornstein/The Information)"
-    },
     {
       "timestamp": "2026-07-07 04:09:15",
       "message": "[PROCESSING] Analyzing: Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B (Julia Hornstein/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 04:09:57",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-07 04:09:59",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
