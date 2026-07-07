@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 04:07:36",
+  "last_updated": "2026-07-07 04:07:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 04:06:56",
-      "message": "Found 130 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-07 04:06:56",
       "message": "[PROCESSING] Analyzing: Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 04:07:36",
       "message": "[PROCESSING] Analyzing: Microsoft is selling off four Xbox studios as part of significant gaming cuts..."
+    },
+    {
+      "timestamp": "2026-07-07 04:07:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft is selling off four Xbox studios as part of significant gaming cuts"
     }
   ]
 }
