@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 07:26:33",
+  "last_updated": "2026-07-07 07:26:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 07:25:55",
-      "message": "[PROCESSING] Analyzing: Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks (Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-07 07:25:58",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 07:26:33",
       "message": "Reprocessing: Anthropic inks $19B AI data center lease with TeraWulf"
+    },
+    {
+      "timestamp": "2026-07-07 07:26:35",
+      "message": "[SKIP] Content too short: Anthropic inks $19B AI data ce..."
     }
   ]
 }
