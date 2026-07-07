@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 01:58:41",
+  "last_updated": "2026-07-07 01:58:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 01:58:03",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: Thrive Capital\uc758 \ubd84\uc0ac \uae30\uc5c5 Thrive Holdings\uac00 SoftBank, Altimeter, D1 \ub4f1\uc73c\ub85c\ubd80\ud130 \uc57d 20\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub824\uace0 \ud569\ub2c8\ub2e4.\n  > Summary: Thrive Capital\uc758 \ubd84\uc0ac \uae30\uc5c5\uc778 Thrive Holdings\uac00 SoftBank, ..."
-    },
     {
       "timestamp": "2026-07-07 01:58:05",
       "message": "[PROCESSING] Analyzing: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 01:58:41",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-07 01:58:43",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
