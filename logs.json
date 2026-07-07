@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 13:00:16",
+  "last_updated": "2026-07-07 13:00:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 12:59:21",
-      "message": "[SUCCESS] Processed: \uc778\ud53c\ub2c8\uc5b8, \ub4dc\ub808\uc2a4\ub374\uc5d0\uc11c \uc804\ub825 \ubc18\ub3c4\uccb4 \ubc0f \uc544\ub0a0\ub85c\uadf8/\ud63c\ud569 \uc2e0\ud638 \uae30\uc220\uc744 \uc704\ud55c \uc138\uacc4 \ucd5c\ub300 \ud339 \uac1c\uc18c\n  > Summary: \uc778\ud53c\ub2c8\uc5b8 \ud14c\ud06c\ub180\ub85c\uc9c0\uc2a4\uac00 \ub4dc\ub808\uc2a4\ub374\uc5d0\uc11c \uc2a4\ub9c8\ud2b8 \ud30c\uc6cc \ud339\uc744 \uac1c\uc18c\ud558\uba70, \uc774\ub294 \uc804\ub825 \ubc18\ub3c4\uccb4\uc640 \uc544\ub0a0\ub85c..."
-    },
     {
       "timestamp": "2026-07-07 12:59:22",
       "message": "[PROCESSING] Analyzing: Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 13:00:16",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-07 13:00:19",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
