@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 05:14:53",
+  "last_updated": "2026-07-07 05:14:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 05:14:12",
-      "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \uc704\ud5d8 \uacbd\uace0 \ubcf4\uace0\uc11c\n  > Summary: NERC\uc758 2026\ub144 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \ub3c4\ub2ec\ud558\uace0 \uc9c0\uc5ed\uc801\uc73c\ub85c \ud074\ub7ec\uc2a4\ud130\ub97c..."
-    },
     {
       "timestamp": "2026-07-07 05:14:14",
       "message": "Reprocessing: The Switch Is the Bottleneck: Why AI Infrastructure Has a Network Problem"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 05:14:53",
       "message": "[PROCESSING] Analyzing: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-07 05:14:56",
+      "message": "[SKIP] Irrelevant (AI Filter): SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)"
     }
   ]
 }
