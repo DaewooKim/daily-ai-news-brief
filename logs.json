@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 01:58:52",
+  "last_updated": "2026-07-07 01:58:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 01:58:16",
-      "message": "[PROCESSING] Analyzing: Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year (Ben Fritz/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-07-07 01:58:17",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year (Ben Fritz/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 01:58:52",
       "message": "Reprocessing: Memory chipmaker SK hynix seeks to raise $28B through US IPO"
+    },
+    {
+      "timestamp": "2026-07-07 01:58:53",
+      "message": "[SKIP] Content too short: Memory chipmaker SK hynix seek..."
     }
   ]
 }
