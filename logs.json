@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 11:48:58",
+  "last_updated": "2026-07-07 11:49:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 11:48:16",
-      "message": "[SUCCESS] Processed: \ud30c\ub9ac \uae30\ubc18 UMA, \uc804 \ud14c\uc2ac\ub77c \uc635\ud2f0\uba38\uc2a4 \uacfc\ud559\uc790 \ub808\ubbf8 \uce74\ub374\uacfc \uc804 \uad6c\uae00 \ub525\ub9c8\uc778\ub4dc \uc5f0\uad6c\uc6d0 \ud53c\uc5d0\ub974 \uc138\ub974\ub9c8\ub124\uac00 \uc124\ub9bd\ud55c \ud68c\uc0ac, \ub178\uc2a4\uc2a4\ud0c0 AI \ud734\uba38\ub178\uc774\ub4dc \ub85c\ubd07 \uc2dc\uc5f0 (\ubca0\ub178\uc544 \ubca0\ub974\ud154\ub85c\ud2b8/\ube14\ub8f8\ubc84\uadf8)\n  > Summary: \ud30c\ub9ac \uae30\ubc18\uc758 UMA\uac00 \uc804 \ud14c\uc2ac\ub77c \uc635\ud2f0\uba38\uc2a4 \uacfc\ud559\uc790\uc640 \uc804 \uad6c\uae00 \ub525\ub9c8\uc778\ub4dc \uc5f0\uad6c\uc6d0\uc774 \uc124\ub9bd\ud55c \ud68c\uc0ac\ub85c..."
-    },
     {
       "timestamp": "2026-07-07 11:48:18",
       "message": "[PROCESSING] Analyzing: Sources: Beijing recently held meetings with Alibaba, ByteDance, Z.ai, and others to discuss restricting overseas access to advanced open and closed AI models (Fanny Potkin/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 11:48:58",
       "message": "[PROCESSING] Analyzing: The Test Cell Ecosystem: From Tester Performance To Production Outcomes..."
+    },
+    {
+      "timestamp": "2026-07-07 11:49:01",
+      "message": "[SKIP] Irrelevant (AI Filter): The Test Cell Ecosystem: From Tester Performance To Production Outcomes"
     }
   ]
 }
