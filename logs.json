@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-07 16:22:06",
+  "last_updated": "2026-07-07 16:22:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-07 16:21:20",
-      "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
-    },
     {
       "timestamp": "2026-07-07 16:21:23",
       "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \uc704\ud5d8 \uacbd\uace0\n  > Summary: NERC\uc758 2026\ub144 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \uc811\uadfc\ud568\uc5d0 \ub530\ub77c \ubc1c\uc0dd\ud558\ub294 \uae09\uc791\uc2a4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-07 16:22:06",
       "message": "[SKIP] Irrelevant (AI Filter): Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday (Bloomberg)"
+    },
+    {
+      "timestamp": "2026-07-07 16:22:08",
+      "message": "[PROCESSING] Analyzing: Study: 50 test accounts created in Australia across nine platforms were never asked to verify their age, despite the Australian law mandating a ban on under-16s (Byron Kaye/Reuters)..."
     }
   ]
 }
