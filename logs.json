@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-08 05:39:03",
+  "last_updated": "2026-07-08 05:39:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-08 05:38:24",
-      "message": "[PROCESSING] Analyzing: Sources: Meta is testing AI glasses that continuously record audio and take photos every few seconds, letting users query or recall what they saw or heard (Hannah Murphy/Financial Times)..."
-    },
     {
       "timestamp": "2026-07-08 05:38:27",
       "message": "[SUCCESS] Processed: \uba54\ud0c0, \uc0ac\uc6a9\uc790\uac00 \ubcf8 \uac83\uacfc \ub4e4\uc740 \uac83\uc744 \uae30\uc5b5\ud560 \uc218 \uc788\ub294 AI \uc548\uacbd \ud14c\uc2a4\ud2b8\n  > Summary: \uba54\ud0c0\uac00 \uc624\ub514\uc624\ub97c \uc9c0\uc18d\uc801\uc73c\ub85c \uae30\ub85d\ud558\uace0 \uba87 \ucd08\ub9c8\ub2e4 \uc0ac\uc9c4\uc744 \ucc0d\ub294 AI \uc548\uacbd\uc744 \ud14c\uc2a4\ud2b8\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-08 05:39:03",
       "message": "[PROCESSING] Analyzing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat..."
+    },
+    {
+      "timestamp": "2026-07-08 05:39:05",
+      "message": "[SKIP] Irrelevant (AI Filter): CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
