@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-08 01:14:12",
+  "last_updated": "2026-07-08 01:14:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-08 01:13:24",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-07-08 01:13:24",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-08 01:13:37",
       "message": "Found 140 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-08 01:14:12",
       "message": "Reprocessing: QuiX Quantum Shows Off A Photonic Architecture For HPC Datacenters"
+    },
+    {
+      "timestamp": "2026-07-08 01:14:13",
+      "message": "[SKIP] Content too short: QuiX Quantum Shows Off A Photo..."
+    },
+    {
+      "timestamp": "2026-07-08 01:14:15",
+      "message": "Reprocessing: As Goes AI Compute, So Goes Ethernet Networking"
     }
   ]
 }
