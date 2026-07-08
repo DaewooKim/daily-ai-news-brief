@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-08 07:48:55",
+  "last_updated": "2026-07-08 07:48:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-08 07:48:19",
-      "message": "Found 140 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-08 07:48:19",
       "message": "[PROCESSING] Analyzing: Of course viewers are giving up on Netflix shows..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-08 07:48:55",
       "message": "[PROCESSING] Analyzing: Accelerate your innovation..."
+    },
+    {
+      "timestamp": "2026-07-08 07:48:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerate your innovation"
     }
   ]
 }
