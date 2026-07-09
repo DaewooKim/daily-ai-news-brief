@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 00:24:38",
+  "last_updated": "2026-07-09 00:24:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 00:23:46",
-      "message": "[SUCCESS] Processed: OpenAI, GPT-Live\uc758 \ub450 \uac00\uc9c0 \ubc84\uc804 \ucd9c\uc2dc: Go, Plus \ubc0f Pro \uc0ac\uc6a9\uc790\ub97c \uc704\ud55c GPT-Live-1\uacfc \ubb34\ub8cc \uc0ac\uc6a9\uc790\ub97c \uc704\ud55c \uae30\ubcf8 \ubaa8\ub378\uc778 GPT-Live-1 \ubbf8\ub2c8\n  > Summary: OpenAI\uac00 \ub450 \uac00\uc9c0 \ubc84\uc804\uc758 GPT-Live\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. GPT-Live-1\uc740 Go,..."
-    },
     {
       "timestamp": "2026-07-09 00:23:48",
       "message": "[PROCESSING] Analyzing: OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 00:24:38",
       "message": "[PROCESSING] Analyzing: Field Guide to DDR Signal Integrity Analysis..."
+    },
+    {
+      "timestamp": "2026-07-09 00:24:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Field Guide to DDR Signal Integrity Analysis"
     }
   ]
 }
