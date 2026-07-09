@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 02:41:07",
+  "last_updated": "2026-07-09 02:41:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 02:40:26",
-      "message": "[SUCCESS] Processed: \uadf8\ub85d 4.5\uac00 \uadf8\ub85d \ube4c\ub4dc, \ucee4\uc11c\uc5d0\uc11c \ubc0f \uc2a4\ud398\uc774\uc2a4XAI \ucf58\uc194\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud558\uc9c0\ub9cc EU\uc5d0\uc11c\ub294 \uc774\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4; \uc785\ub825 \ud1a0\ud070 1\ubc31\ub9cc \uac1c\ub2f9 2\ub2ec\ub7ec, \ucd9c\ub825 \ud1a0\ud070 1\ubc31\ub9cc \uac1c\ub2f9 6\ub2ec\ub7ec\uc785\ub2c8\ub2e4 (Axios)\n  > Summary: \uc5d8\ub860 \uba38\uc2a4\ud06c\uc758 \uc2a4\ud398\uc774\uc2a4XAI\uac00 \uac00\uc7a5 \ub611\ub611\ud55c \ubaa8\ub378\uc778 \uadf8\ub85d 4.5\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 ..."
-    },
     {
       "timestamp": "2026-07-09 02:40:28",
       "message": "Reprocessing: SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to \"handle difficult, long-running\" legal, finance, and coding tasks (Carmen Arroyo/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 02:41:07",
       "message": "[PROCESSING] Analyzing: Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices..."
+    },
+    {
+      "timestamp": "2026-07-09 02:41:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices"
     }
   ]
 }
