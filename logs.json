@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 10:28:38",
+  "last_updated": "2026-07-09 10:28:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 10:27:56",
-      "message": "[PROCESSING] Analyzing: OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)..."
-    },
     {
       "timestamp": "2026-07-09 10:28:00",
       "message": "[SUCCESS] Processed: OpenAI\ub294 SWE-Bench Pro\uc5d0\uc11c \uad11\ubc94\uc704\ud55c \uc791\uc5c5 \ubb38\uc81c\ub97c \ubc1c\uacac\ud588\ub2e4\uace0 \ubc1d\ud614\uc73c\uba70, ~30%\uc758 \uc791\uc5c5\uc774 \uc190\uc0c1\ub418\uc5c8\ub2e4\uace0 \ucd94\uc815\ud558\uace0 \ubca4\uce58\ub9c8\ud06c \ucc44\ud0dd\uc5d0 \ub300\ud55c \uc774\uc804 \uad8c\uc7a5 \uc0ac\ud56d\uc744 \ucca0\ud68c\ud569\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 SWE-Bench Pro\uc758 \uc790\uc138\ud55c \uac10\uc0ac \uacb0\uacfc, \uc57d 30%\uc758 \uc791\uc5c5\uc774 \uc190\uc0c1\ub418\uc5c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 10:28:38",
       "message": "[SUCCESS] Processed: SEALSQ\uc640 GlobalFoundries, \ud3ec\uc2a4\ud2b8 \uc591\uc790 \uc554\ud638\ud654 \ubc0f \uc591\uc790 \ucef4\ud4e8\ud305 \uae30\uc220 \uac00\uc18d\ud654\ub97c \uc704\ud55c \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0\n  > Summary: SEALSQ\uc640 GlobalFoundries\uac00 \ud3ec\uc2a4\ud2b8 \uc591\uc790 \uc554\ud638\ud654(PQC) \ubc0f \uc591\uc790 \ucef4\ud4e8\ud305 ..."
+    },
+    {
+      "timestamp": "2026-07-09 10:28:40",
+      "message": "Reprocessing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
