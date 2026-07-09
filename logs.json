@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 01:33:27",
+  "last_updated": "2026-07-09 01:33:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 01:32:45",
-      "message": "[PROCESSING] Analyzing: Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)..."
-    },
     {
       "timestamp": "2026-07-09 01:32:49",
       "message": "[SUCCESS] Processed: Grok 4.5\ub294 Grok Build, Cursor, SpaceXAI \ucf58\uc194\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc9c0\ub9cc EU\uc5d0\uc11c\ub294 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4; 1M \uc785\ub825 \ud1a0\ud070\ub2f9 $2, 1M \ucd9c\ub825 \ud1a0\ud070\ub2f9 $6\uc785\ub2c8\ub2e4 (Axios)\n  > Summary: Axios\uc5d0 \ub530\ub974\uba74, Grok 4.5\ub294 Grok Build, Cursor \ubc0f SpaceXA..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 01:33:27",
       "message": "[SKIP] Irrelevant (AI Filter): Field Guide to DDR Signal Integrity Analysis"
+    },
+    {
+      "timestamp": "2026-07-09 01:33:29",
+      "message": "Reprocessing: The Ultimate Guide to PCI Express: Specs, Features, Use Cases and PCIe 7.0"
     }
   ]
 }
