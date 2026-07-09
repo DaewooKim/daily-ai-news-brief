@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 23:00:20",
+  "last_updated": "2026-07-09 23:00:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 22:59:37",
-      "message": "Found 168 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-09 22:59:37",
       "message": "Reprocessing: The ChatGPT browser is already dead"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 23:00:20",
       "message": "[PROCESSING] Analyzing: A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale..."
+    },
+    {
+      "timestamp": "2026-07-09 23:00:23",
+      "message": "[SKIP] Irrelevant (AI Filter): A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale"
     }
   ]
 }
