@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 02:40:41",
+  "last_updated": "2026-07-09 02:40:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 02:39:55",
-      "message": "[SUCCESS] Processed: QTS\uac00 \ucde8\uc18c\ud55c 300\uc5b5 \ub2ec\ub7ec \ud504\ub85c\uc81d\ud2b8\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud574 \ubcf4\uc5ec\uc8fc\ub294 \uac83\n  > Summary: QTS\ub294 \uac15\ub825\ud55c \uc778\ud504\ub77c\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub514\uc9c0\ud138 \uac8c\uc774\ud2b8\uc6e8\uc774 \ud504\ub85c\uc81d\ud2b8\ub97c \ucca0\ud68c..."
-    },
     {
       "timestamp": "2026-07-09 02:39:56",
       "message": "[PROCESSING] Analyzing: Cognition releases SWE-1.7, trained from Kimi K2.7 and available at 1,000 tokens/second, claiming it nears GPT-5.5 and Opus 4.8 on benchmarks at a lower cost (Cognition)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 02:40:41",
       "message": "[PROCESSING] Analyzing: Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)..."
+    },
+    {
+      "timestamp": "2026-07-09 02:40:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)"
     }
   ]
 }
