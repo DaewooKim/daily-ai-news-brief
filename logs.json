@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 04:55:25",
+  "last_updated": "2026-07-09 04:55:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 04:54:41",
-      "message": "[PROCESSING] Analyzing: Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon..."
-    },
     {
       "timestamp": "2026-07-09 04:54:45",
       "message": "[SUCCESS] Processed: Arteris, IC-Link\uc640 \ud611\ub825\ud558\uc5ec \ucc28\uc138\ub300 AI \ubc0f HPC \uc2e4\ub9ac\ucf58 \uac00\uc18d\ud654 \ubc1c\ud45c\n  > Summary: Arteris\ub294 AI \uc2dc\ub300 \ud601\uc2e0\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud55c \ubc18\ub3c4\uccb4 \uae30\uc220 \uc81c\uacf5\uc5c5\uccb4\ub85c, IC-Link\uc640..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 04:55:25",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-09 04:55:27",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
