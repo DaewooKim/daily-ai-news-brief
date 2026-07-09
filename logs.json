@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 21:56:20",
+  "last_updated": "2026-07-09 21:56:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 21:55:32",
-      "message": "[SUCCESS] Processed: GPT-5.6 \uc194\uc740 1M \uc785\ub825 \ud1a0\ud070\ub2f9 $5, 1M \ucd9c\ub825 \ud1a0\ud070\ub2f9 $30\uc785\ub2c8\ub2e4. GPT-5.6 \ud14c\ub77c\ub294 \uac01\uac01 $2.50\uacfc $15, GPT-5.6 \ub8e8\ub098\ub294 $1\uacfc $6\uc785\ub2c8\ub2e4 (OpenAI)\n  > Summary: OpenAI\uac00 \ubc1c\ud45c\ud55c GPT-5.6 \ubaa8\ub378\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 \uac00\uaca9 \uc815\ubcf4\uc785\ub2c8\ub2e4. GPT-5.6 \uc194..."
-    },
     {
       "timestamp": "2026-07-09 21:55:34",
       "message": "Reprocessing: OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on Mac and Windows (Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 21:56:20",
       "message": "[PROCESSING] Analyzing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat..."
+    },
+    {
+      "timestamp": "2026-07-09 21:56:23",
+      "message": "[SKIP] Irrelevant (AI Filter): CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
