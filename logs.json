@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 18:20:49",
+  "last_updated": "2026-07-09 18:20:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 18:20:02",
-      "message": "[SUCCESS] Processed: \uba54\ud0c0\uc758 AI \uc774\ubbf8\uc9c0 \uc0dd\uc131\uae30\uac00 \ub2f9\uc2e0\uc758 \uc778\uc2a4\ud0c0\uadf8\ub7a8 \uc0ac\uc9c4\uc744 \uc0ac\uc6a9\ud558\ub294 \uac83\uc744 \uc911\ub2e8\ud558\ub294 \ubc29\ubc95\n  > Summary: \uba54\ud0c0\uc758 \uc0c8\ub85c\uc6b4 AI \uc774\ubbf8\uc9c0 \uc0dd\uc131\uae30\ub294 \uc0ac\uc6a9\uc790\uac00 \uc120\ud0dd \ud574\uc81c\ud558\uc9c0 \uc54a\ub294 \ud55c \uacf5\uac1c \uc778\uc2a4\ud0c0\uadf8\ub7a8 \uc0ac\uc9c4\uc744..."
-    },
     {
       "timestamp": "2026-07-09 18:20:04",
       "message": "[PROCESSING] Analyzing: Meta\u2019s new AI chips will begin production in September..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 18:20:49",
       "message": "[PROCESSING] Analyzing: White House Executive Order Brings New Urgency to Post-Quantum Cryptography..."
+    },
+    {
+      "timestamp": "2026-07-09 18:20:59",
+      "message": "[SKIP] Irrelevant (AI Filter): White House Executive Order Brings New Urgency to Post-Quantum Cryptography"
     }
   ]
 }
