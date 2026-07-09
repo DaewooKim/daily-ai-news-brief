@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 14:57:17",
+  "last_updated": "2026-07-09 14:57:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 14:56:35",
-      "message": "[SUCCESS] Processed: \uba54\ud0c0, \ub354 \uc9c4\ubcf4\ub41c \ucf54\ub529\uc774 \uac00\ub2a5\ud55c Muse Spark 1.1 \ucd9c\uc2dc \u2013 \uccab \ubc88\uc9f8 \uc138\ub300\uc5d0\uc11c\uc758 \u2018\ub2e8\uacc4\uc801 \ubcc0\ud654\u2019\n  > Summary: \uba54\ud0c0\uac00 Muse Spark 1.1\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc5c5\ub370\uc774\ud2b8\ub294 \ub354 \uc9c4\ubcf4\ub41c \ucf54\ub529 \uae30\ub2a5\uc744 \uc81c..."
-    },
     {
       "timestamp": "2026-07-09 14:56:37",
       "message": "[PROCESSING] Analyzing: European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany's $3.2B, and France's $2.4B (Gen\u00e9 Teare/Crunchbase News)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 14:57:17",
       "message": "[SKIP] Irrelevant (AI Filter): UALink Under The Hood: Why Full-Stack Verification Wins"
+    },
+    {
+      "timestamp": "2026-07-09 14:57:19",
+      "message": "Reprocessing: From Host Node To Heterogeneous Rack: Rethinking The AI CPU"
     }
   ]
 }
