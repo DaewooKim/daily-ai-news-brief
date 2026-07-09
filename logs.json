@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 08:14:56",
+  "last_updated": "2026-07-09 08:15:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 08:14:12",
-      "message": "[SKIP] Irrelevant (AI Filter): The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)"
-    },
     {
       "timestamp": "2026-07-09 08:14:13",
       "message": "Reprocessing: OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 08:14:56",
       "message": "[PROCESSING] Analyzing: Benchmarking An NPU At Scale..."
+    },
+    {
+      "timestamp": "2026-07-09 08:15:00",
+      "message": "[SUCCESS] Processed: \uc2a4\ucf00\uc77c\uc5d0\uc11c NPU \ubca4\uce58\ub9c8\ud06c\n  > Summary: Chimera SDK\uc758 \uc5c5\ub370\uc774\ud2b8\uc640 \ud568\uaed8, 300\uac1c \uc774\uc0c1\uc758 \ubaa8\ub378\uc774 \uc790\ub3d9\uc73c\ub85c \uc7ac\ucef4\ud30c\uc77c\ub418\uace0 \ub2e4\uc591..."
     }
   ]
 }
