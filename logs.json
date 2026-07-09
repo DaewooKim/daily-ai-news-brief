@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 21:55:24",
+  "last_updated": "2026-07-09 21:55:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 21:54:31",
-      "message": "[PROCESSING] Analyzing: Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-07-09 21:54:36",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock (Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 21:55:24",
       "message": "[SUCCESS] Processed: OpenAI, Mac\uacfc Windows\uc6a9 Codex \ubc0f ChatGPT \ub370\uc2a4\ud06c\ud0d1 \uc571 \ud1b5\ud569\n  > Summary: OpenAI\ub294 Mac\uacfc Windows\uc6a9 Codex \ubc0f ChatGPT \ub370\uc2a4\ud06c\ud0d1 \uc571\uc744 \uc0c8\ub85c\uc6b4 ..."
+    },
+    {
+      "timestamp": "2026-07-09 21:55:26",
+      "message": "Reprocessing: GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 (OpenAI)"
     }
   ]
 }
