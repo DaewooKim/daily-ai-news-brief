@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 01:33:25",
+  "last_updated": "2026-07-09 01:33:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 01:32:44",
-      "message": "Reprocessing: Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)"
-    },
     {
       "timestamp": "2026-07-09 01:32:45",
       "message": "[PROCESSING] Analyzing: Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 01:33:25",
       "message": "[PROCESSING] Analyzing: Field Guide to DDR Signal Integrity Analysis..."
+    },
+    {
+      "timestamp": "2026-07-09 01:33:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Field Guide to DDR Signal Integrity Analysis"
     }
   ]
 }
