@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 14:57:03",
+  "last_updated": "2026-07-09 14:57:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 14:56:19",
-      "message": "[SUCCESS] Processed: Character.AI, \uc138 \uac1c\uc758 \uc778\uac04 \uc791\uac00\uac00 \uc4f4 AI \uc0dd\uc131 \ub9c8\uc774\ud06c\ub85c \ub4dc\ub77c\ub9c8 \ucd9c\uc2dc\n  > Summary: Character.AI\ub294 \uc0ac\uc6a9\uc790\ub4e4\uc774 \ub300\ud654\ud560 \uc218 \uc788\ub294 \uce90\ub9ad\ud130\ub4e4\uc774 \ub4f1\uc7a5\ud558\ub294 \uc138 \uac1c\uc758 \uc778\uac04 \uc791\uac00..."
-    },
     {
       "timestamp": "2026-07-09 14:56:21",
       "message": "[PROCESSING] Analyzing: Muse Spark 1.1 costs $1.25 per 1M input tokens and $4.25 per 1M output tokens; Alexandr Wang says coding and agentic tasks were key focuses (Ina Fried/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 14:57:03",
       "message": "[PROCESSING] Analyzing: Internal DOJ memo: attorneys on crypto cases should expect less cooperation from Binance, which is adding asset freeze requirements; Binance denies any changes (Leo Schwartz/The Information)..."
+    },
+    {
+      "timestamp": "2026-07-09 14:57:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Internal DOJ memo: attorneys on crypto cases should expect less cooperation from Binance, which is adding asset freeze requirements; Binance denies any changes (Leo Schwartz/The Information)"
     }
   ]
 }
