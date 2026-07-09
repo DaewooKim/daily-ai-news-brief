@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-09 13:50:06",
+  "last_updated": "2026-07-09 13:50:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-09 13:49:14",
-      "message": "[PROCESSING] Analyzing: The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years (Financial Times)..."
-    },
     {
       "timestamp": "2026-07-09 13:49:18",
       "message": "[SUCCESS] Processed: \uc778\uacf5\uc9c0\ub2a5 \ub370\uc774\ud130 \uc13c\ud130 \ubd90\uc73c\ub85c \uc804\ub825 \ubcc0\uc555\uae30 \uc218\uc694 \uae09\uc99d\n  > Summary: \uc778\uacf5\uc9c0\ub2a5 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uae09\uaca9\ud55c \uc131\uc7a5\uc73c\ub85c \uc778\ud574 \uc804\ub825 \ubcc0\uc555\uae30 \uc218\uc694\uac00 \uae09\uc99d\ud558\uace0 \uc788\uc73c\uba70, \uc8fc\ubb38\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-09 13:50:06",
       "message": "[PROCESSING] Analyzing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat..."
+    },
+    {
+      "timestamp": "2026-07-09 13:50:08",
+      "message": "[SKIP] Irrelevant (AI Filter): CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
