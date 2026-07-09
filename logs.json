@@ -1,86 +1,26 @@
 {
-  "last_updated": "2026-07-08 07:50:41",
+  "last_updated": "2026-07-09 00:18:46",
   "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-08 07:49:59",
-      "message": "[PROCESSING] Analyzing: IBM Brings Z to 19-Inch Racks as AI Reshapes Data Centers..."
+      "timestamp": "2026-07-09 00:18:33",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-08 07:50:02",
-      "message": "[SUCCESS] Processed: IBM, \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc7ac\uad6c\uc131\ud558\ub294 AI\ub97c \uc704\ud574 19\uc778\uce58 \ub799\uc5d0 Z \ucd9c\uc2dc\n  > Summary: IBM\uc740 \ucd5c\uc2e0 \ub799 \uc7a5\ucc29 \ubc0f \ub2e8\uc77c \ud504\ub808\uc784 \uc2dc\uc2a4\ud15c\uc744 \ud1b5\ud574 \uae30\uc5c5\ub4e4\uc5d0\uac8c \ub370\uc774\ud130 \uc13c\ud130 \uacf5\uac04, \ub0c9\uac01,..."
+      "timestamp": "2026-07-09 00:18:33",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-08 07:50:04",
-      "message": "Reprocessing: What QTS\u2019 Canceled $30B Project Reveals About AI Data Center Development"
+      "timestamp": "2026-07-09 00:18:33",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-08 07:50:06",
-      "message": "[PROCESSING] Analyzing: What QTS\u2019 Canceled $30B Project Reveals About AI Data Center Development..."
+      "timestamp": "2026-07-09 00:18:46",
+      "message": "Found 156 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-08 07:50:09",
-      "message": "[SUCCESS] Processed: QTS\uc758 \ucde8\uc18c\ub41c 300\uc5b5 \ub2ec\ub7ec \ud504\ub85c\uc81d\ud2b8\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud574 \ub4dc\ub7ec\ub0b8 \uac83\n  > Summary: QTS\ub294 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub514\uc9c0\ud138 \uac8c\uc774\ud2b8\uc6e8\uc774 \ud504\ub85c\uc81d\ud2b8\ub97c \ucca0\ud68c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uac15\ub825\ud55c \uc778\ud504..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:11",
-      "message": "Reprocessing: NERC Flags AI Data Center Grid Risks in Report"
-    },
-    {
-      "timestamp": "2026-07-08 07:50:12",
-      "message": "[PROCESSING] Analyzing: NERC Flags AI Data Center Grid Risks in Report..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:16",
-      "message": "[SUCCESS] Processed: NERC, AI \ub370\uc774\ud130 \uc13c\ud130 \uadf8\ub9ac\ub4dc \uc704\ud5d8\uc744 \ubcf4\uace0\uc11c\uc5d0\uc11c \uacbd\uace0\n  > Summary: NERC\uc758 2026\ub144 \ubcf4\uace0\uc11c\ub294 \uac1c\ubcc4 \ucea0\ud37c\uc2a4\uac00 \uae30\uac00\uc640\ud2b8 \uaddc\ubaa8\uc5d0 \uc811\uadfc\ud558\uace0 \uc9c0\uc5ed\uc801\uc73c\ub85c \ud074\ub7ec\uc2a4\ud130\ub97c..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:17",
-      "message": "[PROCESSING] Analyzing: Palantir insiders and investors fear the company's enthusiastic embrace of President Trump's policies could drive away corporate clients and engineering talent (Financial Times)..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:20",
-      "message": "[SKIP] Irrelevant (AI Filter): Palantir insiders and investors fear the company's enthusiastic embrace of President Trump's policies could drive away corporate clients and engineering talent (Financial Times)"
-    },
-    {
-      "timestamp": "2026-07-08 07:50:22",
-      "message": "Reprocessing: A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market (CNBC)"
-    },
-    {
-      "timestamp": "2026-07-08 07:50:23",
-      "message": "[PROCESSING] Analyzing: A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market (CNBC)..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:27",
-      "message": "[SUCCESS] Processed: 2024\ub144 \ubbf8\uad6d \uad6d\ubc29\ubd80\uc758 \uc81c\uc7ac\ub97c \ubc1b\uc740 \uc911\uad6d \ub77c\uc774\ub2e4 \uc81c\uc870\uc5c5\uccb4 \ud5e4\uc0ac\uc774\uc758 \ubbf8\uad6d \uc9c4\ucd9c\n  > Summary: 2024\ub144 \ubbf8\uad6d \uad6d\ubc29\ubd80\uc5d0 \uc758\ud574 \uc81c\uc7ac\ub97c \ubc1b\uac8c \ub41c \uc911\uad6d \ub77c\uc774\ub2e4 \uc81c\uc870\uc5c5\uccb4 \ud5e4\uc0ac\uc774\uac00 \ubbf8\uad6d\uc5d0\uc11c\uc758 \uc0ac..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:29",
-      "message": "Reprocessing: Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with rivals (Phoebe Liu/The Information)"
-    },
-    {
-      "timestamp": "2026-07-08 07:50:30",
-      "message": "[PROCESSING] Analyzing: Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with rivals (Phoebe Liu/The Information)..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:33",
-      "message": "[SUCCESS] Processed: Nvidia\uc640 AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 d-Matrix\uac00 AI \ubaa8\ub378\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ud558\ub4dc\uc6e8\uc5b4\ub97c \uacb0\ud569\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc2dc\uc2a4\ud15c\uc744 \ucd9c\uc2dc\ud569\ub2c8\ub2e4.\n  > Summary: Nvidia\uc640 AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 d-Matrix\uac00 AI \ubaa8\ub378\uc744 \uad6c\ub3d9\ud558\uae30 \uc704\ud55c \uc0c8\ub85c\uc6b4 \ud558\ub4dc\uc6e8..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:35",
-      "message": "[PROCESSING] Analyzing: Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 (Puyaan Singh/Reuters)..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 (Puyaan Singh/Reuters)"
-    },
-    {
-      "timestamp": "2026-07-08 07:50:39",
-      "message": "[PROCESSING] Analyzing: Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses' privacy LED light (Victoria Song/The Verge)..."
-    },
-    {
-      "timestamp": "2026-07-08 07:50:41",
-      "message": "[SKIP] Irrelevant (AI Filter): Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses' privacy LED light (Victoria Song/The Verge)"
+      "timestamp": "2026-07-09 00:18:46",
+      "message": "[PROCESSING] Analyzing: Meta is reportedly working on smart glasses that would be recording all the time..."
     }
   ]
 }
