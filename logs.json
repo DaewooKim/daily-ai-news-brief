@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 01:18:11",
+  "last_updated": "2026-07-10 01:18:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 01:17:16",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-10 01:17:29",
       "message": "Found 172 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 01:18:11",
       "message": "[PROCESSING] Analyzing: Schlage\u2019s Sense Pro unlocks the door so I don\u2019t have to..."
+    },
+    {
+      "timestamp": "2026-07-10 01:18:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Schlage\u2019s Sense Pro unlocks the door so I don\u2019t have to"
     }
   ]
 }
