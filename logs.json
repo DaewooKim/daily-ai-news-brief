@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 07:02:18",
+  "last_updated": "2026-07-10 07:02:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 07:01:23",
-      "message": "Reprocessing: OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter"
-    },
     {
       "timestamp": "2026-07-10 07:01:25",
       "message": "[PROCESSING] Analyzing: OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 07:02:18",
       "message": "[PROCESSING] Analyzing: White House Executive Order Brings New Urgency to Post-Quantum Cryptography..."
+    },
+    {
+      "timestamp": "2026-07-10 07:02:21",
+      "message": "[SKIP] Irrelevant (AI Filter): White House Executive Order Brings New Urgency to Post-Quantum Cryptography"
     }
   ]
 }
