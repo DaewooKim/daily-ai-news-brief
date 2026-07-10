@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 13:57:03",
+  "last_updated": "2026-07-10 13:57:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 13:56:05",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-10 13:56:18",
       "message": "Found 172 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 13:57:03",
       "message": "[PROCESSING] Analyzing: Netflix reportedly considers adding always-on channels..."
+    },
+    {
+      "timestamp": "2026-07-10 13:57:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix reportedly considers adding always-on channels"
     }
   ]
 }
