@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-10 05:51:22",
+  "last_updated": "2026-07-10 05:51:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 05:50:36",
-      "message": "Found 168 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-07-10 05:50:36",
-      "message": "[PROCESSING] Analyzing: Microsoft\u2019s carbon emissions went up 25 percent last year..."
-    },
     {
       "timestamp": "2026-07-10 05:50:39",
       "message": "[SKIP] Irrelevant (AI Filter): Microsoft\u2019s carbon emissions went up 25 percent last year"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-10 05:51:22",
       "message": "Reprocessing: SensorFM: Towards a general intelligence and interface for wearable health data"
+    },
+    {
+      "timestamp": "2026-07-10 05:51:24",
+      "message": "[SKIP] Content too short: SensorFM: Towards a general in..."
+    },
+    {
+      "timestamp": "2026-07-10 05:51:25",
+      "message": "Reprocessing: The power of collaboration: How we can reduce traffic congestion"
     }
   ]
 }
