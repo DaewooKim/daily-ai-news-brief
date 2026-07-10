@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 00:13:16",
+  "last_updated": "2026-07-10 00:13:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 00:12:35",
-      "message": "[SUCCESS] Processed: PitchBook: 2026\ub144 \uc0c1\ubc18\uae30 \ubbf8\uad6d \ubca4\ucc98 \uc790\uae08 \uc870\ub2ec, 4,127\uc5b5 \ub2ec\ub7ec\ub85c 2025\ub144 \uc804\ub144 \ub300\ube44 30% \uc99d\uac00, AI \uc2a4\ud0c0\ud2b8\uc5c5 \uc790\uae08 \uc870\ub2ec\uc774 86%\uc778 3,559\uc5b5 \ub2ec\ub7ec \ucc28\uc9c0; 2\ubd84\uae30 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1 \ub77c\uc6b4\ub4dc 7\uac74 \ubc1c\uc0dd\n  > Summary: 2026\ub144 \uc0c1\ubc18\uae30 \ubbf8\uad6d\uc758 \ubca4\ucc98 \uc790\uae08 \uc870\ub2ec\uc774 4,127\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud558\uba70, \uc774\ub294 2025\ub144 \uc804..."
-    },
     {
       "timestamp": "2026-07-10 00:12:37",
       "message": "[PROCESSING] Analyzing: The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp (Sam Clark/Politico)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 00:13:16",
       "message": "[SKIP] Irrelevant (AI Filter): UALink Under The Hood: Why Full-Stack Verification Wins"
+    },
+    {
+      "timestamp": "2026-07-10 00:13:18",
+      "message": "Reprocessing: From Host Node To Heterogeneous Rack: Rethinking The AI CPU"
     }
   ]
 }
