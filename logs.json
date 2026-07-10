@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 20:54:14",
+  "last_updated": "2026-07-10 20:54:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 20:53:23",
-      "message": "[PROCESSING] Analyzing: Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less..."
-    },
     {
       "timestamp": "2026-07-10 20:53:27",
       "message": "[SUCCESS] Processed: \uc6d4\uc2a4\ud2b8\ub9ac\ud2b8\ub294 AI \uad6c\ucd95\uc5d0 \ub300\ud574 \ud1a0\ub860\ud558\uace0 \uc788\uc73c\uba70, \uae30\uc5c5\ub4e4\uc740 86%\uac00 GPU \uc6a9\ub7c9\uc758 \uc808\ubc18 \uc774\ud558\ub85c \uc6b4\uc601 \uc911\uc774\ub77c\uace0 \ub2f5\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: \ub9ce\uc740 \uae30\uc5c5\ub4e4\uc774 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc694\uad6c\ub418\ub294 \uad00\ub9ac \uae30\ub2a5 \uc774\uc804\uc5d0 \ubc30\uce58\ud558\uace0 \uc788\uc73c\uba70, \uc774\uc5d0 \ub530\ub77c \uc7ac\uc815..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 20:54:14",
       "message": "[SKIP] Content too short: Web data scraping infrastructu..."
+    },
+    {
+      "timestamp": "2026-07-10 20:54:18",
+      "message": "Reprocessing: Canva targets enterprise creativity with trusted AI creative workflows"
     }
   ]
 }
