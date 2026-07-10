@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 15:06:28",
+  "last_updated": "2026-07-10 15:06:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 15:05:44",
-      "message": "Reprocessing: MUFG aims to become AI-native with OpenAI"
-    },
     {
       "timestamp": "2026-07-10 15:05:45",
       "message": "[PROCESSING] Analyzing: MUFG aims to become AI-native with OpenAI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 15:06:28",
       "message": "[PROCESSING] Analyzing: White House Executive Order Brings New Urgency to Post-Quantum Cryptography..."
+    },
+    {
+      "timestamp": "2026-07-10 15:06:32",
+      "message": "[SKIP] Irrelevant (AI Filter): White House Executive Order Brings New Urgency to Post-Quantum Cryptography"
     }
   ]
 }
