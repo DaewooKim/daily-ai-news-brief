@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 05:54:47",
+  "last_updated": "2026-07-10 05:54:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 05:53:57",
-      "message": "[SUCCESS] Processed: IBM, AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc7ac\ud3b8\ud558\ub294 \uac00\uc6b4\ub370 Z\ub97c 19\uc778\uce58 \ub799\uc73c\ub85c \uac00\uc838\uc624\ub2e4\n  > Summary: IBM\uc740 \ub370\uc774\ud130 \uc13c\ud130 \uacf5\uac04, \ub0c9\uac01, AI \uc218\uc694\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uae30\uc5c5\uc5d0 \ub354 \ub9ce\uc740 \uc720\uc5f0\uc131\uc744 \uc81c..."
-    },
     {
       "timestamp": "2026-07-10 05:53:59",
       "message": "Reprocessing: What QTS\u2019 Canceled $30B Project Reveals About AI Data Center Development"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 05:54:47",
       "message": "[PROCESSING] Analyzing: Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel (Hannah Lang/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-10 05:54:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel (Hannah Lang/Reuters)"
     }
   ]
 }
