@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 05:55:42",
+  "last_updated": "2026-07-10 05:55:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 05:54:38",
-      "message": "[PROCESSING] Analyzing: SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed (Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-10 05:54:41",
       "message": "[SKIP] Irrelevant (AI Filter): SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 05:55:42",
       "message": "[SUCCESS] Processed: SEALSQ\uc640 GlobalFoundries, \ud3ec\uc2a4\ud2b8-\uc591\uc790 \uc554\ud638\ud654 \ubc0f \uc591\uc790 \ucef4\ud4e8\ud305 \uae30\uc220 \uac00\uc18d\ud654\ub97c \uc704\ud55c \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0\n  > Summary: SEALSQ\uc640 GlobalFoundries\uac00 \uc548\uc804\ud55c \ubc18\ub3c4\uccb4 \ud50c\ub7ab\ud3fc\uc5d0\uc11c \ud3ec\uc2a4\ud2b8-\uc591\uc790 \uc554\ud638\ud654(..."
+    },
+    {
+      "timestamp": "2026-07-10 05:55:44",
+      "message": "Reprocessing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
