@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-10 23:10:22",
+  "last_updated": "2026-07-10 23:10:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 23:09:38",
-      "message": "[SUCCESS] Processed: QTS\uc758 300\uc5b5 \ub2ec\ub7ec \ud504\ub85c\uc81d\ud2b8 \ucde8\uc18c\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uac1c\ubc1c\uc5d0 \ub300\ud574 \ubb34\uc5c7\uc744 \ub4dc\ub7ec\ub0b4\ub294\uac00\n  > Summary: QTS\ub294 \uac15\ub825\ud55c \uc778\ud504\ub77c\uc5d0\ub3c4 \ubd88\uad6c\ud558\uace0 300\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub514\uc9c0\ud138 \uac8c\uc774\ud2b8\uc6e8\uc774 \ud504\ub85c\uc81d\ud2b8\ub97c \ucca0\ud68c..."
-    },
-    {
-      "timestamp": "2026-07-10 23:09:43",
-      "message": "[PROCESSING] Analyzing: CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)..."
-    },
     {
       "timestamp": "2026-07-10 23:09:47",
       "message": "[SKIP] Irrelevant (AI Filter): CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-10 23:10:22",
       "message": "[SUCCESS] Processed: ZEISS, \ud55c\uad6d\uc5d0 \ubc18\ub3c4\uccb4 \ud601\uc2e0 \uc13c\ud130 \uac1c\uc18c\n  > Summary: ZEISS \ubc18\ub3c4\uccb4 \uc81c\uc870 \uae30\uc220\uc774 \ud55c\uad6d \uc6a9\uc778\uc5d0 \uc0c8\ub85c\uc6b4 \ud601\uc2e0 \uc13c\ud130\ub97c \uac1c\uc18c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc13c\ud130\ub294 \uace0..."
+    },
+    {
+      "timestamp": "2026-07-10 23:10:24",
+      "message": "Reprocessing: KAIST Automates the Search for \u201cDream Semiconductor\u201d 2D Semiconductors"
+    },
+    {
+      "timestamp": "2026-07-10 23:10:25",
+      "message": "[PROCESSING] Analyzing: KAIST Automates the Search for \u201cDream Semiconductor\u201d 2D Semiconductors..."
     }
   ]
 }
