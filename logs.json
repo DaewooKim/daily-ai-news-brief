@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 17:27:44",
+  "last_updated": "2026-07-10 17:27:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 17:26:54",
-      "message": "Reprocessing: KAIST Automates the Search for \u201cDream Semiconductor\u201d 2D Semiconductors"
-    },
     {
       "timestamp": "2026-07-10 17:26:55",
       "message": "[PROCESSING] Analyzing: KAIST Automates the Search for \u201cDream Semiconductor\u201d 2D Semiconductors..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 17:27:44",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-10 17:27:52",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
