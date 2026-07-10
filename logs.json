@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 16:16:17",
+  "last_updated": "2026-07-10 16:16:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 16:15:20",
-      "message": "[PROCESSING] Analyzing: IBM Brings Z to 19-Inch Racks as AI Reshapes Data Centers..."
-    },
     {
       "timestamp": "2026-07-10 16:15:24",
       "message": "[SUCCESS] Processed: IBM, AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc7ac\ud3b8\ud568\uc5d0 \ub530\ub77c Z\ub97c 19\uc778\uce58 \ub799\uc73c\ub85c \uac00\uc838\uc628\ub2e4\n  > Summary: IBM\uc740 \uc0c8\ub85c\uc6b4 \ub799 \uc7a5\ucc29\ud615 \uc2dc\uc2a4\ud15c\uacfc \ub2e8\uc77c \ud504\ub808\uc784 \uc2dc\uc2a4\ud15c\uc744 \uc120\ubcf4\uc774\uba70, \uae30\uc5c5\ub4e4\uc774 \ub370\uc774\ud130 \uc13c\ud130 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 16:16:17",
       "message": "[PROCESSING] Analyzing: Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services (Vildana Hajric/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-10 16:16:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services (Vildana Hajric/Bloomberg)"
     }
   ]
 }
