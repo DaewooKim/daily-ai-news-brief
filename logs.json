@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 00:13:01",
+  "last_updated": "2026-07-10 00:13:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 00:12:23",
-      "message": "[PROCESSING] Analyzing: Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-07-10 00:12:25",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock (Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 00:13:01",
       "message": "[PROCESSING] Analyzing: GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 (OpenAI)..."
+    },
+    {
+      "timestamp": "2026-07-10 00:13:05",
+      "message": "[SUCCESS] Processed: GPT-5.6 \uc194\uc740 1M \uc785\ub825 \ud1a0\ud070\ub2f9 $5, 1M \ucd9c\ub825 \ud1a0\ud070\ub2f9 $30\uc785\ub2c8\ub2e4. GPT-5.6 \ud14c\ub77c\ub294 $2.50 \ubc0f $15, GPT-5.6 \ub8e8\ub098\ub294 $1 \ubc0f $6\uc785\ub2c8\ub2e4 (OpenAI)\n  > Summary: OpenAI\ub294 \uc0c8\ub85c\uc6b4 GPT-5.6 \ubaa8\ub378\uc5d0 \ub300\ud55c \uac00\uaca9 \uc815\ubcf4\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. GPT-5.6 ..."
     }
   ]
 }
