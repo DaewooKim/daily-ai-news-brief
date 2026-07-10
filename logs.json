@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 18:35:28",
+  "last_updated": "2026-07-10 18:35:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 18:34:39",
-      "message": "[PROCESSING] Analyzing: IBM Brings Z to 19-Inch Racks as AI Reshapes Data Centers..."
-    },
     {
       "timestamp": "2026-07-10 18:34:43",
       "message": "[SUCCESS] Processed: IBM, AI\uac00 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc7ac\ud3b8\ud568\uc5d0 \ub530\ub77c 19\uc778\uce58 \ub799\uc73c\ub85c Z\ub97c \uac00\uc838\uc624\ub2e4\n  > Summary: IBM\uc740 AI\uc758 \uc218\uc694\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \ub370\uc774\ud130 \uc13c\ud130 \uacf5\uac04\uacfc \ub0c9\uac01 \uc694\uac74\uc5d0 \uc720\uc5f0\uc131\uc744 \uc81c\uacf5\ud558\ub294 \uc0c8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 18:35:28",
       "message": "[PROCESSING] Analyzing: The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight (Muvija M/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-10 18:35:30",
+      "message": "[SKIP] Irrelevant (AI Filter): The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight (Muvija M/Reuters)"
     }
   ]
 }
