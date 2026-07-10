@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 17:25:12",
+  "last_updated": "2026-07-10 17:25:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 17:24:24",
-      "message": "[PROCESSING] Analyzing: MEMS Heralds an Overdue Step Change in Switching Technology..."
-    },
     {
       "timestamp": "2026-07-10 17:24:27",
       "message": "[SUCCESS] Processed: MEMS\uac00 \uc2a4\uc704\uce6d \uae30\uc220\uc5d0\uc11c \uc624\ub79c \uc720\ubcf4\ub41c \ubcc0\ud654\uc758 \ub2e8\uacc4\ub97c \uc608\uace0\ud558\ub2e4\n  > Summary: \uc774 \uae30\uc0ac\ub294 MEMS \uae30\uc220\uc774 \uc2a4\uc704\uce6d \uae30\uc220\uc758 \uc911\uc694\ud55c \ubc1c\uc804\uc744 \uac00\uc838\uc624\uace0 \uc788\uc73c\uba70, AI\uac00 \uc5ec\ub7ec \uc0b0\uc5c5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 17:25:12",
       "message": "[PROCESSING] Analyzing: Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or \"cookie stuffing\" to claim affiliate commissions (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-10 17:25:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or \"cookie stuffing\" to claim affiliate commissions (Bloomberg)"
     }
   ]
 }
