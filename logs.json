@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-10 07:08:28",
+  "last_updated": "2026-07-10 07:08:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-10 07:07:45",
-      "message": "Reprocessing: PitchBook: US venture funding hits $412.7B in first half as AI deals dominate"
-    },
     {
       "timestamp": "2026-07-10 07:07:46",
       "message": "[SKIP] Content too short: PitchBook: US venture funding ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-10 07:08:28",
       "message": "[PROCESSING] Analyzing: IBM Expands z17 and LinuxONE 5 Mainframe Lineups With Single Frame and Rackmount Servers..."
+    },
+    {
+      "timestamp": "2026-07-10 07:08:30",
+      "message": "[SKIP] Irrelevant (AI Filter): IBM Expands z17 and LinuxONE 5 Mainframe Lineups With Single Frame and Rackmount Servers"
     }
   ]
 }
