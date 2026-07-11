@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 16:03:02",
+  "last_updated": "2026-07-11 16:03:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 16:02:10",
-      "message": "[PROCESSING] Analyzing: Can AI answer the $3 trillion question?..."
-    },
     {
       "timestamp": "2026-07-11 16:02:13",
       "message": "[SUCCESS] Processed: AI\ub294 3\uc870 \ub2ec\ub7ec \uc9c8\ubb38\uc5d0 \ub2f5\ud560 \uc218 \uc788\uc744\uae4c?\n  > Summary: AI\uc758 \ud22c\uc790 \uc218\uc775\ub960(ROI) \ub17c\ub780\uc774 \ub3cc\uc544\uc654\uc73c\uba70, \uc218\uce58\ub294 \ub354\uc6b1 \ucee4\uc84c\uace0 \uadf8 \uacb0\uacfc\ub3c4 \ud074 \uac83\uc73c\ub85c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 16:03:02",
       "message": "[PROCESSING] Analyzing: Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak)..."
+    },
+    {
+      "timestamp": "2026-07-11 16:03:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak)"
     }
   ]
 }
