@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 12:42:50",
+  "last_updated": "2026-07-11 12:42:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 12:42:05",
-      "message": "[SUCCESS] Processed: SK hynix CEO Kwak Noh-Jung, \"\uba54\ubaa8\ub9ac \uc0b0\uc5c5\uc740 2027\ub144 \ucd5c\uc545\uc758 \uacf5\uae09 \ubd80\uc871\uc73c\ub85c \ud5a5\ud558\uace0 \uc788\uc73c\uba70, 2030\ub144 \uc774\ud6c4\ub85c \uc218\uc694\uac00 \uacf5\uae09\uc744 \ucd08\uacfc\ud560 \uac83\uc774\ub2e4.\"\n  > Summary: SK hynix\uc758 CEO\uc778 \uacfd\ub178\uc815\uc740 \uae00\ub85c\ubc8c \uba54\ubaa8\ub9ac \uc0b0\uc5c5\uc774 2027\ub144\uc5d0 \ucd5c\uc545\uc758 \uacf5\uae09 \ubd80\uc871 \uc0ac..."
-    },
     {
       "timestamp": "2026-07-11 12:42:08",
       "message": "[PROCESSING] Analyzing: CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 12:42:50",
       "message": "[PROCESSING] Analyzing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat..."
+    },
+    {
+      "timestamp": "2026-07-11 12:42:53",
+      "message": "[SKIP] Irrelevant (AI Filter): CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
