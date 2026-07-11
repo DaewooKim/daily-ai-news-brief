@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 13:49:15",
+  "last_updated": "2026-07-11 13:49:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 13:48:30",
-      "message": "[SUCCESS] Processed: IBM, AI\ub85c \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc7ac\ud3b8\uc131\ud558\uba70 19\uc778\uce58 \ub799\uc5d0 Z\ub97c \ub3c4\uc785\ud558\ub2e4\n  > Summary: IBM\uc740 \ub370\uc774\ud130 \uc13c\ud130 \uacf5\uac04\uacfc \ub0c9\uac01, AI \uc694\uad6c\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uae30\uc5c5\uc5d0 \ub354 \ub9ce\uc740 \uc720\uc5f0\uc131\uc744 \uc81c..."
-    },
     {
       "timestamp": "2026-07-11 13:48:32",
       "message": "[PROCESSING] Analyzing: US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% (Guillermo Gallacher/Indeed Hiring Lab)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 13:49:15",
       "message": "[PROCESSING] Analyzing: UALink Under The Hood: Why Full-Stack Verification Wins..."
+    },
+    {
+      "timestamp": "2026-07-11 13:49:17",
+      "message": "[SKIP] Irrelevant (AI Filter): UALink Under The Hood: Why Full-Stack Verification Wins"
     }
   ]
 }
