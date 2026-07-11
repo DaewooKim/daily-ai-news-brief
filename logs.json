@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-11 11:32:57",
+  "last_updated": "2026-07-11 11:33:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 11:32:07",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-07-11 11:32:19",
-      "message": "Found 182 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-11 11:32:19",
       "message": "[PROCESSING] Analyzing: Are you filthy enough for a $700 portable shower?..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-11 11:32:57",
       "message": "Reprocessing: SensorFM: Towards a general intelligence and interface for wearable health data"
+    },
+    {
+      "timestamp": "2026-07-11 11:32:59",
+      "message": "[SKIP] Content too short: SensorFM: Towards a general in..."
+    },
+    {
+      "timestamp": "2026-07-11 11:33:00",
+      "message": "Reprocessing: The power of collaboration: How we can reduce traffic congestion"
     }
   ]
 }
