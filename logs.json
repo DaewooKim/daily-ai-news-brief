@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-11 18:17:19",
+  "last_updated": "2026-07-11 18:17:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 18:16:27",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-07-11 18:16:40",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-11 18:16:40",
       "message": "[PROCESSING] Analyzing: Nintendo\u2019s Talking Flower got a small price cut..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-11 18:17:19",
       "message": "[SKIP] Irrelevant (AI Filter): A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale"
+    },
+    {
+      "timestamp": "2026-07-11 18:17:20",
+      "message": "Reprocessing: SensorFM: Towards a general intelligence and interface for wearable health data"
+    },
+    {
+      "timestamp": "2026-07-11 18:17:22",
+      "message": "[SKIP] Content too short: SensorFM: Towards a general in..."
     }
   ]
 }
