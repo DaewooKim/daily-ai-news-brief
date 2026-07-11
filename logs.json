@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 19:27:00",
+  "last_updated": "2026-07-11 19:27:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 19:26:12",
-      "message": "Reprocessing: Can AI answer the $3 trillion question?"
-    },
     {
       "timestamp": "2026-07-11 19:26:14",
       "message": "[PROCESSING] Analyzing: Can AI answer the $3 trillion question?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 19:27:00",
       "message": "[PROCESSING] Analyzing: Sources detail the Trump admin's heavy-handed intervention to aid Intel, including pushing it to expand local capacity and pressuring Apple to use Intel's fabs (Robbie Whelan/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-07-11 19:27:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources detail the Trump admin's heavy-handed intervention to aid Intel, including pushing it to expand local capacity and pressuring Apple to use Intel's fabs (Robbie Whelan/Wall Street Journal)"
     }
   ]
 }
