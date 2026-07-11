@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 11:36:16",
+  "last_updated": "2026-07-11 11:36:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 11:35:26",
-      "message": "[PROCESSING] Analyzing: KAIST Automates the Search for \u201cDream Semiconductor\u201d 2D Semiconductors..."
-    },
     {
       "timestamp": "2026-07-11 11:35:32",
       "message": "[SUCCESS] Processed: KAIST\uac00 '\uafc8\uc758 \ubc18\ub3c4\uccb4' 2D \ubc18\ub3c4\uccb4 \uac80\uc0c9\uc744 \uc790\ub3d9\ud654\ud558\ub2e4\n  > Summary: KAIST \uc5f0\uad6c\ud300\uc774 \uc218\ucc9c \uac1c\uc758 2\ucc28\uc6d0 \ubc18\ub3c4\uccb4 \uc7a5\uce58\ub97c \uc790\ub3d9\uc73c\ub85c \ubd84\uc11d\ud558\uace0 \ub450\uaed8\uc640 \uc131\ub2a5 \uac04\uc758 \uad00..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 11:36:16",
       "message": "[PROCESSING] Analyzing: GigaDevice Unveils I2C EEPROMs..."
+    },
+    {
+      "timestamp": "2026-07-11 11:36:19",
+      "message": "[SKIP] Irrelevant (AI Filter): GigaDevice Unveils I2C EEPROMs"
     }
   ]
 }
