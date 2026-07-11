@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 13:49:36",
+  "last_updated": "2026-07-11 13:49:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 13:48:49",
-      "message": "[SUCCESS] Processed: SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030\n  > Summary: SK \ud558\uc774\ub2c9\uc2a4 CEO \uacfd\ub178\uc815\uc740 \uae00\ub85c\ubc8c \uba54\ubaa8\ub9ac \uc0b0\uc5c5\uc774 2027\ub144\uc5d0 \uc0ac\uc0c1 \ucd5c\uc545\uc758 \uacf5\uae09 \ubd80\uc871 \uc0ac..."
-    },
     {
       "timestamp": "2026-07-11 13:48:51",
       "message": "[PROCESSING] Analyzing: CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 13:49:36",
       "message": "[PROCESSING] Analyzing: CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat..."
+    },
+    {
+      "timestamp": "2026-07-11 13:49:38",
+      "message": "[SKIP] Irrelevant (AI Filter): CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat"
     }
   ]
 }
