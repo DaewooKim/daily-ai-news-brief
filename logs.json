@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-11 14:55:01",
+  "last_updated": "2026-07-11 14:55:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-11 14:54:23",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 \uac00\uc815\uc744 \ubaa9\ud45c\ub85c \uc0bc\ub2e4, ChatGPT\uac00 \uac00\uc815\uc73c\ub85c \ub354 \uae4a\uac8c \ub4e4\uc5b4\uac04\ub2e4\n  > Summary: ChatGPT\ub294 \uac00\uc871, \ubcf4\ud638\uc790 \ubc0f \ub178\uc778\uc744 \uc704\ud55c \uacbd\ud5d8\uc744 \uad6c\ucd95\ud560 \uc804\ub2f4 \uc81c\ud488 \uad00\ub9ac\uc790\ub97c \ucc44\uc6a9\ud558\uace0 ..."
-    },
     {
       "timestamp": "2026-07-11 14:54:25",
       "message": "[PROCESSING] Analyzing: Apple sues OpenAI over alleged trade secret theft..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-11 14:55:01",
       "message": "[SKIP] Irrelevant (AI Filter): White House Executive Order Brings New Urgency to Post-Quantum Cryptography"
+    },
+    {
+      "timestamp": "2026-07-11 14:55:02",
+      "message": "Reprocessing: NSF\u2019s $20M Quantum Push: What It Could Mean for Future Data Centers"
     }
   ]
 }
