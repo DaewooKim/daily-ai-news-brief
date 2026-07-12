@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-12 12:16:58",
+  "last_updated": "2026-07-12 12:17:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-12 12:16:12",
-      "message": "Found 170 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-12 12:16:12",
       "message": "[PROCESSING] Analyzing: The fight against AI data centers is just beginning..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-12 12:16:58",
       "message": "[PROCESSING] Analyzing: A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale..."
+    },
+    {
+      "timestamp": "2026-07-12 12:17:01",
+      "message": "[SKIP] Irrelevant (AI Filter): A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale"
     }
   ]
 }
