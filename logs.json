@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-12 03:19:00",
+  "last_updated": "2026-07-12 03:19:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-12 03:17:54",
-      "message": "[PROCESSING] Analyzing: GPT-5.6 is now the preferred model in Microsoft 365 Copilot..."
-    },
     {
       "timestamp": "2026-07-12 03:17:57",
       "message": "[SUCCESS] Processed: GPT-5.6\uc740 \uc774\uc81c Microsoft 365 Copilot\uc5d0\uc11c \uc120\ud638\ub418\ub294 \ubaa8\ub378\uc785\ub2c8\ub2e4\n  > Summary: GPT-5.6\uc740 Microsoft 365 Copilot\uc744 \uc9c0\uc6d0\ud558\uba70, Word, Excel,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-12 03:19:00",
       "message": "[PROCESSING] Analyzing: Alok Jain: The Engineer Who Never Wanted to Be a Manager..."
+    },
+    {
+      "timestamp": "2026-07-12 03:19:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Alok Jain: The Engineer Who Never Wanted to Be a Manager"
     }
   ]
 }
