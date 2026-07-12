@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-12 05:35:06",
+  "last_updated": "2026-07-12 05:35:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-12 05:34:16",
-      "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0c0\ud2b8\uc5c5, \uc790\uc0ac \uc5d0\uc774\uc804\ud2b8\ub97c \ud65c\uc6a9\ud574 1\uc5b5 \ub2ec\ub7ec \ubaa8\uc9d1\n  > Summary: Lyzr\ub294 \uae30\uc5c5\uc6a9 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uac1c\ubc1c\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c, \uc790\uc0ac\uc758 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc0ac\uc6a9\ud558\uc5ec ..."
-    },
     {
       "timestamp": "2026-07-12 05:34:17",
       "message": "Reprocessing: Can AI answer the $3 trillion question?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-12 05:35:06",
       "message": "[SKIP] Irrelevant (AI Filter): NYC-based Vendelux, a live B2B event information platform for CMOs and marketing and sales teams, raised a $50M Series B led by Tribeca Venture Partners (Lucia Moses/Business Insider)"
+    },
+    {
+      "timestamp": "2026-07-12 05:35:08",
+      "message": "[PROCESSING] Analyzing: EU Justice Commissioner Michael McGrath says the EC is set to propose new digital rules by year-end aimed at protecting consumers from online spending traps (Laura Dubois/Financial Times)..."
     }
   ]
 }
