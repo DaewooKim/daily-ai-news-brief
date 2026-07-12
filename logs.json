@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-12 11:11:30",
+  "last_updated": "2026-07-12 11:11:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-12 11:10:44",
-      "message": "Reprocessing: An AI agent startup just let its agent run its $100M fundraise"
-    },
     {
       "timestamp": "2026-07-12 11:10:47",
       "message": "[PROCESSING] Analyzing: An AI agent startup just let its agent run its $100M fundraise..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-12 11:11:30",
       "message": "[PROCESSING] Analyzing: AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-07-12 11:11:32",
+      "message": "[SKIP] Irrelevant (AI Filter): AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations (Financial Times)"
     }
   ]
 }
