@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-13 02:22:54",
+  "last_updated": "2026-07-13 02:22:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-13 02:21:50",
-      "message": "[SUCCESS] Processed: DeepSeek, \uac00\uaca9 75% \uc778\ud558 \ubc1c\ud45c. 100\ubc30 \ubb38\uc81c\ub294 \uc5ec\uc804\ud558\ub2e4\n  > Summary: DeepSeek\uc774 V4-Pro \ubaa8\ub378\uc758 \uac00\uaca9\uc744 75% \uc778\ud558\ud558\uae30\ub85c \uacb0\uc815\ud588\uc9c0\ub9cc, \ub9ce\uc740 \uae30\uc5c5 AI..."
-    },
     {
       "timestamp": "2026-07-13 02:21:52",
       "message": "Reprocessing: OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-13 02:22:54",
       "message": "Reprocessing: Pulling out the AI stops at RAISE Summit Paris"
+    },
+    {
+      "timestamp": "2026-07-13 02:22:55",
+      "message": "[SKIP] Content too short: Pulling out the AI stops at RA..."
     }
   ]
 }
