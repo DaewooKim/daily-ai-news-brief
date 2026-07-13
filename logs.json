@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-13 05:44:29",
+  "last_updated": "2026-07-13 05:44:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-13 05:43:35",
-      "message": "[PROCESSING] Analyzing: The fight against AI data centers is just beginning..."
-    },
     {
       "timestamp": "2026-07-13 05:43:40",
       "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \uc2f8\uc6c0\uc740 \uc774\uc81c \uc2dc\uc791\uc77c \ubfd0\uc774\ub2e4\n  > Summary: AI \ubd90\uc774 \uc9c0\uc5ed \uc804\ub825\ub9dd\uc5d0 \uc704\ud611\uc744 \uac00\ud558\uae30 \uba87 \ub144 \uc804, \uc18c\uc218\uc758 \ubc18\ub300 \uc2dc\uc704\uc790\ub4e4\uc774 \ud604\uc7ac \uc5ec\ub7ec \uc9c0\uc5ed..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-13 05:44:29",
       "message": "[PROCESSING] Analyzing: Apple sues OpenAI over alleged trade secret theft..."
+    },
+    {
+      "timestamp": "2026-07-13 05:44:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple sues OpenAI over alleged trade secret theft"
     }
   ]
 }
