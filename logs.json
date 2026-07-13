@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-13 06:56:02",
+  "last_updated": "2026-07-13 06:56:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-13 06:55:03",
-      "message": "[PROCESSING] Analyzing: DeepSeek cut prices 75%. The 100x problem remains..."
-    },
     {
       "timestamp": "2026-07-13 06:55:11",
       "message": "[SUCCESS] Processed: DeepSeek, \uac00\uaca9 75% \uc778\ud558. 100\ubc30 \ubb38\uc81c\ub294 \uc5ec\uc804\ud788 \uc874\uc7ac\n  > Summary: DeepSeek\ub294 V4-Pro \ubaa8\ub378\uc758 \uac00\uaca9\uc744 75% \uc778\ud558\ud588\uc9c0\ub9cc, \uae30\uc5c5 AI \ud310\ub9e4\uc790\uc640 \uac1c\ubc1c\uc790..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-13 06:56:02",
       "message": "[SKIP] Content too short: Cisco brings enterprise AI inf..."
+    },
+    {
+      "timestamp": "2026-07-13 06:56:04",
+      "message": "Reprocessing: Pulling out the AI stops at RAISE Summit Paris"
     }
   ]
 }
