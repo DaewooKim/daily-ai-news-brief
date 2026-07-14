@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 23:59:41",
+  "last_updated": "2026-07-14 23:59:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 23:59:00",
-      "message": "Reprocessing: A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product (Washington Post)"
-    },
     {
       "timestamp": "2026-07-14 23:59:01",
       "message": "[PROCESSING] Analyzing: A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product (Washington Post)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 23:59:41",
       "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026..."
+    },
+    {
+      "timestamp": "2026-07-14 23:59:43",
+      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026"
     }
   ]
 }
