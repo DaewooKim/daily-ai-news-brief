@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 09:41:51",
+  "last_updated": "2026-07-14 09:41:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 09:41:10",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-14 09:41:10",
       "message": "[PROCESSING] Analyzing: New York becomes the first state to enact a data center moratorium..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 09:41:51",
       "message": "[SKIP] Irrelevant (AI Filter): A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale"
+    },
+    {
+      "timestamp": "2026-07-14 09:41:52",
+      "message": "Reprocessing: SensorFM: Towards a general intelligence and interface for wearable health data"
     }
   ]
 }
