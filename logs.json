@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 16:18:16",
+  "last_updated": "2026-07-14 16:18:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 16:17:18",
-      "message": "[PROCESSING] Analyzing: Sources: data center operator Switch has hired investment banks for a US IPO that could raise up to $10B and value it at $80B, set for as soon as Q4 (Reuters)..."
-    },
     {
       "timestamp": "2026-07-14 16:17:21",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc5c5\uccb4 \uc2a4\uc704\uce58\uac00 \ucd5c\ub300 100\uc5b5 \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud558\uace0 800\uc5b5 \ub2ec\ub7ec\ub85c \ud3c9\uac00\ub420 \uc218 \uc788\ub294 \ubbf8\uad6d IPO\ub97c \uc704\ud574 \ud22c\uc790 \uc740\ud589\uc744 \uace0\uc6a9\ud588\ub2e4.\n  > Summary: \ub370\uc774\ud130 \uc13c\ud130 \uc6b4\uc601\uc5c5\uccb4 \uc2a4\uc704\uce58\uac00 \ubbf8\uad6d\uc5d0\uc11c \ucd5c\ub300 100\uc5b5 \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud560 \uc218 \uc788\ub294 IPO\ub97c \uc900\ube44..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 16:18:16",
       "message": "[PROCESSING] Analyzing: Seattle-based Brinc Drones, which makes 911 response drones, raised $125M led by Motorola Solutions, bringing its total funding to more than $280M (Todd Bishop/GeekWire)..."
+    },
+    {
+      "timestamp": "2026-07-14 16:18:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Seattle-based Brinc Drones, which makes 911 response drones, raised $125M led by Motorola Solutions, bringing its total funding to more than $280M (Todd Bishop/GeekWire)"
     }
   ]
 }
