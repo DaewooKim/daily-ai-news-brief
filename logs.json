@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 22:53:28",
+  "last_updated": "2026-07-14 22:53:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 22:52:48",
-      "message": "Reprocessing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge"
-    },
     {
       "timestamp": "2026-07-14 22:52:50",
       "message": "[PROCESSING] Analyzing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 22:53:28",
       "message": "[PROCESSING] Analyzing: A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company (Diana Novak Jones/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-14 22:53:30",
+      "message": "[SKIP] Irrelevant (AI Filter): A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company (Diana Novak Jones/Reuters)"
     }
   ]
 }
