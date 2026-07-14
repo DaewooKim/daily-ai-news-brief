@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 16:15:52",
+  "last_updated": "2026-07-14 16:15:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 16:14:58",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-14 16:15:10",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 16:15:52",
       "message": "[PROCESSING] Analyzing: Let\u2019s build a children\u2019s public internet..."
+    },
+    {
+      "timestamp": "2026-07-14 16:15:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Let\u2019s build a children\u2019s public internet"
     }
   ]
 }
