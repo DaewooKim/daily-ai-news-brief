@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 17:22:46",
+  "last_updated": "2026-07-14 17:22:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 17:22:03",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-14 17:22:03",
       "message": "[PROCESSING] Analyzing: Nintendo\u2019s Switch 2 bundle that includes a game is $50 off..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 17:22:46",
       "message": "[PROCESSING] Analyzing: Accelerate your innovation..."
+    },
+    {
+      "timestamp": "2026-07-14 17:22:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerate your innovation"
     }
   ]
 }
