@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 06:23:53",
+  "last_updated": "2026-07-14 06:23:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 06:23:04",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-14 06:23:17",
       "message": "Found 153 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 06:23:53",
       "message": "[PROCESSING] Analyzing: A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale..."
+    },
+    {
+      "timestamp": "2026-07-14 06:23:55",
+      "message": "[SKIP] Irrelevant (AI Filter): A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale"
     }
   ]
 }
