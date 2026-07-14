@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 21:47:57",
+  "last_updated": "2026-07-14 21:47:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 21:47:17",
-      "message": "Reprocessing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge"
-    },
     {
       "timestamp": "2026-07-14 21:47:19",
       "message": "[PROCESSING] Analyzing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 21:47:57",
       "message": "[PROCESSING] Analyzing: Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of \u20ac11.2B (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-14 21:47:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of \u20ac11.2B (Bloomberg)"
     }
   ]
 }
