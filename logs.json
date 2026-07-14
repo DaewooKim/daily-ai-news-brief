@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 16:18:28",
+  "last_updated": "2026-07-14 16:18:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 16:17:34",
-      "message": "[SUCCESS] Processed: \ud2b8\ub7fc\ud504 \ud589\uc815\ubd80 \uad00\ub8cc, Nvidia\uc758 H200 \uce69\uc774 \ubbf8\uad6d \uc2b9\uc778\uc744 \ubc1b\uc740 \ud6c4 \uc911\uad6d\uc5d0 '\uc0ac\uc18c\ud55c' \uc218\ub7c9\uc774 \ubc30\uc1a1\ub418\uc5c8\ub2e4\uace0 \ubc1d\ud600\n  > Summary: \ud2b8\ub7fc\ud504 \ud589\uc815\ubd80\uc758 \ud55c \uad00\ub8cc\uac00 Nvidia\uc758 H200 \uc778\uacf5\uc9c0\ub2a5 \uce69\uc774 \ubbf8\uad6d\uc758 \uc2b9\uc778\uc744 \ubc1b\uc740 \ud6c4 \uc911..."
-    },
     {
       "timestamp": "2026-07-14 16:17:36",
       "message": "[PROCESSING] Analyzing: Chinese startup DFSX launches an AI chip that it claims uses a fully domestic supply chain and is built on a 14nm process, but says it can rival 4nm chips (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 16:18:28",
       "message": "[PROCESSING] Analyzing: Analysis: xAI has installed far more gas turbines without US permits at Colossus 2 than it has publicly acknowledged, impacting Black neighborhoods the hardest (Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-14 16:18:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Analysis: xAI has installed far more gas turbines without US permits at Colossus 2 than it has publicly acknowledged, impacting Black neighborhoods the hardest (Reuters)"
     }
   ]
 }
