@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 14:03:44",
+  "last_updated": "2026-07-14 14:03:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 14:03:04",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-14 14:03:04",
       "message": "[PROCESSING] Analyzing: Sam Altman didn\u2019t need another lawsuit..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 14:03:44",
       "message": "[PROCESSING] Analyzing: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation..."
+    },
+    {
+      "timestamp": "2026-07-14 14:03:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Hermes agent maker Nous Research in talks for new funding at $1.5B valuation"
     }
   ]
 }
