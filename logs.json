@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-14 21:48:35",
+  "last_updated": "2026-07-14 21:48:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-14 21:47:51",
-      "message": "[SUCCESS] Processed: AI\uac00 76\uba85\uc758 \uc9c1\uc6d0 \ubcf4\uace0\uc11c\ub97c \ud559\uc2b5\ud558\uc5ec Bloomberg Terminal\uacfc \uc720\uc0ac\ud55c \uc81c\ud488\uc744 \uac15\ud654\ud558\ub294 Founders Fund \uc9c0\uc6d0\uc758 State Affairs\uac00 7\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud55c \ubaa8\uc2b5\n  > Summary: State Affairs\ub294 7\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uace0 AI\ub97c \ud65c\uc6a9\ud558\uc5ec \uc9c1\uc6d0 76\uba85\uc758 \ubcf4\uace0\uc11c\ub97c ..."
-    },
     {
       "timestamp": "2026-07-14 21:47:53",
       "message": "[PROCESSING] Analyzing: TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-14 21:48:35",
       "message": "[PROCESSING] Analyzing: SwRI, SMU Collaborate to Advance Solid-State Batteries..."
+    },
+    {
+      "timestamp": "2026-07-14 21:48:37",
+      "message": "[SKIP] Irrelevant (AI Filter): SwRI, SMU Collaborate to Advance Solid-State Batteries"
     }
   ]
 }
