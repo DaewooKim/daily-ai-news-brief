@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 12:00:24",
+  "last_updated": "2026-07-15 12:00:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 11:59:48",
-      "message": "[PROCESSING] Analyzing: SwRI, SMU Collaborate to Advance Solid-State Batteries..."
-    },
     {
       "timestamp": "2026-07-15 11:59:50",
       "message": "[SKIP] Irrelevant (AI Filter): SwRI, SMU Collaborate to Advance Solid-State Batteries"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 12:00:24",
       "message": "Reprocessing: New York becomes first US state to impose a data center moratorium"
+    },
+    {
+      "timestamp": "2026-07-15 12:00:26",
+      "message": "[SKIP] Content too short: New York becomes first US stat..."
     }
   ]
 }
