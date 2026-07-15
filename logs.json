@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 09:47:31",
+  "last_updated": "2026-07-15 09:47:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 09:46:44",
-      "message": "[SUCCESS] Processed: \uc591\uc790 \ucef4\ud4e8\ud305, \ub370\uc774\ud130 \uc13c\ud130\uc640 \ub9cc\ub098\ub2e4: \ud558\uc774\ube0c\ub9ac\ub4dc \uc2dc\uc2a4\ud15c\uc758 \ubd80\uc0c1\n  > Summary: \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc2e4\ud5d8\uc2e4 \ub370\ubaa8\uc5d0\uc11c \uc0dd\uc0b0\uc73c\ub85c \uc774\ub3d9\ud558\uace0 \uc788\uc73c\uba70, QPU\uc640 GPU/CPU \ub178\ub4dc\ub97c \uacf5..."
-    },
     {
       "timestamp": "2026-07-15 09:46:46",
       "message": "Reprocessing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 09:47:31",
       "message": "[PROCESSING] Analyzing: Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion (Sean Hollister/The Verge)..."
+    },
+    {
+      "timestamp": "2026-07-15 09:47:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion (Sean Hollister/The Verge)"
     }
   ]
 }
