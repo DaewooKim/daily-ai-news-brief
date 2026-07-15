@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 23:04:30",
+  "last_updated": "2026-07-15 23:04:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 23:03:49",
-      "message": "[PROCESSING] Analyzing: OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment (OpenAI)..."
-    },
     {
       "timestamp": "2026-07-15 23:03:53",
       "message": "[SUCCESS] Processed: OpenAI, GPT-Red\uc5d0 \ub300\ud55c \uc138\ubd80 \uc815\ubcf4 \uacf5\uac1c: \ub0b4\ubd80 \uc790\ub3d9\ud654\ub41c \ub808\ub4dc\ud300 \ubaa8\ub378\uc774 \ud504\ub86c\ud504\ud2b8 \uc8fc\uc785 \ucde8\uc57d\uc131 \ubc1c\uacac\uc744 \ud655\uc7a5\ud558\uc5ec \ub354 \ub113\uc740 \ubc30\ud3ec \uc804 \ubc84\uadf8\ub97c \uc218\uc815\ud560 \uc218 \uc788\ub3c4\ub85d \ud568\n  > Summary: OpenAI\ub294 \ub0b4\ubd80 \uc790\ub3d9\ud654\ub41c \ub808\ub4dc\ud300 \ubaa8\ub378\uc778 GPT-Red\uc5d0 \ub300\ud55c \uc138\ubd80 \uc815\ubcf4\ub97c \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 23:04:30",
       "message": "[PROCESSING] Analyzing: Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike..."
+    },
+    {
+      "timestamp": "2026-07-15 23:04:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike"
     }
   ]
 }
