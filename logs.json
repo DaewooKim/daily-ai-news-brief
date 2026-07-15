@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 10:53:33",
+  "last_updated": "2026-07-15 10:53:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 10:52:50",
-      "message": "[SUCCESS] Processed: IBM, AI \uc778\ud504\ub77c \ubcc0\ud654\ub85c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacc4\uc57d\uc5d0 \uc601\ud5a5 \uacbd\uace0, \uc8fc\uc2dd \uae09\ub77d\n  > Summary: IBM\uc740 \uace0\uac1d\ub4e4\uc774 \uacf5\uae09 \uc81c\uc57d\uc774 \uc788\ub294 \uc778\ud504\ub77c\uc5d0 \ub300\ud55c \uc9c0\ucd9c\ub85c \uc804\ud658\ud558\uace0 \uc788\uc5b4 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacc4\uc57d\uc774 ..."
-    },
     {
       "timestamp": "2026-07-15 10:52:52",
       "message": "[PROCESSING] Analyzing: Samsung unveils a new Flex Titanium foldable display that is slimmer, more durable, and less prone to creasing, debuting in its upcoming Galaxy Z Fold 8 series (Jess Weatherbed/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 10:53:33",
       "message": "[PROCESSING] Analyzing: Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion (Sean Hollister/The Verge)..."
+    },
+    {
+      "timestamp": "2026-07-15 10:53:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion (Sean Hollister/The Verge)"
     }
   ]
 }
