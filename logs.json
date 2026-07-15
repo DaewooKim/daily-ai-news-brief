@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 21:57:03",
+  "last_updated": "2026-07-15 21:57:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 21:56:23",
-      "message": "Reprocessing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge"
-    },
     {
       "timestamp": "2026-07-15 21:56:25",
       "message": "[PROCESSING] Analyzing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 21:57:03",
       "message": "[PROCESSING] Analyzing: Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation (Ryan Lawler/Axios)..."
+    },
+    {
+      "timestamp": "2026-07-15 21:57:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation (Ryan Lawler/Axios)"
     }
   ]
 }
