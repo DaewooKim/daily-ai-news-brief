@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 03:14:02",
+  "last_updated": "2026-07-15 03:14:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 03:13:23",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-15 03:13:23",
       "message": "[PROCESSING] Analyzing: Nothing\u2019s good-looking Watch 3 Pro smartwatch is just $69..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 03:14:02",
       "message": "[PROCESSING] Analyzing: Lorde says AI glasses are \u2018not sexy\u2019..."
+    },
+    {
+      "timestamp": "2026-07-15 03:14:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Lorde says AI glasses are \u2018not sexy\u2019"
     }
   ]
 }
