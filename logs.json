@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 19:43:45",
+  "last_updated": "2026-07-15 19:43:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 19:42:46",
-      "message": "[PROCESSING] Analyzing: OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)..."
-    },
     {
       "timestamp": "2026-07-15 19:42:51",
       "message": "[SUCCESS] Processed: OpenAI\ub294 GPT-Red\ub97c \uc0c1\uc138\ud788 \uc124\uba85\ud569\ub2c8\ub2e4. GPT-Red\ub294 \ub110\ub9ac \ubc30\ud3ec\ub418\uae30 \uc804\uc5d0 \ud504\ub86c\ud504\ud2b8 \uc8fc\uc785 \ucde8\uc57d\uc810\uc744 \ucc3e\uc544 \uc218\uc815\ud558\ub294 \ub370 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \ub0b4\ubd80 \uc790\ub3d9\ud654\ub41c \ub808\ub4dc\ud300 \ubaa8\ub378\uc785\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 \uc790\ub3d9\ud654\ub41c \ub808\ub4dc\ud300 \ubaa8\ub378\uc778 GPT-Red\ub97c \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 \ud504\ub86c\ud504\ud2b8 \uc8fc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 19:43:45",
       "message": "[SKIP] Irrelevant (AI Filter): Source: OnePlus will begin to cease operations in the US and Europe as early as this week and Realme will exit China as part of a restructuring by parent Oppo (Bloomberg)"
+    },
+    {
+      "timestamp": "2026-07-15 19:43:47",
+      "message": "Reprocessing: Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)"
     }
   ]
 }
