@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 20:49:59",
+  "last_updated": "2026-07-15 20:50:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 20:49:16",
-      "message": "[PROCESSING] Analyzing: OpenAI pushes back on Apple trade secret lawsuit..."
-    },
     {
       "timestamp": "2026-07-15 20:49:19",
       "message": "[SKIP] Irrelevant (AI Filter): OpenAI pushes back on Apple trade secret lawsuit"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 20:49:59",
       "message": "[SKIP] Irrelevant (AI Filter): Apple raises its AppleCare+ prices for Macs and iPads by $0.50 per month and $5 per year; the increases are exclusively for new sign-ups (Mark Gurman/Bloomberg)"
+    },
+    {
+      "timestamp": "2026-07-15 20:50:01",
+      "message": "Reprocessing: Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area (Thinking Machines Lab)"
     }
   ]
 }
