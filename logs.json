@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 11:59:48",
+  "last_updated": "2026-07-15 11:59:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 11:59:01",
-      "message": "[PROCESSING] Analyzing: A profile of PsiQuantum, which raised $1B in 2025, is building a quantum computer with photonic chips made by GlobalFoundries and is closely monitored by DARPA (James O'Donnell/MIT Technology Review)..."
-    },
     {
       "timestamp": "2026-07-15 11:59:05",
       "message": "[SUCCESS] Processed: PsiQuantum\uc758 \ud504\ub85c\ud544: 2025\ub144 10\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uace0 GlobalFoundries\uac00 \ub9cc\ub4e0 \uad11\ud559 \uce69\uc73c\ub85c \uc591\uc790 \ucef4\ud4e8\ud130\ub97c \uad6c\ucd95\ud558\uba70 DARPA\uc758 \uba74\ubc00\ud55c \uac10\uc2dc\ub97c \ubc1b\ub2e4\n  > Summary: PsiQuantum\uc740 2025\ub144\uc5d0 10\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uace0, GlobalFoundries\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 11:59:48",
       "message": "[PROCESSING] Analyzing: SwRI, SMU Collaborate to Advance Solid-State Batteries..."
+    },
+    {
+      "timestamp": "2026-07-15 11:59:50",
+      "message": "[SKIP] Irrelevant (AI Filter): SwRI, SMU Collaborate to Advance Solid-State Batteries"
     }
   ]
 }
