@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-15 17:27:44",
+  "last_updated": "2026-07-15 17:27:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-15 17:26:45",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-15 17:26:58",
       "message": "Found 140 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-15 17:27:44",
       "message": "[PROCESSING] Analyzing: The Motorola Edge 70 Max is all about power..."
+    },
+    {
+      "timestamp": "2026-07-15 17:27:47",
+      "message": "[SKIP] Irrelevant (AI Filter): The Motorola Edge 70 Max is all about power"
     }
   ]
 }
