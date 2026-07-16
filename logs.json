@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 01:17:29",
+  "last_updated": "2026-07-16 01:17:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 01:16:52",
-      "message": "[SUCCESS] Processed: SpaceXAI\ub294 \ub3c4\uad6c\uac00 \uc0ac\uc6a9\uc790 \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac\ub97c Google Cloud \ubc84\ud0b7\uc5d0 \uc5c5\ub85c\ub4dc\ud55c \ud6c4 Apache 2.0 \ub77c\uc774\uc13c\uc2a4 \ud558\uc5d0 Grok Build\ub97c \uc624\ud508 \uc18c\uc2a4\ud654\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: SpaceXAI\ub294 Grok Build \ub3c4\uad6c\ub97c Apache 2.0 \ub77c\uc774\uc13c\uc2a4 \ud558\uc5d0 \uc624\ud508 \uc18c\uc2a4\ud654..."
-    },
     {
       "timestamp": "2026-07-16 01:16:53",
       "message": "[PROCESSING] Analyzing: Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025's $34.6B funding (Mary Ann Azevedo/Crunchbase News)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 01:17:29",
       "message": "[PROCESSING] Analyzing: The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring..."
+    },
+    {
+      "timestamp": "2026-07-16 01:17:31",
+      "message": "[SKIP] Irrelevant (AI Filter): The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring"
     }
   ]
 }
