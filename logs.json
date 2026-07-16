@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 03:30:47",
+  "last_updated": "2026-07-16 03:30:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 03:29:55",
-      "message": "[PROCESSING] Analyzing: OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment (OpenAI)..."
-    },
     {
       "timestamp": "2026-07-16 03:29:58",
       "message": "[SUCCESS] Processed: OpenAI, GPT-Red\ub97c \uc790\uc138\ud788 \uc124\uba85\ud558\ub2e4.\n  > Summary: OpenAI\ub294 \ub0b4\ubd80 \uc790\ub3d9\ud654\ub41c \ub808\ub4dc\ud300 \ubaa8\ub378\uc778 GPT-Red\ub97c \ud1b5\ud574 \ud504\ub86c\ud504\ud2b8 \uc8fc\uc785 \ucde8\uc57d\uc810 \ubc1c\uacac..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 03:30:47",
       "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026..."
+    },
+    {
+      "timestamp": "2026-07-16 03:30:49",
+      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026"
     }
   ]
 }
