@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 05:43:20",
+  "last_updated": "2026-07-16 05:43:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 05:42:38",
-      "message": "[PROCESSING] Analyzing: Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B (Reuters)..."
-    },
     {
       "timestamp": "2026-07-16 05:42:42",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130 \ud68c\uc0ac Csquare, \ubbf8\uad6d IPO\uc5d0\uc11c 10\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec \uc870\ub2ec\n  > Summary: \ub370\uc774\ud130 \uc13c\ud130 \uc81c\uacf5\uc5c5\uccb4 Csquare\uac00 \ubbf8\uad6d\uc5d0\uc11c IPO\ub97c \ud1b5\ud574 10\uc5b5 5\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud588\uc2b5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 05:43:20",
       "message": "Reprocessing: OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment (OpenAI)"
+    },
+    {
+      "timestamp": "2026-07-16 05:43:21",
+      "message": "[PROCESSING] Analyzing: OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment (OpenAI)..."
     }
   ]
 }
