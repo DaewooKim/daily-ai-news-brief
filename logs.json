@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 17:59:49",
+  "last_updated": "2026-07-16 17:59:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 17:59:05",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-16 17:59:05",
       "message": "[PROCESSING] Analyzing: New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 17:59:49",
       "message": "[PROCESSING] Analyzing: ShinyHunters: How to close the Credential Rotation Gap..."
+    },
+    {
+      "timestamp": "2026-07-16 17:59:52",
+      "message": "[SKIP] Irrelevant (AI Filter): ShinyHunters: How to close the Credential Rotation Gap"
     }
   ]
 }
