@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 20:35:14",
+  "last_updated": "2026-07-16 20:35:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 20:34:25",
-      "message": "[SUCCESS] Processed: GPT-5.6\uc758 \ud30c\uc77c \uc0ad\uc81c \ubb38\uc81c \ubc1c\uc0dd \ud6c4 OpenAI, \uc0cc\ub4dc\ubc15\uc2a4 \uc5c6\uc774 \uc804\uccb4 \uc811\uadfc \ubaa8\ub4dc\uc5d0\uc11c \uc8fc\ub85c \ubc1c\uc0dd\ud55c\ub2e4\uace0 \uc124\uba85\n  > Summary: GPT-5.6\uc774 \ud30c\uc77c\uc744 \uc608\uae30\uce58 \uc54a\uac8c \uc0ad\uc81c\ud558\ub294 \ubb38\uc81c\uc5d0 \ub300\ud55c \ubcf4\uace0\uac00 \uc788\uc5c8\uc73c\uba70, OpenAI\ub294 ..."
-    },
     {
       "timestamp": "2026-07-16 20:34:28",
       "message": "[PROCESSING] Analyzing: Crypto.com raised $400M from Citadel Securities in its first institutional funding round, valuing the Singapore-based crypto exchange at $20B (CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 20:35:14",
       "message": "[PROCESSING] Analyzing: Why Metal TIM Warpage Simulations Fail\u2014And How To Fix Them..."
+    },
+    {
+      "timestamp": "2026-07-16 20:35:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Why Metal TIM Warpage Simulations Fail\u2014And How To Fix Them"
     }
   ]
 }
