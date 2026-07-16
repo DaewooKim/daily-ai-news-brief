@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 13:32:45",
+  "last_updated": "2026-07-16 13:32:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 13:32:03",
-      "message": "[SUCCESS] Processed: xAI\uac00 \ub0b4\ubd80 \ud63c\ub780\uc73c\ub85c \uc778\ud574 \uc9c0\uc5f0\ub418\uace0 \uc788\ub2e4\ub294 \uc18c\uc2dd, \uba38\uc2a4\ud06c\ub294 Grok\uc774 Claude\uc640 \uacbd\uc7c1\ud558\uae30\ub97c \uc6d0\ud588\uc9c0\ub9cc \ub2c8\ucf5c\uc2a4 \ud558\uc5d0 \ud134\uc5b4\ub77c\uc6b4\ub4dc \uc870\uc9d0 \ubcf4\uc784\n  > Summary: \uba38\uc2a4\ud06c\uac00 Grok\uc774 Anthropic\uc758 Claude\uc640 \uacbd\uc7c1\ud558\uae30\ub97c \uc6d0\ud588\ub358 \uac00\uc6b4\ub370, xAI\ub294 ..."
-    },
     {
       "timestamp": "2026-07-16 13:32:05",
       "message": "[PROCESSING] Analyzing: London-based Applied Computing, which is developing AI models for energy operations, raised $20M led by KBR, with participation from Databricks Ventures (Tamara Djurickovic/Tech.eu)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 13:32:45",
       "message": "[PROCESSING] Analyzing: Accelerating Sustainability With Smart Manufacturing..."
+    },
+    {
+      "timestamp": "2026-07-16 13:32:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerating Sustainability With Smart Manufacturing"
     }
   ]
 }
