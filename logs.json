@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 12:26:45",
+  "last_updated": "2026-07-16 12:26:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 12:26:11",
-      "message": "[PROCESSING] Analyzing: SwRI, SMU Collaborate to Advance Solid-State Batteries..."
-    },
     {
       "timestamp": "2026-07-16 12:26:14",
       "message": "[SKIP] Irrelevant (AI Filter): SwRI, SMU Collaborate to Advance Solid-State Batteries"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 12:26:45",
       "message": "Reprocessing: OpenAI details GPT-Red, an AI that attacks its own models to find flaws"
+    },
+    {
+      "timestamp": "2026-07-16 12:26:47",
+      "message": "[SKIP] Content too short: OpenAI details GPT-Red, an AI ..."
     }
   ]
 }
