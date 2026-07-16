@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 09:05:25",
+  "last_updated": "2026-07-16 09:05:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 09:04:32",
-      "message": "[SUCCESS] Processed: \ube48\ud2b8 \uc11c\ud504\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc778\ud130\ub137\uc5d0 \ubc30\ud3ec\ud558\ub294 \uacc4\ud68d\uc744 \uc791\uc5c5\ud558\uace0 \uc788\ub2e4\n  > Summary: TCP/IP\uc758 \uae30\uc548\uc790\uc778 \ube48\ud2b8 \uc11c\ud504\uac00 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc2dd\ubcc4\ud558\uae30 \uc704\ud55c \ud45c\uc900\uc744 \uac1c\ubc1c\ud558\uace0 \uc788\ub2e4. ..."
-    },
     {
       "timestamp": "2026-07-16 09:04:33",
       "message": "[PROCESSING] Analyzing: Lorde says AI glasses are \u2018not sexy\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 09:05:25",
       "message": "[PROCESSING] Analyzing: A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo (Mike Masnick/Techdirt)..."
+    },
+    {
+      "timestamp": "2026-07-16 09:05:27",
+      "message": "[SKIP] Irrelevant (AI Filter): A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo (Mike Masnick/Techdirt)"
     }
   ]
 }
