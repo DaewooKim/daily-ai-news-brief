@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 20:06:59",
+  "last_updated": "2026-07-16 20:07:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 20:06:28",
-      "message": "Reprocessing: Tenable folds application security into Tenable One exposure platform"
-    },
     {
       "timestamp": "2026-07-16 20:06:30",
       "message": "[SKIP] Content too short: Tenable folds application secu..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 20:06:59",
       "message": "[PROCESSING] Analyzing: Noctua NH-U14S DX4677 Quick Look With the Intel Xeon 600 Series..."
+    },
+    {
+      "timestamp": "2026-07-16 20:07:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Noctua NH-U14S DX4677 Quick Look With the Intel Xeon 600 Series"
     }
   ]
 }
