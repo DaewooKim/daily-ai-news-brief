@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 13:31:20",
+  "last_updated": "2026-07-16 13:31:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 13:30:37",
-      "message": "[SUCCESS] Processed: \ud558\ub4dc\uc6e8\uc5b4 \ubc95\uc801 \ubd84\uc7c1 \uc18d\uc5d0\uc11c OpenAI, Codex\uc6a9 230\ub2ec\ub7ec \ud0a4\ubcf4\ub4dc \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 \uc560\ud50c\uacfc\uc758 \ud558\ub4dc\uc6e8\uc5b4 \ubb34\uc5ed \uc808\ub3c4 \ud610\uc758\ub85c \ubc95\uc801 \ubd84\uc7c1 \uc911\uc5d0 \uc788\uc73c\uba70, \uc0c8\ub85c\uc6b4 \ucf54\ub529 \uc571..."
-    },
     {
       "timestamp": "2026-07-16 13:30:38",
       "message": "[PROCESSING] Analyzing: SpaceX falls to $135 IPO price ahead of Starship launch..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 13:31:20",
       "message": "[PROCESSING] Analyzing: Community Partnerships Are Becoming Data Centers\u2019 Most Valuable Asset..."
+    },
+    {
+      "timestamp": "2026-07-16 13:31:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Community Partnerships Are Becoming Data Centers\u2019 Most Valuable Asset"
     }
   ]
 }
