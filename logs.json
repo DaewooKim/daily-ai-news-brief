@@ -1,86 +1,30 @@
 {
-  "last_updated": "2026-07-16 22:31:19",
+  "last_updated": "2026-07-16 23:45:06",
   "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-16 22:29:29",
-      "message": "[SUCCESS] Processed: \uc65c OpenAI\uac00 ChatGPT \ub18d\uad6c\uacf5\uc744 \ud310\ub9e4\ud558\uace0 \uc788\uc744\uae4c?\n  > Summary: OpenAI\uac00 \uc774\ubc88 \uc8fc\uc5d0 \uccab \ubc88\uc9f8 \ud558\ub4dc\uc6e8\uc5b4\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud558\ub4dc\uc6e8\uc5b4\uc5d0\ub294 ChatGPT\uc640..."
+      "timestamp": "2026-07-16 23:44:38",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-16 22:29:35",
-      "message": "[PROCESSING] Analyzing: How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product..."
+      "timestamp": "2026-07-16 23:44:45",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-16 22:29:40",
-      "message": "[SUCCESS] Processed: \uc804 \ub525\ub9c8\uc778\ub4dc \uc5f0\uad6c\uc6d0\uc774 \uc81c\ud488 \ucd9c\uc2dc\uc5d0 \uc55e\uc11c 3\uc5b5 \ub2ec\ub7ec\uc758 \ud504\ub9ac\uc2dc\ub4dc \uac00\uce58\ub97c \uc62c\ub9b0 \ubc29\ubc95\n  > Summary: 10\ub144 \uc774\uc0c1 AI \uc2dc\uc2a4\ud15c \uac1c\ubc1c\uc5d0 \uae30\uc5ec\ud55c \uc564\ub4dc\ub958 \ub2e4\uc774\ub294 \ube44\uc8fc\uc5bc AI\uac00 \uc778\uacf5\uc9c0\ub2a5\uc758 \ub2e4\uc74c \uc8fc\uc694 ..."
+      "timestamp": "2026-07-16 23:44:45",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-16 22:29:45",
-      "message": "[PROCESSING] Analyzing: Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019..."
+      "timestamp": "2026-07-16 23:45:00",
+      "message": "Found 163 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-16 22:29:52",
-      "message": "[SUCCESS] Processed: \uc65c AMI Labs\uc758 \uc54c\ub809\uc0c1\ub4dc\ub974 \ub974\ube0c\ub8ec\uc740 \uadf8\uc758 AI\ub97c 'AGI' \ub610\ub294 '\uc288\ud37c \uc9c0\ub2a5'\uc774\ub77c\uace0 \ubd80\ub974\uc9c0 \uc54a\uc744\uae4c\n  > Summary: AI \ubd84\uc57c\uc5d0\uc11c \ubaa8\ub4e0 \uc774\ub4e4\uc774 '\uc288\ud37c \uc9c0\ub2a5'\uc744 \ucd94\uad6c\ud558\ub294 \uac00\uc6b4\ub370, Yann LeCun\uc758 \uc138\uacc4 \ubaa8..."
+      "timestamp": "2026-07-16 23:45:00",
+      "message": "[PROCESSING] Analyzing: Samsung\u2019s 55-inch Frame art TV is $200 cheaper than usual..."
     },
     {
-      "timestamp": "2026-07-16 22:29:56",
-      "message": "[PROCESSING] Analyzing: Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:04",
-      "message": "[SUCCESS] Processed: \ubb38\uc0f7\uc758 \ucc28\uae30 Kimi 3\ub294 Anthropic\uc758 Opus 4.8\uacfc\uc758 \uaca9\ucc28\ub97c \uc904\uc77c \uac83\uc73c\ub85c \uc608\uc0c1\ub429\ub2c8\ub2e4.\n  > Summary: FT\uc5d0 \ub530\ub974\uba74 Kimi K3\ub294 \uc911\uad6d\uc5d0\uc11c \ucd9c\uc2dc\ub420 \uac00\uc7a5 \ud070 \uc624\ud508 AI \ubaa8\ub378\ub85c, \ub9e4\uac1c\ubcc0\uc218 \uc218\ub294 ..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:11",
-      "message": "[PROCESSING] Analyzing: Apple Intelligence approved for launch in China with Alibaba and Baidu..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:20",
-      "message": "[SUCCESS] Processed: \uc560\ud50c \uc778\ud154\ub9ac\uc804\uc2a4, \uc911\uad6d\uc5d0\uc11c \uc54c\ub9ac\ubc14\ubc14 \ubc0f \ubc14\uc774\ub450\uc640 \ud568\uaed8 \ucd9c\uc2dc \uc2b9\uc778\n  > Summary: \uc774 \uac70\ub798\ub294 \uc9c0\ub09c\ud574\ubd80\ud130 \ub17c\uc758\ub418\uc5b4\uc628 \uac83\uc73c\ub85c, \uc560\ud50c\uc758 AI \uc57c\ub9dd\uc5d0 \uc788\uc5b4 \uc911\uc694\ud55c \ub2e8\uacc4\ub97c \uc758\ubbf8\ud569\ub2c8\ub2e4..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:25",
-      "message": "[PROCESSING] Analyzing: Applied Computing wants to give oil and gas operators an AI model for the entire plant..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:31",
-      "message": "[SUCCESS] Processed: \uc751\uc6a9 \ucef4\ud4e8\ud305, \uc11d\uc720 \ubc0f \uac00\uc2a4 \uc6b4\uc601\uc790\ub97c \uc704\ud55c \uc804\uccb4 \ud50c\ub79c\ud2b8 AI \ubaa8\ub378 \uc81c\uacf5 \uc608\uc815\n  > Summary: \uc751\uc6a9 \ucef4\ud4e8\ud305\uc774 \uc11d\uc720, \uac00\uc2a4 \ubc0f \uc11d\uc720\ud654\ud559 \uc0b0\uc5c5\uc744 \uc704\ud55c \uae30\ubcf8 AI \ubaa8\ub378\uc744 \uad6c\ucd95\ud558\uae30 \uc704\ud574 200..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:35",
-      "message": "[PROCESSING] Analyzing: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:40",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, \uc601\uc5c5\uc0ac\uc6d0\ub4e4\uc5d0\uac8c OpenAI\uc640 Anthropic\uc5d0 \ub300\ud574 \ubd80\uc815\uc801\uc73c\ub85c \uc774\uc57c\uae30\ud558\ub3c4\ub85d \uad50\uc721 \uc911\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\ub294 \uc790\uc0ac\uc758 AI \ubaa8\ub378\uc744 \uacbd\uc7c1\uc0ac \ubaa8\ub378\ubcf4\ub2e4 \ub354 \ud6a8\uc728\uc801\uc774\uace0 \ube44\uc6a9 \ud6a8\uacfc\uc801\uc774\ub77c\uace0 \uac15\uc870\ud558..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:44",
-      "message": "[PROCESSING] Analyzing: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:52",
-      "message": "[SUCCESS] Processed: \ud558\ub4dc\uc6e8\uc5b4 \ubc95\uc801 \ubd84\uc7c1 \uc18d, OpenAI\uac00 Codex\ub97c \uc704\ud55c 230\ub2ec\ub7ec \ud0a4\ubcf4\ub4dc\ub97c \ucd9c\uc2dc\ud558\ub2e4\n  > Summary: OpenAI\ub294 \ud558\ub4dc\uc6e8\uc5b4 \ubb34\uc5ed \uc808\ub3c4 \ud610\uc758\ub85c Apple\uacfc\uc758 \ubc95\uc801 \ubd84\uc7c1 \uc911\uc5d0 \uc788\uc73c\uba70, \uadf8\ub4e4\uc758 \uc5d0..."
-    },
-    {
-      "timestamp": "2026-07-16 22:30:56",
-      "message": "[PROCESSING] Analyzing: SpaceX falls to $135 IPO price ahead of Starship launch..."
-    },
-    {
-      "timestamp": "2026-07-16 22:31:01",
-      "message": "[SKIP] Irrelevant (AI Filter): SpaceX falls to $135 IPO price ahead of Starship launch"
-    },
-    {
-      "timestamp": "2026-07-16 22:31:06",
-      "message": "[PROCESSING] Analyzing: Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling..."
-    },
-    {
-      "timestamp": "2026-07-16 22:31:14",
-      "message": "[SUCCESS] Processed: \ub125\ub9c1\n  > Summary: Thinking Machines\ub294 'Inkling'\uc774\ub77c\ub294 \uccab \ubc88\uc9f8 \uacf5\uac1c \ubaa8\ub378\uc744 \ucd9c\uc2dc\ud558\uba70 \uc77c..."
-    },
-    {
-      "timestamp": "2026-07-16 22:31:19",
-      "message": "[PROCESSING] Analyzing: Hack suggests AI music generator Suno scraped YouTube for training data..."
+      "timestamp": "2026-07-16 23:45:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Samsung\u2019s 55-inch Frame art TV is $200 cheaper than usual"
     }
   ]
 }
