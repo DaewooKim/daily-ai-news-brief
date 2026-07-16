@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-16 22:26:41",
+  "last_updated": "2026-07-16 22:26:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 22:24:38",
-      "message": "[SUCCESS] Processed: \ub85c\ube14\ub85d\uc2a4, \uc0ac\ub78c\ub4e4\uc774 \ud734\ub300\ud3f0\uc73c\ub85c \uac8c\uc784\uc744 \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d AI\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ud574\uc900\ub2e4\n  > Summary: \ub85c\ube14\ub85d\uc2a4\ub294 \uc0ac\uc6a9\uc790\ub4e4\uc774 \ubaa8\ubc14\uc77c \uc571 \ub0b4\uc5d0\uc11c AI\ub97c \uc0ac\uc6a9\ud574 \uac8c\uc784\uc744 \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d \ud5c8\uc6a9\ud560 \uc608\uc815\uc774..."
-    },
-    {
-      "timestamp": "2026-07-16 22:24:44",
-      "message": "[PROCESSING] Analyzing: Google is renaming NotebookLM to Gemini Notebook..."
-    },
     {
       "timestamp": "2026-07-16 22:24:51",
       "message": "[SUCCESS] Processed: \uad6c\uae00, \ub178\ud2b8\ubd81LM\uc744 \uc81c\ubbf8\ub2c8 \ub178\ud2b8\ubd81\uc73c\ub85c \uc774\ub984 \ubcc0\uacbd\n  > Summary: \uad6c\uae00\uc774 AI \ub178\ud2b8-taking \uc571\uc758 \uc774\ub984\uc744 \ubcc0\uacbd\ud558\uace0 \uc0c8\ub85c\uc6b4 \uc774\ub984\uc778 \uc81c\ubbf8\ub2c8 \ub178\ud2b8\ubd81\uc744 \ubc1c\ud45c\ud588\uc2b5..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-16 22:26:41",
       "message": "[PROCESSING] Analyzing: NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X..."
+    },
+    {
+      "timestamp": "2026-07-16 22:26:47",
+      "message": "[SKIP] Irrelevant (AI Filter): NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X"
+    },
+    {
+      "timestamp": "2026-07-16 22:26:51",
+      "message": "[PROCESSING] Analyzing: Extreme Event Likelihoods with Guided Generative Models..."
     }
   ]
 }
