@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 20:00:49",
+  "last_updated": "2026-07-16 20:00:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 19:59:57",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-16 20:00:10",
       "message": "Found 165 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 20:00:49",
       "message": "[PROCESSING] Analyzing: Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3..."
+    },
+    {
+      "timestamp": "2026-07-16 20:00:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3"
     }
   ]
 }
