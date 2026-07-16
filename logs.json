@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 23:50:47",
+  "last_updated": "2026-07-16 23:50:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 23:50:00",
-      "message": "[PROCESSING] Analyzing: Blog Review: July 15..."
-    },
     {
       "timestamp": "2026-07-16 23:50:05",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 7\uc6d4 15\uc77c\n  > Summary: Cadence\uc758 Anupriya K\ub294 \uc8fc\uc18c \ubcc0\ud658 \uc11c\ube44\uc2a4(ATS)\uac00 PCIe \uba54\ubaa8\ub9ac \uc811\uadfc\uc744 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 23:50:47",
       "message": "[PROCESSING] Analyzing: The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring..."
+    },
+    {
+      "timestamp": "2026-07-16 23:50:50",
+      "message": "[SKIP] Irrelevant (AI Filter): The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring"
     }
   ]
 }
