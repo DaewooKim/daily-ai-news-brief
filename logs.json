@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-16 20:32:43",
+  "last_updated": "2026-07-16 20:32:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-16 20:32:01",
-      "message": "[SUCCESS] Processed: Whatnot, \uc2e4\uc2dc\uac04 \ub77c\uc774\ube0c \uc1fc\ud551 \ucd94\ucc9c\uc744 \uc704\ud574 Shaped \uc778\uc218\n  > Summary: \ub77c\uc774\ube0c \uc2a4\ud2b8\ub9ac\ubc0d \uc1fc\ud551 \ud50c\ub7ab\ud3fc Whatnot\uac00 \uc2e4\uc2dc\uac04 \ucd94\ucc9c \ubc0f \uac80\uc0c9\uc5d0 \uc9d1\uc911\ud55c \uba38\uc2e0 \ub7ec\ub2dd \ud68c\uc0ac..."
-    },
     {
       "timestamp": "2026-07-16 20:32:01",
       "message": "[PROCESSING] Analyzing: Microsoft patches record number of security vulnerabilities, citing its use of AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-16 20:32:43",
       "message": "[PROCESSING] Analyzing: Probabilistic Computing Is Already Here; Here Is How It Works..."
+    },
+    {
+      "timestamp": "2026-07-16 20:32:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Probabilistic Computing Is Already Here; Here Is How It Works"
     }
   ]
 }
