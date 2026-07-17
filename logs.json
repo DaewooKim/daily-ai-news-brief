@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-17 03:15:24",
+  "last_updated": "2026-07-17 03:15:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-17 03:14:44",
-      "message": "[PROCESSING] Analyzing: Sources: Coatue is leading a $3B investment in Databricks that values the data analytics software company at $188B, a 40% increase from its December valuation (Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-07-17 03:14:48",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \ucf54\ud22c\uac00 \ub2e4\ud2b8\ube0c\ub9ad\uc2a4\uc5d0 30\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uc8fc\ub3c4\ud558\uba70 \uac00\uce58 1880\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud574, \uc9c0\ub09c\ud574 12\uc6d4 \uac00\uce58\ubcf4\ub2e4 40% \uc99d\uac00\n  > Summary: \ucf54\ud22c \ub9e4\ub2c8\uc9c0\uba3c\ud2b8\uac00 \ub2e4\ud2b8\ube0c\ub9ad\uc2a4\uc5d0 30\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ud22c\uc790\ub97c \uc8fc\ub3c4\ud558\uace0 \uc788\uc73c\uba70, \uc774\ub85c \uc778\ud574 \ub370\uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-17 03:15:24",
       "message": "[PROCESSING] Analyzing: Accelerating Sustainability With Smart Manufacturing..."
+    },
+    {
+      "timestamp": "2026-07-17 03:15:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerating Sustainability With Smart Manufacturing"
     }
   ]
 }
