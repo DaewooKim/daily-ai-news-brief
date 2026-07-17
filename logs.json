@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-17 08:53:09",
+  "last_updated": "2026-07-17 08:53:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-17 08:52:27",
-      "message": "[PROCESSING] Analyzing: Source: PayPal's board sees Stripe and PE firm Advent International's $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles (Reuters)..."
-    },
     {
       "timestamp": "2026-07-17 08:52:29",
       "message": "[SKIP] Irrelevant (AI Filter): Source: PayPal's board sees Stripe and PE firm Advent International's $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-17 08:53:09",
       "message": "[PROCESSING] Analyzing: ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026..."
+    },
+    {
+      "timestamp": "2026-07-17 08:53:11",
+      "message": "[SKIP] Irrelevant (AI Filter): ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026"
     }
   ]
 }
