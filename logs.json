@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-17 02:07:05",
+  "last_updated": "2026-07-17 02:07:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-17 02:06:24",
-      "message": "[SUCCESS] Processed: \uba54\ubaa8: MLB, \uacbd\uae30 \uc804\ub7b5 \ud638\ucd9c\uc744 \uc704\ud55c GenAI \uc811\uadfc\uc5d0 \ub9ac\uadf8 \uc81c\uacf5 \ub355\uc544\uc6c3 \uc544\uc774\ud328\ub4dc \uc0ac\uc6a9 \uae08\uc9c0; \uc801\uc5b4\ub3c4 1/3\uc758 \ud300\uc774 \uc774 \ubc29\ubc95\uc73c\ub85c AI\ub97c \uc0ac\uc6a9\ud588\ub2e4\uace0 \uc18c\uc2dd\ud1b5\uc774 \uc804\ud574\n  > Summary: \uba54\uc774\uc800 \ub9ac\uadf8 \ubca0\uc774\uc2a4\ubcfc(MLB)\uc740 \uacbd\uae30 \uc804\ub7b5 \ud638\ucd9c\uc744 \uc704\ud574 \ub9ac\uadf8\uc5d0\uc11c \uc81c\uacf5\ud55c \ub355\uc544\uc6c3 \uc544\uc774\ud328\ub4dc\ub97c ..."
-    },
     {
       "timestamp": "2026-07-17 02:06:26",
       "message": "[PROCESSING] Analyzing: Sources: Dassault Syst\u00e8mes is in talks to buy drug trial software maker ArisGlobal from Nordic Capital for about $2B, extending its push into life sciences (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-17 02:07:05",
       "message": "[PROCESSING] Analyzing: Accelerating Sustainability With Smart Manufacturing..."
+    },
+    {
+      "timestamp": "2026-07-17 02:07:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerating Sustainability With Smart Manufacturing"
     }
   ]
 }
