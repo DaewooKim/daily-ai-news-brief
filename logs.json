@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 19:48:44",
+  "last_updated": "2026-07-19 19:48:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 19:48:06",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-19 19:48:06",
       "message": "[PROCESSING] Analyzing: Kodak EC35 is a dirt-cheap point-and-shoot film camera..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 19:48:44",
       "message": "[PROCESSING] Analyzing: The grueling, 630-mile road race where the only fuel is sunlight..."
+    },
+    {
+      "timestamp": "2026-07-19 19:48:46",
+      "message": "[SKIP] Irrelevant (AI Filter): The grueling, 630-mile road race where the only fuel is sunlight"
     }
   ]
 }
