@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 20:54:23",
+  "last_updated": "2026-07-19 20:54:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 20:53:38",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-07-19 20:53:38",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 20:54:23",
       "message": "[PROCESSING] Analyzing: The future of physical games is not looking great..."
+    },
+    {
+      "timestamp": "2026-07-19 20:54:25",
+      "message": "[SKIP] Irrelevant (AI Filter): The future of physical games is not looking great"
     }
   ]
 }
