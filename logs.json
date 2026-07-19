@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 00:59:31",
+  "last_updated": "2026-07-19 00:59:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 00:58:51",
-      "message": "Reprocessing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge"
-    },
     {
       "timestamp": "2026-07-19 00:58:53",
       "message": "[PROCESSING] Analyzing: IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 00:59:31",
       "message": "[PROCESSING] Analyzing: SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected (Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-19 00:59:33",
+      "message": "[SKIP] Irrelevant (AI Filter): SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected (Reuters)"
     }
   ]
 }
