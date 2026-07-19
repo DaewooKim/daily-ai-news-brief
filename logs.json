@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 19:51:36",
+  "last_updated": "2026-07-19 19:51:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 19:50:59",
-      "message": "[PROCESSING] Analyzing: The cleanup trap: Stop asking RAG to fix bad data..."
-    },
     {
       "timestamp": "2026-07-19 19:51:03",
       "message": "[SUCCESS] Processed: \uc815\ub9ac \ub36b: RAG\uc5d0\uac8c \ub098\uc05c \ub370\uc774\ud130\ub97c \uace0\uce58\ub77c\uace0 \uc694\uccad\ud558\ub294 \uac83\uc744 \uc911\ub2e8\ud558\ub77c\n  > Summary: \ucd5c\uadfc 2\ub144 \ub3d9\uc548 \uc0dd\uc131 AI \ud30c\uc77c\ub7ff \ud504\ub85c\uc81d\ud2b8\uc5d0 \uc218\ubc31\ub9cc \ub2ec\ub7ec\uac00 \ud22c\uc790\ub418\uc5c8\uc9c0\ub9cc, \ub9ce\uc740 \ud504\ub85c\uc81d\ud2b8\uac00 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 19:51:36",
       "message": "[SKIP] Content too short: Inference cloud operator Gener..."
+    },
+    {
+      "timestamp": "2026-07-19 19:51:37",
+      "message": "Reprocessing: Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs"
     }
   ]
 }
