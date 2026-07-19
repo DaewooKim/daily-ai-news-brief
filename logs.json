@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 13:13:20",
+  "last_updated": "2026-07-19 13:13:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 13:12:45",
-      "message": "[SUCCESS] Processed: AI\ub294 \uae30\uc5c5\uc774 \ucd08\uae09 \uc9c1\ubb34\ub97c \ub2e8\uc21c\ud788 \ucd95\uc18c\ud558\uc9c0 \uc54a\uace0 \ucc44\uc6a9, \uad50\uc721 \ubc0f \uc9c1\uc7a5 \ubb38\ud654\ub97c \uc7ac\uc124\uacc4\ud568\uc5d0 \ub530\ub77c \ucd08\uae09 \uc804\ubb38 \uc11c\ube44\uc2a4 \uc9c1\ubb34\ub97c \uc7ac\uad6c\uc131\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: AI\ub294 \ucd08\uae09 \uc804\ubb38 \uc11c\ube44\uc2a4 \uc9c1\ubb34\ub97c \uc7ac\uad6c\uc131\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uae30\uc5c5\ub4e4\uc740 \ub2e8\uc21c\ud788 \uc9c1\ubb34\ub97c \uc904\uc774\ub294 \ub300\uc2e0 ..."
-    },
     {
       "timestamp": "2026-07-19 13:12:47",
       "message": "[PROCESSING] Analyzing: Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO (Alexandra Lindsay/The San Francisco ...)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 13:13:20",
       "message": "[PROCESSING] Analyzing: Chris Long Named President of Micross North America..."
+    },
+    {
+      "timestamp": "2026-07-19 13:13:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Chris Long Named President of Micross North America"
     }
   ]
 }
