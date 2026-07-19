@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 11:01:08",
+  "last_updated": "2026-07-19 11:01:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 11:00:31",
-      "message": "[SUCCESS] Processed: IBM, AI \uc778\ud504\ub77c \uc804\ud658\uc774 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac70\ub798\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5 \uacbd\uace0, \uc8fc\uac00 \uae09\ub77d\n  > Summary: IBM\uc740 \uace0\uac1d\ub4e4\uc774 \uacf5\uae09\uc774 \uc81c\ud55c\ub41c \uc778\ud504\ub77c\uc5d0 \uc9c0\ucd9c\uc744 \uc804\ud658\ud568\uc5d0 \ub530\ub77c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac70\ub798\uac00 \uc9c0\uc5f0\ub418\uc5c8\uace0..."
-    },
     {
       "timestamp": "2026-07-19 11:00:33",
       "message": "[PROCESSING] Analyzing: Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO (Alexandra Lindsay/The San Francisco ...)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 11:01:08",
       "message": "[PROCESSING] Analyzing: Can Fine-Pitch Hybrid Bonding Go High Volume?..."
+    },
+    {
+      "timestamp": "2026-07-19 11:01:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Can Fine-Pitch Hybrid Bonding Go High Volume?"
     }
   ]
 }
