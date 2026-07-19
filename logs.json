@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 16:30:15",
+  "last_updated": "2026-07-19 16:30:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 16:29:37",
-      "message": "Reprocessing: A scorecard for the AI age"
-    },
     {
       "timestamp": "2026-07-19 16:29:39",
       "message": "[PROCESSING] Analyzing: A scorecard for the AI age..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 16:30:15",
       "message": "[PROCESSING] Analyzing: ASML Raises Outlook, Plans More EUV Capacity..."
+    },
+    {
+      "timestamp": "2026-07-19 16:30:17",
+      "message": "[SKIP] Irrelevant (AI Filter): ASML Raises Outlook, Plans More EUV Capacity"
     }
   ]
 }
