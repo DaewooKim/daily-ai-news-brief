@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-19 15:24:37",
+  "last_updated": "2026-07-19 15:24:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-19 15:24:00",
-      "message": "[SUCCESS] Processed: \u2018\uc624\ub514\uc138\uc774\u2019 \uac10\ub3c5 \ud06c\ub9ac\uc2a4\ud1a0\ud37c \ub180\ub780, AI\ub97c \uba85\ubc31\ud55c \u2018\ud2b8\ub85c\uc774 \ubaa9\ub9c8\u2019\ub77c\uace0 \uc5b8\uae09\n  > Summary: \uac10\ub3c5 \ud06c\ub9ac\uc2a4\ud1a0\ud37c \ub180\ub780\uc740 \uc778\uacf5\uc9c0\ub2a5(AI)\uc744 '\ud2b8\ub85c\uc774 \ubaa9\ub9c8'\uc5d0 \ube44\uc720\ud558\uba70 \uadf8 \uc874\uc7ac\ub97c \uacbd\uace0\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-07-19 15:24:02",
       "message": "Reprocessing: Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-19 15:24:37",
       "message": "[PROCESSING] Analyzing: India Adds Pieces to Strengthen Its Electronics Supply Chain Puzzle..."
+    },
+    {
+      "timestamp": "2026-07-19 15:24:39",
+      "message": "[SKIP] Irrelevant (AI Filter): India Adds Pieces to Strengthen Its Electronics Supply Chain Puzzle"
     }
   ]
 }
