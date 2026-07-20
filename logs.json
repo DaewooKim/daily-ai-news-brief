@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 15:57:59",
+  "last_updated": "2026-07-20 15:58:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 15:57:03",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-20 15:57:16",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 15:57:59",
       "message": "[PROCESSING] Analyzing: The FBI reportedly won\u2019t investigate ICE anymore..."
+    },
+    {
+      "timestamp": "2026-07-20 15:58:02",
+      "message": "[SKIP] Irrelevant (AI Filter): The FBI reportedly won\u2019t investigate ICE anymore"
     }
   ]
 }
