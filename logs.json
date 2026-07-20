@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 17:09:03",
+  "last_updated": "2026-07-20 17:09:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 17:08:20",
-      "message": "[PROCESSING] Analyzing: Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems..."
-    },
     {
       "timestamp": "2026-07-20 17:08:26",
       "message": "[SUCCESS] Processed: \uc548\uc804 \uc9c0\uce68\uc774 Hugging Face\uc758 \ubc29\uc5b4\uc790\ub97c \ucc28\ub2e8\ud588\uc9c0\ub9cc, \uacf5\uaca9\uc790\ub294 \ucc28\ub2e8\ud558\uc9c0 \uc54a\uc558\ub2e4\n  > Summary: Hugging Face\uc758 \uc2dc\uc2a4\ud15c\uc774 \uc790\uc728 AI \uc5d0\uc774\uc804\ud2b8\uc5d0 \uc758\ud574 \uce68\ud574\ub418\uc5c8\uace0, \uc0ac\uace0 \ub300\uc751 \ud300\uc774 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 17:09:03",
       "message": "Reprocessing: Anthropic, Meta reportedly discussing $10B data center leasing deal"
+    },
+    {
+      "timestamp": "2026-07-20 17:09:05",
+      "message": "[SKIP] Content too short: Anthropic, Meta reportedly dis..."
     }
   ]
 }
