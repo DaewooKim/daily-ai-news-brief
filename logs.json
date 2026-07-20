@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 09:22:30",
+  "last_updated": "2026-07-20 09:22:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 09:21:47",
-      "message": "[SUCCESS] Processed: EU \uc758\ud68c, MEP \ubc0f \uc9c1\uc6d0\uc5d0\uac8c EPGenAI \ud5c8\ube0c \uc81c\uacf5 \uacc4\ud68d\n  > Summary: EU \uc758\ud68c\ub294 9\uc6d4\uc5d0 MEP \ubc0f \uc9c1\uc6d0\ub4e4\uc774 OpenAI, Meta, Anthropic, Mis..."
-    },
     {
       "timestamp": "2026-07-20 09:21:49",
       "message": "[PROCESSING] Analyzing: France's National Gambling Authority blocks access to Polymarket's website, citing concerns of exposing users to significant losses and manipulated trading (Sudip Kar-Gupta/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 09:22:30",
       "message": "[SKIP] Irrelevant (AI Filter): Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike"
+    },
+    {
+      "timestamp": "2026-07-20 09:22:31",
+      "message": "Reprocessing: Brex built its AI agent policy by watching what agents actually do, not by writing rules first"
     }
   ]
 }
