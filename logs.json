@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 22:38:11",
+  "last_updated": "2026-07-20 22:38:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 22:37:32",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-20 22:37:32",
       "message": "[PROCESSING] Analyzing: Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 22:38:11",
       "message": "[PROCESSING] Analyzing: LG\u2019s monitors come with an unwanted addition for Windows: McAfee pop-up ads..."
+    },
+    {
+      "timestamp": "2026-07-20 22:38:14",
+      "message": "[SKIP] Irrelevant (AI Filter): LG\u2019s monitors come with an unwanted addition for Windows: McAfee pop-up ads"
     }
   ]
 }
