@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 10:28:31",
+  "last_updated": "2026-07-20 10:28:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 10:27:46",
-      "message": "[SUCCESS] Processed: EU \uc758\ud68c, MEP \ubc0f \uc9c1\uc6d0\uc5d0\uac8c EPGenAI \ud5c8\ube0c \uc81c\uacf5 \uacc4\ud68d\n  > Summary: EU \uc758\ud68c\ub294 \uc624\ub294 9\uc6d4\ubd80\ud130 MEP \ubc0f \uc9c1\uc6d0\ub4e4\uc774 Meta, OpenAI, Anthropic,..."
-    },
     {
       "timestamp": "2026-07-20 10:27:48",
       "message": "Reprocessing: Data Center Chokepoints Tied To AI, Political Pressure, Supply Chain"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 10:28:31",
       "message": "[PROCESSING] Analyzing: The CMMC Pause: The DoD Suspends Phase 2 Requirements..."
+    },
+    {
+      "timestamp": "2026-07-20 10:28:34",
+      "message": "[SKIP] Irrelevant (AI Filter): The CMMC Pause: The DoD Suspends Phase 2 Requirements"
     }
   ]
 }
