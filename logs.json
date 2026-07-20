@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-07-20 18:17:47",
-  "status": "idle",
+  "last_updated": "2026-07-20 19:18:27",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-20 18:16:17",
-      "message": "Reprocessing: Databricks raising new funding at $188B valuation"
+      "timestamp": "2026-07-20 19:18:13",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-20 18:16:18",
-      "message": "[SKIP] Content too short: Databricks raising new funding..."
+      "timestamp": "2026-07-20 19:18:14",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-20 18:16:20",
-      "message": "Reprocessing: Inference cloud operator General Compute raises $400M in debt financing"
+      "timestamp": "2026-07-20 19:18:14",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-20 18:16:21",
-      "message": "[SKIP] Content too short: Inference cloud operator Gener..."
+      "timestamp": "2026-07-20 19:18:27",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-20 18:16:23",
-      "message": "Reprocessing: Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:25",
-      "message": "[SKIP] Content too short: Compute Exchange opens seconda..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:26",
-      "message": "Reprocessing: EY re-envisions RAG around multimodal knowledge graphs to improve accuracy"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:28",
-      "message": "[SKIP] Content too short: EY re-envisions RAG around mul..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:30",
-      "message": "Reprocessing: Syntetica raises $30M to scale nylon recycling solutions"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:32",
-      "message": "[SKIP] Content too short: Syntetica raises $30M to scale..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:34",
-      "message": "Reprocessing: The AI backlash intensifies, China gains on the US leaders, and IBM tanks"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:36",
-      "message": "[SKIP] Content too short: The AI backlash intensifies, C..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:37",
-      "message": "Reprocessing: Google AI Mode gets more useful with Canva, Instacart and YouTube app integrations"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:39",
-      "message": "[SKIP] Content too short: Google AI Mode gets more usefu..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:41",
-      "message": "Reprocessing: EU orders Google to share search data with rivals, broaden Android feature access"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:42",
-      "message": "[SKIP] Content too short: EU orders Google to share sear..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:44",
-      "message": "Reprocessing: China\u2019s Moonshot throws down the gauntlet with Kimi K3, the world\u2019s largest open-weights model"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:46",
-      "message": "[SKIP] Content too short: China\u2019s Moonshot throws down t..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:48",
-      "message": "Reprocessing: Nvidia launches Cosmos 3 Edge model and expands its physical AI push in Japan"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:49",
-      "message": "[SKIP] Content too short: Nvidia launches Cosmos 3 Edge ..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:51",
-      "message": "Reprocessing: TSMC boosts Arizona fab investment by $100B after strong second quarter"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:53",
-      "message": "[SKIP] Content too short: TSMC boosts Arizona fab invest..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:55",
-      "message": "Reprocessing: AI infrastructure startup Fireworks closes $1.5B round at $17.5B valuation"
-    },
-    {
-      "timestamp": "2026-07-20 18:16:56",
-      "message": "[SKIP] Content too short: AI infrastructure startup Fire..."
-    },
-    {
-      "timestamp": "2026-07-20 18:16:58",
-      "message": "Reprocessing: Nvidia\u2019s AI networking moat is real \u2013 but the lock-in debate continues"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:00",
-      "message": "[SKIP] Content too short: Nvidia\u2019s AI networking moat is..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:02",
-      "message": "Reprocessing: Inside Nvidia\u2019s AI factory networking strategy: New analysis from theCUBE Research"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:03",
-      "message": "[SKIP] Content too short: Inside Nvidia\u2019s AI factory net..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:05",
-      "message": "Reprocessing: Intel says it\u2019s going to lean on Google\u2019s Gemini to help automate and accelerate silicon development"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:07",
-      "message": "[SKIP] Content too short: Intel says it\u2019s going to lean ..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:08",
-      "message": "Reprocessing: Google rebrands NotebookLM as Gemini Notebook, focusing on ecosystem and accessibility"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:10",
-      "message": "[SKIP] Content too short: Google rebrands NotebookLM as ..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:12",
-      "message": "Reprocessing: Microagi nabs $55M to teach factory robots how to work"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:14",
-      "message": "[SKIP] Content too short: Microagi nabs $55M to teach fa..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:15",
-      "message": "Reprocessing: Mimic Robotics launches highly capable robotic hand that emulates human movements"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:17",
-      "message": "[SKIP] Content too short: Mimic Robotics launches highly..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:19",
-      "message": "Reprocessing: 1Password brings secure credential access to Anthropic\u2019s Claude"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:20",
-      "message": "[SKIP] Content too short: 1Password brings secure creden..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:22",
-      "message": "Reprocessing: Ramp targets AI\u2019s fastest-growing cost with expanded token spend tracking"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:24",
-      "message": "[SKIP] Content too short: Ramp targets AI\u2019s fastest-grow..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:26",
-      "message": "Reprocessing: Ledger launches Agent Stack to keep AI agents away from crypto keys"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:27",
-      "message": "[SKIP] Content too short: Ledger launches Agent Stack to..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:29",
-      "message": "Reprocessing: Three insights you may have missed from theCUBE\u2019s coverage of RAISE Summit"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:30",
-      "message": "[SKIP] Content too short: Three insights you may have mi..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:32",
-      "message": "Reprocessing: MSI Slyly Shows off an Upcoming DLC AMD EPYC Venice Platform With CD182-S6091-X2 Servers and Racks"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:34",
-      "message": "[PROCESSING] Analyzing: MSI Slyly Shows off an Upcoming DLC AMD EPYC Venice Platform With CD182-S6091-X2 Servers and Racks..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:37",
-      "message": "[SUCCESS] Processed: MSI\uac00 CD182-S6091-X2 \uc11c\ubc84 \ubc0f \ub799\uacfc \ud568\uaed8 \ub2e4\uac00\uc624\ub294 DLC AMD EPYC Venice \ud50c\ub7ab\ud3fc\uc744 \uc870\uc6a9\ud788 \uacf5\uac1c\ud558\ub2e4\n  > Summary: AMD\uc758 EPYC Venice \ud50c\ub7ab\ud3fc\uc774 \uace7 \ucd9c\uc2dc\ub420 \uc608\uc815\uc774\uba70, OEM\uc5c5\uccb4\ub4e4\uc774 \uc0c8\ub85c\uc6b4 \uc81c\ud488\uc744 ..."
-    },
-    {
-      "timestamp": "2026-07-20 18:17:38",
-      "message": "Completed! New: 6, Updated: 47"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:42",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-07-20 18:17:45",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-07-20 19:18:27",
+      "message": "[PROCESSING] Analyzing: Judge pauses Paramount\u2019s attempt to buy Warner Bros. Discovery..."
     }
   ]
 }
