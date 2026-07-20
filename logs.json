@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 03:50:04",
+  "last_updated": "2026-07-20 03:50:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 03:49:28",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-20 03:49:28",
       "message": "[PROCESSING] Analyzing: This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 03:50:04",
       "message": "[SKIP] Irrelevant (AI Filter): The grueling, 630-mile road race where the only fuel is sunlight"
+    },
+    {
+      "timestamp": "2026-07-20 03:50:06",
+      "message": "Reprocessing: Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100"
     }
   ]
 }
