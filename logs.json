@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 02:44:30",
+  "last_updated": "2026-07-20 02:44:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 02:43:43",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-20 02:43:56",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 02:44:30",
       "message": "[PROCESSING] Analyzing: The grueling, 630-mile road race where the only fuel is sunlight..."
+    },
+    {
+      "timestamp": "2026-07-20 02:44:32",
+      "message": "[SKIP] Irrelevant (AI Filter): The grueling, 630-mile road race where the only fuel is sunlight"
     }
   ]
 }
