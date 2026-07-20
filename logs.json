@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 00:25:55",
+  "last_updated": "2026-07-20 00:26:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 00:22:56",
-      "message": "[SUCCESS] Processed: LG \ud654\ud559, \uc554\ucf54\uc5d0 \ubc18\ub3c4\uccb4 \uc2a4\ud2b8\ub9ac\ud37c \ub300\ub7c9 \uacf5\uae09\uc73c\ub85c \ubc18\ub3c4\uccb4 \uc2a4\ud2b8\ub9ac\ud37c \uc2dc\uc7a5 \uc9c4\uc785\n  > Summary: LG \ud654\ud559\uc774 7\uc6d4 16\uc77c \uc554\ucf54 \ud14c\ud06c\ub180\ub85c\uc9c0\uc5d0 \ubc18\ub3c4\uccb4 \uc2a4\ud2b8\ub9ac\ud37c\uc758 \ub300\ub7c9 \uc0dd\uc0b0 \ubc0f \uacf5\uae09\uc744 \uc2dc\uc791\ud55c\ub2e4..."
-    },
     {
       "timestamp": "2026-07-20 00:23:06",
       "message": "[PROCESSING] Analyzing: Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 00:25:55",
       "message": "[SKIP] Content too short: Inference cloud operator Gener..."
+    },
+    {
+      "timestamp": "2026-07-20 00:26:00",
+      "message": "Reprocessing: Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs"
     }
   ]
 }
