@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 12:40:21",
+  "last_updated": "2026-07-20 12:40:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 12:39:36",
-      "message": "[SUCCESS] Processed: AI \ub525\ud398\uc774\ud06c \uc9c1\uc6d0\uc744 \uc774\uc6a9\ud55c '\ud569\uc131 \ub0b4\ubd80\uc790' \uacf5\uaca9\uc774 \uae30\uc5c5 \uc0ac\uc774\ubc84 \ubc29\uc5b4\uc758 \uc704\ud5d8\uc131\uc744 \ub192\uc774\ub2e4\n  > Summary: \ubc84\ub77c\uc774\uc98c\uc758 22,000\uac74 \uc0ac\uac74 \ubd84\uc11d\uc5d0 \ub530\ub974\uba74 12%\ub294 \ub0b4\ubd80\uc790\uac00 \uc218\ud589\ud55c \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-07-20 12:39:38",
       "message": "[PROCESSING] Analyzing: Sources: parts of the Trump administration are reigniting efforts to implement de facto bans on foreign open-source models, as Chinese AI models gain momentum (Maria Curi/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 12:40:21",
       "message": "[PROCESSING] Analyzing: Chris Long Named President of Micross North America..."
+    },
+    {
+      "timestamp": "2026-07-20 12:40:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Chris Long Named President of Micross North America"
     }
   ]
 }
