@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 18:14:18",
+  "last_updated": "2026-07-20 18:14:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 18:13:34",
-      "message": "Reprocessing: Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips (Bloomberg)"
-    },
     {
       "timestamp": "2026-07-20 18:13:35",
       "message": "[PROCESSING] Analyzing: Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 18:14:18",
       "message": "[SKIP] Irrelevant (AI Filter): NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornell, NYCU, IBM et al.)"
+    },
+    {
+      "timestamp": "2026-07-20 18:14:20",
+      "message": "[PROCESSING] Analyzing: Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH Royal)..."
     }
   ]
 }
