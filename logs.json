@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 06:03:43",
+  "last_updated": "2026-07-20 06:03:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 06:03:00",
-      "message": "[PROCESSING] Analyzing: LSEG: Morgan Stanley collected $2.3B in debt and equity capital market fees in H1 2026, up from $1.4B in H1 2025, driven by AI infrastructure financing deals (Financial Times)..."
-    },
     {
       "timestamp": "2026-07-20 06:03:04",
       "message": "[SUCCESS] Processed: LSEG: \ubaa8\uac74 \uc2a4\ud0e0\ub9ac\uac00 2026\ub144 \uc0c1\ubc18\uae30\uc5d0 23\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uc558\uc73c\uba70, 2025\ub144 \uc0c1\ubc18\uae30 14\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c \uc99d\uac00\ud588\uc73c\uba70, AI \uc778\ud504\ub77c \uae08\uc735 \uac70\ub798\ub85c \uc778\ud574 \uc99d\uac00\n  > Summary: \ubaa8\uac74 \uc2a4\ud0e0\ub9ac\uac00 2026\ub144 \uc0c1\ubc18\uae30 \ub3d9\uc548 23\uc5b5 \ub2ec\ub7ec\uc758 \ubd80\ucc44 \ubc0f \uc8fc\uc2dd \uc790\ubcf8 \uc2dc\uc7a5 \uc218\uc218\ub8cc\ub97c \uc218\uc9d1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 06:03:43",
       "message": "[PROCESSING] Analyzing: Accelerating Sustainability With Smart Manufacturing..."
+    },
+    {
+      "timestamp": "2026-07-20 06:03:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerating Sustainability With Smart Manufacturing"
     }
   ]
 }
