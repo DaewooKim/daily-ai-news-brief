@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-20 19:22:39",
+  "last_updated": "2026-07-20 19:22:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-20 19:22:06",
-      "message": "[PROCESSING] Analyzing: The CMMC Pause: The DoD Suspends Phase 2 Requirements..."
-    },
     {
       "timestamp": "2026-07-20 19:22:08",
       "message": "[SKIP] Irrelevant (AI Filter): The CMMC Pause: The DoD Suspends Phase 2 Requirements"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-20 19:22:39",
       "message": "Reprocessing: Anthropic, Meta reportedly discussing $10B data center leasing deal"
+    },
+    {
+      "timestamp": "2026-07-20 19:22:41",
+      "message": "[SKIP] Content too short: Anthropic, Meta reportedly dis..."
     }
   ]
 }
