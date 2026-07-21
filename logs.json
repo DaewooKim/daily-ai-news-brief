@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 16:17:22",
+  "last_updated": "2026-07-21 16:17:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 16:16:36",
-      "message": "[SUCCESS] Processed: Nvidia, \ub370\uc774\ud130 \uc13c\ud130\uc6a9 Vera CPU \uc138\ubd80 \uc815\ubcf4 \uacf5\uac1c, \ub9de\ucda4\ud615 \ucf54\uc5b4 \ub514\uc790\uc778\uc744 \uac16\ucd98 \uccab CPU\ub85c 88\uac1c\uc758 \ucf54\uc5b4\uc640 176\uac1c\uc758 \uc2a4\ub808\ub4dc\ub97c \ud2b9\uc9d5\uc73c\ub85c \ud558\uba70 2026\ub144 \ud558\ubc18\uae30 \uc77c\ubc18 \ucd9c\uc2dc \uc608\uc815\n  > Summary: Nvidia\ub294 \ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc7a5\uc744 \uaca8\ub0e5\ud55c \uccab \ubc88\uc9f8 \ub9de\ucda4\ud615 \ucf54\uc5b4 \ub514\uc790\uc778\uc744 \uac16\ucd98 Vera CP..."
-    },
     {
       "timestamp": "2026-07-21 16:16:38",
       "message": "[PROCESSING] Analyzing: Sources: Apple plans to launch Apple Upgrade, a leasing program for iPhone, iPad, Mac, and Apple Watch, in partnership with Klarna in the US next week (Mark Gurman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 16:17:22",
       "message": "[PROCESSING] Analyzing: Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH Royal)..."
+    },
+    {
+      "timestamp": "2026-07-21 16:17:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH Royal)"
     }
   ]
 }
