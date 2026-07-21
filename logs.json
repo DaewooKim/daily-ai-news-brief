@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 09:37:46",
+  "last_updated": "2026-07-21 09:37:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 09:37:08",
-      "message": "[SUCCESS] Processed: \uc911\uad6d, AI \ubc0f \uce69 \uae30\uc220 \uc218\ucd9c \ud1b5\uc81c \uac15\ud654 \uac80\ud1a0 \uc911\n  > Summary: \uc911\uad6d \uaddc\uc81c \ub2f9\uad6d\uc774 \uc778\uacf5\uc9c0\ub2a5 \ubc0f \ubc18\ub3c4\uccb4 \uae30\uc220\uc758 \uc218\ucd9c \ud1b5\uc81c\ub97c \uac15\ud654\ud558\ub294 \ubc29\uc548\uc744 \uac80\ud1a0\ud558\uace0 \uc788\uc73c\uba70,..."
-    },
     {
       "timestamp": "2026-07-21 09:37:09",
       "message": "[PROCESSING] Analyzing: Sources: TSMC plans to hike advanced and mature node prices by up to 10% in 2027, plus a 10%-15% premium for advanced chip orders exceeding original forecasts (Cheng Ting-Fang/Nikkei Asia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 09:37:46",
       "message": "[PROCESSING] Analyzing: 3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)..."
+    },
+    {
+      "timestamp": "2026-07-21 09:37:48",
+      "message": "[SKIP] Irrelevant (AI Filter): 3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)"
     }
   ]
 }
