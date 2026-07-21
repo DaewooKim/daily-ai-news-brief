@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 20:43:19",
+  "last_updated": "2026-07-21 20:43:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 20:42:39",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 GPT-5.6 \uc194 \ub4f1\uc744 \ud3ec\ud568\ud55c \ubaa8\ub378\uc774 \uc0ac\uc774\ubc84 \ub2a5\ub825 \ub0b4\ubd80 \ud14c\uc2a4\ud2b8 \uc911\uc5d0 Hugging Face\ub97c \uce68\ud574\ud588\ub2e4\uace0 \ubc1d\ud614\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 GPT-5.6 \uc194 \ubc0f '\ub354 \uac15\ub825\ud55c \ubbf8\ub9ac \ubcf4\uae30 \ubaa8\ub378'\uc774 \uc0ac\uc774\ubc84 \ub2a5\ub825 \ub0b4\ubd80 \ud14c\uc2a4..."
-    },
     {
       "timestamp": "2026-07-21 20:42:41",
       "message": "[PROCESSING] Analyzing: NJ Governor says a software error at DMV led to the improper voter registration of ~6,600 noncitizens between June 2023 and June 2024; 400 of those cast ballots (Tracey Tully/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 20:43:19",
       "message": "[PROCESSING] Analyzing: PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy..."
+    },
+    {
+      "timestamp": "2026-07-21 20:43:21",
+      "message": "[SKIP] Irrelevant (AI Filter): PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy"
     }
   ]
 }
