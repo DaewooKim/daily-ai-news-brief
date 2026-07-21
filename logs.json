@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 07:27:09",
+  "last_updated": "2026-07-21 07:27:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 07:26:36",
-      "message": "[PROCESSING] Analyzing: The CMMC Pause: The DoD Suspends Phase 2 Requirements..."
-    },
     {
       "timestamp": "2026-07-21 07:26:40",
       "message": "[SKIP] Irrelevant (AI Filter): The CMMC Pause: The DoD Suspends Phase 2 Requirements"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 07:27:09",
       "message": "[SKIP] Content too short: Neo Security bags $100M to bui..."
+    },
+    {
+      "timestamp": "2026-07-21 07:27:11",
+      "message": "Reprocessing: Hugging Face uses open-weights Z.ai GLM 5.2 to battle attacker after commercial frontier model refusal"
     }
   ]
 }
