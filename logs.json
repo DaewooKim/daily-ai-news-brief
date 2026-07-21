@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 07:26:09",
+  "last_updated": "2026-07-21 07:26:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 07:25:30",
-      "message": "[PROCESSING] Analyzing: Source: Ancestry.com pitches a risky $1.75B term loan at 4 to 4.25 percentage points above the benchmark to refinance debt from its 2020 Blackstone acquisition (Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-21 07:25:32",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Ancestry.com pitches a risky $1.75B term loan at 4 to 4.25 percentage points above the benchmark to refinance debt from its 2020 Blackstone acquisition (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 07:26:09",
       "message": "[PROCESSING] Analyzing: Chris Long Named President of Micross North America..."
+    },
+    {
+      "timestamp": "2026-07-21 07:26:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Chris Long Named President of Micross North America"
     }
   ]
 }
