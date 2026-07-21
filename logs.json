@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 10:41:59",
+  "last_updated": "2026-07-21 10:42:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 10:41:10",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-07-21 10:41:10",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 10:41:59",
       "message": "[PROCESSING] Analyzing: LG&#8217;s glossy OLED gaming monitor is rare to find under $400..."
+    },
+    {
+      "timestamp": "2026-07-21 10:42:01",
+      "message": "[SKIP] Irrelevant (AI Filter): LG&#8217;s glossy OLED gaming monitor is rare to find under $400"
     }
   ]
 }
