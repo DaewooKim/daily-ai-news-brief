@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 13:59:51",
+  "last_updated": "2026-07-21 13:59:56",
   "status": "running",
   "logs": [
     {
@@ -29,6 +29,14 @@
     {
       "timestamp": "2026-07-21 13:59:51",
       "message": "[PROCESSING] Analyzing: The Switch 2 is $50 off at Woot for new customers..."
+    },
+    {
+      "timestamp": "2026-07-21 13:59:53",
+      "message": "[SKIP] Irrelevant (AI Filter): The Switch 2 is $50 off at Woot for new customers"
+    },
+    {
+      "timestamp": "2026-07-21 13:59:56",
+      "message": "[PROCESSING] Analyzing: The wireless headset that gets hot-swappable batteries right..."
     }
   ]
 }
