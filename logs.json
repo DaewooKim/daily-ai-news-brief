@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-21 19:35:17",
+  "last_updated": "2026-07-21 19:35:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 19:34:37",
-      "message": "Found 152 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-21 19:34:37",
       "message": "[PROCESSING] Analyzing: Substack adds an AI detector to help spot blogs written by no one..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-21 19:35:17",
       "message": "[SKIP] Content too short: Microsoft Taps AMD For At Scal..."
+    },
+    {
+      "timestamp": "2026-07-21 19:35:19",
+      "message": "Reprocessing: Google Uses AI Reinforcement Learning For Quantum Error Correction"
     }
   ]
 }
