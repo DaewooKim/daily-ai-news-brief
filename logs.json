@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 04:23:17",
+  "last_updated": "2026-07-22 04:23:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 04:22:38",
-      "message": "[PROCESSING] Analyzing: Chris Long Named President of Micross North America..."
-    },
     {
       "timestamp": "2026-07-22 04:22:40",
       "message": "[SKIP] Irrelevant (AI Filter): Chris Long Named President of Micross North America"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 04:23:17",
       "message": "Reprocessing: Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe"
+    },
+    {
+      "timestamp": "2026-07-22 04:23:18",
+      "message": "[SKIP] Content too short: Mistral AI strikes multibillio..."
     }
   ]
 }
