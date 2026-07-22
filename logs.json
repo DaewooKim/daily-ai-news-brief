@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 20:59:01",
+  "last_updated": "2026-07-22 20:59:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 20:58:20",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, \uc81c\ubbf8\ub2c8\uc758 \uc6d4\uac04 \ud65c\uc131 \uc0ac\uc6a9\uc790 \uc218\uac00 9\uc5b5 5\ucc9c\ub9cc\uc5d0\uc11c 9\uc5b5\uc73c\ub85c, 7\uc5b5 5\ucc9c\ub9cc\uc5d0\uc11c \uc99d\uac00\ud588\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: \uad6c\uae00\uc740 \uc81c\ubbf8\ub2c8\uc758 \uc6d4\uac04 \ud65c\uc131 \uc0ac\uc6a9\uc790 \uc218(MAU)\uac00 950M\uc73c\ub85c \uc99d\uac00\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4. \uc774\ub294 5..."
-    },
     {
       "timestamp": "2026-07-22 20:58:21",
       "message": "[PROCESSING] Analyzing: IBM reports Q2 revenue up 1% YoY to $17.2B, vs. $17.6B est., infrastructure revenue down 7% to $3.8B, Z mainframe revenue down 42%, and lowers its 2026 forecast (Jordan Novet/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 20:59:01",
       "message": "[PROCESSING] Analyzing: Bringing Design Data Management into the Developer Workflow..."
+    },
+    {
+      "timestamp": "2026-07-22 20:59:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Bringing Design Data Management into the Developer Workflow"
     }
   ]
 }
