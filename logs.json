@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 17:37:45",
+  "last_updated": "2026-07-22 17:37:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 17:37:03",
-      "message": "[PROCESSING] Analyzing: CEA-Leti Looks Beyond SRAM and DRAM as AI Reshapes the Memory Roadmap..."
-    },
     {
       "timestamp": "2026-07-22 17:37:06",
       "message": "[SUCCESS] Processed: CEA-Leti\ub294 AI\uac00 \uba54\ubaa8\ub9ac \ub85c\ub4dc\ub9f5\uc744 \uc7ac\uad6c\uc131\ud568\uc5d0 \ub530\ub77c SRAM\uacfc DRAM\uc744 \ub118\uc5b4\uc11c\ub2e4\n  > Summary: AI\uc758 \ubc1c\uc804\uc73c\ub85c \uc778\ud574 \ub370\uc774\ud130 \ud750\ub984\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c CEA-Leti\ub294 \uba54\ubaa8\ub9ac \ub85c\ub4dc\ub9f5\uc744 \uc7ac\uace0\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 17:37:45",
       "message": "[PROCESSING] Analyzing: A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law (Barry Schwartz/Search Engine Roundtable)..."
+    },
+    {
+      "timestamp": "2026-07-22 17:37:48",
+      "message": "[SKIP] Irrelevant (AI Filter): A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law (Barry Schwartz/Search Engine Roundtable)"
     }
   ]
 }
