@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 10:57:26",
+  "last_updated": "2026-07-22 10:57:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 10:56:46",
-      "message": "[PROCESSING] Analyzing: TSMC forecasts \"several years\" of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing (Kai Nicol-Schwarz/CNBC)..."
-    },
     {
       "timestamp": "2026-07-22 10:56:49",
       "message": "[SUCCESS] Processed: TSMC, \"\uc218\ub144 \uac04\" \ub9c8\uc9c4 \ud76c\uc11d \uc608\uc0c1; \ud574\uc678 \ud339 \ud504\ub85c\uc81d\ud2b8 \uc99d\uac00\uc5d0 \ub530\ub978 \ubbf8\uad6d \uc81c\uc870\uc5d0 2000\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \ubc1c\ud45c\n  > Summary: TSMC\ub294 \ud574\uc678 \ubc18\ub3c4\uccb4 \uc81c\uc870 \ud504\ub85c\uc81d\ud2b8\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \"\uc218\ub144 \uac04\" \ub9c8\uc9c4 \ud76c\uc11d\uc774 \uc608\uc0c1\ub41c\ub2e4\uace0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 10:57:26",
       "message": "[PROCESSING] Analyzing: Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion..."
+    },
+    {
+      "timestamp": "2026-07-22 10:57:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion"
     }
   ]
 }
