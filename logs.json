@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 16:32:28",
+  "last_updated": "2026-07-22 16:32:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 16:31:41",
-      "message": "[PROCESSING] Analyzing: Source: OpenAI raised its projected cloud spending to ~$750B through 2030, up from its ~$600B projection earlier in 2026, reflecting its new cloud compute deals (Anissa Gardizy/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-07-22 16:31:45",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, 2030\ub144\uae4c\uc9c0 \ud074\ub77c\uc6b0\ub4dc \uc9c0\ucd9c \uacc4\ud68d\uc744 \uc57d 7500\uc5b5 \ub2ec\ub7ec\ub85c \uc0c1\ud5a5 \uc870\uc815\n  > Summary: \uc624\ud508AI\ub294 2030\ub144\uae4c\uc9c0 \ud074\ub77c\uc6b0\ub4dc \uc9c0\ucd9c \uacc4\ud68d\uc744 \uc57d 6000\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 7500\uc5b5 \ub2ec\ub7ec\ub85c \uc0c1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 16:32:28",
       "message": "[SUCCESS] Processed: OpenAI, \uae30\uc5c5\uc774 \uc2e4\uc2dc\uac04 \uc74c\uc131 \uc5d0\uc774\uc804\ud2b8 \ubc0f \ucc57\ubd07\uc744 \uc2dc\uc791 \ubc0f \uad00\ub9ac\ud560 \uc218 \uc788\ub294 \uc0c8\ub85c\uc6b4 \ud50c\ub7ab\ud3fc \u2018Presence\u2019 \ubc1c\ud45c\n  > Summary: OpenAI\ub294 \uace0\uac1d \ub300\uba74 \ubc0f \ub0b4\ubd80 \ube44\uc988\ub2c8\uc2a4 \uc6cc\ud06c\ud50c\ub85c\uc6b0\uc5d0\uc11c AI \uc5d0\uc774\uc804\ud2b8\ub97c \ubc30\uce58\ud558\uace0 \uad00\ub9ac\ud560 ..."
+    },
+    {
+      "timestamp": "2026-07-22 16:32:30",
+      "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
     }
   ]
 }
