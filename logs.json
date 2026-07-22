@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 20:59:26",
+  "last_updated": "2026-07-22 20:59:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 20:58:43",
-      "message": "[PROCESSING] Analyzing: Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B (Yueqi Yang/The Information)..."
-    },
     {
       "timestamp": "2026-07-22 20:58:46",
       "message": "[SUCCESS] Processed: \uc2a4\ud2b8\ub77c\uc774\ud504\uc758 \uc218\uc775\uc774 2025\ub144 68\uc5b5 \ub2ec\ub7ec\ub85c 3\ubd84\uc758 1 \uc99d\uac00\ud558\uba70, 2021\ub144 \uc774\ud6c4 \uac00\uc7a5 \ube60\ub978 \uc131\uc7a5\ub960\uc744 \uae30\ub85d\ud558\uc600\uace0, \uc790\uc720 \ud604\uae08 \ud750\ub984\uc740 32\uc5b5 \ub2ec\ub7ec\ub85c 52% \uc99d\uac00\ud588\ub2e4.\n  > Summary: 2025\ub144 \uc2a4\ud2b8\ub77c\uc774\ud504\uc758 \uc218\uc775\uc774 68\uc5b5 \ub2ec\ub7ec\ub85c 3\ubd84\uc758 1 \uc99d\uac00\ud558\uc600\uc73c\uba70, \uc774\ub294 2021\ub144 \uc774\ud6c4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 20:59:26",
       "message": "[PROCESSING] Analyzing: Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion..."
+    },
+    {
+      "timestamp": "2026-07-22 20:59:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion"
     }
   ]
 }
