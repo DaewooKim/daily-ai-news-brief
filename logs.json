@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 14:14:54",
+  "last_updated": "2026-07-22 14:14:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 14:13:58",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-22 14:14:12",
       "message": "Found 148 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 14:14:54",
       "message": "[SUCCESS] Processed: \uc624\ud508 \ubaa8\ub378 \uc694\uc57d: Kimi K3, Qwen 3.8, \uc2dc\uc9c4\ud551\uc758 WAIC \uc5f0\uc124, \uc99d\ub958, \uc624\ud508-\ud074\ub85c\uc988\ub4dc \uac04\uc758 \uaca9\ucc28 \ubc0f \ub2e4\uc74c \ub2e8\uacc4\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\n  > Summary: \uc774 \uae30\uc0ac\ub294 \ud64d\ucf69\uc758 Kimi K3 \ucd9c\uc2dc\uc640 \uc911\uad6d AI \ubaa8\ub378\uc758 \ubc1c\uc804, \uadf8\ub9ac\uace0 \uc624\ud508 \ubaa8\ub378 \uc0dd\ud0dc\uacc4\uc758..."
+    },
+    {
+      "timestamp": "2026-07-22 14:14:55",
+      "message": "Reprocessing: Kimi K3: The open-weights escalation"
     }
   ]
 }
