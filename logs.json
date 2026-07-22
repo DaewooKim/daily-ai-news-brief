@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 20:59:51",
+  "last_updated": "2026-07-22 20:59:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 20:59:07",
-      "message": "[PROCESSING] Analyzing: Blog Review: July 22..."
-    },
     {
       "timestamp": "2026-07-22 20:59:10",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 7\uc6d4 22\uc77c\n  > Summary: Synopsys\uc758 Dana Neustadter\uc640 Ilya Tolchinsky\ub294 \ubb3c\ub9ac\uc801 AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 20:59:51",
       "message": "[PROCESSING] Analyzing: Pros and Cons of MCU Hardware and Software Peripherals..."
+    },
+    {
+      "timestamp": "2026-07-22 20:59:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Pros and Cons of MCU Hardware and Software Peripherals"
     }
   ]
 }
