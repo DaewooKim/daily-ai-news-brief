@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 08:44:34",
+  "last_updated": "2026-07-22 08:44:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 08:43:53",
-      "message": "[SUCCESS] Processed: \uc2e0\uc138\uc2dc\uc544\uc758 AI \ud6c8\ub828 \ud50c\ub7ab\ud3fc, \ub3d9\uc601\uc0c1\uc744 \ub118\uc5b4 \uc2e4\uc2dc\uac04 \ucf54\uce6d\uc73c\ub85c \ud655\uc7a5\n  > Summary: \uc2e0\uc138\uc2dc\uc544\ub294 \uc9c1\uc6d0\ub4e4\uc774 AI \uc544\ubc14\ud0c0\uc640 \ud568\uaed8 \uc9c1\uc7a5 \ub300\ud654\ub97c \uc5f0\uc2b5\ud558\uace0 \ud53c\ub4dc\ubc31, \uc810\uc218 \ubc0f \ubd84\uc11d\uc744 \uc81c\uacf5..."
-    },
     {
       "timestamp": "2026-07-22 08:43:55",
       "message": "Reprocessing: Data centers expected to use 4x more electricity by 2035"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 08:44:34",
       "message": "[PROCESSING] Analyzing: PJM Issued First Backup-Generator Warnings During Heat Wave..."
+    },
+    {
+      "timestamp": "2026-07-22 08:44:36",
+      "message": "[SKIP] Irrelevant (AI Filter): PJM Issued First Backup-Generator Warnings During Heat Wave"
     }
   ]
 }
