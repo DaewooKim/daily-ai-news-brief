@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 14:15:50",
+  "last_updated": "2026-07-22 14:15:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 14:15:08",
-      "message": "[SUCCESS] Processed: \uc5d0\ud551\ud584 \uce74\uc6b4\ud2f0 \ucee4\ubba4\ub2c8\ud2f0\uc640 \ud568\uaed8 AI \uc778\ud504\ub77c \uad6c\ucd95\n  > Summary: OpenAI\ub294 \uc870\uc9c0\uc544\uc8fc \uc5d0\ud551\ud584 \uce74\uc6b4\ud2f0\uc5d0\uc11c \ucc45\uc784 \uc788\ub294 \uc5d0\ub108\uc9c0, \uc9c0\uc5ed \uc0ac\ud68c \ud22c\uc790, \uc77c\uc790\ub9ac \ucc3d\ucd9c..."
-    },
     {
       "timestamp": "2026-07-22 14:15:10",
       "message": "Reprocessing: Safety and alignment in an era of long-horizon models"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 14:15:50",
       "message": "[PROCESSING] Analyzing: RISC-V Europe Summit 2026: Beyond Embedded Electronics..."
+    },
+    {
+      "timestamp": "2026-07-22 14:15:53",
+      "message": "[SKIP] Irrelevant (AI Filter): RISC-V Europe Summit 2026: Beyond Embedded Electronics"
     }
   ]
 }
