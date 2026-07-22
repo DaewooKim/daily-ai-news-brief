@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 20:59:37",
+  "last_updated": "2026-07-22 20:59:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 20:58:54",
-      "message": "[SKIP] Irrelevant (AI Filter): Yope, a social network that has ~15M registered users for its \"micro communities\" and no algorithms, ads, or public content, raised $12.3M seed led by Northzone (Sarah Perez/TechCrunch)"
-    },
     {
       "timestamp": "2026-07-22 20:58:56",
       "message": "[PROCESSING] Analyzing: Cashea, Venezuela's largest fintech startup, which offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B (Maria Clara Cobo/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 20:59:37",
       "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
+    },
+    {
+      "timestamp": "2026-07-22 20:59:39",
+      "message": "[PROCESSING] Analyzing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens..."
     }
   ]
 }
