@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 01:06:48",
+  "last_updated": "2026-07-22 01:06:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 01:06:10",
-      "message": "[PROCESSING] Analyzing: Chris Long Named President of Micross North America..."
-    },
     {
       "timestamp": "2026-07-22 01:06:12",
       "message": "[SKIP] Irrelevant (AI Filter): Chris Long Named President of Micross North America"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 01:06:48",
       "message": "[SKIP] Content too short: Block launches Buzz, an open-s..."
+    },
+    {
+      "timestamp": "2026-07-22 01:06:50",
+      "message": "Reprocessing: OpenAI says its own AI models broke out of testing and hacked Hugging Face"
     }
   ]
 }
