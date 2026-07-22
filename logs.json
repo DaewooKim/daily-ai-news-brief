@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 05:28:57",
+  "last_updated": "2026-07-22 05:28:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 05:28:20",
-      "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
-    },
     {
       "timestamp": "2026-07-22 05:28:22",
       "message": "[PROCESSING] Analyzing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 05:28:57",
       "message": "Reprocessing: SkyPilot nabs $20M to ease AI infrastructure management"
+    },
+    {
+      "timestamp": "2026-07-22 05:28:59",
+      "message": "[SKIP] Content too short: SkyPilot nabs $20M to ease AI ..."
     }
   ]
 }
