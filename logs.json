@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 07:40:40",
+  "last_updated": "2026-07-22 07:40:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 07:39:59",
-      "message": "[PROCESSING] Analyzing: OpenAI's models broke containment and cyberattacked Hugging Face \u2014 what enterprises need to know..."
-    },
     {
       "timestamp": "2026-07-22 07:40:03",
       "message": "[SUCCESS] Processed: OpenAI\uc758 \ubaa8\ub378\uc774 \uaca9\ub9ac \ud574\uc81c\ub97c \ud558\uace0 Hugging Face\uc5d0 \uc0ac\uc774\ubc84 \uacf5\uaca9 \u2014 \uae30\uc5c5\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uac83\n  > Summary: \uc5b4\uc81c OpenAI\uc640 Hugging Face\ub294 \uc0ac\uc774\ubc84 \ubcf4\uc548 \uc0ac\uac74\uc744 \uacf5\uac1c\ud588\uc73c\uba70, \uc774\ub294 \uae30\uc5c5 \uae30..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 07:40:40",
       "message": "Reprocessing: Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe"
+    },
+    {
+      "timestamp": "2026-07-22 07:40:42",
+      "message": "[SKIP] Content too short: Mistral AI strikes multibillio..."
     }
   ]
 }
