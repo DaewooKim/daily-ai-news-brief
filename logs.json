@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 10:56:50",
+  "last_updated": "2026-07-22 10:56:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 10:56:11",
-      "message": "[SUCCESS] Processed: AI \ub370\uc774\ud130 \uc13c\ud130 \ubd90\uc774 \uae00\ub85c\ubc8c \uac74\uc124 \uc6a9\ub7c9\uc5d0 \ubd80\ub2f4\uc744 \uc8fc\uace0 \uc788\ub2e4\n  > Summary: AI \uc778\ud504\ub77c\uc758 \uae09\uc18d\ud55c \uc131\uc7a5\uacfc \ub178\ub3d9\ub825 \ubd80\uc871\uc73c\ub85c \uc778\ud574 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124\uc774 \ud604\uc7ac \uc804 \uc138\uacc4\uc5d0\uc11c \uac00..."
-    },
     {
       "timestamp": "2026-07-22 10:56:13",
       "message": "Reprocessing: IREN\u2019s $2.8B AI Deals Highlight New Funding Model"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 10:56:50",
       "message": "[PROCESSING] Analyzing: Sources: Alphabet has more than quadrupled its office space in Miami, partially driven by Larry Page's and Sergey Brin's residential real estate purchases (Anna J Kaiser/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-22 10:56:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Alphabet has more than quadrupled its office space in Miami, partially driven by Larry Page's and Sergey Brin's residential real estate purchases (Anna J Kaiser/Bloomberg)"
     }
   ]
 }
