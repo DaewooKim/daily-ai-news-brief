@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 13:11:45",
+  "last_updated": "2026-07-22 13:11:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 13:11:05",
-      "message": "[PROCESSING] Analyzing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens..."
-    },
     {
       "timestamp": "2026-07-22 13:11:10",
       "message": "[SUCCESS] Processed: GPU\ub97c \ub354 \ucd94\uac00\ud558\uc9c0 \ub9c8\uc138\uc694: Weka\uc758 \uc0c8\ub85c\uc6b4 \uc800\uc7a5 \ud50c\ub7ab\ud3fc\uc774 AI \ubaa8\ub378\uc758 \ubbf8\ub9ac \uacc4\uc0b0\ub41c \ud1a0\ud070 100%\ub97c \uce90\uc2f1\ud558\uc5ec \ubd80\ud558\ub97c \uc904\uc785\ub2c8\ub2e4\n  > Summary: Weka\ub294 \uc800\ub834\ud55c \ud50c\ub798\uc2dc \uc800\uc7a5 \uae30\uc220\uc744 \ud65c\uc6a9\ud558\uc5ec GPU \uba54\ubaa8\ub9ac\uc758 \ubd80\ub2f4\uc744 \uc904\uc774\ub294 NeuralM..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 13:11:45",
       "message": "[SKIP] Content too short: Nvidia Vera Rubin: Inside the ..."
+    },
+    {
+      "timestamp": "2026-07-22 13:11:46",
+      "message": "Reprocessing: Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe"
     }
   ]
 }
