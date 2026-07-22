@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 20:58:01",
+  "last_updated": "2026-07-22 20:58:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 20:57:23",
-      "message": "[SUCCESS] Processed: Monday.com, AI\uc5d0 \uc911\uc810\uc744 \ub450\uae30 \uc704\ud574 \uc218\ubc31 \uba85\uc744 \ud574\uace0\ud558\ub2e4\n  > Summary: Monday.com\uc740 AI \uc791\uc5c5 \ud50c\ub7ab\ud3fc\uc5d0 \uc911\uc810\uc744 \ub450\uae30 \uc704\ud574 \uc778\uc6d0\uc218\ub97c 20% \uc904\uc774\uae30\ub85c \uacb0\uc815\ud588..."
-    },
     {
       "timestamp": "2026-07-22 20:57:25",
       "message": "[PROCESSING] Analyzing: The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 20:58:01",
       "message": "[PROCESSING] Analyzing: PJM Issued First Backup-Generator Warnings During Heat Wave..."
+    },
+    {
+      "timestamp": "2026-07-22 20:58:04",
+      "message": "[SKIP] Irrelevant (AI Filter): PJM Issued First Backup-Generator Warnings During Heat Wave"
     }
   ]
 }
