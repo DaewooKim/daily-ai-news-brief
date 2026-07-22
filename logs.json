@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 06:32:03",
+  "last_updated": "2026-07-22 06:32:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 06:31:10",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-22 06:31:23",
       "message": "Found 152 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 06:32:03",
       "message": "[SKIP] Content too short: GenAI Hardware Investments Are..."
+    },
+    {
+      "timestamp": "2026-07-22 06:32:05",
+      "message": "Reprocessing: Microsoft Taps AMD For At Scale AI CPU And GPU Clusters"
     }
   ]
 }
