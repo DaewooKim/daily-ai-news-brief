@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 01:06:27",
+  "last_updated": "2026-07-22 01:06:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 01:05:47",
-      "message": "Reprocessing: Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)"
-    },
     {
       "timestamp": "2026-07-22 01:05:49",
       "message": "[PROCESSING] Analyzing: Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 01:06:27",
       "message": "[PROCESSING] Analyzing: Pros and Cons of MCU Hardware and Software Peripherals..."
+    },
+    {
+      "timestamp": "2026-07-22 01:06:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Pros and Cons of MCU Hardware and Software Peripherals"
     }
   ]
 }
