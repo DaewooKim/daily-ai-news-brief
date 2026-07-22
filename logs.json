@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 14:18:43",
+  "last_updated": "2026-07-22 14:18:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 14:17:57",
-      "message": "Reprocessing: Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)"
-    },
     {
       "timestamp": "2026-07-22 14:17:59",
       "message": "[PROCESSING] Analyzing: Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 14:18:43",
       "message": "[PROCESSING] Analyzing: The CMMC Pause: The DoD Suspends Phase 2 Requirements..."
+    },
+    {
+      "timestamp": "2026-07-22 14:18:46",
+      "message": "[SKIP] Irrelevant (AI Filter): The CMMC Pause: The DoD Suspends Phase 2 Requirements"
     }
   ]
 }
