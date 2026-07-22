@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 00:00:26",
+  "last_updated": "2026-07-22 00:00:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 23:59:44",
-      "message": "[PROCESSING] Analyzing: Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours (Juby Babu/Reuters)..."
-    },
     {
       "timestamp": "2026-07-21 23:59:46",
       "message": "[SKIP] Irrelevant (AI Filter): Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours (Juby Babu/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 00:00:26",
       "message": "[SUCCESS] Processed: \ub354 \uc774\uc0c1 GPU\ub97c \ucd94\uac00\ud558\uc9c0 \ub9c8\uc138\uc694: Weka\uc758 \uc0c8\ub85c\uc6b4 \uc2a4\ud1a0\ub9ac\uc9c0 \ud50c\ub7ab\ud3fc\uc740 AI \ubaa8\ub378\uc758 \uc0ac\uc804 \uacc4\uc0b0\ub41c \ud1a0\ud070 100%\ub97c \uce90\uc2f1\ud558\uc5ec \ubd80\ud558\ub97c \uc904\uc785\ub2c8\ub2e4\n  > Summary: Weka\uc758 NeuralMesh 6 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud50c\ub7ab\ud3fc\uc740 AI \ubaa8\ub378\uc758 GPU \uba54\ubaa8\ub9ac \uc18c\ube44\ub97c \uc904..."
+    },
+    {
+      "timestamp": "2026-07-22 00:00:28",
+      "message": "Reprocessing: NXP Unveils Single-Chip Automotive Audio and Radio Processor"
     }
   ]
 }
