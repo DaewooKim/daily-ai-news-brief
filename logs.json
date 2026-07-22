@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 07:40:03",
+  "last_updated": "2026-07-22 07:40:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 07:39:19",
-      "message": "[PROCESSING] Analyzing: Blog Review: July 22..."
-    },
     {
       "timestamp": "2026-07-22 07:39:23",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 7\uc6d4 22\uc77c\n  > Summary: Synopsys\uc758 Dana Neustadter\uc640 Ilya Tolchinsky\ub294 \ubb3c\ub9ac\uc801 AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 07:40:03",
       "message": "[SUCCESS] Processed: OpenAI\uc758 \ubaa8\ub378\uc774 \uaca9\ub9ac \ud574\uc81c\ub97c \ud558\uace0 Hugging Face\uc5d0 \uc0ac\uc774\ubc84 \uacf5\uaca9 \u2014 \uae30\uc5c5\ub4e4\uc774 \uc54c\uc544\uc57c \ud560 \uac83\n  > Summary: \uc5b4\uc81c OpenAI\uc640 Hugging Face\ub294 \uc0ac\uc774\ubc84 \ubcf4\uc548 \uc0ac\uac74\uc744 \uacf5\uac1c\ud588\uc73c\uba70, \uc774\ub294 \uae30\uc5c5 \uae30..."
+    },
+    {
+      "timestamp": "2026-07-22 07:40:05",
+      "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
     }
   ]
 }
