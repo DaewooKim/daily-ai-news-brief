@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 00:00:07",
+  "last_updated": "2026-07-22 00:00:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-21 23:59:28",
-      "message": "[PROCESSING] Analyzing: Documents: Meta's internal AI incubator is developing an AI model router, similar to OpenRouter's, to cut costs by sending some AI tasks to lower-cost models (Jyoti Mann/The Information)..."
-    },
     {
       "timestamp": "2026-07-21 23:59:31",
       "message": "[SUCCESS] Processed: \uba54\ud0c0\uc758 \ub0b4\ubd80 AI \uc778\ud050\ubca0\uc774\ud130\uac00 \ube44\uc6a9 \uc808\uac10\uc744 \uc704\ud574 \uc800\ube44\uc6a9 \ubaa8\ub378\ub85c AI \uc791\uc5c5\uc744 \uc804\uc1a1\ud558\ub294 AI \ubaa8\ub378 \ub77c\uc6b0\ud130\ub97c \uac1c\ubc1c\ud558\uace0 \uc788\ub2e4\n  > Summary: \uba54\ud0c0 \ud50c\ub7ab\ud3fc\uc758 \ub0b4\ubd80 AI \uc778\ud050\ubca0\uc774\ud130\uac00 OpenRouter\uc640 \uc720\uc0ac\ud55c AI \ubaa8\ub378 \ub77c\uc6b0\ud130\ub97c \uac1c\ubc1c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 00:00:07",
       "message": "[PROCESSING] Analyzing: Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion..."
+    },
+    {
+      "timestamp": "2026-07-22 00:00:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion"
     }
   ]
 }
