@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-22 18:43:03",
+  "last_updated": "2026-07-22 18:43:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-22 18:42:15",
-      "message": "[PROCESSING] Analyzing: Apple is reportedly testing a MacBook Neo with more RAM..."
-    },
     {
       "timestamp": "2026-07-22 18:42:18",
       "message": "[SKIP] Irrelevant (AI Filter): Apple is reportedly testing a MacBook Neo with more RAM"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-22 18:43:03",
       "message": "[SUCCESS] Processed: Kimi K3: \uc624\ud508 \uac00\uc911\uce58\uc758 \uaca9\uc0c1\n  > Summary: 2023\ub144 7\uc6d4 16\uc77c, Moonshot AI\ub294 \uc790\uc0ac\uc758 \ucd5c\uc2e0 \ubaa8\ub378 Kimi K3\ub97c \ubc1c\ud45c\ud588\uc2b5..."
+    },
+    {
+      "timestamp": "2026-07-22 18:43:04",
+      "message": "Reprocessing: Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++"
     }
   ]
 }
