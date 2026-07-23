@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 20:05:27",
+  "last_updated": "2026-07-23 20:05:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 20:04:46",
-      "message": "[SUCCESS] Processed: \uc5d0\ub9ad \ud2b8\ub7fc\ud504\uac00 \uc9c0\uc6d0\ud558\ub294 \ud30c\uc6b4\ub370\uc774\uc158 \ud4e8\ucc98 \uc778\ub354\uc2a4\ud2b8\ub9ac\uc2a4, AMD\uc640 \ud30c\ud2b8\ub108\uc2ed\uc744 \ub9fa\uace0 AMD \ub77c\uc774\uc820 AI \uc784\ubca0\ub514\ub4dc X100 \uc2dc\ub9ac\uc988 \uce69\uc744 \uc0ac\uc6a9\ud558\ub294 \uc790\uc728 \ud734\uba38\ub178\uc774\ub4dc \ub85c\ubd07 \uac1c\ubc1c\n  > Summary: \uc5d0\ub9ad \ud2b8\ub7fc\ud504\uac00 \uc9c0\uc6d0\ud558\ub294 \ud30c\uc6b4\ub370\uc774\uc158 \ud4e8\ucc98 \uc778\ub354\uc2a4\ud2b8\ub9ac\uc2a4\uac00 AMD\uc640 \ud611\ub825\ud558\uc5ec AMD \ub77c\uc774\uc820 AI..."
-    },
     {
       "timestamp": "2026-07-23 20:04:48",
       "message": "[PROCESSING] Analyzing: AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M (Marina Temkin/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 20:05:27",
       "message": "[PROCESSING] Analyzing: Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M (Duncan Riley/SiliconANGLE)..."
+    },
+    {
+      "timestamp": "2026-07-23 20:05:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M (Duncan Riley/SiliconANGLE)"
     }
   ]
 }
