@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 16:42:12",
+  "last_updated": "2026-07-23 16:42:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 16:41:22",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-23 16:41:34",
       "message": "Found 163 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 16:42:12",
       "message": "[PROCESSING] Analyzing: Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit..."
+    },
+    {
+      "timestamp": "2026-07-23 16:42:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit"
     }
   ]
 }
