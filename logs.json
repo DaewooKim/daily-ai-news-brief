@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 02:29:10",
+  "last_updated": "2026-07-23 02:29:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 02:28:35",
-      "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
-    },
     {
       "timestamp": "2026-07-23 02:28:36",
       "message": "[PROCESSING] Analyzing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 02:29:10",
       "message": "Reprocessing: ServiceNow beats estimates and raises outlook as AI passes $1B in bookings"
+    },
+    {
+      "timestamp": "2026-07-23 02:29:12",
+      "message": "[SKIP] Content too short: ServiceNow beats estimates and..."
     }
   ]
 }
