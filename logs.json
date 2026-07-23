@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 02:27:30",
+  "last_updated": "2026-07-23 02:27:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 02:26:51",
-      "message": "[SUCCESS] Processed: \uad6d\uac00 \uacfc\ud559\uc758 \ub2e4\uc74c \uc2dc\ub300\ub97c \ubc1c\uc804\uc2dc\ud0a4\uae30\n  > Summary: OpenAI\ub294 \ubbf8\uad6d \uc5d0\ub108\uc9c0\ubd80 \ubc0f \uad6d\uac00 \uc5f0\uad6c\uc18c\uc640 \ud611\ub825\ud558\uc5ec \ucd5c\ucca8\ub2e8 AI\ub97c \ud65c\uc6a9\ud574 \uacfc\ud559 \ubc1c\uacac\uc744 ..."
-    },
     {
       "timestamp": "2026-07-23 02:26:53",
       "message": "Reprocessing: NTT DATA Group cuts incident analysis to 30 minutes with Codex"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 02:27:30",
       "message": "[PROCESSING] Analyzing: Carbon Nanotube Firm Strengthens Executive Team to Build CNT Ecosystem..."
+    },
+    {
+      "timestamp": "2026-07-23 02:27:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Carbon Nanotube Firm Strengthens Executive Team to Build CNT Ecosystem"
     }
   ]
 }
