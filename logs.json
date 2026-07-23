@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 10:08:33",
+  "last_updated": "2026-07-23 10:08:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 10:07:53",
-      "message": "[SUCCESS] Processed: AI \uc0b0\uc5c5\uc774 \uace0\uc704 \uad50\uc218\uc9c4\uc744 \ubaa8\uc9d1\ud568\uc5d0 \ub530\ub77c, \ud55c\ub54c \uacf5\uac1c\uc801\uc73c\ub85c \uc774\ub8e8\uc5b4\uc84c\ub358 \uc5f0\uad6c\uac00 \uc810\uc810 \ube44\uacf5\uc2dd\uc801\uc73c\ub85c \uc7a0\uaca8\uac00\uace0 \uc788\ub2e4\n  > Summary: AI \uc0b0\uc5c5\uc774 \uace0\uc704 \uad50\uc218\uc9c4\uc744 \ubaa8\uc9d1\ud558\uba74\uc11c, \ud55c\ub54c \uacf5\uac1c\uc801\uc73c\ub85c \uc9c4\ud589\ub418\ub358 \uc5f0\uad6c\ub4e4\uc774 \uc810\uc810 \ube44\uacf5\uc2dd\uc801\uc778 ..."
-    },
     {
       "timestamp": "2026-07-23 10:07:54",
       "message": "[PROCESSING] Analyzing: A profile of Peter Beck, the New Zealand billionaire whose Rocket Lab is pushing to compete with the satellite internet ambitions of Elon Musk and Jeff Bezos (Nic Fildes/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 10:08:33",
       "message": "[PROCESSING] Analyzing: Pros and Cons of MCU Hardware and Software Peripherals..."
+    },
+    {
+      "timestamp": "2026-07-23 10:08:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Pros and Cons of MCU Hardware and Software Peripherals"
     }
   ]
 }
