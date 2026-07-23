@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 11:14:09",
+  "last_updated": "2026-07-23 11:14:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 11:13:27",
-      "message": "[SUCCESS] Processed: \ub9c8\ud06c \uc800\ucee4\ubc84\uadf8, \ud68c\uc0ac\uc758 AI \uac1c\ubc1c\uc744 \uacbd\uc7c1\uc0ac\ub4e4\uc758 '\ub514\uc2a4\ud1a0\ud53c\uc544\uc801' \uc544\uc774\ub514\uc5b4\uc5d0 \ub300\ud55c \ub099\uad00\uc801\uc774\uace0 \uc778\uac04 \uc911\uc2ec\uc758 \ub300\uc548\uc73c\ub85c \ud3ec\uc9c0\uc154\ub2dd\ud558\ub294 \ubbf8\ub514\uc5b4 \ucea0\ud398\uc778 \uc2dc\uc791\n  > Summary: \ub9c8\ud06c \uc800\ucee4\ubc84\uadf8\ub294 \uba54\ud0c0\uc758 AI \uac1c\ubc1c\uc744 \uae0d\uc815\uc801\uc778 \ubbf8\ub798\ub85c \uc81c\uc2dc\ud558\uba70, \uacbd\uc7c1\uc0ac\ub4e4\uc758 \ub514\uc2a4\ud1a0\ud53c\uc544\uc801 \uc811\uadfc..."
-    },
     {
       "timestamp": "2026-07-23 11:13:29",
       "message": "[PROCESSING] Analyzing: Google launches a selfie video sign-in option for account recovery, utilizing tools like liveness detection to mitigate deepfake risks, rolling out globally (Reece Rogers/Wired)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 11:14:09",
       "message": "[SKIP] Irrelevant (AI Filter): Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion"
+    },
+    {
+      "timestamp": "2026-07-23 11:14:10",
+      "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
     }
   ]
 }
