@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 07:55:20",
+  "last_updated": "2026-07-23 07:55:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 07:54:39",
-      "message": "Reprocessing: ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push"
-    },
     {
       "timestamp": "2026-07-23 07:54:40",
       "message": "[PROCESSING] Analyzing: ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 07:55:20",
       "message": "[PROCESSING] Analyzing: Nisshinbo Micro Devices Expands High-Voltage IC Lineup for Next-Gen Automotive 48 V Systems..."
+    },
+    {
+      "timestamp": "2026-07-23 07:55:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Nisshinbo Micro Devices Expands High-Voltage IC Lineup for Next-Gen Automotive 48 V Systems"
     }
   ]
 }
