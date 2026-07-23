@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 22:20:09",
+  "last_updated": "2026-07-23 22:20:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 22:19:28",
-      "message": "[SKIP] Irrelevant (AI Filter): Oracle signs 10-year software contract with Pentagon worth up to $7 billion (Jordan Novet/CNBC)"
-    },
     {
       "timestamp": "2026-07-23 22:19:29",
       "message": "[PROCESSING] Analyzing: Intel reports Q2 revenue up 25% YoY to $16.1B, vs. $14.42B est., its fastest sales growth in ~15 years on \"unprecedented\" demand; INTC jumps 10%+ after hours (Kif Leswing/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 22:20:09",
       "message": "[SUCCESS] Processed: AI \ucef4\ud4e8\ud305 \uaca9\ucc28: \uae30\uc5c5\ub4e4\uc740 \ube44\uc6a9\uc744 \uce21\uc815\ud560 \uc218 \uc788\ub294 \uac83\ubcf4\ub2e4 \ub354 \ube60\ub974\uac8c \uc778\ud504\ub77c\ub97c \uad6c\ub9e4\ud558\uace0 \uc788\ub2e4\n  > Summary: AI \uc778\ud504\ub77c \uc9c0\ucd9c\uc774 \uc99d\uac00\ud558\uace0 \uc788\uc9c0\ub9cc \uae30\uc5c5\ub4e4\uc740 \uadf8 \uacbd\uc81c\uc131\uc744 \uba85\ud655\ud788 \uc774\ud574\ud558\uc9c0 \ubabb\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
+    },
+    {
+      "timestamp": "2026-07-23 22:20:10",
+      "message": "Reprocessing: The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials"
     }
   ]
 }
