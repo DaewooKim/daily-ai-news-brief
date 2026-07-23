@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 16:43:05",
+  "last_updated": "2026-07-23 16:43:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 16:42:27",
-      "message": "[SUCCESS] Processed: NVIDIA TensorRT \uc5d4\uc9c4 \ube4c\ub4dc\ub97c \ud30c\uc774\uc36c \ub610\ub294 C++\uc5d0\uc11c \uad00\ucc30 \uac00\ub2a5\ud558\uace0 \ucde8\uc18c\ud560 \uc218 \uc788\ub3c4\ub85d \ub9cc\ub4e4\uae30\n  > Summary: TensorRT \uc5d4\uc9c4 \ube4c\ub4dc\ub294 \uba87 \ucd08\uc5d0\uc11c \uba87 \ubd84\uc774 \uac78\ub9b4 \uc218 \uc788\uc73c\uba70, \ub300\ud615 \ubaa8\ub378\uacfc \uc0c8\ub85c\uc6b4 GP..."
-    },
     {
       "timestamp": "2026-07-23 16:42:29",
       "message": "Reprocessing: SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 16:43:05",
       "message": "[PROCESSING] Analyzing: Passionfroot raises $15M to expand its B2B creator marketplace to the US..."
+    },
+    {
+      "timestamp": "2026-07-23 16:43:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Passionfroot raises $15M to expand its B2B creator marketplace to the US"
     }
   ]
 }
