@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 17:50:07",
+  "last_updated": "2026-07-23 17:50:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 17:49:26",
-      "message": "Reprocessing: After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe"
-    },
     {
       "timestamp": "2026-07-23 17:49:28",
       "message": "[PROCESSING] Analyzing: After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 17:50:07",
       "message": "[PROCESSING] Analyzing: PJM Issued First Backup-Generator Warnings During Heat Wave..."
+    },
+    {
+      "timestamp": "2026-07-23 17:50:09",
+      "message": "[SKIP] Irrelevant (AI Filter): PJM Issued First Backup-Generator Warnings During Heat Wave"
     }
   ]
 }
