@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 04:39:43",
+  "last_updated": "2026-07-23 04:39:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 04:39:05",
-      "message": "[PROCESSING] Analyzing: IBM reports Q2 revenue up 1% YoY to $17.2B, vs. $17.6B est., infrastructure revenue down 7% to $3.8B, Z mainframe revenue down 42%, and lowers its 2026 forecast (Jordan Novet/CNBC)..."
-    },
     {
       "timestamp": "2026-07-23 04:39:07",
       "message": "[SKIP] Irrelevant (AI Filter): IBM reports Q2 revenue up 1% YoY to $17.2B, vs. $17.6B est., infrastructure revenue down 7% to $3.8B, Z mainframe revenue down 42%, and lowers its 2026 forecast (Jordan Novet/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 04:39:43",
       "message": "Reprocessing: AI infrastructure demand is outrunning even the boldest supply chain playbooks"
+    },
+    {
+      "timestamp": "2026-07-23 04:39:44",
+      "message": "[SKIP] Content too short: AI infrastructure demand is ou..."
     }
   ]
 }
