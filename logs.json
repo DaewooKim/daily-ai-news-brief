@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 21:13:03",
+  "last_updated": "2026-07-23 21:13:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 21:12:21",
-      "message": "[PROCESSING] Analyzing: Filing: the value of Alphabet's investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake (Davey Alba/Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-23 21:12:24",
       "message": "[SUCCESS] Processed: Alphabet\uc758 \ube44\uacf5\uc2dd \ud68c\uc0ac \ud22c\uc790 \uac00\uce58\ub294 6\uc6d4 30\uc77c \uae30\uc900\uc73c\ub85c \uc57d 1243\uc5b5 \ub2ec\ub7ec\ub85c \ucd94\uc815, \uc18c\uc2dd\ud1b5\uc5d0 \ub530\ub974\uba74 \uc8fc\ub85c Anthropic \uc9c0\ubd84\uc5d0 \uc758\ud574 \uc601\ud5a5\uc744 \ubc1b\uc74c\n  > Summary: \uc54c\ud30c\ubcb3\uc758 \ube44\uacf5\uc2dd \ud68c\uc0ac\uc5d0 \ub300\ud55c \ud22c\uc790 \uac00\uce58\ub294 6\uc6d4 30\uc77c \uae30\uc900\uc73c\ub85c \uc57d 1243\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud558\uba70..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 21:13:03",
       "message": "[PROCESSING] Analyzing: Primate Labs releases Geekbench 7, featuring larger, more demanding datasets for CPUs and GPUs, along with new video and audio encoding/decoding tests, and more (Antonio G. Di Benedetto/The Verge)..."
+    },
+    {
+      "timestamp": "2026-07-23 21:13:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Primate Labs releases Geekbench 7, featuring larger, more demanding datasets for CPUs and GPUs, along with new video and audio encoding/decoding tests, and more (Antonio G. Di Benedetto/The Verge)"
     }
   ]
 }
