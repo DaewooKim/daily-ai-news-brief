@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 14:32:03",
+  "last_updated": "2026-07-23 14:32:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 14:31:17",
-      "message": "[PROCESSING] Analyzing: STMicro forecasts Q3 revenue up ~16% YoY to $3.7B, below $3.79B est., and expects AI sales to pass $1B in 2026 and be \"well above $2B\" in 2027; STM falls 14%+ (Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-23 14:31:20",
       "message": "[SUCCESS] Processed: STMicro, 3\ubd84\uae30 \ub9e4\ucd9c 16% \uc99d\uac00 \uc608\uce21\ud558\uc5ec 37\uc5b5 \ub2ec\ub7ec, \uc608\uc0c1\uce58 37.9\uc5b5 \ub2ec\ub7ec \ud558\ud68c, 2026\ub144 AI \ub9e4\ucd9c 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1, 2027\ub144 20\uc5b5 \ub2ec\ub7ec \uc774\uc0c1 \uc608\uc0c1; STM 14% \uc774\uc0c1 \ud558\ub77d (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: STMicroelectronics\uac00 3\ubd84\uae30 \ub9e4\ucd9c\uc744 \uc804\ub144 \ub300\ube44 \uc57d 16% \uc99d\uac00\ud55c 37\uc5b5 \ub2ec\ub7ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 14:32:03",
       "message": "[PROCESSING] Analyzing: Pros and Cons of MCU Hardware and Software Peripherals..."
+    },
+    {
+      "timestamp": "2026-07-23 14:32:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Pros and Cons of MCU Hardware and Software Peripherals"
     }
   ]
 }
