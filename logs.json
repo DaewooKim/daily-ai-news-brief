@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 22:19:51",
+  "last_updated": "2026-07-23 22:19:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 22:19:11",
-      "message": "[SUCCESS] Processed: \uc2dc\uc5d0\ub77c, 2025\ub144\uc5d0 \uc124\ub9bd\ub41c '\uc7a5\uae30 \uc804\ub9dd' \uc5d0\uc774\uc804\ud2b8\ub97c \uac1c\ubc1c\ud558\ub294 Takeoff \uc778\uc218\n  > Summary: \uc2dc\uc5d0\ub77c\uac00 '\uc7a5\uae30 \uc804\ub9dd' \uc5d0\uc774\uc804\ud2b8\ub97c \uac1c\ubc1c\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 Takeoff\ub97c \uc778\uc218\ud588\ub2e4. Takeof..."
-    },
     {
       "timestamp": "2026-07-23 22:19:13",
       "message": "[PROCESSING] Analyzing: Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 22:19:51",
       "message": "[PROCESSING] Analyzing: FAMES Pilot Line & SiNANO Institute to Present FAMES\u2019 Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain..."
+    },
+    {
+      "timestamp": "2026-07-23 22:19:53",
+      "message": "[SKIP] Irrelevant (AI Filter): FAMES Pilot Line & SiNANO Institute to Present FAMES\u2019 Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain"
     }
   ]
 }
