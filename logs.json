@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 16:44:44",
+  "last_updated": "2026-07-23 16:44:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 16:44:05",
-      "message": "[SUCCESS] Processed: AI \ucd94\ub860 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Etched, Sequoia\uac00 \uc8fc\ub3c4\ud55c 3\uc5b5 \ub2ec\ub7ec \uc2dc\ub9ac\uc988 C \ud380\ub529 \uc644\ub8cc, a16z, SK Hynix \ub4f1 \ucc38\uc5ec, 103\uc5b5 \ub2ec\ub7ec \uac00\uce58 \ud3c9\uac00, 12\uc6d4 50\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c \uc99d\uac00\n  > Summary: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Etched\uac00 Sequoia\uc758 \uc8fc\ub3c4\ub85c 3\uc5b5 \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 C \ud380\ub529\uc744 \uc644\ub8cc..."
-    },
     {
       "timestamp": "2026-07-23 16:44:07",
       "message": "[PROCESSING] Analyzing: The European Commission approves the $55B acquisition of EA by a group of investors including Saudi Arabia's PIF, Silver Lake, and Affinity (Foo Yun Chee/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 16:44:44",
       "message": "[PROCESSING] Analyzing: Low-Power Embedded Design: Are You Optimizing the Wrong Thing?..."
+    },
+    {
+      "timestamp": "2026-07-23 16:44:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Low-Power Embedded Design: Are You Optimizing the Wrong Thing?"
     }
   ]
 }
