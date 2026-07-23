@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 23:26:12",
+  "last_updated": "2026-07-23 23:26:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 23:25:33",
-      "message": "Reprocessing: Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May (Wall Street Journal)"
-    },
     {
       "timestamp": "2026-07-23 23:25:35",
       "message": "[PROCESSING] Analyzing: Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 23:26:12",
       "message": "[PROCESSING] Analyzing: FAMES Pilot Line & SiNANO Institute to Present FAMES\u2019 Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain..."
+    },
+    {
+      "timestamp": "2026-07-23 23:26:15",
+      "message": "[SKIP] Irrelevant (AI Filter): FAMES Pilot Line & SiNANO Institute to Present FAMES\u2019 Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain"
     }
   ]
 }
