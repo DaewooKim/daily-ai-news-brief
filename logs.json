@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 16:45:07",
+  "last_updated": "2026-07-23 16:45:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 16:44:25",
-      "message": "[PROCESSING] Analyzing: Crypto exchange BitMEX says it will close on September 23 and tells users to withdraw assets; Trump pardoned its founders in 2025 for not implementing AML rules (Akanksha Khushi/Reuters)..."
-    },
     {
       "timestamp": "2026-07-23 16:44:27",
       "message": "[SKIP] Irrelevant (AI Filter): Crypto exchange BitMEX says it will close on September 23 and tells users to withdraw assets; Trump pardoned its founders in 2025 for not implementing AML rules (Akanksha Khushi/Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 16:45:07",
       "message": "Reprocessing: Databricks and Microsoft expand Azure partnership into the 2030s"
+    },
+    {
+      "timestamp": "2026-07-23 16:45:09",
+      "message": "[SKIP] Content too short: Databricks and Microsoft expan..."
     }
   ]
 }
