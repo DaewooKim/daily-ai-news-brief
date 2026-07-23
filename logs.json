@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-23 12:20:00",
+  "last_updated": "2026-07-23 12:20:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-23 12:19:19",
-      "message": "[SKIP] Irrelevant (AI Filter): Crypto exchange BitMEX says it will shut down on September 23 and users' assets are safe; Trump pardoned its founders in 2025 for failing to implement AML rules (Akanksha Khushi/Reuters)"
-    },
     {
       "timestamp": "2026-07-23 12:19:21",
       "message": "[PROCESSING] Analyzing: In a leaked four-hour investor talk, DeepSeek's Liang Wenfeng says the main US-China gap is compute access, Nvidia's CUDA moat is disintegrating, and more (Fred Gao/Inside China)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-23 12:20:00",
       "message": "[SKIP] Irrelevant (AI Filter): Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion"
+    },
+    {
+      "timestamp": "2026-07-23 12:20:02",
+      "message": "Reprocessing: Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens"
     }
   ]
 }
