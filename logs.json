@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-24 06:01:41",
+  "last_updated": "2026-07-24 06:01:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 06:00:58",
-      "message": "[PROCESSING] Analyzing: The Echo Show 21 is a great smart home hub that\u2019s $80 off..."
-    },
-    {
-      "timestamp": "2026-07-24 06:01:01",
-      "message": "[SKIP] Irrelevant (AI Filter): The Echo Show 21 is a great smart home hub that\u2019s $80 off"
-    },
     {
       "timestamp": "2026-07-24 06:01:03",
       "message": "[PROCESSING] Analyzing: FCC Chairman Brendan Carr\u2019s war on the First Amendment..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-24 06:01:41",
       "message": "Reprocessing: SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
+    },
+    {
+      "timestamp": "2026-07-24 06:01:43",
+      "message": "[SKIP] Content too short: SymptomAI: Towards a conversat..."
+    },
+    {
+      "timestamp": "2026-07-24 06:01:44",
+      "message": "Reprocessing: Advancing the next era of national science"
     }
   ]
 }
