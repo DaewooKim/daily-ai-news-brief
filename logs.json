@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-24 03:51:16",
+  "last_updated": "2026-07-24 03:51:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 03:50:38",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: AI \ub85c\ubd07 \uc2a4\ud0c0\ud2b8\uc5c5 \uc81c\ub108\uc2dc\uc2a4 AI, 30\uc5b5 \ub2ec\ub7ec\uc758 \uc120\ud22c\uc790 \uac00\uce58\ub85c \uc57d 5\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc790\uae08 \uc870\ub2ec \ud611\uc0c1 \uc911 (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: AI \ub85c\ubd07 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \uc81c\ub108\uc2dc\uc2a4 AI\uac00 \uc57d 5\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc790\uae08 \uc870\ub2ec\uc744 \uc704\ud55c \ud611\uc0c1\uc744 \uc9c4\ud589 ..."
-    },
     {
       "timestamp": "2026-07-24 03:50:40",
       "message": "Reprocessing: AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% (Phoebe Liu/The Information)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-24 03:51:16",
       "message": "[PROCESSING] Analyzing: Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion..."
+    },
+    {
+      "timestamp": "2026-07-24 03:51:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion"
     }
   ]
 }
