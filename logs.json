@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-24 01:36:36",
+  "last_updated": "2026-07-24 01:36:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 01:35:54",
-      "message": "[PROCESSING] Analyzing: The Echo Show 21 is a great smart home hub that\u2019s $80 off..."
-    },
     {
       "timestamp": "2026-07-24 01:35:57",
       "message": "[SKIP] Irrelevant (AI Filter): The Echo Show 21 is a great smart home hub that\u2019s $80 off"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-24 01:36:36",
       "message": "Reprocessing: SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
+    },
+    {
+      "timestamp": "2026-07-24 01:36:38",
+      "message": "[SKIP] Content too short: SymptomAI: Towards a conversat..."
     }
   ]
 }
