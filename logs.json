@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-24 04:55:09",
+  "last_updated": "2026-07-24 04:55:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 04:54:29",
-      "message": "[PROCESSING] Analyzing: The Echo Show 21 is a great smart home hub that\u2019s $80 off..."
-    },
-    {
-      "timestamp": "2026-07-24 04:54:33",
-      "message": "[SKIP] Irrelevant (AI Filter): The Echo Show 21 is a great smart home hub that\u2019s $80 off"
-    },
     {
       "timestamp": "2026-07-24 04:54:34",
       "message": "[PROCESSING] Analyzing: FCC Chairman Brendan Carr\u2019s war on the First Amendment..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-24 04:55:09",
       "message": "Reprocessing: Microsoft Taps AMD For At Scale AI CPU And GPU Clusters"
+    },
+    {
+      "timestamp": "2026-07-24 04:55:11",
+      "message": "[SKIP] Content too short: Microsoft Taps AMD For At Scal..."
+    },
+    {
+      "timestamp": "2026-07-24 04:55:12",
+      "message": "Reprocessing: Google Uses AI Reinforcement Learning For Quantum Error Correction"
     }
   ]
 }
