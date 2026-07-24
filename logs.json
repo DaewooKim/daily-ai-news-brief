@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-24 19:23:22",
+  "last_updated": "2026-07-24 19:23:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 19:22:42",
-      "message": "[SUCCESS] Processed: \uc65c \ucf54\uadf8\ub2c8\uc158\uc774 \ud3ec\ud06c\ub97c \uc778\uc218\ud588\ub294\uac00: AI \uac1c\uc778\uc131\uc774 \uacbd\uc7c1 \uc6b0\uc704\uac00 \ub418\uace0 \uc788\ub2e4\n  > Summary: AI \ucf54\ub529 \uc2a4\ud0c0\ud2b8\uc5c5 \ucf54\uadf8\ub2c8\uc158\uc774 \uce5c\uad6c\ucc98\ub7fc \ub300\ud654\ud560 \uc218 \uc788\ub294 AI \ube44\uc11c \ud3ec\ud06c\ub97c \uc778\uc218\ud588\ub2e4. \uc774\ubc88 ..."
-    },
     {
       "timestamp": "2026-07-24 19:22:44",
       "message": "Reprocessing: As US weighs response to Chinese AI, industry urges against broad open-weight restrictions"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-24 19:23:22",
       "message": "[PROCESSING] Analyzing: Meta launched a new AI optimism ad set to a song about human extinction..."
+    },
+    {
+      "timestamp": "2026-07-24 19:23:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta launched a new AI optimism ad set to a song about human extinction"
     }
   ]
 }
