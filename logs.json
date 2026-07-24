@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-24 02:45:39",
+  "last_updated": "2026-07-24 02:45:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 02:44:54",
-      "message": "Reprocessing: IBM to Acquire HRL Laboratories"
-    },
     {
       "timestamp": "2026-07-24 02:44:56",
       "message": "[PROCESSING] Analyzing: IBM to Acquire HRL Laboratories..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-24 02:45:39",
       "message": "[PROCESSING] Analyzing: Low-Power Embedded Design: Are You Optimizing the Wrong Thing?..."
+    },
+    {
+      "timestamp": "2026-07-24 02:45:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Low-Power Embedded Design: Are You Optimizing the Wrong Thing?"
     }
   ]
 }
