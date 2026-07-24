@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-24 17:07:33",
+  "last_updated": "2026-07-24 17:07:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-24 17:06:51",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, '\ud074\ub85c\ub4dc \uc624\ud37c\uc2a4 5' \ubc1c\ud45c - '\ud074\ub85c\ub4dc \ud398\uc774\ube14 5'\uc758 \ub2a5\ub825\uc5d0 \uadfc\uc811\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ucd5c\uadfc \ud074\ub85c\ub4dc \uc624\ud37c\uc2a4 5 \ubaa8\ub378\uc744 \ubc1c\ud45c\ud558\uc600\ub2e4. \uc774 \ubaa8\ub378\uc740 \ud074\ub85c\ub4dc \ud398\uc774\ube14 5\uc640 \uac70\uc758 ..."
-    },
     {
       "timestamp": "2026-07-24 17:06:53",
       "message": "[PROCESSING] Analyzing: Meta is making its AI chatbot more like an assistant..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-24 17:07:33",
       "message": "[SUCCESS] Processed: NVIDIA OptiX \ud234\ud0b7\uc744 \uc774\uc6a9\ud55c \ub808\uc774 \ud2b8\ub808\uc774\uc2f1 \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \ub514\ubc84\uae45\n  > Summary: NVIDIA OptiX \ub808\uc774 \ud2b8\ub808\uc774\uc2f1 \uc5d4\uc9c4\uc740 GPU\uc5d0\uc11c \ucd5c\uc801\uc758 \ub808\uc774 \ud2b8\ub808\uc774\uc2f1 \uc131\ub2a5\uc744 \ub2ec\uc131\ud558..."
+    },
+    {
+      "timestamp": "2026-07-24 17:07:35",
+      "message": "Reprocessing: Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++"
     }
   ]
 }
