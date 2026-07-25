@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 03:13:20",
+  "last_updated": "2026-07-25 03:13:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 03:12:44",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 \ubaa8\ub4e0 \ubbf8\uad6d \uc0ac\uc6a9\uc790\uc5d0\uac8c ChatGPT Health \uc81c\uacf5\n  > Summary: OpenAI\ub294 \uc774\uc81c \ubaa8\ub4e0 \ubbf8\uad6d \uc0ac\uc6a9\uc790\uc5d0\uac8c ChatGPT Health\ub97c \uc81c\uacf5\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-07-25 03:12:46",
       "message": "[PROCESSING] Analyzing: Meta launched a new AI optimism ad set to a song about human extinction..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 03:13:20",
       "message": "[PROCESSING] Analyzing: An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption (Jonathan Stempel/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-25 03:13:22",
+      "message": "[SKIP] Irrelevant (AI Filter): An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption (Jonathan Stempel/Reuters)"
     }
   ]
 }
