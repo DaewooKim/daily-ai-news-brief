@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 15:15:40",
+  "last_updated": "2026-07-25 15:15:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 15:14:53",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-07-25 15:14:53",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 15:15:40",
       "message": "[PROCESSING] Analyzing: Qualcomm is about to raise prices and that&#8217;s bad news for everyone..."
+    },
+    {
+      "timestamp": "2026-07-25 15:15:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm is about to raise prices and that&#8217;s bad news for everyone"
     }
   ]
 }
