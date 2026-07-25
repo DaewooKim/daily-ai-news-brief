@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 07:36:01",
+  "last_updated": "2026-07-25 07:36:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 07:35:24",
-      "message": "[SUCCESS] Processed: \uc7a5\uae30 \ubaa8\ub378 \uc2dc\ub300\uc758 \uc548\uc804\uc131 \ubc0f \uc815\ub82c\n  > Summary: OpenAI\ub294 \uc7a5\uae30 \uc6b4\uc601 AI \ubaa8\ub378 \ubc30\ud3ec\uc5d0\uc11c\uc758 \uad50\ud6c8\uc744 \uacf5\uc720\ud558\uba70, \uc0c8\ub85c\uc6b4 \uc548\uc804 \uc704\ud5d8, \uad00\ucc30\ub41c..."
-    },
     {
       "timestamp": "2026-07-25 07:35:26",
       "message": "Reprocessing: I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 07:36:01",
       "message": "[PROCESSING] Analyzing: Meta launched a new AI optimism ad set to a song about human extinction..."
+    },
+    {
+      "timestamp": "2026-07-25 07:36:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta launched a new AI optimism ad set to a song about human extinction"
     }
   ]
 }
