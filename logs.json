@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 16:21:19",
+  "last_updated": "2026-07-25 16:21:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 16:20:44",
-      "message": "Found 176 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-25 16:20:44",
       "message": "[PROCESSING] Analyzing: Synth historian Oli Freke will spend big on a good bicycle..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 16:21:19",
       "message": "[PROCESSING] Analyzing: Qualcomm is about to raise prices and that&#8217;s bad news for everyone..."
+    },
+    {
+      "timestamp": "2026-07-25 16:21:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm is about to raise prices and that&#8217;s bad news for everyone"
     }
   ]
 }
