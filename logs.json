@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 03:13:09",
+  "last_updated": "2026-07-25 03:13:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 03:12:31",
-      "message": "[SUCCESS] Processed: AMD\uac00 \uc778\uacf5\uc9c0\ub2a5 \ud5ec\ub9ac\uc624\uc2a4 \ub799 \uc2a4\ucf00\uc77c \uc2dc\uc2a4\ud15c\uc73c\ub85c \uc5d4\ube44\ub514\uc544\uc5d0 \ub3c4\uc804\ud558\ub2e4\n  > Summary: AMD\uac00 \uc790\uc0ac\uc758 \uc0c8\ub85c\uc6b4 \ub799 \uc2a4\ucf00\uc77c \uc2dc\uc2a4\ud15c\uc778 \ud5ec\ub9ac\uc624\uc2a4\ub97c \ubc1c\ud45c\ud558\uba70 \uacbd\uc7c1\uc0ac\uc778 \uc5d4\ube44\ub514\uc544\uc5d0 \ub3c4\uc804\uc7a5\uc744..."
-    },
     {
       "timestamp": "2026-07-25 03:12:33",
       "message": "Reprocessing: AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 03:13:09",
       "message": "[PROCESSING] Analyzing: Lawsuit Tests Water Strategy Behind California\u2019s Lithium Valley..."
+    },
+    {
+      "timestamp": "2026-07-25 03:13:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Lawsuit Tests Water Strategy Behind California\u2019s Lithium Valley"
     }
   ]
 }
