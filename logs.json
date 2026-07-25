@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 08:41:13",
+  "last_updated": "2026-07-25 08:41:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 08:40:35",
-      "message": "[PROCESSING] Analyzing: Forget expensive sleepbuds. Buy this pillow instead..."
-    },
     {
       "timestamp": "2026-07-25 08:40:37",
       "message": "[SKIP] Irrelevant (AI Filter): Forget expensive sleepbuds. Buy this pillow instead"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 08:41:13",
       "message": "Reprocessing: SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
+    },
+    {
+      "timestamp": "2026-07-25 08:41:15",
+      "message": "[SKIP] Content too short: SymptomAI: Towards a conversat..."
     }
   ]
 }
