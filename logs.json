@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-25 10:53:15",
+  "last_updated": "2026-07-25 10:53:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 10:52:38",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-07-25 10:52:38",
-      "message": "[PROCESSING] Analyzing: Forget expensive sleepbuds. Buy this pillow instead..."
-    },
     {
       "timestamp": "2026-07-25 10:52:41",
       "message": "[SKIP] Irrelevant (AI Filter): Forget expensive sleepbuds. Buy this pillow instead"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-25 10:53:15",
       "message": "[SKIP] Irrelevant (AI Filter): You can\u2019t ignore Google Zero anymore"
+    },
+    {
+      "timestamp": "2026-07-25 10:53:16",
+      "message": "Reprocessing: SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
+    },
+    {
+      "timestamp": "2026-07-25 10:53:17",
+      "message": "[SKIP] Content too short: SymptomAI: Towards a conversat..."
     }
   ]
 }
