@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 22:57:02",
+  "last_updated": "2026-07-25 22:57:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 22:56:23",
-      "message": "[PROCESSING] Analyzing: EMASS, Bosch Sensortec Collaborate on Asset Tracking Platform..."
-    },
     {
       "timestamp": "2026-07-25 22:56:31",
       "message": "[SUCCESS] Processed: EMASS, Bosch Sensortec \ud611\ub825\ud558\uc5ec \uc790\uc0b0 \ucd94\uc801 \ud50c\ub7ab\ud3fc \uac1c\ubc1c\n  > Summary: EMASS\ub294 Bosch Sensortec\uc640 \ud611\ub825\ud558\uc5ec \uc9c0\ub2a5\ud615 \uc790\uc0b0 \ucd94\uc801\uc744 \uc704\ud55c \ucc38\uc870 \uc544\ud0a4\ud14d\ucc98..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 22:57:02",
       "message": "Reprocessing: Anthropic launches Claude Opus 5 with efficiency, safety improvements"
+    },
+    {
+      "timestamp": "2026-07-25 22:57:04",
+      "message": "[SKIP] Content too short: Anthropic launches Claude Opus..."
     }
   ]
 }
