@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 20:44:35",
+  "last_updated": "2026-07-25 20:44:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 20:43:59",
-      "message": "Reprocessing: NTT DATA Group cuts incident analysis to 30 minutes with Codex"
-    },
     {
       "timestamp": "2026-07-25 20:44:01",
       "message": "[PROCESSING] Analyzing: NTT DATA Group cuts incident analysis to 30 minutes with Codex..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 20:44:35",
       "message": "[PROCESSING] Analyzing: Supply Chain Leaders\u2019 New Math for Network Decisions..."
+    },
+    {
+      "timestamp": "2026-07-25 20:44:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Supply Chain Leaders\u2019 New Math for Network Decisions"
     }
   ]
 }
