@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-25 09:47:04",
+  "last_updated": "2026-07-25 09:47:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-25 09:46:13",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-25 09:46:27",
       "message": "Found 189 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-25 09:47:04",
       "message": "[PROCESSING] Analyzing: You can\u2019t ignore Google Zero anymore..."
+    },
+    {
+      "timestamp": "2026-07-25 09:47:06",
+      "message": "[SKIP] Irrelevant (AI Filter): You can\u2019t ignore Google Zero anymore"
     }
   ]
 }
