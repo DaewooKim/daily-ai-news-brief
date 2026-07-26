@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 19:33:12",
+  "last_updated": "2026-07-26 19:33:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 19:32:34",
-      "message": "[SUCCESS] Processed: \ubbf8\ub4dc\uc800\ub2c8, \uc810\uc131\uc220 \uc571 \ucf54\uc2a4\ud0c0\ub97c \uc778\uc218\ud558\ub2e4\n  > Summary: AI \uc5f0\uad6c\uc18c \ubbf8\ub4dc\uc800\ub2c8\uac00 \uc774\ubbf8\uc9c0 \ubc0f \ube44\ub514\uc624 \uc0dd\uc131 \ubd84\uc57c\ub97c \ub118\uc5b4 \uc0ac\uc5c5\uc744 \ud655\uc7a5\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ucd5c\uadfc..."
-    },
     {
       "timestamp": "2026-07-26 19:32:35",
       "message": "Reprocessing: OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 19:33:12",
       "message": "[PROCESSING] Analyzing: Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' \"de minimis\" rule removal (Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-26 19:33:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' \"de minimis\" rule removal (Reuters)"
     }
   ]
 }
