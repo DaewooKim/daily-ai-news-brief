@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 05:28:28",
+  "last_updated": "2026-07-26 05:28:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 05:27:48",
-      "message": "[SUCCESS] Processed: \uc5d8\ub9ac\uc624, \uc778\uac04 \ube44\uc804\ubcf4\ub2e4 AI\ub97c \uc704\ud574 \uc124\uacc4\ub41c \uc0c8\ub85c\uc6b4 \uc720\ud615\uc758 \uc774\ubbf8\uc9c0 \uc13c\uc11c \uac1c\ubc1c\ub85c 2100\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \uc720\uce58\n  > Summary: \uc5d8\ub9ac\uc624\ub294 \uc778\uac04\uc758 \uc2dc\uac01\ubcf4\ub2e4 AI\ub97c \uc704\ud574 \uc124\uacc4\ub41c \uc0c8\ub85c\uc6b4 \uc720\ud615\uc758 \uc774\ubbf8\uc9c0 \uc13c\uc11c\ub97c \uac1c\ubc1c\ud558\uace0 \uc788\uc73c\uba70,..."
-    },
     {
       "timestamp": "2026-07-26 05:27:50",
       "message": "[PROCESSING] Analyzing: China's market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 05:28:28",
       "message": "[PROCESSING] Analyzing: FAMES Pilot Line & SiNANO Institute to Present FAMES\u2019 Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain..."
+    },
+    {
+      "timestamp": "2026-07-26 05:28:30",
+      "message": "[SKIP] Irrelevant (AI Filter): FAMES Pilot Line & SiNANO Institute to Present FAMES\u2019 Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain"
     }
   ]
 }
