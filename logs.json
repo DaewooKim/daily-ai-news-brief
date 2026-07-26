@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 18:27:13",
+  "last_updated": "2026-07-26 18:27:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 18:26:36",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-26 18:26:36",
       "message": "[PROCESSING] Analyzing: Carrie is just trying to make a friend in the new trailer..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 18:27:13",
       "message": "[PROCESSING] Analyzing: What Surrounds Us will make you think a lot about circles..."
+    },
+    {
+      "timestamp": "2026-07-26 18:27:15",
+      "message": "[SKIP] Irrelevant (AI Filter): What Surrounds Us will make you think a lot about circles"
     }
   ]
 }
