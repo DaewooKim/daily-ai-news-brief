@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 15:14:28",
+  "last_updated": "2026-07-26 15:14:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 15:13:50",
-      "message": "[PROCESSING] Analyzing: IBM to Acquire HRL Laboratories..."
-    },
     {
       "timestamp": "2026-07-26 15:13:53",
       "message": "[SUCCESS] Processed: IBM, HRL \uc5f0\uad6c\uc18c \uc778\uc218 \ubc1c\ud45c\n  > Summary: IBM\uc740 HRL \uc5f0\uad6c\uc18c\ub97c \uc778\uc218\ud558\uae30\ub85c \ud569\uc758\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. HRL\uc740 \ubcf4\uc789\uacfc GM\uc774 \uacf5\ub3d9 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 15:14:28",
       "message": "[SKIP] Content too short: AMD targets physical AI comput..."
+    },
+    {
+      "timestamp": "2026-07-26 15:14:30",
+      "message": "Reprocessing: AWS EC2 compute evolves to meet agentic AI and physical AI demand"
     }
   ]
 }
