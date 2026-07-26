@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 08:43:28",
+  "last_updated": "2026-07-26 08:43:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 08:42:52",
-      "message": "[SUCCESS] Processed: OpenAI\uc758 \uc0c8\ub85c\uc6b4 \uc74c\uc131 \ubaa8\ub4dc\uac00 ChatGPT \ub370\uc2a4\ud06c\ud0d1 \uc571\uc5d0 \ub4f1\uc7a5\ud558\ub2e4\n  > Summary: OpenAI\ub294 ChatGPT \ub370\uc2a4\ud06c\ud0d1 \uc571\uc5d0 \uc74c\uc131 \ubaa8\ub4dc\ub97c \ucd94\uac00\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uae30\ub2a5\uc740 ChatG..."
-    },
     {
       "timestamp": "2026-07-26 08:42:53",
       "message": "Reprocessing: AMD takes on Nvidia with its Helios AI rack-scale system"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 08:43:28",
       "message": "[PROCESSING] Analyzing: China's market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market (Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-26 08:43:30",
+      "message": "[SKIP] Irrelevant (AI Filter): China's market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market (Reuters)"
     }
   ]
 }
