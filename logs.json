@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 01:05:27",
+  "last_updated": "2026-07-26 01:05:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 01:04:47",
-      "message": "Found 175 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-26 01:04:47",
       "message": "[PROCESSING] Analyzing: Google basically confirms the Pixel 11 is getting a price hike..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 01:05:27",
       "message": "[PROCESSING] Analyzing: Meta just created a moderation nightmare for its smart glasses..."
+    },
+    {
+      "timestamp": "2026-07-26 01:05:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta just created a moderation nightmare for its smart glasses"
     }
   ]
 }
