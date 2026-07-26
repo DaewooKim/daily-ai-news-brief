@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-26 19:32:06",
+  "last_updated": "2026-07-26 19:32:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-26 19:31:20",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-07-26 19:31:20",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-26 19:32:06",
       "message": "[PROCESSING] Analyzing: Warner Bros. is suing Amazon for poaching employees..."
+    },
+    {
+      "timestamp": "2026-07-26 19:32:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Warner Bros. is suing Amazon for poaching employees"
     }
   ]
 }
