@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-27 09:41:38",
+  "last_updated": "2026-07-27 09:41:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-27 09:40:57",
-      "message": "[SUCCESS] Processed: AI \uae30\uc5c5\ub4e4\uc774 \uad50\uc721 \uc2dc\uc7a5\uc744 \uaca8\ub0e5\ud558\ub294 \ubc29\ubc95: \ud559\uad50 \ubc0f \uc5d0\ub4c0\ud14c\ud06c \uc2a4\ud0c0\ud2b8\uc5c5\uacfc\uc758 \ud30c\ud2b8\ub108\uc2ed\uc744 \ud1b5\ud574 \ubb34\ub8cc \ub610\ub294 \uc800\uac00 \ub9de\ucda4\ud615 \ud559\uc2b5 \ub3c4\uad6c \uc81c\uacf5\n  > Summary: AI \uae30\uc5c5\ub4e4\uc774 \uad50\uc721 \uc2dc\uc7a5\uc5d0 \uc9c4\ucd9c\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. Anthropic\uacfc OpenAI\uc640 \uac19\uc740 \uae30\uc5c5..."
-    },
     {
       "timestamp": "2026-07-27 09:40:59",
       "message": "[PROCESSING] Analyzing: India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas (Aditya Kalra/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-27 09:41:38",
       "message": "[PROCESSING] Analyzing: Low-Power Embedded Design: Are You Optimizing the Wrong Thing?..."
+    },
+    {
+      "timestamp": "2026-07-27 09:41:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Low-Power Embedded Design: Are You Optimizing the Wrong Thing?"
     }
   ]
 }
