@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-27 05:19:31",
+  "last_updated": "2026-07-27 05:19:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-27 05:18:50",
-      "message": "[PROCESSING] Analyzing: Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' \"de minimis\" rule removal (Reuters)..."
-    },
     {
       "timestamp": "2026-07-27 05:18:52",
       "message": "[SKIP] Irrelevant (AI Filter): Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' \"de minimis\" rule removal (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-27 05:19:31",
       "message": "Reprocessing: Nvidia is putting its Vera CPUs to work alongside AI agents to speed up chip design"
+    },
+    {
+      "timestamp": "2026-07-27 05:19:32",
+      "message": "[SKIP] Content too short: Nvidia is putting its Vera CPU..."
     }
   ]
 }
