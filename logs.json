@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-27 00:58:57",
+  "last_updated": "2026-07-27 00:58:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-27 00:58:17",
-      "message": "Reprocessing: CXMT, which raised $9.8B in a hugely oversubscribed Shanghai IPO, is poised for a debut pop that could lift its market cap several times above its initial ~$85B (Bloomberg)"
-    },
     {
       "timestamp": "2026-07-27 00:58:18",
       "message": "[PROCESSING] Analyzing: CXMT, which raised $9.8B in a hugely oversubscribed Shanghai IPO, is poised for a debut pop that could lift its market cap several times above its initial ~$85B (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-27 00:58:57",
       "message": "[PROCESSING] Analyzing: Low-Power Embedded Design: Are You Optimizing the Wrong Thing?..."
+    },
+    {
+      "timestamp": "2026-07-27 00:58:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Low-Power Embedded Design: Are You Optimizing the Wrong Thing?"
     }
   ]
 }
