@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 17:38:27",
+  "last_updated": "2026-07-28 17:38:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 17:37:45",
-      "message": "[SUCCESS] Processed: AMD\uac00 Nvidia\uc5d0 \ub9de\uc11c \ud5ec\ub9ac\uc624\uc2a4 AI \uc2dc\uc2a4\ud15c\uacfc Epyc CPU\ub97c \ucd9c\uc2dc\ud558\ub2e4\n  > Summary: AMD\uc758 \ucd5c\uc2e0 \ud558\ub4dc\uc6e8\uc5b4 \ud601\uc2e0\uc740 AI \uc778\ud504\ub77c \uc2dc\uc7a5\uc744 \uc7ac\ud3b8\ud558\uace0 Nvidia\uc758 \uc9c0\ubc30\uc5d0 \ub3c4\uc804\ud558\uba70 ..."
-    },
     {
       "timestamp": "2026-07-28 17:37:46",
       "message": "[PROCESSING] Analyzing: Anthropic says Claude Mythos Preview was able to break a weaker version of AES and it orchestrated another improved attack against HAWK cryptographic system (Dustin Volz/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 17:38:27",
       "message": "[PROCESSING] Analyzing: GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February (Arasu Kannagi Basil/Reuters)..."
+    },
+    {
+      "timestamp": "2026-07-28 17:38:29",
+      "message": "[SKIP] Irrelevant (AI Filter): GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February (Arasu Kannagi Basil/Reuters)"
     }
   ]
 }
