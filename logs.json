@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 19:49:45",
+  "last_updated": "2026-07-28 19:49:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 19:49:02",
-      "message": "[PROCESSING] Analyzing: Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments..."
-    },
     {
       "timestamp": "2026-07-28 19:49:05",
       "message": "[SKIP] Irrelevant (AI Filter): Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 19:49:45",
       "message": "[PROCESSING] Analyzing: PSA: Your Claude shared chats and Artifacts may have ended up on Google..."
+    },
+    {
+      "timestamp": "2026-07-28 19:49:47",
+      "message": "[SKIP] Irrelevant (AI Filter): PSA: Your Claude shared chats and Artifacts may have ended up on Google"
     }
   ]
 }
