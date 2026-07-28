@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 10:59:49",
+  "last_updated": "2026-07-28 10:59:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 10:59:06",
-      "message": "[PROCESSING] Analyzing: Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24 (Mackenzie Hawkins/Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-28 10:59:08",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \ub300\ub9cc, AI \uce69 \ubc00\uc218 \ud610\uc758\ub85c \uc5d4\ube44\ub514\uc544 \uc9c1\uc6d0 \uad6c\uae08\n  > Summary: \ub300\ub9cc \uac80\ucc30\uc774 AI \uce69\uc744 \uc911\uad6d\uc73c\ub85c \ubc00\uc218\ud55c \ud610\uc758\ub85c \uc5d4\ube44\ub514\uc544 \uc9c1\uc6d0 \ud55c \uba85\uc744 \uad6c\uae08\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc9c1..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 10:59:49",
       "message": "[PROCESSING] Analyzing: Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)..."
+    },
+    {
+      "timestamp": "2026-07-28 10:59:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)"
     }
   ]
 }
