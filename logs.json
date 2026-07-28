@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 19:49:21",
+  "last_updated": "2026-07-28 19:49:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 19:48:37",
-      "message": "Found 141 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-07-28 19:48:37",
       "message": "[PROCESSING] Analyzing: AI leaders sign statement asking the government to do something about automated AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 19:49:21",
       "message": "[PROCESSING] Analyzing: HBO Max is putting on vertical shorts..."
+    },
+    {
+      "timestamp": "2026-07-28 19:49:24",
+      "message": "[SKIP] Irrelevant (AI Filter): HBO Max is putting on vertical shorts"
     }
   ]
 }
