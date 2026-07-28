@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 23:07:02",
+  "last_updated": "2026-07-28 23:07:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 23:06:09",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-28 23:06:25",
       "message": "Found 146 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 23:07:02",
       "message": "[PROCESSING] Analyzing: Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments..."
+    },
+    {
+      "timestamp": "2026-07-28 23:07:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments"
     }
   ]
 }
