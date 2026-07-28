@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 20:55:00",
+  "last_updated": "2026-07-28 20:55:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 20:54:07",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-07-28 20:54:21",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 20:55:00",
       "message": "[PROCESSING] Analyzing: Save $150 on this smart indoor bike trainer that can keep you riding during the off months..."
+    },
+    {
+      "timestamp": "2026-07-28 20:55:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Save $150 on this smart indoor bike trainer that can keep you riding during the off months"
     }
   ]
 }
