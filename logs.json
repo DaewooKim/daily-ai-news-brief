@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 22:01:27",
+  "last_updated": "2026-07-28 22:01:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 22:00:42",
-      "message": "Reprocessing: AI leaders sign statement asking the government to do something about automated AI"
-    },
     {
       "timestamp": "2026-07-28 22:00:44",
       "message": "[PROCESSING] Analyzing: AI leaders sign statement asking the government to do something about automated AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 22:01:27",
       "message": "[PROCESSING] Analyzing: Bot-detection startup Spur nabs $200M from Insight..."
+    },
+    {
+      "timestamp": "2026-07-28 22:01:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Bot-detection startup Spur nabs $200M from Insight"
     }
   ]
 }
