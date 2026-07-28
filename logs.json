@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-28 14:20:09",
+  "last_updated": "2026-07-28 14:20:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-28 14:19:21",
-      "message": "[SUCCESS] Processed: AI \uc74c\uc131 \ubaa8\ub378\uc744 \uc81c\uacf5\ud558\ub294 Fish Audio, 5\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub4dc \ud380\ub529 \uc720\uce58\n  > Summary: Fish Audio\ub294 \ucf58\ud150\uce20 \uc81c\uc791\uc790\uc640 \uae30\uc5c5\uc744 \uc704\ud574 AI \uc74c\uc131 \ubaa8\ub378\uc744 \uc81c\uacf5\ud558\uba70 \uc5f0\uac04 \ubc18\ubcf5 \uc218..."
-    },
     {
       "timestamp": "2026-07-28 14:19:24",
       "message": "[PROCESSING] Analyzing: UK startup Dwelly, which buys real estate businesses and adds AI to handle maintenance, contracts, and other tasks, raised $95M in equity and $75M in debt (Yazhou Sun/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-28 14:20:09",
       "message": "[PROCESSING] Analyzing: European police say Binance's April 2025 policy asking law enforcement to route certain requests to foreign governments significantly delays criminal probes (New York Times)..."
+    },
+    {
+      "timestamp": "2026-07-28 14:20:11",
+      "message": "[SKIP] Irrelevant (AI Filter): European police say Binance's April 2025 policy asking law enforcement to route certain requests to foreign governments significantly delays criminal probes (New York Times)"
     }
   ]
 }
