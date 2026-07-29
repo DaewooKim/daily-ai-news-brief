@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-29 16:45:11",
+  "last_updated": "2026-07-29 16:45:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-29 16:44:16",
-      "message": "[SUCCESS] Processed: \uc2e0\ub86d\uc2dc\uc2a4\uc640 \uc778\ud154 \ud30c\uc6b4\ub4dc\ub9ac, \uc2e4\ub9ac\ucf58\uc5d0\uc11c \uc2dc\uc2a4\ud15c\uc73c\ub85c\uc758 \uace0\uac1d \uc900\ube44 \uc18d\ub3c4 \ud5a5\uc0c1\n  > Summary: \uc2e0\ub86d\uc2dc\uc2a4\uac00 \uc778\ud154 14A \uacf5\uc815 \uae30\uc220\uc5d0\uc11c AI \uae30\ubc18 EDA \ud750\ub984 \uc778\uc99d\uc744 \ubc1c\ud45c\ud558\uba70 \uc778\ud154 \ud30c\uc6b4\ub4dc\ub9ac..."
-    },
     {
       "timestamp": "2026-07-29 16:44:18",
       "message": "[PROCESSING] Analyzing: THL Completes Sale of AMI to Lattice Semiconductor..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-29 16:45:11",
       "message": "[PROCESSING] Analyzing: V-GaN Tech Hub Opens New Test and Characterization Facility to Accelerate Microelectronics from Lab to Fab..."
+    },
+    {
+      "timestamp": "2026-07-29 16:45:13",
+      "message": "[SKIP] Irrelevant (AI Filter): V-GaN Tech Hub Opens New Test and Characterization Facility to Accelerate Microelectronics from Lab to Fab"
     }
   ]
 }
