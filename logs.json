@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-07-29 20:11:50",
-  "status": "idle",
+  "last_updated": "2026-07-29 21:12:14",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-07-29 20:10:18",
-      "message": "[SKIP] Content too short: Anthropic and Nvidia come out ..."
+      "timestamp": "2026-07-29 21:12:01",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-07-29 20:10:20",
-      "message": "Reprocessing: AI model compression startup Multiverse raises $570M at $1.7B valuation"
+      "timestamp": "2026-07-29 21:12:02",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-07-29 20:10:21",
-      "message": "[SKIP] Content too short: AI model compression startup M..."
+      "timestamp": "2026-07-29 21:12:02",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-07-29 20:10:23",
-      "message": "Reprocessing: Fish Audio makes a splash after raising $52M seed funding for AI voices"
+      "timestamp": "2026-07-29 21:12:14",
+      "message": "Found 153 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-07-29 20:10:25",
-      "message": "[SKIP] Content too short: Fish Audio makes a splash afte..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:27",
-      "message": "Reprocessing: Bugcrowd launches Savant Pathseeker for continuous agentic pentesting"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:28",
-      "message": "[SKIP] Content too short: Bugcrowd launches Savant Paths..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:30",
-      "message": "Reprocessing: Tines seeks to tame \u2018wild code\u2019 AI sprawl"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:31",
-      "message": "[SKIP] Content too short: Tines seeks to tame \u2018wild code..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:33",
-      "message": "Reprocessing: 1Password aims to cut standing access risks for AI agents"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:35",
-      "message": "[SKIP] Content too short: 1Password aims to cut standing..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:37",
-      "message": "Reprocessing: Snowflake debuts Cortex AI Gateway to govern and monitor enterprise AI agents"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:38",
-      "message": "[SKIP] Content too short: Snowflake debuts Cortex AI Gat..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:40",
-      "message": "Reprocessing: Torq unveils SOC Brain, a self-learning layer for its AI SOC platform"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:42",
-      "message": "[SKIP] Content too short: Torq unveils SOC Brain, a self..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:43",
-      "message": "Reprocessing: Exclusive: Dymium introduces single gateway to govern enterprise AI use"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:45",
-      "message": "[SKIP] Content too short: Exclusive: Dymium introduces s..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:47",
-      "message": "Reprocessing: Diagrid Catalyst 2.0 adds durable execution to more than 10 agent frameworks"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:48",
-      "message": "[SKIP] Content too short: Diagrid Catalyst 2.0 adds dura..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:50",
-      "message": "Reprocessing: HeyDonto launches DFT Labs to pursue physics-based machine learning capabilities"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:51",
-      "message": "[SKIP] Content too short: HeyDonto launches DFT Labs to ..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:53",
-      "message": "Reprocessing: Skyhawk Security integrates AWS Continuum to rank exploitable cloud flaws"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:55",
-      "message": "[SKIP] Content too short: Skyhawk Security integrates AW..."
-    },
-    {
-      "timestamp": "2026-07-29 20:10:57",
-      "message": "Reprocessing: Greyparrot raises $27M to bring physical AI to recycling as packaging grows more complex"
-    },
-    {
-      "timestamp": "2026-07-29 20:10:58",
-      "message": "[SKIP] Content too short: Greyparrot raises $27M to brin..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:00",
-      "message": "Reprocessing: ZeroFox debuts AI-first HNTR platform, starting with executive protection"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:01",
-      "message": "[SKIP] Content too short: ZeroFox debuts AI-first HNTR p..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:03",
-      "message": "Reprocessing: Act Security raises $60M to take action against agentic access sprawl at the infrastructure layer"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:05",
-      "message": "[SKIP] Content too short: Act Security raises $60M to ta..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:06",
-      "message": "Reprocessing: Quantum computing startup ZuriQ gets $25.5M to scale 2D trapped-ion processor design"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:08",
-      "message": "[SKIP] Content too short: Quantum computing startup Zuri..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:10",
-      "message": "Reprocessing: AMD calls its shot, but the real race is engineering velocity"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:11",
-      "message": "[SKIP] Content too short: AMD calls its shot, but the re..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:12",
-      "message": "Reprocessing: Ilya Sutskever\u2019s Safe Superintelligence gets access to Nvidia\u2019s Vera Rubin platform"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:14",
-      "message": "[SKIP] Content too short: Ilya Sutskever\u2019s Safe Superint..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:16",
-      "message": "[PROCESSING] Analyzing: Dell VEP4600 Review The System I Have Lusted After for Years..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:18",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell VEP4600 Review The System I Have Lusted After for Years"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:20",
-      "message": "[PROCESSING] Analyzing: Omada Fusion Gateway 2.5G Ecosystem and Software Overview..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:22",
-      "message": "[SKIP] Irrelevant (AI Filter): Omada Fusion Gateway 2.5G Ecosystem and Software Overview"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:24",
-      "message": "Reprocessing: ASRock Rack 4U16X-GNR2 NVIDIA HGX B300 8-GPU Server Review"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:25",
-      "message": "[PROCESSING] Analyzing: ASRock Rack 4U16X-GNR2 NVIDIA HGX B300 8-GPU Server Review..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:28",
-      "message": "[SUCCESS] Processed: ASRock Rack 4U16X-GNR2 NVIDIA HGX B300 8-GPU \uc11c\ubc84 \ub9ac\ubdf0\n  > Summary: ASRock Rack 4U16X-GNR2\ub294 8\uac1c\uc758 NVIDIA HGX B300 GPU\ub97c \uac16..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:30",
-      "message": "[PROCESSING] Analyzing: Geekbench 7 is Out with a Major Overhaul..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:32",
-      "message": "[SKIP] Irrelevant (AI Filter): Geekbench 7 is Out with a Major Overhaul"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:34",
-      "message": "Reprocessing: GitHub Copilot app for Beginners: Getting started"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:36",
-      "message": "[PROCESSING] Analyzing: GitHub Copilot app for Beginners: Getting started..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:39",
-      "message": "[SUCCESS] Processed: GitHub Copilot \uc571 \ucd08\ubcf4\uc790\ub97c \uc704\ud55c: \uc2dc\uc791\ud558\uae30\n  > Summary: GitHub Copilot \uc571\uc740 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc758 \ubcf5\uc7a1\ud55c \uc791\uc5c5 \ud750\ub984\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \uc124\uacc4\ub418..."
-    },
-    {
-      "timestamp": "2026-07-29 20:11:41",
-      "message": "Completed! New: 5, Updated: 48"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:45",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-07-29 20:11:48",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-07-29 21:12:14",
+      "message": "[PROCESSING] Analyzing: xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law..."
     }
   ]
 }
