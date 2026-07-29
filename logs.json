@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-29 20:09:04",
+  "last_updated": "2026-07-29 20:09:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-29 20:08:19",
-      "message": "Reprocessing: Blog Review: July 29"
-    },
     {
       "timestamp": "2026-07-29 20:08:21",
       "message": "[PROCESSING] Analyzing: Blog Review: July 29..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-29 20:09:04",
       "message": "[PROCESSING] Analyzing: Micross to Acquire AEMtec..."
+    },
+    {
+      "timestamp": "2026-07-29 20:09:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
     }
   ]
 }
