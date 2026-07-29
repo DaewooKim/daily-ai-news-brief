@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-29 06:43:45",
+  "last_updated": "2026-07-29 06:43:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-29 06:43:06",
-      "message": "Reprocessing: PSA: Your Claude shared chats and Artifacts may have ended up on Google"
-    },
     {
       "timestamp": "2026-07-29 06:43:08",
       "message": "[PROCESSING] Analyzing: PSA: Your Claude shared chats and Artifacts may have ended up on Google..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-29 06:43:45",
       "message": "[PROCESSING] Analyzing: ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation (Tamara Djurickovic/Tech.eu)..."
+    },
+    {
+      "timestamp": "2026-07-29 06:43:47",
+      "message": "[SKIP] Irrelevant (AI Filter): ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation (Tamara Djurickovic/Tech.eu)"
     }
   ]
 }
