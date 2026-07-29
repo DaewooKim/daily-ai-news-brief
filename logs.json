@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-29 16:41:39",
+  "last_updated": "2026-07-29 16:41:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-29 16:40:48",
-      "message": "[SUCCESS] Processed: AI\uac00 \ub370\uc774\ud130 \uc13c\ud130 \uc18c\uc720\uad8c\uc744 \uc7ac\uc815\uc758\ud558\uace0 \uc788\ub2e4: \ub2e4\uc911 \uc790\uc0b0, \ub2e4\uc911 \uc2dc\uac04\ub300\n  > Summary: AI \uc778\ud504\ub77c\uc758 \ubcf5\uc7a1\uc131\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uae30\uc5c5\ub4e4\uc740 dramatically \ub2e4\ub978 \uacbd\uc81c \uc2dc\uac04\ub300\uc5d0\uc11c..."
-    },
     {
       "timestamp": "2026-07-29 16:40:50",
       "message": "[PROCESSING] Analyzing: Investors continue to dump chipmaker stocks on Wednesday following disappointing results from SK Hynix; Sandisk is down 7.5%+, Arm 6.5%+, and AMD 6.5%+ (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-29 16:41:39",
       "message": "[PROCESSING] Analyzing: X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X (Daniel Thomas/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-07-29 16:41:42",
+      "message": "[SKIP] Irrelevant (AI Filter): X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X (Daniel Thomas/Financial Times)"
     }
   ]
 }
