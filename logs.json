@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-29 00:13:09",
+  "last_updated": "2026-07-29 00:13:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-29 00:12:34",
-      "message": "[SUCCESS] Processed: \uc0ac\uc774\ub808\ub77c, \ud655\uc0b0\ub418\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c \ubcf4\ud638\ud558\uae30 \uc704\ud574 \uc624\uc544\uc2dc\uc2a4 \ubcf4\uc548 \uc778\uc218\uc5d0 \ub3d9\uc758 10\uc5b5 \ub2ec\ub7ec\n  > Summary: \uc0ac\uc774\ub808\ub77c\ub294 \uc62c\ud574 \uc138 \ubc88\uc9f8 \uc778\uc218\ub85c \uc624\uc544\uc2dc\uc2a4 \ubcf4\uc548\uc744 10\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\uae30\ub85c \ud569\uc758\ud558\uc600\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-07-29 00:12:36",
       "message": "[PROCESSING] Analyzing: Bot-detection startup Spur nabs $200M from Insight..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-29 00:13:09",
       "message": "[PROCESSING] Analyzing: CXMT IPO: Where China\u2019s Largest DRAM Maker Stands?..."
+    },
+    {
+      "timestamp": "2026-07-29 00:13:11",
+      "message": "[SKIP] Irrelevant (AI Filter): CXMT IPO: Where China\u2019s Largest DRAM Maker Stands?"
     }
   ]
 }
