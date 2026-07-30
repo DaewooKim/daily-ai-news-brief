@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 16:03:36",
+  "last_updated": "2026-07-30 16:03:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 16:02:47",
-      "message": "[PROCESSING] Analyzing: Source: Situational Awareness has a $5B stake in Anthropic, and will continue to run as a private investment firm after suffering heavy losses in recent days (Financial Times)..."
-    },
     {
       "timestamp": "2026-07-30 16:02:50",
       "message": "[SUCCESS] Processed: \uc0c1\ud669 \uc778\uc2dd, Anthropic\uc5d0 50\uc5b5 \ub2ec\ub7ec\uc758 \uc9c0\ubd84\uc744 \ubcf4\uc720\ud558\uace0 \uc788\uc73c\uba70 \ucd5c\uadfc \ud070 \uc190\uc2e4\uc744 \uc785\uc740 \ud6c4 \uac1c\uc778 \ud22c\uc790 \ud68c\uc0ac\ub85c \uacc4\uc18d \uc6b4\uc601\ud560 \uac83\n  > Summary: \uc0c1\ud669 \uc778\uc2dd\uc774 Anthropic\uc5d0 50\uc5b5 \ub2ec\ub7ec\uc758 \uc9c0\ubd84\uc744 \ubcf4\uc720\ud558\uace0 \uc788\uc73c\uba70 \ucd5c\uadfc \uba87 \uc77c \ub3d9\uc548 \ud070..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 16:03:36",
       "message": "[PROCESSING] Analyzing: Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)..."
+    },
+    {
+      "timestamp": "2026-07-30 16:03:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)"
     }
   ]
 }
