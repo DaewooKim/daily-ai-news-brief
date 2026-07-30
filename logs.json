@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 17:12:29",
+  "last_updated": "2026-07-30 17:12:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 17:11:41",
-      "message": "[SUCCESS] Processed: K2 \uc2a4\ud398\uc774\uc2a4, \ub370\uc774\ud130 \uc911\uc2ec \ud1b5\uc2e0 \ubc0f \uc6b0\uc8fc \uae30\ubc18 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud560 \uc218 \uc788\ub294 \uc704\uc131 \uad6c\ucd95\n  > Summary: K2 \uc2a4\ud398\uc774\uc2a4\ub294 \ub370\uc774\ud130 \uc911\uc2ec \ud1b5\uc2e0 \ubc0f \ubc29\uc704 \uc791\uc804\uc744 \uc704\ud55c \ub300\ud615 \uc704\uc131\uc744 \uad6c\ucd95\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc73c\ub85c,..."
-    },
     {
       "timestamp": "2026-07-30 17:11:42",
       "message": "[PROCESSING] Analyzing: Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 17:12:29",
       "message": "[PROCESSING] Analyzing: Micross to Acquire AEMtec..."
+    },
+    {
+      "timestamp": "2026-07-30 17:12:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
     }
   ]
 }
