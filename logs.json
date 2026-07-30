@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 13:50:46",
+  "last_updated": "2026-07-30 13:50:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 13:50:06",
-      "message": "[PROCESSING] Analyzing: THL Completes Sale of AMI to Lattice Semiconductor..."
-    },
     {
       "timestamp": "2026-07-30 13:50:10",
       "message": "[SUCCESS] Processed: THL, Lattice \ubc18\ub3c4\uccb4\uc5d0 AMI \ub9e4\uac01 \uc644\ub8cc\n  > Summary: THL \ud30c\ud2b8\ub108\uc2a4\uac00 AMI\uc758 Lattice \ubc18\ub3c4\uccb4\uc5d0 \ub300\ud55c \ub9e4\uac01\uc744 \uc644\ub8cc\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 13:50:46",
       "message": "Reprocessing: OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists"
+    },
+    {
+      "timestamp": "2026-07-30 13:50:47",
+      "message": "[SKIP] Content too short: OpenAI opens new ChatGPT for A..."
     }
   ]
 }
