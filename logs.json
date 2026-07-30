@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 22:48:27",
+  "last_updated": "2026-07-30 22:48:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 22:47:48",
-      "message": "[PROCESSING] Analyzing: Source: Situational Awareness' assets have fallen to ~$10B after it liquidated some positions to meet margin calls, down from a reported $20B+ as of late May (Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-30 22:47:49",
       "message": "[SKIP] Irrelevant (AI Filter): Source: Situational Awareness' assets have fallen to ~$10B after it liquidated some positions to meet margin calls, down from a reported $20B+ as of late May (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 22:48:27",
       "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
+    },
+    {
+      "timestamp": "2026-07-30 22:48:29",
+      "message": "Reprocessing: THL Completes Sale of AMI to Lattice Semiconductor"
     }
   ]
 }
