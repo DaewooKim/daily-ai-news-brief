@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 21:42:19",
+  "last_updated": "2026-07-30 21:42:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 21:41:42",
-      "message": "[PROCESSING] Analyzing: THL Completes Sale of AMI to Lattice Semiconductor..."
-    },
     {
       "timestamp": "2026-07-30 21:41:45",
       "message": "[SUCCESS] Processed: THL, AMI\uc758 Lattice \ubc18\ub3c4\uccb4 \ub9e4\uac01 \uc644\ub8cc\n  > Summary: THL Partners\ub294 \ud50c\ub7ab\ud3fc \uad00\ub9ac \uc194\ub8e8\uc158\uc744 \uc81c\uacf5\ud558\ub294 AMI\ub97c Lattice Semico..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 21:42:19",
       "message": "Reprocessing: Exclusive: Upwind adds context scanning for AI agents as AI DR hits general availability"
+    },
+    {
+      "timestamp": "2026-07-30 21:42:21",
+      "message": "[SKIP] Content too short: Exclusive: Upwind adds context..."
     }
   ]
 }
