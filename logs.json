@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 18:20:24",
+  "last_updated": "2026-07-30 18:20:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 18:19:39",
-      "message": "[PROCESSING] Analyzing: Sources: Situational Awareness has sold all of its public stock holdings; the fund grew to as big as $45B at the start of July before big losses took hold (David Faber/CNBC)..."
-    },
     {
       "timestamp": "2026-07-30 18:19:41",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Situational Awareness has sold all of its public stock holdings; the fund grew to as big as $45B at the start of July before big losses took hold (David Faber/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 18:20:24",
       "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
+    },
+    {
+      "timestamp": "2026-07-30 18:20:27",
+      "message": "Reprocessing: THL Completes Sale of AMI to Lattice Semiconductor"
     }
   ]
 }
