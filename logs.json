@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 14:57:37",
+  "last_updated": "2026-07-30 14:57:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 14:56:56",
-      "message": "[SUCCESS] Processed: THL, Lattice \ubc18\ub3c4\uccb4\uc5d0 AMI \ub9e4\uac01 \uc644\ub8cc\n  > Summary: THL \ud30c\ud2b8\ub108\uc2a4\ub294 AMI\ub97c Lattice \ubc18\ub3c4\uccb4\uc5d0 \uc131\uacf5\uc801\uc73c\ub85c \ub9e4\uac01\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. AM..."
-    },
     {
       "timestamp": "2026-07-30 14:56:57",
       "message": "Reprocessing: The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 14:57:37",
       "message": "Reprocessing: MiniIO debuts AIStor Memory, the long-term memory AI agents need to scale safely"
+    },
+    {
+      "timestamp": "2026-07-30 14:57:39",
+      "message": "[SKIP] Content too short: MiniIO debuts AIStor Memory, t..."
     }
   ]
 }
