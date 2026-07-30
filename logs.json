@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 18:18:20",
+  "last_updated": "2026-07-30 18:18:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 18:17:36",
-      "message": "[PROCESSING] Analyzing: LinkedIn adds a button to report AI-generated \u2018slop\u2019..."
-    },
     {
       "timestamp": "2026-07-30 18:17:39",
       "message": "[SUCCESS] Processed: \ub9c1\ud06c\ub4dc\uc778, AI\uac00 \uc0dd\uc131\ud55c '\uc7a1\ub2e4\ud55c \uae00' \uc2e0\uace0 \ubc84\ud2bc \ucd94\uac00\n  > Summary: \ub9c1\ud06c\ub4dc\uc778\uc774 \uc800\ud488\uc9c8 AI \uc0dd\uc131 \uac8c\uc2dc\ubb3c\uc744 \uc904\uc774\uae30 \uc704\ud55c \uc0c8\ub85c\uc6b4 \ubc29\ubc95\uc744 \ub3c4\uc785\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. 'AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 18:18:20",
       "message": "[PROCESSING] Analyzing: Commercial Space Screening Approach for Agile, High-Reliability Payloads..."
+    },
+    {
+      "timestamp": "2026-07-30 18:18:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Commercial Space Screening Approach for Agile, High-Reliability Payloads"
     }
   ]
 }
