@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 00:36:28",
+  "last_updated": "2026-07-30 00:36:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 00:35:51",
-      "message": "[PROCESSING] Analyzing: THL Completes Sale of AMI to Lattice Semiconductor..."
-    },
     {
       "timestamp": "2026-07-30 00:35:55",
       "message": "[SUCCESS] Processed: THL, AMI\uc758 Lattice Semiconductor\uc5d0 \ub300\ud55c \ud310\ub9e4 \uc644\ub8cc\n  > Summary: THL \ud30c\ud2b8\ub108\uc2a4\ub294 AMI\uc758 Lattice Semiconductor\uc5d0 \ub300\ud55c \ud310\ub9e4\ub97c \uc131\uacf5\uc801\uc73c\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 00:36:28",
       "message": "Reprocessing: Pangram Labs raises $9M to launch more accurate AI detection for text and images"
+    },
+    {
+      "timestamp": "2026-07-30 00:36:30",
+      "message": "[SKIP] Content too short: Pangram Labs raises $9M to lau..."
     }
   ]
 }
