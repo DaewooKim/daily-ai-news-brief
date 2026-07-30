@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 12:42:42",
+  "last_updated": "2026-07-30 12:42:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 12:41:57",
-      "message": "[PROCESSING] Analyzing: Filing: Meta reports $279B in future lease agreements in Q2 related to AI data centers that are not reflected on its balance sheet, up 53% from the prior period (Shona Ghosh/Bloomberg)..."
-    },
     {
       "timestamp": "2026-07-30 12:42:00",
       "message": "[SUCCESS] Processed: \uba54\ud0c0, AI \ub370\uc774\ud130 \uc13c\ud130 \uad00\ub828 \ud5a5\ud6c4 \uc784\ub300 \uacc4\uc57d 2\ubd84\uae30\uc5d0 2,790\uc5b5 \ub2ec\ub7ec \ubcf4\uace0\n  > Summary: \uba54\ud0c0\ub294 2\ubd84\uae30\uc5d0 AI \ub370\uc774\ud130 \uc13c\ud130\uc640 \uad00\ub828\ub41c \ud5a5\ud6c4 \uc784\ub300 \uacc4\uc57d\uc774 2,790\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud55c\ub2e4\uace0 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 12:42:42",
       "message": "[SKIP] Irrelevant (AI Filter): Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)"
+    },
+    {
+      "timestamp": "2026-07-30 12:42:44",
+      "message": "Reprocessing: Benchmarking Open-Source LLMs on Verilog RTL Generation Across 50 Tasks (NMIMS, IIT Roorkee, BITS Pilani)"
     }
   ]
 }
