@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 20:35:04",
+  "last_updated": "2026-07-30 20:35:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 20:34:21",
-      "message": "[SUCCESS] Processed: OpenAI, GPT-5.6 \ub8e8\ub098\uc758 \uac00\uaca9\uc744 \uc57d 80% \uc778\ud558\ud558\uace0 GPT-5.6 \ud14c\ub77c\uc758 \uac00\uaca9\uc744 20% \uc778\ud558\ud55c\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: OpenAI\ub294 \uc2dc\uc2a4\ud15c \ud6a8\uc728\uc131\uc744 \uac1c\uc120\ud55c \uacb0\uacfc, GPT-5.6 \ub8e8\ub098\uc758 \uac00\uaca9\uc744 \uc57d 80% \uc778\ud558\ud558..."
-    },
     {
       "timestamp": "2026-07-30 20:34:22",
       "message": "[PROCESSING] Analyzing: Wiz says a now-patched flaw in Azure CosmosDB would have let a hacker remotely compromise any of its users; Microsoft has seen \"no evidence of customer impact\" (Raphael Satter/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 20:35:04",
       "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
+    },
+    {
+      "timestamp": "2026-07-30 20:35:06",
+      "message": "Reprocessing: THL Completes Sale of AMI to Lattice Semiconductor"
     }
   ]
 }
