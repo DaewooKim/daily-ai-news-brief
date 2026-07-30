@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-30 23:54:49",
+  "last_updated": "2026-07-30 23:54:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-30 23:54:07",
-      "message": "[SUCCESS] Processed: AI\uac00 \uada4\ub3c4\ub85c \ud655\uc7a5\ud568\uc5d0 \ub530\ub77c \uc9c0\uc0c1-\uc6b0\uc8fc \ub9c1\ud06c\uac00 \ubcf4\uc870\ub97c \ub9de\ucd9c \uc218 \uc788\uc744\uae4c?\n  > Summary: AI \uc791\uc5c5\uc774 \uc9c0\uc0c1\uacfc \uada4\ub3c4 \ucef4\ud4e8\ud305\uc5d0 \ud37c\uc9d0\uc5d0 \ub530\ub77c, \uc9c0\uc0c1\uacfc \uc6b0\uc8fc \uac04\uc758 \ub370\uc774\ud130 \uc774\ub3d9\uc744 \uc704\ud55c \uc8fc\uc694..."
-    },
     {
       "timestamp": "2026-07-30 23:54:08",
       "message": "[PROCESSING] Analyzing: Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-30 23:54:49",
       "message": "[PROCESSING] Analyzing: Apple reports Q3 revenue up 16% YoY to $109.42B, vs. $108.65B est., net income up 27% to $29.79B, and China revenue up 22% to $18.82B, vs. $19.6B estimated (Apple)..."
+    },
+    {
+      "timestamp": "2026-07-30 23:54:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple reports Q3 revenue up 16% YoY to $109.42B, vs. $108.65B est., net income up 27% to $29.79B, and China revenue up 22% to $18.82B, vs. $19.6B estimated (Apple)"
     }
   ]
 }
