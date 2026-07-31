@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 22:06:49",
+  "last_updated": "2026-07-31 22:06:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 22:06:10",
-      "message": "Reprocessing: Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network (Reuters)"
-    },
     {
       "timestamp": "2026-07-31 22:06:11",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 22:06:49",
       "message": "[PROCESSING] Analyzing: Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)..."
+    },
+    {
+      "timestamp": "2026-07-31 22:06:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)"
     }
   ]
 }
