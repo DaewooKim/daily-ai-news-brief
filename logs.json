@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 08:43:51",
+  "last_updated": "2026-07-31 08:43:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 08:43:14",
-      "message": "[PROCESSING] Analyzing: An interview with Granola CEO Chris Pedregal on making the AI note taker invisible and work across apps, and why he rejects executives seeking employees' notes (Casey Newton/Platformer)..."
-    },
     {
       "timestamp": "2026-07-31 08:43:17",
       "message": "[SUCCESS] Processed: AI \ub178\ud2b8 \ud14c\uc774\ucee4\ub97c \ubcf4\uc774\uc9c0 \uc54a\uac8c \ub9cc\ub4dc\ub294 \ubc29\ubc95\uc5d0 \ub300\ud55c Granola CEO Chris Pedregal\uacfc\uc758 \uc778\ud130\ubdf0\n  > Summary: Granola\uc758 CEO\uc778 Chris Pedregal\uacfc\uc758 \uc778\ud130\ubdf0\uc5d0\uc11c, \uadf8\ub294 AI \ub178\ud2b8 \ud14c\uc774\ucee4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 08:43:51",
       "message": "[PROCESSING] Analyzing: Microsoft's stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history (Subrat Patnaik/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-07-31 08:43:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft's stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history (Subrat Patnaik/Bloomberg)"
     }
   ]
 }
