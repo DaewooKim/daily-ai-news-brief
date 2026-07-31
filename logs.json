@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-07-31 19:52:57",
+  "last_updated": "2026-07-31 19:53:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 19:52:19",
-      "message": "Reprocessing: Sources: NXP is in talks to buy Ambarella, which has a market cap of ~$3.3B and makes image-processing chips for security cameras and self-driving cars (Oliver Barnes/Financial Times)"
-    },
-    {
-      "timestamp": "2026-07-31 19:52:20",
-      "message": "[PROCESSING] Analyzing: Sources: NXP is in talks to buy Ambarella, which has a market cap of ~$3.3B and makes image-processing chips for security cameras and self-driving cars (Oliver Barnes/Financial Times)..."
-    },
     {
       "timestamp": "2026-07-31 19:52:24",
       "message": "[SUCCESS] Processed: NXP\ub294 \uc790\uc728\uc8fc\ud589\ucc28 \ubc0f \ubcf4\uc548 \uce74\uba54\ub77c\uc6a9 \uc774\ubbf8\uc9c0 \ucc98\ub9ac \uce69\uc744 \uc81c\uc870\ud558\ub294 Ambarella \uc778\uc218 \ud611\uc0c1 \uc911\n  > Summary: NXP \ubc18\ub3c4\uccb4\uac00 \uc2dc\uc7a5 \uac00\uce58 \uc57d 33\uc5b5 \ub2ec\ub7ec\uc758 Ambarella \uc778\uc218 \ud611\uc0c1 \uc911\uc5d0 \uc788\ub2e4\ub294 \uc18c\uc2dd..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-07-31 19:52:57",
       "message": "Reprocessing: IBM and The University of Chicago Demonstrate Quantum Advantage"
+    },
+    {
+      "timestamp": "2026-07-31 19:52:58",
+      "message": "[PROCESSING] Analyzing: IBM and The University of Chicago Demonstrate Quantum Advantage..."
+    },
+    {
+      "timestamp": "2026-07-31 19:53:00",
+      "message": "[SKIP] Irrelevant (AI Filter): IBM and The University of Chicago Demonstrate Quantum Advantage"
     }
   ]
 }
