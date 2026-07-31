@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 14:14:26",
+  "last_updated": "2026-07-31 14:14:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 14:13:44",
-      "message": "[PROCESSING] Analyzing: Run High-Performance Core Math at Scale with NVIDIA nvmath-python..."
-    },
     {
       "timestamp": "2026-07-31 14:13:48",
       "message": "[SUCCESS] Processed: NVIDIA nvmath-python\uc73c\ub85c \ub300\uaddc\ubaa8 \uace0\uc131\ub2a5 \ud575\uc2ec \uc218\ud559 \uc2e4\ud589\ud558\uae30\n  > Summary: NVIDIA nvmath-python\uc740 \ud30c\uc774\uc36c \uacfc\ud559 \ucee4\ubba4\ub2c8\ud2f0\uc640 NVIDIA CUDA-X \uc218..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 14:14:26",
       "message": "[PROCESSING] Analyzing: Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label..."
+    },
+    {
+      "timestamp": "2026-07-31 14:14:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label"
     }
   ]
 }
