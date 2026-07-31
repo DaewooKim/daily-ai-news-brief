@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 03:14:29",
+  "last_updated": "2026-07-31 03:14:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 03:13:50",
-      "message": "[SKIP] Irrelevant (AI Filter): Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 5%+ after hours (CNBC)"
-    },
     {
       "timestamp": "2026-07-31 03:13:52",
       "message": "[PROCESSING] Analyzing: Roblox reports Q2 bookings up 8% YoY to $1.56B, vs. $1.6B est., DAUs up 10% to 123M, forecasts Q3 bookings and revenue below est.; RBLX drops 13%+ after hours (Kelly Cloonan/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 03:14:29",
       "message": "[PROCESSING] Analyzing: THL Completes Sale of AMI to Lattice Semiconductor..."
+    },
+    {
+      "timestamp": "2026-07-31 03:14:33",
+      "message": "[SUCCESS] Processed: THL, Lattice Semiconductor\uc5d0 AMI \ub9e4\uac01 \uc644\ub8cc\n  > Summary: THL \ud30c\ud2b8\ub108\uc2a4\ub294 AMI\uc758 Lattice Semiconductor \ub9e4\uac01\uc744 \uc131\uacf5\uc801\uc73c\ub85c \uc644\ub8cc\ud588..."
     }
   ]
 }
