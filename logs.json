@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 02:07:49",
+  "last_updated": "2026-07-31 02:07:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 02:07:12",
-      "message": "[PROCESSING] Analyzing: Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week's sell-off (Lee Ying Shan/CNBC)..."
-    },
     {
       "timestamp": "2026-07-31 02:07:15",
       "message": "[SUCCESS] Processed: SK \ud558\uc774\ub2c9\uc2a4\uc640 \uc0bc\uc131\uc758 \uc8fc\uac00, \uae08\uc694\uc77c \uc11c\uc6b8\uc5d0\uc11c 20% \uc774\uc0c1 \uae09\ub4f1\n  > Summary: SK \ud558\uc774\ub2c9\uc2a4\uc640 \uc0bc\uc131\uc804\uc790\uc758 \uc8fc\uac00\uac00 \uae08\uc694\uc77c \uc11c\uc6b8\uc5d0\uc11c 20% \uc774\uc0c1 \uc0c1\uc2b9\ud558\uba70 \uc774\ubc88 \uc8fc\uc758 \ub9e4\ub3c4\uc138\uc5d0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 02:07:49",
       "message": "[SKIP] Irrelevant (AI Filter): Apple Q3: iPhone up 22% YoY to $54.25B, vs. $53.86B est., Mac up 29% to $10.35B, iPad down 6% to $6.19B, and Wearables, Home, and Accessories up 6% to $7.88B (Stephen Nellis/Reuters)"
+    },
+    {
+      "timestamp": "2026-07-31 02:07:51",
+      "message": "[PROCESSING] Analyzing: Apple reports Q3 revenue from Services, which includes the App Store, Apple TV, and more, grew 12% YoY to $30.74B, vs. $31.36B est.; AAPL drops 5%+ after hours (Todd Spangler/Variety)..."
     }
   ]
 }
