@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 23:14:39",
+  "last_updated": "2026-07-31 23:14:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 23:14:01",
-      "message": "Reprocessing: OpenAI says its models now have more than 1B active users and are used by more than 2M businesses (Katherine Hamilton/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-07-31 23:14:02",
       "message": "[PROCESSING] Analyzing: OpenAI says its models now have more than 1B active users and are used by more than 2M businesses (Katherine Hamilton/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 23:14:39",
       "message": "[PROCESSING] Analyzing: Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion..."
+    },
+    {
+      "timestamp": "2026-07-31 23:14:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion"
     }
   ]
 }
