@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 21:00:05",
+  "last_updated": "2026-07-31 21:00:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 20:59:26",
-      "message": "Reprocessing: OpenAI says its models now have more than 1B active users and are used by more than 2M businesses (Katherine Hamilton/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-07-31 20:59:27",
       "message": "[PROCESSING] Analyzing: OpenAI says its models now have more than 1B active users and are used by more than 2M businesses (Katherine Hamilton/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 21:00:05",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit..."
+    },
+    {
+      "timestamp": "2026-07-31 21:00:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit"
     }
   ]
 }
