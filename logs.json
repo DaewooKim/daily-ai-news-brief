@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 05:26:05",
+  "last_updated": "2026-07-31 05:26:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 05:25:31",
-      "message": "Reprocessing: Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week's sell-off (Lee Ying Shan/CNBC)"
-    },
     {
       "timestamp": "2026-07-31 05:25:32",
       "message": "[PROCESSING] Analyzing: Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week's sell-off (Lee Ying Shan/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 05:26:05",
       "message": "[PROCESSING] Analyzing: SEMI Announces New Spring Schedule for SEMICON West Beginning March 30\u2013April 1, 2027..."
+    },
+    {
+      "timestamp": "2026-07-31 05:26:07",
+      "message": "[SKIP] Irrelevant (AI Filter): SEMI Announces New Spring Schedule for SEMICON West Beginning March 30\u2013April 1, 2027"
     }
   ]
 }
