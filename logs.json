@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-07-31 05:27:01",
+  "last_updated": "2026-07-31 05:27:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-07-31 05:26:25",
-      "message": "[PROCESSING] Analyzing: THL Completes Sale of AMI to Lattice Semiconductor..."
-    },
     {
       "timestamp": "2026-07-31 05:26:28",
       "message": "[SUCCESS] Processed: THL, AMI\ub97c Lattice Semiconductor\uc5d0 \ub9e4\uac01 \uc644\ub8cc\n  > Summary: THL Partners\ub294 AMI\ub97c Lattice Semiconductor\uc5d0 \ub9e4\uac01\ud588\ub2e4\uace0 \ubc1c\ud45c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-07-31 05:27:01",
       "message": "[SKIP] Content too short: Amazon\u2019s stock pops on roaring..."
+    },
+    {
+      "timestamp": "2026-07-31 05:27:03",
+      "message": "Reprocessing: Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots"
     }
   ]
 }
