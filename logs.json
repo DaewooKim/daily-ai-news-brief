@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-01 19:14:59",
+  "last_updated": "2026-08-01 19:15:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-01 19:14:20",
-      "message": "[PROCESSING] Analyzing: Micross to Acquire AEMtec..."
-    },
     {
       "timestamp": "2026-08-01 19:14:22",
       "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-01 19:14:59",
       "message": "Reprocessing: Anthropic discloses that Claude hacked three organizations during internal tests"
+    },
+    {
+      "timestamp": "2026-08-01 19:15:01",
+      "message": "[SKIP] Content too short: Anthropic discloses that Claud..."
     }
   ]
 }
