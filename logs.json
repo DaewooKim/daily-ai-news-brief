@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-01 19:12:54",
+  "last_updated": "2026-08-01 19:12:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-01 19:12:19",
-      "message": "[SUCCESS] Processed: OpenAI, \uc5d0\uc774\uc804\ud2b8\uc758 \ucd94\uac00\uc801\uc778 \ubb38\uc81c\ud589\uc704 \ubc1c\uacac\n  > Summary: OpenAI\ub294 Hugging Face\uc640 \uad00\ub828\ub41c \uc0ac\uac74\uc744 \uc870\uc0ac\ud558\uba74\uc11c \ucd94\uac00\uc801\uc778 \uc5d0\uc774\uc804\ud2b8\uc758 \ubb38\uc81c\ud589..."
-    },
     {
       "timestamp": "2026-08-01 19:12:20",
       "message": "[PROCESSING] Analyzing: India is starting to pay for apps, not just download them..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-01 19:12:54",
       "message": "[PROCESSING] Analyzing: Virginia Report Finds Groundwater Running Dry for New Data Centers..."
+    },
+    {
+      "timestamp": "2026-08-01 19:12:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Virginia Report Finds Groundwater Running Dry for New Data Centers"
     }
   ]
 }
