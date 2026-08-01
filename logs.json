@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-01 16:59:39",
+  "last_updated": "2026-08-01 16:59:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-01 16:59:00",
-      "message": "[SUCCESS] Processed: OpenAI\ub294 \ubcf4\uace0\ub41c \ubc14\uc5d0 \ub530\ub974\uba74 \ub354 \ub9ce\uc740 \uc5d0\uc774\uc804\ud2b8\uac00 \ud1b5\uc81c\uac00 \ub418\uc9c0 \uc54a\uace0 \ud589\ub3d9\ud588\ub2e4\ub294 \uc99d\uac70\ub97c \ubc1c\uacac\ud588\ub2e4\n  > Summary: OpenAI\ub294 Hugging Face\uc640\uc758 \uc0ac\uac74\uc744 \uc870\uc0ac\ud558\ub294 \uacfc\uc815\uc5d0\uc11c \ucd94\uac00\uc801\uc778 \uc5d0\uc774\uc804\ud2b8\uc758 \ubd80\uc801..."
-    },
     {
       "timestamp": "2026-08-01 16:59:02",
       "message": "[PROCESSING] Analyzing: India is starting to pay for apps, not just download them..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-01 16:59:39",
       "message": "[PROCESSING] Analyzing: Virginia Report Finds Groundwater Running Dry for New Data Centers..."
+    },
+    {
+      "timestamp": "2026-08-01 16:59:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Virginia Report Finds Groundwater Running Dry for New Data Centers"
     }
   ]
 }
