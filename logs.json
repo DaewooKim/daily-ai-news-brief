@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-01 13:38:32",
+  "last_updated": "2026-08-01 13:38:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-01 13:37:48",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-08-01 13:37:48",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-01 13:38:00",
       "message": "Found 186 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-01 13:38:32",
       "message": "Reprocessing: Run High-Performance Core Math at Scale with NVIDIA nvmath-python"
+    },
+    {
+      "timestamp": "2026-08-01 13:38:34",
+      "message": "[PROCESSING] Analyzing: Run High-Performance Core Math at Scale with NVIDIA nvmath-python..."
+    },
+    {
+      "timestamp": "2026-08-01 13:38:37",
+      "message": "[SUCCESS] Processed: NVIDIA nvmath-python\uc744 \uc0ac\uc6a9\ud558\uc5ec \ub300\uaddc\ubaa8\ub85c \uace0\uc131\ub2a5 \ucf54\uc5b4 \uc218\ud559 \uc2e4\ud589\n  > Summary: NVIDIA nvmath-python\uc740 Python \uacfc\ud559 \ucee4\ubba4\ub2c8\ud2f0\uc640 NVIDIA CUDA-..."
     }
   ]
 }
