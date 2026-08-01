@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-01 15:53:52",
+  "last_updated": "2026-08-01 15:53:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-01 15:53:16",
-      "message": "Reprocessing: OpenAI says an internal version of Astra, its next big model, produced results for 10 problems in math, quantum complexity, and theoretical computer science (OpenAI)"
-    },
     {
       "timestamp": "2026-08-01 15:53:17",
       "message": "[PROCESSING] Analyzing: OpenAI says an internal version of Astra, its next big model, produced results for 10 problems in math, quantum complexity, and theoretical computer science (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-01 15:53:52",
       "message": "[PROCESSING] Analyzing: Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost..."
+    },
+    {
+      "timestamp": "2026-08-01 15:53:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost"
     }
   ]
 }
