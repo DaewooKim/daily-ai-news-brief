@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-01 20:20:25",
+  "last_updated": "2026-08-01 20:20:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-01 20:19:51",
-      "message": "[SUCCESS] Processed: PJM, AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud574\uc57c \ud655\uace0\ud55c \uc11c\ube44\uc2a4 \uc81c\uacf5\n  > Summary: PJM\uc740 \uc81c\uc548\ub41c \uc2e0\ub8b0\uc131 \ud504\ub808\uc784\uc6cc\ud06c\uc5d0\uc11c \ub9ce\uc740 \ubbf8\ub798\uc758 \ub300\uaddc\ubaa8 \ubd80\ud558\uac00 \uc790\uccb4 \ubc1c\uc804 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud558\uac70..."
-    },
     {
       "timestamp": "2026-08-01 20:19:52",
       "message": "[PROCESSING] Analyzing: Virginia Report Finds Groundwater Running Dry for New Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-01 20:20:25",
       "message": "[PROCESSING] Analyzing: Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures (Alex Riehl/BetaKit)..."
+    },
+    {
+      "timestamp": "2026-08-01 20:20:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures (Alex Riehl/BetaKit)"
     }
   ]
 }
