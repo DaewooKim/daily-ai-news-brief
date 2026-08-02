@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-02 15:30:24",
+  "last_updated": "2026-08-02 15:30:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-02 15:29:43",
-      "message": "[PROCESSING] Analyzing: Micross to Acquire AEMtec..."
-    },
-    {
-      "timestamp": "2026-08-02 15:29:45",
-      "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
-    },
     {
       "timestamp": "2026-08-02 15:29:47",
       "message": "Reprocessing: Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-02 15:30:24",
       "message": "Reprocessing: Anthropic discloses that Claude hacked three organizations during internal tests"
+    },
+    {
+      "timestamp": "2026-08-02 15:30:26",
+      "message": "[SKIP] Content too short: Anthropic discloses that Claud..."
+    },
+    {
+      "timestamp": "2026-08-02 15:30:27",
+      "message": "Reprocessing: AI-native software development requires a new engineering model"
     }
   ]
 }
