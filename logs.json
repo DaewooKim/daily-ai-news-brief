@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-02 13:17:11",
+  "last_updated": "2026-08-02 13:17:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-02 13:16:35",
-      "message": "[PROCESSING] Analyzing: Benchmarking Open-Source LLMs on Verilog RTL Generation Across 50 Tasks (NMIMS, IIT Roorkee, BITS Pilani)..."
-    },
     {
       "timestamp": "2026-08-02 13:16:38",
       "message": "[SUCCESS] Processed: Verilog RTL \uc0dd\uc131\uc744 \uc704\ud55c \uc624\ud508 \uc18c\uc2a4 LLM \ubca4\uce58\ub9c8\ud0b9\n  > Summary: NMIMS \ud558\uc774\ub370\ub77c\ubc14\ub4dc, IIT \ub8e8\ub974\ud0a4, BITS \ud544\ub77c\ub2c8\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 'Verilog \ub514\uc790..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-02 13:17:11",
       "message": "[PROCESSING] Analyzing: Micross to Acquire AEMtec..."
+    },
+    {
+      "timestamp": "2026-08-02 13:17:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Micross to Acquire AEMtec"
     }
   ]
 }
