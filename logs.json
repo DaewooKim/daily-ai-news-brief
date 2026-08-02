@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-02 22:04:21",
+  "last_updated": "2026-08-02 22:04:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-02 22:03:47",
-      "message": "[PROCESSING] Analyzing: Is this Billboard Hot 100 hit AI slop?..."
-    },
     {
       "timestamp": "2026-08-02 22:03:49",
       "message": "[SKIP] Irrelevant (AI Filter): Is this Billboard Hot 100 hit AI slop?"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-02 22:04:21",
       "message": "[PROCESSING] Analyzing: India is starting to pay for apps, not just download them..."
+    },
+    {
+      "timestamp": "2026-08-02 22:04:23",
+      "message": "[SKIP] Irrelevant (AI Filter): India is starting to pay for apps, not just download them"
     }
   ]
 }
