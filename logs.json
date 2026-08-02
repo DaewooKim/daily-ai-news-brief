@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-02 18:48:40",
+  "last_updated": "2026-08-02 18:48:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-02 18:48:00",
-      "message": "[PROCESSING] Analyzing: SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026..."
-    },
-    {
-      "timestamp": "2026-08-02 18:48:04",
-      "message": "[SUCCESS] Processed: SEMI\ub294 2026\ub144 2\ubd84\uae30 \uc804 \uc138\uacc4 \uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c \ucd9c\ud558\ub7c9\uc774 \uc804\ub144 \ub300\ube44 7.4% \uc99d\uac00\ud588\ub2e4\uace0 \ubcf4\uace0\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: SEMI \uc2e4\ub9ac\ucf58 \uc81c\uc870\uc5c5\uccb4 \uadf8\ub8f9(SMG)\uc740 2026\ub144 2\ubd84\uae30 \uc804 \uc138\uacc4 \uc2e4\ub9ac\ucf58 \uc6e8\uc774\ud37c \ucd9c\ud558\ub7c9\uc774..."
-    },
     {
       "timestamp": "2026-08-02 18:48:05",
       "message": "[PROCESSING] Analyzing: Micross to Acquire AEMtec..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-02 18:48:40",
       "message": "Reprocessing: NXP reportedly in talks to acquire vehicle chip supplier Ambarella"
+    },
+    {
+      "timestamp": "2026-08-02 18:48:41",
+      "message": "[SKIP] Content too short: NXP reportedly in talks to acq..."
+    },
+    {
+      "timestamp": "2026-08-02 18:48:42",
+      "message": "Reprocessing: Anthropic discloses that Claude hacked three organizations during internal tests"
     }
   ]
 }
