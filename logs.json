@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-03 13:27:35",
+  "last_updated": "2026-08-03 13:27:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 13:26:54",
-      "message": "[SUCCESS] Processed: \ud638\ub77c\uc774\uc98c3, AI \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud50c\ub7ab\ud3fc NodeZero\ub85c \uc0dd\uc0b0 \uc2dc\uc2a4\ud15c\uc758 \uacf5\uaca9 \uacbd\ub85c\ub97c \ucc3e\uace0 \ud65c\uc6a9\ud558\ub294 \ub370 \ub3c4\uc6c0\uc744 \uc8fc\uba70 2\uc5b5 5000\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 E \ud22c\uc790 \uc720\uce58\n  > Summary: \uc0ac\uc774\ubc84 \ubcf4\uc548 \uc2a4\ud0c0\ud2b8\uc5c5 \ud638\ub77c\uc774\uc98c3\uac00 AI \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud50c\ub7ab\ud3fc NodeZero\ub97c \ud1b5\ud574 \uc0dd\uc0b0 \uc2dc..."
-    },
     {
       "timestamp": "2026-08-03 13:26:56",
       "message": "[PROCESSING] Analyzing: Michael Saylor's Strategy sold 1,638 bitcoin for ~$104.7M, reducing its holdings to 842,138, or ~4% of total supply, with a $10.9B paper loss at current prices (James Hunt/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-03 13:27:35",
       "message": "[PROCESSING] Analyzing: Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)..."
+    },
+    {
+      "timestamp": "2026-08-03 13:27:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)"
     }
   ]
 }
