@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-03 01:22:47",
+  "last_updated": "2026-08-03 01:22:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 01:22:12",
-      "message": "[PROCESSING] Analyzing: PJM Says AI Data Centers Must Bring Capacity to Earn Firm Service..."
-    },
     {
       "timestamp": "2026-08-03 01:22:15",
       "message": "[SUCCESS] Processed: PJM, AI \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc548\uc815\ub41c \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud558\uae30 \uc704\ud574 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud574\uc57c \ud55c\ub2e4\uace0 \ub9d0\ud558\ub2e4\n  > Summary: PJM\uc774 \uc81c\uc548\ud55c \uc2e0\ub8b0\uc131 \ud504\ub808\uc784\uc6cc\ud06c\uc5d0 \ub530\ub974\uba74, \ub9ce\uc740 \ub300\uaddc\ubaa8 \ubd80\ud558\ub294 \uc790\uccb4 \ubc1c\uc804 \uc6a9\ub7c9\uc744 \ud655\ubcf4\ud558\uac70..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-03 01:22:47",
       "message": "[PROCESSING] Analyzing: An investigation reveals Dubai-based unlicensed crypto exchange Shelbit has processed at least $4B as part of Iran's sanctions-evasion operation since May 2024 (Reuters)..."
+    },
+    {
+      "timestamp": "2026-08-03 01:22:50",
+      "message": "[SKIP] Irrelevant (AI Filter): An investigation reveals Dubai-based unlicensed crypto exchange Shelbit has processed at least $4B as part of Iran's sanctions-evasion operation since May 2024 (Reuters)"
     }
   ]
 }
