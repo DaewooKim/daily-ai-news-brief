@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-03 07:57:57",
+  "last_updated": "2026-08-03 07:58:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 07:57:13",
-      "message": "[PROCESSING] Analyzing: Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion..."
-    },
-    {
-      "timestamp": "2026-08-03 07:57:15",
-      "message": "[SKIP] Irrelevant (AI Filter): Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion"
-    },
     {
       "timestamp": "2026-08-03 07:57:18",
       "message": "Reprocessing: SEMI Announces New Spring Schedule for SEMICON West Beginning March 30\u2013April 1, 2027"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-03 07:57:57",
       "message": "Reprocessing: CrowdStrike finds AI systems under direct attack as exploit windows shrink"
+    },
+    {
+      "timestamp": "2026-08-03 07:57:59",
+      "message": "[SKIP] Content too short: CrowdStrike finds AI systems u..."
+    },
+    {
+      "timestamp": "2026-08-03 07:58:00",
+      "message": "Reprocessing: Report claims China is distilling U.S. frontier models to power military AI applications"
     }
   ]
 }
