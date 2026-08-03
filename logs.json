@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-02 23:14:16",
-  "status": "idle",
+  "last_updated": "2026-08-03 00:14:54",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-02 23:12:55",
-      "message": "Reprocessing: Amazon\u2019s stock pops on roaring cloud growth and soaring AI demand"
+      "timestamp": "2026-08-03 00:14:41",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-02 23:12:56",
-      "message": "[SKIP] Content too short: Amazon\u2019s stock pops on roaring..."
+      "timestamp": "2026-08-03 00:14:42",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-02 23:12:58",
-      "message": "Reprocessing: Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots"
+      "timestamp": "2026-08-03 00:14:42",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-02 23:12:59",
-      "message": "[SKIP] Content too short: Google DeepMind debuts Gemini ..."
+      "timestamp": "2026-08-03 00:14:54",
+      "message": "Found 164 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-02 23:13:01",
-      "message": "Reprocessing: Okta to acquire Permiso Security in reported $200M identity security deal"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:02",
-      "message": "[SKIP] Content too short: Okta to acquire Permiso Securi..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:04",
-      "message": "Reprocessing: Coinbase shares slide as revenue and earnings miss despite record market share"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:05",
-      "message": "[SKIP] Content too short: Coinbase shares slide as reven..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:06",
-      "message": "Reprocessing: Check Point Software drops 8%+ on mixed second quarter results"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:08",
-      "message": "[SKIP] Content too short: Check Point Software drops 8%+..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:09",
-      "message": "Reprocessing: What to expect during Black Hat USA: Join theCUBE Aug. 5-6"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:11",
-      "message": "[SKIP] Content too short: What to expect during Black Ha..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:12",
-      "message": "Reprocessing: Smallest.ai raises $13M to accelerate the development of its asynchronous voice AI architecture"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:15",
-      "message": "[SKIP] Content too short: Smallest.ai raises $13M to acc..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:16",
-      "message": "Reprocessing: Certinia pushes Veda deeper into AI-native services: theCUBE Research analysis"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:18",
-      "message": "[SKIP] Content too short: Certinia pushes Veda deeper in..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:19",
-      "message": "Reprocessing: How attack path mapping helps AI security agents prioritize risk"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:20",
-      "message": "[SKIP] Content too short: How attack path mapping helps ..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:22",
-      "message": "Reprocessing: Protopia and Rafay deliver multi-tenancy for shared GPU AI factories"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:23",
-      "message": "[SKIP] Content too short: Protopia and Rafay deliver mul..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:25",
-      "message": "Reprocessing: Exclusive: Upwind adds context scanning for AI agents as AI DR hits general availability"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:26",
-      "message": "[SKIP] Content too short: Exclusive: Upwind adds context..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:28",
-      "message": "Reprocessing: DataBahn raises $40M as AI agents queue up for enterprise telemetry"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:29",
-      "message": "[SKIP] Content too short: DataBahn raises $40M as AI age..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:31",
-      "message": "Reprocessing: PolyAI launches new real-time voice conversation model to make AI-driven calls more human"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:32",
-      "message": "[SKIP] Content too short: PolyAI launches new real-time ..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:33",
-      "message": "Reprocessing: Cantina launches with $8M to take security work from triage to verified fix"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:35",
-      "message": "[SKIP] Content too short: Cantina launches with $8M to t..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:36",
-      "message": "Reprocessing: MinIO debuts AIStor Memory, the long-term memory AI agents need to scale safely"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:38",
-      "message": "[SKIP] Content too short: MinIO debuts AIStor Memory, th..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:39",
-      "message": "Reprocessing: Samsung\u2019s stock rises on explosive operating profit growth"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:41",
-      "message": "[SKIP] Content too short: Samsung\u2019s stock rises on explo..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:42",
-      "message": "Reprocessing: Qualcomm and Arm see momentum in AI, but smartphone weakness weighs on both stocks"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:43",
-      "message": "[SKIP] Content too short: Qualcomm and Arm see momentum ..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:45",
-      "message": "Reprocessing: Cloud observability startup Groundcover raises $100M in funding"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:46",
-      "message": "[SKIP] Content too short: Cloud observability startup Gr..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:48",
-      "message": "Reprocessing: Microsoft\u2019s stock rises 9% on strong Azure revenue growth and steady capex spending"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:49",
-      "message": "[SKIP] Content too short: Microsoft\u2019s stock rises 9% on ..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:50",
-      "message": "[PROCESSING] Analyzing: ASUS Showcases NUC 16 Family Powered By Panther Lake..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:52",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS Showcases NUC 16 Family Powered By Panther Lake"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:54",
-      "message": "Reprocessing: AMD\u2019s Physical AI Plans Come Into Focus as Company Launches Ryzen Embedded AI X100"
-    },
-    {
-      "timestamp": "2026-08-02 23:13:55",
-      "message": "[PROCESSING] Analyzing: AMD\u2019s Physical AI Plans Come Into Focus as Company Launches Ryzen Embedded AI X100..."
-    },
-    {
-      "timestamp": "2026-08-02 23:13:58",
-      "message": "[SUCCESS] Processed: AMD\uc758 \ubb3c\ub9ac\uc801 AI \uacc4\ud68d\uc774 Ryzen Embedded AI X100 \ucd9c\uc2dc\ub85c \uad6c\uccb4\ud654\ub428\n  > Summary: AMD\ub294 Advancing AI 2026\uc5d0\uc11c SoC, \ubaa8\ub4c8 \ubc0f \uac1c\ubc1c \ud0b7\uc744 \ud3ec\ud568\ud55c \ubb3c\ub9ac\uc801 A..."
-    },
-    {
-      "timestamp": "2026-08-02 23:14:00",
-      "message": "[PROCESSING] Analyzing: Dell VEP4600 Review The System I Have Lusted After for Years..."
-    },
-    {
-      "timestamp": "2026-08-02 23:14:02",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell VEP4600 Review The System I Have Lusted After for Years"
-    },
-    {
-      "timestamp": "2026-08-02 23:14:03",
-      "message": "[PROCESSING] Analyzing: Omada Fusion Gateway 2.5G Ecosystem and Software Overview..."
-    },
-    {
-      "timestamp": "2026-08-02 23:14:07",
-      "message": "[SKIP] Irrelevant (AI Filter): Omada Fusion Gateway 2.5G Ecosystem and Software Overview"
-    },
-    {
-      "timestamp": "2026-08-02 23:14:08",
-      "message": "Completed! New: 1, Updated: 42"
-    },
-    {
-      "timestamp": "2026-08-02 23:14:12",
-      "message": "Saved 43 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-02 23:14:15",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-03 00:14:54",
+      "message": "[PROCESSING] Analyzing: Rachika Nayar\u2019s Heaven Come Crashing is an instrumental epic of desperate longing..."
     }
   ]
 }
