@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-03 13:27:52",
+  "last_updated": "2026-08-03 13:27:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 13:27:08",
-      "message": "[PROCESSING] Analyzing: The EU's AI Act enforcement powers take effect, letting it evaluate AI models before regional release, restrict market access, fine model providers, and more (Kai Nicol-Schwarz/CNBC)..."
-    },
-    {
-      "timestamp": "2026-08-03 13:27:11",
-      "message": "[SUCCESS] Processed: EU\uc758 AI \ubc95\uc548 \uc9d1\ud589 \uad8c\ud55c \ubc1c\ud6a8, \ubaa8\ub378 \ud3c9\uac00 \ubc0f \uc2dc\uc7a5 \uc811\uadfc \uc81c\ud55c \uac00\ub2a5\ud574\uc838\n  > Summary: \uc720\ub7fd\uc5f0\ud569\uc758 AI \ubc95\uc548 \uc9d1\ud589 \uad8c\ud55c\uc774 \ubc1c\ud6a8\ub418\uc5b4, \uc9c0\uc5ed \ucd9c\uc2dc \uc804\uc5d0 AI \ubaa8\ub378\uc744 \ud3c9\uac00\ud560 \uc218 \uc788\uac8c ..."
-    },
     {
       "timestamp": "2026-08-03 13:27:13",
       "message": "Reprocessing: Source: Dario Amodei expressed concern about staff coming to Anthropic for the money rather than the mission, as Anthropic, OpenAI, and others battle for talent (Axios)"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-03 13:27:52",
       "message": "[PROCESSING] Analyzing: Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion..."
+    },
+    {
+      "timestamp": "2026-08-03 13:27:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion"
+    },
+    {
+      "timestamp": "2026-08-03 13:27:56",
+      "message": "Reprocessing: SEMI Announces New Spring Schedule for SEMICON West Beginning March 30\u2013April 1, 2027"
     }
   ]
 }
