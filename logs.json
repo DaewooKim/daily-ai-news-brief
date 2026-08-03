@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-03 15:40:33",
+  "last_updated": "2026-08-03 15:40:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 15:39:49",
-      "message": "[SUCCESS] Processed: AI \uc5d0\uc774\uc804\ud2b8 \ubcf4\uc548\uc744 \uc704\ud55c \ud50c\ub7ab\ud3fc\uc744 \uac1c\ubc1c\ud558\ub294 \uc81c\ub098\ud2f0\uac00 \ub178\ub974\uc6e8\uc2a4\ud2b8 \ubca4\ucc98 \ud30c\ud2b8\ub108\uc2a4 \uc8fc\ub3c4\ub85c 1\uc5b5 2500\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 C \uc790\uae08\uc744 \uc870\ub2ec\ud558\ub2e4\n  > Summary: \uc81c\ub098\ud2f0\ub294 AI \uc5d0\uc774\uc804\ud2b8\uc758 \ubcf4\uc548\uc744 \uc704\ud55c \ud50c\ub7ab\ud3fc\uc744 \uac1c\ubc1c\ud558\ub294 \uc774\uc2a4\ub77c\uc5d8 \uc0ac\uc774\ubc84 \ubcf4\uc548 \ud68c\uc0ac\ub85c, \ub178\ub974..."
-    },
     {
       "timestamp": "2026-08-03 15:39:51",
       "message": "[PROCESSING] Analyzing: Michael Saylor's Strategy sold 1,638 bitcoin for ~$104.7M from July 27 to August 2, reducing its holdings to 842,138, with a $10.9B paper loss at current prices (James Hunt/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-03 15:40:33",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit..."
+    },
+    {
+      "timestamp": "2026-08-03 15:40:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit"
     }
   ]
 }
