@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-03 10:09:38",
+  "last_updated": "2026-08-03 10:09:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 10:08:53",
-      "message": "[PROCESSING] Analyzing: London-based AI chip startup Olix raised $312M led by Fundomo, with participation from Arm, at a $3.3B valuation, up from $1B+ after raising $220M in February (Tim Bradshaw/Financial Times)..."
-    },
     {
       "timestamp": "2026-08-03 10:09:00",
       "message": "[SUCCESS] Processed: \uc601\uad6d \ub7f0\ub358\uc5d0 \ubcf8\uc0ac\ub97c \ub454 AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Olix, Fundomo \uc8fc\ub3c4\ub85c 3\uc5b5 1200\ub9cc \ub2ec\ub7ec \ubaa8\uae08, Arm \ucc38\uc5ec\ub85c 33\uc5b5 \ub2ec\ub7ec \uac00\uce58 \ud3c9\uac00\n  > Summary: \uc601\uad6d \ub7f0\ub358\uc5d0 \ubcf8\uc0ac\ub97c \ub454 AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Olix\uac00 Fundomo\uc758 \uc8fc\ub3c4\ub85c 3\uc5b5 1200\ub9cc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-03 10:09:38",
       "message": "[PROCESSING] Analyzing: Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)..."
+    },
+    {
+      "timestamp": "2026-08-03 10:09:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)"
     }
   ]
 }
