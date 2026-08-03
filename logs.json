@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-03 11:15:48",
+  "last_updated": "2026-08-03 11:15:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-03 11:15:04",
-      "message": "[SUCCESS] Processed: \uc54c\ub9ac\ubc14\ubc14, Qwen3.8-Max\ub97c 100\ub9cc \uc785\ub825 \ud1a0\ud070\ub2f9 2\ub2ec\ub7ec, 100\ub9cc \ucd9c\ub825 \ud1a0\ud070\ub2f9 6\ub2ec\ub7ec\uc5d0 \uac00\uaca9 \ucc45\uc815\n  > Summary: \uc911\uad6d \uae30\uc220 \ub300\uae30\uc5c5 \uc54c\ub9ac\ubc14\ubc14 \uadf8\ub8f9\uc774 \uc0c8\ub85c\uc6b4 \uc8fc\ub825 \ubaa8\ub378 Qwen3.8-Max\ub97c API\ub97c \ud1b5\ud574 ..."
-    },
     {
       "timestamp": "2026-08-03 11:15:06",
       "message": "[PROCESSING] Analyzing: Artificial Analysis: DeepSeek's V4-Flash costs $0.14/1M input and $0.28/1M output tokens, or $0.03 per test, far below Kimi K3's $0.86 and GPT-5.6 Sol's $1.86 (Eduardo Baptista/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-03 11:15:48",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit..."
+    },
+    {
+      "timestamp": "2026-08-03 11:15:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit"
     }
   ]
 }
