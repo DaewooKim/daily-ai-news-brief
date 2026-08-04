@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-04 02:40:35",
+  "last_updated": "2026-08-04 02:40:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 02:39:58",
-      "message": "[PROCESSING] Analyzing: Samsung\u2019s discounted smart monitor is $349.99, its lowest price yet..."
-    },
     {
       "timestamp": "2026-08-04 02:40:01",
       "message": "[SKIP] Irrelevant (AI Filter): Samsung\u2019s discounted smart monitor is $349.99, its lowest price yet"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-04 02:40:35",
       "message": "[SUCCESS] Processed: \uc720\ub7fd\uc5d0\uc11c \ucc45\uc784 \uc788\ub294 AI \ubc1c\uc804\n  > Summary: OpenAI\ub294 \uc720\ub7fd\uc5d0\uc11c \ucc45\uc784 \uc788\ub294 AI \uac70\ubc84\ub10c\uc2a4\ub97c \uc9c0\uc6d0\ud558\ub294 \uc548\uc804, \ubcf4\uc548, \ud22c\uba85\uc131 \ubc0f \ucd9c\ucc98 ..."
+    },
+    {
+      "timestamp": "2026-08-04 02:40:37",
+      "message": "Reprocessing: AWS is helping vibe-coding startup Superblocks, and the implications are big"
     }
   ]
 }
