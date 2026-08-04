@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-04 10:27:06",
-  "status": "idle",
+  "last_updated": "2026-08-04 11:27:47",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-04 10:25:42",
-      "message": "Reprocessing: Exclusive: Terra Security\u2019s Prevention writes the firewall rules to block proven exploits"
+      "timestamp": "2026-08-04 11:27:34",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-04 10:25:43",
-      "message": "[SKIP] Content too short: Exclusive: Terra Security\u2019s Pr..."
+      "timestamp": "2026-08-04 11:27:34",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-04 10:25:45",
-      "message": "Reprocessing: Cato Networks launches Agentic Threat Prevention to counter AI-assisted attacks"
+      "timestamp": "2026-08-04 11:27:34",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-04 10:25:46",
-      "message": "[SKIP] Content too short: Cato Networks launches Agentic..."
+      "timestamp": "2026-08-04 11:27:47",
+      "message": "Found 154 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-04 10:25:48",
-      "message": "Reprocessing: CrowdStrike finds AI systems under direct attack as exploit windows shrink"
-    },
-    {
-      "timestamp": "2026-08-04 10:25:49",
-      "message": "[SKIP] Content too short: CrowdStrike finds AI systems u..."
-    },
-    {
-      "timestamp": "2026-08-04 10:25:51",
-      "message": "Reprocessing: Report claims China is distilling U.S. frontier models to power military AI applications"
-    },
-    {
-      "timestamp": "2026-08-04 10:25:52",
-      "message": "[SKIP] Content too short: Report claims China is distill..."
-    },
-    {
-      "timestamp": "2026-08-04 10:25:54",
-      "message": "Reprocessing: Eric Trump-backed Space-Eyes to go public via $638M SPAC merger"
-    },
-    {
-      "timestamp": "2026-08-04 10:25:55",
-      "message": "[SKIP] Content too short: Eric Trump-backed Space-Eyes t..."
-    },
-    {
-      "timestamp": "2026-08-04 10:25:57",
-      "message": "Reprocessing: OpenAI\u2019s Astra solves 10 long-open math problems and publishes the proofs"
-    },
-    {
-      "timestamp": "2026-08-04 10:25:58",
-      "message": "[SKIP] Content too short: OpenAI\u2019s Astra solves 10 long-..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:00",
-      "message": "Reprocessing: NXP reportedly in talks to acquire vehicle chip supplier Ambarella"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:01",
-      "message": "[SKIP] Content too short: NXP reportedly in talks to acq..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:03",
-      "message": "Reprocessing: Anthropic discloses that Claude hacked three organizations during internal tests"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:04",
-      "message": "[SKIP] Content too short: Anthropic discloses that Claud..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:06",
-      "message": "Reprocessing: AI-native software development requires a new engineering model"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:08",
-      "message": "[SKIP] Content too short: AI-native software development..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:09",
-      "message": "Reprocessing: Robotics and edge AI put new pressure on computing infrastructure"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:11",
-      "message": "[SKIP] Content too short: Robotics and edge AI put new p..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:12",
-      "message": "Reprocessing: Three insights you may have missed from theCUBE\u2019s coverage of the AMD Advancing AI event"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:14",
-      "message": "[SKIP] Content too short: Three insights you may have mi..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:16",
-      "message": "Reprocessing: LinkedIn cracks down on users posting \u2018AI slop\u2019 after previously encouraging it"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:18",
-      "message": "[SKIP] Content too short: LinkedIn cracks down on users ..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:19",
-      "message": "Reprocessing: Programmable networking chip startup Xsight Labs raises $300M"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:21",
-      "message": "[SKIP] Content too short: Programmable networking chip s..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:22",
-      "message": "Reprocessing: Apple\u2019s stock slides as it blames supply chain constraints for its weak guidance"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:24",
-      "message": "[SKIP] Content too short: Apple\u2019s stock slides as it bla..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:25",
-      "message": "Reprocessing: Icite targets knowledge graphs to give AI agents the context needed for autonomous security workflows"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:27",
-      "message": "[SKIP] Content too short: Icite targets knowledge graphs..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:28",
-      "message": "Reprocessing: Nscale buys AI infrastructure optimization startup Anyscale for reported $1.65B"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:30",
-      "message": "[SKIP] Content too short: Nscale buys AI infrastructure ..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:32",
-      "message": "Reprocessing: Amazon\u2019s stock pops on roaring cloud growth and soaring AI demand"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:33",
-      "message": "[SKIP] Content too short: Amazon\u2019s stock pops on roaring..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:35",
-      "message": "Reprocessing: Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:36",
-      "message": "[SKIP] Content too short: Google DeepMind debuts Gemini ..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:38",
-      "message": "Reprocessing: Okta to acquire Permiso Security in reported $200M identity security deal"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:40",
-      "message": "[SKIP] Content too short: Okta to acquire Permiso Securi..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:41",
-      "message": "Reprocessing: Coinbase shares slide as revenue and earnings miss despite record market share"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:43",
-      "message": "[SKIP] Content too short: Coinbase shares slide as reven..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:45",
-      "message": "Reprocessing: Check Point Software drops 8%+ on mixed second quarter results"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:46",
-      "message": "[SKIP] Content too short: Check Point Software drops 8%+..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:48",
-      "message": "[PROCESSING] Analyzing: ASUS Showcases NUC 16 Family Powered By Panther Lake..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:50",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS Showcases NUC 16 Family Powered By Panther Lake"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:51",
-      "message": "Reprocessing: AMD\u2019s Physical AI Plans Come Into Focus as Company Launches Ryzen Embedded AI X100"
-    },
-    {
-      "timestamp": "2026-08-04 10:26:53",
-      "message": "[PROCESSING] Analyzing: AMD\u2019s Physical AI Plans Come Into Focus as Company Launches Ryzen Embedded AI X100..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:56",
-      "message": "[SUCCESS] Processed: AMD\uc758 \ubb3c\ub9ac\uc801 AI \uacc4\ud68d\uc774 \uad6c\uccb4\ud654\ub418\uba74\uc11c Ryzen Embedded AI X100 \ucd9c\uc2dc\n  > Summary: AMD\ub294 Advancing AI 2026\uc5d0\uc11c \ubb3c\ub9ac\uc801 AI \ud558\ub4dc\uc6e8\uc5b4\ub97c \uc704\ud55c \ud3ec\uad04\uc801\uc778 \uc81c\ud488 \ub77c..."
-    },
-    {
-      "timestamp": "2026-08-04 10:26:58",
-      "message": "Completed! New: 1, Updated: 42"
-    },
-    {
-      "timestamp": "2026-08-04 10:27:01",
-      "message": "Saved 43 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-04 10:27:04",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-04 11:27:47",
+      "message": "[PROCESSING] Analyzing: The next Xbox could play every Xbox game ever made..."
     }
   ]
 }
