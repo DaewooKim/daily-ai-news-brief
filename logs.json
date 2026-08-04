@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-04 20:24:56",
+  "last_updated": "2026-08-04 20:24:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 20:24:17",
-      "message": "[PROCESSING] Analyzing: SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., and an operating loss of $1.26B from its AI business, compared with a $2.39B estimate (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-04 20:24:21",
       "message": "[SUCCESS] Processed: \uc2a4\ud398\uc774\uc2a4X, Q2 \ub9e4\ucd9c 92% \uc99d\uac00 78\uc5b5 \ub2ec\ub7ec, AI \uc0ac\uc5c5\uc5d0\uc11c 12\uc5b5 6\ucc9c\ub9cc \ub2ec\ub7ec \uc190\uc2e4 \ubcf4\uace0\n  > Summary: \uc2a4\ud398\uc774\uc2a4X\uac00 Q2 \ub9e4\ucd9c\uc774 \uc804\ub144 \ub300\ube44 92% \uc99d\uac00\ud558\uc5ec 78\uc5b5 \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec\ud588\ub2e4\uace0 \ubcf4\uace0\ud588\uc2b5\ub2c8\ub2e4...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-04 20:24:56",
       "message": "[PROCESSING] Analyzing: Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom as it expands beyond farming into trucking, construction, and real estate (Alex Konrad/Upstarts Media)..."
+    },
+    {
+      "timestamp": "2026-08-04 20:24:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom as it expands beyond farming into trucking, construction, and real estate (Alex Konrad/Upstarts Media)"
     }
   ]
 }
