@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-04 12:34:26",
+  "last_updated": "2026-08-04 12:34:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 12:33:37",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-08-04 12:33:49",
-      "message": "Found 155 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-04 12:33:49",
       "message": "[PROCESSING] Analyzing: OpenAI drags Apple\u2019s lawsuit into the court of public opinion..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-04 12:34:26",
       "message": "[SKIP] Content too short: Science One Framework: A verif..."
+    },
+    {
+      "timestamp": "2026-08-04 12:34:27",
+      "message": "Reprocessing: Apple is getting this wrong"
+    },
+    {
+      "timestamp": "2026-08-04 12:34:28",
+      "message": "[PROCESSING] Analyzing: Apple is getting this wrong..."
     }
   ]
 }
