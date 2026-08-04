@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-04 20:24:07",
+  "last_updated": "2026-08-04 20:24:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 20:23:26",
-      "message": "[SUCCESS] Processed: Nvidia\ub294 \ube48\ud2c8\uc774 \uc5c6\ub2e4: AI \uc0b0\uc5c5 \uadf8\ub8f9\uc774 \uacb0\uc131\ub41c \uc9c0 \uc77c\uc8fc\uc77c \ub9cc\uc5d0 \uc774\ubbf8 \uc9c4\uc804\uc744 \ubcf4\uc774\uace0 \uc788\ub2e4\n  > Summary: \uc77c\uc8fc\uc77c \ub41c \uc624\ud508 \ubcf4\uc548 AI \uc5bc\ub77c\uc774\uc5b8\uc2a4\ub294 Nvidia\uac00 \uc8fc\ub3c4\ud558\uace0 \uc788\uc73c\uba70, 120\uac1c \uc774\uc0c1\uc758 \uae30..."
-    },
     {
       "timestamp": "2026-08-04 20:23:28",
       "message": "[PROCESSING] Analyzing: Texas halts new data centers as governor calls for audits..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-04 20:24:07",
       "message": "[PROCESSING] Analyzing: Cloud Region Migration: Optimize Costs, Latency, and Compliance..."
+    },
+    {
+      "timestamp": "2026-08-04 20:24:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Cloud Region Migration: Optimize Costs, Latency, and Compliance"
     }
   ]
 }
