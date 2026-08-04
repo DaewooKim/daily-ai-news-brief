@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-04 07:06:21",
+  "last_updated": "2026-08-04 07:06:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 07:05:41",
-      "message": "[PROCESSING] Analyzing: Doc: Microsoft asks Xbox 360 game developers to opt in for PC compatibility, bringing the games to its next-gen Project Helix console, \"Xbox PCs\", and handhelds (The Verge)..."
-    },
     {
       "timestamp": "2026-08-04 07:05:44",
       "message": "[SKIP] Irrelevant (AI Filter): Doc: Microsoft asks Xbox 360 game developers to opt in for PC compatibility, bringing the games to its next-gen Project Helix console, \"Xbox PCs\", and handhelds (The Verge)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-04 07:06:21",
       "message": "Reprocessing: After raising $1B in funding, Valar Atomics plans to mass produce small nuclear reactors for the AI industry"
+    },
+    {
+      "timestamp": "2026-08-04 07:06:23",
+      "message": "[SKIP] Content too short: After raising $1B in funding, ..."
     }
   ]
 }
