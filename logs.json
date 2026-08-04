@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-04 15:54:26",
+  "last_updated": "2026-08-04 15:54:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 15:53:35",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-08-04 15:53:35",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-04 15:53:48",
       "message": "Found 160 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-04 15:54:26",
       "message": "[PROCESSING] Analyzing: Apple briefly yanked Telegram from the App Store over CSAM violations..."
+    },
+    {
+      "timestamp": "2026-08-04 15:54:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple briefly yanked Telegram from the App Store over CSAM violations"
+    },
+    {
+      "timestamp": "2026-08-04 15:54:30",
+      "message": "[PROCESSING] Analyzing: OpenAI drags Apple\u2019s lawsuit into the court of public opinion..."
     }
   ]
 }
