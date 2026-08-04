@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-04 00:30:07",
+  "last_updated": "2026-08-04 00:30:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 00:29:32",
-      "message": "Reprocessing: CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits"
-    },
     {
       "timestamp": "2026-08-04 00:29:34",
       "message": "[PROCESSING] Analyzing: CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-04 00:30:07",
       "message": "[PROCESSING] Analyzing: Texas halts approval of data center grid connections until audits are performed; projects representing 474+ GW are in the queue, over 5x the grid's peak demand (The Texas Tribune)..."
+    },
+    {
+      "timestamp": "2026-08-04 00:30:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Texas halts approval of data center grid connections until audits are performed; projects representing 474+ GW are in the queue, over 5x the grid's peak demand (The Texas Tribune)"
     }
   ]
 }
