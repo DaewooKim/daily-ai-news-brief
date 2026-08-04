@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-04 09:18:31",
+  "last_updated": "2026-08-04 09:18:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-04 09:17:51",
-      "message": "[PROCESSING] Analyzing: Sources: HP, Asus, and Acer have started using small amounts of DRAM chips from CXMT in their laptops for non-US markets, amid an unprecedented memory shortage (Nikkei Asia)..."
-    },
-    {
-      "timestamp": "2026-08-04 09:17:53",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: HP, Asus, and Acer have started using small amounts of DRAM chips from CXMT in their laptops for non-US markets, amid an unprecedented memory shortage (Nikkei Asia)"
-    },
     {
       "timestamp": "2026-08-04 09:17:55",
       "message": "[PROCESSING] Analyzing: Apple says it \"briefly removed Telegram from the App Store\" over CSAM on Monday, restoring it after Telegram \"promptly removed the content and banned the user\" (Marcus Mendes/9to5Mac)..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-04 09:18:31",
       "message": "Reprocessing: Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)"
+    },
+    {
+      "timestamp": "2026-08-04 09:18:33",
+      "message": "[PROCESSING] Analyzing: Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)..."
+    },
+    {
+      "timestamp": "2026-08-04 09:18:36",
+      "message": "[SUCCESS] Processed: RTL \ud504\ub85c\uc138\uc11c\ub97c ISA \uacc4\uc57d\uc5d0 \ub300\ud574 \ubaa8\ub4c8\ub7ec \uac80\uc99d\ud558\ub294 \ubc29\ubc95 (MIT, \uad6c\uae00, UW)\n  > Summary: MIT, \uad6c\uae00, \uc6cc\uc2f1\ud134 \ub300\ud559\uad50\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 'Granite: \ud558\ub4dc\uc6e8\uc5b4-\uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc720\ucd9c \uacc4\uc57d..."
     }
   ]
 }
