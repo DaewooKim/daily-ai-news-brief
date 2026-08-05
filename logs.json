@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 18:30:16",
+  "last_updated": "2026-08-05 18:30:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 18:29:32",
-      "message": "[SUCCESS] Processed: \uc7ad \ub9c8\uac00 \uacf5\ub3d9 \ucc3d\ub9bd\ud55c PE \ud68c\uc0ac\uc778 \uc724\ud391 \uce90\ud53c\ud0c8, AI \ubcf4\ud5d8 \uae30\uc220 \uc2a4\ud0c0\ud2b8\uc5c5 \ucf54\uae30\uc5d4 \uc57d 3\ucc9c\ub9cc \ub2ec\ub7ec \ud22c\uc790\n  > Summary: \uc911\uad6d\uc758 \uc5b5\ub9cc\uc7a5\uc790 \uc7ad \ub9c8\uac00 \uacf5\ub3d9 \ucc3d\ub9bd\ud55c \uc724\ud391 \uce90\ud53c\ud0c8\uc774 AI \ubcf4\ud5d8 \uae30\uc220 \uc2a4\ud0c0\ud2b8\uc5c5 \ucf54\uae30\uc5d0 \uc57d 3..."
-    },
     {
       "timestamp": "2026-08-05 18:29:33",
       "message": "[PROCESSING] Analyzing: Mysk: Apple's Private Relay tool can leak users' IP addresses due to issues in Apple's WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS (Joseph Cox/404 Media)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 18:30:16",
       "message": "[SKIP] Irrelevant (AI Filter): The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one"
+    },
+    {
+      "timestamp": "2026-08-05 18:30:18",
+      "message": "Reprocessing: AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff"
     }
   ]
 }
