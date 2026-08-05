@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 11:51:35",
+  "last_updated": "2026-08-05 11:51:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 11:50:55",
-      "message": "[SUCCESS] Processed: PJM, AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \ud655\uace0\ud55c \uc11c\ube44\uc2a4\ub97c \uc5bb\uc73c\ub824\uba74 \uc6a9\ub7c9\uc744 \uac00\uc838\uc640\uc57c \ud55c\ub2e4\uace0 \ub9d0\ud558\ub2e4\n  > Summary: PJM\uc758 \uc81c\uc548\ub41c \uc2e0\ub8b0\uc131 \ud504\ub808\uc784\uc6cc\ud06c\ub294 \ub9ce\uc740 \ubbf8\ub798 \ub300\uaddc\ubaa8 \uc804\ub825 \uc18c\ube44\uc790\uac00 \uc790\uc2e0\ub4e4\uc758 \ubc1c\uc804 \uc6a9\ub7c9\uc744 ..."
-    },
     {
       "timestamp": "2026-08-05 11:50:57",
       "message": "[PROCESSING] Analyzing: Uber CEO Dara Khosrowshahi says the company plans to spend $10B+ \"over the coming years\" to deploy 120K driverless vehicles, aiming to hit 15+ cities in 2026 (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 11:51:35",
       "message": "[SKIP] Irrelevant (AI Filter): Implementing the Cyber Resilience Act: eBook"
+    },
+    {
+      "timestamp": "2026-08-05 11:51:36",
+      "message": "Reprocessing: AI Data Centers Look Beyond Just GPUs"
     }
   ]
 }
