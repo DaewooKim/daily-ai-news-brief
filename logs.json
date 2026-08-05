@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 03:03:01",
+  "last_updated": "2026-08-05 03:03:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 03:02:22",
-      "message": "[SUCCESS] Processed: AI \uc5f4\ud48d\uc774 VC \uc2dc\uc7a5\uc744 \ub098\ub204\uc5c8\ub2e4: 2024 \ud380\ub4dc\ub294 2017-2021 \ud380\ub4dc\uc5d0 \ube44\ud574 \uc0c1\uc704 \ubc0f \ud558\uc704 \uc2e4\uc801 \uac04\uc758 \uaca9\ucc28\uac00 \ub450 \ubc30 \uc774\uc0c1 \uc99d\uac00\ud588\ub2e4 (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: AI \uc5f4\ud48d\uc740 VC \uc2dc\uc7a5\uc5d0 \ud070 \ubcc0\ud654\ub97c \uac00\uc838\uc654\ub2e4. 2024\ub144 \ud380\ub4dc\uc640 2017-2021\ub144 \ud380\ub4dc ..."
-    },
     {
       "timestamp": "2026-08-05 03:02:23",
       "message": "[PROCESSING] Analyzing: House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks (Kelcee Griffis/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 03:03:01",
       "message": "[PROCESSING] Analyzing: A Selective Magneto\u2010ionic Strategy for Hardware\u2010level Security..."
+    },
+    {
+      "timestamp": "2026-08-05 03:03:03",
+      "message": "[SKIP] Irrelevant (AI Filter): A Selective Magneto\u2010ionic Strategy for Hardware\u2010level Security"
     }
   ]
 }
