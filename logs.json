@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 11:49:43",
+  "last_updated": "2026-08-05 11:49:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 11:48:53",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-08-05 11:48:54",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 11:49:43",
       "message": "[PROCESSING] Analyzing: EA is now a private company..."
+    },
+    {
+      "timestamp": "2026-08-05 11:49:45",
+      "message": "[SKIP] Irrelevant (AI Filter): EA is now a private company"
     }
   ]
 }
