@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 10:43:27",
+  "last_updated": "2026-08-05 10:43:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 10:42:32",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-05 10:42:45",
       "message": "Found 159 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 10:43:27",
       "message": "[PROCESSING] Analyzing: How an OpenAI influencer trip backfired..."
+    },
+    {
+      "timestamp": "2026-08-05 10:43:29",
+      "message": "[SKIP] Irrelevant (AI Filter): How an OpenAI influencer trip backfired"
     }
   ]
 }
