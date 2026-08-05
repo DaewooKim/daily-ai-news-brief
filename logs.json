@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 20:41:49",
+  "last_updated": "2026-08-05 20:41:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 20:41:09",
-      "message": "[PROCESSING] Analyzing: Mysk: Apple's Private Relay tool can leak users' IP addresses due to issues in Apple's WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS (Joseph Cox/404 Media)..."
-    },
     {
       "timestamp": "2026-08-05 20:41:11",
       "message": "[SKIP] Irrelevant (AI Filter): Mysk: Apple's Private Relay tool can leak users' IP addresses due to issues in Apple's WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS (Joseph Cox/404 Media)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 20:41:49",
       "message": "[PROCESSING] Analyzing: The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one..."
+    },
+    {
+      "timestamp": "2026-08-05 20:41:51",
+      "message": "[SKIP] Irrelevant (AI Filter): The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one"
     }
   ]
 }
