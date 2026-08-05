@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 17:22:15",
+  "last_updated": "2026-08-05 17:22:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 17:21:25",
-      "message": "[PROCESSING] Analyzing: Apple\u2019s selling refurbished MacBook Neos with a $100 discount..."
-    },
     {
       "timestamp": "2026-08-05 17:21:28",
       "message": "[SKIP] Irrelevant (AI Filter): Apple\u2019s selling refurbished MacBook Neos with a $100 discount"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 17:22:15",
       "message": "Reprocessing: Apple is getting this wrong"
+    },
+    {
+      "timestamp": "2026-08-05 17:22:17",
+      "message": "[PROCESSING] Analyzing: Apple is getting this wrong..."
     }
   ]
 }
