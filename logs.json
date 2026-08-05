@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 14:05:39",
+  "last_updated": "2026-08-05 14:05:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 14:04:53",
-      "message": "[SUCCESS] Processed: \ud074\ub7ec\uc2a4\ud130\uc758 \ud655\uc7a5 \ubc0f \uc804\ud658 \ubb38\uc81c \uac15\ud654\n  > Summary: \uc18c\ud504\ud2b8\uc6e8\uc5b4\uac00 \ud074\ub7ec\uc2a4\ud130\uac00 \ud558\ub4dc\uc6e8\uc5b4(GPU \ub4f1)\ub97c \ud6a8\uc728\uc801\uc73c\ub85c \uc0ac\uc6a9\ud558\ub294 \ubc29\ubc95\uc744 \uc2dd\ubcc4\ud558\uace0, \uc804\ub825 ..."
-    },
     {
       "timestamp": "2026-08-05 14:04:55",
       "message": "[PROCESSING] Analyzing: Embedded HSM Root of Trust with Arm Cortex-M33 Processor..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 14:05:39",
       "message": "[PROCESSING] Analyzing: Optical Zonu Launches Miniature Ku-Band RFoF Transmitter..."
+    },
+    {
+      "timestamp": "2026-08-05 14:05:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Optical Zonu Launches Miniature Ku-Band RFoF Transmitter"
     }
   ]
 }
