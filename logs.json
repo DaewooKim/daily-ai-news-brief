@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-05 21:47:48",
+  "last_updated": "2026-08-05 21:47:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-05 21:47:09",
-      "message": "Reprocessing: Processing-in-Memory Simulator Supporting 11 Memory Technologies (Riken, Keio,Los Alamos, ORNL)"
-    },
     {
       "timestamp": "2026-08-05 21:47:10",
       "message": "[PROCESSING] Analyzing: Processing-in-Memory Simulator Supporting 11 Memory Technologies (Riken, Keio,Los Alamos, ORNL)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-05 21:47:48",
       "message": "[PROCESSING] Analyzing: The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one..."
+    },
+    {
+      "timestamp": "2026-08-05 21:47:50",
+      "message": "[SKIP] Irrelevant (AI Filter): The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one"
     }
   ]
 }
