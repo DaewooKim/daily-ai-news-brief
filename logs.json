@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 21:01:08",
+  "last_updated": "2026-08-06 21:01:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 21:00:30",
-      "message": "[SUCCESS] Processed: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ud0c0\uc54c\ub77c\uc2a4, AMD\uc5d0 \uc778\uc218\ub428\n  > Summary: AMD\uac00 AI \ucd94\ub860 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ud0c0\uc54c\ub77c\uc2a4\ub97c \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4. \ud0c0\uc54c\ub77c\uc2a4\ub294 \uc804 Tenstorre..."
-    },
     {
       "timestamp": "2026-08-06 21:00:31",
       "message": "[PROCESSING] Analyzing: GlobalFoundries\u2019 Growth Makes the Case for a U.S. Photonics Buildout..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 21:01:08",
       "message": "[PROCESSING] Analyzing: Lyft reports Q2 revenue up 16% YoY to $1.84B, vs. $1.81B est., rides up 12% to 262.4M, and expects Q3 gross bookings growth to slow to 15%-19% (Kelly Cloonan/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-08-06 21:01:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Lyft reports Q2 revenue up 16% YoY to $1.84B, vs. $1.81B est., rides up 12% to 262.4M, and expects Q3 gross bookings growth to slow to 15%-19% (Kelly Cloonan/Wall Street Journal)"
     }
   ]
 }
