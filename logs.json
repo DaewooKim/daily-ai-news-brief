@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 04:21:21",
+  "last_updated": "2026-08-06 04:21:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 04:20:43",
-      "message": "[SUCCESS] Processed: \ubd84\uc11d: \uadf8\ub85c\ud0a4\ud53c\ub514\uc544\ub294 4\uc6d4 24\uc77c \uc774\ud6c4\ub85c \uc778\uac04\uc774 \uc81c\uc548\ud55c \ud3b8\uc9d1\uc744 \ucc98\ub9ac\ud558\uc9c0 \uc54a\uace0 \uac31\uc2e0\ud558\uc9c0 \uc54a\uc740 \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4; xAI\uac00 2025\ub144 10\uc6d4\uc5d0 \ucd9c\uc2dc\ud588\ub2e4 (\ub85c\uc6b0\ud398\uc5b4)\n  > Summary: \ub85c\uc6b0\ud398\uc5b4: \uadf8\ub85c\ud0a4\ud53c\ub514\uc544\ub294 4\uc6d4 24\uc77c \uc774\ud6c4\ub85c \uc778\uac04\uc774 \uc81c\uc548\ud55c \ud3b8\uc9d1\uc744 \ucc98\ub9ac\ud558\uc9c0 \uc54a\uc73c\uba74\uc11c \uac31\uc2e0\uc774..."
-    },
     {
       "timestamp": "2026-08-06 04:20:44",
       "message": "[PROCESSING] Analyzing: AppLovin reports Q2 revenue up 53% YoY to $1.92B, below $1.94B est., and forecasts Q3 revenue within estimates; APP drops 16% after hours (Kelly Cloonan/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 04:21:21",
       "message": "[PROCESSING] Analyzing: DoorDash reports Q2 marketplace gross order value up 36% YoY to $33.08B, vs. $32.08B est., and forecasts Q3 marketplace GOV and adjusted EBITDA above estimates (Neil J Kanatt/Reuters)..."
+    },
+    {
+      "timestamp": "2026-08-06 04:21:24",
+      "message": "[SKIP] Irrelevant (AI Filter): DoorDash reports Q2 marketplace gross order value up 36% YoY to $33.08B, vs. $32.08B est., and forecasts Q3 marketplace GOV and adjusted EBITDA above estimates (Neil J Kanatt/Reuters)"
     }
   ]
 }
