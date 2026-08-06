@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 06:32:59",
+  "last_updated": "2026-08-06 06:33:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 06:32:21",
-      "message": "[PROCESSING] Analyzing: TikTok's US entity says it is closing its Nashville office, which held some of its content moderation team; filing: TikTok laid off 250 employees at the office (Emmett Lindner/New York Times)..."
-    },
     {
       "timestamp": "2026-08-06 06:32:23",
       "message": "[SKIP] Irrelevant (AI Filter): TikTok's US entity says it is closing its Nashville office, which held some of its content moderation team; filing: TikTok laid off 250 employees at the office (Emmett Lindner/New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 06:32:59",
       "message": "[PROCESSING] Analyzing: Embedded HSM Root of Trust with Arm Cortex-M33 Processor..."
+    },
+    {
+      "timestamp": "2026-08-06 06:33:03",
+      "message": "[SUCCESS] Processed: Arm Cortex-M33 \ud504\ub85c\uc138\uc11c\ub97c \uc774\uc6a9\ud55c \uc784\ubca0\ub514\ub4dc HSM \uc2e0\ub8b0\uc758 \ubfcc\ub9ac\n  > Summary: Rambus CryptoManager RT-648\uc740 \uc790\ub3d9\ucc28 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc744 \uc704\ud574 \uc124\uacc4\ub41c \uc644\uc804..."
     }
   ]
 }
