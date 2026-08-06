@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 04:20:18",
+  "last_updated": "2026-08-06 04:20:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 04:19:41",
-      "message": "[SUCCESS] Processed: OpenAI \ubaa8\ub378\uc744 \ud3ec\ud568\ud55c \uc81c3\uc790 \uc0ac\uc774\ubc84 \ud3c9\uac00\n  > Summary: OpenAI\ub294 \ucd5c\uadfc \uc81c3\uc790 \uc0ac\uc774\ubc84 \ubcf4\uc548 \ud3c9\uac00 \uc0ac\uac74\uc5d0 \ub300\ud574 \uc124\uba85\ud558\uace0 AI \ubaa8\ub378 \ud14c\uc2a4\ud2b8 \ubc0f \ud3c9..."
-    },
     {
       "timestamp": "2026-08-06 04:19:42",
       "message": "Reprocessing: Apple is getting this wrong"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 04:20:18",
       "message": "[PROCESSING] Analyzing: Jamie Urquhart (1957-2026): Friendly, Supportive, Right to the End..."
+    },
+    {
+      "timestamp": "2026-08-06 04:20:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Jamie Urquhart (1957-2026): Friendly, Supportive, Right to the End"
     }
   ]
 }
