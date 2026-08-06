@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-06 09:49:49",
+  "last_updated": "2026-08-06 09:49:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 09:49:07",
-      "message": "[PROCESSING] Analyzing: OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019..."
-    },
-    {
-      "timestamp": "2026-08-06 09:49:10",
-      "message": "[SKIP] Irrelevant (AI Filter): OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019"
-    },
     {
       "timestamp": "2026-08-06 09:49:12",
       "message": "[PROCESSING] Analyzing: X product chief Nikita Bier is leaving after one year..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-06 09:49:49",
       "message": "[PROCESSING] Analyzing: Hark previews its browser use agent for completing tasks..."
+    },
+    {
+      "timestamp": "2026-08-06 09:49:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Hark previews its browser use agent for completing tasks"
+    },
+    {
+      "timestamp": "2026-08-06 09:49:52",
+      "message": "Reprocessing: MacPaw taps Liquid AI to offer on-device inference to devs building for its app store"
     }
   ]
 }
