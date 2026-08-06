@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 07:39:49",
+  "last_updated": "2026-08-06 07:39:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 07:39:05",
-      "message": "[SUCCESS] Processed: AI \uc0b0\uc220\uc744 \ud6a8\uc728\uc801\uc73c\ub85c \ud655\uc7a5\ud558\ub294 \ubc29\ubc95\n  > Summary: AI \uc6cc\ud06c\ub85c\ub4dc\ub294 INT8, FP4, FP8, FP16 \ubc0f BF16\uacfc \uac19\uc740 \ub2e4\uc591\ud55c \uc22b\uc790 \ud615\uc2dd..."
-    },
     {
       "timestamp": "2026-08-06 07:39:07",
       "message": "[PROCESSING] Analyzing: AI: Friend And Foe For Chip Security..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 07:39:49",
       "message": "[PROCESSING] Analyzing: How Ion Implantation Process Drift Impacts Yield and Throughput in Semiconductor Fabs..."
+    },
+    {
+      "timestamp": "2026-08-06 07:39:51",
+      "message": "[SKIP] Irrelevant (AI Filter): How Ion Implantation Process Drift Impacts Yield and Throughput in Semiconductor Fabs"
     }
   ]
 }
