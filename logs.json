@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 16:32:19",
+  "last_updated": "2026-08-06 16:32:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 16:31:38",
-      "message": "[PROCESSING] Analyzing: Sources: DeepSeek has resumed its funding round, seeking $8B at a $74B valuation, after pausing talks following the leak of Liang Wenfeng's remarks to investors (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-06 16:31:41",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: DeepSeek has resumed its funding round, seeking $8B at a $74B valuation, after pausing talks following the leak of Liang Wenfeng's remarks to investors (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 16:32:19",
       "message": "[PROCESSING] Analyzing: When USB Reaches The Root Of Trust..."
+    },
+    {
+      "timestamp": "2026-08-06 16:32:22",
+      "message": "[SKIP] Irrelevant (AI Filter): When USB Reaches The Root Of Trust"
     }
   ]
 }
