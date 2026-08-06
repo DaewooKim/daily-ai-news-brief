@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-06 14:15:10",
+  "last_updated": "2026-08-06 14:15:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 14:14:13",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-08-06 14:14:29",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-06 14:14:29",
       "message": "[PROCESSING] Analyzing: It\u2019s the last day to get a $350 gift card with your Samsung Galaxy Z Fold 8 preorder..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-06 14:15:10",
       "message": "[SKIP] Irrelevant (AI Filter): GTA VI is getting an \u2018extended look\u2019 at the end of August"
+    },
+    {
+      "timestamp": "2026-08-06 14:15:11",
+      "message": "Reprocessing: Apple is getting this wrong"
+    },
+    {
+      "timestamp": "2026-08-06 14:15:13",
+      "message": "[PROCESSING] Analyzing: Apple is getting this wrong..."
     }
   ]
 }
