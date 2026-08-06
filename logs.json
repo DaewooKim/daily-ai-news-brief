@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 01:03:01",
+  "last_updated": "2026-08-06 01:03:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 01:02:20",
-      "message": "[PROCESSING] Analyzing: Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months..."
-    },
     {
       "timestamp": "2026-08-06 01:02:24",
       "message": "[SUCCESS] Processed: \uc77c\ub860 \uba38\uc2a4\ud06c\uc758 AI \uc704\ud0a4\ubc31\uacfc \uc2dc\ub3c4\uac00 \uba87 \ub2ec\uc9f8 \uc5c5\ub370\uc774\ud2b8\ub418\uc9c0 \uc54a\uc558\ub2e4\n  > Summary: \uc77c\ub860 \uba38\uc2a4\ud06c\uac00 \ub9cc\ub4e0 AI \uae30\ubc18 \uc628\ub77c\uc778 \ubc31\uacfc\uc0ac\uc804\uc778 Grokipedia\uac00 4\uc6d4 24\uc77c \uc774\ud6c4\ub85c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 01:03:01",
       "message": "[PROCESSING] Analyzing: Hark previews its browser use agent for completing tasks..."
+    },
+    {
+      "timestamp": "2026-08-06 01:03:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Hark previews its browser use agent for completing tasks"
     }
   ]
 }
