@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 20:59:17",
+  "last_updated": "2026-08-06 20:59:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 20:58:25",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-06 20:58:40",
       "message": "Found 160 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 20:59:17",
       "message": "[PROCESSING] Analyzing: It\u2019s the last day to get a $350 gift card with your Samsung Galaxy Z Fold 8 preorder..."
+    },
+    {
+      "timestamp": "2026-08-06 20:59:19",
+      "message": "[SKIP] Irrelevant (AI Filter): It\u2019s the last day to get a $350 gift card with your Samsung Galaxy Z Fold 8 preorder"
     }
   ]
 }
