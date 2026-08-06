@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 16:33:38",
+  "last_updated": "2026-08-06 16:33:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 16:32:58",
-      "message": "[SUCCESS] Processed: Qwen 3.8-Max\uc640 Claude Opus 5\uac00 \uc6d0\uc2dc \ubca4\uce58\ub9c8\ud06c \uc810\uc218\uac00 \uccad\uad6c\uc11c\ub97c \uc608\uce21\ud558\uc9c0 \ubabb\ud558\ub294 \uc774\uc720\ub97c \ubcf4\uc5ec\uc90d\ub2c8\ub2e4\n  > Summary: \uc54c\ub9ac\ubc14\ubc14\ub294 Qwen 3.8-Max\ub97c \ucd9c\uc2dc\ud558\uba70, Claude Fable 5\uc5d0 \uc774\uc5b4 \ub450 \ubc88\uc9f8 ..."
-    },
     {
       "timestamp": "2026-08-06 16:32:59",
       "message": "[PROCESSING] Analyzing: AI agents are part of your team now. Here\u2019s how to secure all of them...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 16:33:38",
       "message": "Reprocessing: Delinea targets AI agent risks with real-time authorization"
+    },
+    {
+      "timestamp": "2026-08-06 16:33:40",
+      "message": "[SKIP] Content too short: Delinea targets AI agent risks..."
     }
   ]
 }
