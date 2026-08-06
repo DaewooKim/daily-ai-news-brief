@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 23:15:30",
+  "last_updated": "2026-08-06 23:15:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 23:14:53",
-      "message": "[SUCCESS] Processed: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ud0c0\ub77c\uc2a4, AMD\uc5d0 \uc778\uc218\ub428\n  > Summary: AMD\ub294 AI \ucd94\ub860 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ud0c0\ub77c\uc2a4\ub97c \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4. \ud0c0\ub77c\uc2a4\ub294 \uc804 Tenstorrent ..."
-    },
     {
       "timestamp": "2026-08-06 23:14:54",
       "message": "[PROCESSING] Analyzing: GlobalFoundries\u2019 Growth Makes the Case for a U.S. Photonics Buildout..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 23:15:30",
       "message": "[PROCESSING] Analyzing: Twilio reports Q2 revenue up 22% YoY to $1.5B, above $1.43B est., and forecasts Q3 revenue above estimates; TWLO jumps 16%+ after hours (Reinhardt Krause/Investor's Business ...)..."
+    },
+    {
+      "timestamp": "2026-08-06 23:15:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Twilio reports Q2 revenue up 22% YoY to $1.5B, above $1.43B est., and forecasts Q3 revenue above estimates; TWLO jumps 16%+ after hours (Reinhardt Krause/Investor's Business ...)"
     }
   ]
 }
