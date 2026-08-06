@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 21:00:15",
+  "last_updated": "2026-08-06 21:00:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 20:59:37",
-      "message": "[SUCCESS] Processed: AI \uc2dc\ub300\ub97c \uc704\ud55c \uc800\uc7a5 \uc804\ub7b5 \ud3c9\uac00\n  > Summary: AI \uc2dc\ub300\uc5d0 \ub9de\ucdb0 AI\ub97c \ud655\uc7a5\ud560 \uc900\ube44 \uc0c1\ud0dc\ub97c \ud3c9\uac00\ud558\uace0, \uc778\ud504\ub77c\ub97c \uc804\ub7b5\uc801 \uc774\uc810\uc73c\ub85c \uc804\ud658\ud558\ub294 ..."
-    },
     {
       "timestamp": "2026-08-06 20:59:39",
       "message": "Reprocessing: Working with the American Psychological Association on youth mental health and AI"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 21:00:15",
       "message": "[PROCESSING] Analyzing: Hark previews its browser use agent for completing tasks..."
+    },
+    {
+      "timestamp": "2026-08-06 21:00:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Hark previews its browser use agent for completing tasks"
     }
   ]
 }
