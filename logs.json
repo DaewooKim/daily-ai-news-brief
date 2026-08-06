@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 22:07:00",
+  "last_updated": "2026-08-06 22:07:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 22:06:23",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 ChatGPT \ubb34\ub8cc \uc0ac\uc6a9\uc790\uc5d0\uac8c \ubb34\uc81c\ud55c \ud14d\uc2a4\ud2b8 \ucc44\ud305 \uc81c\uacf5\n  > Summary: OpenAI\ub294 \ubb34\ub8cc \ubc0f Go \ud2f0\uc5b4\uc758 ChatGPT \uc0ac\uc6a9\uc790\ub4e4\uc774 \ubb34\uc81c\ud55c \ud14d\uc2a4\ud2b8 \ucc44\ud305\uc744 \ud560 \uc218 ..."
-    },
     {
       "timestamp": "2026-08-06 22:06:25",
       "message": "[PROCESSING] Analyzing: TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 22:07:00",
       "message": "[PROCESSING] Analyzing: OpenAI says Apple\u2019s own security practices undermine its trade secrets case..."
+    },
+    {
+      "timestamp": "2026-08-06 22:07:02",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI says Apple\u2019s own security practices undermine its trade secrets case"
     }
   ]
 }
