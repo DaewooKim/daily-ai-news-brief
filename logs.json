@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 20:59:24",
+  "last_updated": "2026-08-06 20:59:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 20:58:46",
-      "message": "[PROCESSING] Analyzing: The AirPods Pro are $60 off, their best price since late June..."
-    },
     {
       "timestamp": "2026-08-06 20:58:48",
       "message": "[SKIP] Irrelevant (AI Filter): The AirPods Pro are $60 off, their best price since late June"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 20:59:24",
       "message": "Reprocessing: Your Platform Was Built For A Different Era, And AI Just Exposed It"
+    },
+    {
+      "timestamp": "2026-08-06 20:59:25",
+      "message": "[SKIP] Content too short: Your Platform Was Built For A ..."
     }
   ]
 }
