@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 12:03:52",
+  "last_updated": "2026-08-06 12:03:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 12:03:09",
-      "message": "[PROCESSING] Analyzing: Defense tech company Hadrian raised a $1.37B Series D at an $8B valuation to expand its factories and Opus software platform, after a $260M Series C in 2025 (Colin Demarest/Axios)..."
-    },
     {
       "timestamp": "2026-08-06 12:03:12",
       "message": "[SKIP] Irrelevant (AI Filter): Defense tech company Hadrian raised a $1.37B Series D at an $8B valuation to expand its factories and Opus software platform, after a $260M Series C in 2025 (Colin Demarest/Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 12:03:52",
       "message": "[SUCCESS] Processed: AI \uc0b0\uc220\uc744 \ud6a8\uc728\uc801\uc73c\ub85c \ud655\uc7a5\ud558\ub294 \ubc29\ubc95\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\ub294 INT8, FP4, FP8, FP16 \ubc0f BF16\uacfc \uac19\uc740 \ub2e4\uc591\ud55c \uc22b\uc790 \ud615..."
+    },
+    {
+      "timestamp": "2026-08-06 12:03:54",
+      "message": "Reprocessing: AI: Friend And Foe For Chip Security"
     }
   ]
 }
