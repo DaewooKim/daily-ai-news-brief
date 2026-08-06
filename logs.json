@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-06 10:56:27",
+  "last_updated": "2026-08-06 10:56:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-06 10:55:47",
-      "message": "Reprocessing: Third-party cyber evaluations involving OpenAI models"
-    },
     {
       "timestamp": "2026-08-06 10:55:49",
       "message": "[PROCESSING] Analyzing: Third-party cyber evaluations involving OpenAI models..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-06 10:56:27",
       "message": "[PROCESSING] Analyzing: electronica 2026: Electronics as the Basis of the All-Electric Society..."
+    },
+    {
+      "timestamp": "2026-08-06 10:56:30",
+      "message": "[SKIP] Irrelevant (AI Filter): electronica 2026: Electronics as the Basis of the All-Electric Society"
     }
   ]
 }
