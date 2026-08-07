@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-07 12:36:09",
+  "last_updated": "2026-08-07 12:36:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-07 12:35:27",
-      "message": "Found 166 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-07 12:35:27",
       "message": "[PROCESSING] Analyzing: The best classic slasher movie you&#8217;ll never watch..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-07 12:36:09",
       "message": "Reprocessing: Your Platform Was Built For A Different Era, And AI Just Exposed It"
+    },
+    {
+      "timestamp": "2026-08-07 12:36:11",
+      "message": "[SKIP] Content too short: Your Platform Was Built For A ..."
     }
   ]
 }
