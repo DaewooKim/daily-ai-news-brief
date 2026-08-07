@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-07 10:26:02",
+  "last_updated": "2026-08-07 10:26:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-07 10:25:28",
-      "message": "[PROCESSING] Analyzing: The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one..."
-    },
     {
       "timestamp": "2026-08-07 10:25:31",
       "message": "[SKIP] Irrelevant (AI Filter): The Shai-Hulud npm worm didn't fake its security check \u2014 it earned a legitimate one"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-07 10:26:02",
       "message": "Reprocessing: AMD acquires Taalas to hardwire AI models into silicon"
+    },
+    {
+      "timestamp": "2026-08-07 10:26:04",
+      "message": "[SKIP] Content too short: AMD acquires Taalas to hardwir..."
     }
   ]
 }
