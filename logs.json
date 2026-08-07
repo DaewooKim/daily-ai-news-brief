@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-07 10:22:32",
+  "last_updated": "2026-08-07 10:22:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-07 10:21:47",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-08-07 10:21:48",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-07 10:22:32",
       "message": "[PROCESSING] Analyzing: Apple increases trade-in offers and adds new Android devices..."
+    },
+    {
+      "timestamp": "2026-08-07 10:22:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple increases trade-in offers and adds new Android devices"
     }
   ]
 }
