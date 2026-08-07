@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-07 08:13:40",
-  "status": "idle",
+  "last_updated": "2026-08-07 09:15:16",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-07 08:12:04",
-      "message": "[SKIP] Content too short: Broadcom updates VMware securi..."
+      "timestamp": "2026-08-07 09:15:03",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-07 08:12:06",
-      "message": "Reprocessing: Datadog shares plummet despite expectation-topping quarterly results"
+      "timestamp": "2026-08-07 09:15:04",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-07 08:12:07",
-      "message": "[SKIP] Content too short: Datadog shares plummet despite..."
+      "timestamp": "2026-08-07 09:15:04",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-07 08:12:09",
-      "message": "Reprocessing: New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls"
+      "timestamp": "2026-08-07 09:15:16",
+      "message": "Found 161 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-07 08:12:11",
-      "message": "[SKIP] Content too short: New details on OpenAI/Hugging ..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:13",
-      "message": "Reprocessing: Defenders adapt as attackers accelerate: theCUBE\u2019s Black Hat day one keynote analysis"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:14",
-      "message": "[SKIP] Content too short: Defenders adapt as attackers a..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:17",
-      "message": "Reprocessing: Agentic AI security tests enterprise defenses as scale outpaces strategy"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:19",
-      "message": "[SKIP] Content too short: Agentic AI security tests ente..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:20",
-      "message": "Reprocessing: Cyber resilience emerges as a distinct investment category as downtime costs hit $19M per hour"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:23",
-      "message": "[SKIP] Content too short: Cyber resilience emerges as a ..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:25",
-      "message": "Reprocessing: AI raises the stakes for CISOs as enterprise risk decisions shift: theCUBE analysis"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:26",
-      "message": "[SKIP] Content too short: AI raises the stakes for CISOs..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:29",
-      "message": "Reprocessing: How asset intelligence gives security teams control over AI agents"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:31",
-      "message": "[SKIP] Content too short: How asset intelligence gives s..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:33",
-      "message": "Reprocessing: OPSWAT targets file regeneration over detection for critical infrastructure security"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:35",
-      "message": "[SKIP] Content too short: OPSWAT targets file regenerati..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:36",
-      "message": "Reprocessing: Delinea targets AI agent risks with real-time authorization"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:38",
-      "message": "[SKIP] Content too short: Delinea targets AI agent risks..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:39",
-      "message": "Reprocessing: Tenex pairs agentic AI with human oversight for faster security operations"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:41",
-      "message": "[SKIP] Content too short: Tenex pairs agentic AI with hu..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:43",
-      "message": "Reprocessing: Envoy launches Response to provide threat intelligence and incident management for businesses"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:44",
-      "message": "[SKIP] Content too short: Envoy launches Response to pro..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:46",
-      "message": "Reprocessing: Inevitable AI Group raises $6M to derail SaaS incumbents with more agile, AI-native software startups"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:47",
-      "message": "[SKIP] Content too short: Inevitable AI Group raises $6M..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:49",
-      "message": "Reprocessing: DXC partners with Primary on zero-trust security for enterprise AI"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:51",
-      "message": "[SKIP] Content too short: DXC partners with Primary on z..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:53",
-      "message": "Reprocessing: Framewerx acquires AD Micro Technology to widen its AI-driven managed services"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:55",
-      "message": "[SKIP] Content too short: Framewerx acquires AD Micro Te..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:56",
-      "message": "Reprocessing: Google targets AI startup Mechanize\u2019s technology and talent in proposed $1.5B deal"
-    },
-    {
-      "timestamp": "2026-08-07 08:12:58",
-      "message": "[SKIP] Content too short: Google targets AI startup Mech..."
-    },
-    {
-      "timestamp": "2026-08-07 08:12:59",
-      "message": "Reprocessing: Meta takes on Anthropic and OpenAI with its first AI coding agent, Muse Code"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:01",
-      "message": "[SKIP] Content too short: Meta takes on Anthropic and Op..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:02",
-      "message": "Reprocessing: Confirming rumors, Anthropic reveals plan to develop custom chip"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:04",
-      "message": "[SKIP] Content too short: Confirming rumors, Anthropic r..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:06",
-      "message": "Reprocessing: How peer review keeps Black Hat\u2019s global stage credible"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:07",
-      "message": "[SKIP] Content too short: How peer review keeps Black Ha..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:09",
-      "message": "Reprocessing: AMD to Acquire Taalas for Model Specific AI Inference Chips"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:10",
-      "message": "[PROCESSING] Analyzing: AMD to Acquire Taalas for Model Specific AI Inference Chips..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:14",
-      "message": "[SUCCESS] Processed: AMD, \ubaa8\ub378 \ud2b9\uc815 AI \ucd94\ub860 \uce69\uc744 \uc704\ud574 Taalas \uc778\uc218\n  > Summary: AMD\ub294 \ub2e8\uc77c \ubaa8\ub378\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \ubaa9\uc801\uc5d0 \ub9de\uac8c \uc124\uacc4\ub41c AI \ucd94\ub860 \uce69\uc744 \uac1c\ubc1c\ud558\uae30 \uc704\ud574 T..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:15",
-      "message": "Reprocessing: Gigantic DapuStor R6060 512TB E2 NVMe SSD Shown at FMS 2026"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:17",
-      "message": "[PROCESSING] Analyzing: Gigantic DapuStor R6060 512TB E2 NVMe SSD Shown at FMS 2026..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:20",
-      "message": "[SUCCESS] Processed: FMS 2026\uc5d0\uc11c \ubcf4\uc5ec\uc9c4 \uac70\ub300\ud55c DapuStor R6060 512TB E2 NVMe SSD\n  > Summary: FMS 2026\uc5d0\uc11c 512TB \uc6a9\ub7c9\uc744 \uac00\uc9c4 E2 \ud615\ud0dc\uc758 NVMe SSD\uc778 DapuStor ..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:22",
-      "message": "[PROCESSING] Analyzing: Lenovo ThinkPad X1 Carbon Gen 14 Review..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:25",
-      "message": "[SKIP] Irrelevant (AI Filter): Lenovo ThinkPad X1 Carbon Gen 14 Review"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:26",
-      "message": "[PROCESSING] Analyzing: ASUS Showcases NUC 16 Family Powered By Panther Lake..."
-    },
-    {
-      "timestamp": "2026-08-07 08:13:29",
-      "message": "[SKIP] Irrelevant (AI Filter): ASUS Showcases NUC 16 Family Powered By Panther Lake"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:30",
-      "message": "Completed! New: 1, Updated: 44"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:35",
-      "message": "Saved 45 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-07 08:13:39",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-07 09:15:16",
+      "message": "[PROCESSING] Analyzing: Meta ordered to pay an additional $567 million in public nuisance ruling..."
     }
   ]
 }
