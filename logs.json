@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-07 03:42:14",
+  "last_updated": "2026-08-07 03:42:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-07 03:41:36",
-      "message": "[SUCCESS] Processed: ChatGPT, \ubb34\ub8cc \uc0ac\uc6a9\uc790\ub97c \uc704\ud55c \ubb34\uc81c\ud55c \ud14d\uc2a4\ud2b8 \ucc44\ud305 \uc81c\uacf5\n  > Summary: OpenAI\ub294 \ubb34\ub8cc \ubc0f Go \uc0ac\uc6a9\uc790\uac00 \ubcf5\uc7a1\ud55c \ucffc\ub9ac\ub97c \uc704\ud55c \uc0c8\ub85c\uc6b4 \uc0dd\uac01 \ubc84\ud2bc\uc744 \ucd94\uac00\ud55c\ub2e4\uace0 \ubc1c..."
-    },
     {
       "timestamp": "2026-08-07 03:41:38",
       "message": "[PROCESSING] Analyzing: OpenAI says Apple\u2019s own security practices undermine its trade secrets case..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-07 03:42:14",
       "message": "[PROCESSING] Analyzing: electronica 2026: Electronics as the Basis of the All-Electric Society..."
+    },
+    {
+      "timestamp": "2026-08-07 03:42:16",
+      "message": "[SKIP] Irrelevant (AI Filter): electronica 2026: Electronics as the Basis of the All-Electric Society"
     }
   ]
 }
