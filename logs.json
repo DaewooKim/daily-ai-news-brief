@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-08 11:59:43",
-  "status": "idle",
+  "last_updated": "2026-08-08 13:00:26",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-08 11:58:19",
-      "message": "Reprocessing: Blackstone, KKR and CME targeted in vishing wave tied to BlackFile crew"
+      "timestamp": "2026-08-08 13:00:09",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-08 11:58:20",
-      "message": "[SKIP] Content too short: Blackstone, KKR and CME target..."
+      "timestamp": "2026-08-08 13:00:10",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-08 11:58:22",
-      "message": "Reprocessing: Report: OpenAI\u2019s upcoming AI speaker will be shaped like a donut and cost around $300"
+      "timestamp": "2026-08-08 13:00:10",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-08 11:58:23",
-      "message": "[SKIP] Content too short: Report: OpenAI\u2019s upcoming AI s..."
+      "timestamp": "2026-08-08 13:00:26",
+      "message": "Found 173 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-08 11:58:25",
-      "message": "Reprocessing: Meta\u2019s Muse Spark 1.1 hacked an external organization during cybersecurity test"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:26",
-      "message": "[SKIP] Content too short: Meta\u2019s Muse Spark 1.1 hacked a..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:28",
-      "message": "Reprocessing: AMD acquires Taalas to hardwire AI models into silicon"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:29",
-      "message": "[SKIP] Content too short: AMD acquires Taalas to hardwir..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:31",
-      "message": "Reprocessing: Microsoft pushes safer software construction as AI makes offense cheap"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:33",
-      "message": "[SKIP] Content too short: Microsoft pushes safer softwar..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:34",
-      "message": "Reprocessing: Why AI sandbox escapes are cybersecurity\u2019s newest attack surface"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:36",
-      "message": "[SKIP] Content too short: Why AI sandbox escapes are cyb..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:37",
-      "message": "Reprocessing: Atlassian stock skyrockets more than 35% as cloud growth roars back"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:39",
-      "message": "[SKIP] Content too short: Atlassian stock skyrockets mor..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:40",
-      "message": "Reprocessing: Cloudflare shares jump 18% on revenue beat and raised full-year outlook"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:42",
-      "message": "[SKIP] Content too short: Cloudflare shares jump 18% on ..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:43",
-      "message": "Reprocessing: Broadcom updates VMware security for AI-era threats"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:45",
-      "message": "[SKIP] Content too short: Broadcom updates VMware securi..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:46",
-      "message": "Reprocessing: Datadog shares plummet despite expectation-topping quarterly results"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:48",
-      "message": "[SKIP] Content too short: Datadog shares plummet despite..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:49",
-      "message": "Reprocessing: New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:51",
-      "message": "[SKIP] Content too short: New details on OpenAI/Hugging ..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:52",
-      "message": "Reprocessing: Defenders adapt as attackers accelerate: theCUBE\u2019s Black Hat day one keynote analysis"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:54",
-      "message": "[SKIP] Content too short: Defenders adapt as attackers a..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:55",
-      "message": "Reprocessing: Agentic AI security tests enterprise defenses as scale outpaces strategy"
-    },
-    {
-      "timestamp": "2026-08-08 11:58:57",
-      "message": "[SKIP] Content too short: Agentic AI security tests ente..."
-    },
-    {
-      "timestamp": "2026-08-08 11:58:58",
-      "message": "Reprocessing: Cyber resilience emerges as a distinct investment category as downtime costs hit $19M per hour"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:00",
-      "message": "[SKIP] Content too short: Cyber resilience emerges as a ..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:01",
-      "message": "Reprocessing: AI raises the stakes for CISOs as enterprise risk decisions shift: theCUBE analysis"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:02",
-      "message": "[SKIP] Content too short: AI raises the stakes for CISOs..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:04",
-      "message": "Reprocessing: Asset intelligence brings AI agents into the security fold"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:05",
-      "message": "[SKIP] Content too short: Asset intelligence brings AI a..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:07",
-      "message": "Reprocessing: OPSWAT targets file regeneration over detection for critical infrastructure security"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:08",
-      "message": "[SKIP] Content too short: OPSWAT targets file regenerati..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:10",
-      "message": "Reprocessing: Delinea targets AI agent risks with real-time authorization"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:11",
-      "message": "[SKIP] Content too short: Delinea targets AI agent risks..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:13",
-      "message": "Reprocessing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:14",
-      "message": "[PROCESSING] Analyzing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:17",
-      "message": "[SUCCESS] Processed: FMS 2026\uc5d0\uc11c \ud45c\uc2dc\ub41c 10M IOPS Kioxia GP1 SSD\n  > Summary: FMS 2026\uc5d0\uc11c Kioxia GP1 PCIe Gen6 NVMe SSD\uac00 10M IOPS..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:19",
-      "message": "Reprocessing: AMD to Acquire Taalas for Model Specific AI Inference Chips"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:20",
-      "message": "[PROCESSING] Analyzing: AMD to Acquire Taalas for Model Specific AI Inference Chips..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:23",
-      "message": "[SUCCESS] Processed: \ubaa8\ub378 \ud2b9\uc815 AI \ucd94\ub860 \uce69\uc744 \uc704\ud55c \ud0c0\uc54c\ub77c\uc2a4 \uc778\uc218, AMD \ubc1c\ud45c\n  > Summary: AMD\uac00 \ubaa8\ub378 \ud2b9\uc815 AI \ucd94\ub860 \uce69\uc744 \uac1c\ubc1c\ud558\uae30 \uc704\ud574 \ud0c0\uc54c\ub77c\uc2a4\ub97c \uc778\uc218\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:25",
-      "message": "Reprocessing: Gigantic DapuStor R6060 512TB E2 NVMe SSD Shown at FMS 2026"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:26",
-      "message": "[PROCESSING] Analyzing: Gigantic DapuStor R6060 512TB E2 NVMe SSD Shown at FMS 2026..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:29",
-      "message": "[SUCCESS] Processed: \uac70\ub300\ud55c DapuStor R6060 512TB E2 NVMe SSD\uac00 FMS 2026\uc5d0\uc11c \uacf5\uac1c\ub428\n  > Summary: FMS 2026\uc5d0\uc11c DapuStor R6060\uc774\ub77c\ub294 \uac70\ub300\ud55c E2 \ud615\uc2dd\uc758 NVMe SSD\uac00 ..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:31",
-      "message": "[PROCESSING] Analyzing: Lenovo ThinkPad X1 Carbon Gen 14 Review..."
-    },
-    {
-      "timestamp": "2026-08-08 11:59:33",
-      "message": "[SKIP] Irrelevant (AI Filter): Lenovo ThinkPad X1 Carbon Gen 14 Review"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:34",
-      "message": "Completed! New: 0, Updated: 44"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:39",
-      "message": "Saved 44 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-08 11:59:42",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-08 13:00:26",
+      "message": "[PROCESSING] Analyzing: Is this $450 laptop from an unknown brand too good to be true?..."
     }
   ]
 }
