@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 18:32:00",
+  "last_updated": "2026-08-08 18:32:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 18:31:25",
-      "message": "[PROCESSING] Analyzing: My favorite feel-good show is back..."
-    },
     {
       "timestamp": "2026-08-08 18:31:27",
       "message": "[SKIP] Irrelevant (AI Filter): My favorite feel-good show is back"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 18:32:00",
       "message": "Reprocessing: Why Shouldn\u2019t Amazon Spinoff AWS And Annapurna Labs?"
+    },
+    {
+      "timestamp": "2026-08-08 18:32:01",
+      "message": "[SKIP] Content too short: Why Shouldn\u2019t Amazon Spinoff A..."
     }
   ]
 }
