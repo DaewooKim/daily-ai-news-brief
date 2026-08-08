@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 18:31:48",
+  "last_updated": "2026-08-08 18:31:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 18:31:08",
-      "message": "[PROCESSING] Analyzing: An Amazon data center could have the worst polluting power plant in the country..."
-    },
     {
       "timestamp": "2026-08-08 18:31:11",
       "message": "[SKIP] Irrelevant (AI Filter): An Amazon data center could have the worst polluting power plant in the country"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 18:31:48",
       "message": "Reprocessing: D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture"
+    },
+    {
+      "timestamp": "2026-08-08 18:31:49",
+      "message": "[SKIP] Content too short: D-Wave Intros Two-Qubit, Error..."
     }
   ]
 }
