@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 04:11:34",
+  "last_updated": "2026-08-08 04:11:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 04:10:57",
-      "message": "Found 175 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-08 04:10:57",
       "message": "[PROCESSING] Analyzing: The gaming site sponsored by Walmart lays off its editorial staff..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 04:11:34",
       "message": "Reprocessing: D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture"
+    },
+    {
+      "timestamp": "2026-08-08 04:11:36",
+      "message": "[SKIP] Content too short: D-Wave Intros Two-Qubit, Error..."
     }
   ]
 }
