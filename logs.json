@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 13:01:03",
+  "last_updated": "2026-08-08 13:01:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 13:00:10",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-08 13:00:26",
       "message": "Found 173 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 13:01:03",
       "message": "[SKIP] Irrelevant (AI Filter): Microsoft Edge is about to lock out older ad blockers, just like Chrome did"
+    },
+    {
+      "timestamp": "2026-08-08 13:01:04",
+      "message": "Reprocessing: With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery"
     }
   ]
 }
