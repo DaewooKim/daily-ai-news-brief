@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 14:07:36",
+  "last_updated": "2026-08-08 14:07:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 14:06:49",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-08-08 14:06:49",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 14:07:36",
       "message": "[PROCESSING] Analyzing: Microsoft Edge is about to lock out older ad blockers, just like Chrome did..."
+    },
+    {
+      "timestamp": "2026-08-08 14:07:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Microsoft Edge is about to lock out older ad blockers, just like Chrome did"
     }
   ]
 }
