@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 00:53:09",
+  "last_updated": "2026-08-08 00:53:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 00:52:31",
-      "message": "[SUCCESS] Processed: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Taalas, AMD\uc5d0 \uc778\uc218\ub418\ub2e4\n  > Summary: AMD\uac00 \uc778\uacf5\uc9c0\ub2a5 \ucd94\ub860 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 Taalas\ub97c \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4. Taalas\ub294 \uc804 Ten..."
-    },
     {
       "timestamp": "2026-08-08 00:52:32",
       "message": "[PROCESSING] Analyzing: GlobalFoundries\u2019 Growth Makes the Case for a U.S. Photonics Buildout..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 00:53:09",
       "message": "[PROCESSING] Analyzing: Build an Autobahn for Zero-Day Defense with Strategic Gateways..."
+    },
+    {
+      "timestamp": "2026-08-08 00:53:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Build an Autobahn for Zero-Day Defense with Strategic Gateways"
     }
   ]
 }
