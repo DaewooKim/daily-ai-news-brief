@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 17:25:55",
+  "last_updated": "2026-08-08 17:25:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 17:25:18",
-      "message": "Found 162 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-08 17:25:18",
       "message": "[PROCESSING] Analyzing: Buc-ee\u2019s dodges John Oliver to sue another small business..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 17:25:55",
       "message": "[PROCESSING] Analyzing: The only instant cameras worth your money..."
+    },
+    {
+      "timestamp": "2026-08-08 17:25:57",
+      "message": "[SKIP] Irrelevant (AI Filter): The only instant cameras worth your money"
     }
   ]
 }
