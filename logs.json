@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 02:00:50",
+  "last_updated": "2026-08-08 02:00:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 02:00:15",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, macOS \ubc0f Linux\uc5d0\uc11c \uc11c\ub85c \uba54\uc2dc\uc9c0\ub97c \uc8fc\uace0 \ubc1b\uc744 \uc218 \uc788\ub294 \uae30\ub2a5 \ubc1c\ud45c\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 Claude Code\uc758 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc744 \ubc1c\ud45c\ud558\uc600\ub2e4. \uc774 \uae30\ub2a5\uc740 macOS \ubc0f Li..."
-    },
     {
       "timestamp": "2026-08-08 02:00:17",
       "message": "[PROCESSING] Analyzing: The US OCC denies Dutch fintech Bunq's application for a national bank charter, citing the need for more clarity on its business plan to expand in the US (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 02:00:50",
       "message": "[PROCESSING] Analyzing: Rapid Switching of Optical Properties in a Doped Semiconductor By Femtosecond Laser Pulses (Imperial College London, U. of Exeter)..."
+    },
+    {
+      "timestamp": "2026-08-08 02:00:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Rapid Switching of Optical Properties in a Doped Semiconductor By Femtosecond Laser Pulses (Imperial College London, U. of Exeter)"
     }
   ]
 }
