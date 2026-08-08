@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-08 16:21:58",
+  "last_updated": "2026-08-08 16:22:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-08 16:21:22",
-      "message": "[PROCESSING] Analyzing: Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal (Hiroko Tabuchi/New York Times)..."
-    },
     {
       "timestamp": "2026-08-08 16:21:26",
       "message": "[SUCCESS] Processed: \uc544\ub9c8\uc874, 2040\ub144 \ud0c4\uc18c\uc911\ub9bd \ubaa9\ud45c\uc640 \uc0c1\ucda9\ud558\ub294 \ud14d\uc0ac\uc2a4 AI \ub370\uc774\ud130 \uc13c\ud130\ub97c \uc704\ud55c 7.65GW \uac00\uc2a4 \ubc1c\uc804\uc18c \uc9c0\uc6d0\n  > Summary: \uc544\ub9c8\uc874\uc774 2040\ub144 \ud0c4\uc18c\uc911\ub9bd \ubaa9\ud45c\uc640 \uc0c1\ucda9\ub418\ub294 7.65GW \uaddc\ubaa8\uc758 \uac00\uc2a4 \ubc1c\uc804\uc18c\uc5d0 \ud22c\uc790\ud558\uace0 \uc788..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-08 16:21:58",
       "message": "[PROCESSING] Analyzing: When USB Reaches The Root Of Trust..."
+    },
+    {
+      "timestamp": "2026-08-08 16:22:00",
+      "message": "[SKIP] Irrelevant (AI Filter): When USB Reaches The Root Of Trust"
     }
   ]
 }
