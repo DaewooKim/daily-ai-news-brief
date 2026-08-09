@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 11:00:23",
+  "last_updated": "2026-08-09 11:00:25",
   "status": "running",
   "logs": [
     {
@@ -45,6 +45,10 @@
     {
       "timestamp": "2026-08-09 11:00:23",
       "message": "[PROCESSING] Analyzing: Is this $450 laptop from an unknown brand too good to be true?..."
+    },
+    {
+      "timestamp": "2026-08-09 11:00:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Is this $450 laptop from an unknown brand too good to be true?"
     }
   ]
 }
