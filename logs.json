@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-09 17:35:31",
+  "last_updated": "2026-08-09 17:35:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-09 17:34:55",
-      "message": "[SKIP] Irrelevant (AI Filter): Is this $450 laptop from an unknown brand too good to be true?"
-    },
     {
       "timestamp": "2026-08-09 17:34:56",
       "message": "[PROCESSING] Analyzing: My favorite feel-good show is back..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-09 17:35:31",
       "message": "[PROCESSING] Analyzing: OpenAI says Apple\u2019s own security practices undermine its trade secrets case..."
+    },
+    {
+      "timestamp": "2026-08-09 17:35:33",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI says Apple\u2019s own security practices undermine its trade secrets case"
     }
   ]
 }
