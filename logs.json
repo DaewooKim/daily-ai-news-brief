@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 18:58:10",
+  "last_updated": "2026-08-10 18:58:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 18:57:29",
-      "message": "[SUCCESS] Processed: OpenAI, \ub450 \uac00\uc9c0 Daybreak \ud2f0\uc5b4 \uacf5\uac1c: \ucd5c\ucca8\ub2e8 \ubaa8\ub378\uc5d0 \uc811\uadfc\ud560 \uc218 \uc788\ub294 Daybreak Blue\uc640 \ubaa9\uc801\ubcc4\ub85c \ud6c8\ub828\ub41c \uc0ac\uc774\ubc84 \ubcf4\uc548 \ubaa8\ub378\uc744 \uc81c\uacf5\ud558\ub294 Daybreak Red\ub97c \uc120\ubcf4\uc774\ub2e4 (OpenAI)\n  > Summary: OpenAI\ub294 \ub450 \uac00\uc9c0 Daybreak \ud2f0\uc5b4\ub97c \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. Daybreak Blue\ub294 \ucd5c..."
-    },
     {
       "timestamp": "2026-08-10 18:57:31",
       "message": "Reprocessing: OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 18:58:10",
       "message": "[PROCESSING] Analyzing: Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)..."
+    },
+    {
+      "timestamp": "2026-08-10 18:58:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)"
     }
   ]
 }
