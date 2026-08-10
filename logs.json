@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 04:33:04",
+  "last_updated": "2026-08-10 04:33:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 04:32:24",
-      "message": "[PROCESSING] Analyzing: AI Chip Startup Taalas Acquired by AMD..."
-    },
     {
       "timestamp": "2026-08-10 04:32:27",
       "message": "[SUCCESS] Processed: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 Taalas, AMD\uc5d0 \uc778\uc218\n  > Summary: AMD\uac00 \uc804 Tenstorrent CEO\uc778 Ljubisa Bajic\uac00 \uacf5\ub3d9 \uc124\ub9bd\ud55c AI \ucd94..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 04:33:04",
       "message": "[PROCESSING] Analyzing: Sources: the UK Royal Navy removed internet connectivity from its drones' cameras, after finding they sent \"heartbeat communications\" to an IP address in China (Richard Holmes/Telegraph)..."
+    },
+    {
+      "timestamp": "2026-08-10 04:33:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the UK Royal Navy removed internet connectivity from its drones' cameras, after finding they sent \"heartbeat communications\" to an IP address in China (Richard Holmes/Telegraph)"
     }
   ]
 }
