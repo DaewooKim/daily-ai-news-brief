@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 05:38:42",
+  "last_updated": "2026-08-10 05:38:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 05:38:03",
-      "message": "[PROCESSING] Analyzing: AI Chip Startup Taalas Acquired by AMD..."
-    },
     {
       "timestamp": "2026-08-10 05:38:06",
       "message": "[SUCCESS] Processed: AI \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \ud0c8\ub77c\uc2a4\uac00 AMD\uc5d0 \uc778\uc218\ub428\n  > Summary: AMD\uac00 AI \ucd94\ub860 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ud0c8\ub77c\uc2a4\ub97c \uc778\uc218\ud588\uc2b5\ub2c8\ub2e4. \ud0c8\ub77c\uc2a4\ub294 \uc804 Tenstorrent..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 05:38:42",
       "message": "[PROCESSING] Analyzing: Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan's Kumamoto as early as 2029 (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-08-10 05:38:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan's Kumamoto as early as 2029 (Nikkei Asia)"
     }
   ]
 }
