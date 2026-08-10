@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 10:03:26",
+  "last_updated": "2026-08-10 10:03:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 10:02:38",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \ud654\uc6e8\uc774\uc758 CANN\uc73c\ub85c \uc804\ud658\ud558\ub294 \ub370\ub294 \uc8fc\uc694 \ucf54\ub4dc \uc7ac\uc791\uc131 \ud544\uc694, \uc911\uad6d AI \uc5f0\uad6c\uc18c\uc5d0\uc11c Nvidia \uce69\uc774 LLM \ud6c8\ub828\uc758 \ud45c\uc900\uc73c\ub85c \ub0a8\uc544\uc788\uc74c\n  > Summary: \uc911\uad6d\uc758 \uc8fc\uc694 \ub300\ud615 \uc5b8\uc5b4 \ubaa8\ub378 \uc5f0\uad6c\uc18c\uc5d0\uc11c \uac00\uc7a5 \ubc1c\uc804\ub41c \uc778\uacf5\uc9c0\ub2a5 \ubaa8\ub378\ub4e4\uc774 \uc5ec\uc804\ud788 Nvidia ..."
-    },
     {
       "timestamp": "2026-08-10 10:02:40",
       "message": "[PROCESSING] Analyzing: Q&A with historian Jill Lepore on her new book The Rise and Fall of the Artificial State, tech leaders misreading science fiction warnings as manuals, and more (Anthony Ha/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 10:03:26",
       "message": "[PROCESSING] Analyzing: Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)..."
+    },
+    {
+      "timestamp": "2026-08-10 10:03:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)"
     }
   ]
 }
