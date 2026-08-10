@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 12:16:31",
+  "last_updated": "2026-08-10 12:16:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 12:15:48",
-      "message": "[SUCCESS] Processed: \ud55c\uad6d, \uc720\ub9dd \ubc18\ub3c4\uccb4 \uc18c\uc7ac, \ubd80\ud488 \ubc0f \uacf5\uc7a5 \uc5c6\ub294 \uae30\uc5c5\uc744 \uc704\ud55c \uc57d 35\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uce69 \uae30\uae08 \ucd9c\ubc94 \uacc4\ud68d\n  > Summary: \ud55c\uad6d\uc774 \uc720\ub9dd \ubc18\ub3c4\uccb4 \uc18c\uc7ac, \ubd80\ud488, \uc7a5\ube44 \ubc0f \ud339\ub9ac\uc2a4 \uae30\uc5c5\uc744 \uc704\ud55c \uc57d 35\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ubc18\ub3c4..."
-    },
     {
       "timestamp": "2026-08-10 12:15:50",
       "message": "[PROCESSING] Analyzing: Sources: Palmer Luckey's Erebor, a lender that aims to fill the gap left by Silicon Valley Bank, is in advanced talks to raise ~$1.5B at an $8B valuation (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 12:16:31",
       "message": "[PROCESSING] Analyzing: Rapid Switching of Optical Properties in a Doped Semiconductor By Femtosecond Laser Pulses (Imperial College London, U. of Exeter)..."
+    },
+    {
+      "timestamp": "2026-08-10 12:16:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Rapid Switching of Optical Properties in a Doped Semiconductor By Femtosecond Laser Pulses (Imperial College London, U. of Exeter)"
     }
   ]
 }
