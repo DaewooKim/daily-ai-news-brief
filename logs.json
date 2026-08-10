@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 21:12:39",
+  "last_updated": "2026-08-10 21:12:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 21:11:51",
-      "message": "Reprocessing: Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia (Bloomberg)"
-    },
     {
       "timestamp": "2026-08-10 21:11:53",
       "message": "[PROCESSING] Analyzing: Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 21:12:39",
       "message": "[PROCESSING] Analyzing: Conference Report: Hybrid Bonding Advances at ECTC Meeting..."
+    },
+    {
+      "timestamp": "2026-08-10 21:12:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Conference Report: Hybrid Bonding Advances at ECTC Meeting"
     }
   ]
 }
