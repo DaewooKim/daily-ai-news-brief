@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 06:45:05",
+  "last_updated": "2026-08-10 06:45:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 06:44:30",
-      "message": "[PROCESSING] Analyzing: Sources: Chinese regulators have told banks to back tech companies, but lenders still prefer stable cash flows and profitability over loss-making tech startups (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-10 06:44:32",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Chinese regulators have told banks to back tech companies, but lenders still prefer stable cash flows and profitability over loss-making tech startups (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 06:45:05",
       "message": "Reprocessing: Amazon is building a new AI data center in Texas that could become the country\u2019s largest source of carbon emissions"
+    },
+    {
+      "timestamp": "2026-08-10 06:45:06",
+      "message": "[SKIP] Content too short: Amazon is building a new AI da..."
     }
   ]
 }
