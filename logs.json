@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 01:16:01",
+  "last_updated": "2026-08-10 01:16:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 01:15:25",
-      "message": "[SUCCESS] Processed: ChatGPT\uac00 \ubb34\ub8cc \uc0ac\uc6a9\uc790\uc5d0\uac8c \ubb34\uc81c\ud55c \ud14d\uc2a4\ud2b8 \ucc44\ud305\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4\n  > Summary: OpenAI\ub294 ChatGPT \ubb34\ub8cc \ubc0f \uad6c\ub3c5 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ubcf5\uc7a1\ud55c \ucffc\ub9ac\ub97c \uc704\ud574 \uc0c8\ub85c\uc6b4 '\uc0dd\uac01\ud558\uae30..."
-    },
     {
       "timestamp": "2026-08-10 01:15:27",
       "message": "[PROCESSING] Analyzing: OpenAI says Apple\u2019s own security practices undermine its trade secrets case..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 01:16:01",
       "message": "[PROCESSING] Analyzing: Do Data Centers Really Drive Up Local Temperatures?..."
+    },
+    {
+      "timestamp": "2026-08-10 01:16:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Do Data Centers Really Drive Up Local Temperatures?"
     }
   ]
 }
