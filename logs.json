@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-10 22:20:05",
+  "last_updated": "2026-08-10 22:20:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 22:19:28",
-      "message": "[SUCCESS] Processed: ACM \ub9ac\uc11c\uce58, Ultra C Tahoe\ub97c \uc2b5\uc2dd \ucc98\ub9ac \ud50c\ub7ab\ud3fc\uc73c\ub85c \ud655\uc7a5\n  > Summary: ACM \ub9ac\uc11c\uce58\uac00 Ultra C Tahoe \uc2dc\uc2a4\ud15c\uc744 \ub2e4\uc911 \ud504\ub85c\uc138\uc2a4 \uc2b5\uc2dd \ucc98\ub9ac \ud50c\ub7ab\ud3fc\uc73c\ub85c \ud655\uc7a5..."
-    },
-    {
-      "timestamp": "2026-08-10 22:19:30",
-      "message": "Reprocessing: Conference Report: Hybrid Bonding Advances at ECTC Meeting"
-    },
     {
       "timestamp": "2026-08-10 22:19:32",
       "message": "[PROCESSING] Analyzing: Conference Report: Hybrid Bonding Advances at ECTC Meeting..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-10 22:20:05",
       "message": "Reprocessing: Amazon is building a new AI data center in Texas that could become the country\u2019s largest source of carbon emissions"
+    },
+    {
+      "timestamp": "2026-08-10 22:20:07",
+      "message": "[SKIP] Content too short: Amazon is building a new AI da..."
+    },
+    {
+      "timestamp": "2026-08-10 22:20:08",
+      "message": "Reprocessing: HPE, EigenQ push practical path to post-quantum security"
     }
   ]
 }
