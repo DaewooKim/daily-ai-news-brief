@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 21:11:49",
+  "last_updated": "2026-08-10 21:11:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 21:11:06",
-      "message": "[PROCESSING] Analyzing: Source: Applied Compute, which helps companies customize models with their data, is in talks to raise \"hundreds of millions\" led by Elad Gil at a ~$3B valuation (The Information)..."
-    },
     {
       "timestamp": "2026-08-10 21:11:10",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130\ub85c \ubaa8\ub378\uc744 \ub9de\ucda4\ud654\ud558\ub294 \ud68c\uc0ac, Applied Compute, \uc57d 30\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\ub85c '\uc218\uc5b5 \ub2ec\ub7ec' \uc790\uae08 \uc870\ub2ec \ub17c\uc758 \uc911\n  > Summary: Applied Compute\ub294 \uae30\uc5c5\ub4e4\uc774 \uc790\uccb4 \ub370\uc774\ud130\ub97c \ud65c\uc6a9\ud574 \ubaa8\ub378\uc744 \ub9de\ucda4\ud654\ud558\ub294 \uac83\uc744 \uc9c0\uc6d0\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 21:11:49",
       "message": "[SKIP] Irrelevant (AI Filter): A US appeals court allows ~2,400 federal lawsuits against social media companies to proceed over claims their products were designed to addict young users (Diana Novak Jones/Reuters)"
+    },
+    {
+      "timestamp": "2026-08-10 21:11:51",
+      "message": "Reprocessing: Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia (Bloomberg)"
     }
   ]
 }
