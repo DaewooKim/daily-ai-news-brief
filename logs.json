@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 23:26:11",
+  "last_updated": "2026-08-10 23:26:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 23:25:30",
-      "message": "[PROCESSING] Analyzing: OpenAI unveils two Daybreak tiers: Daybreak Blue, which provides access to frontier models, and Daybreak Red, which offers purpose-trained cybersecurity models (OpenAI)..."
-    },
     {
       "timestamp": "2026-08-10 23:25:34",
       "message": "[SUCCESS] Processed: OpenAI, \ub450 \uac1c\uc758 Daybreak \uacc4\uce35 \ubc1c\ud45c: \ucd5c\uc2e0 \ubaa8\ub378\uc5d0 \uc811\uadfc\ud560 \uc218 \uc788\ub294 Daybreak Blue\uc640 \ubaa9\uc801\uc5d0 \ub9de\uac8c \ud6c8\ub828\ub41c \uc0ac\uc774\ubc84 \ubcf4\uc548 \ubaa8\ub378\uc744 \uc81c\uacf5\ud558\ub294 Daybreak Red\n  > Summary: OpenAI\ub294 \uc0c8\ub85c\uc6b4 Daybreak \uacc4\uce35\uc778 Daybreak Blue\uc640 Daybreak R..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 23:26:11",
       "message": "[PROCESSING] Analyzing: Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)..."
+    },
+    {
+      "timestamp": "2026-08-10 23:26:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)"
     }
   ]
 }
