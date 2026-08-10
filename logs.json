@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 01:17:06",
+  "last_updated": "2026-08-10 01:17:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 01:16:31",
-      "message": "[PROCESSING] Analyzing: A profile of Russia's A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually (Alexander Osipovich/Wall Street Journal)..."
-    },
     {
       "timestamp": "2026-08-10 01:16:34",
       "message": "[SKIP] Irrelevant (AI Filter): A profile of Russia's A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually (Alexander Osipovich/Wall Street Journal)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 01:17:06",
       "message": "Reprocessing: Amazon is building a new AI data center in Texas that could become the country\u2019s largest source of carbon emissions"
+    },
+    {
+      "timestamp": "2026-08-10 01:17:08",
+      "message": "[SKIP] Content too short: Amazon is building a new AI da..."
     }
   ]
 }
