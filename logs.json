@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-10 10:00:08",
+  "last_updated": "2026-08-10 10:00:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 09:59:32",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-08-10 09:59:32",
-      "message": "[PROCESSING] Analyzing: No Dogs in Space is a music history podcast for true obsessives..."
-    },
     {
       "timestamp": "2026-08-10 09:59:35",
       "message": "[SKIP] Irrelevant (AI Filter): No Dogs in Space is a music history podcast for true obsessives"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-10 10:00:08",
       "message": "Reprocessing: Google Builds A New Gemini Model Team As AI Investments Accelerate"
+    },
+    {
+      "timestamp": "2026-08-10 10:00:10",
+      "message": "[SKIP] Content too short: Google Builds A New Gemini Mod..."
+    },
+    {
+      "timestamp": "2026-08-10 10:00:11",
+      "message": "[SKIP] Content too short: Your Platform Was Built For A ..."
     }
   ]
 }
