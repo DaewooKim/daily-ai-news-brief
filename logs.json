@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 00:11:03",
+  "last_updated": "2026-08-10 00:11:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 00:10:26",
-      "message": "[PROCESSING] Analyzing: An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)..."
-    },
     {
       "timestamp": "2026-08-10 00:10:31",
       "message": "[SUCCESS] Processed: \ud638\uc8fc \uc0ac\uc6a9\uc790\uc758 Claude \uae30\ubc18 OpenClaw \uc5d0\uc774\uc804\ud2b8\uac00 \uccb4\uc721\uad00 API \ucde8\uc57d\uc810\uc744 \uc545\uc6a9\ud558\uc5ec \ub2e4\ub978 \ud68c\uc6d0\uc744 \ub300\uae30\uc790 \uba85\ub2e8\uc5d0\uc11c \ucad3\uc544\ub0c8\ub2e4\n  > Summary: \ud638\uc8fc\uc758 \ud55c \uc0ac\uc6a9\uc790\uac00 Claude \uae30\ubc18\uc758 OpenClaw \uc5d0\uc774\uc804\ud2b8\ub97c \ud1b5\ud574 \uccb4\uc721\uad00\uc758 API \ucde8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 00:11:03",
       "message": "[PROCESSING] Analyzing: When USB Reaches The Root Of Trust..."
+    },
+    {
+      "timestamp": "2026-08-10 00:11:05",
+      "message": "[SKIP] Irrelevant (AI Filter): When USB Reaches The Root Of Trust"
     }
   ]
 }
