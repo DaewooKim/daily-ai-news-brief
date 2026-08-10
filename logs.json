@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-10 04:32:21",
+  "last_updated": "2026-08-10 04:32:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-10 04:31:42",
-      "message": "[PROCESSING] Analyzing: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry..."
-    },
     {
       "timestamp": "2026-08-10 04:31:45",
       "message": "[SUCCESS] Processed: \uc804\ud22c \uc911\uc778 \ud5e4\uc9c0\ud380\ub4dc \uc2dc\ucd94\uc5d0\uc774\uc154\ub110 \uc5b4\uc6e8\uc5b4\ub2c8\uc2a4, \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \uc18c\uc2a4 \ud30c\uc6b4\ub4dc\ub9ac\uc5d0 4\uc5b5 \ub2ec\ub7ec \ud22c\uc790\n  > Summary: AI \uc911\uc2ec\uc758 \ud5e4\uc9c0\ud380\ub4dc\uac00 \uc5ec\uc804\ud788 \ud070 \ubca0\ud305\uc744 \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \ud380\ub4dc\ub294 \uce69 \uc2a4\ud0c0\ud2b8\uc5c5 \uc18c\uc2a4 \ud30c\uc6b4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-10 04:32:21",
       "message": "[SKIP] Irrelevant (AI Filter): STMicroelectronics Bets on Hardware-Based Post-Quantum Cryptography with ST54M"
+    },
+    {
+      "timestamp": "2026-08-10 04:32:23",
+      "message": "Reprocessing: AI Chip Startup Taalas Acquired by AMD"
     }
   ]
 }
