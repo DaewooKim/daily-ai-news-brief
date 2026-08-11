@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 08:16:02",
+  "last_updated": "2026-08-11 08:16:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 08:15:23",
-      "message": "[SUCCESS] Processed: \uc11c\ud638\uc8fc \uacbd\ucc30\uc758 \uccab \uc2e4\uc2dc\uac04 \uc5bc\uad74 \uc778\uc2dd \uc2dc\ud5d8, 13\ub9cc \uba85 \uc774\uc0c1 \uc2a4\uce94\ud558\uba70 \uc815\ud655\uc131\uacfc \ud504\ub77c\uc774\ubc84\uc2dc \ubb38\uc81c \uc81c\uae30\n  > Summary: \uc11c\ud638\uc8fc \uacbd\ucc30\uc774 6\uc6d4 \uc774\ud6c4 13\ub9cc \uba85 \uc774\uc0c1\uc744 \uc2a4\uce94\ud55c \uccab \uc2e4\uc2dc\uac04 \uc5bc\uad74 \uc778\uc2dd \uc2dc\ud5d8\uc744 \uc2e4\uc2dc\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-08-11 08:15:24",
       "message": "[PROCESSING] Analyzing: Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none (Nick Gray/PatronView)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 08:16:02",
       "message": "[PROCESSING] Analyzing: How Long Does A Measurement Remain Valid?..."
+    },
+    {
+      "timestamp": "2026-08-11 08:16:04",
+      "message": "[SKIP] Irrelevant (AI Filter): How Long Does A Measurement Remain Valid?"
     }
   ]
 }
