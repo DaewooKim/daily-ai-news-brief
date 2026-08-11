@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-11 19:41:29",
-  "status": "idle",
+  "last_updated": "2026-08-11 20:42:13",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-11 19:39:50",
-      "message": "[SKIP] Content too short: Corma launches with $60M in fu..."
+      "timestamp": "2026-08-11 20:41:58",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-11 19:39:51",
-      "message": "Reprocessing: Rapid7 beats estimates, raises profit outlook and cuts 12% of staff"
+      "timestamp": "2026-08-11 20:41:58",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-11 19:39:53",
-      "message": "[SKIP] Content too short: Rapid7 beats estimates, raises..."
+      "timestamp": "2026-08-11 20:41:58",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-11 19:39:55",
-      "message": "Reprocessing: Meta releases open-weights Muse Glimmer model with 30B parameters"
+      "timestamp": "2026-08-11 20:42:13",
+      "message": "Found 154 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-11 19:39:57",
-      "message": "[SKIP] Content too short: Meta releases open-weights Mus..."
-    },
-    {
-      "timestamp": "2026-08-11 19:39:59",
-      "message": "Reprocessing: Cyber resilience takes center stage as AI reshapes the CISO role"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:00",
-      "message": "[SKIP] Content too short: Cyber resilience takes center ..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:02",
-      "message": "Reprocessing: Graph neural networks are turning hidden fraud into visible networks"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:03",
-      "message": "[SKIP] Content too short: Graph neural networks are turn..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:05",
-      "message": "Reprocessing: On theCUBE Pod: Black Hat exposes agentic threat, theCUBE remembers David Floyer"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:07",
-      "message": "[SKIP] Content too short: On theCUBE Pod: Black Hat expo..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:09",
-      "message": "Reprocessing: AI-native market research automation startup Echovane raises $1M"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:11",
-      "message": "[SKIP] Content too short: AI-native market research auto..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:13",
-      "message": "Reprocessing: Veeam pushes cyber resilience as AI raises data risks"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:14",
-      "message": "[SKIP] Content too short: Veeam pushes cyber resilience ..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:16",
-      "message": "Reprocessing: Amazon is building a new AI data center in Texas that could become the country\u2019s largest source of carbon emissions"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:18",
-      "message": "[SKIP] Content too short: Amazon is building a new AI da..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:19",
-      "message": "Reprocessing: HPE, EigenQ push practical path to post-quantum security"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:21",
-      "message": "[SKIP] Content too short: HPE, EigenQ push practical pat..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:23",
-      "message": "Reprocessing: Elastic targets AI-powered SOC with Alert Zero to eliminate alert fatigue"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:25",
-      "message": "[SKIP] Content too short: Elastic targets AI-powered SOC..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:26",
-      "message": "Reprocessing: Finding big money for AI and a smaller world for security at Black Hat USA 2026"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:28",
-      "message": "[SKIP] Content too short: Finding big money for AI and a..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:30",
-      "message": "Reprocessing: Forecasting the AI bubble: When scarcity turns to surplus"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:31",
-      "message": "[SKIP] Content too short: Forecasting the AI bubble: Whe..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:33",
-      "message": "Reprocessing: OpenAI reveals upcoming Astra model may possess \u2018critical\u2019 hacking capabilities"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:35",
-      "message": "[SKIP] Content too short: OpenAI reveals upcoming Astra ..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:36",
-      "message": "Reprocessing: Post-quantum security puts crypto agility at the center of infrastructure protection"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:38",
-      "message": "[SKIP] Content too short: Post-quantum security puts cry..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:40",
-      "message": "Reprocessing: Cyber risk management moves beyond dashboards toward autonomous remediation"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:42",
-      "message": "[SKIP] Content too short: Cyber risk management moves be..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:43",
-      "message": "Reprocessing: Minisforum N5 Max Review with AMD Ryzen AI Max+ 395"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:45",
-      "message": "[PROCESSING] Analyzing: Minisforum N5 Max Review with AMD Ryzen AI Max+ 395..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:48",
-      "message": "[SUCCESS] Processed: AMD \ub77c\uc774\uc820 AI Max+ 395\uc744 \ud0d1\uc7ac\ud55c Minisforum N5 Max \ub9ac\ubdf0\n  > Summary: Minisforum N5 Max\ub294 64GB\uc758 AMD Strix Halo \uc2dc\uc2a4\ud15c\uc73c\ub85c, 10G..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:50",
-      "message": "[PROCESSING] Analyzing: Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:52",
-      "message": "[SKIP] Irrelevant (AI Filter): Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:54",
-      "message": "[PROCESSING] Analyzing: WisdPi WP-UT9 USB 10GbE Adapter Review..."
-    },
-    {
-      "timestamp": "2026-08-11 19:40:56",
-      "message": "[SKIP] Irrelevant (AI Filter): WisdPi WP-UT9 USB 10GbE Adapter Review"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:58",
-      "message": "Reprocessing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026"
-    },
-    {
-      "timestamp": "2026-08-11 19:40:59",
-      "message": "[PROCESSING] Analyzing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026..."
-    },
-    {
-      "timestamp": "2026-08-11 19:41:02",
-      "message": "[SUCCESS] Processed: FMS 2026\uc5d0\uc11c 10M IOPS Kioxia GP1 SSD \uacf5\uac1c\n  > Summary: FMS 2026\uc5d0\uc11c Kioxia\uc758 GP1 PCIe Gen6 NVMe SSD\uac00 1000\ub9cc I..."
-    },
-    {
-      "timestamp": "2026-08-11 19:41:04",
-      "message": "Reprocessing: AMD to Acquire Taalas for Model Specific AI Inference Chips"
-    },
-    {
-      "timestamp": "2026-08-11 19:41:06",
-      "message": "[PROCESSING] Analyzing: AMD to Acquire Taalas for Model Specific AI Inference Chips..."
-    },
-    {
-      "timestamp": "2026-08-11 19:41:10",
-      "message": "[SUCCESS] Processed: AMD, \ud0c0\uc54c\ub77c\uc2a4\ub97c \uc778\uc218\ud558\uc5ec \ubaa8\ub378 \ud2b9\ud654 AI \ucd94\ub860 \uce69 \uac1c\ubc1c\n  > Summary: AMD\ub294 \ub2e8\uc77c \ubaa8\ub378\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \ubaa9\uc801\uc5d0 \ub9de\ucd98 \ubaa8\ub378 \ud2b9\ud654 AI \ucd94\ub860 \uce69\uc744 \uac1c\ubc1c\ud558\uae30 \uc704\ud574..."
-    },
-    {
-      "timestamp": "2026-08-11 19:41:12",
-      "message": "Reprocessing: Using the GitHub Copilot SDK for Java"
-    },
-    {
-      "timestamp": "2026-08-11 19:41:14",
-      "message": "[PROCESSING] Analyzing: Using the GitHub Copilot SDK for Java..."
-    },
-    {
-      "timestamp": "2026-08-11 19:41:18",
-      "message": "[SUCCESS] Processed: \uc790\ubc14\ub97c \uc704\ud55c GitHub Copilot SDK \uc0ac\uc6a9\ud558\uae30\n  > Summary: \uc790\ubc14 \uac1c\ubc1c\uc790\ub4e4\uc740 \uc774\uc81c \uc5d4\ud130\ud504\ub77c\uc774\uc988 \uc571\uc5d0\uc11c AI\ub97c \uad6c\ub3d9\ud558\uae30 \uc704\ud574 \ud2b9\uc815 \ud504\ub808\uc784\uc6cc\ud06c\uc5d0 \uc758\uc874\ud560 \ud544..."
-    },
-    {
-      "timestamp": "2026-08-11 19:41:20",
-      "message": "Completed! New: 7, Updated: 60"
-    },
-    {
-      "timestamp": "2026-08-11 19:41:24",
-      "message": "Saved 67 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-11 19:41:27",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-11 20:42:13",
+      "message": "[PROCESSING] Analyzing: ChatGPT and Gemini both just passed 1 billion users..."
     }
   ]
 }
