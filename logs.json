@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 01:39:19",
+  "last_updated": "2026-08-11 01:39:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 01:38:40",
-      "message": "Reprocessing: Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round (Bloomberg)"
-    },
     {
       "timestamp": "2026-08-11 01:38:41",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 01:39:19",
       "message": "[PROCESSING] Analyzing: Mathematical Model Explains Bondwave Velocity and its Acceleration in Direct Wafer-Wafer Bonding (imec)..."
+    },
+    {
+      "timestamp": "2026-08-11 01:39:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Mathematical Model Explains Bondwave Velocity and its Acceleration in Direct Wafer-Wafer Bonding (imec)"
     }
   ]
 }
