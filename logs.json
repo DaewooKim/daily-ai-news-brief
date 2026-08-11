@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 18:24:53",
+  "last_updated": "2026-08-11 18:24:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 18:24:15",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-11 18:24:15",
       "message": "[PROCESSING] Analyzing: Another OpenAI executive takes off..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 18:24:53",
       "message": "[SKIP] Content too short: As AI Networks Scale In Three ..."
+    },
+    {
+      "timestamp": "2026-08-11 18:24:54",
+      "message": "Reprocessing: With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery"
     }
   ]
 }
