@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 18:25:59",
+  "last_updated": "2026-08-11 18:26:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 18:25:17",
-      "message": "[SKIP] Content too short: Advancing AMIE towards expert-..."
-    },
     {
       "timestamp": "2026-08-11 18:25:18",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 18:25:59",
       "message": "[PROCESSING] Analyzing: Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019..."
+    },
+    {
+      "timestamp": "2026-08-11 18:26:01",
+      "message": "[SKIP] Irrelevant (AI Filter): Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019"
     }
   ]
 }
