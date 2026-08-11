@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-11 15:04:41",
-  "status": "idle",
+  "last_updated": "2026-08-11 16:05:26",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-11 15:02:58",
-      "message": "[SUCCESS] Processed: Marvell, \uc0c8\ub85c\uc6b4 AI \uba54\ubaa8\ub9ac \uc778\ud504\ub77c \uc194\ub8e8\uc158 \ubc1c\ud45c\n  > Summary: Marvell Technology\ub294 \ub300\uaddc\ubaa8 \uc5d0\uc774\uc804\ud2f1 AI \ucd94\ub860\uc758 \uba54\ubaa8\ub9ac \uc694\uad6c\ub97c \ud574\uacb0\ud558\uae30 \uc704..."
+      "timestamp": "2026-08-11 16:05:12",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-11 15:02:59",
-      "message": "[PROCESSING] Analyzing: Last-Level Caches Matter Even More in the HBM Era..."
+      "timestamp": "2026-08-11 16:05:13",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-11 15:03:04",
-      "message": "[SUCCESS] Processed: HBM \uc2dc\ub300\uc5d0 \ub9c8\uc9c0\ub9c9 \ub808\ubca8 \uce90\uc2dc\uc758 \uc911\uc694\uc131\n  > Summary: AI \uac00\uc18d\uae30 \ubc0f HPC\uc758 \ubc1c\uc804\uc73c\ub85c \uba54\ubaa8\ub9ac \ub300\uc5ed\ud3ed \uc694\uad6c\uac00 \uae09\uc99d\ud558\uace0 \uc788\uc73c\uba70, HBM(\uace0\ub300\uc5ed\ud3ed ..."
+      "timestamp": "2026-08-11 16:05:13",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-11 15:03:05",
-      "message": "[SKIP] Content too short: FriskAI launches with $3.6M to..."
+      "timestamp": "2026-08-11 16:05:26",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-11 15:03:07",
-      "message": "[SKIP] Content too short: Wix launches Symphony, a new s..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:08",
-      "message": "[SKIP] Content too short: Cloudflare says 1 Tbps DDoS at..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:10",
-      "message": "[SKIP] Content too short: Exclusive: ZeroDrift applies s..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:12",
-      "message": "[SKIP] Content too short: Blumira launches Hearth, an AI..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:14",
-      "message": "[SKIP] Content too short: Nvidia releases Nemotron 3.5 L..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:15",
-      "message": "[SKIP] Content too short: Nvidia taps Wall Street for a ..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:17",
-      "message": "[SKIP] Content too short: OpenAI expands Daybreak cybers..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:19",
-      "message": "[SKIP] Content too short: Rackspace beats expectations b..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:20",
-      "message": "[SKIP] Content too short: DEF CON hackers launch Water W..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:22",
-      "message": "[SKIP] Content too short: Intel to launch $15B stock sal..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:23",
-      "message": "[SKIP] Content too short: Corma launches with $60M in fu..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:25",
-      "message": "[SKIP] Content too short: Rapid7 beats estimates, raises..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:28",
-      "message": "[SKIP] Content too short: Meta releases open-source Muse..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:29",
-      "message": "[SKIP] Content too short: Cyber resilience takes center ..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:30",
-      "message": "[SKIP] Content too short: Graph neural networks are turn..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:32",
-      "message": "[SKIP] Content too short: On theCUBE Pod: Black Hat expo..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:34",
-      "message": "[SKIP] Content too short: AI-native market research auto..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:36",
-      "message": "[SKIP] Content too short: Veeam pushes cyber resilience ..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:38",
-      "message": "[SKIP] Content too short: Amazon is building a new AI da..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:40",
-      "message": "[SKIP] Content too short: HPE, EigenQ push practical pat..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:41",
-      "message": "[SKIP] Content too short: Elastic targets AI-powered SOC..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:43",
-      "message": "[SKIP] Content too short: Finding big money for AI and a..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:45",
-      "message": "[SKIP] Content too short: Forecasting the AI bubble: Whe..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:47",
-      "message": "[SKIP] Content too short: OpenAI reveals upcoming Astra ..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:48",
-      "message": "[SKIP] Content too short: Post-quantum security puts cry..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:50",
-      "message": "[SKIP] Content too short: Cyber risk management moves be..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:52",
-      "message": "[SKIP] Content too short: Legal AI startup Harvey report..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:53",
-      "message": "[SKIP] Content too short: SK hynix approves $38B+ invest..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:55",
-      "message": "[SKIP] Content too short: Fortinet targets network secur..."
-    },
-    {
-      "timestamp": "2026-08-11 15:03:57",
-      "message": "[PROCESSING] Analyzing: Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:00",
-      "message": "[SKIP] Irrelevant (AI Filter): Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU"
-    },
-    {
-      "timestamp": "2026-08-11 15:04:01",
-      "message": "[PROCESSING] Analyzing: WisdPi WP-UT9 USB 10GbE Adapter Review..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:03",
-      "message": "[SKIP] Irrelevant (AI Filter): WisdPi WP-UT9 USB 10GbE Adapter Review"
-    },
-    {
-      "timestamp": "2026-08-11 15:04:05",
-      "message": "[PROCESSING] Analyzing: Delta\u2019s GoCool-150 Goes Big To Enable 150kW Liquid-To-Air Cooling for ASRock Rack\u2019s NVIDIA VR NVL72..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:09",
-      "message": "[SUCCESS] Processed: \ub378\ud0c0\uc758 GoCool-150, ASRock Rack\uc758 NVIDIA VR NVL72\ub97c \uc704\ud55c 150kW \uc561\uccb4-\uacf5\uae30 \ub0c9\uac01\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub2e4\n  > Summary: \ub378\ud0c0\uc758 GoCool-150\uc740 150kW\uc758 \uc5f4\uc744 \ubc29\ucd9c\ud560 \uc218 \uc788\ub294 \uc561\uccb4-\uacf5\uae30 \uc5f4 \uad50\ud658\uae30\ub85c, N..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:10",
-      "message": "[PROCESSING] Analyzing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:14",
-      "message": "[SUCCESS] Processed: FMS 2026\uc5d0\uc11c \uc120\ubcf4\uc778 10M IOPS Kioxia GP1 SSD\n  > Summary: FMS 2026\uc5d0\uc11c Kioxia GP1 PCIe Gen6 NVMe SSD\uac00 10M IOPS..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:16",
-      "message": "[PROCESSING] Analyzing: AMD to Acquire Taalas for Model Specific AI Inference Chips..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:20",
-      "message": "[SUCCESS] Processed: AMD, \ubaa8\ub378 \ud2b9\uc815 AI \ucd94\ub860 \uce69\uc744 \uc704\ud574 Taalas \uc778\uc218 \uc608\uc815\n  > Summary: AMD\ub294 \ub2e8\uc77c \ubaa8\ub378\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \ud2b9\uc218 \uc81c\uc791\ub41c \ubaa8\ub378 \ud2b9\uc815 AI \ucd94\ub860 \uce69\uc744 \uad6c\ucd95\ud558\uae30 \uc704\ud574..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:21",
-      "message": "[PROCESSING] Analyzing: Using the GitHub Copilot SDK for Java..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:25",
-      "message": "[SUCCESS] Processed: \uc790\ubc14\uc6a9 GitHub Copilot SDK \uc0ac\uc6a9\ud558\uae30\n  > Summary: Java \uac1c\ubc1c\uc790\ub4e4\uc740 \uc774\uc81c \uae30\uc5c5 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc5d0\uc11c AI\ub97c \uad6c\ub3d9\ud558\uae30 \uc704\ud574 \ud2b9\uc815 \ud504\ub808\uc784\uc6cc\ud06c\uc5d0 \uc758\uc874..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:27",
-      "message": "[PROCESSING] Analyzing: A guide to slash commands in the GitHub Copilot app..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:31",
-      "message": "[SUCCESS] Processed: GitHub Copilot \uc571\uc758 \uc2ac\ub798\uc2dc \uba85\ub839 \uac00\uc774\ub4dc\n  > Summary: GitHub Copilot \uc571\uc5d0\uc11c \uc2ac\ub798\uc2dc \uba85\ub839\uc740 \uc138\uc158 \uad00\ub9ac, \ud504\ub85c\uc81d\ud2b8 \ud0d0\uc0c9 \ubc0f \uc6cc\ud06c\ud50c\ub85c\uc6b0 ..."
-    },
-    {
-      "timestamp": "2026-08-11 15:04:33",
-      "message": "Completed! New: 126, Updated: 0"
-    },
-    {
-      "timestamp": "2026-08-11 15:04:36",
-      "message": "Saved 126 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-11 15:04:40",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-11 16:05:26",
+      "message": "[PROCESSING] Analyzing: Why your Amazon order confirmation emails have become so unhelpful..."
     }
   ]
 }
