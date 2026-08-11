@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 01:39:22",
+  "last_updated": "2026-08-11 01:39:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 01:38:45",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: OpenAI\uac00 \uc9c1\uc6d0 \ubc0f \uc804 \uc9c1\uc6d0\uc73c\ub85c\ubd80\ud130 \uc57d 70\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc8fc\uc2dd\uc744 \uc7ac\ub9e4\uc785\ud558\uba70 \ucd5c\uadfc \uc790\uae08 \uc870\ub2ec \ub77c\uc6b4\ub4dc\uc5d0\uc11c \ubcc0\uacbd \uc5c6\ub294 8,520\uc5b5 \ub2ec\ub7ec\ub85c \ud3c9\uac00\ub428 (\ube14\ub8f8\ubc84\uadf8)\n  > Summary: \ube14\ub8f8\ubc84\uadf8\uc5d0 \ub530\ub974\uba74, OpenAI\ub294 \ud604\uc7ac \ubc0f \uc804 \uc9c1\uc6d0\uc73c\ub85c\ubd80\ud130 \uc57d 70\uc5b5 \ub2ec\ub7ec\uc5d0 \ud574\ub2f9\ud558\ub294 \uc8fc\uc2dd..."
-    },
     {
       "timestamp": "2026-08-11 01:38:47",
       "message": "[PROCESSING] Analyzing: Filing: Sergey Brin donated an additional $20M to Building a Better California, which fights California's wealth tax, bringing his total contributions to $102M (Alicia Clanton/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 01:39:22",
       "message": "[PROCESSING] Analyzing: Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)..."
+    },
+    {
+      "timestamp": "2026-08-11 01:39:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)"
     }
   ]
 }
