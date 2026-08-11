@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 16:12:30",
+  "last_updated": "2026-08-11 16:12:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 16:11:49",
-      "message": "[SUCCESS] Processed: \uc65c AI \uae30\ubc18 \uad6c\ub9e4 \uc758\ub3c4\uac00 \uc644\ub8cc\ub41c \ud310\ub9e4\ub85c \uc774\uc5b4\uc9c0\uc9c0 \uc54a\ub294\uac00\n  > Summary: AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8\uac00 \uc81c\ud488\uc744 \ucd94\ucc9c\ud560 \ub54c, \uc18c\ube44\uc790\ub294 \uad6c\ub9e4\ub97c \uc6d0\ud558\uc9c0\ub9cc, \uadf8 \ub2e4\uc74c \ub9c8\uc8fc\ud558\ub294 \uc0c1\uac70\ub798 ..."
-    },
     {
       "timestamp": "2026-08-11 16:11:51",
       "message": "Reprocessing: LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips \u2014 and it's open weights"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 16:12:30",
       "message": "Reprocessing: Exclusive: ZeroDrift applies small language model to prevent AI-generated compliance violations"
+    },
+    {
+      "timestamp": "2026-08-11 16:12:32",
+      "message": "[SKIP] Content too short: Exclusive: ZeroDrift applies s..."
     }
   ]
 }
