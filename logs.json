@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 00:32:14",
+  "last_updated": "2026-08-11 00:32:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 00:31:33",
-      "message": "[SUCCESS] Processed: OpenAI \uc724\ub9ac \ucc45\uc784\uc790 \ud074\ub85c\uc5d0 \ubc14\uce7c\ub77c, \uc548\uc804 \uc2dc\uc2a4\ud15c \ucc45\uc784\uc790 \ubc0f \uc804 \ubbf8\uc158 \uc815\ub82c \ucc45\uc784\uc790\uc758 \ud1f4\ucd9c\uc5d0 \uc774\uc5b4 1\ub144\ub3c4 \uc548 \ub418\uc5b4 \ud1f4\uc0ac\n  > Summary: \ud074\ub85c\uc5d0 \ubc14\uce7c\ub77c\uac00 1\ub144\ub3c4 \ucc44 \uc9c0\ub098\uc9c0 \uc54a\uc544 \ud1f4\uc0ac\ud558\uba74\uc11c OpenAI\uc5d0\uc11c \uc5ec\ub7ec \uace0\uc704 \uacbd\uc601\uc9c4\uc758 \ud1f4\ucd9c..."
-    },
     {
       "timestamp": "2026-08-11 00:31:35",
       "message": "Reprocessing: With his long essay, Zuckerberg returns to his \"open\" AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost (M.G. Siegler/Spyglass)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 00:32:14",
       "message": "[PROCESSING] Analyzing: Google adds third-party games store Aptoide to the Play Store for Android users in the US, following a judge's orders in the antitrust lawsuit with Epic (Ryan Whitwam/Ars Technica)..."
+    },
+    {
+      "timestamp": "2026-08-11 00:32:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Google adds third-party games store Aptoide to the Play Store for Android users in the US, following a judge's orders in the antitrust lawsuit with Epic (Ryan Whitwam/Ars Technica)"
     }
   ]
 }
