@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-11 11:35:22",
+  "last_updated": "2026-08-11 11:35:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-11 11:34:41",
-      "message": "[PROCESSING] Analyzing: Intel raised $20B in an upsized share sale, up from the $15B it was targeting; sources say the sale drew $100B+ in demand; INTC is up ~146% in 2026 so far (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-11 11:34:43",
       "message": "[SKIP] Irrelevant (AI Filter): Intel raised $20B in an upsized share sale, up from the $15B it was targeting; sources say the sale drew $100B+ in demand; INTC is up ~146% in 2026 so far (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-11 11:35:22",
       "message": "[SUCCESS] Processed: AI \uce69\ub81b \uad6c\uc870\uac00 \ud14c\uc2a4\ud2b8 \uc0bd\uc785 \ubc29\uc2dd\uc744 \uc7ac\uc815\uc758\ud558\ub2e4\n  > Summary: AI\ub294 xPU, HBM \ubc0f CPO\uc5d0 \ub300\ud55c \uc218\uc694\ub97c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc788\uc73c\ub098, \ub9ac\uc18c\uadf8\ub798\ud53c \uc81c\ud55c\uc73c\ub85c \uc778..."
+    },
+    {
+      "timestamp": "2026-08-11 11:35:24",
+      "message": "Reprocessing: CPO Test Won\u2019t Scale Without Standardization"
     }
   ]
 }
