@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-11 13:52:06",
-  "status": "idle",
+  "last_updated": "2026-08-11 14:52:52",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-11 13:50:30",
-      "message": "[SKIP] Content too short: Rapid7 beats estimates, raises..."
+      "timestamp": "2026-08-11 14:52:38",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-11 13:50:32",
-      "message": "Reprocessing: Meta releases open-source Muse Glimmer model with 30B parameters"
+      "timestamp": "2026-08-11 14:52:39",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-11 13:50:33",
-      "message": "[SKIP] Content too short: Meta releases open-source Muse..."
+      "timestamp": "2026-08-11 14:52:39",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-11 13:50:35",
-      "message": "Reprocessing: Cyber resilience takes center stage as AI reshapes the CISO role"
+      "timestamp": "2026-08-11 14:52:52",
+      "message": "Found 157 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-11 13:50:37",
-      "message": "[SKIP] Content too short: Cyber resilience takes center ..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:38",
-      "message": "Reprocessing: Graph neural networks are turning hidden fraud into visible networks"
-    },
-    {
-      "timestamp": "2026-08-11 13:50:40",
-      "message": "[SKIP] Content too short: Graph neural networks are turn..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:41",
-      "message": "Reprocessing: On theCUBE Pod: Black Hat exposes agentic threat, theCUBE remembers David Floyer"
-    },
-    {
-      "timestamp": "2026-08-11 13:50:43",
-      "message": "[SKIP] Content too short: On theCUBE Pod: Black Hat expo..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:44",
-      "message": "Reprocessing: AI-native market research automation startup Echovane raises $1M"
-    },
-    {
-      "timestamp": "2026-08-11 13:50:46",
-      "message": "[SKIP] Content too short: AI-native market research auto..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:48",
-      "message": "Reprocessing: Veeam pushes cyber resilience as AI raises data risks"
-    },
-    {
-      "timestamp": "2026-08-11 13:50:50",
-      "message": "[SKIP] Content too short: Veeam pushes cyber resilience ..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:52",
-      "message": "Reprocessing: Amazon is building a new AI data center in Texas that could become the country\u2019s largest source of carbon emissions"
-    },
-    {
-      "timestamp": "2026-08-11 13:50:53",
-      "message": "[SKIP] Content too short: Amazon is building a new AI da..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:55",
-      "message": "Reprocessing: HPE, EigenQ push practical path to post-quantum security"
-    },
-    {
-      "timestamp": "2026-08-11 13:50:57",
-      "message": "[SKIP] Content too short: HPE, EigenQ push practical pat..."
-    },
-    {
-      "timestamp": "2026-08-11 13:50:59",
-      "message": "Reprocessing: Elastic targets AI-powered SOC with Alert Zero to eliminate alert fatigue"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:00",
-      "message": "[SKIP] Content too short: Elastic targets AI-powered SOC..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:02",
-      "message": "Reprocessing: Finding big money for AI and a smaller world for security at Black Hat USA 2026"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:04",
-      "message": "[SKIP] Content too short: Finding big money for AI and a..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:06",
-      "message": "Reprocessing: Forecasting the AI bubble: When scarcity turns to surplus"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:08",
-      "message": "[SKIP] Content too short: Forecasting the AI bubble: Whe..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:09",
-      "message": "Reprocessing: OpenAI reveals upcoming Astra model may possess \u2018critical\u2019 hacking capabilities"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:11",
-      "message": "[SKIP] Content too short: OpenAI reveals upcoming Astra ..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:13",
-      "message": "Reprocessing: Post-quantum security puts crypto agility at the center of infrastructure protection"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:15",
-      "message": "[SKIP] Content too short: Post-quantum security puts cry..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:17",
-      "message": "Reprocessing: Cyber risk management moves beyond dashboards toward autonomous remediation"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:19",
-      "message": "[SKIP] Content too short: Cyber risk management moves be..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:20",
-      "message": "Reprocessing: Legal AI startup Harvey reportedly raising $500M at $15.5B valuation"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:22",
-      "message": "[SKIP] Content too short: Legal AI startup Harvey report..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:24",
-      "message": "Reprocessing: SK hynix approves $38B+ investment in two new memory fabs"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:26",
-      "message": "[SKIP] Content too short: SK hynix approves $38B+ invest..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:27",
-      "message": "Reprocessing: Fortinet targets network security platform convergence to address AI-era complexity"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:29",
-      "message": "[SKIP] Content too short: Fortinet targets network secur..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:31",
-      "message": "Reprocessing: Menlo Security targets real-time AI agent security with MARS platform"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:33",
-      "message": "[SKIP] Content too short: Menlo Security targets real-ti..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:34",
-      "message": "[PROCESSING] Analyzing: Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:36",
-      "message": "[SKIP] Irrelevant (AI Filter): Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:39",
-      "message": "[PROCESSING] Analyzing: WisdPi WP-UT9 USB 10GbE Adapter Review..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:41",
-      "message": "[SKIP] Irrelevant (AI Filter): WisdPi WP-UT9 USB 10GbE Adapter Review"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:42",
-      "message": "Reprocessing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:44",
-      "message": "[PROCESSING] Analyzing: A 10M IOPS Kioxia GP1 SSD Shown Running at FMS 2026..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:47",
-      "message": "[SUCCESS] Processed: FMS 2026\uc5d0\uc11c \uacf5\uac1c\ub41c 10M IOPS Kioxia GP1 SSD\n  > Summary: FMS 2026\uc5d0\uc11c Kioxia GP1 PCIe Gen6 NVMe SSD\uac00 10M IOPS..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:49",
-      "message": "Reprocessing: AMD to Acquire Taalas for Model Specific AI Inference Chips"
-    },
-    {
-      "timestamp": "2026-08-11 13:51:51",
-      "message": "[PROCESSING] Analyzing: AMD to Acquire Taalas for Model Specific AI Inference Chips..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:54",
-      "message": "[SUCCESS] Processed: AMD, \ubaa8\ub378 \ud2b9\ud654 AI \ucd94\ub860 \uce69\uc744 \uc704\ud574 \ud0c0\uc54c\ub77c\uc2a4\ub97c \uc778\uc218\ud558\ub2e4\n  > Summary: AMD\ub294 \ub2e8\uc77c \ubaa8\ub378\uc744 \uac00\uc18d\ud654\ud558\uae30 \uc704\ud574 \ud2b9\ubcc4\ud788 \uc124\uacc4\ub41c \ubaa8\ub378 \ud2b9\ud654 AI \ucd94\ub860 \uce69\uc744 \ub9cc\ub4e4\uae30 \uc704\ud574..."
-    },
-    {
-      "timestamp": "2026-08-11 13:51:56",
-      "message": "Completed! New: 15, Updated: 39"
-    },
-    {
-      "timestamp": "2026-08-11 13:52:01",
-      "message": "Saved 54 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-11 13:52:04",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-11 14:52:52",
+      "message": "[PROCESSING] Analyzing: \u2018Zoomsday\u2019 hack uncovered using fewer than 20 AI prompts..."
     }
   ]
 }
