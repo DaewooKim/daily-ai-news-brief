@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 19:41:31",
+  "last_updated": "2026-08-12 19:41:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 19:40:54",
-      "message": "[PROCESSING] Analyzing: 3.8 GW Load Drop Prompts Potential PJM Data Center Rules..."
-    },
     {
       "timestamp": "2026-08-12 19:40:57",
       "message": "[SUCCESS] Processed: 3.8 GW \ubd80\ud558 \uac10\uc18c\ub85c PJM \ub370\uc774\ud130 \uc13c\ud130 \uaddc\uc815 \uc7a0\uc7ac\uc801 \uac80\ud1a0\n  > Summary: PJM\uc740 \uadf8\ub9ac\ub4dc \uc774\ubca4\ud2b8 \ub3d9\uc548 \ubd81\ubc84\uc9c0\ub2c8\uc544\uc758 \uac70\uc758 3,800 MW\uc774 \ud604\uc7a5 \ubc1c\uc804\uc73c\ub85c \uc804\ud658\ub41c \ud6c4 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 19:41:31",
       "message": "[PROCESSING] Analyzing: FlightAware withdraws its Kalshi lawsuit, after alleging Kalshi used its data to let users bet on flight cancellations; Kalshi no longer names it as a source (Sumedha Mukherjee/Reuters)..."
+    },
+    {
+      "timestamp": "2026-08-12 19:41:33",
+      "message": "[SKIP] Irrelevant (AI Filter): FlightAware withdraws its Kalshi lawsuit, after alleging Kalshi used its data to let users bet on flight cancellations; Kalshi no longer names it as a source (Sumedha Mukherjee/Reuters)"
     }
   ]
 }
