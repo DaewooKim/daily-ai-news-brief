@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 16:12:00",
+  "last_updated": "2026-08-12 16:12:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 16:11:17",
-      "message": "[SUCCESS] Processed: \uc9c0\uc6d0\uc5d0\uc11c \uc2e4\ud589\uc73c\ub85c: \uae30\uc5c5\ub4e4\uc774 AI\ub97c \ud65c\uc6a9\ud558\ub294 \ubc29\ubc95\n  > Summary: OpenAI\uc758 \uc5f0\uad6c\uc5d0 \ub530\ub974\uba74 \uae30\uc5c5\ub4e4\uc774 \uc5d0\uc774\uc804\ud2b8 AI\ub97c \ub3c4\uc785\ud558\uace0 \uc788\uc73c\uba70, ChatGPT\uc640 C..."
-    },
     {
       "timestamp": "2026-08-12 16:11:19",
       "message": "Reprocessing: Testing ads in ChatGPT"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 16:12:00",
       "message": "[PROCESSING] Analyzing: Accel closes oversubscribed $550M India fund within weeks, 19 months after its last..."
+    },
+    {
+      "timestamp": "2026-08-12 16:12:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Accel closes oversubscribed $550M India fund within weeks, 19 months after its last"
     }
   ]
 }
