@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 23:03:08",
+  "last_updated": "2026-08-12 23:03:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 23:02:30",
-      "message": "[SUCCESS] Processed: NVIDIA NeMo Switchyard\ub85c AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ub85c\ub4dc\ub97c \ubaa8\ub378 \uac04\uc5d0 \ub77c\uc6b0\ud305\ud558\uae30\n  > Summary: AI \uc5d0\uc774\uc804\ud2b8\ub97c \uad6c\ucd95\ud558\ub294 \uacfc\uc815\uc740 \ub2e8\uc77c \ubaa8\ub378\uc744 \uc120\ud0dd\ud558\ub294 \uac83\uc73c\ub85c \ub05d\ub098\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uac01 \ubaa8\ub378\uc740 ..."
-    },
     {
       "timestamp": "2026-08-12 23:02:32",
       "message": "Reprocessing: Empty shelves or lost keys? Recall is the bottleneck for parametric factuality"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 23:03:08",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
+    },
+    {
+      "timestamp": "2026-08-12 23:03:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
     }
   ]
 }
