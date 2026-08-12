@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 16:10:47",
+  "last_updated": "2026-08-12 16:10:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 16:10:03",
-      "message": "Found 156 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-12 16:10:03",
       "message": "[PROCESSING] Analyzing: How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 16:10:47",
       "message": "[PROCESSING] Analyzing: Jaguar offers a first look inside the all-electric Type 01..."
+    },
+    {
+      "timestamp": "2026-08-12 16:10:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Jaguar offers a first look inside the all-electric Type 01"
     }
   ]
 }
