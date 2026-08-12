@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 17:23:24",
+  "last_updated": "2026-08-12 17:23:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 17:22:43",
-      "message": "Reprocessing: AWS Data Center Withdrawal Signals Growing Political, Community Challenges"
-    },
     {
       "timestamp": "2026-08-12 17:22:45",
       "message": "[PROCESSING] Analyzing: AWS Data Center Withdrawal Signals Growing Political, Community Challenges..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 17:23:24",
       "message": "[PROCESSING] Analyzing: FlightAware withdraws its Kalshi lawsuit, after alleging Kalshi used its data to let users bet on flight cancellations; Kalshi no longer names it as a source (Sumedha Mukherjee/Reuters)..."
+    },
+    {
+      "timestamp": "2026-08-12 17:23:26",
+      "message": "[SKIP] Irrelevant (AI Filter): FlightAware withdraws its Kalshi lawsuit, after alleging Kalshi used its data to let users bet on flight cancellations; Kalshi no longer names it as a source (Sumedha Mukherjee/Reuters)"
     }
   ]
 }
