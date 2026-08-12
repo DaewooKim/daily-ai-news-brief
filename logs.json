@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 18:29:43",
+  "last_updated": "2026-08-12 18:29:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 18:29:03",
-      "message": "[PROCESSING] Analyzing: Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72..."
-    },
     {
       "timestamp": "2026-08-12 18:29:07",
       "message": "[SUCCESS] Processed: \uc54c\ub9ac\ubc14\ubc14, NVIDIA GB300 NVL72\uc5d0\uc11c \uad6c\uc131 \uac00\ub2a5\ud55c \ucd94\ub860 \uae30\ub2a5\uc744 \uac16\ucd98 2.4T \ub9e4\uac1c\ubcc0\uc218 \ubaa8\ub378 Qwen3.8-2.4T-A95B \uacf5\uac1c\n  > Summary: \uc54c\ub9ac\ubc14\ubc14\uac00 \uc790\uc0ac\uc758 \ucd5c\ub300 \uc624\ud508 \uac00\uc911\uce58 \ubaa8\ub378\uc778 Qwen3.8-2.4T-A95B\uc758 \uc624\ud508 \uac00\uc911\uce58\ub97c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 18:29:43",
       "message": "[PROCESSING] Analyzing: Daybreak models are now available on AWS..."
+    },
+    {
+      "timestamp": "2026-08-12 18:29:46",
+      "message": "[SUCCESS] Processed: \ub370\uc774\ube0c\ub808\uc774\ud06c \ubaa8\ub378\uc774 \uc774\uc81c AWS\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\uc640 AWS\uac00 Amazon Bedrock\uc744 \ud1b5\ud574 \uae30\uc5c5 \ubcf4\uc548 \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \uc9c0\uc6d0\ud558\uae30 ..."
     }
   ]
 }
