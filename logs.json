@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 23:05:29",
+  "last_updated": "2026-08-12 23:05:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 23:04:49",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \ubc31\uc545\uad00, \uc624\ud508 \ubaa8\ub378\uc774 \ucd5c\uc804\uc120 \ub2a5\ub825\uc5d0 \ub3c4\ub2ec\ud558\uba74 AI \uac10\ub3c5 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ud655\uc7a5\ud560 \uac83\uc73c\ub85c \uc608\uc0c1\n  > Summary: \ubc31\uc545\uad00\uc740 \uba87 \ub2ec \ub0b4\uc5d0 \uc624\ud508 \ubaa8\ub378\uc744 \ud3ec\ud568\ud558\ub294 AI \uac10\ub3c5 \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ud655\uc7a5\ud560 \uac83\uc73c\ub85c \ubcf4\uc785\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-08-12 23:04:50",
       "message": "[PROCESSING] Analyzing: Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI models and tells creators how to opt out (Amanda Silberling/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 23:05:29",
       "message": "[PROCESSING] Analyzing: Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices..."
+    },
+    {
+      "timestamp": "2026-08-12 23:05:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices"
     }
   ]
 }
