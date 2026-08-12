@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 23:03:30",
+  "last_updated": "2026-08-12 23:03:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 23:02:49",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ube0c\ub808\uc774\ud06c \ubaa8\ub378\uc774 \uc774\uc81c AWS\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\uc640 AWS\ub294 Amazon Bedrock\uc744 \ud1b5\ud574 \ub370\uc774\ube0c\ub808\uc774\ud06c \uc0ac\uc774\ubc84 \ubcf4\uc548 \uae30\ub2a5\uc744 ..."
-    },
     {
       "timestamp": "2026-08-12 23:02:51",
       "message": "Reprocessing: What building an AI-native finance function taught me"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 23:03:30",
       "message": "[PROCESSING] Analyzing: How a $250 million acquisition collapsed into allegations of fraud and forged signatures..."
+    },
+    {
+      "timestamp": "2026-08-12 23:03:32",
+      "message": "[SKIP] Irrelevant (AI Filter): How a $250 million acquisition collapsed into allegations of fraud and forged signatures"
     }
   ]
 }
