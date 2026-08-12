@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 19:39:50",
+  "last_updated": "2026-08-12 19:39:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 19:39:04",
-      "message": "[SUCCESS] Processed: AI \uc548\uc804 \ubb38\uc81c\uac00 \ucee4\uc9c0\uba74\uc11c, \uc138 \uba85\uc758 \uc120\uad6c\uc790\uac00 \uac1c\ubc29 \uc720\uc9c0\uc758 \ud544\uc694\uc131\uc744 \uc8fc\uc7a5\ud558\ub2e4\n  > Summary: AI4\uc5d0\uc11c \uc138\uacc4\uc801\uc73c\ub85c \uc800\uba85\ud55c AI \uc804\ubb38\uac00 \uc138 \uba85\uc778 \uc81c\ud504\ub9ac \ud78c\ud134, \ud398\uc774 \ud398\uc774 \ub9ac, \uc564\ub4dc\ub958 \uc751..."
-    },
     {
       "timestamp": "2026-08-12 19:39:06",
       "message": "Reprocessing: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 19:39:50",
       "message": "[PROCESSING] Analyzing: Accel closes oversubscribed $550M India fund within weeks, 19 months after its last..."
+    },
+    {
+      "timestamp": "2026-08-12 19:39:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Accel closes oversubscribed $550M India fund within weeks, 19 months after its last"
     }
   ]
 }
