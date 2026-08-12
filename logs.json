@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 15:01:04",
+  "last_updated": "2026-08-12 15:01:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 15:00:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Jaguar offers a first look inside the all-electric Type 01"
-    },
     {
       "timestamp": "2026-08-12 15:00:26",
       "message": "[PROCESSING] Analyzing: Brendan Carr is one firing away from an unchecked FCC..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 15:01:04",
       "message": "[SUCCESS] Processed: NVIDIA JetPack 7.2.1, \uc5d0\uc774\uc804\ud2f1 \ube44\ub514\uc624 \uc2a4\ud0ac \ubc0f T3000 \uc5d0\ubbac\ub808\uc774\uc158 \ucd94\uac00\n  > Summary: NVIDIA JetPack 7.2.1 \ubc84\uc804\uc740 \ub85c\ubd07 \uacf5\ud559, \uc9c0\ub2a5\ud615 \ube44\ub514\uc624 \ubd84\uc11d \ubc0f \uc0b0\uc5c5 \uc790\ub3d9..."
+    },
+    {
+      "timestamp": "2026-08-12 15:01:05",
+      "message": "Reprocessing: Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard"
     }
   ]
 }
