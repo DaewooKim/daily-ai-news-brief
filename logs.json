@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-12 19:39:26",
+  "last_updated": "2026-08-12 19:39:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-12 19:38:45",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ube0c\ub808\uc774\ud06c \ubaa8\ub378\uc774 \uc774\uc81c AWS\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud569\ub2c8\ub2e4\n  > Summary: OpenAI\uc640 AWS\ub294 Amazon Bedrock\uc744 \ud1b5\ud574 \ub370\uc774\ube0c\ub808\uc774\ud06c \uc0ac\uc774\ubc84 \ubcf4\uc548 \uae30\ub2a5\uc744 ..."
-    },
     {
       "timestamp": "2026-08-12 19:38:46",
       "message": "Reprocessing: What building an AI-native finance function taught me"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-12 19:39:26",
       "message": "[PROCESSING] Analyzing: Lovable confirms new $13.3B valuation, raises another $400M..."
+    },
+    {
+      "timestamp": "2026-08-12 19:39:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Lovable confirms new $13.3B valuation, raises another $400M"
     }
   ]
 }
