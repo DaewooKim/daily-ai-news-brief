@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 14:49:41",
+  "last_updated": "2026-08-13 14:49:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 14:49:01",
-      "message": "[PROCESSING] Analyzing: Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate (Samantha Subin/CNBC)..."
-    },
     {
       "timestamp": "2026-08-13 14:49:04",
       "message": "[SUCCESS] Processed: \ub2e4\ud2b8\ube0c\ub9ad\uc2a4, 1900\uc5b5 \ub2ec\ub7ec \ubc38\ub958\uc5d0\uc774\uc158\uc73c\ub85c 50\uc5b5 \ub2ec\ub7ec \uc790\uae08 \uc870\ub2ec\n  > Summary: \ub2e4\ud2b8\ube0c\ub9ad\uc2a4\uac00 50\uc5b5 \ub2ec\ub7ec\uc758 \uc790\uae08 \uc870\ub2ec\uc744 \uc644\ub8cc\ud558\uba70 1900\uc5b5 \ub2ec\ub7ec\uc758 \ubc38\ub958\uc5d0\uc774\uc158\uc744 \uae30\ub85d\ud588\uc2b5\ub2c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 14:49:41",
       "message": "[SKIP] Irrelevant (AI Filter): Amsterdam-based Adyen reports H1 2026 net revenue up 19% YoY to \u20ac1.3B, processed volumes up 24% YoY to \u20ac803.8B, and EBITDA of \u20ac641.5M; ADYEN.AS rises 12%+ (Adam Whittaker/Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-08-13 14:49:43",
+      "message": "Reprocessing: The 1-Megawatt Rack Debate"
     }
   ]
 }
