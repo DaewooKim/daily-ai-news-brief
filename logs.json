@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 19:18:08",
+  "last_updated": "2026-08-13 19:18:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 19:17:26",
-      "message": "Found 170 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-13 19:17:26",
       "message": "[PROCESSING] Analyzing: The Trump admin will start letting private firms launch international cyberattacks..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 19:18:08",
       "message": "[PROCESSING] Analyzing: This is Instagram&#8217;s new logo..."
+    },
+    {
+      "timestamp": "2026-08-13 19:18:10",
+      "message": "[SKIP] Irrelevant (AI Filter): This is Instagram&#8217;s new logo"
     }
   ]
 }
