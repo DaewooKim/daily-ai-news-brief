@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 10:17:15",
+  "last_updated": "2026-08-13 10:17:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 10:16:35",
-      "message": "[PROCESSING] Analyzing: Daybreak models are now available on AWS..."
-    },
     {
       "timestamp": "2026-08-13 10:16:39",
       "message": "[SUCCESS] Processed: AWS\uc5d0\uc11c Daybreak \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\uc640 AWS\ub294 Amazon Bedrock\uc744 \ud1b5\ud574 Daybreak \uc0ac\uc774\ubc84 \ubcf4\uc548 \uae30\ub2a5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 10:17:15",
       "message": "[PROCESSING] Analyzing: Accel closes oversubscribed $550M India fund within weeks, 19 months after its last..."
+    },
+    {
+      "timestamp": "2026-08-13 10:17:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Accel closes oversubscribed $550M India fund within weeks, 19 months after its last"
     }
   ]
 }
