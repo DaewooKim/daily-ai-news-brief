@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 12:31:18",
+  "last_updated": "2026-08-13 12:31:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 12:30:36",
-      "message": "Reprocessing: Cats and dogs are missing meals after a popular smart feeder went down"
-    },
     {
       "timestamp": "2026-08-13 12:30:38",
       "message": "[PROCESSING] Analyzing: Cats and dogs are missing meals after a popular smart feeder went down..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 12:31:18",
       "message": "Reprocessing: Empty shelves or lost keys? Recall is the bottleneck for parametric factuality"
+    },
+    {
+      "timestamp": "2026-08-13 12:31:20",
+      "message": "[SKIP] Content too short: Empty shelves or lost keys? Re..."
     }
   ]
 }
