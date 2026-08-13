@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 23:51:02",
+  "last_updated": "2026-08-13 23:51:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 23:50:23",
-      "message": "[SUCCESS] Processed: OpenAI, macOS\uc5d0\uc11c \ucd5c\uadfc \ucef4\ud4e8\ud130 \ud65c\ub3d9\uc744 \uba54\ubaa8\ub9ac\uc640 \ud0c0\uc784\ub77c\uc778\uc73c\ub85c \ubcc0\ud658\ud558\ub294 \uc120\ud0dd\uc801 \uae30\ub2a5\uc778 \ucef4\ud4e8\ud130 \ud788\uc2a4\ud1a0\ub9ac \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 macOS\uc758 \ucd5c\uadfc \ucef4\ud4e8\ud130 \ud65c\ub3d9\uc744 \uba54\ubaa8\ub9ac\uc640 \ud0c0\uc784\ub77c\uc778\uc73c\ub85c \ubcc0\ud658\ud558\ub294 \uc120\ud0dd\uc801 \uae30\ub2a5\uc778..."
-    },
     {
       "timestamp": "2026-08-13 23:50:24",
       "message": "[PROCESSING] Analyzing: Netflix is closing game studios Night School Studio, which it acquired in 2021, and Moonloot, and is also cutting jobs from its internal games team (Stephen Totilo/Game File)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 23:51:02",
       "message": "[PROCESSING] Analyzing: Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027..."
+    },
+    {
+      "timestamp": "2026-08-13 23:51:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027"
     }
   ]
 }
