@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 01:17:08",
+  "last_updated": "2026-08-13 01:17:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 01:16:30",
-      "message": "[PROCESSING] Analyzing: This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off..."
-    },
     {
       "timestamp": "2026-08-13 01:16:33",
       "message": "[SKIP] Irrelevant (AI Filter): This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 01:17:08",
       "message": "[SUCCESS] Processed: AI \ud601\uba85\uc744 \uc704\ud55c \uc804\ub825 \uacf5\uae09: \uace0\ubc00\ub3c4 \ub370\uc774\ud130 \uc13c\ud130 \ud658\uacbd\uc744 \uc704\ud55c \ud6a8\uc728\uc801\uc778 \uc804\ub7b5\n  > Summary: \uc774 \uae30\uc0ac\ub294 \uc778\uacf5\uc9c0\ub2a5(AI)\uc758 \ubc1c\uc804\uacfc \uae30\uacc4 \ud559\uc2b5, \uc0dd\uc131\uc801 AI(GenAI)\uc640 \uac19\uc740 \uc0c8\ub85c\uc6b4 \uae30..."
+    },
+    {
+      "timestamp": "2026-08-13 01:17:10",
+      "message": "Reprocessing: NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation"
     }
   ]
 }
