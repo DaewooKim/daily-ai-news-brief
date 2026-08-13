@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 19:19:26",
+  "last_updated": "2026-08-13 19:19:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 19:18:44",
-      "message": "[SKIP] Content too short: Advancing AMIE towards expert-..."
-    },
     {
       "timestamp": "2026-08-13 19:18:45",
       "message": "[PROCESSING] Analyzing: The builder\u2019s guide to GPT\u20115.6..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 19:19:26",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
+    },
+    {
+      "timestamp": "2026-08-13 19:19:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
     }
   ]
 }
