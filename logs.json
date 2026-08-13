@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 15:55:38",
+  "last_updated": "2026-08-13 15:55:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 15:54:56",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8, \uc2e4\ud328\ud55c AI \uae30\ub2a5 \uc911\uc9c0\ud558\uba70 \ubcc4\ub3c4\uc758 \ucf54\ud30c\uc77c\ub7ff \uc571 \ud1b5\ud569\n  > Summary: \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\ub294 \ucf54\ud30c\uc77c\ub7ff\uc758 \uc18c\ube44\uc790 \ubc0f \ube44\uc988\ub2c8\uc2a4 \uc571\uc744 \ud1b5\ud569\ud558\uace0, AI\ub85c \uc0dd\uc131\ub41c \ud31f\uce90\uc2a4\ud2b8, \uadf8..."
-    },
     {
       "timestamp": "2026-08-13 15:54:58",
       "message": "[PROCESSING] Analyzing: Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 15:55:38",
       "message": "[PROCESSING] Analyzing: Accel closes oversubscribed $550M India fund within weeks, 19 months after its last..."
+    },
+    {
+      "timestamp": "2026-08-13 15:55:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Accel closes oversubscribed $550M India fund within weeks, 19 months after its last"
     }
   ]
 }
