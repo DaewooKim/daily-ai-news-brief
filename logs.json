@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 11:24:05",
+  "last_updated": "2026-08-13 11:24:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 11:23:26",
-      "message": "Reprocessing: NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation"
-    },
     {
       "timestamp": "2026-08-13 11:23:28",
       "message": "[PROCESSING] Analyzing: NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 11:24:05",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
+    },
+    {
+      "timestamp": "2026-08-13 11:24:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
     }
   ]
 }
