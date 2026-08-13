@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 12:32:10",
+  "last_updated": "2026-08-13 12:32:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 12:31:30",
-      "message": "[SUCCESS] Processed: \uc9c0\uc6d0\uc5d0\uc11c \uc2e4\ud589\uc73c\ub85c: \uae30\uc5c5\ub4e4\uc774 AI\ub97c \ud65c\uc6a9\ud558\ub294 \ubc29\ubc95\n  > Summary: OpenAI\uc758 \uc5f0\uad6c\ub294 \uae30\uc5c5\ub4e4\uc774 ChatGPT\uc640 Codex\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc790\uc728\uc801 AI\ub97c \ucc44\ud0dd\ud558\ub294..."
-    },
     {
       "timestamp": "2026-08-13 12:31:31",
       "message": "Reprocessing: Daybreak models are now available on AWS"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 12:32:10",
       "message": "[PROCESSING] Analyzing: Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features..."
+    },
+    {
+      "timestamp": "2026-08-13 12:32:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features"
     }
   ]
 }
