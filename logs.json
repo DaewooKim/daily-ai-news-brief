@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 14:47:17",
+  "last_updated": "2026-08-13 14:47:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 14:46:38",
-      "message": "[SUCCESS] Processed: NVIDIA JetPack 7.2.1, \uc5d0\uc774\uc804\ud2f1 \ube44\ub514\uc624 \uae30\uc220 \ubc0f T3000 \uc5d0\ubbac\ub808\uc774\uc158 \ucd94\uac00\n  > Summary: NVIDIA JetPack 7.2.1\uc740 \ube44\ub514\uc624\ub97c \ud575\uc2ec \ub370\uc774\ud130 \uacbd\ub85c\ub85c \uc0bc\uc544 \ub85c\ubd07 \uacf5\ud559, \uc9c0\ub2a5..."
-    },
     {
       "timestamp": "2026-08-13 14:46:40",
       "message": "Reprocessing: Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 14:47:17",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
+    },
+    {
+      "timestamp": "2026-08-13 14:47:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
     }
   ]
 }
