@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-13 00:10:35",
+  "last_updated": "2026-08-13 00:10:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-13 00:09:56",
-      "message": "[PROCESSING] Analyzing: Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard..."
-    },
     {
       "timestamp": "2026-08-13 00:09:59",
       "message": "[SUCCESS] Processed: NVIDIA NeMo \uc2a4\uc704\uce58\uc57c\ub4dc\ub97c \ud1b5\ud574 AI \uc5d0\uc774\uc804\ud2b8 \uc791\uc5c5\uc744 \ubaa8\ub378 \uac04\uc5d0 \ubd84\uc0b0\uc2dc\ud0a4\uae30\n  > Summary: AI \uc5d0\uc774\uc804\ud2b8\ub97c \uad6c\ucd95\ud558\ub294 \uac83\uc740 \ub2e8\uc77c \ubaa8\ub378\uc744 \uc120\ud0dd\ud558\ub294 \uac83\uc73c\ub85c \ub05d\ub098\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uac01 \ubaa8\ub378\uc740 \uace0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-13 00:10:35",
       "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
+    },
+    {
+      "timestamp": "2026-08-13 00:10:37",
+      "message": "Reprocessing: As AI safety concerns mount, three pioneers make the case for staying open"
     }
   ]
 }
