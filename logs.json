@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 15:01:29",
+  "last_updated": "2026-08-14 15:01:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 15:00:45",
-      "message": "[SUCCESS] Processed: OpenAI, \ub2ec\ub9ac \ub77c\uc9c0\uce58\ub97c \ucd5c\uace0 \uc218\uc775 \ucc45\uc784\uc790\ub85c \uc784\uba85\n  > Summary: OpenAI\ub294 \ub2ec\ub9ac \ub77c\uc9c0\uce58\ub97c \ucd5c\uace0 \uc218\uc775 \ucc45\uc784\uc790\ub85c \uc784\uba85\ud558\uc5ec \uae00\ub85c\ubc8c \uc218\uc775 \uc870\uc9c1\uc744 \uc774\ub04c\uace0 \uae30\uc5c5\ub4e4..."
-    },
     {
       "timestamp": "2026-08-14 15:00:47",
       "message": "Reprocessing: From assistance to execution: How enterprises put AI to work"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 15:01:29",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
+    },
+    {
+      "timestamp": "2026-08-14 15:01:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
     }
   ]
 }
