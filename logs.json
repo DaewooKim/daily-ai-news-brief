@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 21:48:29",
+  "last_updated": "2026-08-14 21:48:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 21:47:50",
-      "message": "Reprocessing: 3.8 GW Load Drop Prompts Potential PJM Data Center Rules"
-    },
     {
       "timestamp": "2026-08-14 21:47:51",
       "message": "[PROCESSING] Analyzing: 3.8 GW Load Drop Prompts Potential PJM Data Center Rules..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 21:48:29",
       "message": "[PROCESSING] Analyzing: Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-08-14 21:48:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)"
     }
   ]
 }
