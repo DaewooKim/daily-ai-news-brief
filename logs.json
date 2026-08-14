@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 17:16:33",
+  "last_updated": "2026-08-14 17:16:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 17:15:39",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-14 17:15:53",
       "message": "Found 174 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 17:16:33",
       "message": "[PROCESSING] Analyzing: Apple and Epic argue over how much Apple should get from purchases made outside the App Store..."
+    },
+    {
+      "timestamp": "2026-08-14 17:16:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple and Epic argue over how much Apple should get from purchases made outside the App Store"
     }
   ]
 }
