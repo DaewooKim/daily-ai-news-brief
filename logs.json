@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 19:34:07",
+  "last_updated": "2026-08-14 19:34:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 19:33:29",
-      "message": "[SUCCESS] Processed: \uc911\ub300\ud55c \uad11\ubb3c \uc704\uae30: AI \ub370\uc774\ud130 \uc13c\ud130\uac00 \uacf5\uae09\ub9dd \uc555\ubc15\uc5d0 \uc9c1\uba74\ud558\ub2e4\n  > Summary: AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \uae09\uc99d\uc740 \uad6c\ub9ac, \ub9ac\ud2ac, \ud76c\ud1a0\ub958\uc5d0 \uc758\uc874\ud558\uace0 \uc788\uc73c\ub098, \uc9c0\uc18d\uc801\uc778 \uacf5\uae09\ub9dd \uc555\ubc15\uc774..."
-    },
     {
       "timestamp": "2026-08-14 19:33:30",
       "message": "Reprocessing: 3.8 GW Load Drop Prompts Potential PJM Data Center Rules"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 19:34:07",
       "message": "[PROCESSING] Analyzing: Sources: stablecoin payments company RedotPay has delayed its plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-08-14 19:34:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: stablecoin payments company RedotPay has delayed its plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues (Bloomberg)"
     }
   ]
 }
