@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 18:27:19",
+  "last_updated": "2026-08-14 18:27:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 18:26:43",
-      "message": "[SUCCESS] Processed: AWS \ub370\uc774\ud130 \uc13c\ud130 \ucca0\uc218, \uc815\uce58\uc801 \ubc0f \uc9c0\uc5ed \uc0ac\ud68c\uc758 \ub3c4\uc804 \uc2e0\ud638\n  > Summary: AWS\uac00 \uba54\ub9b4\ub79c\ub4dc \ub370\uc774\ud130 \uc13c\ud130\uc758 \ucca0\uc218\ub97c \uacb0\uc815\ud55c \uac83\uc740 \uc778\ud504\ub77c \uc6b0\uc120 \uc0ac\ud56d \ub54c\ubb38\uc774\ub77c\uace0 \ud558\uc9c0\ub9cc, ..."
-    },
     {
       "timestamp": "2026-08-14 18:26:44",
       "message": "[PROCESSING] Analyzing: SpaceX Plans to Power $16.8B Terafab Without the Grid..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 18:27:19",
       "message": "[PROCESSING] Analyzing: Blackbird and Airtree revalue Canva at $34.9B, down from $42B in 2025, as it struggles in the AI era; Canva's internal valuation falls to $31B, down from $38.9B (Australian Financial Review)..."
+    },
+    {
+      "timestamp": "2026-08-14 18:27:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Blackbird and Airtree revalue Canva at $34.9B, down from $42B in 2025, as it struggles in the AI era; Canva's internal valuation falls to $31B, down from $38.9B (Australian Financial Review)"
     }
   ]
 }
