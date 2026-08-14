@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-14 09:22:34",
-  "status": "idle",
+  "last_updated": "2026-08-14 10:23:16",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-14 09:20:59",
-      "message": "Reprocessing: AI chipmaker Cerebras Systems\u2019 stock plunges, despite posting solid earnings and guidance"
+      "timestamp": "2026-08-14 10:23:03",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-14 09:21:00",
-      "message": "[SKIP] Content too short: AI chipmaker Cerebras Systems\u2019..."
+      "timestamp": "2026-08-14 10:23:04",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-14 09:21:02",
-      "message": "Reprocessing: Nebius shares jump 34% on continued AI infrastructure demand"
+      "timestamp": "2026-08-14 10:23:04",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-14 09:21:04",
-      "message": "[SKIP] Content too short: Nebius shares jump 34% on cont..."
+      "timestamp": "2026-08-14 10:23:16",
+      "message": "Found 177 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-14 09:21:06",
-      "message": "Reprocessing: AI infrastructure spending boosts Cisco\u2019s earnings and revenue, but its stock declines after-hours"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:07",
-      "message": "[SKIP] Content too short: AI infrastructure spending boo..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:09",
-      "message": "Reprocessing: Palo Alto Networks to run OpenAI cyber models inside customer networks"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:11",
-      "message": "[SKIP] Content too short: Palo Alto Networks to run Open..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:12",
-      "message": "Reprocessing: Skan AI raises $63M to give AI agents a map of enterprise work"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:14",
-      "message": "[SKIP] Content too short: Skan AI raises $63M to give AI..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:16",
-      "message": "Reprocessing: Vibe coding startup Lovable doubles valuation to $13.3B with $400M raise"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:17",
-      "message": "[SKIP] Content too short: Vibe coding startup Lovable do..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:19",
-      "message": "Reprocessing: Google launches five new Pixel devices, array of Gemini Intelligence features"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:21",
-      "message": "[SKIP] Content too short: Google launches five new Pixel..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:22",
-      "message": "Reprocessing: Three insights you may have missed from theCUBE\u2019s coverage of the Neo4j GraphTalk event"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:23",
-      "message": "[SKIP] Content too short: Three insights you may have mi..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:25",
-      "message": "Reprocessing: Vertical AI pushes infrastructure beyond one-size-fits-all"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:27",
-      "message": "[SKIP] Content too short: Vertical AI pushes infrastruct..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:28",
-      "message": "Reprocessing: Blacksmith raises $45M to aid AI code validation as agentic development grows"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:30",
-      "message": "[SKIP] Content too short: Blacksmith raises $45M to aid ..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:31",
-      "message": "Reprocessing: Again acquires Geno to advance biomanufacturing at scale with AI design"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:33",
-      "message": "[SKIP] Content too short: Again acquires Geno to advance..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:34",
-      "message": "Reprocessing: Google debuts SL2T, an AI model that\u2019s designed to understand sign language"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:36",
-      "message": "[SKIP] Content too short: Google debuts SL2T, an AI mode..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:38",
-      "message": "Reprocessing: Agentic AI infrastructure shifts enterprise focus from model choice to platform control"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:39",
-      "message": "[SKIP] Content too short: Agentic AI infrastructure shif..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:41",
-      "message": "Reprocessing: CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:43",
-      "message": "[SKIP] Content too short: CodeRabbit bags $143M to help ..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:44",
-      "message": "Reprocessing: Microchip Switchtec 160-Lane PCIe Gen6 Switch Shown at FMS 2026 with XpressConnect PCIe 6 Retimer"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:46",
-      "message": "[PROCESSING] Analyzing: Microchip Switchtec 160-Lane PCIe Gen6 Switch Shown at FMS 2026 with XpressConnect PCIe 6 Retimer..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:50",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uce69 \uc2a4\uc704\uce58\ud14d 160-\ub808\uc778 PCIe Gen6 \uc2a4\uc704\uce58, FMS 2026\uc5d0\uc11c XpressConnect PCIe 6 \ub9ac\ud0c0\uc774\uba38\uc640 \ud568\uaed8 \uc804\uc2dc\n  > Summary: FMS 2026\uc5d0\uc11c 160\ub808\uc778\uc758 \ub9c8\uc774\ud06c\ub85c\uce69 \uc2a4\uc704\uce58\ud14d PCIe Gen6 \uc2a4\uc704\uce58\uc640 Xpress..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:51",
-      "message": "Reprocessing: AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:53",
-      "message": "[PROCESSING] Analyzing: AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:56",
-      "message": "[SUCCESS] Processed: AMD Instinct MI455X \ub525 \ub2e4\uc774\ube0c: CDNA 5\uac00 \uc778\uc2a4\ud134\ud2b8\uc758 \ub2e4\uc74c \uc2dc\ub300\ub97c \uc54c\ub9ac\ub2e4\n  > Summary: AMD\uc758 Instinct MI455X \uac00\uc18d\uae30\uc640 CDNA 5 \uc544\ud0a4\ud14d\ucc98\uc5d0 \ub300\ud55c \uc2ec\uce35 \ubd84\uc11d\uc744 \ub2e4..."
-    },
-    {
-      "timestamp": "2026-08-14 09:21:58",
-      "message": "Reprocessing: Minisforum N5 Max Review with AMD Ryzen AI Max+ 395"
-    },
-    {
-      "timestamp": "2026-08-14 09:21:59",
-      "message": "[PROCESSING] Analyzing: Minisforum N5 Max Review with AMD Ryzen AI Max+ 395..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:01",
-      "message": "[SUCCESS] Processed: AMD Ryzen AI Max+ 395\ub97c \ud3ec\ud568\ud55c Minisforum N5 Max \ub9ac\ubdf0\n  > Summary: Minisforum N5 Max\ub294 64GB AMD Strix Halo \uc2dc\uc2a4\ud15c\uc73c\ub85c, 10Gb..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:03",
-      "message": "[PROCESSING] Analyzing: Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Panduit E36G18L PDU Review A Sweet Managed and Switched by Outlet PDU"
-    },
-    {
-      "timestamp": "2026-08-14 09:22:07",
-      "message": "[PROCESSING] Analyzing: WisdPi WP-UT9 USB 10GbE Adapter Review..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:09",
-      "message": "[SKIP] Irrelevant (AI Filter): WisdPi WP-UT9 USB 10GbE Adapter Review"
-    },
-    {
-      "timestamp": "2026-08-14 09:22:10",
-      "message": "Reprocessing: Write your first prompt with the GitHub Copilot app"
-    },
-    {
-      "timestamp": "2026-08-14 09:22:12",
-      "message": "[PROCESSING] Analyzing: Write your first prompt with the GitHub Copilot app..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:16",
-      "message": "[SUCCESS] Processed: GitHub Copilot \uc571\uc73c\ub85c \uccab \ubc88\uc9f8 \ud504\ub86c\ud504\ud2b8 \uc791\uc131\ud558\uae30\n  > Summary: \uc0c8\ub85c\uc6b4 AI \ub3c4\uad6c\ub97c \uc0ac\uc6a9\ud560 \ub54c, \ubb34\uc5c7\uc744 \uc694\uccad\ud560\uc9c0 \uace0\ubbfc\ud558\ub294 \uac83\uc774 \uc5b4\ub824\uc6b8 \uc218 \uc788\uc2b5\ub2c8\ub2e4. Git..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:17",
-      "message": "Reprocessing: Using the GitHub Copilot SDK for Java"
-    },
-    {
-      "timestamp": "2026-08-14 09:22:19",
-      "message": "[PROCESSING] Analyzing: Using the GitHub Copilot SDK for Java..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:23",
-      "message": "[SUCCESS] Processed: GitHub Copilot SDK for Java \uc0ac\uc6a9\ud558\uae30\n  > Summary: Java \uac1c\ubc1c\uc790\ub4e4\uc740 \uc774\uc81c \uae30\uc5c5 \uc571\uc5d0\uc11c AI\ub97c \uad6c\ub3d9\ud558\uae30 \uc704\ud574 \ud2b9\uc815 Java \ud504\ub808\uc784\uc6cc\ud06c\uc5d0 \uc758\uc874..."
-    },
-    {
-      "timestamp": "2026-08-14 09:22:25",
-      "message": "Completed! New: 1, Updated: 75"
-    },
-    {
-      "timestamp": "2026-08-14 09:22:28",
-      "message": "Saved 76 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-14 09:22:32",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-14 10:23:16",
+      "message": "[PROCESSING] Analyzing: Apple trained its own AI model for China with help from Alibaba..."
     }
   ]
 }
