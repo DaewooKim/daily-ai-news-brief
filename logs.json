@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 04:18:20",
+  "last_updated": "2026-08-14 04:18:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 04:17:43",
-      "message": "[PROCESSING] Analyzing: Sources: the CFTC has launched a probe into prediction markets' \"mention markets\", prompting Kalshi to remove bets on word choices from sports-related offerings (Bobby Allyn/NPR)..."
-    },
     {
       "timestamp": "2026-08-14 04:17:45",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: the CFTC has launched a probe into prediction markets' \"mention markets\", prompting Kalshi to remove bets on word choices from sports-related offerings (Bobby Allyn/NPR)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 04:18:20",
       "message": "[PROCESSING] Analyzing: Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ (Milana Vinn/Reuters)..."
+    },
+    {
+      "timestamp": "2026-08-14 04:18:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ (Milana Vinn/Reuters)"
     }
   ]
 }
