@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 15:03:09",
+  "last_updated": "2026-08-14 15:03:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 15:02:27",
-      "message": "[PROCESSING] Analyzing: 3.8 GW Load Drop Prompts Potential PJM Data Center Rules..."
-    },
     {
       "timestamp": "2026-08-14 15:02:31",
       "message": "[SUCCESS] Processed: 3.8 GW \ubd80\ud558 \uac10\uc18c\uac00 PJM \ub370\uc774\ud130 \uc13c\ud130 \uaddc\uc815\uc758 \uc7a0\uc7ac\uc801\uc778 \ud544\uc694\uc131\uc744 \ucd09\ubc1c\ud558\ub2e4\n  > Summary: PJM\uc740 \uac70\uc758 3,800 MW\uc758 \ub178\ub358 \ubc84\uc9c0\ub2c8\uc544 \ubd80\ud558\uac00 \uadf8\ub9ac\ub4dc \uc774\ubca4\ud2b8 \ub3d9\uc548 \ud604\uc7a5 \ubc1c\uc804\uc73c\ub85c \uc804..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 15:03:09",
       "message": "[PROCESSING] Analyzing: Epic v. Google: in a compliance hearing, a judge orders Google to remove \"anticompetitive friction\" for installing third-party app stores from its Play Store (Sean Hollister/The Verge)..."
+    },
+    {
+      "timestamp": "2026-08-14 15:03:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Epic v. Google: in a compliance hearing, a judge orders Google to remove \"anticompetitive friction\" for installing third-party app stores from its Play Store (Sean Hollister/The Verge)"
     }
   ]
 }
