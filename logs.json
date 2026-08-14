@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 08:04:55",
+  "last_updated": "2026-08-14 08:04:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 08:04:17",
-      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544\uc758 5000\uc5b5 \ub2ec\ub7ec \uc2e0\uaddc \uacc4\ud68d\uc740 \uc704\ud5d8\ud558\uc9c0\ub9cc \ud2b9\ud788 \ub178\ud6c4 GPU\uc5d0\ub294 \uae30\ubc1c\ud558\ub2e4\n  > Summary: \uc5d4\ube44\ub514\uc544\ub294 GPU\uc758 \uac00\uce58 \ud558\ub77d\uc744 \ub9c9\uae30 \uc704\ud55c \uacc4\ud68d\uc744 \uc138\uc6e0\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac\ub294 AI \uad6c\ucd95\uc744 \uc704\ud55c..."
-    },
     {
       "timestamp": "2026-08-14 08:04:18",
       "message": "[PROCESSING] Analyzing: Apple in talks to pay publishers to provide Siri with current news: report..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 08:04:55",
       "message": "[PROCESSING] Analyzing: How a $250 million acquisition collapsed into allegations of fraud and forged signatures..."
+    },
+    {
+      "timestamp": "2026-08-14 08:04:57",
+      "message": "[SKIP] Irrelevant (AI Filter): How a $250 million acquisition collapsed into allegations of fraud and forged signatures"
     }
   ]
 }
