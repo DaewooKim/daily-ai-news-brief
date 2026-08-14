@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 17:19:39",
+  "last_updated": "2026-08-14 17:19:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 17:18:56",
-      "message": "[PROCESSING] Analyzing: Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)..."
-    },
     {
       "timestamp": "2026-08-14 17:19:00",
       "message": "[SUCCESS] Processed: \uad6c\uae00, AI\uac00 \uc0dd\uc131\ud55c \uc774\ubbf8\uc9c0, \ube44\ub514\uc624, \uc74c\uc545\uc758 \uac00\uc2dc\uc801 \uc6cc\ud130\ub9c8\ud06c \uc81c\uac70\ud560 \uc218 \uc788\ub294 \ud1a0\uae00 \ucd94\uac00\n  > Summary: \uad6c\uae00\uc740 Gemini\uc640 Flow\uc5d0\uc11c AI\uac00 \uc0dd\uc131\ud55c \uc774\ubbf8\uc9c0, \ube44\ub514\uc624 \ubc0f \uc74c\uc545\uc758 \uac00\uc2dc\uc801 \uc6cc\ud130\ub9c8\ud06c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 17:19:39",
       "message": "[SKIP] Irrelevant (AI Filter): Blackbird and Airtree revalue Canva at $34.9B, down from $42B in 2025, as it struggles in the AI era; Canva's internal valuation falls to $31B, down from $38.9B (Australian Financial Review)"
+    },
+    {
+      "timestamp": "2026-08-14 17:19:41",
+      "message": "Reprocessing: Z.ai debuts GLM-5.3, which uses the same base model as GLM-5.2 with scaled post-training for stronger coding skills, and says it'll release weights in two weeks (Z.ai)"
     }
   ]
 }
