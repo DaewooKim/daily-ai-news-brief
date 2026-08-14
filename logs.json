@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 21:48:32",
+  "last_updated": "2026-08-14 21:48:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 21:47:51",
-      "message": "[PROCESSING] Analyzing: 3.8 GW Load Drop Prompts Potential PJM Data Center Rules..."
-    },
     {
       "timestamp": "2026-08-14 21:47:54",
       "message": "[SUCCESS] Processed: 3.8 GW \ub85c\ub4dc \ud558\ub77d\uc73c\ub85c \uc778\ud55c PJM \ub370\uc774\ud130 \uc13c\ud130 \uaddc\uce59 \uac00\ub2a5\uc131\n  > Summary: PJM\uc740 \ubd81\ubd80 \ubc84\uc9c0\ub2c8\uc544\uc5d0\uc11c 3,800 MW\uc758 \ubd80\ud558\uac00 \uc804\ub825\ub9dd \uc0ac\uac74 \uc911\uc5d0 \ud604\uc7a5 \ubc1c\uc804\uc73c\ub85c \uc804\ud658\ub41c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 21:48:32",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-08-14 21:48:33",
+      "message": "Reprocessing: Source: OpenAI CFO told investors that enterprise business now generates more revenue than ChatGPT-led consumer business; enterprise customers grew 32% in July (Kate Rooney/CNBC)"
     }
   ]
 }
