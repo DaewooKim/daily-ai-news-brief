@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-14 07:35:54",
+  "last_updated": "2026-08-14 07:35:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 07:35:08",
-      "message": "Initializing..."
-    },
-    {
-      "timestamp": "2026-08-14 07:35:08",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-14 07:35:19",
       "message": "Found 172 articles within the last 5 days. Starting processing..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-14 07:35:54",
       "message": "[SUCCESS] Processed: NVIDIA JetPack 7.2.1 \uc5d0\uc774\uc804\ud2f1 \ube44\ub514\uc624 \uc2a4\ud0ac\uacfc T3000 \uc5d0\ubbac\ub808\uc774\uc158 \ucd94\uac00\n  > Summary: \uc774 \uae30\uc0ac\ub294 NVIDIA JetPack 7.2.1\uc758 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc5d0 \ub300\ud574 \uc124\uba85\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. ..."
+    },
+    {
+      "timestamp": "2026-08-14 07:35:56",
+      "message": "Reprocessing: Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard"
+    },
+    {
+      "timestamp": "2026-08-14 07:35:57",
+      "message": "[PROCESSING] Analyzing: Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard..."
     }
   ]
 }
