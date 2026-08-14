@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 02:01:56",
+  "last_updated": "2026-08-14 02:01:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 02:01:21",
-      "message": "[SKIP] Irrelevant (AI Filter): This school-friendly laptop from HP is $300 off"
-    },
     {
       "timestamp": "2026-08-14 02:01:22",
       "message": "[PROCESSING] Analyzing: OpenAI is losing its second executive this week..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 02:01:56",
       "message": "Reprocessing: Empty shelves or lost keys? Recall is the bottleneck for parametric factuality"
+    },
+    {
+      "timestamp": "2026-08-14 02:01:57",
+      "message": "[SKIP] Content too short: Empty shelves or lost keys? Re..."
     }
   ]
 }
