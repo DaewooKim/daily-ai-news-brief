@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 17:16:36",
+  "last_updated": "2026-08-14 17:16:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 17:15:53",
-      "message": "Found 174 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-14 17:15:53",
       "message": "[PROCESSING] Analyzing: Mark Zuckerberg has an Instagzam..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 17:16:36",
       "message": "[SKIP] Irrelevant (AI Filter): Apple and Epic argue over how much Apple should get from purchases made outside the App Store"
+    },
+    {
+      "timestamp": "2026-08-14 17:16:38",
+      "message": "Reprocessing: How to Choose Full-Stack Observability for NVIDIA AI Factories"
     }
   ]
 }
