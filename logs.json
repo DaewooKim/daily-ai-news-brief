@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 08:04:26",
+  "last_updated": "2026-08-14 08:04:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 08:03:45",
-      "message": "[SUCCESS] Processed: \uc791\uac00\uac00 \ud1a0\ud070 \ube44\uc6a9\uc744 \uc808\uac10\ud558\uae30 \uc704\ud55c \uc0c8\ub85c\uc6b4 AI \ubaa8\ub378\uacfc \uc5c5\uadf8\ub808\uc774\ub4dc\ub41c \ud558\ub2c8\uc2a4\ub97c \uc18c\uac1c\ud558\ub2e4\n  > Summary: \uc791\uac00\ub294 Z.ai\uc758 \uc624\ud508 \uc18c\uc2a4 \ubaa8\ub378 GLM-5.2\ub97c \uae30\ubc18\uc73c\ub85c \ud55c \uc0c8\ub85c\uc6b4 AI \uc2dc\uc2a4\ud15c\uc744 \uc18c\uac1c\ud558..."
-    },
     {
       "timestamp": "2026-08-14 08:03:47",
       "message": "[PROCESSING] Analyzing: Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 08:04:26",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
+    },
+    {
+      "timestamp": "2026-08-14 08:04:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Amazon will train on Twitch streamers\u2019 content by default, unless they opt out"
     }
   ]
 }
