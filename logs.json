@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-14 08:07:19",
+  "last_updated": "2026-08-14 08:07:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 08:06:36",
-      "message": "[SUCCESS] Processed: Z.ai, GLM-5.3\uc744 \uacf5\uac1c\ud558\ub2e4\n  > Summary: Z.ai\ub294 GLM-5.2\uc640 \ub3d9\uc77c\ud55c \uae30\ubcf8 \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud558\ub294 GLM-5.3\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-08-14 08:06:38",
-      "message": "[PROCESSING] Analyzing: A look at Quincy, a rural Washington farming town of 8,500 that benefited from a data center boom as its poverty rate fell from 29.4% in 2012 to 6.2% in 2024 (Nathaniel Meyersohn/CNN)..."
-    },
     {
       "timestamp": "2026-08-14 08:06:41",
       "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130 \ud638\ud669\uc73c\ub85c \ubcc0\ubaa8\ud55c \uc6cc\uc2f1\ud134\uc8fc \ud038\uc2dc \ub18d\ucd0c \ub9c8\uc744\n  > Summary: \uc6cc\uc2f1\ud134\uc8fc \ud038\uc2dc, \uc778\uad6c 8,500\uba85\uc758 \ub18d\ucd0c \ub9c8\uc744\uc774 \ub370\uc774\ud130 \uc13c\ud130 \ud638\ud669\uc73c\ub85c \ud61c\ud0dd\uc744 \ubc1b\uc544 2012..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-14 08:07:19",
       "message": "[PROCESSING] Analyzing: Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households (Patience Haggin/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-08-14 08:07:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households (Patience Haggin/Wall Street Journal)"
+    },
+    {
+      "timestamp": "2026-08-14 08:07:22",
+      "message": "[PROCESSING] Analyzing: Epic v. Apple: Apple proposes commissions on US linked-out purchases of 15% for standard apps, 10% for partner programs and renewals, 5% for Small Business apps (Marcus Mendes/9to5Mac)..."
     }
   ]
 }
