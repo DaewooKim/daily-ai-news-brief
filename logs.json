@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 12:46:43",
+  "last_updated": "2026-08-14 12:46:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 12:46:00",
-      "message": "[SUCCESS] Processed: Z.ai, GLM-5.3 \ubc1c\ud45c: GLM-5.2\uc640 \ub3d9\uc77c\ud55c \uae30\ubcf8 \ubaa8\ub378\uc744 \uae30\ubc18\uc73c\ub85c \ud6c4\ud6c8\ub828\uc744 \ud1b5\ud574 \ub354 \uac15\ub825\ud55c \ucf54\ub529 \uae30\uc220\uc744 \uac16\ucd94\ub2e4.\n  > Summary: Z.ai\uac00 GLM-5.3\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 GLM-5.2\uc640 \ub3d9\uc77c\ud55c \uae30\ubcf8 \ubaa8\ub378\uc744 \uc0ac..."
-    },
     {
       "timestamp": "2026-08-14 12:46:02",
       "message": "[PROCESSING] Analyzing: The White House announces new tariffs on drones and components, including a 100% levy on \"particularly sensitive\" models, aiming to cut reliance on Chinese tech (Demetri Sevastopulo/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 12:46:43",
       "message": "[PROCESSING] Analyzing: Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027..."
+    },
+    {
+      "timestamp": "2026-08-14 12:46:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027"
     }
   ]
 }
