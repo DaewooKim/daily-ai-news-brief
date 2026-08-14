@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 09:16:40",
+  "last_updated": "2026-08-14 09:16:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 09:16:01",
-      "message": "[PROCESSING] Analyzing: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise..."
-    },
     {
       "timestamp": "2026-08-14 09:16:04",
       "message": "[SUCCESS] Processed: OpenAI \uc9c0\uc6d0\uc758 Thrive Holdings, \uae30\uc5c5\uc5d0 AI\ub97c \ub3c4\uc785\ud558\uae30 \uc704\ud574 20\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: Thrive Holdings\uac00 \uc18c\ud504\ud2b8\ubc45\ud06c, D1 Capital Partners \ubc0f Alti..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 09:16:40",
       "message": "[PROCESSING] Analyzing: Hong Kong Electronics Fairs Launch in October!..."
+    },
+    {
+      "timestamp": "2026-08-14 09:16:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Hong Kong Electronics Fairs Launch in October!"
     }
   ]
 }
