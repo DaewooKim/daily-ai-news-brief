@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 10:26:17",
+  "last_updated": "2026-08-14 10:26:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 10:25:37",
-      "message": "[PROCESSING] Analyzing: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise..."
-    },
     {
       "timestamp": "2026-08-14 10:25:40",
       "message": "[SUCCESS] Processed: OpenAI \uc9c0\uc6d0 \uc2a4\ub808\uc774\ube0c \ud640\ub529\uc2a4, AI\ub97c \uae30\uc5c5\uc5d0 \ub3c4\uc785\ud558\uae30 \uc704\ud574 20\uc5b5 \ub2ec\ub7ec \ubaa8\uae08\n  > Summary: \uc2a4\ub808\uc774\ube0c \ud640\ub529\uc2a4\uac00 \uc18c\ud504\ud2b8\ubc45\ud06c, D1 \uce90\ud53c\ud0c8 \ud30c\ud2b8\ub108\uc2a4, \uc54c\ud0c0\ubbf8\ud130 \uce90\ud53c\ud0c8\uacfc \uac19\uc740 \ud22c\uc790\uc790\ub4e4\ub85c\ubd80\ud130..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 10:26:17",
       "message": "[PROCESSING] Analyzing: Hong Kong Electronics Fairs Launch in October!..."
+    },
+    {
+      "timestamp": "2026-08-14 10:26:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Hong Kong Electronics Fairs Launch in October!"
     }
   ]
 }
