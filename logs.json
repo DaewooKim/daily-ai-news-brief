@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-14 18:24:22",
+  "last_updated": "2026-08-14 18:24:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 18:23:32",
-      "message": "Fetching RSS feeds..."
-    },
-    {
-      "timestamp": "2026-08-14 18:23:45",
-      "message": "Found 181 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-14 18:23:45",
       "message": "[PROCESSING] Analyzing: Lamborghini\u2019s flagship Revuelto levels up with SV trim..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-14 18:24:22",
       "message": "[SKIP] Irrelevant (AI Filter): Hoto\u2019s new cordless soldering iron heats up in three seconds"
+    },
+    {
+      "timestamp": "2026-08-14 18:24:24",
+      "message": "[SKIP] Content too short: The Neoclouds Build Cash Hoard..."
+    },
+    {
+      "timestamp": "2026-08-14 18:24:25",
+      "message": "Reprocessing: The War Between Open Source, Open Weight, And Closed AI Models"
     }
   ]
 }
