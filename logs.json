@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 08:05:04",
+  "last_updated": "2026-08-14 08:05:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 08:04:24",
-      "message": "[SUCCESS] Processed: \uc77c\ubd80 Claude \uc0ac\uc6a9\uc790\ub4e4\uc774 Anthropic\uc758 \uc0c8\ub85c\uc6b4 \uc6cc\ud130\ub9c8\ud06c\uac00 \uc9c1\uc7a5 \ubc0f \uc218\uc5c5\uc5d0\uc11c\uc758 \uc0ac\uc6a9\uc744 \uc801\ubc1c\ud560 \uac83\uc5d0 \ubd88\ub9cc\uc744 \ud488\uace0 \uc788\ub2e4\n  > Summary: Anthropic\uc758 \uc0c8\ub85c\uc6b4 \uc6cc\ud130\ub9c8\ud0b9 \uc2dc\uc2a4\ud15c\uc5d0 \ub300\ud574 \uc77c\ubd80 \uc0ac\uc6a9\uc790\uac00 \ubd88\ub9cc\uc744 \uc81c\uae30\ud558\uace0 \uc788\ub2e4. \uc774..."
-    },
     {
       "timestamp": "2026-08-14 08:04:26",
       "message": "[PROCESSING] Analyzing: Amazon will train on Twitch streamers\u2019 content by default, unless they opt out..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 08:05:04",
       "message": "[PROCESSING] Analyzing: Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features..."
+    },
+    {
+      "timestamp": "2026-08-14 08:05:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features"
     }
   ]
 }
