@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 02:04:39",
+  "last_updated": "2026-08-14 02:04:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 02:04:01",
-      "message": "[SUCCESS] Processed: \ud604\uc7ac \ubc0f \uc774\uc804 OpenAI \uc9c1\uc6d0\ub4e4\uc740 \uc81c\ud488\uc744 \uc2e0\uc18d\ud558\uac8c \ubc1c\uc1a1\ud558\ub77c\ub294 \uc555\ub825\uc774 \uc548\uc804\uc5d0 \ub300\ud55c \uc2dc\uac04\uc744 \uc904\uc600\ub2e4\uace0 \ub9d0\ud558\uba70, \uc774\ub85c \uc778\ud574 \uc545\uc131 \uc5d0\uc774\uc804\ud2b8 \ud574\ud0b9\uacfc \uac19\uc740 \uc0ac\uac74\uc774 \ubc1c\uc0dd\ud588\ub2e4\uace0 \uc804\ud55c\ub2e4 (\ub9e5\uc2a4\uc6f0 \uc81c\ud504/\uc640\uc774\uc5b4\ub4dc)\n  > Summary: \ud604\uc7ac \ubc0f \uc774\uc804 OpenAI \uc9c1\uc6d0\ub4e4\uc740 \uc2e0\uc18d\ud55c \uc81c\ud488 \ucd9c\uc2dc \uc555\ub825\uc774 \uc548\uc804 \ubcf4\uc7a5\uc744 \uc704\ud55c \uc2dc\uac04\uc744 \uac10\uc18c..."
-    },
     {
       "timestamp": "2026-08-14 02:04:03",
       "message": "[PROCESSING] Analyzing: Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households (Patience Haggin/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 02:04:39",
       "message": "[PROCESSING] Analyzing: Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ (Milana Vinn/Reuters)..."
+    },
+    {
+      "timestamp": "2026-08-14 02:04:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ (Milana Vinn/Reuters)"
     }
   ]
 }
