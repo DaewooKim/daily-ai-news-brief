@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 00:55:52",
+  "last_updated": "2026-08-14 00:55:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 00:55:14",
-      "message": "[SUCCESS] Processed: AI \uc6d0\uc8fc\uc728 \uc7ac\ubb34 \uae30\ub2a5 \uad6c\ucd95\uc5d0\uc11c \ubc30\uc6b4 \uac83\n  > Summary: OpenAI\uc758 CFO \uc0ac\ub77c \ud504\ub77c\uc774\uc5b4\ub294 \uc790\ub3d9\ud654\ub41c \uc608\uce21\ubd80\ud130 \uac15\ub825\ud55c \ud1b5\uc81c \ubc0f AI ROI\uc5d0 \uc774\ub974..."
-    },
     {
       "timestamp": "2026-08-14 00:55:15",
       "message": "Reprocessing: Writer introduces new AI model and upgraded harness to contain token costs"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 00:55:52",
       "message": "[PROCESSING] Analyzing: How a $250 million acquisition collapsed into allegations of fraud and forged signatures..."
+    },
+    {
+      "timestamp": "2026-08-14 00:55:54",
+      "message": "[SKIP] Irrelevant (AI Filter): How a $250 million acquisition collapsed into allegations of fraud and forged signatures"
     }
   ]
 }
