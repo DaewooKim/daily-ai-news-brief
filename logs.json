@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-14 07:36:09",
+  "last_updated": "2026-08-14 07:36:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 07:35:30",
-      "message": "[SKIP] Irrelevant (AI Filter): \u2018That is not acceptable\u2019: Judge orders Google to make rival app store installs easier"
-    },
-    {
-      "timestamp": "2026-08-14 07:35:32",
-      "message": "[PROCESSING] Analyzing: Netflix is closing two game studios..."
-    },
     {
       "timestamp": "2026-08-14 07:35:35",
       "message": "[SKIP] Irrelevant (AI Filter): Netflix is closing two game studios"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-14 07:36:09",
       "message": "Reprocessing: Daybreak models are now available on AWS"
+    },
+    {
+      "timestamp": "2026-08-14 07:36:11",
+      "message": "[PROCESSING] Analyzing: Daybreak models are now available on AWS..."
+    },
+    {
+      "timestamp": "2026-08-14 07:36:13",
+      "message": "[SUCCESS] Processed: \ub370\uc774\ube0c\ub808\uc774\ud06c \ubaa8\ub378\uc774 \uc774\uc81c AWS\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4\n  > Summary: OpenAI\uc640 AWS\ub294 Amazon Bedrock\uc744 \ud1b5\ud574 \ub370\uc774\ube0c\ub808\uc774\ud06c \uc0ac\uc774\ubc84 \ubcf4\uc548 \uae30\ub2a5\uc744 ..."
     }
   ]
 }
