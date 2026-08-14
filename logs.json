@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-14 03:12:12",
+  "last_updated": "2026-08-14 03:12:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-14 03:11:31",
-      "message": "[PROCESSING] Analyzing: OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use (Frederic Lardinois/The New Stack)..."
-    },
     {
       "timestamp": "2026-08-14 03:11:35",
       "message": "[SUCCESS] Processed: OpenAI, macOS\uc758 \ucd5c\uadfc \ucef4\ud4e8\ud130 \ud65c\ub3d9\uc744 \uba54\ubaa8\ub9ac\uc640 \ud0c0\uc784\ub77c\uc778\uc73c\ub85c \ubcc0\ud658\ud558\ub294 \uc120\ud0dd\uc801 \uae30\ub2a5 'Computer History' \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 \ucd5c\uadfc \ucef4\ud4e8\ud130 \ud65c\ub3d9\uc744 \uba54\ubaa8\ub9ac\uc640 \ud0c0\uc784\ub77c\uc778\uc73c\ub85c \ubcc0\ud658\ud558\ub294 \uc120\ud0dd\uc801 \uae30\ub2a5\uc778 'Compu..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-14 03:12:12",
       "message": "[PROCESSING] Analyzing: NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia..."
+    },
+    {
+      "timestamp": "2026-08-14 03:12:14",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia"
     }
   ]
 }
