@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-15 06:42:10",
+  "last_updated": "2026-08-15 06:42:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-15 06:41:32",
-      "message": "[SUCCESS] Processed: AI \ubaa8\ub378\uc744 \uc2e4\uc81c \uc791\uc5c5\uc5d0\uc11c \ud14c\uc2a4\ud2b8\ud558\uae30 \uc704\ud55c \ud3c9\uac00 \ubc0f \ubca4\uce58\ub97c \uac1c\ubc1c\ud558\ub294 SF \uae30\ubc18 Vals, a16z \uc8fc\ub3c4\ub85c 4\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 A \uc720\uce58\n  > Summary: SF \uae30\ubc18\uc758 Vals\uac00 AI \ubaa8\ub378\uc744 \uc2e4\uc81c \uc791\uc5c5\uc5d0\uc11c \ud14c\uc2a4\ud2b8\ud558\uae30 \uc704\ud55c \ud3c9\uac00 \ubc0f \ubca4\uce58\ub97c \uac1c\ubc1c\ud558\uba70..."
-    },
     {
       "timestamp": "2026-08-15 06:41:33",
       "message": "[PROCESSING] Analyzing: Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore (Zijing Wu/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-15 06:42:10",
       "message": "[PROCESSING] Analyzing: NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia..."
+    },
+    {
+      "timestamp": "2026-08-15 06:42:12",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia"
     }
   ]
 }
