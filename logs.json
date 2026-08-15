@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-15 21:06:23",
-  "status": "idle",
+  "last_updated": "2026-08-15 22:07:02",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-15 21:04:59",
-      "message": "[SKIP] Content too short: Workday\u2019s stock jumps 17% on r..."
+      "timestamp": "2026-08-15 22:06:48",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-15 21:05:01",
-      "message": "Reprocessing: Vantage explores $100B IPO as four data center operators line up listings"
+      "timestamp": "2026-08-15 22:06:49",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-15 21:05:02",
-      "message": "[SKIP] Content too short: Vantage explores $100B IPO as ..."
+      "timestamp": "2026-08-15 22:06:49",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-15 21:05:04",
-      "message": "Reprocessing: Google launches Gemini 3.7 Flash for coding, AI agent projects"
+      "timestamp": "2026-08-15 22:07:02",
+      "message": "Found 169 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-15 21:05:06",
-      "message": "[SKIP] Content too short: Google launches Gemini 3.7 Fla..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:08",
-      "message": "Reprocessing: Trump memo lets vetted US firms run offensive cyber operations abroad"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:09",
-      "message": "[SKIP] Content too short: Trump memo lets vetted US firm..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:10",
-      "message": "Reprocessing: Databricks raises $5B more after annualized revenue tops $7B"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:12",
-      "message": "[SKIP] Content too short: Databricks raises $5B more aft..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:14",
-      "message": "Reprocessing: Industry experts weigh in as AI moves from proof of concept to production"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:15",
-      "message": "[SKIP] Content too short: Industry experts weigh in as A..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:16",
-      "message": "Reprocessing: What to expect during CrowdStrike\u2019s Fal.Con: Join theCUBE Aug. 31-Sept. 2"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:18",
-      "message": "[SKIP] Content too short: What to expect during CrowdStr..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:20",
-      "message": "Reprocessing: Mindgard raises $30M to handle security for AI models and applications"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:21",
-      "message": "[SKIP] Content too short: Mindgard raises $30M to handle..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:22",
-      "message": "Reprocessing: A month with Anthropic\u2019s Mythos left Rubrik rethinking remediation"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:24",
-      "message": "[SKIP] Content too short: A month with Anthropic\u2019s Mytho..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:25",
-      "message": "Reprocessing: Regal ties its voice AI agents into Five9\u2019s contact center platform"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:26",
-      "message": "[SKIP] Content too short: Regal ties its voice AI agents..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:28",
-      "message": "Reprocessing: Criminals have moved AI out of testing and into daily use, Flashpoint finds"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:29",
-      "message": "[SKIP] Content too short: Criminals have moved AI out of..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:31",
-      "message": "Reprocessing: Writer launches major agentic AI improvements with Palmyra X6 flagship model"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:32",
-      "message": "[SKIP] Content too short: Writer launches major agentic ..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:34",
-      "message": "Reprocessing: SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:35",
-      "message": "[SKIP] Content too short: SpaceXAI releases flagship Gro..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:37",
-      "message": "Reprocessing: AI chipmaker Cerebras Systems\u2019 stock plunges, despite posting solid earnings and guidance"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:38",
-      "message": "[SKIP] Content too short: AI chipmaker Cerebras Systems\u2019..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:40",
-      "message": "Reprocessing: Nebius shares jump 34% on continued AI infrastructure demand"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:42",
-      "message": "[SKIP] Content too short: Nebius shares jump 34% on cont..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:43",
-      "message": "Reprocessing: AI infrastructure spending boosts Cisco\u2019s earnings and revenue, but its stock declines after-hours"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:45",
-      "message": "[SKIP] Content too short: AI infrastructure spending boo..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:46",
-      "message": "Reprocessing: Palo Alto Networks to run OpenAI cyber models inside customer networks"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:48",
-      "message": "[SKIP] Content too short: Palo Alto Networks to run Open..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:49",
-      "message": "Reprocessing: Skan AI raises $63M to give AI agents a map of enterprise work"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:51",
-      "message": "[SKIP] Content too short: Skan AI raises $63M to give AI..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:52",
-      "message": "Reprocessing: Vibe coding startup Lovable doubles valuation to $13.3B with $400M raise"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:54",
-      "message": "[SKIP] Content too short: Vibe coding startup Lovable do..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:55",
-      "message": "[PROCESSING] Analyzing: KYY X90D \u201cTriple\u201d Portable Monitor Review..."
-    },
-    {
-      "timestamp": "2026-08-15 21:05:57",
-      "message": "[SKIP] Irrelevant (AI Filter): KYY X90D \u201cTriple\u201d Portable Monitor Review"
-    },
-    {
-      "timestamp": "2026-08-15 21:05:59",
-      "message": "Reprocessing: 160-bay NVMe SSD 4U Server Shown at FMS 2026 Supermicro ASG-4116S-NU160R"
-    },
-    {
-      "timestamp": "2026-08-15 21:06:00",
-      "message": "[PROCESSING] Analyzing: 160-bay NVMe SSD 4U Server Shown at FMS 2026 Supermicro ASG-4116S-NU160R..."
-    },
-    {
-      "timestamp": "2026-08-15 21:06:03",
-      "message": "[SUCCESS] Processed: FMS 2026\uc5d0\uc11c \uacf5\uac1c\ub41c 160\ubca0\uc774 NVMe SSD 4U \uc11c\ubc84 \uc288\ud37c\ub9c8\uc774\ud06c\ub85c ASG-4116S-NU160R\n  > Summary: FMS 2026\uc5d0\uc11c 160\ubca0\uc774 NVMe \uc2a4\ud1a0\ub9ac\uc9c0 \uc11c\ubc84\uc778 \uc288\ud37c\ub9c8\uc774\ud06c\ub85c ASG-4116S-NU..."
-    },
-    {
-      "timestamp": "2026-08-15 21:06:05",
-      "message": "Reprocessing: Microchip Switchtec 160-Lane PCIe Gen6 Switch Shown at FMS 2026 with XpressConnect PCIe 6 Retimer"
-    },
-    {
-      "timestamp": "2026-08-15 21:06:06",
-      "message": "[PROCESSING] Analyzing: Microchip Switchtec 160-Lane PCIe Gen6 Switch Shown at FMS 2026 with XpressConnect PCIe 6 Retimer..."
-    },
-    {
-      "timestamp": "2026-08-15 21:06:09",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub85c\uce69 \uc2a4\uc704\uce58\ud14d 160\ub808\uc778 PCIe Gen6 \uc2a4\uc704\uce58, FMS 2026\uc5d0\uc11c XpressConnect PCIe 6 \ub9ac\ud0c0\uc774\uba38\uc640 \ud568\uaed8 \uacf5\uac1c\n  > Summary: FMS 2026\uc5d0\uc11c \ub9c8\uc774\ud06c\ub85c\uce69\uc740 160\ub808\uc778 PCIe Gen6 \uc2a4\uc704\uce58\uc640 XpressConne..."
-    },
-    {
-      "timestamp": "2026-08-15 21:06:11",
-      "message": "[PROCESSING] Analyzing: How to bring your software delivery workflow into GitHub with agent apps..."
-    },
-    {
-      "timestamp": "2026-08-15 21:06:13",
-      "message": "[SKIP] Irrelevant (AI Filter): How to bring your software delivery workflow into GitHub with agent apps"
-    },
-    {
-      "timestamp": "2026-08-15 21:06:15",
-      "message": "Completed! New: 1, Updated: 53"
-    },
-    {
-      "timestamp": "2026-08-15 21:06:18",
-      "message": "Saved 54 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-15 21:06:21",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-15 22:07:02",
+      "message": "[PROCESSING] Analyzing: Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback..."
     }
   ]
 }
