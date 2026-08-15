@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-15 22:08:44",
+  "last_updated": "2026-08-15 22:08:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-15 22:08:07",
-      "message": "[PROCESSING] Analyzing: Woman claims her stepfather used Grok to transform childhood photo into explicit imagery..."
-    },
     {
       "timestamp": "2026-08-15 22:08:10",
       "message": "[SUCCESS] Processed: \uc5ec\uc131, \uc758\ubd93\uc544\ubc84\uc9c0\uac00 Grok\uc744 \uc0ac\uc6a9\ud574 \uc5b4\ub9b0 \uc2dc\uc808 \uc0ac\uc9c4\uc744 \ub178\uace8\uc801\uc778 \uc774\ubbf8\uc9c0\ub85c \ubcc0\ud658\ud588\ub2e4\uace0 \uc8fc\uc7a5\n  > Summary: \ud55c \uc5ec\uc131\uc774 AI \ub3c4\uad6c\ub4e4\uc774 '\uc77c\uc0c1 \uc0dd\ud65c\uc744 \uc544\ub3d9 \uc131\uc801 \ud559\ub300\uc73c\ub85c \ubc14\uafb8\uace0 \uc788\ub2e4'\uace0 \uc8fc\uc7a5\ud588\uc2b5\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-15 22:08:44",
       "message": "[PROCESSING] Analyzing: Hong Kong Electronics Fairs Launch in October!..."
+    },
+    {
+      "timestamp": "2026-08-15 22:08:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Hong Kong Electronics Fairs Launch in October!"
     }
   ]
 }
