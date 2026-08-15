@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-15 14:23:52",
+  "last_updated": "2026-08-15 14:23:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-15 14:23:18",
-      "message": "Found 170 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-15 14:23:18",
       "message": "[PROCESSING] Analyzing: Disney D23 2026: Everything announced for Star Wars, Marvel, and more..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-15 14:23:52",
       "message": "[PROCESSING] Analyzing: Lamborghini\u2019s flagship Revuelto levels up with SV trim..."
+    },
+    {
+      "timestamp": "2026-08-15 14:23:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Lamborghini\u2019s flagship Revuelto levels up with SV trim"
     }
   ]
 }
