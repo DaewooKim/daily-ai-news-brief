@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-15 00:03:13",
+  "last_updated": "2026-08-15 00:03:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-15 00:02:32",
-      "message": "[SUCCESS] Processed: \ud22c\uc790\uc790 \uc11c\ud55c: Thrive\uc758 2022\ub144 \ucd08\uae30 \ub2e8\uacc4 5\uc5b5 1\ucc9c 6\ubc31\ub9cc \ub2ec\ub7ec \ud380\ub4dc\uac00 OpenAI \ubc0f SpaceX\uc5d0 \ud22c\uc790\ud55c \uacb0\uacfc 6\uc6d4 \ub9d0 \uae30\uc900 37\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc73c\ub85c \ud3c9\uac00\ub428\n  > Summary: Thrive Capital\uc758 2022\ub144 \ucd08\uae30 \ub2e8\uacc4 \ubca4\ucc98 \uce90\ud53c\ud0c8 \ud380\ub4dc\ub294 5\uc5b5 1\ucc9c 6\ubc31\ub9cc \ub2ec..."
-    },
     {
       "timestamp": "2026-08-15 00:02:33",
       "message": "[PROCESSING] Analyzing: Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-15 00:03:13",
       "message": "[PROCESSING] Analyzing: NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia..."
+    },
+    {
+      "timestamp": "2026-08-15 00:03:15",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia"
     }
   ]
 }
