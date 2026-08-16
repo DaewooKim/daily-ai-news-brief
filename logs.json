@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-16 09:06:55",
+  "last_updated": "2026-08-16 09:06:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-16 09:06:21",
-      "message": "[PROCESSING] Analyzing: Disney D23 2026: Everything announced for Star Wars, Marvel, and more..."
-    },
     {
       "timestamp": "2026-08-16 09:06:23",
       "message": "[SKIP] Irrelevant (AI Filter): Disney D23 2026: Everything announced for Star Wars, Marvel, and more"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-16 09:06:55",
       "message": "Reprocessing: Empty shelves or lost keys? Recall is the bottleneck for parametric factuality"
+    },
+    {
+      "timestamp": "2026-08-16 09:06:56",
+      "message": "[SKIP] Content too short: Empty shelves or lost keys? Re..."
     }
   ]
 }
