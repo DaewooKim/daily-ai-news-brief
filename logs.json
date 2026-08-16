@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-16 13:32:50",
+  "last_updated": "2026-08-16 13:32:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-16 13:32:07",
-      "message": "[SUCCESS] Processed: AWS \ub370\uc774\ud130 \uc13c\ud130 \ucca0\uc218\ub294 \uc815\uce58 \ubc0f \uc9c0\uc5ed \uc0ac\ud68c\uc758 \ub3c4\uc804\uc774 \uc99d\uac00\ud558\uace0 \uc788\uc74c\uc744 \ub098\ud0c0\ub0c5\ub2c8\ub2e4\n  > Summary: AWS\uac00 \uba54\ub9b4\ub79c\ub4dc \ub370\uc774\ud130 \uc13c\ud130 \ucca0\uc218\ub97c \uacb0\uc815\ud55c \uac83\uc740 \uc778\ud504\ub77c \uc6b0\uc120\uc21c\uc704\ub97c \ubc18\uc601\ud558\uc9c0\ub9cc, \uc9c0\uc5ed \uc0ac\ud68c..."
-    },
     {
       "timestamp": "2026-08-16 13:32:09",
       "message": "[PROCESSING] Analyzing: A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them (Jason Douglas/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-16 13:32:50",
       "message": "[PROCESSING] Analyzing: Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027..."
+    },
+    {
+      "timestamp": "2026-08-16 13:32:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027"
     }
   ]
 }
