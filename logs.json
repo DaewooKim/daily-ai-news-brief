@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 17:00:28",
+  "last_updated": "2026-08-17 17:00:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 16:59:36",
-      "message": "Reprocessing: OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-08-17 16:59:38",
       "message": "[PROCESSING] Analyzing: OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 17:00:28",
       "message": "[PROCESSING] Analyzing: Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027..."
+    },
+    {
+      "timestamp": "2026-08-17 17:00:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027"
     }
   ]
 }
