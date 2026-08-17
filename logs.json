@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 15:49:24",
+  "last_updated": "2026-08-17 15:49:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 15:48:02",
-      "message": "[SUCCESS] Processed: Nvidia, OpenAI\uc758 \uc0c8\ub85c\uc6b4 \uc624\ud558\uc774\uc624 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ucd5c\ub300 1050\uc5b5 \ub2ec\ub7ec \uc9c0\ucd9c \ud569\uc758\n  > Summary: Nvidia\ub294 OpenAI\uac00 \uc784\ub300\ud560 \ub300\uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130 \ucea0\ud37c\uc2a4\ub97c \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 \ucd5c\ub300 105..."
-    },
     {
       "timestamp": "2026-08-17 15:48:06",
       "message": "[PROCESSING] Analyzing: Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility (Emanuel Maiberg/404 Media)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 15:49:24",
       "message": "[PROCESSING] Analyzing: Sources: Meta and BlackRock's $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-08-17 15:49:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Meta and BlackRock's $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities (Financial Times)"
     }
   ]
 }
