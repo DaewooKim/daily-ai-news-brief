@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 21:28:55",
+  "last_updated": "2026-08-17 21:28:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 21:28:17",
-      "message": "Found 152 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-17 21:28:17",
       "message": "[PROCESSING] Analyzing: ABC&#8217;s livestreamed news show is powered by trending topics..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 21:28:55",
       "message": "[PROCESSING] Analyzing: Uber partners with Zipline on Eats drone deliveries..."
+    },
+    {
+      "timestamp": "2026-08-17 21:28:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Uber partners with Zipline on Eats drone deliveries"
     }
   ]
 }
