@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 15:50:55",
+  "last_updated": "2026-08-17 15:50:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 15:49:21",
-      "message": "[SUCCESS] Processed: \uc74c\uc131 AI \uc2a4\ud0c0\ud2b8\uc5c5 Wispr, Menlo Ventures \uc8fc\ub3c4\ub85c 2\uc5b5 8\ucc9c\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \uc870\ub2ec, \uae30\uc5c5 \uac00\uce58 20\uc5b5 \ub2ec\ub7ec\n  > Summary: \uc74c\uc131 AI \uc2a4\ud0c0\ud2b8\uc5c5 Wispr\uac00 Menlo Ventures\uc758 \uc8fc\ub3c4\ub85c 2\uc5b5 8\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ud3ec..."
-    },
     {
       "timestamp": "2026-08-17 15:49:24",
       "message": "[PROCESSING] Analyzing: Sources: Meta and BlackRock's $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 15:50:55",
       "message": "[PROCESSING] Analyzing: NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia..."
+    },
+    {
+      "timestamp": "2026-08-17 15:50:59",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia"
     }
   ]
 }
