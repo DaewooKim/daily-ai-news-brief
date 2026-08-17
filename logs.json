@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 16:57:01",
+  "last_updated": "2026-08-17 16:57:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 16:56:23",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-17 16:56:23",
       "message": "[PROCESSING] Analyzing: Apple ordered to stop scaring iPhone and iPad users away from third-party apps..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 16:57:01",
       "message": "Reprocessing: The GenAI Boom Will Lift Supermicro, But It Will Lift Others, Too"
+    },
+    {
+      "timestamp": "2026-08-17 16:57:02",
+      "message": "[SKIP] Content too short: The GenAI Boom Will Lift Super..."
     }
   ]
 }
