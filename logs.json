@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 19:14:42",
+  "last_updated": "2026-08-17 19:14:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 19:14:04",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-17 19:14:04",
       "message": "[PROCESSING] Analyzing: Wordle meets Clippy in this new word game..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 19:14:42",
       "message": "[PROCESSING] Analyzing: How to take better photos of your pets..."
+    },
+    {
+      "timestamp": "2026-08-17 19:14:45",
+      "message": "[SKIP] Irrelevant (AI Filter): How to take better photos of your pets"
     }
   ]
 }
