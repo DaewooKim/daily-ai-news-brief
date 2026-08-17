@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 15:43:23",
+  "last_updated": "2026-08-17 15:43:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 15:41:49",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-17 15:41:49",
       "message": "[PROCESSING] Analyzing: Apple ordered to stop scaring iPhone and iPad users away from third-party apps..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 15:43:23",
       "message": "[PROCESSING] Analyzing: Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece..."
+    },
+    {
+      "timestamp": "2026-08-17 15:43:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece"
     }
   ]
 }
