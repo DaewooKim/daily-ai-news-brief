@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 21:30:09",
+  "last_updated": "2026-08-17 21:30:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 21:29:32",
-      "message": "[SUCCESS] Processed: AI \uc790\ub3d9\ud654 \uc2a4\ud0c0\ud2b8\uc5c5 \ub9b4\ub808\uc774, \uc6b4\uc601 \uc911\ub2e8 - \uc9c1\uc6d0\ub4e4\uc740 \uad6c\uae00 \ud06c\ub86c \ud300\uc5d0 \ud569\ub958\n  > Summary: AI \uae30\ubc18\uc758 \uc6cc\ud06c\ud50c\ub85c\uc6b0 \uc790\ub3d9\ud654\ub97c \uc81c\uacf5\ud558\ub358 \uc2a4\ud0c0\ud2b8\uc5c5 \ub9b4\ub808\uc774\uac00 \ub2e4\uc74c\ub2ec\uc5d0 \uc6b4\uc601\uc744 \uc911\ub2e8\ud569\ub2c8\ub2e4. C..."
-    },
     {
       "timestamp": "2026-08-17 21:29:34",
       "message": "Reprocessing: Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 21:30:09",
       "message": "[PROCESSING] Analyzing: Smartphone Makers Squeezed by Soaring Chip Costs..."
+    },
+    {
+      "timestamp": "2026-08-17 21:30:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Smartphone Makers Squeezed by Soaring Chip Costs"
     }
   ]
 }
