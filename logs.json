@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-17 20:21:55",
+  "last_updated": "2026-08-17 20:21:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-17 20:21:18",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-17 20:21:18",
       "message": "[PROCESSING] Analyzing: This compact Glorious mechanical keyboard is just $35..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-17 20:21:55",
       "message": "[PROCESSING] Analyzing: It\u2019s about ethics in journalism, with Ben Smith..."
+    },
+    {
+      "timestamp": "2026-08-17 20:21:58",
+      "message": "[SKIP] Irrelevant (AI Filter): It\u2019s about ethics in journalism, with Ben Smith"
     }
   ]
 }
