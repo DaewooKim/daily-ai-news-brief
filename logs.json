@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 20:44:33",
+  "last_updated": "2026-08-18 20:44:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 20:43:54",
-      "message": "[SUCCESS] Processed: \ubb3c\ub9ac\uc801 AI \uae30\uc5c5\uc5d0 \ub300\ud55c VC \uc790\uae08 \uc870\ub2ec\uc774 H1\uc5d0 474\uc5b5 \ub2ec\ub7ec\ub85c \uc99d\uac00, 2025\ub144 H1 \ub300\ube44 80% \uc99d\uac00\n  > Summary: 2026\ub144 \uc0c1\ubc18\uae30 \ubb3c\ub9ac\uc801 AI \uae30\uc5c5\uc5d0 \ub300\ud55c VC \uc790\uae08 \uc870\ub2ec\uc774 521\uac74\uc758 \uac70\ub798\ub97c \ud1b5\ud574 474..."
-    },
     {
       "timestamp": "2026-08-18 20:43:56",
       "message": "Reprocessing: OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold (Ina Fried/Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 20:44:33",
       "message": "[PROCESSING] Analyzing: Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO..."
+    },
+    {
+      "timestamp": "2026-08-18 20:44:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO"
     }
   ]
 }
