@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 17:24:20",
+  "last_updated": "2026-08-18 17:24:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 17:23:41",
-      "message": "[PROCESSING] Analyzing: SpaceX officially closes its Cursor acquisition..."
-    },
     {
       "timestamp": "2026-08-18 17:23:44",
       "message": "[SUCCESS] Processed: \uc2a4\ud398\uc774\uc2a4\uc5d1\uc2a4\uac00 \ucf54\ub354 \uc778\uc218 \ub9c8\ubb34\ub9ac\n  > Summary: AI \ucf54\ub529 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \ucf54\ub354\uac00 \uc774\uc81c \uc2a4\ud398\uc774\uc2a4\uc5d1\uc2a4\uc758 \uacf5\uc2dd\uc801\uc778 \uc77c\uc6d0\uc774 \ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc774\ubc88 \uc778\uc218\ub294 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 17:24:20",
       "message": "[PROCESSING] Analyzing: Sources: Anthropic's revolving credit facility is set to surpass its roughly $10B target as banks compete for roles on the company's upcoming IPO (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-08-18 17:24:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Anthropic's revolving credit facility is set to surpass its roughly $10B target as banks compete for roles on the company's upcoming IPO (Bloomberg)"
     }
   ]
 }
