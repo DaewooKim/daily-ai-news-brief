@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 00:48:56",
+  "last_updated": "2026-08-18 00:48:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 00:48:18",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-18 00:48:18",
       "message": "[PROCESSING] Analyzing: Reddit\u2019s AI is turning posts into podcasts and short videos..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 00:48:56",
       "message": "[PROCESSING] Analyzing: WiiM\u2019s capable HomePod-esque smart speaker is almost $50 off..."
+    },
+    {
+      "timestamp": "2026-08-18 00:48:58",
+      "message": "[SKIP] Irrelevant (AI Filter): WiiM\u2019s capable HomePod-esque smart speaker is almost $50 off"
     }
   ]
 }
