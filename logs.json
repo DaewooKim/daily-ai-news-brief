@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 16:19:15",
+  "last_updated": "2026-08-18 16:19:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 16:18:36",
-      "message": "[PROCESSING] Analyzing: Xiaomi reports Q2 revenue down 6.1% YoY to ~$16.2B and net income down 21% to ~$1.4B, above est., amid a persistent memory shortage and weaker smartphone demand (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-18 16:18:39",
       "message": "[SKIP] Irrelevant (AI Filter): Xiaomi reports Q2 revenue down 6.1% YoY to ~$16.2B and net income down 21% to ~$1.4B, above est., amid a persistent memory shortage and weaker smartphone demand (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 16:19:15",
       "message": "Reprocessing: Commvault expands Cloud Rewind to cover more Azure resources"
+    },
+    {
+      "timestamp": "2026-08-18 16:19:17",
+      "message": "[SKIP] Content too short: Commvault expands Cloud Rewind..."
     }
   ]
 }
