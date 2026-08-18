@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 19:38:07",
+  "last_updated": "2026-08-18 19:38:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 19:37:29",
-      "message": "[PROCESSING] Analyzing: The EU says it \"welcomes Apple's changes\"; Apple will reduce its fees in the EU, charging 26% for apps with IAP, 20% for alt payments, and 15% for link-outs (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-18 19:37:31",
       "message": "[SKIP] Irrelevant (AI Filter): The EU says it \"welcomes Apple's changes\"; Apple will reduce its fees in the EU, charging 26% for apps with IAP, 20% for alt payments, and 15% for link-outs (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 19:38:07",
       "message": "[PROCESSING] Analyzing: NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia..."
+    },
+    {
+      "timestamp": "2026-08-18 19:38:09",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia"
     }
   ]
 }
