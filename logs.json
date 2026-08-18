@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 10:44:00",
+  "last_updated": "2026-08-18 10:44:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 10:43:12",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-08-18 10:43:12",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 10:44:00",
       "message": "[PROCESSING] Analyzing: Apple ordered to stop scaring iPhone and iPad users away from third-party apps..."
+    },
+    {
+      "timestamp": "2026-08-18 10:44:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple ordered to stop scaring iPhone and iPad users away from third-party apps"
     }
   ]
 }
