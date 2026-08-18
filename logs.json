@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 12:56:11",
+  "last_updated": "2026-08-18 12:56:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 12:55:20",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-18 12:55:33",
       "message": "Found 144 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 12:56:11",
       "message": "[PROCESSING] Analyzing: Apple&#8217;s camera-equipped AirPods appear in leaked video..."
+    },
+    {
+      "timestamp": "2026-08-18 12:56:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple&#8217;s camera-equipped AirPods appear in leaked video"
     }
   ]
 }
