@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-18 11:52:29",
+  "last_updated": "2026-08-18 11:52:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-18 11:51:47",
-      "message": "[SUCCESS] Processed: OpenAI, \uccad\uc18c\ub144\uc744 \uc704\ud55c ChatGPT \ucd9c\uc2dc - \uc790\ud574, \uc2dd\uc774\uc7a5\uc560 \uad00\ub828 \uace0\uc704\ud5d8 \ub300\ud654 \uc81c\ud55c\n  > Summary: OpenAI\ub294 \uccad\uc18c\ub144\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 \ubaa8\ub4dc\ub97c \ucd9c\uc2dc\ud558\uc5ec \uc790\ud574, \uc2dd\uc774\uc7a5\uc560 \ub4f1 \uace0\uc704\ud5d8 \ub300\ud654\ub97c \uc81c\ud55c..."
-    },
     {
       "timestamp": "2026-08-18 11:51:48",
       "message": "[PROCESSING] Analyzing: Alibaba says its new open-source multimodal model, Qwen3.8-27B, passed 1M+ downloads within a few days of release, making it one of its fastest-growing models (Juro Osawa/The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-18 11:52:29",
       "message": "[PROCESSING] Analyzing: Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO..."
+    },
+    {
+      "timestamp": "2026-08-18 11:52:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO"
     }
   ]
 }
