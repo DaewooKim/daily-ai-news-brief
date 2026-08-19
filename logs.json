@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 05:36:18",
+  "last_updated": "2026-08-19 05:36:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 05:35:36",
-      "message": "[PROCESSING] Analyzing: Z.ai prices GLM-5.3 API access at $1.40 per million input tokens and $4.40 per million output tokens, unchanged from GLM-5.2 (Carl Franzen/VentureBeat)..."
-    },
     {
       "timestamp": "2026-08-19 05:35:40",
       "message": "[SUCCESS] Processed: Z.ai, GLM-5.3 API \uc811\uadfc\uc744 \ubc31\ub9cc \uc785\ub825 \ud1a0\ud070\ub2f9 $1.40, \ubc31\ub9cc \ucd9c\ub825 \ud1a0\ud070\ub2f9 $4.40\uc73c\ub85c \uac00\uaca9 \ucc45\uc815\n  > Summary: Z.ai\ub294 GLM-5.3 API \uc811\uadfc\uc5d0 \ub300\ud574 \ubc31\ub9cc \uc785\ub825 \ud1a0\ud070\ub2f9 $1.40, \ubc31\ub9cc \ucd9c\ub825 \ud1a0\ud070..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 05:36:18",
       "message": "[PROCESSING] Analyzing: Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO..."
+    },
+    {
+      "timestamp": "2026-08-19 05:36:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO"
     }
   ]
 }
