@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 14:31:12",
+  "last_updated": "2026-08-19 14:31:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 14:30:28",
-      "message": "Reprocessing: Blog Review: Aug. 19"
-    },
     {
       "timestamp": "2026-08-19 14:30:29",
       "message": "[PROCESSING] Analyzing: Blog Review: Aug. 19..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 14:31:12",
       "message": "[PROCESSING] Analyzing: KYY X90D \u201cTriple\u201d Portable Monitor Review..."
+    },
+    {
+      "timestamp": "2026-08-19 14:31:15",
+      "message": "[SKIP] Irrelevant (AI Filter): KYY X90D \u201cTriple\u201d Portable Monitor Review"
     }
   ]
 }
