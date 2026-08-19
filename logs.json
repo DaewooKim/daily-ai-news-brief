@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 14:31:15",
+  "last_updated": "2026-08-19 14:31:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 14:30:29",
-      "message": "[PROCESSING] Analyzing: Blog Review: Aug. 19..."
-    },
     {
       "timestamp": "2026-08-19 14:30:33",
       "message": "[SUCCESS] Processed: \ube14\ub85c\uadf8 \ub9ac\ubdf0: 8\uc6d4 19\uc77c\n  > Summary: Cadence\uc758 Ravi Vora\ub294 AMBA AXI5 \uba54\ubaa8\ub9ac \ud0dc\uae45 \ud655\uc7a5\uc744 \ud1b5\ud574 \uba54\ubaa8\ub9ac \ub0a8\uc6a9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 14:31:15",
       "message": "[SKIP] Irrelevant (AI Filter): KYY X90D \u201cTriple\u201d Portable Monitor Review"
+    },
+    {
+      "timestamp": "2026-08-19 14:31:17",
+      "message": "Reprocessing: 160-bay NVMe SSD 4U Server Shown at FMS 2026 Supermicro ASG-4116S-NU160R"
     }
   ]
 }
