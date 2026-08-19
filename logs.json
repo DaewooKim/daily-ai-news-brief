@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 13:19:57",
+  "last_updated": "2026-08-19 13:19:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 13:19:20",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-19 13:19:20",
       "message": "[PROCESSING] Analyzing: Amazon seemingly leaked Jason Statham\u2019s entire Mutiny movie..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 13:19:57",
       "message": "Reprocessing: Cisco Can Finally Sell Lots Of Supercomputers And Their Networks"
+    },
+    {
+      "timestamp": "2026-08-19 13:19:59",
+      "message": "[SKIP] Content too short: Cisco Can Finally Sell Lots Of..."
     }
   ]
 }
