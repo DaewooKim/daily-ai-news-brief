@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 04:30:24",
+  "last_updated": "2026-08-19 04:30:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 04:29:40",
-      "message": "[SUCCESS] Processed: Z.ai\uc758 GLM-5.3, \uc778\uacf5\uc9c0\ub2a5 \ubd84\uc11d \uc9c0\uc218\uc5d0\uc11c \ucd5c\ub300 \ucd94\ub860 \uc810\uc218 60\uc744 \uae30\ub85d\n  > Summary: Z.ai\uc758 GLM-5.3\uac00 \uc778\uacf5\uc9c0\ub2a5 \ubd84\uc11d \uc9c0\uc218\uc5d0\uc11c \ucd5c\ub300 \ucd94\ub860 \uc810\uc218 60\uc810\uc744 \uae30\ub85d\ud588\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-08-19 04:29:42",
       "message": "[PROCESSING] Analyzing: In opening arguments, US state AGs said Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejected the claims (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 04:30:24",
       "message": "Reprocessing: Healthcare software firm Weave Communications to go private after being acquired by Francisco Partners"
+    },
+    {
+      "timestamp": "2026-08-19 04:30:26",
+      "message": "[SKIP] Content too short: Healthcare software firm Weave..."
     }
   ]
 }
