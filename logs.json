@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 04:30:03",
+  "last_updated": "2026-08-19 04:30:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 04:29:21",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \uad70\uc744 \uc704\ud55c AI \uacb0\uc815 \ub3c4\uad6c\ub97c \uac1c\ubc1c\ud558\ub294 \uc624\uc2a4\ud2f4 \uae30\ubc18 Smack Technologies, Costanoa\uc640 First In\uc774 \uc8fc\ub3c4\ud55c 6100\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \uc870\ub2ec\n  > Summary: \uc624\uc2a4\ud2f4\uc5d0 \ubcf8\uc0ac\ub97c \ub454 Smack Technologies\uac00 \ubbf8\uad6d \uad70\uc744 \uc704\ud55c AI \uacb0\uc815 \ub3c4\uad6c\ub97c ..."
-    },
     {
       "timestamp": "2026-08-19 04:29:23",
       "message": "[PROCESSING] Analyzing: OpenAI says the changes to its model training will increase compute overhead by 20% of observed inference workload; the increase will not be handed to customers (Thomas Claburn/The Register)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 04:30:03",
       "message": "[PROCESSING] Analyzing: Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO..."
+    },
+    {
+      "timestamp": "2026-08-19 04:30:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO"
     }
   ]
 }
