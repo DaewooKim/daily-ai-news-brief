@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 17:48:56",
+  "last_updated": "2026-08-19 17:48:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 17:48:15",
-      "message": "Reprocessing: Partnering with CodeAI to prepare the first AI generation"
-    },
     {
       "timestamp": "2026-08-19 17:48:16",
       "message": "[PROCESSING] Analyzing: Partnering with CodeAI to prepare the first AI generation..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 17:48:56",
       "message": "[PROCESSING] Analyzing: Calendly throws its hat into meeting note-taker circus..."
+    },
+    {
+      "timestamp": "2026-08-19 17:48:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Calendly throws its hat into meeting note-taker circus"
     }
   ]
 }
