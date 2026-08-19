@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 18:57:13",
+  "last_updated": "2026-08-19 18:57:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 18:56:31",
-      "message": "[PROCESSING] Analyzing: Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute..."
-    },
     {
       "timestamp": "2026-08-19 18:56:34",
       "message": "[SUCCESS] Processed: \uc6d4\uc2a4\ud2b8\ub9ac\ud2b8\ub97c \ub3c4\uc640 AI \ucef4\ud4e8\ud305 \uac00\uaca9\uc744 \ucc45\uc815\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \ub9cc\ub098\ubcf4\uc138\uc694\n  > Summary: AI \uad6c\ucd95\uc740 \ub454\ud654\ub420 \uae30\ubbf8\uac00 \ubcf4\uc774\uc9c0 \uc54a\uc73c\uba70 \ub9e4\ub144 \uc218\ucc9c\uc5b5 \ub2ec\ub7ec\uac00 \ub370\uc774\ud130 \uc13c\ud130\uc640 GPU\uc5d0 \ud22c\uc790\ub418..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 18:57:13",
       "message": "[PROCESSING] Analyzing: Automotive Functional Safety: Why ASIL Compliance Starts with Electromagnetic Design..."
+    },
+    {
+      "timestamp": "2026-08-19 18:57:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Automotive Functional Safety: Why ASIL Compliance Starts with Electromagnetic Design"
     }
   ]
 }
