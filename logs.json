@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 14:31:09",
+  "last_updated": "2026-08-19 14:31:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 14:30:23",
-      "message": "[PROCESSING] Analyzing: Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending (Denny Thomas/Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-19 14:30:26",
       "message": "[SUCCESS] Processed: SK \ud558\uc774\ub2c9\uc2a4, AI \uc9c0\ucd9c \uc9c0\uc18d \uac00\ub2a5\uc131 \uc6b0\ub824\ub97c \ud574\uc18c\ud558\uae30 \uc704\ud574 \uc57d 290\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc790\uc0ac\uc8fc \ub9e4\uc785 \uacc4\ud68d \ubc1c\ud45c\n  > Summary: SK \ud558\uc774\ub2c9\uc2a4\ub294 \uc8fc\uc8fc\uc5d0\uac8c \ub354 \ub9ce\uc740 \uc218\uc775\uc744 \ub3cc\ub824\uc8fc\uae30 \uc704\ud574 40\u5146 \uc6d0(\uc57d 290\uc5b5 \ub2ec\ub7ec) \uaddc\ubaa8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 14:31:09",
       "message": "[PROCESSING] Analyzing: Qualcomm Modular Open-Sourced at ModCon 2026..."
+    },
+    {
+      "timestamp": "2026-08-19 14:31:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm Modular Open-Sourced at ModCon 2026"
     }
   ]
 }
