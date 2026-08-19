@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-19 07:49:58",
+  "last_updated": "2026-08-19 07:50:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 07:49:23",
-      "message": "[PROCESSING] Analyzing: Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO..."
-    },
     {
       "timestamp": "2026-08-19 07:49:25",
       "message": "[SKIP] Irrelevant (AI Filter): Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-19 07:49:58",
       "message": "Reprocessing: Inference chip startup Etched raises $700M more at $21B valuation"
+    },
+    {
+      "timestamp": "2026-08-19 07:50:00",
+      "message": "[SKIP] Content too short: Inference chip startup Etched ..."
     }
   ]
 }
