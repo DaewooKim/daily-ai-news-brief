@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-19 12:16:25",
+  "last_updated": "2026-08-19 12:16:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-19 12:15:41",
-      "message": "Reprocessing: Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending (Denny Thomas/Bloomberg)"
-    },
-    {
-      "timestamp": "2026-08-19 12:15:43",
-      "message": "[PROCESSING] Analyzing: Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending (Denny Thomas/Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-19 12:15:48",
       "message": "[SUCCESS] Processed: SK hynix, \uc57d 290\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc790\uc0ac\uc8fc \ub9e4\uc785 \uacc4\ud68d \ubc1c\ud45c\n  > Summary: SK hynix\uac00 \uc57d 40\uc870 \uc6d0(\uc57d 290\uc5b5 \ub2ec\ub7ec) \uaddc\ubaa8\uc758 \uc790\uc0ac\uc8fc \ub9e4\uc785\uc744 \uacc4\ud68d\ud558\uace0 \uc788\uc73c\uba70,..."
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-19 12:16:25",
       "message": "[PROCESSING] Analyzing: Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO..."
+    },
+    {
+      "timestamp": "2026-08-19 12:16:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO"
+    },
+    {
+      "timestamp": "2026-08-19 12:16:29",
+      "message": "Reprocessing: 85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one"
     }
   ]
 }
