@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-20 02:47:20",
+  "last_updated": "2026-08-20 02:47:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-20 02:46:43",
-      "message": "[PROCESSING] Analyzing: Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute..."
-    },
     {
       "timestamp": "2026-08-20 02:46:47",
       "message": "[SUCCESS] Processed: \uc6d4\uc2a4\ud2b8\ub9ac\ud2b8\ub97c \ub3c4\uc640 AI \ucef4\ud4e8\ud305 \uac00\uaca9\uc744 \ucc45\uc815\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \ub9cc\ub098\ubcf4\uc138\uc694\n  > Summary: AI \uad6c\ucd95\uc774 \uacc4\uc18d\ub418\uace0 \uc788\ub294 \uac00\uc6b4\ub370, \ub370\uc774\ud130 \uc13c\ud130\uc640 GPU\uc5d0 \uc218\ucc9c\uc5b5 \ub2ec\ub7ec\uac00 \ud22c\uc790\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-20 02:47:20",
       "message": "[PROCESSING] Analyzing: House Bill Would Put Federal Electricity Tax on Data Centers..."
+    },
+    {
+      "timestamp": "2026-08-20 02:47:22",
+      "message": "[SKIP] Irrelevant (AI Filter): House Bill Would Put Federal Electricity Tax on Data Centers"
     }
   ]
 }
