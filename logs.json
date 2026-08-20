@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-20 22:00:48",
+  "last_updated": "2026-08-20 22:00:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-20 22:00:08",
-      "message": "[SUCCESS] Processed: \uc774\uba54\uc77c: \uc560\ud50c \ubba4\uc9c1, \ucf58\ud150\uce20 \uc81c\uacf5\uc790\uac00 'AI\ub85c \uc0dd\uc131\ub41c \uc7ac\ub8cc'\ub85c \ud0dc\uadf8\ud55c \uace1\uc744 \uc11c\ube44\uc2a4\uc5d0\uc11c \ub208\uc5d0 \ub744\uac8c \ub77c\ubca8\ub9c1\ud560 \uc608\uc815\n  > Summary: \uc560\ud50c \ubba4\uc9c1\uc774 \ucf58\ud150\uce20 \uc81c\uacf5\uc790\uac00 'AI\ub85c \uc0dd\uc131\ub41c \uc7ac\ub8cc'\ub85c \ud0dc\uadf8\ud55c \uace1\uc744 \uc0ac\uc6a9\uc790\uc5d0\uac8c \ub208\uc5d0 \ub744\uac8c \ub77c..."
-    },
     {
       "timestamp": "2026-08-20 22:00:10",
       "message": "[PROCESSING] Analyzing: GitHub says its 7+ hour August 17 outage was caused by a capacity failure when peak traffic overwhelmed an infrastructure component in a Central US data center (Vlad Fedorov/The GitHub Blog)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-20 22:00:48",
       "message": "[PROCESSING] Analyzing: High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics..."
+    },
+    {
+      "timestamp": "2026-08-20 22:00:50",
+      "message": "[SKIP] Irrelevant (AI Filter): High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics"
     }
   ]
 }
