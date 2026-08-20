@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-20 15:10:17",
+  "last_updated": "2026-08-20 15:10:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-20 15:09:31",
-      "message": "[PROCESSING] Analyzing: House Bill Would Put Federal Electricity Tax on Data Centers..."
-    },
     {
       "timestamp": "2026-08-20 15:09:35",
       "message": "[SUCCESS] Processed: \uc5f0\ubc29 \uc804\uae30\uc138\ub97c \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ubd80\uacfc\ud558\ub294 \ubc95\uc548\n  > Summary: H.R. 10102 \ubc95\uc548\uc740 \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc804\uae30\ub97c kWh\ub2f9 1\uc13c\ud2b8 \uc138\uae08\uc744 \ubd80\uacfc\ud558\uc5ec \uc5f0\uac04 \uc57d ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-20 15:10:17",
       "message": "[PROCESSING] Analyzing: PitchBook: California-based startups have raised ~$366B in 2026 so far across 4,000+ companies, more than triple the total of all other 49 states combined (Paul Kiernan/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-08-20 15:10:20",
+      "message": "[SKIP] Irrelevant (AI Filter): PitchBook: California-based startups have raised ~$366B in 2026 so far across 4,000+ companies, more than triple the total of all other 49 states combined (Paul Kiernan/Wall Street Journal)"
     }
   ]
 }
