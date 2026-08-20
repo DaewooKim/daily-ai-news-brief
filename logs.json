@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-20 10:38:04",
+  "last_updated": "2026-08-20 10:38:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-20 10:37:23",
-      "message": "[SUCCESS] Processed: OpenAI, \uc564\ud2b8\ub85c\ud53d\uc744 \uc81c\uce58\uace0 \uae30\uc5c5 \uace0\uac1d \ub370\uc774\ud130\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 \uac1c\uc778\uc815\ubcf4 \ubcf4\ud638 \uc870\uce58\ub97c \uc120\ubcf4\uc774\ub2e4\n  > Summary: OpenAI\uc640 \uc564\ud2b8\ub85c\ud53d \uc0ac\uc774\uc5d0 \uae30\uc5c5 \uace0\uac1d \ub370\uc774\ud130\ub97c \uc704\ud55c \uac1c\uc778\uc815\ubcf4 \ubcf4\ud638 \uc870\uce58\ub97c \uc81c\uacf5\ud558\ub294 \uacbd\uc7c1..."
-    },
     {
       "timestamp": "2026-08-20 10:37:24",
       "message": "Reprocessing: AI was supposed to win people over by now \u2014 it hasn\u2019t"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-20 10:38:04",
       "message": "[PROCESSING] Analyzing: Nvidia Bets on the Classical Side of Quantum Computing..."
+    },
+    {
+      "timestamp": "2026-08-20 10:38:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Nvidia Bets on the Classical Side of Quantum Computing"
     }
   ]
 }
