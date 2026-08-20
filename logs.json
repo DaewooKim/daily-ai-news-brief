@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-20 07:13:27",
+  "last_updated": "2026-08-20 07:13:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-20 07:12:50",
-      "message": "Found 158 articles within the last 5 days. Starting processing..."
-    },
-    {
-      "timestamp": "2026-08-20 07:12:50",
-      "message": "[PROCESSING] Analyzing: Does giving a camera wings dodge the FCC\u2019s drone ban?..."
-    },
     {
       "timestamp": "2026-08-20 07:12:53",
       "message": "[SKIP] Irrelevant (AI Filter): Does giving a camera wings dodge the FCC\u2019s drone ban?"
@@ -81,6 +73,14 @@
     {
       "timestamp": "2026-08-20 07:13:27",
       "message": "Reprocessing: Cisco Can Finally Sell Lots Of Supercomputers And Their Networks"
+    },
+    {
+      "timestamp": "2026-08-20 07:13:29",
+      "message": "[SKIP] Content too short: Cisco Can Finally Sell Lots Of..."
+    },
+    {
+      "timestamp": "2026-08-20 07:13:30",
+      "message": "Reprocessing: Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents"
     }
   ]
 }
