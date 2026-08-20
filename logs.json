@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-20 17:26:05",
+  "last_updated": "2026-08-20 17:26:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-20 17:25:22",
-      "message": "[SUCCESS] Processed: \ucc57GPT \ucd9c\uc2dc \uc774\ud6c4 \uac8c\uc2dc\ub41c \uc6f9\ud398\uc774\uc9c0\uc758 3\ubd84\uc758 1\uc774 AI \uc800\uc790 \ud754\uc801\uc744 \ubcf4\uc778\ub2e4, \uc5f0\uad6c \uacb0\uacfc\n  > Summary: \ucc57GPT\uc640 \uae30\ud0c0 AI \ubaa8\ub378\uc774 \uc0c8\ub85c\uc6b4 \uc6f9\uc758 \ub9ce\uc740 \ubd80\ubd84\uc744 \uc800\uc791\ud558\uace0 \ud3b8\uc9d1\ud558\uace0 \uc788\ub2e4\ub294 \uc5f0\uad6c \uacb0\uacfc\uac00..."
-    },
     {
       "timestamp": "2026-08-20 17:25:24",
       "message": "[PROCESSING] Analyzing: Ramp launches its own AI model router, called Router..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-20 17:26:05",
       "message": "[PROCESSING] Analyzing: IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain..."
+    },
+    {
+      "timestamp": "2026-08-20 17:26:07",
+      "message": "[SKIP] Irrelevant (AI Filter): IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
     }
   ]
 }
