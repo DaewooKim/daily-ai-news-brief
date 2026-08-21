@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-21 08:06:21",
+  "last_updated": "2026-08-21 08:06:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-21 08:05:43",
-      "message": "Reprocessing: AMD Appoints Tim Ryan to Board of Directors"
-    },
     {
       "timestamp": "2026-08-21 08:05:45",
       "message": "[PROCESSING] Analyzing: AMD Appoints Tim Ryan to Board of Directors..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-21 08:06:21",
       "message": "[PROCESSING] Analyzing: Advanced RF Systems Power Next-Gen Mil-Aero Comms..."
+    },
+    {
+      "timestamp": "2026-08-21 08:06:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced RF Systems Power Next-Gen Mil-Aero Comms"
     }
   ]
 }
