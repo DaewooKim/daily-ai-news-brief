@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-21 15:58:19",
+  "last_updated": "2026-08-21 15:58:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-21 15:57:38",
-      "message": "Reprocessing: Source: AI training data startup Micro1's gross annual run rate grew from $100M to $500M in the past eight months, putting net annual run rate at $150M-$200M (Marina Temkin/TechCrunch)"
-    },
     {
       "timestamp": "2026-08-21 15:57:40",
       "message": "[PROCESSING] Analyzing: Source: AI training data startup Micro1's gross annual run rate grew from $100M to $500M in the past eight months, putting net annual run rate at $150M-$200M (Marina Temkin/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-21 15:58:19",
       "message": "[PROCESSING] Analyzing: TekSiC Reaches Key Milestones..."
+    },
+    {
+      "timestamp": "2026-08-21 15:58:22",
+      "message": "[SKIP] Irrelevant (AI Filter): TekSiC Reaches Key Milestones"
     }
   ]
 }
