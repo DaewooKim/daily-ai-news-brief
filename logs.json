@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-21 12:35:03",
+  "last_updated": "2026-08-21 12:35:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-21 12:34:24",
-      "message": "Reprocessing: Source: AI training data startup Micro1's gross annual run rate grew from $100M to $500M in the past eight months, putting net annual run rate at $150M-$200M (Marina Temkin/TechCrunch)"
-    },
     {
       "timestamp": "2026-08-21 12:34:25",
       "message": "[PROCESSING] Analyzing: Source: AI training data startup Micro1's gross annual run rate grew from $100M to $500M in the past eight months, putting net annual run rate at $150M-$200M (Marina Temkin/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-21 12:35:03",
       "message": "[PROCESSING] Analyzing: Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities..."
+    },
+    {
+      "timestamp": "2026-08-21 12:35:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities"
     }
   ]
 }
