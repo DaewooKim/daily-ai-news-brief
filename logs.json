@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-21 20:30:11",
+  "last_updated": "2026-08-21 20:30:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-21 20:29:34",
-      "message": "Reprocessing: House Bill Would Put Federal Electricity Tax on Data Centers"
-    },
     {
       "timestamp": "2026-08-21 20:29:36",
       "message": "[PROCESSING] Analyzing: House Bill Would Put Federal Electricity Tax on Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-21 20:30:11",
       "message": "[PROCESSING] Analyzing: A Dutch regulator fines Uber \u20ac825M for deactivating driver accounts through automated systems without informing them, in the second largest fine under GDPR (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-08-21 20:30:14",
+      "message": "[SKIP] Irrelevant (AI Filter): A Dutch regulator fines Uber \u20ac825M for deactivating driver accounts through automated systems without informing them, in the second largest fine under GDPR (Financial Times)"
     }
   ]
 }
