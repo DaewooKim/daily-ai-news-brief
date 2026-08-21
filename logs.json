@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-21 17:08:49",
-  "status": "idle",
+  "last_updated": "2026-08-21 18:09:31",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-21 17:07:18",
-      "message": "[SKIP] Content too short: Twin1 AI raises $20M to put an..."
+      "timestamp": "2026-08-21 18:09:16",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-21 17:07:20",
-      "message": "Reprocessing: AI workload optimization startup Callosum raises $100M"
+      "timestamp": "2026-08-21 18:09:17",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-21 17:07:22",
-      "message": "[SKIP] Content too short: AI workload optimization start..."
+      "timestamp": "2026-08-21 18:09:17",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-21 17:07:23",
-      "message": "Reprocessing: Supermicro alliance tackles the storage bottlenecks holding back enterprise AI"
+      "timestamp": "2026-08-21 18:09:31",
+      "message": "Found 182 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-21 17:07:25",
-      "message": "[SKIP] Content too short: Supermicro alliance tackles th..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:27",
-      "message": "Reprocessing: Salesforce introduces Slack Code to bring agentic team coding into the open"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:28",
-      "message": "[SKIP] Content too short: Salesforce introduces Slack Co..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:30",
-      "message": "Reprocessing: Cloud cost startup North adds Microsoft Azure to complete hyperscaler support"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:32",
-      "message": "[SKIP] Content too short: Cloud cost startup North adds ..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:34",
-      "message": "Reprocessing: Adobe expands generative AI audio with Firefly music, speech and sound effects"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:35",
-      "message": "[SKIP] Content too short: Adobe expands generative AI au..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:37",
-      "message": "Reprocessing: Zero Networks expands Palo Alto Networks integration to AI agent control"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:39",
-      "message": "[SKIP] Content too short: Zero Networks expands Palo Alt..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:40",
-      "message": "Reprocessing: AI skills in cybersecurity job postings doubled as junior hiring stalls"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:42",
-      "message": "[SKIP] Content too short: AI skills in cybersecurity job..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:44",
-      "message": "Reprocessing: Dirac Labs to scale quantum positioning tech after raising $1.8M to build its first prototypes"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:45",
-      "message": "[SKIP] Content too short: Dirac Labs to scale quantum po..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:47",
-      "message": "Reprocessing: GOP urges top AI firms to do something about the toxic image of data centers"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:48",
-      "message": "[SKIP] Content too short: GOP urges top AI firms to do s..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:50",
-      "message": "Reprocessing: Marvell shares jump 9.8% on Google chip design deal"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:52",
-      "message": "[SKIP] Content too short: Marvell shares jump 9.8% on Go..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:53",
-      "message": "Reprocessing: Sanja Fidler\u2019s world model startup Veeda AI raises $90M in seed funding"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:55",
-      "message": "[SKIP] Content too short: Sanja Fidler\u2019s world model sta..."
-    },
-    {
-      "timestamp": "2026-08-21 17:07:57",
-      "message": "Reprocessing: Application reliability startup Temporal reportedly in talks for $500M funding round"
-    },
-    {
-      "timestamp": "2026-08-21 17:07:58",
-      "message": "[SKIP] Content too short: Application reliability startu..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:00",
-      "message": "Reprocessing: Rivian spinout Also raises $150M to take its small EVs autonomous"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:02",
-      "message": "[SKIP] Content too short: Rivian spinout Also raises $15..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:03",
-      "message": "Reprocessing: Stripe buys AI model router OpenRouter in reported $7.5B deal"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:05",
-      "message": "[SKIP] Content too short: Stripe buys AI model router Op..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:07",
-      "message": "Reprocessing: Amazon to significantly expand the availability of its Prime Air drone delivery service"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:08",
-      "message": "[SKIP] Content too short: Amazon to significantly expand..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:10",
-      "message": "Reprocessing: The AI inference race moves beyond GPUs to reshape data center infrastructure"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:12",
-      "message": "[SKIP] Content too short: The AI inference race moves be..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:14",
-      "message": "Reprocessing: Layered data architecture turns enterprise data into a system of intelligence"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:15",
-      "message": "[SKIP] Content too short: Layered data architecture turn..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:17",
-      "message": "Reprocessing: Harness launches AI agents that triage and patch vulnerabilities"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:18",
-      "message": "[SKIP] Content too short: Harness launches AI agents tha..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:20",
-      "message": "Reprocessing: Cloudera Anywhere Cloud gives AI agents safe, secure access to sensitive data wherever it lives"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:22",
-      "message": "[SKIP] Content too short: Cloudera Anywhere Cloud gives ..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:24",
-      "message": "Reprocessing: Criminal AI tool Kriminal is mostly just Grok with a jailbreak, ThreatDown finds"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:26",
-      "message": "[SKIP] Content too short: Criminal AI tool Kriminal is m..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:27",
-      "message": "Reprocessing: Swimlane updates security operations center with intelligent routing"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:29",
-      "message": "[SKIP] Content too short: Swimlane updates security oper..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:31",
-      "message": "[PROCESSING] Analyzing: Bosgame M5 AMD Ryzen AI Max+ 395 128GB AI Desktop Review..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:34",
-      "message": "[SUCCESS] Processed: Bosgame M5 AMD Ryzen AI Max+ 395 128GB AI \ub370\uc2a4\ud06c\ud0d1 \ub9ac\ubdf0\n  > Summary: Bosgame M5\ub294 \uc800\ub834\ud55c \uac00\uaca9\uc5d0 128GB LPDDR5X \ub85c\uceec AI \uc2dc\uc2a4\ud15c\uc744 \uc81c\uacf5\ud558\ub294 ..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:35",
-      "message": "[PROCESSING] Analyzing: Qualcomm Modular Open-Sourced at ModCon 2026..."
-    },
-    {
-      "timestamp": "2026-08-21 17:08:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm Modular Open-Sourced at ModCon 2026"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:39",
-      "message": "Completed! New: 5, Updated: 55"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:44",
-      "message": "Saved 60 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-21 17:08:47",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-21 18:09:31",
+      "message": "[PROCESSING] Analyzing: $100 Best Buy gift cards will be $60 at stores Saturday..."
     }
   ]
 }
