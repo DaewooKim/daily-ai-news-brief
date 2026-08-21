@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-21 05:49:18",
+  "last_updated": "2026-08-21 05:49:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-21 05:48:36",
-      "message": "[SUCCESS] Processed: AI \ubbf8\ub798 \uc18c\uac1c\n  > Summary: AI Futures\ub294 OpenAI\uc758 \uc0c8\ub85c\uc6b4 \ube14\ub85c\uadf8\ub85c, \ubcc0\ud601\uc801 AI\uac00 \uad8c\ub825, \uad00\ub9ac, \uacbd\uc81c \ubc0f..."
-    },
     {
       "timestamp": "2026-08-21 05:48:37",
       "message": "Reprocessing: Offering Zero Data Retention for frontier models"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-21 05:49:18",
       "message": "[PROCESSING] Analyzing: OpenAI joins PORTS-Pike project..."
+    },
+    {
+      "timestamp": "2026-08-21 05:49:20",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI joins PORTS-Pike project"
     }
   ]
 }
