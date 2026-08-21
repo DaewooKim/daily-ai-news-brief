@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-21 22:43:45",
+  "last_updated": "2026-08-21 22:43:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-21 22:43:05",
-      "message": "[PROCESSING] Analyzing: Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS..."
-    },
     {
       "timestamp": "2026-08-21 22:43:08",
       "message": "[SUCCESS] Processed: NVIDIA DSX MaxLPS\ub85c AI \uacf5\uc7a5 \uc131\ub2a5 \uadf9\ub300\ud654\ud558\uae30\n  > Summary: AI \uacf5\uc7a5\uc740 \uc804\ub825 \uc81c\uc57d\uc774 \uc788\ub294 \uc0b0\uc5c5 \uc2dc\uc2a4\ud15c\uc73c\ub85c, \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \uc5bc\ub9c8\ub098 \ub9ce\uc740 GPU\ub97c \ubc30\uce58\ud560..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-21 22:43:45",
       "message": "[SUCCESS] Processed: AI \ubbf8\ub798 \uc18c\uac1c\n  > Summary: AI \ubbf8\ub798\ub294 OpenAI\uac00 \uc0c8\ub86d\uac8c \uc2dc\uc791\ud55c \ube14\ub85c\uadf8\ub85c, \ubcc0\ud601\uc801\uc778 AI\uac00 \uad8c\ub825, \uac70\ubc84\ub10c\uc2a4, \uacbd\uc81c..."
+    },
+    {
+      "timestamp": "2026-08-21 22:43:47",
+      "message": "Reprocessing: Offering Zero Data Retention for frontier models"
     }
   ]
 }
