@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-23 17:48:02",
+  "last_updated": "2026-08-23 17:48:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-23 17:47:26",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-23 17:47:26",
       "message": "[PROCESSING] Analyzing: We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-23 17:48:02",
       "message": "Reprocessing: Cerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In \u201cNexus\u201d CS-4"
+    },
+    {
+      "timestamp": "2026-08-23 17:48:04",
+      "message": "[SKIP] Content too short: Cerebras Overclocks WSE-3 Wafe..."
     }
   ]
 }
