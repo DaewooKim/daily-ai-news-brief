@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-23 16:41:49",
+  "last_updated": "2026-08-23 16:41:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-23 16:41:11",
-      "message": "[PROCESSING] Analyzing: An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it..."
-    },
     {
       "timestamp": "2026-08-23 16:41:13",
       "message": "[SKIP] Irrelevant (AI Filter): An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-23 16:41:49",
       "message": "Reprocessing: How mobility gives language models a deeper understanding of place"
+    },
+    {
+      "timestamp": "2026-08-23 16:41:51",
+      "message": "[SKIP] Content too short: How mobility gives language mo..."
     }
   ]
 }
