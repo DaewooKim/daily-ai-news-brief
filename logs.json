@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-23 22:19:35",
-  "status": "idle",
+  "last_updated": "2026-08-23 23:20:13",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-23 22:18:10",
-      "message": "[SKIP] Content too short: Broadcom reportedly seeking up..."
+      "timestamp": "2026-08-23 23:19:59",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-23 22:18:11",
-      "message": "Reprocessing: Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats"
+      "timestamp": "2026-08-23 23:20:00",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-23 22:18:13",
-      "message": "[SKIP] Content too short: Report: Anthropic hopes to sur..."
+      "timestamp": "2026-08-23 23:20:00",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-23 22:18:15",
-      "message": "Reprocessing: Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029"
+      "timestamp": "2026-08-23 23:20:13",
+      "message": "Found 149 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-23 22:18:16",
-      "message": "[SKIP] Content too short: Palo Alto Networks and NTT DAT..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:18",
-      "message": "Reprocessing: Waymo details the custom chip in its autonomous driving system"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:19",
-      "message": "[SKIP] Content too short: Waymo details the custom chip ..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:21",
-      "message": "Reprocessing: Muon Space raises $250M at $1.5B valuation to scale up satellite output"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:22",
-      "message": "[SKIP] Content too short: Muon Space raises $250M at $1...."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:24",
-      "message": "Reprocessing: Twin1 AI raises $20M to put an AI twin behind every knowledge worker"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:26",
-      "message": "[SKIP] Content too short: Twin1 AI raises $20M to put an..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:27",
-      "message": "Reprocessing: AI workload optimization startup Callosum raises $100M"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:29",
-      "message": "[SKIP] Content too short: AI workload optimization start..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:30",
-      "message": "Reprocessing: Supermicro alliance tackles the storage bottlenecks holding back enterprise AI"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:32",
-      "message": "[SKIP] Content too short: Supermicro alliance tackles th..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:33",
-      "message": "Reprocessing: Salesforce introduces Slack Code to bring agentic team coding into the open"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:35",
-      "message": "[SKIP] Content too short: Salesforce introduces Slack Co..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:37",
-      "message": "Reprocessing: Cloud cost startup North adds Microsoft Azure to complete hyperscaler support"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:38",
-      "message": "[SKIP] Content too short: Cloud cost startup North adds ..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:40",
-      "message": "Reprocessing: Adobe expands generative AI audio with Firefly music, speech and sound effects"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:41",
-      "message": "[SKIP] Content too short: Adobe expands generative AI au..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:43",
-      "message": "Reprocessing: Zero Networks expands Palo Alto Networks integration to AI agent control"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:45",
-      "message": "[SKIP] Content too short: Zero Networks expands Palo Alt..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:46",
-      "message": "Reprocessing: AI skills in cybersecurity job postings doubled as junior hiring stalls"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:48",
-      "message": "[SKIP] Content too short: AI skills in cybersecurity job..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:49",
-      "message": "Reprocessing: Dirac Labs to scale quantum positioning tech after raising $1.8M to build its first prototypes"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:51",
-      "message": "[SKIP] Content too short: Dirac Labs to scale quantum po..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:52",
-      "message": "Reprocessing: GOP urges top AI firms to do something about the toxic image of data centers"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:54",
-      "message": "[SKIP] Content too short: GOP urges top AI firms to do s..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:56",
-      "message": "Reprocessing: Marvell shares jump 9.8% on Google chip design deal"
-    },
-    {
-      "timestamp": "2026-08-23 22:18:58",
-      "message": "[SKIP] Content too short: Marvell shares jump 9.8% on Go..."
-    },
-    {
-      "timestamp": "2026-08-23 22:18:59",
-      "message": "Reprocessing: Sanja Fidler\u2019s world model startup Veeda AI raises $90M in seed funding"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:01",
-      "message": "[SKIP] Content too short: Sanja Fidler\u2019s world model sta..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:02",
-      "message": "Reprocessing: Application reliability startup Temporal reportedly in talks for $500M funding round"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:04",
-      "message": "[SKIP] Content too short: Application reliability startu..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:05",
-      "message": "Reprocessing: Rivian spinout Also raises $150M to take its small EVs autonomous"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:07",
-      "message": "[SKIP] Content too short: Rivian spinout Also raises $15..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:08",
-      "message": "Reprocessing: Stripe buys AI model router OpenRouter in reported $7.5B deal"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:10",
-      "message": "[SKIP] Content too short: Stripe buys AI model router Op..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:11",
-      "message": "Reprocessing: Amazon to significantly expand the availability of its Prime Air drone delivery service"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:13",
-      "message": "[SKIP] Content too short: Amazon to significantly expand..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:14",
-      "message": "Reprocessing: The AI inference race moves beyond GPUs to reshape data center infrastructure"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:16",
-      "message": "[SKIP] Content too short: The AI inference race moves be..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:18",
-      "message": "[PROCESSING] Analyzing: SK hynix HBM Packaging at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:21",
-      "message": "[SUCCESS] Processed: SK hynix HBM \ud328\ud0a4\uc9d5\uc774 \ud56b \uce69\uc2a4 2026\uc5d0\uc11c \ubc1c\ud45c\ub428\n  > Summary: \ud56b \uce69\uc2a4 2026\uc5d0\uc11c SK hynix\ub294 AI \uac00\uc18d\uae30\ub97c \uc704\ud55c \uba54\ubaa8\ub9ac\uc758 HBM \ubc0f \ud328\ud0a4\uc9d5\uacfc \uad00..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:22",
-      "message": "[PROCESSING] Analyzing: Patrick at Micro Center Columbus Ohio Grand Reopening with Jeff Geerling..."
-    },
-    {
-      "timestamp": "2026-08-23 22:19:25",
-      "message": "[SKIP] Irrelevant (AI Filter): Patrick at Micro Center Columbus Ohio Grand Reopening with Jeff Geerling"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:26",
-      "message": "Completed! New: 2, Updated: 47"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:31",
-      "message": "Saved 49 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-23 22:19:34",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-23 23:20:13",
+      "message": "[PROCESSING] Analyzing: GTA VI: all the news on Rockstar\u2019s next entry in the Grand Theft Auto series..."
     }
   ]
 }
