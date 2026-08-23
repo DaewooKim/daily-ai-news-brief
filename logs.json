@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-23 14:33:47",
-  "status": "idle",
+  "last_updated": "2026-08-23 15:34:27",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-23 14:32:23",
-      "message": "[SKIP] Content too short: Report: Anthropic hopes to sur..."
+      "timestamp": "2026-08-23 15:34:12",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-23 14:32:24",
-      "message": "Reprocessing: Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029"
+      "timestamp": "2026-08-23 15:34:13",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-23 14:32:26",
-      "message": "[SKIP] Content too short: Palo Alto Networks and NTT DAT..."
+      "timestamp": "2026-08-23 15:34:13",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-23 14:32:27",
-      "message": "Reprocessing: Waymo details the custom chip in its autonomous driving system"
+      "timestamp": "2026-08-23 15:34:27",
+      "message": "Found 157 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-23 14:32:29",
-      "message": "[SKIP] Content too short: Waymo details the custom chip ..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:30",
-      "message": "Reprocessing: Muon Space raises $250M at $1.5B valuation to scale up satellite output"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:32",
-      "message": "[SKIP] Content too short: Muon Space raises $250M at $1...."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:34",
-      "message": "Reprocessing: Twin1 AI raises $20M to put an AI twin behind every knowledge worker"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:35",
-      "message": "[SKIP] Content too short: Twin1 AI raises $20M to put an..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:37",
-      "message": "Reprocessing: AI workload optimization startup Callosum raises $100M"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:38",
-      "message": "[SKIP] Content too short: AI workload optimization start..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:40",
-      "message": "Reprocessing: Supermicro alliance tackles the storage bottlenecks holding back enterprise AI"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:41",
-      "message": "[SKIP] Content too short: Supermicro alliance tackles th..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:43",
-      "message": "Reprocessing: Salesforce introduces Slack Code to bring agentic team coding into the open"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:45",
-      "message": "[SKIP] Content too short: Salesforce introduces Slack Co..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:46",
-      "message": "Reprocessing: Cloud cost startup North adds Microsoft Azure to complete hyperscaler support"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:48",
-      "message": "[SKIP] Content too short: Cloud cost startup North adds ..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:49",
-      "message": "Reprocessing: Adobe expands generative AI audio with Firefly music, speech and sound effects"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:51",
-      "message": "[SKIP] Content too short: Adobe expands generative AI au..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:53",
-      "message": "Reprocessing: Zero Networks expands Palo Alto Networks integration to AI agent control"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:54",
-      "message": "[SKIP] Content too short: Zero Networks expands Palo Alt..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:56",
-      "message": "Reprocessing: AI skills in cybersecurity job postings doubled as junior hiring stalls"
-    },
-    {
-      "timestamp": "2026-08-23 14:32:58",
-      "message": "[SKIP] Content too short: AI skills in cybersecurity job..."
-    },
-    {
-      "timestamp": "2026-08-23 14:32:59",
-      "message": "Reprocessing: Dirac Labs to scale quantum positioning tech after raising $1.8M to build its first prototypes"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:01",
-      "message": "[SKIP] Content too short: Dirac Labs to scale quantum po..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:02",
-      "message": "Reprocessing: GOP urges top AI firms to do something about the toxic image of data centers"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:04",
-      "message": "[SKIP] Content too short: GOP urges top AI firms to do s..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:05",
-      "message": "Reprocessing: Marvell shares jump 9.8% on Google chip design deal"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:07",
-      "message": "[SKIP] Content too short: Marvell shares jump 9.8% on Go..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:09",
-      "message": "Reprocessing: Sanja Fidler\u2019s world model startup Veeda AI raises $90M in seed funding"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:10",
-      "message": "[SKIP] Content too short: Sanja Fidler\u2019s world model sta..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:12",
-      "message": "Reprocessing: Application reliability startup Temporal reportedly in talks for $500M funding round"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:13",
-      "message": "[SKIP] Content too short: Application reliability startu..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:15",
-      "message": "Reprocessing: Rivian spinout Also raises $150M to take its small EVs autonomous"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:16",
-      "message": "[SKIP] Content too short: Rivian spinout Also raises $15..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:18",
-      "message": "Reprocessing: Stripe buys AI model router OpenRouter in reported $7.5B deal"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:20",
-      "message": "[SKIP] Content too short: Stripe buys AI model router Op..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:21",
-      "message": "Reprocessing: Amazon to significantly expand the availability of its Prime Air drone delivery service"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:23",
-      "message": "[SKIP] Content too short: Amazon to significantly expand..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:24",
-      "message": "Reprocessing: The AI inference race moves beyond GPUs to reshape data center infrastructure"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:26",
-      "message": "[SKIP] Content too short: The AI inference race moves be..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:28",
-      "message": "Reprocessing: Layered data architecture turns enterprise data into a system of intelligence"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:29",
-      "message": "[SKIP] Content too short: Layered data architecture turn..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:31",
-      "message": "[PROCESSING] Analyzing: Patrick at Micro Center Columbus Ohio Grand Reopening with Jeff Geerling..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:33",
-      "message": "[SKIP] Irrelevant (AI Filter): Patrick at Micro Center Columbus Ohio Grand Reopening with Jeff Geerling"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:35",
-      "message": "[PROCESSING] Analyzing: Qualcomm Modular Open-Sourced at ModCon 2026..."
-    },
-    {
-      "timestamp": "2026-08-23 14:33:37",
-      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm Modular Open-Sourced at ModCon 2026"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:38",
-      "message": "Completed! New: 0, Updated: 48"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:42",
-      "message": "Saved 48 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-23 14:33:46",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-23 15:34:27",
+      "message": "[PROCESSING] Analyzing: We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film..."
     }
   ]
 }
