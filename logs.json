@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-24 13:43:42",
+  "last_updated": "2026-08-24 13:43:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-24 13:43:02",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-24 13:43:02",
       "message": "[PROCESSING] Analyzing: De-Googled GrapheneOS is coming to Motorola\u2019s foldables next year..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-24 13:43:42",
       "message": "[PROCESSING] Analyzing: How State and Local Agencies Can Build FOIA-Proof Archives..."
+    },
+    {
+      "timestamp": "2026-08-24 13:43:45",
+      "message": "[SKIP] Irrelevant (AI Filter): How State and Local Agencies Can Build FOIA-Proof Archives"
     }
   ]
 }
