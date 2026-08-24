@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-24 22:46:14",
+  "last_updated": "2026-08-24 22:46:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-24 22:45:37",
-      "message": "[PROCESSING] Analyzing: AMD Appoints Tim Ryan to Board of Directors..."
-    },
     {
       "timestamp": "2026-08-24 22:45:40",
       "message": "[SUCCESS] Processed: AMD, \ud300 \ub77c\uc774\uc5b8 \uc774\uc0ac\ub85c \uc120\uc784\n  > Summary: AMD\ub294 \ud300 \ub77c\uc774\uc5b8\uc744 \uc774\uc0ac\ud68c\uc758 \uc0c8\ub85c\uc6b4 \uad6c\uc131\uc6d0\uc73c\ub85c \uc120\uc784\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4. \ub77c\uc774\uc5b8\uc740 Citi\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-24 22:46:14",
       "message": "Reprocessing: Nvidia\u2019s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents"
+    },
+    {
+      "timestamp": "2026-08-24 22:46:15",
+      "message": "[SKIP] Content too short: Nvidia\u2019s dedicated inference a..."
     }
   ]
 }
