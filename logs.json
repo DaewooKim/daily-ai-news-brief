@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-24 17:09:11",
+  "last_updated": "2026-08-24 17:09:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-24 17:08:29",
-      "message": "[SUCCESS] Processed: \uc601\uad6d \uad6d\uac00\ud1b5\uacc4\uccad: \uc601\uad6d \ub514\uc9c0\ud138 \uc778\ud504\ub77c \ud22c\uc790 2025\ub144 110\uc5b5 \ud30c\uc6b4\ub4dc \ub118\uc5b4, AI \ub370\uc774\ud130 \uc13c\ud130 \uae09\uc99d \uc18d\uc5d0 \ub2f7\ucef4 \ud638\ud669 \uc218\uc900\uc5d0 \ub3c4\ub2ec\n  > Summary: \uc601\uad6d\uc758 \uad6d\uac00\ud1b5\uacc4\uccad\uc5d0 \ub530\ub974\uba74 2025\ub144 \uc601\uad6d\uc758 \ub514\uc9c0\ud138 \uc778\ud504\ub77c \ud22c\uc790\uc561\uc774 110\uc5b5 \ud30c\uc6b4\ub4dc\ub97c \ucd08\uacfc..."
-    },
     {
       "timestamp": "2026-08-24 17:08:31",
       "message": "[PROCESSING] Analyzing: Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate (Tracy Qu/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-24 17:09:11",
       "message": "[PROCESSING] Analyzing: Irish lawmakers reconsider the country's 1999 ban on nuclear power as data centers' growing power demands account for ~25% of the country's electricity use (Jude Webber/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-08-24 17:09:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Irish lawmakers reconsider the country's 1999 ban on nuclear power as data centers' growing power demands account for ~25% of the country's electricity use (Jude Webber/Financial Times)"
     }
   ]
 }
