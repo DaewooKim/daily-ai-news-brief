@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-24 18:17:01",
+  "last_updated": "2026-08-24 18:17:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-24 18:16:15",
-      "message": "[PROCESSING] Analyzing: Nvidia says its Groq 3 LPX racks delivered 3,400 tokens per second in an Artificial Analysis benchmark running Gemma 4 31B with a 100,000-token input sequence (The Register)..."
-    },
     {
       "timestamp": "2026-08-24 18:16:19",
       "message": "[SUCCESS] Processed: Nvidia, Groq 3 LPX \ub799\uc774 Gemma 4 31B\ub97c \uc0ac\uc6a9\ud558\uc5ec 100,000\uac1c\uc758 \ud1a0\ud070 \uc785\ub825 \uc2dc\ud000\uc2a4\ub85c \uc778\uacf5\uc9c0\ub2a5 \ubd84\uc11d \ubca4\uce58\ub9c8\ud06c\uc5d0\uc11c \ucd08\ub2f9 3,400\uac1c\uc758 \ud1a0\ud070\uc744 \uc804\ub2ec\ud588\ub2e4\uace0 \ubc1d\ud600\n  > Summary: Nvidia\ub294 Groq 3 LPX \ub799\uc774 Gemma 4 31B\ub97c \uc6b4\uc601\ud558\uba70 100,000\uac1c\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-24 18:17:01",
       "message": "[SUCCESS] Processed: \ub9de\ucda4\ud615 HBM \ube44\uc988\ub2c8\uc2a4\ub294 \uc5b4\ub5bb\uac8c \uc791\ub3d9\ud560\uae4c\uc694?\n  > Summary: HBM4\ub294 \ub9de\ucda4\ud615 \ubca0\uc774\uc2a4 \ub2e4\uc774\ub97c \uac00\ub2a5\ud558\uac8c \ud558\uc5ec \uc8fc\ub85c \ud558\uc774\ud37c\uc2a4\ucf00\uc77c\ub7ec\ub97c \ubaa9\ud45c\ub85c \ud569\ub2c8\ub2e4. \ub9de\ucda4\ud615..."
+    },
+    {
+      "timestamp": "2026-08-24 18:17:03",
+      "message": "Reprocessing: AAEON to Demonstrate High-Performance Computing for Next-Gen Semiconductor Manufacturing at SEMICON Taiwan"
     }
   ]
 }
