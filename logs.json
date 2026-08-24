@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-24 20:28:24",
+  "last_updated": "2026-08-24 20:28:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-24 20:27:44",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-24 20:27:44",
       "message": "[PROCESSING] Analyzing: The cat-and-mouse game over 3D-printed guns has begun..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-24 20:28:24",
       "message": "[PROCESSING] Analyzing: How State and Local Agencies Can Build FOIA-Proof Archives..."
+    },
+    {
+      "timestamp": "2026-08-24 20:28:27",
+      "message": "[SKIP] Irrelevant (AI Filter): How State and Local Agencies Can Build FOIA-Proof Archives"
     }
   ]
 }
