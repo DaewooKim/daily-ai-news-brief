@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 09:50:01",
+  "last_updated": "2026-08-25 09:50:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 09:49:11",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-08-25 09:49:11",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 09:50:01",
       "message": "[PROCESSING] Analyzing: Apple\u2019s four-pack of second-gen AirTags is $20 off..."
+    },
+    {
+      "timestamp": "2026-08-25 09:50:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple\u2019s four-pack of second-gen AirTags is $20 off"
     }
   ]
 }
