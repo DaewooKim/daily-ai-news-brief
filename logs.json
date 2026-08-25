@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 17:41:25",
+  "last_updated": "2026-08-25 17:41:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 17:40:34",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-25 17:40:47",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 17:41:25",
       "message": "[PROCESSING] Analyzing: The lens in Wyze\u2019s new $40 indoor camera retracts for privacy..."
+    },
+    {
+      "timestamp": "2026-08-25 17:41:29",
+      "message": "[SKIP] Irrelevant (AI Filter): The lens in Wyze\u2019s new $40 indoor camera retracts for privacy"
     }
   ]
 }
