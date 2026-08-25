@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 06:29:30",
+  "last_updated": "2026-08-25 06:29:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 06:28:42",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-08-25 06:28:42",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 06:29:30",
       "message": "[PROCESSING] Analyzing: Netflix reportedly considers opening its app to other streamers..."
+    },
+    {
+      "timestamp": "2026-08-25 06:29:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Netflix reportedly considers opening its app to other streamers"
     }
   ]
 }
