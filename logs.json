@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 20:03:27",
+  "last_updated": "2026-08-25 20:03:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 20:02:54",
-      "message": "[SKIP] Content too short: Nvidia\u2019s dedicated inference a..."
-    },
     {
       "timestamp": "2026-08-25 20:02:55",
       "message": "Reprocessing: AWS patches SDK flaw that turned a region field into credential theft"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 20:03:27",
       "message": "[PROCESSING] Analyzing: Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026..."
+    },
+    {
+      "timestamp": "2026-08-25 20:03:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026"
     }
   ]
 }
