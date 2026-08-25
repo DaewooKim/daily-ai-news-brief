@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 22:18:08",
+  "last_updated": "2026-08-25 22:18:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 22:17:27",
-      "message": "[PROCESSING] Analyzing: AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs..."
-    },
     {
       "timestamp": "2026-08-25 22:17:31",
       "message": "[SUCCESS] Processed: AMD, \uc120\ud0dd\ub41c AMD Versal \uc801\uc751\ud615 SoC\uc5d0 UCIe \uc5f0\uacb0\uc131 \uc81c\uacf5\n  > Summary: AMD\ub294 Universal Chiplet Interconnect Express (UCIe)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 22:18:08",
       "message": "Reprocessing: AI inference gets a new tier as context windows grow"
+    },
+    {
+      "timestamp": "2026-08-25 22:18:10",
+      "message": "[SKIP] Content too short: AI inference gets a new tier a..."
     }
   ]
 }
