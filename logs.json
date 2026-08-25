@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 18:53:42",
+  "last_updated": "2026-08-25 18:53:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 18:53:00",
-      "message": "[SUCCESS] Processed: Qnity, \ucc28\uc138\ub300 KLA \uac80\uc0ac \uae30\ub2a5\uc73c\ub85c \uace0\uae09 \ub178\ub4dc \uc18c\uc7ac \ud601\uc2e0 \uac00\uc18d\ud654\n  > Summary: Qnity Electronics, Inc.\ub294 KLA\uc758 Surfscan\u00ae SP7 XP \ubb34\ud328\ud134..."
-    },
     {
       "timestamp": "2026-08-25 18:53:02",
       "message": "Reprocessing: Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 18:53:42",
       "message": "Reprocessing: Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics"
+    },
+    {
+      "timestamp": "2026-08-25 18:53:44",
+      "message": "[SKIP] Content too short: Anthropic updates Claude\u2019s mem..."
     }
   ]
 }
