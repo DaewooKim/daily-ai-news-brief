@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 12:07:49",
+  "last_updated": "2026-08-25 12:07:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 12:07:16",
-      "message": "[PROCESSING] Analyzing: Mikroe Releases RTLS UWB Click Board..."
-    },
     {
       "timestamp": "2026-08-25 12:07:18",
       "message": "[SKIP] Irrelevant (AI Filter): Mikroe Releases RTLS UWB Click Board"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 12:07:49",
       "message": "Reprocessing: AWS patches SDK flaw that turned a region field into credential theft"
+    },
+    {
+      "timestamp": "2026-08-25 12:07:52",
+      "message": "[SKIP] Content too short: AWS patches SDK flaw that turn..."
     }
   ]
 }
