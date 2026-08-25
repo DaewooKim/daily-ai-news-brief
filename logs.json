@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 21:10:25",
+  "last_updated": "2026-08-25 21:10:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 21:09:49",
-      "message": "[SUCCESS] Processed: IBM\uc758 \ucc28\uc138\ub300 \uba54\uc778\ud504\ub808\uc784 \uce69, Arm \ubc0f Z \uc6cc\ud06c\ub85c\ub4dc\ub97c \ub3d9\uc77c\ud55c \ucf54\uc5b4\uc5d0\uc11c \uc2e4\ud589\ud560 \uc218 \uc788\ub294 \ucd5c\ucd08\uc758 \uce69\n  > Summary: IBM\uc740 \uc62c\ud574 Hot Chips \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c Arm\uacfc IBM\uc758 \uc790\uccb4 \uba85\ub839\uc5b4 \uc138\ud2b8\ub97c \ub3d9\uc2dc\uc5d0 ..."
-    },
     {
       "timestamp": "2026-08-25 21:09:51",
       "message": "[PROCESSING] Analyzing: Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 21:10:25",
       "message": "Reprocessing: Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2"
+    },
+    {
+      "timestamp": "2026-08-25 21:10:26",
+      "message": "[SKIP] Content too short: Nvidia doubles compute for ent..."
     }
   ]
 }
