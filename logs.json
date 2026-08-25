@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 14:21:25",
+  "last_updated": "2026-08-25 14:21:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 14:20:40",
-      "message": "[SUCCESS] Processed: \uc560\ud50c, \ub9e5 \ubbf8\ub2c8 \ubc0f \uc2a4\ud29c\ub514\uc624 \uac00\uaca9 \uc778\uc0c1: M6 \ubc0f M5 \ud504\ub85c \ub9e5 \ubbf8\ub2c8\ub294 \uac01\uac01 899\ub2ec\ub7ec \uc774\uc0c1 \ubc0f 1,699\ub2ec\ub7ec \uc774\uc0c1, M4 \ubaa8\ub378\ubcf4\ub2e4 100\ub2ec\ub7ec \ube44\uc308\n  > Summary: \uc560\ud50c\uc774 \ub9e5 \ubbf8\ub2c8\uc640 \uc2a4\ud29c\ub514\uc624\uc758 \uac00\uaca9\uc744 \uc778\uc0c1\ud588\uc2b5\ub2c8\ub2e4. M6 \ubc0f M5 \ud504\ub85c \ub9e5 \ubbf8\ub2c8\ub294 \uac01\uac01 89..."
-    },
     {
       "timestamp": "2026-08-25 14:20:42",
       "message": "[PROCESSING] Analyzing: WhatsApp upgrades its two-step verification, letting users replace the six-digit PIN with a longer alphanumeric password, and adds support for multiple passkeys (Aisha Malik/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 14:21:25",
       "message": "[PROCESSING] Analyzing: A profile of French software maker ChapsVision, which won a contract to replace Palantir at France's domestic intel agency in June and targets an IPO by 2030 (Adrienne Klasa/Financial Times)..."
+    },
+    {
+      "timestamp": "2026-08-25 14:21:28",
+      "message": "[SKIP] Irrelevant (AI Filter): A profile of French software maker ChapsVision, which won a contract to replace Palantir at France's domestic intel agency in June and targets an IPO by 2030 (Adrienne Klasa/Financial Times)"
     }
   ]
 }
