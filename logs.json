@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 02:02:15",
+  "last_updated": "2026-08-25 02:02:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 02:01:36",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-25 02:01:36",
       "message": "[PROCESSING] Analyzing: Lenovo confirms Legion Go issues after gamers report bricked devices..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 02:02:15",
       "message": "[PROCESSING] Analyzing: How State and Local Agencies Can Build FOIA-Proof Archives..."
+    },
+    {
+      "timestamp": "2026-08-25 02:02:17",
+      "message": "[SKIP] Irrelevant (AI Filter): How State and Local Agencies Can Build FOIA-Proof Archives"
     }
   ]
 }
