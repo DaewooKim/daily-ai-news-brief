@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-25 14:24:35",
-  "status": "idle",
+  "last_updated": "2026-08-25 15:25:16",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-25 14:23:01",
-      "message": "[SKIP] Content too short: Nvidia reportedly eyes another..."
+      "timestamp": "2026-08-25 15:25:03",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-25 14:23:03",
-      "message": "Reprocessing: Quintessent bags $40M to develop lasers for AI clusters"
+      "timestamp": "2026-08-25 15:25:04",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-25 14:23:05",
-      "message": "[SKIP] Content too short: Quintessent bags $40M to devel..."
+      "timestamp": "2026-08-25 15:25:04",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-25 14:23:07",
-      "message": "Reprocessing: Trump defends AI data center buildout amid pushback"
+      "timestamp": "2026-08-25 15:25:16",
+      "message": "Found 147 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-25 14:23:08",
-      "message": "[SKIP] Content too short: Trump defends AI data center b..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:10",
-      "message": "Reprocessing: Physical AI\u2019s moment has arrived \u2013 but moving from demo to deployment is the hard part. AWS wants to fix that"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:12",
-      "message": "[SKIP] Content too short: Physical AI\u2019s moment has arriv..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:13",
-      "message": "Reprocessing: Nvidia\u2019s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:15",
-      "message": "[SKIP] Content too short: Nvidia\u2019s dedicated inference a..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:17",
-      "message": "Reprocessing: AWS patches SDK flaw that turned a region field into credential theft"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:19",
-      "message": "[SKIP] Content too short: AWS patches SDK flaw that turn..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:20",
-      "message": "Reprocessing: Thomson Reuters launches proprietary AI model for legal work"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:22",
-      "message": "[SKIP] Content too short: Thomson Reuters launches propr..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:24",
-      "message": "Reprocessing: Fake Codex installer tricks Mac users into pasting malware, Cato finds"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:26",
-      "message": "[SKIP] Content too short: Fake Codex installer tricks Ma..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:27",
-      "message": "Reprocessing: IBM is developing a dual-architecture chip to run Arm-native AI apps on Z mainframes and Linux servers"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:29",
-      "message": "[SKIP] Content too short: IBM is developing a dual-archi..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:31",
-      "message": "Reprocessing: Sam Altman voices fears that control of AI could be centered in too few hands"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:33",
-      "message": "[SKIP] Content too short: Sam Altman voices fears that c..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:35",
-      "message": "Reprocessing: Report: AI model hub Hugging Face exploring sale at $13B valuation"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:37",
-      "message": "[SKIP] Content too short: Report: AI model hub Hugging F..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:38",
-      "message": "Reprocessing: Nobody knows who built AI coding model Ox Alpha or where the code goes"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:40",
-      "message": "[SKIP] Content too short: Nobody knows who built AI codi..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:41",
-      "message": "Reprocessing: From tokenmaxxing to sovereign alpha: Who controls your AI economics?"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:43",
-      "message": "[SKIP] Content too short: From tokenmaxxing to sovereign..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:45",
-      "message": "Reprocessing: AI data center builder Nscale reportedly seeking $3B IPO"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:47",
-      "message": "[SKIP] Content too short: AI data center builder Nscale ..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:48",
-      "message": "Reprocessing: Starcloud raises $250M to build AI data centers in orbit"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:50",
-      "message": "[SKIP] Content too short: Starcloud raises $250M to buil..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:52",
-      "message": "Reprocessing: DeepSeek debuts multimodal language model competitive with Opus 4.8"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:53",
-      "message": "[SKIP] Content too short: DeepSeek debuts multimodal lan..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:55",
-      "message": "Reprocessing: Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:56",
-      "message": "[SKIP] Content too short: Politics hits data centers, Op..."
-    },
-    {
-      "timestamp": "2026-08-25 14:23:58",
-      "message": "Reprocessing: Google\u2019s attempt to buy Spirit Airlines\u2019 data might come unstuck"
-    },
-    {
-      "timestamp": "2026-08-25 14:23:59",
-      "message": "[SKIP] Content too short: Google\u2019s attempt to buy Spirit..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:01",
-      "message": "Reprocessing: Astromech raises $20M to build a biological operating system that can forecast evolutionary change"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:03",
-      "message": "[SKIP] Content too short: Astromech raises $20M to build..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:04",
-      "message": "Reprocessing: Broadcom reportedly seeking up to $100B in debt financing for AI chip deal"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:06",
-      "message": "[SKIP] Content too short: Broadcom reportedly seeking up..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:08",
-      "message": "Reprocessing: Report: Anthropic hopes to surpass SpaceX\u2019s record IPO raise when it finally floats"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:10",
-      "message": "[SKIP] Content too short: Report: Anthropic hopes to sur..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:12",
-      "message": "Reprocessing: AMD Helios MI400 System Architecture at Hot Chips 2026"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:13",
-      "message": "[PROCESSING] Analyzing: AMD Helios MI400 System Architecture at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:17",
-      "message": "[SUCCESS] Processed: AMD \ud5ec\ub9ac\uc624\uc2a4 MI400 \uc2dc\uc2a4\ud15c \uc544\ud0a4\ud14d\ucc98, \ud56b \uce69\uc2a4 2026\uc5d0\uc11c \uacf5\uac1c\n  > Summary: AMD\ub294 \ud56b \uce69\uc2a4 2026\uc5d0\uc11c MI400 \ud5ec\ub9ac\uc624\uc2a4 AI \ub799 \uc2a4\ucf00\uc77c \uc778\ud504\ub77c\uc758 \uc791\ub3d9 \ubc29\uc2dd\uc5d0 \ub300..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:18",
-      "message": "Reprocessing: AMD MI400 GPU at Hot Chips 2026"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:20",
-      "message": "[PROCESSING] Analyzing: AMD MI400 GPU at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:23",
-      "message": "[SUCCESS] Processed: AMD MI400 GPU at Hot Chips 2026\n  > Summary: AMD\ub294 Hot Chips 2026\uc5d0\uc11c Helios \ub799\uc744 \uc704\ud55c \uac70\ub300\ud55c GPU\uc778 MI400 ..."
-    },
-    {
-      "timestamp": "2026-08-25 14:24:25",
-      "message": "Completed! New: 7, Updated: 49"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:30",
-      "message": "Saved 56 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-25 14:24:33",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-25 15:25:16",
+      "message": "[PROCESSING] Analyzing: Apple&#8217;s \u2018new\u2019 polishing cloth is the same except $10 cheaper..."
     }
   ]
 }
