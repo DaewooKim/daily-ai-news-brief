@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 15:29:47",
+  "last_updated": "2026-08-25 15:29:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 15:28:58",
-      "message": "[SUCCESS] Processed: \ud37c\ud50c\ub809\uc2dc\ud2f0, \uc81c\ub85c \ud1a0\ud070 \ube44\uc6a9\uc73c\ub85c \uc644\uc804 \uc628\ub514\ubc14\uc774\uc2a4\uc5d0\uc11c \uc2e4\ud589\ub418\ub294 \ub85c\uceec AI \uc5d0\uc774\uc804\ud2b8 \ud50c\ub7ab\ud3fc '\ud3ec\ud130\ube14 \ucef4\ud4e8\ud130' \ucd9c\uc2dc\n  > Summary: \ud37c\ud50c\ub809\uc2dc\ud2f0\uac00 \uc624\ub298 '\ud3ec\ud130\ube14 \ucef4\ud4e8\ud130'\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ud50c\ub7ab\ud3fc\uc740 \uc644\uc804\ud788 \uc628\ub514\ubc14\uc774\uc2a4\uc5d0\uc11c \uc2e4\ud589..."
-    },
     {
       "timestamp": "2026-08-25 15:28:59",
       "message": "[PROCESSING] Analyzing: Waymo plans to offer ride-hailing services in Germany, starting with Munich, by the end of 2027, marking its third international market and the first in the EU (Natalie Lung/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 15:29:47",
       "message": "[PROCESSING] Analyzing: High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics..."
+    },
+    {
+      "timestamp": "2026-08-25 15:29:51",
+      "message": "[SKIP] Irrelevant (AI Filter): High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics"
     }
   ]
 }
