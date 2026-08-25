@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 18:55:24",
+  "last_updated": "2026-08-25 18:55:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 18:54:51",
-      "message": "[SKIP] Content too short: AWS patches SDK flaw that turn..."
-    },
     {
       "timestamp": "2026-08-25 18:54:53",
       "message": "Reprocessing: Thomson Reuters launches proprietary AI model for legal work"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 18:55:24",
       "message": "[PROCESSING] Analyzing: Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026..."
+    },
+    {
+      "timestamp": "2026-08-25 18:55:26",
+      "message": "[SKIP] Irrelevant (AI Filter): Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026"
     }
   ]
 }
