@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 22:19:56",
+  "last_updated": "2026-08-25 22:19:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 22:19:20",
-      "message": "Reprocessing: AWS patches SDK flaw that turned a region field into credential theft"
-    },
     {
       "timestamp": "2026-08-25 22:19:22",
       "message": "[SKIP] Content too short: AWS patches SDK flaw that turn..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 22:19:56",
       "message": "[SUCCESS] Processed: NVIDIA BlueField-4 DPU\uac00 \ud56b \uce69\uc2a4 2026\uc5d0\uc11c \uc18c\uac1c\ub428\n  > Summary: 2026\ub144 \ud56b \uce69\uc2a4 \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c NVIDIA\uac00 BlueField-4 DPU\uc758 \ub300\uaddc\ubaa8 \uc5c5\uadf8\ub808..."
+    },
+    {
+      "timestamp": "2026-08-25 22:19:57",
+      "message": "[PROCESSING] Analyzing: Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026..."
     }
   ]
 }
