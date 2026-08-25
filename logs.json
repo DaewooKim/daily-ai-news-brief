@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 23:26:16",
+  "last_updated": "2026-08-25 23:26:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 23:25:40",
-      "message": "[PROCESSING] Analyzing: IBM\u2019s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores..."
-    },
     {
       "timestamp": "2026-08-25 23:25:44",
       "message": "[SUCCESS] Processed: IBM\uc758 \ucc28\uc138\ub300 \uba54\uc778\ud504\ub808\uc784 \uce69, Arm \ubc0f Z \uc791\uc5c5\uc744 \ub3d9\uc77c \ucf54\uc5b4\uc5d0\uc11c \uc2e4\ud589\ud558\ub294 \uccab \ubc88\uc9f8 \uce69\n  > Summary: IBM\uc740 Hot Chips \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c Arm\uacfc IBM\uc758 Z \uba85\ub839\uc5b4 \uc138\ud2b8\ub97c \ub3d9\uc2dc\uc5d0 \uc2e4\ud589\ud560 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 23:26:16",
       "message": "Reprocessing: Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics"
+    },
+    {
+      "timestamp": "2026-08-25 23:26:17",
+      "message": "[SKIP] Content too short: Anthropic updates Claude\u2019s mem..."
     }
   ]
 }
