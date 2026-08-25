@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 21:05:18",
+  "last_updated": "2026-08-25 21:05:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 21:04:37",
-      "message": "Found 152 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-25 21:04:37",
       "message": "[PROCESSING] Analyzing: At just $8, you owe it to yourself to grab Inscryption..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 21:05:18",
       "message": "[PROCESSING] Analyzing: Polestar claims it was blindsided by sales ban..."
+    },
+    {
+      "timestamp": "2026-08-25 21:05:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Polestar claims it was blindsided by sales ban"
     }
   ]
 }
