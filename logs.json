@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 21:11:48",
+  "last_updated": "2026-08-25 21:11:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 21:11:15",
-      "message": "[SKIP] Content too short: Physical AI\u2019s moment has arriv..."
-    },
     {
       "timestamp": "2026-08-25 21:11:16",
       "message": "Reprocessing: Nvidia\u2019s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 21:11:48",
       "message": "[PROCESSING] Analyzing: Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026..."
+    },
+    {
+      "timestamp": "2026-08-25 21:11:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Broadcom Thor Ultra Ethernet NIC at Hot Chips 2026"
     }
   ]
 }
