@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-25 22:19:52",
+  "last_updated": "2026-08-25 22:19:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-25 22:19:18",
-      "message": "[SKIP] Content too short: Nvidia\u2019s dedicated inference a..."
-    },
     {
       "timestamp": "2026-08-25 22:19:20",
       "message": "Reprocessing: AWS patches SDK flaw that turned a region field into credential theft"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-25 22:19:52",
       "message": "[PROCESSING] Analyzing: NVIDIA BlueField-4 DPU at Hot Chips 2026..."
+    },
+    {
+      "timestamp": "2026-08-25 22:19:56",
+      "message": "[SUCCESS] Processed: NVIDIA BlueField-4 DPU\uac00 \ud56b \uce69\uc2a4 2026\uc5d0\uc11c \uc18c\uac1c\ub428\n  > Summary: 2026\ub144 \ud56b \uce69\uc2a4 \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c NVIDIA\uac00 BlueField-4 DPU\uc758 \ub300\uaddc\ubaa8 \uc5c5\uadf8\ub808..."
     }
   ]
 }
