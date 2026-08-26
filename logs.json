@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 09:32:32",
+  "last_updated": "2026-08-26 09:32:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 09:31:51",
-      "message": "[SUCCESS] Processed: Nvidia\uc758 \ucd94\ub860 \uc804\ud658, \ud55c\uad6d\uc758 \ubc18\ub780\uc5d0 \ub2ff\ub2e4\n  > Summary: AI \ud6c8\ub828\uc758 \uc120\ub450\uc8fc\uc790 \uc5d4\ube44\ub514\uc544\uac00 \ub3c5\ud2b9\ud55c \uac70\ub798\ub97c \ud1b5\ud574 Groq\uc640 \ud611\ub825\ud558\uc5ec \ucd94\ub860 \uc2e4\ub9ac\ucf58\uc5d0 \ub2e4\uc2dc..."
-    },
     {
       "timestamp": "2026-08-26 09:31:52",
       "message": "[PROCESSING] Analyzing: DOE Keeps Eddystone Power Plant Online Amid Data Center Demand Surge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 09:32:32",
       "message": "[PROCESSING] Analyzing: HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei's technology outside China (Evelyn Cheng/CNBC)..."
+    },
+    {
+      "timestamp": "2026-08-26 09:32:35",
+      "message": "[SKIP] Irrelevant (AI Filter): HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei's technology outside China (Evelyn Cheng/CNBC)"
     }
   ]
 }
