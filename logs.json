@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 17:25:52",
+  "last_updated": "2026-08-26 17:25:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 17:25:11",
-      "message": "[PROCESSING] Analyzing: IBM\u2019s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores..."
-    },
     {
       "timestamp": "2026-08-26 17:25:16",
       "message": "[SUCCESS] Processed: IBM\uc758 \ucc28\uc138\ub300 \uba54\uc778\ud504\ub808\uc784 \uce69, Arm \ubc0f Z \uc6cc\ud06c\ub85c\ub4dc\ub97c \ub3d9\uc77c \ucf54\uc5b4\uc5d0\uc11c \uc2e4\ud589\ud558\ub294 \uccab \ubc88\uc9f8 \uce69\n  > Summary: IBM\uc740 \uc62c\ud574 \uc5f0\ub840 Hot Chips \ucee8\ud37c\ub7f0\uc2a4\uc5d0\uc11c IBM Z \ubc0f LinuxONE \uc2dc\uc2a4\ud15c\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 17:25:52",
       "message": "[SKIP] Content too short: The network becomes the comput..."
+    },
+    {
+      "timestamp": "2026-08-26 17:25:54",
+      "message": "Reprocessing: Major record labels, AMD back $76M round for Stability AI"
     }
   ]
 }
