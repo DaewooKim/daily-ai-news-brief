@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-26 11:49:31",
-  "status": "idle",
+  "last_updated": "2026-08-26 12:50:14",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-26 11:48:03",
-      "message": "[SKIP] Content too short: Apple refreshes Mac mini, Mac ..."
+      "timestamp": "2026-08-26 12:49:59",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-26 11:48:05",
-      "message": "Reprocessing: AI inference gets a new tier as context windows grow"
+      "timestamp": "2026-08-26 12:50:00",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-26 11:48:06",
-      "message": "[SKIP] Content too short: AI inference gets a new tier a..."
+      "timestamp": "2026-08-26 12:50:00",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-26 11:48:08",
-      "message": "Reprocessing: Democratizing the AI data center: How Cisco and Nvidia are bringing rack-scale power to the enterprise"
+      "timestamp": "2026-08-26 12:50:14",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-26 11:48:09",
-      "message": "[SKIP] Content too short: Democratizing the AI data cent..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:11",
-      "message": "Reprocessing: Banco BS2 takes a foundation-first approach to scaling enterprise AI"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:13",
-      "message": "[SKIP] Content too short: Banco BS2 takes a foundation-f..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:14",
-      "message": "Reprocessing: Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:16",
-      "message": "[SKIP] Content too short: Anthropic updates Claude\u2019s mem..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:17",
-      "message": "Reprocessing: Cisco expands rack-scale secure AI factory infrastructure for neocloud and sovereign clouds"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:19",
-      "message": "[SKIP] Content too short: Cisco expands rack-scale secur..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:21",
-      "message": "Reprocessing: Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:22",
-      "message": "[SKIP] Content too short: Nvidia doubles compute for ent..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:24",
-      "message": "Reprocessing: AI factories enter the execution era as Cisco and Nvidia push rack-scale systems into production"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:26",
-      "message": "[SKIP] Content too short: AI factories enter the executi..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:27",
-      "message": "Reprocessing: Nvidia and Cisco push the enterprise AI factory into the rack-scale era"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:29",
-      "message": "[SKIP] Content too short: Nvidia and Cisco push the ente..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:31",
-      "message": "Reprocessing: Cisco and Nvidia take AI factories from rack to runtime"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:32",
-      "message": "[SKIP] Content too short: Cisco and Nvidia take AI facto..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:34",
-      "message": "Reprocessing: Nucleus Security launches Helix, an AI engine for exposure management"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:36",
-      "message": "[SKIP] Content too short: Nucleus Security launches Heli..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:37",
-      "message": "Reprocessing: Ropedia launches next-gen wearable capture device for robotic AI training data"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:39",
-      "message": "[SKIP] Content too short: Ropedia launches next-gen wear..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:41",
-      "message": "Reprocessing: Nvidia NemoClaw flaw let attackers poison the model behind a developer\u2019s AI agent"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:42",
-      "message": "[SKIP] Content too short: Nvidia NemoClaw flaw let attac..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:44",
-      "message": "Reprocessing: Heelr launches marketplace for identity-verified cybersecurity experts"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:46",
-      "message": "[SKIP] Content too short: Heelr launches marketplace for..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:47",
-      "message": "Reprocessing: Tempo launches Workforce Intelligence to tie AI spend to Jira work items"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:49",
-      "message": "[SKIP] Content too short: Tempo launches Workforce Intel..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:51",
-      "message": "Reprocessing: Robotics AI startup Generalist reportedly raises $200M"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:53",
-      "message": "[SKIP] Content too short: Robotics AI startup Generalist..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:54",
-      "message": "Reprocessing: Chip software automation startup Embedd raises $2.7M"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:56",
-      "message": "[SKIP] Content too short: Chip software automation start..."
-    },
-    {
-      "timestamp": "2026-08-26 11:48:58",
-      "message": "Reprocessing: Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation"
-    },
-    {
-      "timestamp": "2026-08-26 11:48:59",
-      "message": "[SKIP] Content too short: Nvidia reportedly eyes another..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:01",
-      "message": "Reprocessing: Quintessent bags $40M to develop lasers for AI clusters"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:03",
-      "message": "[SKIP] Content too short: Quintessent bags $40M to devel..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:05",
-      "message": "Reprocessing: Trump defends AI data center buildout amid pushback"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:07",
-      "message": "[SKIP] Content too short: Trump defends AI data center b..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:08",
-      "message": "Reprocessing: Physical AI\u2019s moment has arrived \u2013 but moving from demo to deployment is the hard part. AWS wants to fix that"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:10",
-      "message": "[SKIP] Content too short: Physical AI\u2019s moment has arriv..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:12",
-      "message": "Reprocessing: Nvidia\u2019s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:13",
-      "message": "[SKIP] Content too short: Nvidia\u2019s dedicated inference a..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:15",
-      "message": "Reprocessing: AWS patches SDK flaw that turned a region field into credential theft"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:17",
-      "message": "[SKIP] Content too short: AWS patches SDK flaw that turn..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:18",
-      "message": "Reprocessing: Thomson Reuters launches proprietary AI model for legal work"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:20",
-      "message": "[SKIP] Content too short: Thomson Reuters launches propr..."
-    },
-    {
-      "timestamp": "2026-08-26 11:49:21",
-      "message": "Completed! New: 5, Updated: 48"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:26",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-26 11:49:29",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-26 12:50:14",
+      "message": "[PROCESSING] Analyzing: Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks..."
     }
   ]
 }
