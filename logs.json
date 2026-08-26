@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 18:31:08",
+  "last_updated": "2026-08-26 18:31:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 18:30:25",
-      "message": "Reprocessing: \u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux"
-    },
     {
       "timestamp": "2026-08-26 18:30:27",
       "message": "[PROCESSING] Analyzing: \u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 18:31:08",
       "message": "[PROCESSING] Analyzing: NXP Expands Industrial Endpoint Access with MCU Topology Discovery..."
+    },
+    {
+      "timestamp": "2026-08-26 18:31:11",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP Expands Industrial Endpoint Access with MCU Topology Discovery"
     }
   ]
 }
