@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 12:52:14",
+  "last_updated": "2026-08-26 12:52:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 12:51:33",
-      "message": "Reprocessing: Disrupting a new covert influence campaign from Russia"
-    },
     {
       "timestamp": "2026-08-26 12:51:34",
       "message": "[PROCESSING] Analyzing: Disrupting a new covert influence campaign from Russia..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 12:52:14",
       "message": "[PROCESSING] Analyzing: Trump bought SpaceX shares two weeks after blockbuster IPO..."
+    },
+    {
+      "timestamp": "2026-08-26 12:52:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Trump bought SpaceX shares two weeks after blockbuster IPO"
     }
   ]
 }
