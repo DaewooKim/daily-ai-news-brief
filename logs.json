@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 09:33:09",
+  "last_updated": "2026-08-26 09:33:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 09:32:27",
-      "message": "[SKIP] Irrelevant (AI Filter): Revolut rolls out its euro-pegged stablecoin EURR, initially to eligible customers in Denmark, Poland, and Portugal; Stripe-owned Bridge issues the stablecoin (Charlie Wells/Bloomberg)"
-    },
     {
       "timestamp": "2026-08-26 09:32:28",
       "message": "[PROCESSING] Analyzing: Sources: DeepSeek generated $70.7M in revenue and posted a $106M net loss in the first seven months of 2026, ~10x its full-year 2025 revenue on a $139M net loss (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 09:33:09",
       "message": "[SUCCESS] Processed: AAEON, SEMICON \ub300\ub9cc\uc5d0\uc11c \ucc28\uc138\ub300 \ubc18\ub3c4\uccb4 \uc81c\uc870\ub97c \uc704\ud55c \uace0\uc131\ub2a5 \ucef4\ud4e8\ud305 \uc2dc\uc5f0\n  > Summary: AAEON\uc740 SEMICON \ub300\ub9cc 2026\uc5d0\uc11c AI \ube44\uc804 \uc6e8\uc774\ud37c \uac80\uc0ac \uc2dc\uc5f0\uacfc \ud568\uaed8 \uc790\uc0ac\uc758 \uc0c8..."
+    },
+    {
+      "timestamp": "2026-08-26 09:33:11",
+      "message": "Reprocessing: IBM\u2019s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores"
     }
   ]
 }
