@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 10:40:06",
+  "last_updated": "2026-08-26 10:40:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 10:39:22",
-      "message": "[SUCCESS] Processed: \ud654\uc6e8\uc774, \uc774\uc9d1\ud2b8 \uc815\ubd80 AI \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124 \uc704\ud574 \uace0\uc131\ub2a5 \uc544\uc13c\ub4dc 950 \uc2dc\ub9ac\uc988 \uce69 \uc218\ucd9c \uc81c\uc548\n  > Summary: \ud654\uc6e8\uc774\uac00 \uc774\uc9d1\ud2b8 \uc815\ubd80\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124\uc744 \uc704\ud574 \uace0\uc131\ub2a5 \uc544\uc13c\ub4dc 950 \uc2dc\ub9ac\uc988 \uce69\uc744 \uc218..."
-    },
     {
       "timestamp": "2026-08-26 10:39:23",
       "message": "[PROCESSING] Analyzing: A profile of Leopold Aschenbrenner, who worked for SBF and OpenAI before launching Situational Awareness; Aschenbrenner married Dario Amodei's chief of staff (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 10:40:06",
       "message": "[PROCESSING] Analyzing: Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan..."
+    },
+    {
+      "timestamp": "2026-08-26 10:40:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan"
     }
   ]
 }
