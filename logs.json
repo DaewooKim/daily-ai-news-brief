@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 07:18:17",
+  "last_updated": "2026-08-26 07:18:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 07:17:34",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124\uc774 \uc8fc\uc694 \ub300\ucd9c\uc790\ub4e4\uc5d0\uac8c \ubcf5\uc7a1\ud55c \ub3c4\uc804\uc744 \uc81c\uae30\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: \ubbf8\uad6d\uc758 AI \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124\uc774 \uae08\uc735\uc5c5\uccb4\ub4e4\uc5d0\uac8c \uc0c8\ub85c\uc6b4 \uc790\uc0b0 \ud074\ub798\uc2a4\uc5d0 \ub300\ud55c \uae08\uc735, \ubcf4\ud5d8 \ubc0f ..."
-    },
     {
       "timestamp": "2026-08-26 07:17:35",
       "message": "[PROCESSING] Analyzing: Survey: 28% of Americans use AI chatbots to get health information quickly, 25% to figure out symptom causes, and 22% to get health information at no cost (Pew Research Center)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 07:18:17",
       "message": "[PROCESSING] Analyzing: Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-08-26 07:18:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)"
     }
   ]
 }
