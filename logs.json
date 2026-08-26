@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-26 19:43:04",
-  "status": "idle",
+  "last_updated": "2026-08-26 20:43:44",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-26 19:41:23",
-      "message": "[SKIP] Content too short: The network becomes the comput..."
+      "timestamp": "2026-08-26 20:43:30",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-26 19:41:24",
-      "message": "Reprocessing: Major record labels, AMD back $76M round for Stability AI"
+      "timestamp": "2026-08-26 20:43:31",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-26 19:41:26",
-      "message": "[SKIP] Content too short: Major record labels, AMD back ..."
+      "timestamp": "2026-08-26 20:43:31",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-26 19:41:28",
-      "message": "Reprocessing: Data center power startup Emerald AI raises $150M at $1.05B valuation"
+      "timestamp": "2026-08-26 20:43:44",
+      "message": "Found 158 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-26 19:41:30",
-      "message": "[SKIP] Content too short: Data center power startup Emer..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:32",
-      "message": "Reprocessing: Agentic web search infrastructure startup Keenable raises $26M"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:33",
-      "message": "[SKIP] Content too short: Agentic web search infrastruct..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:35",
-      "message": "Reprocessing: Gatik raises $200M to grow driverless fleet past 100 trucks this year"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:37",
-      "message": "[SKIP] Content too short: Gatik raises $200M to grow dri..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:38",
-      "message": "Reprocessing: Alice raises $140M as its AI security business grows more than 500%"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:40",
-      "message": "[SKIP] Content too short: Alice raises $140M as its AI s..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:41",
-      "message": "Reprocessing: Perplexity AI launches Portable Computer on-device AI agent"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:43",
-      "message": "[SKIP] Content too short: Perplexity AI launches Portabl..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:45",
-      "message": "Reprocessing: Apple refreshes Mac mini, Mac Studio lineups with new chips"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:47",
-      "message": "[SKIP] Content too short: Apple refreshes Mac mini, Mac ..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:48",
-      "message": "Reprocessing: AI inference gets a new tier as context windows grow"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:50",
-      "message": "[SKIP] Content too short: AI inference gets a new tier a..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:52",
-      "message": "Reprocessing: Democratizing the AI data center: How Cisco and Nvidia are bringing rack-scale power to the enterprise"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:54",
-      "message": "[SKIP] Content too short: Democratizing the AI data cent..."
-    },
-    {
-      "timestamp": "2026-08-26 19:41:56",
-      "message": "Reprocessing: Banco BS2 takes a foundation-first approach to scaling enterprise AI"
-    },
-    {
-      "timestamp": "2026-08-26 19:41:58",
-      "message": "[SKIP] Content too short: Banco BS2 takes a foundation-f..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:00",
-      "message": "Reprocessing: Anthropic updates Claude\u2019s memory to enhance customization and protect sensitive topics"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:02",
-      "message": "[SKIP] Content too short: Anthropic updates Claude\u2019s mem..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:04",
-      "message": "Reprocessing: Cisco expands rack-scale secure AI factory infrastructure for neocloud and sovereign clouds"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:05",
-      "message": "[SKIP] Content too short: Cisco expands rack-scale secur..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:07",
-      "message": "Reprocessing: Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:09",
-      "message": "[SKIP] Content too short: Nvidia doubles compute for ent..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:10",
-      "message": "Reprocessing: AI factories enter the execution era as Cisco and Nvidia push rack-scale systems into production"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:12",
-      "message": "[SKIP] Content too short: AI factories enter the executi..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:14",
-      "message": "Reprocessing: Nvidia and Cisco push the enterprise AI factory into the rack-scale era"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:15",
-      "message": "[SKIP] Content too short: Nvidia and Cisco push the ente..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:17",
-      "message": "Reprocessing: Cisco and Nvidia take AI factories from rack to runtime"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:18",
-      "message": "[SKIP] Content too short: Cisco and Nvidia take AI facto..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:20",
-      "message": "Reprocessing: Nucleus Security launches Helix, an AI engine for exposure management"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:22",
-      "message": "[SKIP] Content too short: Nucleus Security launches Heli..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:24",
-      "message": "Reprocessing: Ropedia launches next-gen wearable capture device for robotic AI training data"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:26",
-      "message": "[SKIP] Content too short: Ropedia launches next-gen wear..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:27",
-      "message": "Reprocessing: Nvidia NemoClaw flaw let attackers poison the model behind a developer\u2019s AI agent"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:29",
-      "message": "[SKIP] Content too short: Nvidia NemoClaw flaw let attac..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:41",
-      "message": "Reprocessing: Heelr launches marketplace for identity-verified cybersecurity experts"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:43",
-      "message": "[SKIP] Content too short: Heelr launches marketplace for..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:45",
-      "message": "Reprocessing: Tempo launches Workforce Intelligence to tie AI spend to Jira work items"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:47",
-      "message": "[SKIP] Content too short: Tempo launches Workforce Intel..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:48",
-      "message": "Reprocessing: Robotics AI startup Generalist reportedly raises $200M"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:50",
-      "message": "[SKIP] Content too short: Robotics AI startup Generalist..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:51",
-      "message": "Reprocessing: Chip software automation startup Embedd raises $2.7M"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:53",
-      "message": "[SKIP] Content too short: Chip software automation start..."
-    },
-    {
-      "timestamp": "2026-08-26 19:42:55",
-      "message": "Completed! New: 7, Updated: 49"
-    },
-    {
-      "timestamp": "2026-08-26 19:42:59",
-      "message": "Saved 56 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-26 19:43:02",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-26 20:43:44",
+      "message": "[PROCESSING] Analyzing: All the ways Instagram and Facebook are changing for teens..."
     }
   ]
 }
