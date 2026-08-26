@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 08:25:49",
+  "last_updated": "2026-08-26 08:25:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 08:25:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: DeepSeek generated $70.7M in revenue and posted a $106M net loss in the first seven months of 2026, ~10x its full-year 2025 revenue on a $139M net loss (The Information)"
-    },
     {
       "timestamp": "2026-08-26 08:25:07",
       "message": "[PROCESSING] Analyzing: HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei's technology outside China (Evelyn Cheng/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 08:25:49",
       "message": "[PROCESSING] Analyzing: AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs..."
+    },
+    {
+      "timestamp": "2026-08-26 08:25:52",
+      "message": "[SUCCESS] Processed: AMD, \uc120\ud0dd\ub41c AMD Versal \uc801\uc751\ud615 SoC\uc5d0 UCIe \uc5f0\uacb0\uc131 \uc81c\uacf5\n  > Summary: AMD\ub294 UCIe 1.1 \uc778\ud130\ud398\uc774\uc2a4\uc5d0 \ub300\ud55c \ub124\uc774\ud2f0\ube0c \uc9c0\uc6d0\uc744 \ud3ec\ud568\ud55c Versal \uc801\uc751\ud615 So..."
     }
   ]
 }
