@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 11:45:36",
+  "last_updated": "2026-08-26 11:45:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 11:44:57",
-      "message": "Reprocessing: Accel-backed Keenable is indexing the web for AI agents"
-    },
     {
       "timestamp": "2026-08-26 11:44:59",
       "message": "[PROCESSING] Analyzing: Accel-backed Keenable is indexing the web for AI agents..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 11:45:36",
       "message": "[PROCESSING] Analyzing: Yokogawa Releases CT500SA and CT200SA AC/DC Split Core Current Sensors..."
+    },
+    {
+      "timestamp": "2026-08-26 11:45:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Yokogawa Releases CT500SA and CT200SA AC/DC Split Core Current Sensors"
     }
   ]
 }
