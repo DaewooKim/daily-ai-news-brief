@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-26 16:17:03",
+  "last_updated": "2026-08-26 16:17:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-26 16:16:19",
-      "message": "Reprocessing: Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at \"one-tenth the price\" (Z.ai)"
-    },
     {
       "timestamp": "2026-08-26 16:16:21",
       "message": "[PROCESSING] Analyzing: Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at \"one-tenth the price\" (Z.ai)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-26 16:17:03",
       "message": "[PROCESSING] Analyzing: Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan..."
+    },
+    {
+      "timestamp": "2026-08-26 16:17:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan"
     }
   ]
 }
