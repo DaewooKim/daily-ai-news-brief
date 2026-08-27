@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 19:12:39",
+  "last_updated": "2026-08-27 19:12:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 19:11:45",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, AI \ubd90\uc73c\ub85c \uc778\ud55c \ud558\ub4dc\uc6e8\uc5b4 \uacf5\uae09 \uc81c\uc57d\uc744 \uc5b8\uae09\ud558\uba70 \uba54\ubaa8\ub9ac \uc0ac\uc6a9 \ud55c\ub3c4\ub97c \ud3ec\ud568\ud55c \uc548\ub4dc\ub85c\uc774\ub4dc \uc571 \uc131\ub2a5 \uae30\uc900 \ubc1c\ud45c\n  > Summary: \uad6c\uae00\uc774 \uc548\ub4dc\ub85c\uc774\ub4dc \uc571\uc758 \uc131\ub2a5 \uae30\uc900\uc744 \ubcc0\uacbd\ud558\uba70, \uba54\ubaa8\ub9ac \uc0ac\uc6a9 \ud55c\ub3c4\ub97c \ud3ec\ud568\ud55c \uc0c8\ub85c\uc6b4 \uc694\uad6c \uc0ac\ud56d..."
-    },
     {
       "timestamp": "2026-08-27 19:11:47",
       "message": "[PROCESSING] Analyzing: Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 19:12:39",
       "message": "[PROCESSING] Analyzing: Streamlining 3D-IC Design: Substrate, Finalization, And Tapeout..."
+    },
+    {
+      "timestamp": "2026-08-27 19:12:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Streamlining 3D-IC Design: Substrate, Finalization, And Tapeout"
     }
   ]
 }
