@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 05:44:48",
+  "last_updated": "2026-08-27 05:44:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 05:44:06",
-      "message": "Reprocessing: SEC filing: OpenAI invests ~$400M in its second startup fund, after it raised $175M for its first fund in 2021 from outside investors, including Microsoft (Sarah Klearman/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-08-27 05:44:08",
       "message": "[PROCESSING] Analyzing: SEC filing: OpenAI invests ~$400M in its second startup fund, after it raised $175M for its first fund in 2021 from outside investors, including Microsoft (Sarah Klearman/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 05:44:48",
       "message": "[PROCESSING] Analyzing: Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing..."
+    },
+    {
+      "timestamp": "2026-08-27 05:44:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing"
     }
   ]
 }
