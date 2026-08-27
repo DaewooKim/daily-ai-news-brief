@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 20:22:28",
+  "last_updated": "2026-08-27 20:22:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 20:21:47",
-      "message": "[SKIP] Irrelevant (AI Filter): PJM\u2019s Power Shortfall Puts Data Center Growth in Focus"
-    },
     {
       "timestamp": "2026-08-27 20:21:49",
       "message": "[PROCESSING] Analyzing: DOE Keeps Eddystone Power Plant Online Amid Data Center Demand Surge..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 20:22:28",
       "message": "[SUCCESS] Processed: OpenAI, Anthropic, AWS, Microsoft \ub4f1 100\uac1c \uc774\uc0c1\uc758 \uae30\uc5c5\ub4e4\uc774 AI \uae30\ubc18 \uc0ac\uc774\ubc84 \uacf5\uaca9\uc5d0 \ub300\ube44\ud560 '\ud55c\uc815\ub41c \uc2dc\uac04'\uc774 \uc788\ub2e4\uace0 \uacbd\uace0\ud558\uace0 '\uc9d1\ub2e8 \ud589\ub3d9'\uc744 \ucd09\uad6c\ud558\ub2e4\n  > Summary: OpenAI, Anthropic, AWS, Microsoft \ub4f1 100\uac1c \uc774\uc0c1\uc758 \uae30\uc5c5\ub4e4\uc774 ..."
+    },
+    {
+      "timestamp": "2026-08-27 20:22:30",
+      "message": "Reprocessing: OpenAI is testing a \"Persistent mode\" in Codex, designed to let AI agents \"continue working until put to sleep\" and proactively generate follow-up tasks (Maxwell Zeff/Wired)"
     }
   ]
 }
