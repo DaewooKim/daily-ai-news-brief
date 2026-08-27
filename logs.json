@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 01:15:11",
+  "last_updated": "2026-08-27 01:15:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 01:14:28",
-      "message": "[PROCESSING] Analyzing: Apple announces September iPhone launch event..."
-    },
     {
       "timestamp": "2026-08-27 01:14:31",
       "message": "[SKIP] Irrelevant (AI Filter): Apple announces September iPhone launch event"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 01:15:11",
       "message": "Reprocessing: GlucoFM: Foundation model for continuous glucose monitoring"
+    },
+    {
+      "timestamp": "2026-08-27 01:15:12",
+      "message": "[SKIP] Content too short: GlucoFM: Foundation model for ..."
     }
   ]
 }
