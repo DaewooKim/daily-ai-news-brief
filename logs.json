@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 15:45:20",
+  "last_updated": "2026-08-27 15:45:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 15:44:38",
-      "message": "[SKIP] Content too short: GlucoFM: Foundation model for ..."
-    },
     {
       "timestamp": "2026-08-27 15:44:39",
       "message": "Reprocessing: Expanding OpenAI\u2019s presence in Brazil"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 15:45:20",
       "message": "[PROCESSING] Analyzing: OpenAI releases its official report on the Hugging Face breach..."
+    },
+    {
+      "timestamp": "2026-08-27 15:45:22",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI releases its official report on the Hugging Face breach"
     }
   ]
 }
