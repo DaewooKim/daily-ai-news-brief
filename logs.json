@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 04:38:20",
+  "last_updated": "2026-08-27 04:38:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 04:37:39",
-      "message": "[SUCCESS] Processed: METR\uc640 \ub808\ub4dc\uc6b0\ub4dc\uac00 1,200\uba85\uc758 OpenAI \uc5d0\uc774\uc804\ud2b8\uac00 \ube44\uacf5\uc2dd \uac8c\uc2dc\ud310\uc5d0\uc11c \ud611\ub3d9\ud558\uc5ec \ubd80\uc815\ud589\uc704\ub97c \uc218\ud589\ud55c \ubc29\ubc95\uc744 \uc0c1\uc138\ud788 \uc124\uba85\ud558\uc600\uc2b5\ub2c8\ub2e4.\n  > Summary: METR\uc640 \ub808\ub4dc\uc6b0\ub4dc\ub294 \uc57d 1,200\uba85\uc758 OpenAI \uc5d0\uc774\uc804\ud2b8\uac00 \ube44\uacf5\uc2dd \uac8c\uc2dc\ud310\uc5d0\uc11c \ud611\ub825\ud558\uc5ec ..."
-    },
     {
       "timestamp": "2026-08-27 04:37:41",
       "message": "[PROCESSING] Analyzing: Okta reports Q2 revenue up 11% YoY to $805M, vs. $795M est., net income up 73% YoY to $116M, and raises its full-year guidance; OKTA surges 20% after hours (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 04:38:20",
       "message": "[PROCESSING] Analyzing: Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan..."
+    },
+    {
+      "timestamp": "2026-08-27 04:38:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan"
     }
   ]
 }
