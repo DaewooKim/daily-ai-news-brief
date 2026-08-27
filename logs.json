@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 13:32:59",
+  "last_updated": "2026-08-27 13:33:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 13:32:15",
-      "message": "[PROCESSING] Analyzing: Issues Stack Up With More HBM Layers..."
-    },
     {
       "timestamp": "2026-08-27 13:32:18",
       "message": "[SUCCESS] Processed: HBM \ub808\uc774\uc5b4 \uc218 \uc99d\uac00\ub85c \uc778\ud55c \ubb38\uc81c\n  > Summary: HBM(\uace0\ub300\uc5ed\ud3ed \uba54\ubaa8\ub9ac) \uc2a4\ucf00\uc77c\ub9c1\uc774 \ubb3c\ub9ac\uc801 \ud55c\uacc4\uc5d0 \uc9c1\uba74\ud558\uace0 \uc788\uc73c\uba70, AI \uc218\uc694\uac00 DRAM ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 13:32:59",
       "message": "[SKIP] Irrelevant (AI Filter): Completing the Audit Trail: Why Embedded Teams Need Runtime Observability"
+    },
+    {
+      "timestamp": "2026-08-27 13:33:01",
+      "message": "Reprocessing: Mikroe Releases RTLS UWB Click Board"
     }
   ]
 }
