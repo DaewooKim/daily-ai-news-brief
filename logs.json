@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 15:45:35",
+  "last_updated": "2026-08-27 15:45:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 15:44:52",
-      "message": "Reprocessing: Disrupting a new covert influence campaign from Russia"
-    },
     {
       "timestamp": "2026-08-27 15:44:54",
       "message": "[PROCESSING] Analyzing: Disrupting a new covert influence campaign from Russia..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 15:45:35",
       "message": "[PROCESSING] Analyzing: NVMe 2.4 Update Adds Post-Quantum Security, Power Controls..."
+    },
+    {
+      "timestamp": "2026-08-27 15:45:38",
+      "message": "[SKIP] Irrelevant (AI Filter): NVMe 2.4 Update Adds Post-Quantum Security, Power Controls"
     }
   ]
 }
