@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 18:01:15",
+  "last_updated": "2026-08-27 18:01:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 18:00:26",
-      "message": "[PROCESSING] Analyzing: OpenAI is testing a \"Persistent mode\" in Codex, designed to let AI agents \"continue working until put to sleep\" and proactively generate follow-up tasks (Maxwell Zeff/Wired)..."
-    },
     {
       "timestamp": "2026-08-27 18:00:30",
       "message": "[SUCCESS] Processed: OpenAI\ub294 AI \uc5d0\uc774\uc804\ud2b8\uac00 \"\uc7a0\uc790\uae30\" \uc804\uae4c\uc9c0 \uacc4\uc18d \uc791\uc5c5\ud558\ub3c4\ub85d \uc124\uacc4\ub41c Codex\uc5d0\uc11c \"\uc601\uad6c \ubaa8\ub4dc\"\ub97c \ud14c\uc2a4\ud2b8\ud558\uace0 \uc788\ub2e4\n  > Summary: OpenAI\ub294 Codex\uc5d0\uc11c \"\uc601\uad6c \ubaa8\ub4dc\"\ub97c \ud14c\uc2a4\ud2b8\ud558\uace0 \uc788\uc73c\uba70, \uc774 \ubaa8\ub4dc\ub294 AI \uc5d0\uc774\uc804\ud2b8\uac00..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 18:01:15",
       "message": "[PROCESSING] Analyzing: Engineering Embedded Systems for Aerospace and Defense..."
+    },
+    {
+      "timestamp": "2026-08-27 18:01:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Engineering Embedded Systems for Aerospace and Defense"
     }
   ]
 }
