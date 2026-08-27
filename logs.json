@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 12:22:41",
+  "last_updated": "2026-08-27 12:22:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 12:21:53",
-      "message": "[PROCESSING] Analyzing: Being a mom is hard \u2014 the heat is making it harder..."
-    },
     {
       "timestamp": "2026-08-27 12:21:56",
       "message": "[SKIP] Irrelevant (AI Filter): Being a mom is hard \u2014 the heat is making it harder"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 12:22:41",
       "message": "Reprocessing: GlucoFM: Foundation model for continuous glucose monitoring"
+    },
+    {
+      "timestamp": "2026-08-27 12:22:42",
+      "message": "[SKIP] Content too short: GlucoFM: Foundation model for ..."
     }
   ]
 }
