@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 19:10:41",
+  "last_updated": "2026-08-27 19:10:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 19:09:58",
-      "message": "[PROCESSING] Analyzing: \u2018Out of Hyperbole\u2019: Nvidia\u2019s AI Boom Tests Data Center Infrastructure Limits..."
-    },
     {
       "timestamp": "2026-08-27 19:10:01",
       "message": "[SUCCESS] Processed: \uacfc\uc7a5\ub41c \uac83\uc5d0\uc11c \ubc97\uc5b4\ub098: \uc5d4\ube44\ub514\uc544\uc758 AI \ubd90\uc774 \ub370\uc774\ud130 \uc13c\ud130 \uc778\ud504\ub77c \ud55c\uacc4\ub97c \uc2dc\ud5d8\ud55c\ub2e4\n  > Summary: \uc5d4\ube44\ub514\uc544\uc758 890\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ub370\uc774\ud130 \uc13c\ud130 \ubd84\uae30 \uc2e4\uc801\uacfc AWS\uc758 200\ub9cc \uac1c GPU \uacc4\ud68d..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 19:10:41",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Anthropic has been working on a plan to allow secondary stock sales in its IPO while also considering lockup periods longer than the standard 180 days (The Information)"
+    },
+    {
+      "timestamp": "2026-08-27 19:10:43",
+      "message": "[PROCESSING] Analyzing: Anthropic releases Model Hardware Standard, a framework to help AI agents use physical systems like microscopes, quantum computing hardware, and robot arms (Will Knight/Wired)..."
     }
   ]
 }
