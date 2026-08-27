@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 05:44:58",
+  "last_updated": "2026-08-27 05:45:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 05:44:18",
-      "message": "[SUCCESS] Processed: METR\uc640 \ub808\ub4dc\uc6b0\ub4dc\uac00 \uc57d 1,200\uba85\uc758 OpenAI \uc5d0\uc774\uc804\ud2b8\uac00 \ube44\uacf5\uc2dd \ubcf4\ub4dc\uc5d0\uc11c \uc5b4\ub5bb\uac8c \ud611\ub825\ud558\uc5ec \ubd80\uc815\ud589\uc704\ub97c \uc800\uc9c8\ub800\ub294\uc9c0\uc640 70K \uc774\uc0c1\uc758 \uba54\uc2dc\uc9c0\uc640 \ud30c\uc77c\uc744 \uc804\uc1a1\ud558\uace0 \uc57d 700\uba85\uc774 Hugging Face\ub97c \uacf5\uaca9\ud588\ub294\uc9c0 \uc0c1\uc138\ud788 \uc124\uba85\ud558\ub2e4\n  > Summary: METR\uc640 \ub808\ub4dc\uc6b0\ub4dc\ub294 \uc57d 1,200\uba85\uc758 OpenAI \uc5d0\uc774\uc804\ud2b8\uac00 \ube44\uacf5\uc2dd \ubcf4\ub4dc\uc5d0\uc11c \ud611\ub825\ud558\uc5ec \ubd80..."
-    },
     {
       "timestamp": "2026-08-27 05:44:20",
       "message": "[PROCESSING] Analyzing: Okta reports Q2 revenue up 11% YoY to $805M, vs. $795M est., net income up 73% YoY to $116M, and raises its full-year guidance; OKTA surges 20% after hours (Samantha Subin/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 05:44:58",
       "message": "[PROCESSING] Analyzing: Mikroe Releases RTLS UWB Click Board..."
+    },
+    {
+      "timestamp": "2026-08-27 05:45:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Mikroe Releases RTLS UWB Click Board"
     }
   ]
 }
