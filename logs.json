@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-27 19:15:03",
+  "last_updated": "2026-08-27 19:15:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-27 19:14:12",
-      "message": "[SUCCESS] Processed: \ud000\ud2f0\uc13c\ud2b8, 4\ucc9c\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 A \uc790\uae08 \uc870\ub2ec \uc644\ub8cc \ubc0f AI \uad11\ud559 \uc778\ud130\ucee4\ub125\ud2b8\ub97c \uc704\ud55c \uccab \ubc88\uc9f8 \uc81c\ud488 \uc0d8\ud50c\ub9c1 \uc2dc\uc791\n  > Summary: \ud000\ud2f0\uc13c\ud2b8\uac00 4\ucc9c\ub9cc \ub2ec\ub7ec\uc758 \uc2dc\ub9ac\uc988 A \ud22c\uc790 \uc720\uce58 \ubc0f \uccab \ubc88\uc9f8 \uc81c\ud488\uc778 \ub2e8\uc77c \uce69 \uc591\uc790\uc810 \uae30\ubc18 D..."
-    },
     {
       "timestamp": "2026-08-27 19:14:13",
       "message": "[PROCESSING] Analyzing: Micron Opens Boise Training Center to Build Semiconductor Workforce..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-27 19:15:03",
       "message": "[PROCESSING] Analyzing: Engineering Embedded Systems for Aerospace and Defense..."
+    },
+    {
+      "timestamp": "2026-08-27 19:15:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Engineering Embedded Systems for Aerospace and Defense"
     }
   ]
 }
