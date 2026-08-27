@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-27 16:56:53",
-  "status": "idle",
+  "last_updated": "2026-08-27 17:57:35",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-27 16:55:22",
-      "message": "[SKIP] Content too short: Workplace fraud monitoring sta..."
+      "timestamp": "2026-08-27 17:57:21",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-27 16:55:24",
-      "message": "Reprocessing: Salesforce scoffs at SaaSpocalypse fears with a crushing earnings beat"
+      "timestamp": "2026-08-27 17:57:22",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-27 16:55:26",
-      "message": "[SKIP] Content too short: Salesforce scoffs at SaaSpocal..."
+      "timestamp": "2026-08-27 17:57:22",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-27 16:55:28",
-      "message": "Reprocessing: Bill Gates issues stark warning about AI and the future of humanity"
+      "timestamp": "2026-08-27 17:57:35",
+      "message": "Found 165 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-27 16:55:29",
-      "message": "[SKIP] Content too short: Bill Gates issues stark warnin..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:31",
-      "message": "Reprocessing: Z.ai open-sources \u2018Ox Alpha\u2019 model as GLM-5.3-Flash"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:33",
-      "message": "[SKIP] Content too short: Z.ai open-sources \u2018Ox Alpha\u2019 m..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:35",
-      "message": "Reprocessing: Nvidia\u2019s next multibillion-dollar market: Breaking the AI factory out of the data center"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:36",
-      "message": "[SKIP] Content too short: Nvidia\u2019s next multibillion-dol..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:38",
-      "message": "Reprocessing: Nvidia doubles its revenue as demand for AI chips accelerate despite bubble fears"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:40",
-      "message": "[SKIP] Content too short: Nvidia doubles its revenue as ..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:42",
-      "message": "Reprocessing: HP beats on earnings and revenue but PC unit slump sinks the stock"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:44",
-      "message": "[SKIP] Content too short: HP beats on earnings and reven..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:45",
-      "message": "Reprocessing: Nutanix tops estimates as external storage growth helps counter hardware squeeze"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:47",
-      "message": "[SKIP] Content too short: Nutanix tops estimates as exte..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:49",
-      "message": "Reprocessing: Deep Cogito raises $43M to develop self-improving AI models"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:51",
-      "message": "[SKIP] Content too short: Deep Cogito raises $43M to dev..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:52",
-      "message": "Reprocessing: CrowdStrike and Okta shares jump on second-quarter beats and raised outlooks"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:54",
-      "message": "[SKIP] Content too short: CrowdStrike and Okta shares ju..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:55",
-      "message": "Reprocessing: What to expect during VMware Explore: Join theCUBE Aug. 31-Sept. 2"
-    },
-    {
-      "timestamp": "2026-08-27 16:55:57",
-      "message": "[SKIP] Content too short: What to expect during VMware E..."
-    },
-    {
-      "timestamp": "2026-08-27 16:55:59",
-      "message": "Reprocessing: Meta settles closely watched social media addiction lawsuit for $18B"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:00",
-      "message": "[SKIP] Content too short: Meta settles closely watched s..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:02",
-      "message": "Reprocessing: AMD, Supermicro and MinIO target the enterprise data pipeline bottleneck"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:04",
-      "message": "[SKIP] Content too short: AMD, Supermicro and MinIO targ..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:05",
-      "message": "Reprocessing: Exclusive: Mate Security launches Gamebooks to govern how AI agents run investigations"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:07",
-      "message": "[SKIP] Content too short: Exclusive: Mate Security launc..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:09",
-      "message": "Reprocessing: AWS buys DuckLabs to bring DuckDB\u2019s embeddable analytics to more enterprises"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:11",
-      "message": "[SKIP] Content too short: AWS buys DuckLabs to bring Duc..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:12",
-      "message": "Reprocessing: Nutanix expands cloud platform with controls for agentic AI"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:14",
-      "message": "[SKIP] Content too short: Nutanix expands cloud platform..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:16",
-      "message": "Reprocessing: Glean unveils Tau desktop workspace, claims token-cost edge over Claude"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:17",
-      "message": "[SKIP] Content too short: Glean unveils Tau desktop work..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:19",
-      "message": "Reprocessing: Autonomous drone intercept startup Mara raises $7M to secure the modern battlefield"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:21",
-      "message": "[SKIP] Content too short: Autonomous drone intercept sta..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:22",
-      "message": "Reprocessing: The network becomes the computer as Cisco and Nvidia accelerate AI factory rack-scale"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:24",
-      "message": "[SKIP] Content too short: The network becomes the comput..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:26",
-      "message": "Reprocessing: Major record labels, AMD back $76M round for Stability AI"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:28",
-      "message": "[SKIP] Content too short: Major record labels, AMD back ..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:29",
-      "message": "Reprocessing: Data center power startup Emerald AI raises $150M at $1.05B valuation"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:31",
-      "message": "[SKIP] Content too short: Data center power startup Emer..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:33",
-      "message": "Reprocessing: Agentic web search infrastructure startup Keenable raises $26M"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:35",
-      "message": "[SKIP] Content too short: Agentic web search infrastruct..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:37",
-      "message": "Reprocessing: Gatik raises $200M to grow driverless fleet past 100 trucks this year"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:38",
-      "message": "[SKIP] Content too short: Gatik raises $200M to grow dri..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:40",
-      "message": "Reprocessing: Alice raises $140M as its AI security business grows more than 500%"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:42",
-      "message": "[SKIP] Content too short: Alice raises $140M as its AI s..."
-    },
-    {
-      "timestamp": "2026-08-27 16:56:44",
-      "message": "Completed! New: 10, Updated: 46"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:48",
-      "message": "Saved 56 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-27 16:56:52",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-27 17:57:35",
+      "message": "[PROCESSING] Analyzing: Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs..."
     }
   ]
 }
