@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 13:10:23",
+  "last_updated": "2026-08-28 13:10:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 13:09:36",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-08-28 13:09:36",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 13:10:23",
       "message": "[PROCESSING] Analyzing: Le guide des PME pour prot\u00e9ger leur entreprise..."
+    },
+    {
+      "timestamp": "2026-08-28 13:10:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Le guide des PME pour prot\u00e9ger leur entreprise"
     }
   ]
 }
