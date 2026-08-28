@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 17:39:29",
+  "last_updated": "2026-08-28 17:39:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 17:38:49",
-      "message": "Found 188 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-28 17:38:49",
       "message": "[PROCESSING] Analyzing: Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 17:39:29",
       "message": "[PROCESSING] Analyzing: Le guide des PME pour prot\u00e9ger leur entreprise..."
+    },
+    {
+      "timestamp": "2026-08-28 17:39:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Le guide des PME pour prot\u00e9ger leur entreprise"
     }
   ]
 }
