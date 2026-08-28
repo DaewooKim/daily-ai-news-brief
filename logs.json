@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 03:07:19",
+  "last_updated": "2026-08-28 03:07:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 03:06:24",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-28 03:06:40",
       "message": "Found 175 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 03:07:19",
       "message": "[SKIP] Content too short: You Probably Forget How Cheap ..."
+    },
+    {
+      "timestamp": "2026-08-28 03:07:21",
+      "message": "Reprocessing: NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure"
     }
   ]
 }
