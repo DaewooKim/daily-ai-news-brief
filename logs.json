@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 13:13:17",
+  "last_updated": "2026-08-28 13:13:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 13:12:41",
-      "message": "[SUCCESS] Processed: \ubca0\uc774\uc9d5 AGI \ubc14: \uc911\uad6d AI \uc0b0\uc5c5\uc758 \ube44\uacf5\uc2dd \ud074\ub7fd\ud558\uc6b0\uc2a4\n  > Summary: \ubca0\uc774\uc9d5\uc758 AGI \ubc14\ub294 \uc911\uad6d AI \uc0b0\uc5c5\uc758 \ube44\uacf5\uc2dd \ud074\ub7fd\ud558\uc6b0\uc2a4\ub85c, \uae30\uc5c5\uac00\ub4e4\uc774 \uc18c\ubb38\uc744 \uad50\ud658\ud558\uace0 \uc778..."
-    },
     {
       "timestamp": "2026-08-28 13:12:43",
       "message": "[PROCESSING] Analyzing: Bluesky launches a feature to let users hide their posts from non-followers in its Discover feed; other AT Proto apps can choose whether to respect the opt-out (Sarah Perez/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 13:13:17",
       "message": "[PROCESSING] Analyzing: Streamlining 3D-IC Design: Substrate, Finalization, And Tapeout..."
+    },
+    {
+      "timestamp": "2026-08-28 13:13:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Streamlining 3D-IC Design: Substrate, Finalization, And Tapeout"
     }
   ]
 }
