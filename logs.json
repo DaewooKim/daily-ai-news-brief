@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 15:24:54",
+  "last_updated": "2026-08-28 15:24:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 15:24:17",
-      "message": "Found 180 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-28 15:24:17",
       "message": "[PROCESSING] Analyzing: Apple TV now costs $14.99 a month after its fourth price hike in four years..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 15:24:54",
       "message": "[PROCESSING] Analyzing: Le guide des PME pour prot\u00e9ger leur entreprise..."
+    },
+    {
+      "timestamp": "2026-08-28 15:24:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Le guide des PME pour prot\u00e9ger leur entreprise"
     }
   ]
 }
