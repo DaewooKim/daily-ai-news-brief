@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 19:58:00",
+  "last_updated": "2026-08-28 19:58:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 19:57:21",
-      "message": "[SUCCESS] Processed: \uc18c\uc2dd: AI \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305 \uc81c\uacf5\uc5c5\uccb4 Lambda\uac00 Nvidia GPU \uad6c\ub9e4\ub97c \uc704\ud55c \uc57d 10\uc5b5 \ub2ec\ub7ec\uc758 \uc0ac\ubaa8 \ub2e8\uae30 \ucc44\ubb34\ub97c \uc870\ub2ec\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Lambda Inc.\ub294 Nvidia Corp.\uc758 \uc9c0\uc6d0\uc744 \ubc1b\ub294 AI \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305 \uc81c\uacf5\uc5c5\uccb4..."
-    },
     {
       "timestamp": "2026-08-28 19:57:22",
       "message": "[PROCESSING] Analyzing: Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others (Sydney Bradley/Business Insider)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 19:58:00",
       "message": "[PROCESSING] Analyzing: Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research..."
+    },
+    {
+      "timestamp": "2026-08-28 19:58:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research"
     }
   ]
 }
