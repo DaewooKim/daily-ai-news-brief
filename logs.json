@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 09:52:17",
+  "last_updated": "2026-08-28 09:52:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 09:51:36",
-      "message": "[PROCESSING] Analyzing: Liquid Cooling Options: RDHx, Direct-to-Chip, Immersion..."
-    },
     {
       "timestamp": "2026-08-28 09:51:39",
       "message": "[SUCCESS] Processed: \uc561\uccb4 \ub0c9\uac01 \uc635\uc158: RDHx, \uc9c1\uc811 \uce69 \ub0c9\uac01, \uce68\uc218 \ub0c9\uac01\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\ub294 \ub370\uc774\ud130 \uc13c\ud130\uc758 \ub799 \ubc00\ub3c4\ub97c \uacf5\uae30 \ub0c9\uac01 \ud55c\uacc4\ub97c \ucd08\uacfc\ud558\uac8c \ub9cc\ub4ed\ub2c8\ub2e4. \uc774 \uae30\uc0ac\uc5d0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 09:52:17",
       "message": "[PROCESSING] Analyzing: Workday reports Q2 revenue up 12.8% YoY to $2.65B vs. $2.63B est., and total subscription revenue backlog up 8% YoY to $27.4B, vs. $28.6B est. (Brody Ford/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-08-28 09:52:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Workday reports Q2 revenue up 12.8% YoY to $2.65B vs. $2.63B est., and total subscription revenue backlog up 8% YoY to $27.4B, vs. $28.6B est. (Brody Ford/Bloomberg)"
     }
   ]
 }
