@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 21:01:57",
+  "last_updated": "2026-08-28 21:01:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 21:01:20",
-      "message": "Found 188 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-28 21:01:20",
       "message": "[PROCESSING] Analyzing: Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 21:01:57",
       "message": "[PROCESSING] Analyzing: Warm-Water Ready: Benchmarking Two-Phase Vs. Single-Phase Direct-to-Chip Cooling On An NVIDIA B200 Server..."
+    },
+    {
+      "timestamp": "2026-08-28 21:01:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Warm-Water Ready: Benchmarking Two-Phase Vs. Single-Phase Direct-to-Chip Cooling On An NVIDIA B200 Server"
     }
   ]
 }
