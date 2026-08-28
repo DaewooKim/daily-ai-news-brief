@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 10:58:50",
+  "last_updated": "2026-08-28 10:58:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 10:58:10",
-      "message": "Reprocessing: AI Rack Density\u2019s Real Limits: Power, Cooling, Failure Risk"
-    },
     {
       "timestamp": "2026-08-28 10:58:12",
       "message": "[PROCESSING] Analyzing: AI Rack Density\u2019s Real Limits: Power, Cooling, Failure Risk..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 10:58:50",
       "message": "[PROCESSING] Analyzing: The UK Treasury gives the Bank of England a new legal objective to support payment systems and digital money innovation, seeking to keep London competitive (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-08-28 10:58:52",
+      "message": "[SKIP] Irrelevant (AI Filter): The UK Treasury gives the Bank of England a new legal objective to support payment systems and digital money innovation, seeking to keep London competitive (Financial Times)"
     }
   ]
 }
