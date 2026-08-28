@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 18:51:36",
+  "last_updated": "2026-08-28 18:51:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 18:50:54",
-      "message": "[SUCCESS] Processed: SK hynix \uc778\ub514\uc560\ub098 HBM \uc0dd\uc0b0 \uae30\uc9c0 \ucc29\uacf5\uc2dd \uac1c\ucd5c\n  > Summary: SK hynix\ub294 \uc778\ub514\uc560\ub098\uc8fc \ud37c\ub4c0 \ub300\ud559\uad50\uc5d0\uc11c AI \uba54\ubaa8\ub9ac\ub97c \uc704\ud55c \ucca8\ub2e8 \ud328\ud0a4\uc9d5 \uc0dd\uc0b0 \uc2dc\uc124 \ucc29..."
-    },
     {
       "timestamp": "2026-08-28 18:50:55",
       "message": "Reprocessing: LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 18:51:36",
       "message": "[PROCESSING] Analyzing: Mikroe Releases RTLS UWB Click Board..."
+    },
+    {
+      "timestamp": "2026-08-28 18:51:38",
+      "message": "[SKIP] Irrelevant (AI Filter): Mikroe Releases RTLS UWB Click Board"
     }
   ]
 }
