@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-28 10:59:17",
+  "last_updated": "2026-08-28 10:59:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-28 10:58:40",
-      "message": "[SUCCESS] Processed: \ud55c\uad6d, KT, SK\ud154\ub808\ucf64, \uce74\uce74\uc624\uc640 \ud568\uaed8 \ud504\ub9ac\ubbf8\uc5c4 AI \ub3c4\uad6c\ub97c \ubb34\ub8cc\ub85c \uc81c\uacf5\ud558\ub294 \ud504\ub85c\uc81d\ud2b8 \ubc1c\ud45c\n  > Summary: \ud55c\uad6d\uc740 KT, SK\ud154\ub808\ucf64, \uce74\uce74\uc624\uc640 \ud611\ub825\ud558\uc5ec \ud504\ub9ac\ubbf8\uc5c4 AI \ub3c4\uad6c\ub97c \ubb34\ub8cc\ub85c \uc81c\uacf5\ud558\ub294 \ud504\ub85c\uc81d\ud2b8..."
-    },
     {
       "timestamp": "2026-08-28 10:58:42",
       "message": "[PROCESSING] Analyzing: Bluesky launches a feature to let users hide their posts from non-followers in its Discover feed; other AT Proto apps can choose whether to respect the opt-out (Sarah Perez/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-28 10:59:17",
       "message": "[PROCESSING] Analyzing: Sources: the FTC has been investigating whether YouTube broke consumer protection laws by violating its own policies when suspending accounts or banning content (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-08-28 10:59:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: the FTC has been investigating whether YouTube broke consumer protection laws by violating its own policies when suspending accounts or banning content (Bloomberg)"
     }
   ]
 }
