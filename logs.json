@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-29 01:31:09",
+  "last_updated": "2026-08-29 01:31:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-29 01:30:30",
-      "message": "[SUCCESS] Processed: \ud48d\ubd80\ud55c \uc9c0\ub2a5\uc744 \ub4b7\ubc1b\uce68\ud558\ub294 \uc804\uccb4 \uc2a4\ud0dd\n  > Summary: OpenAI CFO \uc0ac\ub77c \ud504\ub77c\uc774\uc5b4\ub294 \uce69, \ucef4\ud4e8\ud305, \ubaa8\ub378 \ubc0f \uc81c\ud488 \uc804\ubc18\uc5d0 \uac78\uce5c \ubc1c\uc804\uc774 \ub354 \uc720..."
-    },
     {
       "timestamp": "2026-08-29 01:30:33",
       "message": "Reprocessing: Disrupting a new covert influence campaign from Russia"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-29 01:31:09",
       "message": "[PROCESSING] Analyzing: PJM\u2019s Power Shortfall Puts Data Center Growth in Focus..."
+    },
+    {
+      "timestamp": "2026-08-29 01:31:11",
+      "message": "[SKIP] Irrelevant (AI Filter): PJM\u2019s Power Shortfall Puts Data Center Growth in Focus"
     }
   ]
 }
