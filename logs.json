@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-08-29 08:12:02",
-  "status": "idle",
+  "last_updated": "2026-08-29 09:12:39",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-08-29 08:10:17",
-      "message": "[SKIP] Irrelevant (AI Filter): Meituan reports Q2 revenue up 14.4% YoY to $15.62B and adjusted net profit of $372M, ending a three-quarter losing streak as the food delivery price war cooled (Ben Jiang/South China Morning Post)"
+      "timestamp": "2026-08-29 09:12:27",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-08-29 08:10:18",
-      "message": "[PROCESSING] Analyzing: Jio Platforms, which owns India's largest carrier and counts Meta and Google as investors, gets regulatory approval to float India's largest-ever IPO of ~$4B (Vallari Sanzgiri/The Hindu BusinessLine)..."
+      "timestamp": "2026-08-29 09:12:28",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-08-29 08:10:20",
-      "message": "[SKIP] Irrelevant (AI Filter): Jio Platforms, which owns India's largest carrier and counts Meta and Google as investors, gets regulatory approval to float India's largest-ever IPO of ~$4B (Vallari Sanzgiri/The Hindu BusinessLine)"
+      "timestamp": "2026-08-29 09:12:28",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-08-29 08:10:22",
-      "message": "[PROCESSING] Analyzing: CXMT sues the Pentagon over its Chinese military company designation, saying it isn't affiliated with the Chinese military and its chips aren't for military use (Reuters)..."
+      "timestamp": "2026-08-29 09:12:39",
+      "message": "Found 189 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-08-29 08:10:25",
-      "message": "[SKIP] Irrelevant (AI Filter): CXMT sues the Pentagon over its Chinese military company designation, saying it isn't affiliated with the Chinese military and its chips aren't for military use (Reuters)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:26",
-      "message": "Reprocessing: OpenAI says it plans to stop providing its models to Cursor from November 12, as \"we cannot be confident that SpaceX will use our technology within our ToS\" (OpenAI)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:28",
-      "message": "[PROCESSING] Analyzing: OpenAI says it plans to stop providing its models to Cursor from November 12, as \"we cannot be confident that SpaceX will use our technology within our ToS\" (OpenAI)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:31",
-      "message": "[SUCCESS] Processed: OpenAI, SpaceX\uc758 \uae30\uc220 \uc0ac\uc6a9\uc5d0 \ub300\ud55c \uc810\uac80\uc73c\ub85c Cursor\uc5d0 \ubaa8\ub378 \uc81c\uacf5 \uc911\ub2e8 \uc608\uc815\n  > Summary: OpenAI\ub294 11\uc6d4 12\uc77c\ubd80\ud130 Cursor\uc5d0\uac8c \ubaa8\ub378 \uc81c\uacf5\uc744 \uc911\ub2e8\ud560 \uacc4\ud68d\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:32",
-      "message": "[PROCESSING] Analyzing: Texas Gov. Greg Abbott orders state agencies to pause funding for Flock cameras; an investigation found an agency allocating $30M+ to build Texas' Flock network (Ayden Runnels/The Texas Tribune)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:34",
-      "message": "[SKIP] Irrelevant (AI Filter): Texas Gov. Greg Abbott orders state agencies to pause funding for Flock cameras; an investigation found an agency allocating $30M+ to build Texas' Flock network (Ayden Runnels/The Texas Tribune)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:36",
-      "message": "[PROCESSING] Analyzing: Metriport, whose tools help doctors retrieve patient data, raised $26M in Series A and seed funding led by Matrix GP TJ Parker, taking its total raise to $28.4M (Ngai Yeung/Endpoints News)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:38",
-      "message": "[SKIP] Irrelevant (AI Filter): Metriport, whose tools help doctors retrieve patient data, raised $26M in Series A and seed funding led by Matrix GP TJ Parker, taking its total raise to $28.4M (Ngai Yeung/Endpoints News)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:40",
-      "message": "Reprocessing: Z.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model (Frederic Lardinois/The New Stack)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:41",
-      "message": "[PROCESSING] Analyzing: Z.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model (Frederic Lardinois/The New Stack)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:45",
-      "message": "[SUCCESS] Processed: Z.ai, GLM-5.3\uc758 \uac00\uc911\uce58\ub97c \uc0c8 \ub77c\uc774\uc120\uc2a4 \ud558\uc5d0 \ubc1c\ud45c\ud558\uba70, 12\uac1c\uc6d4 \ub3d9\uc548 100\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uc218\uc775\uc744 \uc62c\ub9b0 \ud68c\uc0ac\ub4e4\uc774 \ubaa8\ub378 \ud638\uc2a4\ud305\uc744 \uc704\ud574 Z.ai\uc758 \ubcf4\uc548 \uac80\ud1a0\ub97c \ud1b5\uacfc\ud574\uc57c \ud568\n  > Summary: Z.ai\ub294 GLM-5.3\uc758 \uac00\uc911\uce58\ub97c \uc0c8\ub85c\uc6b4 \ub77c\uc774\uc120\uc2a4 \ud558\uc5d0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ub77c\uc774\uc120\uc2a4\uc5d0 \ub530\ub77c..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:47",
-      "message": "[PROCESSING] Analyzing: An appeals court rules states can regulate prediction markets, finding Kalshi's sports event contracts are bets, not swaps, and subject to state gambling laws (Lauren McCarthy/New York Times)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:49",
-      "message": "[SKIP] Irrelevant (AI Filter): An appeals court rules states can regulate prediction markets, finding Kalshi's sports event contracts are bets, not swaps, and subject to state gambling laws (Lauren McCarthy/New York Times)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:50",
-      "message": "[PROCESSING] Analyzing: Rowhammer Backdoor Injection Attack During Inference (Northeastern)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:53",
-      "message": "[SUCCESS] Processed: \ucd94\ub860 \uc911 Rowhammer \ubc31\ub3c4\uc5b4 \uc8fc\uc785 \uacf5\uaca9 (\ub178\uc2a4\uc774\uc2a4\ud134)\n  > Summary: \ub178\uc2a4\uc774\uc2a4\ud134 \ub300\ud559\uad50\uc758 \uc5f0\uad6c\uc790\ub4e4\uc740 'ROBBIN: Rowhammer \uae30\ubc18 \ubc31\ub3c4\uc5b4 \uc8fc\uc785 \uacf5\uaca9'\uc774..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:55",
-      "message": "[PROCESSING] Analyzing: Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)..."
-    },
-    {
-      "timestamp": "2026-08-29 08:10:57",
-      "message": "[SKIP] Irrelevant (AI Filter): Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)"
-    },
-    {
-      "timestamp": "2026-08-29 08:10:59",
-      "message": "Reprocessing: BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:01",
-      "message": "[PROCESSING] Analyzing: BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:04",
-      "message": "[SUCCESS] Processed: BTU \ud3ec\ub984\uc0b0 \ub9ac\ud50c\ub85c\uc6b0 \uae30\uc220\uc774 \ucc28\uc138\ub300 \ubc18\ub3c4\uccb4 \ud328\ud0a4\uc9d5\uc744 \uc704\ud55c \ubb34 \ud50c\ub7ed\uc2a4 \ub0a9\ub55c\uc744 \ubc1c\uc804\uc2dc\ud0b5\ub2c8\ub2e4.\n  > Summary: BTU International\uc740 \uc804\uc790 \uc81c\uc870 \ubc0f \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc744 \uc704\ud55c \uace0\uae09 \uc5f4 \ucc98\ub9ac \uc7a5\ube44\uc758 ..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:06",
-      "message": "[PROCESSING] Analyzing: Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:08",
-      "message": "[SKIP] Irrelevant (AI Filter): Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:10",
-      "message": "Reprocessing: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:12",
-      "message": "[PROCESSING] Analyzing: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:15",
-      "message": "[SUCCESS] Processed: SK hynix, \uc778\ub514\uc560\ub098\uc758 HBM \uc0dd\uc0b0 \uae30\uc9c0 \ucc29\uacf5\uc2dd \uac1c\ucd5c\n  > Summary: SK hynix\ub294 \uc778\ub514\uc560\ub098\uc5d0\uc11c AI \uba54\ubaa8\ub9ac\ub97c \uc704\ud55c \uace0\uae09 \ud3ec\uc7a5 \uc0dd\uc0b0 \uc2dc\uc124\uc758 \ucc29\uacf5\uc2dd\uc744 \uac1c\ucd5c\ud588\uc2b5..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:17",
-      "message": "Reprocessing: LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:18",
-      "message": "[PROCESSING] Analyzing: LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:21",
-      "message": "[SUCCESS] Processed: LG \ud654\ud559, SEMICON \ub300\ub9cc 2026\uc5d0\uc11c AI \ubc18\ub3c4\uccb4\ub97c \uc704\ud55c \uace0\uae09 \ud328\ud0a4\uc9d5 \uc18c\uc7ac \uc194\ub8e8\uc158 \uacf5\uac1c\n  > Summary: LG \ud654\ud559\uc774 SEMICON \ub300\ub9cc 2026\uc5d0 \ucc38\uac00\ud558\uc5ec AI \ubc18\ub3c4\uccb4\ub97c \uc704\ud55c \uace0\uae09 \ud328\ud0a4\uc9d5 \ubc0f \uc804..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:23",
-      "message": "Reprocessing: AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:25",
-      "message": "[PROCESSING] Analyzing: AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:28",
-      "message": "[SUCCESS] Processed: AMD, \uc120\ud0dd\ub41c AMD Versal \uc801\uc751\ud615 SoC\uc5d0 UCIe \uc5f0\uacb0\uc131 \uc81c\uacf5 \uc608\uc815\n  > Summary: AMD\ub294 \ud0c0\uc0ac RF AFE\ub098 \ub370\uc774\ud130 \ubcc0\ud658\uae30, AI \uac00\uc18d\uae30 \uce69\ub81b \ub4f1\uacfc \uc9c1\uc811 \ud1b5\uc2e0\ud560 \uc218 \uc788\ub294 ..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:30",
-      "message": "[PROCESSING] Analyzing: Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:32",
-      "message": "[SKIP] Irrelevant (AI Filter): Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:34",
-      "message": "[PROCESSING] Analyzing: RAIN Alliance Launches RFID Sensor Working Group..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:36",
-      "message": "[SKIP] Irrelevant (AI Filter): RAIN Alliance Launches RFID Sensor Working Group"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:38",
-      "message": "Reprocessing: Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:39",
-      "message": "[PROCESSING] Analyzing: Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:41",
-      "message": "[SKIP] Irrelevant (AI Filter): Viavi Vertex 6.0 Targets 6G and Wi-Fi 7/8 RF Testing"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:43",
-      "message": "[PROCESSING] Analyzing: Completing the Audit Trail: Why Embedded Teams Need Runtime Observability..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:45",
-      "message": "[SKIP] Irrelevant (AI Filter): Completing the Audit Trail: Why Embedded Teams Need Runtime Observability"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:47",
-      "message": "Reprocessing: Mikroe Releases RTLS UWB Click Board"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:48",
-      "message": "[PROCESSING] Analyzing: Mikroe Releases RTLS UWB Click Board..."
-    },
-    {
-      "timestamp": "2026-08-29 08:11:51",
-      "message": "[SKIP] Irrelevant (AI Filter): Mikroe Releases RTLS UWB Click Board"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:52",
-      "message": "Completed! New: 1, Updated: 21"
-    },
-    {
-      "timestamp": "2026-08-29 08:11:56",
-      "message": "Saved 22 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-08-29 08:12:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-08-29 09:12:39",
+      "message": "[PROCESSING] Analyzing: Xbox CEO calls Project Helix a \u2018family of devices\u2019..."
     }
   ]
 }
