@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-29 02:38:40",
+  "last_updated": "2026-08-29 02:38:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-29 02:38:02",
-      "message": "[SUCCESS] Processed: \uc5f0\uc911 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124: \uc218\uc694, \ub9c8\ucc30 \ubc0f \uac74\ucd95 \uaddc\uc728\n  > Summary: 2026\ub144 \ub370\uc774\ud130 \uc13c\ud130 \uac74\uc124\uc774 \uae09\uc99d\ud558\uc9c0\ub9cc, \uc804\ub825, \uc778\ub825 \ubc0f \uc9c0\uc5ed \uc0ac\ud68c\uc758 \uc6b0\ub824\uc640 \uac19\uc740 \ubb38\uc81c\ub4e4..."
-    },
     {
       "timestamp": "2026-08-29 02:38:03",
       "message": "[PROCESSING] Analyzing: CXMT sues the Pentagon over its Chinese military company designation, saying it isn't affiliated with the Chinese military and its chips aren't for military use (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-29 02:38:40",
       "message": "[PROCESSING] Analyzing: A social media app that feels like the old Instagram days raised $21 million (Sydney Bradley/Business Insider)..."
+    },
+    {
+      "timestamp": "2026-08-29 02:38:42",
+      "message": "[SKIP] Irrelevant (AI Filter): A social media app that feels like the old Instagram days raised $21 million (Sydney Bradley/Business Insider)"
     }
   ]
 }
