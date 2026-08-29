@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-29 12:35:14",
+  "last_updated": "2026-08-29 12:35:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-29 12:34:35",
-      "message": "Reprocessing: Z.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model (Frederic Lardinois/The New Stack)"
-    },
     {
       "timestamp": "2026-08-29 12:34:36",
       "message": "[PROCESSING] Analyzing: Z.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model (Frederic Lardinois/The New Stack)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-29 12:35:14",
       "message": "[PROCESSING] Analyzing: Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan..."
+    },
+    {
+      "timestamp": "2026-08-29 12:35:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan"
     }
   ]
 }
