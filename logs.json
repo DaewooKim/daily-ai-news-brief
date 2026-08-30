@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-30 16:56:38",
+  "last_updated": "2026-08-30 16:56:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-30 16:55:49",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-30 16:56:03",
       "message": "Found 164 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-30 16:56:38",
       "message": "[PROCESSING] Analyzing: Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango..."
+    },
+    {
+      "timestamp": "2026-08-30 16:56:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango"
     }
   ]
 }
