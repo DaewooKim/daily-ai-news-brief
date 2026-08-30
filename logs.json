@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-30 12:35:56",
+  "last_updated": "2026-08-30 12:35:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-30 12:35:21",
-      "message": "[PROCESSING] Analyzing: Sony Music and Warner Chappell are suing Anthropic..."
-    },
     {
       "timestamp": "2026-08-30 12:35:24",
       "message": "[SKIP] Irrelevant (AI Filter): Sony Music and Warner Chappell are suing Anthropic"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-30 12:35:56",
       "message": "Reprocessing: GlucoFM: Foundation model for continuous glucose monitoring"
+    },
+    {
+      "timestamp": "2026-08-30 12:35:57",
+      "message": "[SKIP] Content too short: GlucoFM: Foundation model for ..."
     }
   ]
 }
