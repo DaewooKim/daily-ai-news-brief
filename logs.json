@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-30 00:36:03",
+  "last_updated": "2026-08-30 00:36:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-30 00:35:28",
-      "message": "[PROCESSING] Analyzing: Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango..."
-    },
     {
       "timestamp": "2026-08-30 00:35:31",
       "message": "[SKIP] Irrelevant (AI Filter): Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-30 00:36:03",
       "message": "Reprocessing: GlucoFM: Foundation model for continuous glucose monitoring"
+    },
+    {
+      "timestamp": "2026-08-30 00:36:04",
+      "message": "[SKIP] Content too short: GlucoFM: Foundation model for ..."
     }
   ]
 }
