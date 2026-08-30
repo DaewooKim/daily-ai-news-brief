@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-30 14:45:55",
+  "last_updated": "2026-08-30 14:45:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-30 14:45:06",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-30 14:45:19",
       "message": "Found 166 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-30 14:45:55",
       "message": "[PROCESSING] Analyzing: The Galaxy Z Flip 8 is at its best when there\u2019s friction..."
+    },
+    {
+      "timestamp": "2026-08-30 14:45:57",
+      "message": "[SKIP] Irrelevant (AI Filter): The Galaxy Z Flip 8 is at its best when there\u2019s friction"
     }
   ]
 }
