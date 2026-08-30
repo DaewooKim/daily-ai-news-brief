@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-30 20:12:42",
+  "last_updated": "2026-08-30 20:12:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-30 20:11:55",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-30 20:12:08",
       "message": "Found 160 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-30 20:12:42",
       "message": "[PROCESSING] Analyzing: Distraction-free writing gadget BYOK is adding custom extensions..."
+    },
+    {
+      "timestamp": "2026-08-30 20:12:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Distraction-free writing gadget BYOK is adding custom extensions"
     }
   ]
 }
