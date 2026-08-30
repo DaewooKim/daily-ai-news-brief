@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-30 11:32:02",
+  "last_updated": "2026-08-30 11:32:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-30 11:31:23",
-      "message": "[SUCCESS] Processed: \uc561\uccb4 \ub0c9\uac01 \uc635\uc158: RDHx, \uc9c1\uc811 \uce69 \ub0c9\uac01, \uce68\uc218 \ub0c9\uac01\n  > Summary: AI \uc791\uc5c5 \ubd80\ud558\ub294 \ub370\uc774\ud130 \uc13c\ud130 \ub799 \ubc00\ub3c4\ub97c \uacf5\uae30 \ub0c9\uac01\uc758 \ud55c\uacc4\ub97c \ub118\uc5b4 \ubc00\uc5b4\uc90d\ub2c8\ub2e4. \uc138 \uac00\uc9c0 \uc561..."
-    },
     {
       "timestamp": "2026-08-30 11:31:25",
       "message": "[PROCESSING] Analyzing: The OpenAI/Hugging Face incident feels \"more than 50%\" of the way to a full-blown AI takeover and as AI advances rapidly we may not get another warning shot (Ajeya Cotra/Planned Obsolescence)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-30 11:32:02",
       "message": "[PROCESSING] Analyzing: Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research..."
+    },
+    {
+      "timestamp": "2026-08-30 11:32:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research"
     }
   ]
 }
