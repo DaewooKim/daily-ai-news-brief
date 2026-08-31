@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-31 12:34:51",
+  "last_updated": "2026-08-31 12:34:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-31 12:34:18",
-      "message": "Reprocessing: Vulnerability-free container image startup Echo acquires Minimus"
-    },
     {
       "timestamp": "2026-08-31 12:34:19",
       "message": "[SKIP] Content too short: Vulnerability-free container i..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-31 12:34:51",
       "message": "[PROCESSING] Analyzing: NVIDIA Announces Jetson Orin Nano 2: Entry-Level Edge Board Gets New Ampere Silicon..."
+    },
+    {
+      "timestamp": "2026-08-31 12:34:54",
+      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, Jetson Orin Nano 2 \ubc1c\ud45c: \uc5d4\ud2b8\ub9ac \ub808\ubca8 \uc5e3\uc9c0 \ubcf4\ub4dc\uc5d0 \uc0c8\ub85c\uc6b4 \uc554\ud398\uc5b4 \uc2e4\ub9ac\ucf58 \ud0d1\uc7ac\n  > Summary: \uc5d4\ube44\ub514\uc544\uac00 \uc0c8\ub85c\uc6b4 \uc5d4\ud2b8\ub9ac \ub808\ubca8 \uc5e3\uc9c0 AI \ubcf4\ub4dc\uc778 Jetson Orin Nano 2\ub97c \ubc1c\ud45c\ud588..."
     }
   ]
 }
