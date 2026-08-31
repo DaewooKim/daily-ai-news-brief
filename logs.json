@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-31 16:57:46",
+  "last_updated": "2026-08-31 16:57:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-31 16:56:58",
-      "message": "[PROCESSING] Analyzing: Nvidia plans to invest $3.5B into MediaTek through convertible bonds; MediaTek forecasts AI chip revenue of about $2B this year (Bloomberg)..."
-    },
     {
       "timestamp": "2026-08-31 16:57:02",
       "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544, \ubbf8\ub514\uc5b4\ud14d\uc5d0 \uc804\ud658\uc0ac\ucc44\ub85c 35\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uacc4\ud68d; \ubbf8\ub514\uc5b4\ud14d, \uc62c\ud574 AI \uce69 \uc218\uc775 \uc57d 20\uc5b5 \ub2ec\ub7ec \uc608\uce21\n  > Summary: \uc5d4\ube44\ub514\uc544\uac00 \ubbf8\ub514\uc5b4\ud14d\uc5d0 35\uc5b5 \ub2ec\ub7ec\ub97c \uc804\ud658\uc0ac\ucc44 \ud615\ud0dc\ub85c \ud22c\uc790\ud560 \uacc4\ud68d\uc774\ub2e4. \uc774\ub294 \ub300\ub9cc \uce69 \uc81c\uc870\uc5c5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-31 16:57:46",
       "message": "[PROCESSING] Analyzing: RAIN Alliance Launches RFID Sensor Working Group..."
+    },
+    {
+      "timestamp": "2026-08-31 16:57:48",
+      "message": "[SKIP] Irrelevant (AI Filter): RAIN Alliance Launches RFID Sensor Working Group"
     }
   ]
 }
