@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-31 00:32:52",
+  "last_updated": "2026-08-31 00:32:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-31 00:32:03",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-08-31 00:32:15",
       "message": "Found 152 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-31 00:32:52",
       "message": "[PROCESSING] Analyzing: Sony Music Publishing and Warner Chappell are suing Anthropic..."
+    },
+    {
+      "timestamp": "2026-08-31 00:32:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Sony Music Publishing and Warner Chappell are suing Anthropic"
     }
   ]
 }
