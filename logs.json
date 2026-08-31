@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-31 15:47:59",
+  "last_updated": "2026-08-31 15:48:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-31 15:47:15",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-08-31 15:47:15",
       "message": "[PROCESSING] Analyzing: Debian won&#8217;t ban AI code from its Linux distribution..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-31 15:47:59",
       "message": "[SKIP] Content too short: The Network Is More Of Nvidia\u2019..."
+    },
+    {
+      "timestamp": "2026-08-31 15:48:00",
+      "message": "Reprocessing: NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure"
     }
   ]
 }
