@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-31 20:14:57",
+  "last_updated": "2026-08-31 20:14:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-31 20:14:16",
-      "message": "[SUCCESS] Processed: \ud558\ubc84\ub4dc \ub85c\uc2a4\ucfe8 \uc911\ud1f4\uc790\uac00 \uacbd\ucc30\uad00\uc744 \uc704\ud55c \u2018\ud558\ube44\u2019 \uad6c\ucd95\uc744 \uc704\ud574 600\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: \ube14\ub8e8 \ubcf4\uc774\uc2a4\ub294 \uc77c\ubc18\uc801\uc778 AI \ub3c4\uad6c\uac00 \uacf5\uacf5 \uc778\ud130\ub137\uc5d0\uc11c \uc811\uadfc\ud560 \uc218 \uc5c6\ub294 \ubd80\uc11c\ubcc4 \ubc95\ub960, \uc9c0\uc5ed \uc870..."
-    },
     {
       "timestamp": "2026-08-31 20:14:17",
       "message": "Reprocessing: Clipto uses AI to search terabytes of video and is now valued at $250M"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-31 20:14:57",
       "message": "[PROCESSING] Analyzing: DOE Retreat on Transmission Corridors Tests the Case for Building Ahead..."
+    },
+    {
+      "timestamp": "2026-08-31 20:14:59",
+      "message": "[SKIP] Irrelevant (AI Filter): DOE Retreat on Transmission Corridors Tests the Case for Building Ahead"
     }
   ]
 }
