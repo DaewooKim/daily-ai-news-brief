@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-08-31 16:57:21",
+  "last_updated": "2026-08-31 16:57:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-08-31 16:56:37",
-      "message": "[SUCCESS] Processed: \uc601\uad6d, \uacf5\uacf5 \uc11c\ube44\uc2a4\uc5d0 \uc9d1\uc911\ud558\ub294 \uad6d\ub0b4 AI \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \uc704\ud55c 1\uc5b5 \ud30c\uc6b4\ub4dc\uc758 \uc8fc\uad8c AI R&D \uc870\ub2ec \uacc4\ud68d \uacf5\uac1c\n  > Summary: \uc601\uad6d\uc740 \uacf5\uacf5 \uc11c\ube44\uc2a4\uc5d0 \uc9d1\uc911\ud558\ub294 \uad6d\ub0b4 AI \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \uc9c0\uc6d0\ud558\uae30 \uc704\ud574 1\uc5b5 \ud30c\uc6b4\ub4dc \uaddc\ubaa8\uc758 \uc8fc\uad8c..."
-    },
     {
       "timestamp": "2026-08-31 16:56:38",
       "message": "[PROCESSING] Analyzing: MapQuest becomes the top free iPhone app on the App Store in Canada and fourth on the US App Store after refusing to change Lake Ontario to Lake America (Joe Rossignol/MacRumors)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-08-31 16:57:21",
       "message": "[PROCESSING] Analyzing: Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research..."
+    },
+    {
+      "timestamp": "2026-08-31 16:57:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research"
     }
   ]
 }
