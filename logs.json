@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 02:52:36",
+  "last_updated": "2026-09-01 02:52:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 02:51:52",
-      "message": "[PROCESSING] Analyzing: Sources: AI sales and marketing startup Clay is raising a round led by Wellington at a $7B pre-money valuation, up from $5B via an employee tender in January (Lucinda Shen/Axios)..."
-    },
     {
       "timestamp": "2026-09-01 02:51:55",
       "message": "[SUCCESS] Processed: \uc18c\uc2a4: AI \uc601\uc5c5 \ubc0f \ub9c8\ucf00\ud305 \uc2a4\ud0c0\ud2b8\uc5c5 \ud074\ub808\uc774, 70\uc5b5 \ub2ec\ub7ec\uc758 \uc0ac\uc804 \ud3c9\uac00 \uac00\uce58\ub85c \uc6f0\ub9c1\ud134 \uc8fc\ub3c4\uc758 \uc790\uae08 \uc870\ub2ec\uc5d0 \ub098\uc120\ub2e4\n  > Summary: AI \uc601\uc5c5 \ubc0f \ub9c8\ucf00\ud305 \uc2a4\ud0c0\ud2b8\uc5c5 \ud074\ub808\uc774\uac00 \uc6f0\ub9c1\ud134\uc774 \uc8fc\ub3c4\ud558\ub294 \uc790\uae08 \uc870\ub2ec\uc744 \ud1b5\ud574 70\uc5b5 \ub2ec\ub7ec\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 02:52:36",
       "message": "[PROCESSING] Analyzing: Molecular Dynamics Study Explains Aluminum Dopant Activation In 4H-SiC (TU Wien, Silvaco)..."
+    },
+    {
+      "timestamp": "2026-09-01 02:52:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Molecular Dynamics Study Explains Aluminum Dopant Activation In 4H-SiC (TU Wien, Silvaco)"
     }
   ]
 }
