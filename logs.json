@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 07:15:22",
+  "last_updated": "2026-09-01 07:15:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 07:14:42",
-      "message": "Reprocessing: OpenAI supports California\u2019s bill to advance youth AI safety"
-    },
     {
       "timestamp": "2026-09-01 07:14:44",
       "message": "[PROCESSING] Analyzing: OpenAI supports California\u2019s bill to advance youth AI safety..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 07:15:22",
       "message": "[PROCESSING] Analyzing: Microscale Power Management Starts with Microflow Heat Measurement..."
+    },
+    {
+      "timestamp": "2026-09-01 07:15:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Microscale Power Management Starts with Microflow Heat Measurement"
     }
   ]
 }
