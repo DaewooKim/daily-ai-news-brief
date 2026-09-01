@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 10:33:44",
+  "last_updated": "2026-09-01 10:33:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 10:33:03",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-01 10:33:03",
       "message": "[PROCESSING] Analyzing: TP-Link\u2019s first Wi-Fi 8 router is almost here..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 10:33:44",
       "message": "[PROCESSING] Analyzing: Phil Schiller is leaving his biggest jobs at Apple..."
+    },
+    {
+      "timestamp": "2026-09-01 10:33:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Phil Schiller is leaving his biggest jobs at Apple"
     }
   ]
 }
