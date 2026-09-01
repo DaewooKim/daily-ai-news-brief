@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 09:28:37",
+  "last_updated": "2026-09-01 09:28:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 09:27:56",
-      "message": "[SUCCESS] Processed: AI \uc811\uadfc\uc131 \ud655\ub300\uc758 \uc774\uc815\ud45c\n  > Summary: ChatGPT \uad11\uace0\uac00 \uc5f0\uac04 10\uc5b5 \ub2ec\ub7ec\uc758 \uc218\uc775 \ub2ec\uc131\uc5d0 \uac00\uae4c\uc6cc\uc9c0\uace0, \ubb34\ub8cc \ubc0f \uc800\ub834\ud55c \uc635\uc158\uc744 ..."
-    },
     {
       "timestamp": "2026-09-01 09:27:57",
       "message": "[PROCESSING] Analyzing: Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 09:28:37",
       "message": "[PROCESSING] Analyzing: NewPower Worldwide Expands Credit Facility to $750 Million to Support Global Growth and Customer Demand..."
+    },
+    {
+      "timestamp": "2026-09-01 09:28:39",
+      "message": "[SKIP] Irrelevant (AI Filter): NewPower Worldwide Expands Credit Facility to $750 Million to Support Global Growth and Customer Demand"
     }
   ]
 }
