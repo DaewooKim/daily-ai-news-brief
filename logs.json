@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 10:36:14",
+  "last_updated": "2026-09-01 10:36:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 10:35:32",
-      "message": "[SUCCESS] Processed: \ud64d\ucf69 \uc0c1\uc7a5 Z.ai, 2026\ub144 \uc0c1\ubc18\uae30 \uc218\uc775 5\ubc30 \uc99d\uac00\ud574 \uc57d 1\uc5b5 4200\ub9cc \ub2ec\ub7ec \uae30\ub85d\n  > Summary: \uc911\uad6d AI \ud68c\uc0ac Z.ai\ub294 2026\ub144 \uc0c1\ubc18\uae30 \uc218\uc775\uc774 \uc804\ub144 \ub300\ube44 \uac70\uc758 5\ubc30 \uc99d\uac00\ud558\uc5ec 9\uc5b5 5..."
-    },
     {
       "timestamp": "2026-09-01 10:35:34",
       "message": "[PROCESSING] Analyzing: Study: ~33% of UK adults say they used illegal streaming services in the past three months, costing the sports, TV, and film industries ~\u00a31.4B in annual revenue (Daniel Thomas/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 10:36:14",
       "message": "[PROCESSING] Analyzing: Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research..."
+    },
+    {
+      "timestamp": "2026-09-01 10:36:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research"
     }
   ]
 }
