@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 08:23:57",
+  "last_updated": "2026-09-01 08:23:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 08:23:10",
-      "message": "[SUCCESS] Processed: \ubc18\ub3c4\uccb4 \uc0b0\uc5c5 \uae30\uc220 \ub17c\ubb38 \uc694\uc57d: 9\uc6d4 1\uc77c\n  > Summary: \ucd5c\uadfc \ubc18\ub3c4\uccb4 \uacf5\ud559 \ub77c\uc774\ube0c\ub7ec\ub9ac\uc5d0 \ucd94\uac00\ub41c \uae30\uc220 \ub17c\ubb38\ub4e4: LLM MoE \ud6c8\ub828\uc744 \uc704\ud55c \uc6e8\uc774\ud37c \uaddc\ubaa8..."
-    },
     {
       "timestamp": "2026-09-01 08:23:12",
       "message": "Reprocessing: AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 08:23:57",
       "message": "[PROCESSING] Analyzing: RAIN Alliance Launches RFID Sensor Working Group..."
+    },
+    {
+      "timestamp": "2026-09-01 08:23:59",
+      "message": "[SKIP] Irrelevant (AI Filter): RAIN Alliance Launches RFID Sensor Working Group"
     }
   ]
 }
