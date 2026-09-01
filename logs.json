@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-01 02:53:41",
+  "last_updated": "2026-09-01 02:53:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-01 02:53:09",
-      "message": "[PROCESSING] Analyzing: SensiBel Launches 84-dBA SNR Optical MEMS Microphone..."
-    },
     {
       "timestamp": "2026-09-01 02:53:11",
       "message": "[SKIP] Irrelevant (AI Filter): SensiBel Launches 84-dBA SNR Optical MEMS Microphone"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-01 02:53:41",
       "message": "Reprocessing: Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances"
+    },
+    {
+      "timestamp": "2026-09-01 02:53:42",
+      "message": "[SKIP] Content too short: Amazon targets data-intensive ..."
     }
   ]
 }
