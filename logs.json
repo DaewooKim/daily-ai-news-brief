@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 10:50:19",
+  "last_updated": "2026-09-04 10:50:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 10:49:36",
-      "message": "[PROCESSING] Analyzing: Sources: DeepSeek plans to use 160K+ of Huawei's Ascend 950DT chips at an Inner Mongolia data center, which would create one of the largest Huawei chip clusters (Mackenzie Hawkins/Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-04 10:49:40",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: DeepSeek, \ub0b4\ubabd\uace8 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ud654\uc6e8\uc774 Ascend 950DT \uce69 16\ub9cc \uac1c \uc774\uc0c1\uc744 \uc0ac\uc6a9\ud560 \uacc4\ud68d\n  > Summary: DeepSeek\ub294 \ub0b4\ubabd\uace8\uc5d0\uc11c \ub300\uaddc\ubaa8 \ub370\uc774\ud130 \uc13c\ud130\ub97c \uad6c\ucd95\ud558\uba74\uc11c \ud654\uc6e8\uc774\uc758 Ascend 950D..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 10:50:19",
       "message": "[PROCESSING] Analyzing: Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope..."
+    },
+    {
+      "timestamp": "2026-09-04 10:50:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope"
     }
   ]
 }
