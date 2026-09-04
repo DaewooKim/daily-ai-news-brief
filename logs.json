@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 22:56:26",
+  "last_updated": "2026-09-04 22:56:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 22:55:47",
-      "message": "Reprocessing: OpenAI says it can't read all of Astra's reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world's most aligned model (Celia Ford/Transformer)"
-    },
     {
       "timestamp": "2026-09-04 22:55:48",
       "message": "[PROCESSING] Analyzing: OpenAI says it can't read all of Astra's reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world's most aligned model (Celia Ford/Transformer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 22:56:26",
       "message": "[PROCESSING] Analyzing: Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan..."
+    },
+    {
+      "timestamp": "2026-09-04 22:56:29",
+      "message": "[SKIP] Irrelevant (AI Filter): Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan"
     }
   ]
 }
