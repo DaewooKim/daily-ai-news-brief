@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 14:16:48",
+  "last_updated": "2026-09-04 14:16:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 14:16:13",
-      "message": "[PROCESSING] Analyzing: SensiBel Launches 84-dBA SNR Optical MEMS Microphone..."
-    },
     {
       "timestamp": "2026-09-04 14:16:15",
       "message": "[SKIP] Irrelevant (AI Filter): SensiBel Launches 84-dBA SNR Optical MEMS Microphone"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 14:16:48",
       "message": "Reprocessing: OpenAI starts rolling out its next-generation GPT-6 Astra model"
+    },
+    {
+      "timestamp": "2026-09-04 14:16:49",
+      "message": "[SKIP] Content too short: OpenAI starts rolling out its ..."
     }
   ]
 }
