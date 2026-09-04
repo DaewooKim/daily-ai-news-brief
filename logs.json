@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 05:04:20",
+  "last_updated": "2026-09-04 05:04:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 05:03:38",
-      "message": "[SUCCESS] Processed: AI \uc811\uadfc\uc131 \ud655\ub300\uc758 \uc774\uc815\ud45c\n  > Summary: ChatGPT\uc758 \uad11\uace0 \uc218\uc775\uc774 \uc5f0\uac04 10\uc5b5 \ub2ec\ub7ec\uc5d0 \ub3c4\ub2ec\ud558\uace0 \uc804 \uc138\uacc4\uc801\uc73c\ub85c \ud655\uc7a5\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-09-04 05:03:39",
       "message": "[PROCESSING] Analyzing: The sameness problem behind those unappetizing AI-generated menus..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 05:04:20",
       "message": "[PROCESSING] Analyzing: Wonderful more than doubles its valuation to $5B in under 6 months..."
+    },
+    {
+      "timestamp": "2026-09-04 05:04:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Wonderful more than doubles its valuation to $5B in under 6 months"
     }
   ]
 }
