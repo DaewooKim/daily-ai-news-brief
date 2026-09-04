@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 06:15:13",
+  "last_updated": "2026-09-04 06:15:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 06:14:32",
-      "message": "[PROCESSING] Analyzing: Q&A with Jensen Huang and Cl\u00e9ment Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more (CNBC)..."
-    },
     {
       "timestamp": "2026-09-04 06:14:35",
       "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544-\ud5c8\uae45\ud398\uc774\uc2a4 \uac70\ub798\uc5d0 \ub300\ud55c \uc820\uc2a8 \ud669\uacfc \ud074\ub808\ub9dd \ub378\ub791\uadf8\uc758 Q&A\n  > Summary: CNBC\uc758 \ub3c5\uc810 \uc778\ud130\ubdf0\uc5d0\uc11c \uc5d4\ube44\ub514\uc544 CEO \uc820\uc2a8 \ud669\uacfc \ud5c8\uae45\ud398\uc774\uc2a4\uc758 \ud074\ub808\ub9dd \ub378\ub791\uadf8\uac00 \uc5d4\ube44\ub514\uc544..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 06:15:13",
       "message": "[PROCESSING] Analyzing: Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope..."
+    },
+    {
+      "timestamp": "2026-09-04 06:15:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope"
     }
   ]
 }
