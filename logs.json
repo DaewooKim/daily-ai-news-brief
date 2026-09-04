@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 09:41:14",
+  "last_updated": "2026-09-04 09:41:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 09:40:32",
-      "message": "Reprocessing: The Corrosion Blind Spot in the AI Buildout"
-    },
     {
       "timestamp": "2026-09-04 09:40:33",
       "message": "[PROCESSING] Analyzing: The Corrosion Blind Spot in the AI Buildout..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 09:41:14",
       "message": "[PROCESSING] Analyzing: Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures (Axios)..."
+    },
+    {
+      "timestamp": "2026-09-04 09:41:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures (Axios)"
     }
   ]
 }
