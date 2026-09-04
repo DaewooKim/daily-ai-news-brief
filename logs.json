@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 10:51:44",
+  "last_updated": "2026-09-04 10:51:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 10:51:07",
-      "message": "[PROCESSING] Analyzing: SomDevices, Celus Bring \u03bcSMARC Modules to Design Platform..."
-    },
     {
       "timestamp": "2026-09-04 10:51:10",
       "message": "[SUCCESS] Processed: SomDevices, Celus\uac00 \ub514\uc790\uc778 \ud50c\ub7ab\ud3fc\uc5d0 \u03bcSMARC \ubaa8\ub4c8\uc744 \ub3c4\uc785\ud569\ub2c8\ub2e4\n  > Summary: SomDevices\uc640 Celus\ub294 SomDevices\uc758 \u03bcSMARC \uc2dc\uc2a4\ud15c \uc628 \ubaa8\ub4c8(SOM..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 10:51:44",
       "message": "Reprocessing: UiPath beats on revenue but its stock tanks after-hours"
+    },
+    {
+      "timestamp": "2026-09-04 10:51:46",
+      "message": "[SKIP] Content too short: UiPath beats on revenue but it..."
     }
   ]
 }
