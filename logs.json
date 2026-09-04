@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-04 15:26:44",
-  "status": "idle",
+  "last_updated": "2026-09-04 16:27:23",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-04 15:25:04",
-      "message": "[SKIP] Content too short: OpenAI starts rolling out its ..."
+      "timestamp": "2026-09-04 16:27:11",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-04 15:25:05",
-      "message": "Reprocessing: Rackspace launches managed multitenant cloud on VCF 9.1"
+      "timestamp": "2026-09-04 16:27:12",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-04 15:25:07",
-      "message": "[SKIP] Content too short: Rackspace launches managed mul..."
+      "timestamp": "2026-09-04 16:27:12",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-04 15:25:09",
-      "message": "Reprocessing: Zscaler beats Q4 estimates but shares hold flat after-hours"
+      "timestamp": "2026-09-04 16:27:23",
+      "message": "Found 170 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-04 15:25:11",
-      "message": "[SKIP] Content too short: Zscaler beats Q4 estimates but..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:12",
-      "message": "Reprocessing: Broadcom and Supermicro unify AI factory management"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:14",
-      "message": "[SKIP] Content too short: Broadcom and Supermicro unify ..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:16",
-      "message": "Reprocessing: Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:18",
-      "message": "[SKIP] Content too short: Nvidia confirms $12.9B acquisi..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:20",
-      "message": "Reprocessing: ThinkOn extends VMware control plane for private AI infrastructure"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:21",
-      "message": "[SKIP] Content too short: ThinkOn extends VMware control..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:24",
-      "message": "Reprocessing: The AI model is table stakes: Enterprise data is where the battle begins"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:25",
-      "message": "[SKIP] Content too short: The AI model is table stakes: ..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:27",
-      "message": "Reprocessing: Arvato and Broadcom integrate security for sovereign private cloud"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:29",
-      "message": "[SKIP] Content too short: Arvato and Broadcom integrate ..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:31",
-      "message": "Reprocessing: CrowdStrike\u2019s Falcon Guardian shrinks an AI agent\u2019s blast radius"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:32",
-      "message": "[SKIP] Content too short: CrowdStrike\u2019s Falcon Guardian ..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:35",
-      "message": "Reprocessing: Guardio raises $40M at $1.1B valuation to enhance consumer cybersecurity"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:37",
-      "message": "[SKIP] Content too short: Guardio raises $40M at $1.1B v..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:38",
-      "message": "Reprocessing: CrowdStrike builds an identity provider for AI agents, not humans"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:40",
-      "message": "[SKIP] Content too short: CrowdStrike builds an identity..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:42",
-      "message": "Reprocessing: AWS expands Amazon EVS for faster VMware cloud migration"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:44",
-      "message": "[SKIP] Content too short: AWS expands Amazon EVS for fas..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:45",
-      "message": "Reprocessing: When seconds count: Extending EDR to ADCs to erase the AI exploit window"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:47",
-      "message": "[SKIP] Content too short: When seconds count: Extending ..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:49",
-      "message": "Reprocessing: Agentic AI is compressing attacker intrusion timelines to minutes"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:51",
-      "message": "[SKIP] Content too short: Agentic AI is compressing atta..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:53",
-      "message": "Reprocessing: Market research startup askpolly raises $3M to transform social media chatter into verifiable insights"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:55",
-      "message": "[SKIP] Content too short: Market research startup askpol..."
-    },
-    {
-      "timestamp": "2026-09-04 15:25:57",
-      "message": "Reprocessing: Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet"
-    },
-    {
-      "timestamp": "2026-09-04 15:25:59",
-      "message": "[SKIP] Content too short: Meta says it has caught up wit..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:00",
-      "message": "Reprocessing: Snowflake knocks it out the park with a stellar earnings and revenue beat"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:02",
-      "message": "[SKIP] Content too short: Snowflake knocks it out the pa..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:04",
-      "message": "Reprocessing: Capsule Security fine-tunes Nvidia Nemotron models to stop rogue AI agents"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:06",
-      "message": "[SKIP] Content too short: Capsule Security fine-tunes Nv..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:08",
-      "message": "Reprocessing: Google launches two Gemini 3.8 models with cutting-edge reasoning capabilities"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:10",
-      "message": "[SKIP] Content too short: Google launches two Gemini 3.8..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:11",
-      "message": "[PROCESSING] Analyzing: Update on RISC-V Standards and Adoption at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Update on RISC-V Standards and Adoption at Hot Chips 2026"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:16",
-      "message": "Reprocessing: NVIDIA and Mediatek Ink $3.5B Investment Deal, Accelerate NVLink Fusion Adoption"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:18",
-      "message": "[PROCESSING] Analyzing: NVIDIA and Mediatek Ink $3.5B Investment Deal, Accelerate NVLink Fusion Adoption..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:21",
-      "message": "[SUCCESS] Processed: NVIDIA\uc640 MediaTek, 35\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uacc4\uc57d \uccb4\uacb0, NVLink Fusion \ucc44\ud0dd \uac00\uc18d\ud654\n  > Summary: NVIDIA\uc640 MediaTek\uc740 \uc774\ubc88 \uc8fc\uc5d0 \uc0c8\ub85c\uc6b4 \uacc4\uc57d\uc744 \uccb4\uacb0\ud558\uc5ec \ub450 \ud68c\uc0ac\uc758 \uc7ac\uc815\uc801 \ubc0f \uae30..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:23",
-      "message": "[PROCESSING] Analyzing: Dell Pro 5 14 Laptop Review A 14in Intel Core Notebook..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:25",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell Pro 5 14 Laptop Review A 14in Intel Core Notebook"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:27",
-      "message": "Reprocessing: GitHub Copilot app for Beginners: Run several agents at once"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:28",
-      "message": "[PROCESSING] Analyzing: GitHub Copilot app for Beginners: Run several agents at once..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:32",
-      "message": "[SUCCESS] Processed: \ucd08\ubcf4\uc790\ub97c \uc704\ud55c GitHub Copilot \uc571: \uc5ec\ub7ec \uc5d0\uc774\uc804\ud2b8\ub97c \ub3d9\uc2dc\uc5d0 \uc2e4\ud589\ud558\uae30\n  > Summary: \uc774 \uae30\uc0ac\ub294 GitHub Copilot \uc571\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc5ec\ub7ec AI \uc5d0\uc774\uc804\ud2b8\ub97c \ub3c5\ub9bd\uc801\uc73c\ub85c \uc2e4\ud589\ud560..."
-    },
-    {
-      "timestamp": "2026-09-04 15:26:34",
-      "message": "Completed! New: 8, Updated: 51"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:38",
-      "message": "Saved 59 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-04 15:26:41",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-04 16:27:23",
+      "message": "[PROCESSING] Analyzing: Microsoft says virtually nobody was grabbing NYT articles through its chatbot..."
     }
   ]
 }
