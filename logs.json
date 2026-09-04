@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 11:58:33",
+  "last_updated": "2026-09-04 11:58:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 11:57:51",
-      "message": "[PROCESSING] Analyzing: Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year (Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-04 11:57:53",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \ubb38\uc0f7, \uc62c\ud574 \uc548\uc5d0 \ud64d\ucf69 IPO\uc5d0\uc11c 30\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 50\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud560 \uc218 \uc788\uc5b4\n  > Summary: \ubb38\uc0f7 AI\uac00 \uc62c\ud574 \uc548\uc5d0 \uc608\uc815\ub41c \ud64d\ucf69 \uc0c1\uc7a5 \uacf5\ubaa8\uc5d0\uc11c \ucd5c\ub300 50\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud560 \uacc4\ud68d\uc744 \uc218\ub9bd\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 11:58:33",
       "message": "[PROCESSING] Analyzing: Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)..."
+    },
+    {
+      "timestamp": "2026-09-04 11:58:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)"
     }
   ]
 }
