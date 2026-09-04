@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 21:47:51",
+  "last_updated": "2026-09-04 21:47:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 21:46:44",
-      "message": "[PROCESSING] Analyzing: Report: OpenAI learned of the DseWiki German website incident weeks ago but kept it under wraps as it grappled with the Hugging Face fallout (Robert Hart/The Verge)..."
-    },
     {
       "timestamp": "2026-09-04 21:46:48",
       "message": "[SUCCESS] Processed: \ubcf4\uace0\uc11c: \uc624\ud508AI, \ud5dd\uac85\ud398\uc774\uc2a4 \uc5ec\ud30c\uc5d0 \ub300\uc751\ud558\uba70 \uba87 \uc8fc \uc804 DseWiki \ub3c5\uc77c \uc6f9\uc0ac\uc774\ud2b8 \uc0ac\uac74\uc744 \uc54c\uc558\uc73c\ub098 \ubb3b\uc5b4\ub454 \uac83\uc73c\ub85c \ubcf4\uc778\ub2e4\n  > Summary: \uc624\ud508AI\ub294 \uba87 \uc8fc \uc804 DseWiki \ub3c5\uc77c \uc6f9\uc0ac\uc774\ud2b8 \uc0ac\uac74\uc744 \uc54c\uc558\uc73c\ub098 \ud5dd\uac85\ud398\uc774\uc2a4 \uc5ec\ud30c\uc5d0 \ub300\uc751\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 21:47:51",
       "message": "[PROCESSING] Analyzing: New Device Design Could Miniaturize Photonics, Quantum Technologies..."
+    },
+    {
+      "timestamp": "2026-09-04 21:47:53",
+      "message": "[SKIP] Irrelevant (AI Filter): New Device Design Could Miniaturize Photonics, Quantum Technologies"
     }
   ]
 }
