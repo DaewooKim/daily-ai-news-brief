@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 07:23:21",
+  "last_updated": "2026-09-04 07:23:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 07:22:41",
-      "message": "[SUCCESS] Processed: AI \uad6c\ucd95\uc758 \ubd80\uc2dd \ub208\ubb34\ub2ac\n  > Summary: AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ub300\uaddc\ubaa8 \uc790\ubcf8 \ud22c\uc790\uac00 \uac74\uc124 \uc911\uc5d0 \ubc1c\uc0dd\ud558\ub294 \ubd80\uc2dd\uc73c\ub85c \uc778\ud574 \uc704\ud5d8\uc5d0 \ucc98\ud574 \uc788\uc73c..."
-    },
     {
       "timestamp": "2026-09-04 07:22:43",
       "message": "Reprocessing: AWS Wires a New US AI Route Across the Pacific"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 07:23:21",
       "message": "[PROCESSING] Analyzing: Oura files for a US IPO, reporting a $924.3M net loss on $1.21B in revenue for the nine months ended June 30, vs. a $182.8M net loss on $697.6M a year earlier (Subrat Patnaik/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-04 07:23:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Oura files for a US IPO, reporting a $924.3M net loss on $1.21B in revenue for the nine months ended June 30, vs. a $182.8M net loss on $697.6M a year earlier (Subrat Patnaik/Bloomberg)"
     }
   ]
 }
