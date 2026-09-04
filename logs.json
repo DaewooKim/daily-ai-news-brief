@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 05:06:01",
+  "last_updated": "2026-09-04 05:06:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 05:05:20",
-      "message": "[SUCCESS] Processed: \ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \ub0c9\uac01\uc218\ub97c \uc7ac\uc0ac\uc6a9\ud558\uc9c0 \uc54a\ub294 \uc774\uc720\n  > Summary: \ub9ce\uc740 \ub370\uc774\ud130 \uc13c\ud130\ub294 \uacbd\uc81c\uc801 \uc774\uc720\ub85c \uc778\ud574 \uc99d\ubc1c\uc2dd \ub0c9\uac01\uc758 \ub300\uc548\uc744 \ucc44\ud0dd\ud558\uc9c0 \uc54a\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ub7ec..."
-    },
     {
       "timestamp": "2026-09-04 05:05:21",
       "message": "[PROCESSING] Analyzing: California Judge Orders Full Environmental Review of 330 MW Data Center..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 05:06:01",
       "message": "[PROCESSING] Analyzing: Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)..."
+    },
+    {
+      "timestamp": "2026-09-04 05:06:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)"
     }
   ]
 }
