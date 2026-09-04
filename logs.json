@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-04 04:01:02",
-  "status": "idle",
+  "last_updated": "2026-09-04 05:01:39",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-04 03:59:21",
-      "message": "[SKIP] Irrelevant (AI Filter): SensiBel Launches 84-dBA SNR Optical MEMS Microphone"
+      "timestamp": "2026-09-04 05:01:28",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-04 03:59:23",
-      "message": "[SKIP] Content too short: Nvidia PAIR makes it easy to c..."
+      "timestamp": "2026-09-04 05:01:29",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-04 03:59:24",
-      "message": "[SKIP] Content too short: Nvidia\u2019s Hugging Face deal is ..."
+      "timestamp": "2026-09-04 05:01:29",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-04 03:59:26",
-      "message": "[SKIP] Content too short: Upwind reels in $300M for its ..."
+      "timestamp": "2026-09-04 05:01:39",
+      "message": "Found 165 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-04 03:59:28",
-      "message": "[SKIP] Content too short: Smart ring maker Oura files fo..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:29",
-      "message": "[SKIP] Content too short: UiPath beats on revenue but it..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:31",
-      "message": "[SKIP] Content too short: Cloudflare taps OpenAI\u2019s cyber..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:32",
-      "message": "[SKIP] Content too short: Self-driving truck firm PlusAI..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:34",
-      "message": "[SKIP] Content too short: OpenAI starts rolling out its ..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:36",
-      "message": "[SKIP] Content too short: Rackspace launches managed mul..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:37",
-      "message": "[SKIP] Content too short: Zscaler beats Q4 estimates but..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:39",
-      "message": "[SKIP] Content too short: Broadcom and Supermicro unify ..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:41",
-      "message": "[SKIP] Content too short: Nvidia confirms $12.9B acquisi..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:42",
-      "message": "[SKIP] Content too short: ThinkOn extends VMware control..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:44",
-      "message": "[SKIP] Content too short: The AI model is table stakes: ..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:46",
-      "message": "[SKIP] Content too short: Arvato and Broadcom integrate ..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:47",
-      "message": "[SKIP] Content too short: CrowdStrike\u2019s Falcon Guardian ..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:49",
-      "message": "[SKIP] Content too short: Guardio raises $40M at $1.1B v..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:50",
-      "message": "[SKIP] Content too short: CrowdStrike builds an identity..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:52",
-      "message": "[SKIP] Content too short: AWS expands Amazon EVS for fas..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:54",
-      "message": "[SKIP] Content too short: When seconds count: Extending ..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:55",
-      "message": "[SKIP] Content too short: Agentic AI is compressing atta..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:57",
-      "message": "[SKIP] Content too short: Market research startup askpol..."
-    },
-    {
-      "timestamp": "2026-09-04 03:59:59",
-      "message": "[SKIP] Content too short: Meta says it has caught up wit..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:01",
-      "message": "[SKIP] Content too short: Snowflake knocks it out the pa..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:02",
-      "message": "[SKIP] Content too short: Capsule Security fine-tunes Nv..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:04",
-      "message": "[SKIP] Content too short: Google launches two Gemini 3.8..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:06",
-      "message": "[SKIP] Content too short: As AI security concerns rise, ..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:08",
-      "message": "[SKIP] Content too short: Broadcom beats expectations as..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:09",
-      "message": "[SKIP] Content too short: AI demand lifts HPE and NetApp..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:11",
-      "message": "[SKIP] Content too short: Broadcom and Cisco tie AI fact..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:12",
-      "message": "[PROCESSING] Analyzing: Cheap Desktop 400GbE Switch MikroTik CRS804-4DDQ-hRM Review..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:16",
-      "message": "[SUCCESS] Processed: \uc800\ub834\ud55c \ub370\uc2a4\ud06c\ud0d1 400GbE \uc2a4\uc704\uce58 MikroTik CRS804-4DDQ-hRM \ub9ac\ubdf0\n  > Summary: \uc774 \uae30\uc0ac\ub294 MikroTik CRS804-4DDQ-hRM\uc774\ub77c\ub294 4\ud3ec\ud2b8 400GbE \ub124\ud2b8\uc6cc\ud06c ..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:17",
-      "message": "[PROCESSING] Analyzing: Update on RISC-V Standards and Adoption at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:20",
-      "message": "[SKIP] Irrelevant (AI Filter): Update on RISC-V Standards and Adoption at Hot Chips 2026"
-    },
-    {
-      "timestamp": "2026-09-04 04:00:22",
-      "message": "[PROCESSING] Analyzing: NVIDIA RISC-V for NVIDIA GPUs at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:25",
-      "message": "[SUCCESS] Processed: NVIDIA RISC-V, NVIDIA GPU\uc5d0 \ub300\ud55c Hot Chips 2026\n  > Summary: NVIDIA\ub294 Hot Chips 2026\uc5d0\uc11c RISC-V\uc640 NVLink Fusion \uc2dc\uc2a4\ud15c..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:27",
-      "message": "[PROCESSING] Analyzing: NVIDIA and Mediatek Ink $3.5B Investment Deal, Accelerate NVLink Fusion Adoption..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:30",
-      "message": "[SUCCESS] Processed: NVIDIA\uc640 MediaTek, 35\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uac70\ub798 \uccb4\uacb0\ub85c NVLink Fusion \ucc44\ud0dd \uac00\uc18d\ud654\n  > Summary: NVIDIA\uc640 \ubbf8\ub514\uc5b4\ud14d\uc774 \uc0c8\ub85c\uc6b4 \uae08\uc735 \ubc0f \uae30\uc220 \uad00\uacc4\ub97c \uad6c\ucd95\ud558\ub294 35\uc5b5 \ub2ec\ub7ec\uc758 \ud22c\uc790 \uac70\ub798\ub97c ..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:32",
-      "message": "[PROCESSING] Analyzing: Dell Pro 5 14 Laptop Review A 14in Intel Core Notebook..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:35",
-      "message": "[SKIP] Irrelevant (AI Filter): Dell Pro 5 14 Laptop Review A 14in Intel Core Notebook"
-    },
-    {
-      "timestamp": "2026-09-04 04:00:36",
-      "message": "[PROCESSING] Analyzing: GitHub Copilot app for Beginners: Run several agents at once..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:40",
-      "message": "[SUCCESS] Processed: \ucd08\ubcf4\uc790\ub97c \uc704\ud55c GitHub Copilot \uc571: \uc5ec\ub7ec \uc5d0\uc774\uc804\ud2b8\ub97c \ub3d9\uc2dc\uc5d0 \uc2e4\ud589\ud558\uae30\n  > Summary: GitHub Copilot \uc571\uc744 \uc0ac\uc6a9\ud558\uba74 \uc5ec\ub7ec AI \uc5d0\uc774\uc804\ud2b8\ub97c \ub3d9\uc2dc\uc5d0 \uc2e4\ud589\ud558\uc5ec \ud6a8\uc728\uc801\uc778 \uac1c..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:41",
-      "message": "[PROCESSING] Analyzing: Decoding the new AI lingo: Loops, harnesses, squads, hill climbing\u2026 oh my!..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:45",
-      "message": "[SUCCESS] Processed: AI \uc6a9\uc5b4 \ud574\ub3c5\ud558\uae30: \ub8e8\ud504, \ud558\ub124\uc2a4, \uc2a4\ucffc\ub4dc, \ud790 \ud074\ub77c\uc774\ubc0d\u2026 \uc624 \ub9c8\uc774\uac13!\n  > Summary: AI \ub3c4\uad6c\uac00 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc5d0 \ub3c4\uc785\ud55c \uc0c8\ub85c\uc6b4 \uc6a9\uc5b4\ub4e4\uc774 \uc18c\uac1c\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 \ub8e8..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:47",
-      "message": "[PROCESSING] Analyzing: How we make AI coding more cost efficient without sacrificing task quality..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:51",
-      "message": "[SUCCESS] Processed: AI \ucf54\ub529\uc744 \ube44\uc6a9 \ud6a8\uc728\uc801\uc73c\ub85c \ub9cc\ub4dc\ub294 \ubc29\ubc95, \uc791\uc5c5 \ud488\uc9c8 \uc190\uc0c1 \uc5c6\uc774\n  > Summary: AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uc640 \uc791\uc5c5\ud560 \ub54c \ud488\uc9c8\uc740 \uc911\uc694\ud558\uc9c0\ub9cc \uc9c4\uc815\ud55c \ud6a8\uc728\uc131\uc740 \ube60\ub974\uace0 \ud6a8\uc728\uc801\uc73c\ub85c \uc791\uc5c5\uc744..."
-    },
-    {
-      "timestamp": "2026-09-04 04:00:53",
-      "message": "Completed! New: 117, Updated: 7"
-    },
-    {
-      "timestamp": "2026-09-04 04:00:57",
-      "message": "Saved 124 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-04 04:01:00",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-04 05:01:39",
+      "message": "Reprocessing: Nvidia will officially bring DLSS 5 to older GPUs \u2014 but won\u2019t give gamers full control"
     }
   ]
 }
