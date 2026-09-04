@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 13:06:39",
+  "last_updated": "2026-09-04 13:06:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 13:05:57",
-      "message": "[SUCCESS] Processed: SLB\uc758 41\uc5b5 \ub2ec\ub7ec \ucf08\ube44\uc628 \uac70\ub798\ub85c AI \ub370\uc774\ud130 \uc13c\ud130 \ud655\ub300\n  > Summary: SLB\uac00 41\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \ucf08\ube44\uc628 \uac70\ub798\ub97c \ud1b5\ud574 \ub370\uc774\ud130 \uc13c\ud130 \ube44\uc988\ub2c8\uc2a4\ub97c \uc5f4 \uad00\ub9ac \ubd84\uc57c\ub85c \ud655..."
-    },
     {
       "timestamp": "2026-09-04 13:05:59",
       "message": "[PROCESSING] Analyzing: Some European defense officials push back on efforts to cut reliance on US tech, warning it could leave Europe with inferior systems and greater cyber risks (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 13:06:39",
       "message": "[PROCESSING] Analyzing: Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope..."
+    },
+    {
+      "timestamp": "2026-09-04 13:06:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope"
     }
   ]
 }
