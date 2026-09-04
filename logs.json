@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-04 14:18:09",
+  "last_updated": "2026-09-04 14:18:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-04 14:17:33",
-      "message": "[SKIP] Content too short: AWS expands Amazon EVS for fas..."
-    },
     {
       "timestamp": "2026-09-04 14:17:35",
       "message": "Reprocessing: When seconds count: Extending EDR to ADCs to erase the AI exploit window"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-04 14:18:09",
       "message": "[PROCESSING] Analyzing: Update on RISC-V Standards and Adoption at Hot Chips 2026..."
+    },
+    {
+      "timestamp": "2026-09-04 14:18:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Update on RISC-V Standards and Adoption at Hot Chips 2026"
     }
   ]
 }
