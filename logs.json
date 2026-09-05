@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 02:19:48",
+  "last_updated": "2026-09-05 02:19:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 02:19:12",
-      "message": "[SUCCESS] Processed: Nvidia\ub294 RTX 50 \uc2dc\ub9ac\uc988 \uc131\ub2a5\uc774 \ub354 \uc644\uc804\ud788 \uc870\uc815\ub41c \ud6c4\uc5d0 \uad6c\ud615 RTX 40 \uc2dc\ub9ac\uc988 GPU\uc5d0 DLSS 5\ub97c \uc81c\uacf5\ud560 \uacc4\ud68d\uc774\ub77c\uace0 \uc804\ud55c\ub2e4.\n  > Summary: Nvidia\ub294 DLSS 5\ub97c RTX 50 \uc2dc\ub9ac\uc988 \uc131\ub2a5\uc774 \ub354\uc6b1 \uc870\uc815\ub41c \ud6c4\uc5d0 \uad6c\ud615 RTX 40..."
-    },
     {
       "timestamp": "2026-09-05 02:19:14",
       "message": "Reprocessing: OpenAI rolls out GPT-6 Astra to Plus, Pro, Enterprise, and Business Standard and Premium users in ChatGPT Work and Codex and in the API (Zac Hall/9to5Mac)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 02:19:48",
       "message": "[PROCESSING] Analyzing: Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan..."
+    },
+    {
+      "timestamp": "2026-09-05 02:19:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan"
     }
   ]
 }
