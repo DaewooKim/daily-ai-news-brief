@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 20:13:26",
+  "last_updated": "2026-09-05 20:13:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 20:12:48",
-      "message": "[SUCCESS] Processed: SLB\uc758 41\uc5b5 \ub2ec\ub7ec \ucf08\ube44\uc628 \uac70\ub798\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \ucd94\uc9c4 \ud655\ub300\n  > Summary: SLB\uac00 41\uc5b5 \ub2ec\ub7ec\uc5d0 \ucf08\ube44\uc628\uc744 \uc778\uc218\ud568\uc73c\ub85c\uc368 \ub370\uc774\ud130 \uc13c\ud130 \ube44\uc988\ub2c8\uc2a4\ub97c \uc5f4 \uad00\ub9ac \ubd84\uc57c\ub85c \ud655\uc7a5\ud558..."
-    },
     {
       "timestamp": "2026-09-05 20:12:49",
       "message": "[PROCESSING] Analyzing: Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas (Jean Eaglesham/Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 20:13:26",
       "message": "[PROCESSING] Analyzing: Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan..."
+    },
+    {
+      "timestamp": "2026-09-05 20:13:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan"
     }
   ]
 }
