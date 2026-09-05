@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 19:07:40",
+  "last_updated": "2026-09-05 19:07:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 19:07:06",
-      "message": "[SUCCESS] Processed: SomDevices, Celus\uac00 \u03bcSMARC \ubaa8\ub4c8\uc744 \ub514\uc790\uc778 \ud50c\ub7ab\ud3fc\uc5d0 \ub3c4\uc785\ud558\ub2e4\n  > Summary: SomDevices\uc640 Celus\ub294 SomDevices\uc758 \u03bcSMARC \uc2dc\uc2a4\ud15c \uc628 \ubaa8\ub4c8(SOM..."
-    },
     {
       "timestamp": "2026-09-05 19:07:07",
       "message": "Reprocessing: NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 19:07:40",
       "message": "Reprocessing: Report: OpenAI agents took over a website, used it to collaborate on benchmarks"
+    },
+    {
+      "timestamp": "2026-09-05 19:07:42",
+      "message": "[SKIP] Content too short: Report: OpenAI agents took ove..."
     }
   ]
 }
