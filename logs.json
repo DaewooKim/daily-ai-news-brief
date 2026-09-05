@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 07:56:29",
+  "last_updated": "2026-09-05 07:56:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 07:55:48",
-      "message": "[PROCESSING] Analyzing: Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports..."
-    },
     {
       "timestamp": "2026-09-05 07:55:51",
       "message": "[SUCCESS] Processed: \uae00\ub85c\ubc8c \ubc18\ub3c4\uccb4 \uc7a5\ube44 \uccad\uad6c\uc561\uc774 2026\ub144 2\ubd84\uae30\uc5d0 \uc804\ub144 \ub300\ube44 23% \uc99d\uac00, SEMI \ubcf4\uace0\uc11c\n  > Summary: SEMI\uac00 \ubc1c\ud45c\ud55c \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74, 2026\ub144 2\ubd84\uae30 \uae00\ub85c\ubc8c \ubc18\ub3c4\uccb4 \uc7a5\ube44 \uccad\uad6c\uc561\uc740 \uc804\ub144 \ub300..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 07:56:29",
       "message": "[PROCESSING] Analyzing: NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes..."
+    },
+    {
+      "timestamp": "2026-09-05 07:56:31",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes"
     }
   ]
 }
