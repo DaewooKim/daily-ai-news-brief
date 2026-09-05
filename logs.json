@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 04:34:24",
+  "last_updated": "2026-09-05 04:34:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 04:33:47",
-      "message": "[SUCCESS] Processed: SLB\uc758 41\uc5b5 \ub2ec\ub7ec \ucf08\ube44\uc628 \uac70\ub798, AI \ub370\uc774\ud130 \uc13c\ud130 \ud655\uc7a5\n  > Summary: SLB\uac00 41\uc5b5 \ub2ec\ub7ec\uc5d0 \ucf08\ube44\uc628\uc744 \uc778\uc218\ud568\uc73c\ub85c\uc368 \ub370\uc774\ud130 \uc13c\ud130 \uc0ac\uc5c5\uc744 \uc5f4 \uad00\ub9ac\ub85c \ud655\ub300\ud558\uace0 \uc788\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-09-05 04:33:48",
       "message": "[PROCESSING] Analyzing: Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B (Moneycontrol)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 04:34:24",
       "message": "[PROCESSING] Analyzing: KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO\u2082 with the \u2018Power of Disorder\u2019..."
+    },
+    {
+      "timestamp": "2026-09-05 04:34:26",
+      "message": "[SKIP] Irrelevant (AI Filter): KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO\u2082 with the \u2018Power of Disorder\u2019"
     }
   ]
 }
