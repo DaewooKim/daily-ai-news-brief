@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 17:56:46",
+  "last_updated": "2026-09-05 17:56:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 17:56:10",
-      "message": "Found 174 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-05 17:56:10",
       "message": "[PROCESSING] Analyzing: CD sales are booming as physical media continues its resurgence..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 17:56:46",
       "message": "[SKIP] Content too short: Optics Still Driving Marvell\u2019s..."
+    },
+    {
+      "timestamp": "2026-09-05 17:56:48",
+      "message": "Reprocessing: VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-Prem"
     }
   ]
 }
