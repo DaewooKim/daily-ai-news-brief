@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 18:00:09",
+  "last_updated": "2026-09-05 18:00:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 17:59:27",
-      "message": "[PROCESSING] Analyzing: Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports..."
-    },
     {
       "timestamp": "2026-09-05 17:59:30",
       "message": "[SUCCESS] Processed: \uae00\ub85c\ubc8c \ubc18\ub3c4\uccb4 \uc7a5\ube44 \uccad\uad6c\uc561\uc774 2026\ub144 2\ubd84\uae30\uc5d0 \uc804\ub144 \ub300\ube44 23% \uc99d\uac00, SEMI \ubcf4\uace0\uc11c\n  > Summary: SEMI\ub294 2026\ub144 2\ubd84\uae30 \ub3d9\uc548 \uae00\ub85c\ubc8c \ubc18\ub3c4\uccb4 \uc7a5\ube44 \uccad\uad6c\uc561\uc774 \uc804\ub144 \ub300\ube44 23% \uc99d\uac00\ud558\uc5ec ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 18:00:09",
       "message": "[PROCESSING] Analyzing: NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes..."
+    },
+    {
+      "timestamp": "2026-09-05 18:00:11",
+      "message": "[SKIP] Irrelevant (AI Filter): NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes"
     }
   ]
 }
