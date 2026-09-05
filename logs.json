@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 22:24:20",
+  "last_updated": "2026-09-05 22:24:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 22:23:33",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-09-05 22:23:45",
       "message": "Found 167 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 22:24:20",
       "message": "[PROCESSING] Analyzing: The White House is making arcade games racist..."
+    },
+    {
+      "timestamp": "2026-09-05 22:24:22",
+      "message": "[SKIP] Irrelevant (AI Filter): The White House is making arcade games racist"
     }
   ]
 }
