@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-05 12:25:31",
+  "last_updated": "2026-09-05 12:25:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-05 12:24:53",
-      "message": "[SUCCESS] Processed: EV \uadf8\ub8f9, \ucc28\uc138\ub300 \uacf5\ub3d9 \ud328\ud0a4\uc9c0 \uad11\ud559\uc744 \uc704\ud55c \uc911\uc694\ud55c \uc81c\uc870 \uacfc\uc81c \ud574\uacb0\n  > Summary: EV \uadf8\ub8f9\uc740 \ud558\uc774\ud37c\uc2a4\ucf00\uc77c \ub370\uc774\ud130 \uc13c\ud130\uc640 AI \uc778\ud504\ub77c\uc5d0 \ud544\uc694\ud55c \ucc28\uc138\ub300 \uacf5\ub3d9 \ud328\ud0a4\uc9c0 \uad11\ud559(CP..."
-    },
     {
       "timestamp": "2026-09-05 12:24:54",
       "message": "Reprocessing: AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-05 12:25:31",
       "message": "[PROCESSING] Analyzing: SensiBel Launches 84-dBA SNR Optical MEMS Microphone..."
+    },
+    {
+      "timestamp": "2026-09-05 12:25:33",
+      "message": "[SKIP] Irrelevant (AI Filter): SensiBel Launches 84-dBA SNR Optical MEMS Microphone"
     }
   ]
 }
