@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-06 08:23:44",
+  "last_updated": "2026-09-06 08:23:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-06 08:23:08",
-      "message": "[PROCESSING] Analyzing: Content creators drop the ball..."
-    },
     {
       "timestamp": "2026-09-06 08:23:10",
       "message": "[SKIP] Irrelevant (AI Filter): Content creators drop the ball"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-06 08:23:44",
       "message": "[SUCCESS] Processed: \ud604\ub300 CUDA \ub3c4\uad6c\uc758 \uc2e4\uc81c \ud65c\uc6a9: \ub2e8\uacc4\ubcc4 \ucd5c\uc801\ud654 \uc548\ub0b4\n  > Summary: NVIDIA CUDA\ub294 GPU \uac00\uc18d \ucef4\ud4e8\ud305\uc758 \uae30\ucd08\ub85c, \uacfc\ud559\uc801 \uc2dc\ubbac\ub808\uc774\uc158\uc5d0\uc11c \ub300\uaddc\ubaa8 AI \ud6c8..."
+    },
+    {
+      "timestamp": "2026-09-06 08:23:46",
+      "message": "Reprocessing: How to Size GPUs for AI Inference and TCO Without Overspending"
     }
   ]
 }
