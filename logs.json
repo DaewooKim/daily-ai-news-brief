@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-06 00:40:03",
+  "last_updated": "2026-09-06 00:40:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-06 00:39:26",
-      "message": "Reprocessing: OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure"
-    },
     {
       "timestamp": "2026-09-06 00:39:27",
       "message": "[PROCESSING] Analyzing: OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-06 00:40:03",
       "message": "[PROCESSING] Analyzing: Mercedes Spinout Athos Closes Its Doors..."
+    },
+    {
+      "timestamp": "2026-09-06 00:40:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Mercedes Spinout Athos Closes Its Doors"
     }
   ]
 }
