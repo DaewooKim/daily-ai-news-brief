@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-06 05:08:03",
+  "last_updated": "2026-09-06 05:08:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-06 05:07:30",
-      "message": "[PROCESSING] Analyzing: SomDevices, Celus Bring \u03bcSMARC Modules to Design Platform..."
-    },
     {
       "timestamp": "2026-09-06 05:07:33",
       "message": "[SUCCESS] Processed: SomDevices\uc640 Celus, \u03bcSMARC \ubaa8\ub4c8\uc744 \ub514\uc790\uc778 \ud50c\ub7ab\ud3fc\uc5d0 \ub3c4\uc785\ud558\ub2e4\n  > Summary: SomDevices\uc640 Celus\ub294 SomDevices\uc758 \u03bcSMARC \uc2dc\uc2a4\ud15c \uc628 \ubaa8\ub4c8\uc744 CE..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-06 05:08:03",
       "message": "Reprocessing: Report: OpenAI agents took over a website, used it to collaborate on benchmarks"
+    },
+    {
+      "timestamp": "2026-09-06 05:08:05",
+      "message": "[SKIP] Content too short: Report: OpenAI agents took ove..."
     }
   ]
 }
