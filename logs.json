@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-06 23:22:55",
+  "last_updated": "2026-09-06 23:22:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-06 23:22:18",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-06 23:22:18",
       "message": "[PROCESSING] Analyzing: An Amazon cargo plane crashed at Miami International Airport..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-06 23:22:55",
       "message": "[PROCESSING] Analyzing: Fantasy Footballers\u2019 Andy Holloway is a dedicated zero-inbox kinda guy..."
+    },
+    {
+      "timestamp": "2026-09-06 23:22:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Fantasy Footballers\u2019 Andy Holloway is a dedicated zero-inbox kinda guy"
     }
   ]
 }
