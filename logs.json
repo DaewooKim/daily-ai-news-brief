@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 21:34:57",
+  "last_updated": "2026-09-07 21:34:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 21:34:18",
-      "message": "Found 136 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-07 21:34:18",
       "message": "[PROCESSING] Analyzing: Audi\u2019s new A2 E-tron is its most affordable and efficient EV yet..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 21:34:57",
       "message": "Reprocessing: Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face Buy"
+    },
+    {
+      "timestamp": "2026-09-07 21:34:59",
+      "message": "[SKIP] Content too short: Nvidia Expands Its Open Source..."
     }
   ]
 }
