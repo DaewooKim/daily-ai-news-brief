@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 04:56:47",
+  "last_updated": "2026-09-07 04:56:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 04:56:08",
-      "message": "[SUCCESS] Processed: GPT-6 Astra: \ucc28\uc138\ub300 \uc9c0\ub2a5\uc758 \ucd9c\ud604\n  > Summary: GPT-6 Astra\ub294 \ucd5c\uc2e0 \ucef4\ud4e8\ud130 \uc0ac\uc6a9, \ucf54\ub529, \uc0ac\uc774\ubc84 \ubcf4\uc548 \ubc0f \uacfc\ud559\uc5d0 \ub300\ud55c \ub6f0\uc5b4\ub09c \ub2a5\ub825..."
-    },
     {
       "timestamp": "2026-09-07 04:56:10",
       "message": "Reprocessing: Safety overview: GPT-6 Astra"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 04:56:47",
       "message": "[PROCESSING] Analyzing: Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation..."
+    },
+    {
+      "timestamp": "2026-09-07 04:56:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
     }
   ]
 }
