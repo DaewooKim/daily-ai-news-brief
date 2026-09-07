@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 18:18:52",
+  "last_updated": "2026-09-07 18:18:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 18:18:12",
-      "message": "[SUCCESS] Processed: \uc544\uc2a4\ud2b8\ub77c, \ucef4\ud4e8\ud130 \uc0ac\uc6a9\uc744 \ud1b5\ud574 \ube14\ub80c\ub354\uc640 \ud611\uc5c5\ud558\uba70 \ub9c8\ubc95\ucc98\ub7fc \ub290\uaef4\uc9c0\ub2e4\n  > Summary: \uc544\uc2a4\ud2b8\ub77c\uac00 \ube14\ub80c\ub354\uc640\uc758 \ud611\uc5c5\uc744 \ud1b5\ud574 \ucef4\ud4e8\ud130 \uc0ac\uc6a9\uc774 \ub9c8\uce58 \ub9c8\ubc95\ucc98\ub7fc \ub290\uaef4\uc9c4\ub2e4\ub294 \ub0b4\uc6a9\uc744 \ub2e4\ub8ec \uae30\uc0ac..."
-    },
     {
       "timestamp": "2026-09-07 18:18:13",
       "message": "[PROCESSING] Analyzing: Google DeepMind published a paper on how 100 agents tasked with solving math problems learned to cheat and how some agents tried to counter the cheaters (Jack Clark/Import AI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 18:18:52",
       "message": "[PROCESSING] Analyzing: Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope..."
+    },
+    {
+      "timestamp": "2026-09-07 18:18:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Continuing A Legacy Of Space Exploration: NASA\u2019s Nancy Grace Roman Space Telescope"
     }
   ]
 }
