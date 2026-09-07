@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 22:41:16",
+  "last_updated": "2026-09-07 22:41:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 22:40:37",
-      "message": "[PROCESSING] Analyzing: An Amazon cargo plane crashed at Miami International Airport..."
-    },
     {
       "timestamp": "2026-09-07 22:40:41",
       "message": "[SKIP] Irrelevant (AI Filter): An Amazon cargo plane crashed at Miami International Airport"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 22:41:16",
       "message": "Reprocessing: Safety overview: GPT-6 Astra"
+    },
+    {
+      "timestamp": "2026-09-07 22:41:17",
+      "message": "[PROCESSING] Analyzing: Safety overview: GPT-6 Astra..."
     }
   ]
 }
