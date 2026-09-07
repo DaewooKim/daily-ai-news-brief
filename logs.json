@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 19:23:01",
+  "last_updated": "2026-09-07 19:23:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 19:22:23",
-      "message": "Found 143 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-07 19:22:23",
       "message": "[PROCESSING] Analyzing: Six years later, Sony revisits its legendary XM4 headphones..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 19:23:01",
       "message": "Reprocessing: Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face Buy"
+    },
+    {
+      "timestamp": "2026-09-07 19:23:02",
+      "message": "[SKIP] Content too short: Nvidia Expands Its Open Source..."
     }
   ]
 }
