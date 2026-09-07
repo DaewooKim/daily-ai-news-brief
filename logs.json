@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 02:42:53",
+  "last_updated": "2026-09-07 02:42:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 02:42:16",
-      "message": "Found 150 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-07 02:42:16",
       "message": "[PROCESSING] Analyzing: An Amazon cargo plane crashed at Miami International Airport..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 02:42:53",
       "message": "Reprocessing: Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face Buy"
+    },
+    {
+      "timestamp": "2026-09-07 02:42:55",
+      "message": "[SKIP] Content too short: Nvidia Expands Its Open Source..."
     }
   ]
 }
