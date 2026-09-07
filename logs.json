@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 10:30:00",
+  "last_updated": "2026-09-07 10:30:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 10:29:21",
-      "message": "[PROCESSING] Analyzing: An Amazon cargo plane crashed at Miami International Airport..."
-    },
     {
       "timestamp": "2026-09-07 10:29:23",
       "message": "[SKIP] Irrelevant (AI Filter): An Amazon cargo plane crashed at Miami International Airport"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 10:30:00",
       "message": "Reprocessing: Transfer learning for genomic prediction in underrepresented populations"
+    },
+    {
+      "timestamp": "2026-09-07 10:30:02",
+      "message": "[SKIP] Content too short: Transfer learning for genomic ..."
     }
   ]
 }
