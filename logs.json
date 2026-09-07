@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 08:18:28",
+  "last_updated": "2026-09-07 08:18:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 08:17:43",
-      "message": "Reprocessing: AWS Wires a New US AI Route Across the Pacific"
-    },
     {
       "timestamp": "2026-09-07 08:17:45",
       "message": "[PROCESSING] Analyzing: AWS Wires a New US AI Route Across the Pacific..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 08:18:28",
       "message": "[PROCESSING] Analyzing: Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan..."
+    },
+    {
+      "timestamp": "2026-09-07 08:18:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan"
     }
   ]
 }
