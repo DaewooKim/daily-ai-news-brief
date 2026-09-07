@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 20:31:13",
+  "last_updated": "2026-09-07 20:31:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 20:30:35",
-      "message": "[SUCCESS] Processed: AWS\uac00 \ud0dc\ud3c9\uc591\uc744 \uac00\ub85c\uc9c0\ub974\ub294 \uc0c8\ub85c\uc6b4 AI \uacbd\ub85c\ub97c \uc124\uc815\ud558\ub2e4\n  > Summary: AWS\ub294 \uc77c\ubcf8\uacfc \uc6cc\uc2f1\ud134 \uc8fc\ub97c \uc5f0\uacb0\ud558\ub294 420 Tbps\uc758 \ud574\uc800 \ucf00\uc774\ube14\uc744 \uac74\uc124\ud558\uace0 \uc788\uc73c\uba70, 2..."
-    },
     {
       "timestamp": "2026-09-07 20:30:37",
       "message": "[PROCESSING] Analyzing: The attacker who withdrew ~4,000 BTC from Blockstream's Liquid Network federation wallet returns 3,400 BTC after Blockstream said its bridge nodes were patched (The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 20:31:13",
       "message": "[PROCESSING] Analyzing: Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan..."
+    },
+    {
+      "timestamp": "2026-09-07 20:31:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan"
     }
   ]
 }
