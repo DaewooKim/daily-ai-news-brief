@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 00:32:24",
+  "last_updated": "2026-09-07 00:32:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 00:31:47",
-      "message": "Reprocessing: OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)"
-    },
     {
       "timestamp": "2026-09-07 00:31:48",
       "message": "[PROCESSING] Analyzing: OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 00:32:24",
       "message": "[PROCESSING] Analyzing: Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26..."
+    },
+    {
+      "timestamp": "2026-09-07 00:32:27",
+      "message": "[SKIP] Irrelevant (AI Filter): Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26"
     }
   ]
 }
