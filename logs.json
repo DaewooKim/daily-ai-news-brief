@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 00:29:39",
+  "last_updated": "2026-09-07 00:29:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 00:28:58",
-      "message": "[PROCESSING] Analyzing: Seattle Times and Newsday sue OpenAI and Microsoft for infringement..."
-    },
     {
       "timestamp": "2026-09-07 00:29:02",
       "message": "[SUCCESS] Processed: \uc2dc\uc560\ud2c0 \ud0c0\uc784\uc2a4\uc640 \ub274\uc2a4\ub370\uc774, OpenAI\uc640 \ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\uc5d0 \uc18c\uc1a1 \uc81c\uae30\n  > Summary: \uc2dc\uc560\ud2c0 \ud0c0\uc784\uc2a4\uc640 \ub274\uc2a4\ub370\uc774\uac00 OpenAI\ub97c \uc0c1\ub300\ub85c \uc800\uc791\uad8c \uce68\ud574 \uc18c\uc1a1\uc744 \uc81c\uae30\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub4e4\uc740 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 00:29:39",
       "message": "[SKIP] Irrelevant (AI Filter): CD sales are booming as physical media continues its resurgence"
+    },
+    {
+      "timestamp": "2026-09-07 00:29:41",
+      "message": "Reprocessing: NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network"
     }
   ]
 }
