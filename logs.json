@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-07 00:29:36",
+  "last_updated": "2026-09-07 00:29:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-07 00:28:58",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-07 00:28:58",
       "message": "[PROCESSING] Analyzing: Seattle Times and Newsday sue OpenAI and Microsoft for infringement..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-07 00:29:36",
       "message": "[PROCESSING] Analyzing: CD sales are booming as physical media continues its resurgence..."
+    },
+    {
+      "timestamp": "2026-09-07 00:29:39",
+      "message": "[SKIP] Irrelevant (AI Filter): CD sales are booming as physical media continues its resurgence"
     }
   ]
 }
