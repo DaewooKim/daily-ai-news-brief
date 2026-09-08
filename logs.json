@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-08 11:52:13",
+  "last_updated": "2026-09-08 11:52:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-08 11:51:33",
-      "message": "[PROCESSING] Analyzing: Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers (Financial Times)..."
-    },
     {
       "timestamp": "2026-09-08 11:51:36",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers (Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-08 11:52:13",
       "message": "Reprocessing: Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch"
+    },
+    {
+      "timestamp": "2026-09-08 11:52:14",
+      "message": "[SKIP] Content too short: Hackers steal $320M in bitcoin..."
     }
   ]
 }
