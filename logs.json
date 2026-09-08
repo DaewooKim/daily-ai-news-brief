@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-08 11:52:34",
+  "last_updated": "2026-09-08 11:52:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-08 11:51:58",
-      "message": "Reprocessing: SomDevices, Celus Bring \u03bcSMARC Modules to Design Platform"
-    },
     {
       "timestamp": "2026-09-08 11:52:00",
       "message": "[PROCESSING] Analyzing: SomDevices, Celus Bring \u03bcSMARC Modules to Design Platform..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-08 11:52:34",
       "message": "Reprocessing: Anthropic uses Claude to formalize proof of Fermat\u2019s Last Theorem"
+    },
+    {
+      "timestamp": "2026-09-08 11:52:36",
+      "message": "[SKIP] Content too short: Anthropic uses Claude to forma..."
     }
   ]
 }
