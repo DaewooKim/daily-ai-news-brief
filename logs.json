@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-08 04:12:36",
+  "last_updated": "2026-09-08 04:12:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-08 04:12:02",
-      "message": "[SKIP] Content too short: Self-driving truck firm PlusAI..."
-    },
     {
       "timestamp": "2026-09-08 04:12:03",
       "message": "Reprocessing: OpenAI starts rolling out its next-generation GPT-6 Astra model"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-08 04:12:36",
       "message": "Completed! New: 0, Updated: 43"
+    },
+    {
+      "timestamp": "2026-09-08 04:12:40",
+      "message": "Saved 43 changes to news_data.json"
     }
   ]
 }
