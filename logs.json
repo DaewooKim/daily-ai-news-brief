@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-17 04:29:02",
-  "status": "idle",
+  "last_updated": "2026-09-17 05:29:37",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-17 04:27:25",
-      "message": "[SUCCESS] Processed: ESD eBook 2026\ub144 9\uc6d4/10\uc6d4: \uad70/\ud56d\uacf5 \uc2dc\uc2a4\ud15c \uc124\uacc4 \uc7ac\uace0\n  > Summary: \uae30\uc0ac\uc5d0\uc11c\ub294 \uad70\uc0ac \ubc0f \ud56d\uacf5 \uc2dc\uc2a4\ud15c\uc744 \uc124\uacc4\ud558\ub294 \uc784\ubca0\ub514\ub4dc \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4\uc774 \ub354\uc6b1 \uc9c0\ub2a5\uc801\uc774\uace0 \ubcf5\uc7a1\ud55c \uc2dc..."
+      "timestamp": "2026-09-17 05:29:25",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-17 04:27:27",
-      "message": "[PROCESSING] Analyzing: Eggtronic, Renesas Target 140-W USB-C Chargers with GaN..."
+      "timestamp": "2026-09-17 05:29:26",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-17 04:27:29",
-      "message": "[SKIP] Irrelevant (AI Filter): Eggtronic, Renesas Target 140-W USB-C Chargers with GaN"
+      "timestamp": "2026-09-17 05:29:26",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-17 04:27:31",
-      "message": "[PROCESSING] Analyzing: Designing SWaP-Optimized Compute for UAVs..."
+      "timestamp": "2026-09-17 05:29:37",
+      "message": "Found 151 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-17 04:27:34",
-      "message": "[SUCCESS] Processed: UAV\ub97c \uc704\ud55c SWaP \ucd5c\uc801\ud654 \ucef4\ud4e8\ud305 \uc124\uacc4\n  > Summary: \ubb34\uc778 \ud56d\uacf5\uae30(UAV)\uc758 \uc784\ubca0\ub514\ub4dc \uc544\ud0a4\ud14d\ucc98\ub294 \uc6d0\uaca9 \uc870\uc885\uc5d0\uc11c \ud56d\uacf5\uae30 \uc790\uccb4\ub85c \ub354 \ub9ce\uc740 \uc9c0\ub2a5\uc774 \uc774..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:36",
-      "message": "[SKIP] Content too short: Open-weight model developer Ar..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:38",
-      "message": "[SKIP] Content too short: OpenAI unveils new framework f..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:39",
-      "message": "[SKIP] Content too short: Inference hardware startup Del..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:41",
-      "message": "[SKIP] Content too short: Anthropic brings Cowork direct..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:42",
-      "message": "[SKIP] Content too short: Ex-Infosys chief Vishal Sikka\u2019..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:44",
-      "message": "[SKIP] Content too short: Noetive launches with $41M to ..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:45",
-      "message": "[SKIP] Content too short: Cohere and Aleph Alpha agree t..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:47",
-      "message": "[SKIP] Content too short: CADDi raises $114M at $1.2B va..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:48",
-      "message": "[SKIP] Content too short: Trust becomes the product: Fiv..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:50",
-      "message": "[SKIP] Content too short: Rune raises $40M for its modul..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:52",
-      "message": "[SKIP] Content too short: What to expect during the \u2018Ret..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:54",
-      "message": "[SKIP] Content too short: Northwest Bancshares puts over..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:55",
-      "message": "[SKIP] Content too short: TypeSafe AI exits stealth with..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:57",
-      "message": "[SKIP] Content too short: Workiva puts business outcomes..."
-    },
-    {
-      "timestamp": "2026-09-17 04:27:59",
-      "message": "[SKIP] Content too short: Better controls clear a path f..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:00",
-      "message": "[SKIP] Content too short: Jack & Jill raises $40M to cha..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:02",
-      "message": "[SKIP] Content too short: Tutor Intelligence launches se..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:04",
-      "message": "[SKIP] Content too short: HubSpot rebuilds\u00a0its CRM platf..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:05",
-      "message": "[SKIP] Content too short: ThinkingAI launches Agentic En..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:07",
-      "message": "[SKIP] Content too short: Neo4j launches GraphAware fina..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:09",
-      "message": "[SKIP] Content too short: Pipedrive launches Nova AI ass..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:10",
-      "message": "[SKIP] Content too short: Cohesity\u2019s new Agent Resilienc..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:12",
-      "message": "[SKIP] Content too short: Democrats vote down crypto\u2019s C..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:13",
-      "message": "[SKIP] Content too short: OpenAI, Anthropic and Google s..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:15",
-      "message": "[SKIP] Content too short: Governance becomes critical as..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:17",
-      "message": "[SKIP] Content too short: Newell Brands puts internal au..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:18",
-      "message": "[SKIP] Content too short: Connected data emerges as the ..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:20",
-      "message": "[SKIP] Content too short: Factory raises $200M for its s..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:22",
-      "message": "[SKIP] Content too short: AI progress and responsibility..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:23",
-      "message": "[SKIP] Content too short: Google\u2019s new speech model Gemi..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:25",
-      "message": "[PROCESSING] Analyzing: onsemi Embedded Power Platform Announced..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:28",
-      "message": "[SUCCESS] Processed: onsemi \uc784\ubca0\ub514\ub4dc \uc804\ub825 \ud50c\ub7ab\ud3fc \ubc1c\ud45c\n  > Summary: onsemi\ub294 \ud22c\uc790\uc790 \ud589\uc0ac\uc5d0\uc11c AI \ub799, \uc790\ub3d9\ucc28 \ubc0f \uc0b0\uc5c5 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 \uc784\ubca0..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:29",
-      "message": "[PROCESSING] Analyzing: Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:33",
-      "message": "[SUCCESS] Processed: \uc544\uc2a4\ud14c\ub77c\ub7a9\uc2a4, \ub808\uc624 2 CXL \uba54\ubaa8\ub9ac \ucee8\ud2b8\ub864\ub7ec \ubc0f \ub808\uc624 X \ucee8\ud2b8\ub864\ub7ec \ucd9c\uc2dc\n  > Summary: \uc544\uc2a4\ud14c\ub77c\ub7a9\uc2a4\uac00 \uc0c8\ub85c\uc6b4 \uc138\ub300\uc758 \ub808\uc624 \uc2a4\ub9c8\ud2b8 \uba54\ubaa8\ub9ac \ucee8\ud2b8\ub864\ub7ec\ub97c \ucd9c\uc2dc\ud569\ub2c8\ub2e4. \ub808\uc624 2 \uc2dc\ub9ac\uc988\ub294 ..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:35",
-      "message": "[PROCESSING] Analyzing: Dell Pro 5 16 (AMD) Laptop Review..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:38",
-      "message": "[SUCCESS] Processed: \ub378 \ud504\ub85c 5 16 (AMD) \ub178\ud2b8\ubd81 \ub9ac\ubdf0\n  > Summary: \uc624\ub298\uc740 AMD \uae30\ubc18\uc758 \ub378 \ud504\ub85c 5 16 \ub178\ud2b8\ubd81\uc744 \uc0b4\ud3b4\ubcf4\uaca0\uc2b5\ub2c8\ub2e4. \uc774 16\uc778\uce58 \ud504\ub85c \ub178\ud2b8\ubd81\uc740..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:40",
-      "message": "[PROCESSING] Analyzing: Infineon RISC-V for Automotive at Hot Chips 2026..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:42",
-      "message": "[SKIP] Irrelevant (AI Filter): Infineon RISC-V for Automotive at Hot Chips 2026"
-    },
-    {
-      "timestamp": "2026-09-17 04:28:44",
-      "message": "[PROCESSING] Analyzing: d-Matrix Joins the NVIDIA NVLink Fusion Platform..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:47",
-      "message": "[SUCCESS] Processed: d-Matrix, NVIDIA NVLink Fusion \ud50c\ub7ab\ud3fc\uc5d0 \ud569\ub958\n  > Summary: d-Matrix\uc640 NVIDIA\ub294 d-Matrix\uac00 \ucc28\uc138\ub300 Raptor AI \uac00\uc18d\uae30\ub97c \uc0ac\uc6a9\ud558..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:49",
-      "message": "[PROCESSING] Analyzing: Migrating the GitHub Copilot runtime to Rust, using Copilot..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:52",
-      "message": "[SUCCESS] Processed: GitHub Copilot \ub7f0\ud0c0\uc784\uc744 Rust\ub85c \ub9c8\uc774\uadf8\ub808\uc774\uc158\ud558\uae30\n  > Summary: GitHub Copilot \ub7f0\ud0c0\uc784\uc774 TypeScript\uc5d0\uc11c Rust\ub85c \uc7ac\uc791\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc774..."
-    },
-    {
-      "timestamp": "2026-09-17 04:28:54",
-      "message": "Completed! New: 121, Updated: 0"
-    },
-    {
-      "timestamp": "2026-09-17 04:28:58",
-      "message": "Saved 121 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-17 04:29:01",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-17 05:29:37",
+      "message": "[PROCESSING] Analyzing: The streamers are fighting over Halloween..."
     }
   ]
 }
