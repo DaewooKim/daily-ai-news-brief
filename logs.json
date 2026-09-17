@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-17 15:42:06",
-  "status": "idle",
+  "last_updated": "2026-09-17 16:42:45",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-17 15:40:32",
-      "message": "[SKIP] Content too short: Noetive launches with $41M to ..."
+      "timestamp": "2026-09-17 16:42:33",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-17 15:40:33",
-      "message": "Reprocessing: Cohere and Aleph Alpha agree to merge in reported $20B deal"
+      "timestamp": "2026-09-17 16:42:34",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-17 15:40:35",
-      "message": "[SKIP] Content too short: Cohere and Aleph Alpha agree t..."
+      "timestamp": "2026-09-17 16:42:34",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-17 15:40:37",
-      "message": "Reprocessing: CADDi raises $114M at $1.2B valuation to bring manufacturing AI to North America"
+      "timestamp": "2026-09-17 16:42:45",
+      "message": "Found 156 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-17 15:40:39",
-      "message": "[SKIP] Content too short: CADDi raises $114M at $1.2B va..."
-    },
-    {
-      "timestamp": "2026-09-17 15:40:40",
-      "message": "Reprocessing: Trust becomes the product: Five takeaways from the Splunk .conf26 keynotes"
-    },
-    {
-      "timestamp": "2026-09-17 15:40:42",
-      "message": "[SKIP] Content too short: Trust becomes the product: Fiv..."
-    },
-    {
-      "timestamp": "2026-09-17 15:40:44",
-      "message": "Reprocessing: Rune raises $40M for its modular solar-powered data centers"
-    },
-    {
-      "timestamp": "2026-09-17 15:40:46",
-      "message": "[SKIP] Content too short: Rune raises $40M for its modul..."
-    },
-    {
-      "timestamp": "2026-09-17 15:40:47",
-      "message": "Reprocessing: What to expect during the \u2018Rethinking Private Cloud\u2019 event: Join theCUBE on Sept. 23"
-    },
-    {
-      "timestamp": "2026-09-17 15:40:50",
-      "message": "[SKIP] Content too short: What to expect during the \u2018Ret..."
-    },
-    {
-      "timestamp": "2026-09-17 15:40:51",
-      "message": "Reprocessing: Northwest Bancshares puts oversight at the center of AI spending"
-    },
-    {
-      "timestamp": "2026-09-17 15:40:53",
-      "message": "[SKIP] Content too short: Northwest Bancshares puts over..."
-    },
-    {
-      "timestamp": "2026-09-17 15:40:55",
-      "message": "Reprocessing: TypeSafe AI exits stealth with $40M to build AI for use by software"
-    },
-    {
-      "timestamp": "2026-09-17 15:40:56",
-      "message": "[SKIP] Content too short: TypeSafe AI exits stealth with..."
-    },
-    {
-      "timestamp": "2026-09-17 15:40:58",
-      "message": "Reprocessing: Workiva puts business outcomes at the center of AI-native workflows"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:00",
-      "message": "[SKIP] Content too short: Workiva puts business outcomes..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:01",
-      "message": "Reprocessing: Better controls clear a path for AI in finance"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:03",
-      "message": "[SKIP] Content too short: Better controls clear a path f..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:05",
-      "message": "Reprocessing: Jack & Jill raises $40M to change the face of job hunting with AI agents"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:06",
-      "message": "[SKIP] Content too short: Jack & Jill raises $40M to cha..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:08",
-      "message": "Reprocessing: Tutor Intelligence launches second-generation intelligent warehouse robotics with a classroom to teach them"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:10",
-      "message": "[SKIP] Content too short: Tutor Intelligence launches se..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:11",
-      "message": "Reprocessing: HubSpot rebuilds\u00a0its CRM platform around contextual AI"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:13",
-      "message": "[SKIP] Content too short: HubSpot rebuilds\u00a0its CRM platf..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:15",
-      "message": "Reprocessing: ThinkingAI launches Agentic Engine with AI agents tracking growth on a company\u2019s own infrastructure"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:16",
-      "message": "[SKIP] Content too short: ThinkingAI launches Agentic En..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:18",
-      "message": "Reprocessing: Neo4j launches GraphAware financial crime product for banks and insurers"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:20",
-      "message": "[SKIP] Content too short: Neo4j launches GraphAware fina..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:22",
-      "message": "Reprocessing: Pipedrive launches Nova AI assistant to reduce CRM admin work and keep data current"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:24",
-      "message": "[SKIP] Content too short: Pipedrive launches Nova AI ass..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:25",
-      "message": "Reprocessing: Cohesity\u2019s new Agent Resilience lets companies roll back AI agents that go wrong"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:27",
-      "message": "[SKIP] Content too short: Cohesity\u2019s new Agent Resilienc..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:29",
-      "message": "Reprocessing: Democrats vote down crypto\u2019s Clarity Act, citing ethics concerns and Trump\u2019s vast crypto wealth"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:31",
-      "message": "[SKIP] Content too short: Democrats vote down crypto\u2019s C..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:33",
-      "message": "Reprocessing: OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:34",
-      "message": "[SKIP] Content too short: OpenAI, Anthropic and Google s..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:36",
-      "message": "Reprocessing: Governance becomes critical as AI agents move into financial reporting"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:38",
-      "message": "[SKIP] Content too short: Governance becomes critical as..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:39",
-      "message": "Reprocessing: Newell Brands puts internal audit at the heart of AI adoption"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:41",
-      "message": "[SKIP] Content too short: Newell Brands puts internal au..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:42",
-      "message": "Reprocessing: d-Matrix Joins the NVIDIA NVLink Fusion Platform"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:44",
-      "message": "[PROCESSING] Analyzing: d-Matrix Joins the NVIDIA NVLink Fusion Platform..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:47",
-      "message": "[SUCCESS] Processed: d-Matrix\uac00 NVIDIA NVLink Fusion \ud50c\ub7ab\ud3fc\uc5d0 \ud569\ub958\ud569\ub2c8\ub2e4\n  > Summary: d-Matrix\uc640 NVIDIA\ub294 d-Matrix\uac00 \ucc28\uc138\ub300 Raptor AI \uac00\uc18d\uae30\ub97c \ud655\uc7a5\ud558..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:49",
-      "message": "Reprocessing: Migrating the GitHub Copilot runtime to Rust, using Copilot"
-    },
-    {
-      "timestamp": "2026-09-17 15:41:51",
-      "message": "[PROCESSING] Analyzing: Migrating the GitHub Copilot runtime to Rust, using Copilot..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:55",
-      "message": "[SUCCESS] Processed: GitHub Copilot \ub7f0\ud0c0\uc784\uc744 Rust\ub85c \ub9c8\uc774\uadf8\ub808\uc774\uc158\ud558\uae30\n  > Summary: GitHub Copilot\uc758 CLI, \uc571 \ubc0f SDK\ub294 Copilot \uc5d0\uc774\uc804\ud2b8 \ub7f0\ud0c0\uc784\uc758 \uc9c0\uc6d0..."
-    },
-    {
-      "timestamp": "2026-09-17 15:41:56",
-      "message": "Completed! New: 3, Updated: 49"
-    },
-    {
-      "timestamp": "2026-09-17 15:42:01",
-      "message": "Saved 52 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-17 15:42:04",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-17 16:42:45",
+      "message": "[PROCESSING] Analyzing: Xbox\u2019s clever disc-to-digital feature was 15 years in the making..."
     }
   ]
 }
