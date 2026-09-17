@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 12:17:09",
+  "last_updated": "2026-09-17 12:17:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 12:16:29",
-      "message": "[SUCCESS] Processed: SK \ud558\uc774\ub2c9\uc2a4\uc758 \uc778\ud154 \uc81c\ud734: \uc54c\uc544\uc57c \ud560 \uc0ac\ud56d\n  > Summary: SK \ud558\uc774\ub2c9\uc2a4\uac00 \uc778\ud154\uc758 \uc624\ud558\uc774\uc624 \ubc18\ub3c4\uccb4 \uc81c\uc870 \uc2dc\uc124\uc758 \uc77c\ubd80\ub97c \uc784\ub300\ud560 \uac00\ub2a5\uc131\uc774 \uc81c\uae30\ub418\uc5c8\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-09-17 12:16:31",
       "message": "Reprocessing: RAMXEED ULTIMATE FeRAM Guarantees 10-Year Data Retention under Continuous 125\u00b0C Exposure"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 12:17:09",
       "message": "[PROCESSING] Analyzing: DoorDash says Costco members can order same-day delivery from every US Costco warehouse, after Uber expanded its delivery partnership from 17 to 47 US states (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-17 12:17:11",
+      "message": "[SKIP] Irrelevant (AI Filter): DoorDash says Costco members can order same-day delivery from every US Costco warehouse, after Uber expanded its delivery partnership from 17 to 47 US states (Bloomberg)"
     }
   ]
 }
