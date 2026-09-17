@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 06:41:52",
+  "last_updated": "2026-09-17 06:41:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 06:41:12",
-      "message": "[SUCCESS] Processed: \ud54f\uce58\ubd81: \ub1cc-\ucef4\ud4e8\ud130 \uc778\ud130\ud398\uc774\uc2a4\ub97c \uac1c\ubc1c\ud558\ub294 \uae30\uc5c5\ub4e4\uc774 2026\ub144\uc5d0 \uc774\ubbf8 10\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc744 \ubaa8\uae08\ud588\uc73c\uba70, \uc774\ub294 \uc774\uc804 4\ub144 \ub3d9\uc548 \ubaa8\uae08\ub41c 15\uc5b56000\ub9cc \ub2ec\ub7ec\uc640 \ube44\uad50\ub41c\ub2e4 (\ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988)\n  > Summary: \ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988\uc5d0 \ub530\ub974\uba74, \ud54f\uce58\ubd81\uc758 \ubcf4\uace0\uc11c\uc5d0 \uc758\ud558\uba74 \ub1cc-\ucef4\ud4e8\ud130 \uc778\ud130\ud398\uc774\uc2a4\ub97c \uac1c\ubc1c\ud558\ub294 \uc2a4\ud0c0\ud2b8..."
-    },
     {
       "timestamp": "2026-09-17 06:41:14",
       "message": "[PROCESSING] Analyzing: Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 06:41:52",
       "message": "[PROCESSING] Analyzing: System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite..."
+    },
+    {
+      "timestamp": "2026-09-17 06:41:54",
+      "message": "[SKIP] Irrelevant (AI Filter): System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite"
     }
   ]
 }
