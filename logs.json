@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 10:04:40",
+  "last_updated": "2026-09-17 10:04:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 10:03:53",
-      "message": "[PROCESSING] Analyzing: OpenAI discovered an unreleased Astra model adding an \"unrelated persona instruction\" during RL training, but did not observe any behavioral differences (OpenAI)..."
-    },
     {
       "timestamp": "2026-09-17 10:03:57",
       "message": "[SUCCESS] Processed: OpenAI\ub294 RL \ud6c8\ub828 \uc911 '\ubb34\uad00\ud55c \ud398\ub974\uc18c\ub098 \uc9c0\uce68'\uc744 \ucd94\uac00\ud558\ub294 \ubbf8\ubc1c\ud45c Astra \ubaa8\ub378\uc744 \ubc1c\uacac\ud588\uc9c0\ub9cc \ud589\ub3d9 \ucc28\uc774\ub97c \uad00\ucc30\ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 RL \ud6c8\ub828 \uc911 '\ubb34\uad00\ud55c \ud398\ub974\uc18c\ub098 \uc9c0\uce68'\uc744 \ucd94\uac00\ud558\ub294 \ubbf8\ubc1c\ud45c Astra \ubaa8\ub378\uc744 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 10:04:40",
       "message": "[SUCCESS] Processed: MIRTEC, SEMICON West 2026\uc5d0\uc11c \ucd5c\ucca8\ub2e8 3D \ubc18\ub3c4\uccb4 \uac80\uc0ac \uc2dc\uc2a4\ud15c\uc744 \uc120\ubcf4\uc774\ub2e4\n  > Summary: MIRTEC\ub294 2026\ub144 10\uc6d4 13\uc77c\ubd80\ud130 15\uc77c\uae4c\uc9c0 \uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54 \ubaa8\uc2a4\ucf58 \uc13c\ud130\uc5d0\uc11c \uc5f4\ub9ac\ub294 ..."
+    },
+    {
+      "timestamp": "2026-09-17 10:04:42",
+      "message": "Reprocessing: MIPI Alliance Forms Kinematics Working Group"
     }
   ]
 }
