@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 20:08:15",
+  "last_updated": "2026-09-17 20:08:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 20:07:30",
-      "message": "[SUCCESS] Processed: AI\ub85c \uc778\ud55c \uc21c \uc77c\uc790\ub9ac \uac10\uc18c\ub97c \uc608\uc0c1\ud558\ub294 37\uac1c\uad6d\uc758 34\uac1c\uad6d \uc778\uad6c: Pew Research Center\uc758 \uc870\uc0ac\n  > Summary: Pew Research Center\uc758 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74, 36\uac1c\uad6d 42,151\uba85\uc758 \uc131\uc778\uacfc 8,..."
-    },
     {
       "timestamp": "2026-09-17 20:07:31",
       "message": "[PROCESSING] Analyzing: Analysis: tech employers filed layoff notices for 14,500+ Bay Area workers in the 12 months to June; Bay Area software engineer demand is down 42% since 2022 (Francesca Maglione/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 20:08:15",
       "message": "[PROCESSING] Analyzing: Virtual Fabrication Meets Stress Physics: Solving GAA Channel Non-Uniformity..."
+    },
+    {
+      "timestamp": "2026-09-17 20:08:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Virtual Fabrication Meets Stress Physics: Solving GAA Channel Non-Uniformity"
     }
   ]
 }
