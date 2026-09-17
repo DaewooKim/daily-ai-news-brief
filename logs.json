@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 04:19:00",
+  "last_updated": "2026-09-17 04:19:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 04:18:07",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-09-17 04:18:07",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 04:19:00",
       "message": "[PROCESSING] Analyzing: Your \u2018health age\u2019 is fake..."
+    },
+    {
+      "timestamp": "2026-09-17 04:19:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Your \u2018health age\u2019 is fake"
     }
   ]
 }
