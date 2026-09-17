@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 14:28:58",
+  "last_updated": "2026-09-17 14:29:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 14:28:14",
-      "message": "Found 154 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-17 14:28:14",
       "message": "[PROCESSING] Analyzing: Microsoft AI CEO says AI threats are real, and Anthropic is making it worse..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 14:28:58",
       "message": "Reprocessing: Operationalize AI At Scale With HPE And Nvidia"
+    },
+    {
+      "timestamp": "2026-09-17 14:29:00",
+      "message": "[SKIP] Content too short: Operationalize AI At Scale Wit..."
     }
   ]
 }
