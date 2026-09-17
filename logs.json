@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 06:41:44",
+  "last_updated": "2026-09-17 06:41:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 06:41:00",
-      "message": "[SUCCESS] Processed: \uc18d\ub3c4\ub294 \uc0c8\ub85c\uc6b4 \uc6a9\ub7c9\uc774\ub2e4: AI \uc778\ud504\ub77c\uac00 \uc0c8\ub85c\uc6b4 \uc804\ub825 \uc804\ub7b5\uc744 \ud544\uc694\ub85c \ud558\ub294 \uc774\uc720\n  > Summary: AI \uc778\ud504\ub77c\uc5d0 \uc788\uc5b4 \uc804\ub825 \uacf5\uae09\uc758 \uc18d\ub3c4\uac00 \ub2e8\uc21c\ud55c \uc6a9\ub7c9\ubcf4\ub2e4 \ub354 \uc911\uc694\ud574\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc0ac\uc774..."
-    },
     {
       "timestamp": "2026-09-17 06:41:02",
       "message": "[PROCESSING] Analyzing: Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models (Yael Grauer/The Verge)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 06:41:44",
       "message": "[PROCESSING] Analyzing: AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring (Omar Abdel-Baqui/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-09-17 06:41:47",
+      "message": "[SKIP] Irrelevant (AI Filter): AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring (Omar Abdel-Baqui/Wall Street Journal)"
     }
   ]
 }
