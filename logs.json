@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 04:25:55",
+  "last_updated": "2026-09-17 04:25:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 04:25:04",
-      "message": "[SUCCESS] Processed: \uc5e3\uc9c0 AI \ucd94\ub860\uc744 \uc704\ud55c \ud6a8\uc728\uc801\uc778 \uc0dd\ud0dc\uacc4 \ud611\ub825 \uac00\ub2a5\uc131\n  > Summary: \uc774 \ubc31\uc11c\uc5d0\uc11c\ub294 DEEPX, Rambus, \uc0bc\uc131 \ud30c\uc6b4\ub4dc\ub9ac\uac00 \ud611\ub825\ud558\uc5ec \uc5e3\uc9c0 AI \ucd94\ub860\uc744 \ucd5c\uc801\ud654..."
-    },
     {
       "timestamp": "2026-09-17 04:25:05",
       "message": "[PROCESSING] Analyzing: Blog Review: Sept. 16..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 04:25:55",
       "message": "[PROCESSING] Analyzing: Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse..."
+    },
+    {
+      "timestamp": "2026-09-17 04:25:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse"
     }
   ]
 }
