@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 20:06:14",
+  "last_updated": "2026-09-17 20:06:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 20:05:29",
-      "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
-    },
     {
       "timestamp": "2026-09-17 20:05:31",
       "message": "Reprocessing: Helping older adults use AI in everyday life"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 20:06:14",
       "message": "[PROCESSING] Analyzing: Electronics Design Analysis for PCBs, Packages and Devices..."
+    },
+    {
+      "timestamp": "2026-09-17 20:06:17",
+      "message": "[SKIP] Irrelevant (AI Filter): Electronics Design Analysis for PCBs, Packages and Devices"
     }
   ]
 }
