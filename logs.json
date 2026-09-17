@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 20:08:02",
+  "last_updated": "2026-09-17 20:08:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 20:07:15",
-      "message": "[SUCCESS] Processed: \uc564\ub4dc\ub958 \uc751, \uc778\uacf5\uc9c0\ub2a5 \uba78\uc885 \uacbd\uace0\ub294 '\uacfc\ud559\ubcf4\ub2e4 \uacf5\uc0c1\uacfc\ud559'\uc774\ub77c\uba70 \ucd5c\uadfc PR\uc740 \uaddc\uc81c\ub97c \ud615\uc131\ud558\ub824\ub294 \uc758\ub3c4\uc77c \uac83\uc774\ub77c\uace0 \ub9d0\ud558\ub2e4\n  > Summary: \uc778\uacf5\uc9c0\ub2a5 \uc120\uad6c\uc790 \uc564\ub4dc\ub958 \uc751\uc740 \uc5f0\uad6c\uc790\ub4e4\ub85c\ubd80\ud130 \ub098\uc624\ub294 \uc778\uacf5\uc9c0\ub2a5\uc758 \uc874\uc7ac\uc801 \uc704\ud5d8\uc5d0 \ub300\ud55c \uacbd\uace0\uac00 '..."
-    },
     {
       "timestamp": "2026-09-17 20:07:17",
       "message": "[PROCESSING] Analyzing: NYT court filing: ChatGPT's head wrote that publishers face an \"existential threat\" and a Microsoft executive called AI training \"an astonishing theft\" (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 20:08:02",
       "message": "[PROCESSING] Analyzing: Negative Expansion Materials Resist Warpage..."
+    },
+    {
+      "timestamp": "2026-09-17 20:08:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Negative Expansion Materials Resist Warpage"
     }
   ]
 }
