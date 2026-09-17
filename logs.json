@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 04:21:36",
+  "last_updated": "2026-09-17 04:21:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 04:20:54",
-      "message": "[SUCCESS] Processed: \uc568 \uace0\uc5b4, \uc2e4\uc81c AI \uc704\ud5d8\uc740 \ub370\uc774\ud130 \uc13c\ud130\uac00 \uc544\ub2c8\ub77c \uc0b0\uc5c5 \ub9ac\ub354\ub4e4\uc774 \uacbd\uace0\ud558\uace0 \uc788\ub294 \uac83\uc774\ub77c\ub294 \uc8fc\uc7a5\n  > Summary: \uc568 \uace0\uc5b4\ub294 TechCrunch\uc640\uc758 \uc778\ud130\ubdf0\uc5d0\uc11c AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \ubc30\uae30\uac00\uc2a4\ubcf4\ub2e4\ub294 AI \uae30\uc220\uc774..."
-    },
     {
       "timestamp": "2026-09-17 04:20:56",
       "message": "[PROCESSING] Analyzing: Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 04:21:36",
       "message": "[PROCESSING] Analyzing: SK Hynix reportedly in talks with Intel to build memory chips in US..."
+    },
+    {
+      "timestamp": "2026-09-17 04:21:38",
+      "message": "[SKIP] Irrelevant (AI Filter): SK Hynix reportedly in talks with Intel to build memory chips in US"
     }
   ]
 }
