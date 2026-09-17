@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-17 22:20:23",
+  "last_updated": "2026-09-17 22:20:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-17 22:19:39",
-      "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
-    },
     {
       "timestamp": "2026-09-17 22:19:41",
       "message": "Reprocessing: Introducing Astra for Law"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-17 22:20:23",
       "message": "[PROCESSING] Analyzing: After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera..."
+    },
+    {
+      "timestamp": "2026-09-17 22:20:25",
+      "message": "[SKIP] Irrelevant (AI Filter): After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera"
     }
   ]
 }
