@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 23:53:22",
+  "last_updated": "2026-09-18 23:53:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 23:52:39",
-      "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
-    },
     {
       "timestamp": "2026-09-18 23:52:41",
       "message": "Reprocessing: Introducing Astra for Law"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 23:53:22",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s first embedded evaluator is\u00a0\u2026 Accenture?..."
+    },
+    {
+      "timestamp": "2026-09-18 23:53:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic\u2019s first embedded evaluator is\u00a0\u2026 Accenture?"
     }
   ]
 }
