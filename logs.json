@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 07:10:01",
+  "last_updated": "2026-09-18 07:10:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 07:09:22",
-      "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
-    },
     {
       "timestamp": "2026-09-18 07:09:24",
       "message": "Reprocessing: Introducing Astra for Law"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 07:10:01",
       "message": "[PROCESSING] Analyzing: Electronics Design Analysis for PCBs, Packages and Devices..."
+    },
+    {
+      "timestamp": "2026-09-18 07:10:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Electronics Design Analysis for PCBs, Packages and Devices"
     }
   ]
 }
