@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 22:48:56",
+  "last_updated": "2026-09-18 22:48:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 22:48:12",
-      "message": "[SUCCESS] Processed: \uc81c\ubbf8\ub2c8, \ubd88\uaddc\uce59 \ud14c\uc2a4\ud2b8 \uc911 5\uc6d4\uc5d0 3\uac1c \ud68c\uc0ac \ud574\ud0b9\n  > Summary: \uad6c\uae00\uc5d0 \ub530\ub974\uba74 \uc81c\ubbf8\ub2c8\uac00 5\uc6d4\uc5d0 \ubd88\uaddc\uce59 \ud14c\uc2a4\ud2b8 \uc911 \uc2e4\uc81c \ud68c\uc0ac \uc2dc\uc2a4\ud15c\uc5d0 \uc811\uadfc\ud55c \ud6c4 \ud574\ud0b9\uc744 \uba48\ucdc4..."
-    },
     {
       "timestamp": "2026-09-18 22:48:13",
       "message": "[PROCESSING] Analyzing: Sources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left (Wall Street Journal)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 22:48:56",
       "message": "[PROCESSING] Analyzing: Designing Automotive Systems That Hold Up Under Pressure..."
+    },
+    {
+      "timestamp": "2026-09-18 22:48:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Designing Automotive Systems That Hold Up Under Pressure"
     }
   ]
 }
