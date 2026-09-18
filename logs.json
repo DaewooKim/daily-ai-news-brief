@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 19:25:18",
+  "last_updated": "2026-09-18 19:25:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 19:24:33",
-      "message": "[PROCESSING] Analyzing: Benchmarking LLM Inference at Scale with AIPerf..."
-    },
     {
       "timestamp": "2026-09-18 19:24:37",
       "message": "[SUCCESS] Processed: AIPerf\ub97c \ud1b5\ud55c \ub300\uaddc\ubaa8 LLM \ucd94\ub860 \uc131\ub2a5 \ud3c9\uac00\n  > Summary: \uc774 \uae30\uc0ac\ub294 LLM \ubaa8\ub378\uc744 \uc2dc\uc2a4\ud15c\uc5d0 \ubc30\ud3ec\ud558\uc5ec \uc131\ub2a5\uc744 \ud3c9\uac00\ud558\ub294 \uacfc\uc815\uc5d0 \ub300\ud574 \uc124\uba85\ud569\ub2c8\ub2e4. \ubaa8\ub378\uc774..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 19:25:18",
       "message": "[SUCCESS] Processed: \ub178\uc778\uc744 \uc704\ud55c \uc77c\uc0c1\uc0dd\ud65c\uc5d0\uc11c AI \ud65c\uc6a9 \ub3c4\uc6c0\n  > Summary: OpenAI\uc640 AARP\ub294 \ubbf8\uad6d 10\uac1c \ub3c4\uc2dc\uc5d0\uc11c 1,000\uba85\uc758 \ub178\uc778\uc744 \ub300\uc0c1\uc73c\ub85c \ubb34\ub8cc Chat..."
+    },
+    {
+      "timestamp": "2026-09-18 19:25:20",
+      "message": "Reprocessing: Our framework for reporting model misalignment"
     }
   ]
 }
