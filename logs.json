@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 23:55:49",
+  "last_updated": "2026-09-18 23:55:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 23:55:08",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \uad00\ub9ac\ub4e4, \ud314\ub780\ud2f0\uc5b4\uc758 \uba54\uc774\ube10 AI \uc2dc\uc2a4\ud15c\uc5d0 \ub300\ud55c \uacfc\ub3c4\ud55c \uc758\uc874\uc774 123\uba85\uc758 \uc544\uc774\ub4e4\uc774 \uc0ac\ub9dd\ud55c \uc774\ub780\uc758 2\uc6d4 \ubbf8\uc0ac\uc77c \uacf5\uaca9\uc5d0 \uae30\uc5ec\ud55c \uc694\uc778 \uc911 \ud558\ub098\ub77c\uace0 \ubc1d\ud798(Bloomberg)\n  > Summary: \ubbf8\uad6d \uad00\ub9ac\ub4e4\uc740 \ud314\ub780\ud2f0\uc5b4\uc758 \uba54\uc774\ube10 AI \uc2dc\uc2a4\ud15c\uc5d0 \ub300\ud55c \uacfc\ub3c4\ud55c \uc758\uc874\uc774 \uc774\ub780\uc5d0\uc11c 123\uba85\uc758 \uc544\uc774..."
-    },
     {
       "timestamp": "2026-09-18 23:55:09",
       "message": "[PROCESSING] Analyzing: An arbitrator orders Uber to pay $40M to the parents of a woman fatally hit by a car after an Uber driver ordered her out of his car in 2023 (Christine Hauser/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 23:55:49",
       "message": "[PROCESSING] Analyzing: Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse..."
+    },
+    {
+      "timestamp": "2026-09-18 23:55:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse"
     }
   ]
 }
