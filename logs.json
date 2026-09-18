@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 12:41:02",
+  "last_updated": "2026-09-18 12:41:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 12:40:20",
-      "message": "Reprocessing: Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train"
-    },
     {
       "timestamp": "2026-09-18 12:40:22",
       "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 12:41:02",
       "message": "[PROCESSING] Analyzing: U.S. Awards Anderon $1B for Quantum Wafer Manufacturing..."
+    },
+    {
+      "timestamp": "2026-09-18 12:41:05",
+      "message": "[SKIP] Irrelevant (AI Filter): U.S. Awards Anderon $1B for Quantum Wafer Manufacturing"
     }
   ]
 }
