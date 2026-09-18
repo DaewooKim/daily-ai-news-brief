@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 03:53:38",
+  "last_updated": "2026-09-18 03:53:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 03:52:56",
-      "message": "[SUCCESS] Processed: \uc18d\ub3c4\uac00 \uc0c8\ub85c\uc6b4 \uc6a9\ub7c9\uc774\ub2e4: AI \uc778\ud504\ub77c\uac00 \uc0c8\ub85c\uc6b4 \uc804\ub825 \uc804\ub7b5\uc744 \ud544\uc694\ub85c \ud558\ub294 \uc774\uc720\n  > Summary: AI \uc778\ud504\ub77c\uc5d0\uc11c\ub294 \uc804\ub825 \uacf5\uae09 \uc18d\ub3c4\uac00 \ub2e8\uc21c\ud55c \uc6a9\ub7c9\ubcf4\ub2e4 \uc911\uc694\ud574\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc0ac\uc774\ud2b8 \uc120\ud0dd..."
-    },
     {
       "timestamp": "2026-09-18 03:52:58",
       "message": "[PROCESSING] Analyzing: PrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores (Julie Bort/TechCrunch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 03:53:38",
       "message": "[PROCESSING] Analyzing: Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse..."
+    },
+    {
+      "timestamp": "2026-09-18 03:53:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse"
     }
   ]
 }
