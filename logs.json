@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 23:52:18",
+  "last_updated": "2026-09-18 23:52:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 23:51:44",
-      "message": "Found 173 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-18 23:51:44",
       "message": "[PROCESSING] Analyzing: The real story of the iPhone 18 Pro&#8217;s camera..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 23:52:18",
       "message": "[PROCESSING] Analyzing: 5 Kubernetes Backup Best Practices..."
+    },
+    {
+      "timestamp": "2026-09-18 23:52:20",
+      "message": "[SKIP] Irrelevant (AI Filter): 5 Kubernetes Backup Best Practices"
     }
   ]
 }
