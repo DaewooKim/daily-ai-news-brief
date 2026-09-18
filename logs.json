@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 23:55:28",
+  "last_updated": "2026-09-18 23:55:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 23:54:40",
-      "message": "[SUCCESS] Processed: \uc18d\ub3c4\ub294 \uc0c8\ub85c\uc6b4 \uc6a9\ub7c9\uc774\ub2e4: AI \uc778\ud504\ub77c\uac00 \uc0c8\ub85c\uc6b4 \uc804\ub825 \uc804\ub7b5\uc744 \uac00\uc838\uc57c \ud558\ub294 \uc774\uc720\n  > Summary: AI \uc778\ud504\ub77c\uc5d0\uc11c\ub294 \uc804\ub825 \uacf5\uae09 \uc18d\ub3c4\uac00 \uc6a9\ub7c9 \ubabb\uc9c0\uc54a\uac8c \uc911\uc694\ud574\uc9c0\uace0 \uc788\uc73c\uba70, \uc774\ub294 \uc0ac\uc774\ud2b8 \uc120\ud0dd\uc744 ..."
-    },
     {
       "timestamp": "2026-09-18 23:54:42",
       "message": "[PROCESSING] Analyzing: Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand (Kerry Flynn/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 23:55:28",
       "message": "[PROCESSING] Analyzing: Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)..."
+    },
+    {
+      "timestamp": "2026-09-18 23:55:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)"
     }
   ]
 }
