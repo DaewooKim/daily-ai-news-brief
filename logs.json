@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 20:36:27",
+  "last_updated": "2026-09-18 20:36:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 20:35:55",
-      "message": "[PROCESSING] Analyzing: Eggtronic, Renesas Target 140-W USB-C Chargers with GaN..."
-    },
     {
       "timestamp": "2026-09-18 20:35:57",
       "message": "[SKIP] Irrelevant (AI Filter): Eggtronic, Renesas Target 140-W USB-C Chargers with GaN"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 20:36:27",
       "message": "Reprocessing: OpenAI launches Astra for Law, a GPT-6 configuration for legal research"
+    },
+    {
+      "timestamp": "2026-09-18 20:36:28",
+      "message": "[SKIP] Content too short: OpenAI launches Astra for Law,..."
     }
   ]
 }
