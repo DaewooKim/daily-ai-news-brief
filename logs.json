@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 09:23:47",
+  "last_updated": "2026-09-18 09:23:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 09:23:07",
-      "message": "[PROCESSING] Analyzing: Sources: Apple plans to launch Apple Pay in India next month with Axis Bank's credit cards; Axis Bank is the fourth-largest credit card issuer in India (Reuters)..."
-    },
     {
       "timestamp": "2026-09-18 09:23:10",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple plans to launch Apple Pay in India next month with Axis Bank's credit cards; Axis Bank is the fourth-largest credit card issuer in India (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 09:23:47",
       "message": "[SKIP] Content too short: Tokenized stock trading is abo..."
+    },
+    {
+      "timestamp": "2026-09-18 09:23:48",
+      "message": "Reprocessing: AI data center builder Crusoe valued at $30.9B in $3.9B round"
     }
   ]
 }
