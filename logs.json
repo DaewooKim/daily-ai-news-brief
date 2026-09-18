@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 23:56:10",
+  "last_updated": "2026-09-18 23:56:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 23:55:26",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ud3c9\uac00\uc790\ub97c \uc564\ud2b8\ub85c\ud53d \ub0b4\uc5d0 \ubc30\uce58\ud558\uae30 \uc704\ud574 \uc561\uc13c\ucd94\uc5b4\uc640 \ud30c\ud2b8\ub108\uc2ed \uccb4\uacb0\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \uc561\uc13c\ucd94\uc5b4\uc640 \ud611\ub825\ud558\uc5ec \uc790\uc0ac\uc758 AI \ubaa8\ub378\uc744 \ub3c5\ub9bd\uc801\uc73c\ub85c \ud3c9\uac00\ud558\ub294 \uc791\uc5c5\uc744 \uc9c4\ud589\ud569\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-09-18 23:55:28",
       "message": "[PROCESSING] Analyzing: Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 23:56:10",
       "message": "[PROCESSING] Analyzing: Eggtronic, Renesas Target 140-W USB-C Chargers with GaN..."
+    },
+    {
+      "timestamp": "2026-09-18 23:56:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Eggtronic, Renesas Target 140-W USB-C Chargers with GaN"
     }
   ]
 }
