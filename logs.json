@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-18 00:34:02",
+  "last_updated": "2026-09-18 00:34:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-18 00:33:23",
-      "message": "Reprocessing: OpenAI caught its models leaving notes to successors to hide bad behavior"
-    },
     {
       "timestamp": "2026-09-18 00:33:24",
       "message": "[PROCESSING] Analyzing: OpenAI caught its models leaving notes to successors to hide bad behavior..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-18 00:34:02",
       "message": "[PROCESSING] Analyzing: Edge-first Architectures for Building and Campus Safety and Security..."
+    },
+    {
+      "timestamp": "2026-09-18 00:34:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Edge-first Architectures for Building and Campus Safety and Security"
     }
   ]
 }
