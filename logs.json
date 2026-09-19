@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 22:05:11",
+  "last_updated": "2026-09-19 22:05:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 22:04:36",
-      "message": "[PROCESSING] Analyzing: Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)..."
-    },
     {
       "timestamp": "2026-09-19 22:04:39",
       "message": "[SKIP] Irrelevant (AI Filter): Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 22:05:11",
       "message": "Reprocessing: Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface"
+    },
+    {
+      "timestamp": "2026-09-19 22:05:13",
+      "message": "[SKIP] Content too short: Salesforce after Dreamforce: H..."
     }
   ]
 }
