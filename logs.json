@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-19 08:50:27",
-  "status": "idle",
+  "last_updated": "2026-09-19 09:50:59",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-19 08:48:57",
-      "message": "Reprocessing: Tokenized stock trading is about to take off after SEC issues five-year exemption from securities laws"
+      "timestamp": "2026-09-19 09:50:47",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-19 08:48:58",
-      "message": "[SKIP] Content too short: Tokenized stock trading is abo..."
+      "timestamp": "2026-09-19 09:50:48",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-19 08:49:00",
-      "message": "Reprocessing: AI data center builder Crusoe valued at $30.9B in $3.9B round"
+      "timestamp": "2026-09-19 09:50:48",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-19 08:49:02",
-      "message": "[SKIP] Content too short: AI data center builder Crusoe ..."
+      "timestamp": "2026-09-19 09:50:59",
+      "message": "Found 174 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-19 08:49:04",
-      "message": "Reprocessing: Anthropic details practical metrics to help monitor the speed of AI development"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:05",
-      "message": "[SKIP] Content too short: Anthropic details practical me..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:07",
-      "message": "Reprocessing: OpenAI launches Astra for Law, a GPT-6 configuration for legal research"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:09",
-      "message": "[SKIP] Content too short: OpenAI launches Astra for Law,..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:10",
-      "message": "Reprocessing: Treble nabs $18M to generate audio simulations for robots"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:12",
-      "message": "[SKIP] Content too short: Treble nabs $18M to generate a..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:13",
-      "message": "Reprocessing: Google expands CC into a shared AI agent for up to six family members"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:15",
-      "message": "[SKIP] Content too short: Google expands CC into a share..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:17",
-      "message": "Reprocessing: Mind raises $72M to stop sensitive data leaking into AI tools"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:18",
-      "message": "[SKIP] Content too short: Mind raises $72M to stop sensi..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:20",
-      "message": "Reprocessing: Nvidia, Google and Emerald AI launch flexible data center consortium"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:22",
-      "message": "[SKIP] Content too short: Nvidia, Google and Emerald AI ..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:24",
-      "message": "Reprocessing: AI agents erase the paper trail, reshaping audit assurance"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:25",
-      "message": "[SKIP] Content too short: AI agents erase the paper trai..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:27",
-      "message": "Reprocessing: Microsoft puts post-quantum interoperability to a real-world test"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:29",
-      "message": "[SKIP] Content too short: Microsoft puts post-quantum in..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:30",
-      "message": "Reprocessing: Daiwa and Deloitte break PQC implementation into manageable steps"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:32",
-      "message": "[SKIP] Content too short: Daiwa and Deloitte break PQC i..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:34",
-      "message": "Reprocessing: Post-quantum regulations converge on 2030 but split on scope"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:35",
-      "message": "[SKIP] Content too short: Post-quantum regulations conve..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:37",
-      "message": "Reprocessing: LGT Financial Services grounds post-quantum migration in live banking pilot"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:39",
-      "message": "[SKIP] Content too short: LGT Financial Services grounds..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:40",
-      "message": "Reprocessing: Quantum readiness moves from blueprint to build as 2029 deadlines converge"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:42",
-      "message": "[SKIP] Content too short: Quantum readiness moves from b..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:44",
-      "message": "Reprocessing: AI governance moves closer to the workflow: theCUBE Insights at Amplify"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:45",
-      "message": "[SKIP] Content too short: AI governance moves closer to ..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:47",
-      "message": "Reprocessing: Trust, not budget: Why AI adoption in finance comes down to governance"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:49",
-      "message": "[SKIP] Content too short: Trust, not budget: Why AI adop..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:51",
-      "message": "Reprocessing: HP ties sustainability data governance to business decisions in the AI era"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:52",
-      "message": "[SKIP] Content too short: HP ties sustainability data go..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:54",
-      "message": "Reprocessing: Exclusive: Arcjet launches runtime security to track and control AI agents in production"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:56",
-      "message": "[SKIP] Content too short: Exclusive: Arcjet launches run..."
-    },
-    {
-      "timestamp": "2026-09-19 08:49:57",
-      "message": "Reprocessing: Exclusive: PeakMetrics tracks brand reputations across five top AI platforms"
-    },
-    {
-      "timestamp": "2026-09-19 08:49:59",
-      "message": "[SKIP] Content too short: Exclusive: PeakMetrics tracks ..."
-    },
-    {
-      "timestamp": "2026-09-19 08:50:01",
-      "message": "Reprocessing: Compliance automation startup Comp AI raises $34M to push into security"
-    },
-    {
-      "timestamp": "2026-09-19 08:50:02",
-      "message": "[SKIP] Content too short: Compliance automation startup ..."
-    },
-    {
-      "timestamp": "2026-09-19 08:50:04",
-      "message": "Reprocessing: Open-weight model developer Arcee AI reaches $1B+ valuation with new funding"
-    },
-    {
-      "timestamp": "2026-09-19 08:50:06",
-      "message": "[SKIP] Content too short: Open-weight model developer Ar..."
-    },
-    {
-      "timestamp": "2026-09-19 08:50:08",
-      "message": "Reprocessing: OpenAI unveils new framework for reporting \u2018AI misalignment\u2019 as it reveals six more worrying incidents"
-    },
-    {
-      "timestamp": "2026-09-19 08:50:09",
-      "message": "[SKIP] Content too short: OpenAI unveils new framework f..."
-    },
-    {
-      "timestamp": "2026-09-19 08:50:11",
-      "message": "Reprocessing: Migrating the GitHub Copilot runtime to Rust, using Copilot"
-    },
-    {
-      "timestamp": "2026-09-19 08:50:13",
-      "message": "[PROCESSING] Analyzing: Migrating the GitHub Copilot runtime to Rust, using Copilot..."
-    },
-    {
-      "timestamp": "2026-09-19 08:50:16",
-      "message": "[SUCCESS] Processed: GitHub Copilot \ub7f0\ud0c0\uc784\uc744 Rust\ub85c \ub9c8\uc774\uadf8\ub808\uc774\uc158\ud558\uae30\n  > Summary: GitHub Copilot\uc758 CLI, \uc571, SDK\ub294 Copilot \uc5d0\uc774\uc804\ud2b8 \ub7f0\ud0c0\uc784\uc5d0 \uc758\ud574 ..."
-    },
-    {
-      "timestamp": "2026-09-19 08:50:18",
-      "message": "Completed! New: 0, Updated: 52"
-    },
-    {
-      "timestamp": "2026-09-19 08:50:22",
-      "message": "Saved 52 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-19 08:50:26",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-19 09:50:59",
+      "message": "[PROCESSING] Analyzing: The real story of the iPhone 18 Pro&#8217;s camera..."
     }
   ]
 }
