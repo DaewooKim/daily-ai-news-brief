@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 20:55:42",
+  "last_updated": "2026-09-19 20:55:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 20:55:07",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-19 20:55:07",
       "message": "[PROCESSING] Analyzing: Meta\u2019s Muse is creepy, but maybe not for the reasons you think..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 20:55:42",
       "message": "[PROCESSING] Analyzing: 5 Kubernetes Backup Best Practices..."
+    },
+    {
+      "timestamp": "2026-09-19 20:55:45",
+      "message": "[SKIP] Irrelevant (AI Filter): 5 Kubernetes Backup Best Practices"
     }
   ]
 }
