@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 22:02:52",
+  "last_updated": "2026-09-19 22:02:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 22:02:14",
-      "message": "Reprocessing: Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train"
-    },
     {
       "timestamp": "2026-09-19 22:02:15",
       "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 22:02:52",
       "message": "[PROCESSING] Analyzing: Prices go up in 7 days. Get your Disrupt ticket now...."
+    },
+    {
+      "timestamp": "2026-09-19 22:02:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Prices go up in 7 days. Get your Disrupt ticket now."
     }
   ]
 }
