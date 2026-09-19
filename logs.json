@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 08:46:45",
+  "last_updated": "2026-09-19 08:46:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 08:46:05",
-      "message": "[PROCESSING] Analyzing: A startup that builds other startups raised $100M and is all-in on physical AI..."
-    },
     {
       "timestamp": "2026-09-19 08:46:09",
       "message": "[SUCCESS] Processed: \uc2a4\ud0c0\ud2b8\uc5c5\uc744 \uad6c\ucd95\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5\uc774 1\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\uace0 \ubb3c\ub9ac\uc801 AI\uc5d0 \uc804\ub150\ud558\ub2e4\n  > Summary: UP.Labs, \ud604\uc7ac Vantora\ub77c\ub294 \uc774\ub984\uc73c\ub85c \uc601\uc5c5 \uc911\uc778 \uc774 \ud68c\uc0ac\ub294 \uc0b0\uc5c5 \uae30\uc5c5\uc744 \uc704\ud55c \uc2a4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 08:46:45",
       "message": "[PROCESSING] Analyzing: Electronics Design Analysis for PCBs, Packages and Devices..."
+    },
+    {
+      "timestamp": "2026-09-19 08:46:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Electronics Design Analysis for PCBs, Packages and Devices"
     }
   ]
 }
