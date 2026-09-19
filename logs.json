@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 19:52:48",
+  "last_updated": "2026-09-19 19:52:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 19:52:08",
-      "message": "[PROCESSING] Analyzing: Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)..."
-    },
     {
       "timestamp": "2026-09-19 19:52:10",
       "message": "[SKIP] Irrelevant (AI Filter): Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 19:52:48",
       "message": "Reprocessing: At AGNTCon Europe, ensuring AI agents don\u2019t kill us all"
+    },
+    {
+      "timestamp": "2026-09-19 19:52:50",
+      "message": "[SKIP] Content too short: At AGNTCon Europe, ensuring AI..."
     }
   ]
 }
