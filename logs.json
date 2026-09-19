@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 12:07:14",
+  "last_updated": "2026-09-19 12:07:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 12:06:35",
-      "message": "[PROCESSING] Analyzing: Rack Power Is Rising Fast. Here\u2019s What It Means for Data Centers..."
-    },
     {
       "timestamp": "2026-09-19 12:06:38",
       "message": "[SUCCESS] Processed: \ub799 \uc804\ub825\uc774 \ube60\ub974\uac8c \uc99d\uac00\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \uc758\ubbf8\ub294 \uc774\ub807\uc2b5\ub2c8\ub2e4.\n  > Summary: AI \uc911\uc2ec\uc758 \ubc30\ud3ec\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \uac01 \ub799\uc758 \uc804\ub825 \ubd80\ud558\uac00 \ub192\uc544\uc9c0\uace0 \uc788\uc73c\uba70, \uc804\ub825 \uacf5\uae09, \uc561\uccb4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 12:07:14",
       "message": "[PROCESSING] Analyzing: Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand (Kerry Flynn/Axios)..."
+    },
+    {
+      "timestamp": "2026-09-19 12:07:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand (Kerry Flynn/Axios)"
     }
   ]
 }
