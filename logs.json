@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 04:19:39",
+  "last_updated": "2026-09-19 04:19:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 04:18:59",
-      "message": "Reprocessing: Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train"
-    },
     {
       "timestamp": "2026-09-19 04:19:01",
       "message": "[SKIP] Content too short: Bypassing inference bottleneck..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 04:19:39",
       "message": "[PROCESSING] Analyzing: Anthropic is operating a lab that conducts biology experiments..."
+    },
+    {
+      "timestamp": "2026-09-19 04:19:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic is operating a lab that conducts biology experiments"
     }
   ]
 }
