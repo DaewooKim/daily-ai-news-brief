@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 16:33:17",
+  "last_updated": "2026-09-19 16:33:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 16:32:40",
-      "message": "[SUCCESS] Processed: \ucd9c\ucc98: USPTO\uc640 \ubbf8\uad6d \uc800\uc791\uad8c \uccad\uc740 OpenAI\uc640 Microsoft\uac00 \ub274\uc695 \ud0c0\uc784\uc988\uc640\uc758 \ubd84\uc7c1\uc5d0\uc11c \uc9c0\uc6d0\ubc1b\ub294 \uac83\uc5d0 \ub300\ud574 DOJ\uc758 \ub17c\ud3c9\uc5d0 \ub180\ub790\ub2e4\n  > Summary: \ubbf8\uad6d \ubc95\ubb34\ubd80\uac00 OpenAI\uc640 Microsoft\ub97c \ub274\uc695 \ud0c0\uc784\uc988\uc758 \uc800\uc791\uad8c \uce68\ud574 \uc18c\uc1a1\uc5d0\uc11c \uc9c0\uc9c0\ud558..."
-    },
     {
       "timestamp": "2026-09-19 16:32:41",
       "message": "Reprocessing: Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV (Chris Metinko/Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 16:33:17",
       "message": "[PROCESSING] Analyzing: Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse..."
+    },
+    {
+      "timestamp": "2026-09-19 16:33:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse"
     }
   ]
 }
