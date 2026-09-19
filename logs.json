@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-19 14:17:04",
+  "last_updated": "2026-09-19 14:17:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-19 14:16:21",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-09-19 14:16:21",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-19 14:17:04",
       "message": "[PROCESSING] Analyzing: 5 Kubernetes Backup Best Practices..."
+    },
+    {
+      "timestamp": "2026-09-19 14:17:06",
+      "message": "[SKIP] Irrelevant (AI Filter): 5 Kubernetes Backup Best Practices"
     }
   ]
 }
