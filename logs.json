@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 18:58:01",
+  "last_updated": "2026-09-20 18:58:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 18:57:27",
-      "message": "[PROCESSING] Analyzing: California Gov. Gavin Newsom signs a law that will penalize influencers who do not properly disclose paid political content, with fines of up to $5K per post (Ken Bensinger/New York Times)..."
-    },
     {
       "timestamp": "2026-09-20 18:57:29",
       "message": "[SKIP] Irrelevant (AI Filter): California Gov. Gavin Newsom signs a law that will penalize influencers who do not properly disclose paid political content, with fines of up to $5K per post (Ken Bensinger/New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 18:58:01",
       "message": "Reprocessing: Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal"
+    },
+    {
+      "timestamp": "2026-09-20 18:58:03",
+      "message": "[SKIP] Content too short: Data center builder Nscale fil..."
     }
   ]
 }
