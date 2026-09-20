@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 21:08:48",
+  "last_updated": "2026-09-20 21:08:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 21:08:12",
-      "message": "[SUCCESS] Processed: \uc138\uacc4 \ubaa8\ub378 \ud68c\uc0ac\ub4e4\uc774 \ub9ce\uc740 \ube44\ubc00\uc744 \uac04\uc9c1\ud558\uace0 \uc788\ub2e4\n  > Summary: \uc138\uacc4 \ubaa8\ub378 \ubd84\uc57c\uc758 \uae30\uc5c5\ub4e4\uc740 \ub9ce\uc740 \uc790\ubcf8\uacfc \ud654\uc81c\ub97c \ub0b3\uace0 \uc788\uc9c0\ub9cc, \ucc3d\ub9bd\uc790\ubd80\ud130 \ub370\uc774\ud130 \uacf5\uae09\uc790\uc5d0 \uc774..."
-    },
     {
       "timestamp": "2026-09-20 21:08:13",
       "message": "[PROCESSING] Analyzing: Vocci\u2019s ring adds a new form factor to meeting note-taking..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 21:08:48",
       "message": "[PROCESSING] Analyzing: Anthropic is operating a lab that conducts biology experiments..."
+    },
+    {
+      "timestamp": "2026-09-20 21:08:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic is operating a lab that conducts biology experiments"
     }
   ]
 }
