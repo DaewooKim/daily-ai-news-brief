@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 11:14:46",
+  "last_updated": "2026-09-20 11:14:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 11:14:09",
-      "message": "Reprocessing: Rack Power Is Rising Fast. Here\u2019s What It Means for Data Centers"
-    },
     {
       "timestamp": "2026-09-20 11:14:11",
       "message": "[PROCESSING] Analyzing: Rack Power Is Rising Fast. Here\u2019s What It Means for Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 11:14:46",
       "message": "[PROCESSING] Analyzing: Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse..."
+    },
+    {
+      "timestamp": "2026-09-20 11:14:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse"
     }
   ]
 }
