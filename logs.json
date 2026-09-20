@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 01:21:22",
+  "last_updated": "2026-09-20 01:21:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 01:20:45",
-      "message": "[SUCCESS] Processed: \uc564\ub4dc\ub9ac\uc13c \ud638\ub85c\uc704\uce20\uc758 \uc9c0\uc6d0\uc744 \ubc1b\ub294 Vals, AI \ubca4\uce58\ub9c8\ud06c\uc758 \uae08\ubcf8\uc704\uac00 \ub418\uace0\uc790 \ud558\ub2e4\n  > Summary: Vals AI\ub294 \uc810\uc810 \ub354 \ub9ce\uc740 AI \ubaa8\ub378\ub85c \ud63c\uc7a1\ud574\uc9c4 \uc138\uc0c1\uc5d0\uc11c AI \ubca4\uce58\ub9c8\ud06c\ub97c \ubcf4\ub2e4 \uc911\ub9bd\uc801\uc774..."
-    },
     {
       "timestamp": "2026-09-20 01:20:47",
       "message": "[PROCESSING] Analyzing: India forces caller-ID apps to feed spam reports to telcos..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 01:21:22",
       "message": "[PROCESSING] Analyzing: Electronics Design Analysis for PCBs, Packages and Devices..."
+    },
+    {
+      "timestamp": "2026-09-20 01:21:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Electronics Design Analysis for PCBs, Packages and Devices"
     }
   ]
 }
