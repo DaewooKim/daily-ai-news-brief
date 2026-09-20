@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 04:40:03",
+  "last_updated": "2026-09-20 04:40:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 04:39:26",
-      "message": "Reprocessing: Rack Power Is Rising Fast. Here\u2019s What It Means for Data Centers"
-    },
     {
       "timestamp": "2026-09-20 04:39:28",
       "message": "[PROCESSING] Analyzing: Rack Power Is Rising Fast. Here\u2019s What It Means for Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 04:40:03",
       "message": "[PROCESSING] Analyzing: Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)..."
+    },
+    {
+      "timestamp": "2026-09-20 04:40:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)"
     }
   ]
 }
