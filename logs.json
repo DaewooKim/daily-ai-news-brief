@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 06:50:12",
+  "last_updated": "2026-09-20 06:50:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 06:49:35",
-      "message": "[SUCCESS] Processed: \ub178\uc778\uc774 \uc77c\uc0c1\uc0dd\ud65c\uc5d0\uc11c AI\ub97c \uc0ac\uc6a9\ud558\ub3c4\ub85d \ub3d5\uae30\n  > Summary: OpenAI\uc640 AARP\ub294 \ubbf8\uad6d 10\uac1c \ub3c4\uc2dc\uc5d0\uc11c 1,000\uba85\uc758 \ub178\uc778\uc744 \ub300\uc0c1\uc73c\ub85c \ubb34\ub8cc \uccb4\ud5d8\ud615 ..."
-    },
     {
       "timestamp": "2026-09-20 06:49:37",
       "message": "Reprocessing: Hex turns complex analysis into visual reports with GPT\u20116 Astra"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 06:50:12",
       "message": "[PROCESSING] Analyzing: Anthropic is operating a lab that conducts biology experiments..."
+    },
+    {
+      "timestamp": "2026-09-20 06:50:15",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic is operating a lab that conducts biology experiments"
     }
   ]
 }
