@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-20 07:57:50",
+  "last_updated": "2026-09-20 07:57:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-20 07:57:15",
-      "message": "[PROCESSING] Analyzing: California Gov. Gavin Newsom signs a law that will penalize influencers who do not properly disclose paid political content, with fines of up to $5K per post (Ken Bensinger/New York Times)..."
-    },
     {
       "timestamp": "2026-09-20 07:57:17",
       "message": "[SKIP] Irrelevant (AI Filter): California Gov. Gavin Newsom signs a law that will penalize influencers who do not properly disclose paid political content, with fines of up to $5K per post (Ken Bensinger/New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-20 07:57:50",
       "message": "Reprocessing: At AGNTCon Europe, ensuring AI agents don\u2019t kill us all"
+    },
+    {
+      "timestamp": "2026-09-20 07:57:52",
+      "message": "[SKIP] Content too short: At AGNTCon Europe, ensuring AI..."
     }
   ]
 }
