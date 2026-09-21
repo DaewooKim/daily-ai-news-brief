@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 01:33:22",
+  "last_updated": "2026-09-21 01:33:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 01:32:42",
-      "message": "[SUCCESS] Processed: \ud638\uc8fc \uccad\uc18c\ub144 \uc548\uc804 \uccad\uc0ac\uc9c4 \uc18c\uac1c\n  > Summary: OpenAI\uac00 \uccad\uc18c\ub144\uc744 \ubcf4\ud638\ud558\uace0 \uc9c0\uc6d0\ud558\uae30 \uc704\ud55c \uc548\uc804\ud55c AI \uacbd\ud5d8\uc744 \uc704\ud55c \uc5ec\uc12f \uac1c \uae30\ub465\uc73c\ub85c ..."
-    },
     {
       "timestamp": "2026-09-21 01:32:44",
       "message": "Reprocessing: Introducing Astra for Law"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 01:33:22",
       "message": "[PROCESSING] Analyzing: Flock reportedly tries to shrink workforce with employee buyouts..."
+    },
+    {
+      "timestamp": "2026-09-21 01:33:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Flock reportedly tries to shrink workforce with employee buyouts"
     }
   ]
 }
