@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 07:07:41",
+  "last_updated": "2026-09-21 07:07:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 07:07:01",
-      "message": "[SUCCESS] Processed: \ub799 \uc804\ub825 \uc99d\uac00\uac00 \ube60\ub974\uac8c \uc9c4\ud589\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \uc758\ubbf8\ub294 \ubb34\uc5c7\uc778\uac00\uc694?\n  > Summary: AI \uc911\uc2ec\uc758 \ubc30\ud3ec\uac00 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \ub799\ub2f9 \uc804\ub825 \ubd80\ud558\uac00 \ub192\uc544\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ub85c \uc778\ud574 \uc804\ub825 \uacf5..."
-    },
     {
       "timestamp": "2026-09-21 07:07:03",
       "message": "[PROCESSING] Analyzing: Delivery Certainty Will Define the Next Phase of Data Center Growth..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 07:07:41",
       "message": "[PROCESSING] Analyzing: Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse..."
+    },
+    {
+      "timestamp": "2026-09-21 07:07:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse"
     }
   ]
 }
