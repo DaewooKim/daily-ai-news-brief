@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 12:45:13",
+  "last_updated": "2026-09-21 12:45:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 12:44:29",
-      "message": "[PROCESSING] Analyzing: AI hallucination nearly triggers US military operation..."
-    },
     {
       "timestamp": "2026-09-21 12:44:34",
       "message": "[SUCCESS] Processed: AI \ud658\uac01\uc774 \ubbf8\uad6d \uad70\uc0ac \uc791\uc804\uc744 \uac70\uc758 \ucd09\ubc1c\uc2dc\ucf30\ub2e4\n  > Summary: GovAI \uc5f0\uad6c \ud559\uc790\uac00 LLM\uc758 \ubcf8\uc9c8\uc801\uc778 \ubd88\ud655\uc2e4\uc131\uc744 \uc774\ud574\ud558\ub294 \uac83\uc774 \uc11c\ube44\uc2a4 \uba64\ubc84\ub4e4\uc5d0\uac8c \uc911\uc694\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 12:45:13",
       "message": "[PROCESSING] Analyzing: Grid Constraints Steer Dutch Data Centers Beyond Amsterdam..."
+    },
+    {
+      "timestamp": "2026-09-21 12:45:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Grid Constraints Steer Dutch Data Centers Beyond Amsterdam"
     }
   ]
 }
