@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 06:01:06",
+  "last_updated": "2026-09-21 06:01:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 06:00:23",
-      "message": "[PROCESSING] Analyzing: A researcher used GPT-6 Astra to decipher a WWI German radio transmission from 1918, one of the 50 famous unsolved ciphers listed on a German science blog (prinz)..."
-    },
     {
       "timestamp": "2026-09-21 06:00:26",
       "message": "[SUCCESS] Processed: \uc5f0\uad6c\uc6d0\uc774 1918\ub144\uc758 \uc81c1\ucc28 \uc138\uacc4\ub300\uc804 \ub3c5\uc77c \ub77c\ub514\uc624 \uc1a1\uc2e0\uc744 \ud574\ub3c5\ud558\uae30 \uc704\ud574 GPT-6 \uc544\uc2a4\ud2b8\ub77c\ub97c \uc0ac\uc6a9\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: \uc5f0\uad6c\uc790\ub294 1918\ub144 \uc81c1\ucc28 \uc138\uacc4\ub300\uc804 \ub3d9\uc548\uc758 \ub3c5\uc77c \ub77c\ub514\uc624 \uc1a1\uc2e0\uc744 GPT-6 \uc544\uc2a4\ud2b8\ub77c\ub97c \uc0ac\uc6a9\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 06:01:06",
       "message": "[PROCESSING] Analyzing: Designing Automotive Systems That Hold Up Under Pressure..."
+    },
+    {
+      "timestamp": "2026-09-21 06:01:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Designing Automotive Systems That Hold Up Under Pressure"
     }
   ]
 }
