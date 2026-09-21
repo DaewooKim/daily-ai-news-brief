@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-21 11:41:00",
-  "status": "idle",
+  "last_updated": "2026-09-21 12:41:38",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-21 11:39:23",
-      "message": "[SUCCESS] Processed: \ub9c8\uc774\ud06c\ub860, \ucd08\uace0\ubc00\ub3c4 512-GB DDR5 \uba54\ubaa8\ub9ac \ubaa8\ub4c8 \uac1c\ubc1c\n  > Summary: \ub9c8\uc774\ud06c\ub860 \ud14c\ud06c\ub180\ub85c\uc9c0 Inc.\uac00 AI \ubc0f \ub370\uc774\ud130 \ubd84\uc11d, \uc778\uba54\ubaa8\ub9ac \ub370\uc774\ud130\ubca0\uc774\uc2a4\uc640 \uac19\uc740 \ub370\uc774\ud130 ..."
+      "timestamp": "2026-09-21 12:41:26",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-21 11:39:25",
-      "message": "[PROCESSING] Analyzing: MIPI Alliance Forms Kinematics Working Group..."
+      "timestamp": "2026-09-21 12:41:27",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-21 11:39:28",
-      "message": "[SUCCESS] Processed: MIPI \uc5bc\ub77c\uc774\uc5b8\uc2a4, \uc6b4\ub3d9\ud559 \uc6cc\ud0b9 \uadf8\ub8f9 \uad6c\uc131\n  > Summary: MIPI \uc5bc\ub77c\uc774\uc5b8\uc2a4\ub294 MIPI CSI-2 \uce74\uba54\ub77c \uc778\ud130\ud398\uc774\uc2a4\ub97c \ud1b5\ud574 \uc804\uc1a1\ub418\ub294 \uc6b4\ub3d9\ud559 \uc13c\uc11c \ub370..."
+      "timestamp": "2026-09-21 12:41:27",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-21 11:39:30",
-      "message": "[SKIP] Content too short: Trump says he\u2019s planning to cr..."
+      "timestamp": "2026-09-21 12:41:38",
+      "message": "Found 147 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-21 11:39:32",
-      "message": "[SKIP] Content too short: Pacing AI won\u2019t solve the gove..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:33",
-      "message": "[SKIP] Content too short: Dynamic model routing will fol..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:35",
-      "message": "[SKIP] Content too short: Why AI inference must become a..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:37",
-      "message": "[SKIP] Content too short: AI governance moves from obser..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:38",
-      "message": "[SKIP] Content too short: What to expect during Oracle\u2019s..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:40",
-      "message": "[SKIP] Content too short: At AGNTCon Europe, ensuring AI..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:42",
-      "message": "[SKIP] Content too short: Salesforce after Dreamforce: H..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:43",
-      "message": "[SKIP] Content too short: Data center builder Nscale fil..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:45",
-      "message": "[SKIP] Content too short: Cybersecurity researchers gain..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:47",
-      "message": "[SKIP] Content too short: Anthropic opens AI-powered bio..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:48",
-      "message": "[SKIP] Content too short: What to expect during CoreWeav..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:50",
-      "message": "[SKIP] Content too short: PrismML launches Bonsai 2 27B,..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:52",
-      "message": "[SKIP] Content too short: For AI agents, it\u2019s the best o..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:53",
-      "message": "[SKIP] Content too short: What to expect from theCUBE\u2019s ..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:55",
-      "message": "[SKIP] Content too short: Full speed ahead: Despite call..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:56",
-      "message": "[SKIP] Content too short: Tokenized stock trading is abo..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:58",
-      "message": "[SKIP] Content too short: AI data center builder Crusoe ..."
-    },
-    {
-      "timestamp": "2026-09-21 11:39:59",
-      "message": "[SKIP] Content too short: Anthropic details practical me..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:01",
-      "message": "[SKIP] Content too short: OpenAI launches Astra for Law,..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:02",
-      "message": "[SKIP] Content too short: Treble nabs $18M to generate a..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:04",
-      "message": "[SKIP] Content too short: Google expands CC into a share..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:06",
-      "message": "[SKIP] Content too short: Mind raises $72M to stop sensi..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:08",
-      "message": "[SKIP] Content too short: Nvidia, Google and Emerald AI ..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:10",
-      "message": "[SKIP] Content too short: AI agents erase the paper trai..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:11",
-      "message": "[SKIP] Content too short: Microsoft puts post-quantum in..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:13",
-      "message": "[SKIP] Content too short: Daiwa and Deloitte break PQC i..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:15",
-      "message": "[SKIP] Content too short: Post-quantum regulations conve..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:16",
-      "message": "[SKIP] Content too short: LGT Financial Services grounds..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:18",
-      "message": "[SKIP] Content too short: Quantum readiness moves from b..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:20",
-      "message": "[PROCESSING] Analyzing: NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:22",
-      "message": "[SKIP] Irrelevant (AI Filter): NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look"
-    },
-    {
-      "timestamp": "2026-09-21 11:40:23",
-      "message": "[PROCESSING] Analyzing: STH Q3 2026 Letter from the Editor A Moving Target..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:26",
-      "message": "[SKIP] Irrelevant (AI Filter): STH Q3 2026 Letter from the Editor A Moving Target"
-    },
-    {
-      "timestamp": "2026-09-21 11:40:28",
-      "message": "[PROCESSING] Analyzing: Kioxia XL1 CXL XL-FLASH NAND Device Shown..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:31",
-      "message": "[SUCCESS] Processed: Kioxia XL1 CXL XL-FLASH NAND \uc7a5\uce58\uac00 \uacf5\uac1c\ub428\n  > Summary: Kioxia\uc758 XL1\uc740 CXL\uc744 \ud1b5\ud574 512GB \uba54\ubaa8\ub9ac \ud655\uc7a5 \uc7a5\uce58\ub85c \uc2dc\uc2a4\ud15c\uc5d0 \uc5f0\uacb0\ub418\ub294 XL..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:32",
-      "message": "[PROCESSING] Analyzing: Inside the lab where the Arm AGI CPU is brought to life..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:35",
-      "message": "[SUCCESS] Processed: Arm AGI CPU\uac00 \ud0dc\uc5b4\ub098\ub294 \uc5f0\uad6c\uc2e4 \uc548\n  > Summary: \uc6b0\ub9ac\ub294 Arm ATE \uc5f0\uad6c\uc2e4\uc744 \ubc29\ubb38\ud558\uc5ec \uc0c8\ub85c\uc6b4 Arm \uc11c\ubc84 \ud504\ub85c\uc138\uc11c\uc778 Arm AGI CPU..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:37",
-      "message": "[PROCESSING] Analyzing: onsemi Embedded Power Platform Announced..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:40",
-      "message": "[SUCCESS] Processed: \uc628\uc138\ubbf8 \uc784\ubca0\ub514\ub4dc \uc804\ub825 \ud50c\ub7ab\ud3fc \ubc1c\ud45c\n  > Summary: \uc628\uc138\ubbf8\ub294 \ud22c\uc790\uc790 \ud68c\uc758\uc5d0\uc11c AI \ub799, \uc790\ub3d9\ucc28 \ubc0f \uc0b0\uc5c5 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 \uc784\ubca0\ub514\ub4dc ..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:41",
-      "message": "[PROCESSING] Analyzing: Should you read the code, is RAG dead, and did Skills kill MCP?..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:45",
-      "message": "[SUCCESS] Processed: \ucf54\ub4dc\ub97c \uc77d\uc5b4\uc57c \ud560\uae4c, RAG\ub294 \uc8fd\uc5c8\ub294\uac00, \uadf8\ub9ac\uace0 \uae30\uc220\uc774 MCP\ub97c \uc8fd\uc600\ub294\uac00?\n  > Summary: \uc774 \uae30\uc0ac\ub294 AI\uc640 \uad00\ub828\ub41c \uc5ec\ub7ec '\ud56b \ud14c\uc774\ud06c'\ub97c \ubd84\uc11d\ud569\ub2c8\ub2e4. AI\uac00 \uc0dd\uc131\ud55c \ucf54\ub4dc\ub97c \uc774\ud589\ud558\ub294 ..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:47",
-      "message": "[PROCESSING] Analyzing: Migrating the GitHub Copilot runtime to Rust, using Copilot..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:50",
-      "message": "[SUCCESS] Processed: GitHub Copilot \ub7f0\ud0c0\uc784\uc744 Rust\ub85c \ub9c8\uc774\uadf8\ub808\uc774\uc158\ud558\uae30, Copilot \uc0ac\uc6a9\n  > Summary: GitHub Copilot\uc758 \ub7f0\ud0c0\uc784\uc774 TypeScript\uc5d0\uc11c Rust\ub85c \uc644\uc804\ud788 \uc7ac\uc791\uc131\ub418\uc5c8\ub2e4..."
-    },
-    {
-      "timestamp": "2026-09-21 11:40:52",
-      "message": "Completed! New: 115, Updated: 0"
-    },
-    {
-      "timestamp": "2026-09-21 11:40:56",
-      "message": "Saved 115 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-21 11:40:59",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-21 12:41:38",
+      "message": "[PROCESSING] Analyzing: Apple\u2019s clever software solution lets iPhone batteries skirt shipping limits..."
     }
   ]
 }
