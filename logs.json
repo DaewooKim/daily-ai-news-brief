@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 11:33:25",
+  "last_updated": "2026-09-21 11:33:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 11:32:44",
-      "message": "[SUCCESS] Processed: AI\ub97c \uc77c\uc0c1 \uc0dd\ud65c\uc5d0\uc11c \uc0ac\uc6a9\ud558\ub294 \ubc29\ubc95\n  > Summary: OpenAI\uc640 AARP\ub294 \ubbf8\uad6d \ub0b4 10\uac1c \ub3c4\uc2dc\uc5d0\uc11c 1,000\uba85\uc758 \ub178\uc778\uc744 \ub300\uc0c1\uc73c\ub85c \ubb34\ub8cc Ch..."
-    },
     {
       "timestamp": "2026-09-21 11:32:45",
       "message": "[PROCESSING] Analyzing: Reimagining advertising with AI..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 11:33:25",
       "message": "[PROCESSING] Analyzing: Flock reportedly tries to shrink workforce with employee buyouts..."
+    },
+    {
+      "timestamp": "2026-09-21 11:33:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Flock reportedly tries to shrink workforce with employee buyouts"
     }
   ]
 }
