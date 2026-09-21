@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 12:44:13",
+  "last_updated": "2026-09-21 12:44:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 12:43:32",
-      "message": "[SUCCESS] Processed: AI\ub85c \uad11\uace0\ub97c \uc7ac\uad6c\uc0c1\ud558\ub2e4\n  > Summary: OpenAI\uc758 AI \uae30\ubc18 \uad11\uace0 \uacbd\ud5d8\uc744 \ud0d0\uad6c\ud558\uba70, Sponsored Agents, \ub9c8\ucf00\ud305 \ub3c4..."
-    },
     {
       "timestamp": "2026-09-21 12:43:34",
       "message": "Reprocessing: Our framework for reporting model misalignment"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 12:44:13",
       "message": "[PROCESSING] Analyzing: India forces caller-ID apps to feed spam reports to telcos..."
+    },
+    {
+      "timestamp": "2026-09-21 12:44:16",
+      "message": "[SKIP] Irrelevant (AI Filter): India forces caller-ID apps to feed spam reports to telcos"
     }
   ]
 }
