@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 11:33:21",
+  "last_updated": "2026-09-21 11:33:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 11:32:38",
-      "message": "[SUCCESS] Processed: \ubc95\ub960\uc744 \uc704\ud55c \uc544\uc2a4\ud2b8\ub77c \uc18c\uac1c\n  > Summary: OpenAI for Law\ub294 \ubc95\ub960 \ubd84\uc57c\uc5d0 \ucd5c\uc804\uc120\uc758 \uc9c0\ub2a5\uc744 \uc81c\uacf5\ud558\uba70, \ub9de\ucda4\ud615 \ubc95\ub960 \uc0ac\ubb34\uc18c \uc6cc..."
-    },
     {
       "timestamp": "2026-09-21 11:32:40",
       "message": "[PROCESSING] Analyzing: Helping older adults use AI in everyday life..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 11:33:21",
       "message": "[PROCESSING] Analyzing: ScrollEd wants to turn textbooks into TikTok..."
+    },
+    {
+      "timestamp": "2026-09-21 11:33:24",
+      "message": "[SKIP] Irrelevant (AI Filter): ScrollEd wants to turn textbooks into TikTok"
     }
   ]
 }
