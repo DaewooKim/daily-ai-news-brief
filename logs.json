@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-21 13:51:18",
+  "last_updated": "2026-09-21 13:51:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-21 13:50:26",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-21 13:50:26",
       "message": "[PROCESSING] Analyzing: iPhone owners can now submit a claim in Apple\u2019s $250 million Siri AI lawsuit..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-21 13:51:18",
       "message": "[PROCESSING] Analyzing: Teardown details the iPhone 18 Pro\u2019s mechanical camera..."
+    },
+    {
+      "timestamp": "2026-09-21 13:51:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Teardown details the iPhone 18 Pro\u2019s mechanical camera"
     }
   ]
 }
