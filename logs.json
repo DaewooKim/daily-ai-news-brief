@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-22 20:50:11",
+  "last_updated": "2026-09-22 20:50:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-22 20:49:28",
-      "message": "[SUCCESS] Processed: \ub124\uc774\ud2b8 \ud504\ub9ac\ub4dc\uba3c, \uba54\ud0c0\uac00 \ubba4\uc988\ub97c \"\ucc98\uc74c\ubd80\ud130\" \ub9cc\ub4e4\uc5c8\uc9c0\ub9cc \uc624\ud508\ud074\ub85c\uc5d0 \"\ub9ce\uc740 \uc601\uac10\uc744 \ubc1b\uc558\ub2e4\"\uace0 \uc5b8\uae09\n  > Summary: \ub124\uc774\ud2b8 \ud504\ub9ac\ub4dc\uba3c\uc740 \uba54\ud0c0\uc758 \ubba4\uc988\uac00 \"\ucc98\uc74c\ubd80\ud130\" \uac1c\ubc1c\ub418\uc5c8\uc9c0\ub9cc \uc624\ud508\ud074\ub85c\ub85c\ubd80\ud130 \"\ub9ce\uc740 \uc601\uac10\uc744 \ubc1b\uc558..."
-    },
     {
       "timestamp": "2026-09-22 20:49:29",
       "message": "[PROCESSING] Analyzing: ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site (Joseph Cox/404 Media)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-22 20:50:11",
       "message": "[PROCESSING] Analyzing: Magnachip Announces Strategic Investment by Navitas Semiconductor..."
+    },
+    {
+      "timestamp": "2026-09-22 20:50:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Magnachip Announces Strategic Investment by Navitas Semiconductor"
     }
   ]
 }
