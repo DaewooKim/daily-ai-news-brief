@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-22 19:42:23",
+  "last_updated": "2026-09-22 19:42:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-22 19:41:36",
-      "message": "[SUCCESS] Processed: OpenAI, \uc81c3\uc790 \uadf8\ub8f9\uc774 AI \ubaa8\ub378\uc758 \uae30\uc220 \uc548\uc804 \ud3c9\uac00\ub97c \uc9c4\ud589\ud558\ub3c4\ub85d \uacc4\ud68d\ud558\uace0 \uc788\ub2e4\uace0 \ubc1d\ud600 (Rachel Metz/Bloomberg)\n  > Summary: OpenAI\ub294 \uc81c3\uc790 \uadf8\ub8f9\uc774 AI \ubaa8\ub378\uc758 \ud6c8\ub828, \ud3c9\uac00 \ubc0f \ubc30\ud3ec \ub2e8\uacc4\uc5d0\uc11c \uae30\uc220 \uc548\uc804\uc131\uc744 \ud3c9\uac00..."
-    },
     {
       "timestamp": "2026-09-22 19:41:37",
       "message": "[PROCESSING] Analyzing: Sources: Apple is developing prototypes for a screenless health and fitness tracker similar to Whoop but hasn't decided whether to release the product (Mark Gurman/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-22 19:42:23",
       "message": "[PROCESSING] Analyzing: Designing Automotive Systems That Hold Up Under Pressure..."
+    },
+    {
+      "timestamp": "2026-09-22 19:42:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Designing Automotive Systems That Hold Up Under Pressure"
     }
   ]
 }
