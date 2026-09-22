@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-22 18:33:45",
+  "last_updated": "2026-09-22 18:33:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-22 18:33:01",
-      "message": "[PROCESSING] Analyzing: Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)..."
-    },
     {
       "timestamp": "2026-09-22 18:33:05",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ud504\ub85c, \ub9e5\uc2a4 \ubc0f \ud300 \ud50c\ub79c\uc758 5\uc2dc\uac04 \uc0ac\uc6a9 \uc81c\ud55c\uc744 20% \uc99d\uac00\uc2dc\ud0a4\uace0 \uad6c\ub3c5 \uc0ac\uc6a9\uc790\uc5d0\uac8c \uc694\uae08 \uc81c\ud55c \ucd08\uae30\ud654 \uc81c\uacf5\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ud504\ub85c, \ub9e5\uc2a4 \ubc0f \ud300 \ud50c\ub79c\uc5d0\uc11c 5\uc2dc\uac04 \uc0ac\uc6a9 \uc81c\ud55c\uc744 20% \uc99d\uac00\uc2dc\ucf30\uc2b5\ub2c8\ub2e4. \uc0c8\ub85c\uc6b4 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-22 18:33:45",
       "message": "[PROCESSING] Analyzing: Apple announces new $350 Beats 360 headphones, with IPX4 rating, swappable ear cups, a replaceable battery, ANC, Find My support, and more (John Higgins/The Verge)..."
+    },
+    {
+      "timestamp": "2026-09-22 18:33:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple announces new $350 Beats 360 headphones, with IPX4 rating, swappable ear cups, a replaceable battery, ANC, Find My support, and more (John Higgins/The Verge)"
     }
   ]
 }
