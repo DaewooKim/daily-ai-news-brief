@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-22 15:06:47",
+  "last_updated": "2026-09-22 15:06:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-22 15:06:00",
-      "message": "[PROCESSING] Analyzing: GUC Announces 2nm 16 Gbps HBM4E IP..."
-    },
     {
       "timestamp": "2026-09-22 15:06:03",
       "message": "[SUCCESS] Processed: GUC, 2nm 16 Gbps HBM4E IP \ubc1c\ud45c\n  > Summary: \ub300\ub9cc \uc2e0\uc8fc\uc5d0 \uc704\uce58\ud55c \uae00\ub85c\ubc8c \uc720\ub2c8\uce69 \ud68c\uc0ac(GUC)\ub294 HBM4E PHY \ubc0f \ucee8\ud2b8\ub864\ub7ec IP\uac00 \ub514..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-22 15:06:47",
       "message": "[SKIP] Irrelevant (AI Filter): Grid Constraints Steer Dutch Data Centers Beyond Amsterdam"
+    },
+    {
+      "timestamp": "2026-09-22 15:06:49",
+      "message": "Reprocessing: Space Data Centers Inch Toward Reality, With Caveats"
     }
   ]
 }
