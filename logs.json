@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-23 09:13:08",
+  "last_updated": "2026-09-23 09:13:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-23 09:12:34",
-      "message": "[SKIP] Content too short: Vast Data launches confidentia..."
-    },
     {
       "timestamp": "2026-09-23 09:12:36",
       "message": "Reprocessing: SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-23 09:13:08",
       "message": "[PROCESSING] Analyzing: NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look..."
+    },
+    {
+      "timestamp": "2026-09-23 09:13:11",
+      "message": "[SKIP] Irrelevant (AI Filter): NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look"
     }
   ]
 }
