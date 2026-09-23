@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-23 17:02:10",
+  "last_updated": "2026-09-23 17:02:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-23 17:01:19",
-      "message": "Reprocessing: HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)"
-    },
     {
       "timestamp": "2026-09-23 17:01:21",
       "message": "[PROCESSING] Analyzing: HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-23 17:02:10",
       "message": "[SKIP] Irrelevant (AI Filter): Where Developer Choice Broke Down in Embedded Software Development"
+    },
+    {
+      "timestamp": "2026-09-23 17:02:12",
+      "message": "[SKIP] Content too short: Rabbit returns with OS3, a per..."
     }
   ]
 }
