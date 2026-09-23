@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-23 11:24:58",
+  "last_updated": "2026-09-23 11:25:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-23 11:24:09",
-      "message": "[PROCESSING] Analyzing: Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life (Damien Cave/New York Times)..."
-    },
     {
       "timestamp": "2026-09-23 11:24:13",
       "message": "[SUCCESS] Processed: \uac24\ub7fd \uc870\uc0ac 37\uac1c\uad6d: 34\uac1c\uad6d\uc5d0\uc11c \uae0d\uc815\uc801\uc778 AI \uac10\uc815\uc774 \ubd80\uc815\uc801\uc778 \uac10\uc815\uc744 \ucd08\uacfc; \uc911\uad6d\uc758 90% \uc774\uc0c1, \ub098\uc774\uc9c0\ub9ac\uc544\uc758 66% \uc774\uc0c1\uc774 AI\uac00 \uc77c\uc0c1\uc0dd\ud65c\uc744 \uac1c\uc120\ud560 \uac83\uc774\ub77c\uace0 \ub9d0\ud568\n  > Summary: \uac24\ub7fd \uc5ec\ub860\uc870\uc0ac\uc5d0 \ub530\ub974\uba74 37\uac1c\uad6d\uc5d0\uc11c \uc870\uc0ac\ub41c \ub300\ub2e4\uc218\uc758 \uc0ac\ub78c\ub4e4\uc740 \uc778\uacf5\uc9c0\ub2a5\uc5d0 \ub300\ud574 \uae0d\uc815\uc801\uc778 \uac10\uc815..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-23 11:24:58",
       "message": "[PROCESSING] Analyzing: Magnachip Announces Strategic Investment by Navitas Semiconductor..."
+    },
+    {
+      "timestamp": "2026-09-23 11:25:00",
+      "message": "[SKIP] Irrelevant (AI Filter): Magnachip Announces Strategic Investment by Navitas Semiconductor"
     }
   ]
 }
