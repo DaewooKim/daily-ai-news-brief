@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-23 14:44:49",
+  "last_updated": "2026-09-23 14:44:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-23 14:44:01",
-      "message": "[SUCCESS] Processed: AI\uc758 \ub2e4\uc74c \ub2e8\uacc4\uc5d0 \ub300\ud55c \uad6c\ucd95 \ud45c\uc900\n  > Summary: OpenAI\ub294 \uc548\uc804\u6027 \ud5a5\uc0c1\uc744 \uc704\ud574 \uacf5\uc720\ub41c \uae00\ub85c\ubc8c AI \ud45c\uc900\uc744 \uc704\ud55c \uacbd\ub85c\ub97c \uc81c\uc2dc\ud558\uc600\uc2b5\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-09-23 14:44:03",
       "message": "Reprocessing: How V7 gives AI agents institutional memory"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-23 14:44:49",
       "message": "[PROCESSING] Analyzing: Smarter Buildings, Safer Occupants: Intelligence Meets Privacy..."
+    },
+    {
+      "timestamp": "2026-09-23 14:44:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Smarter Buildings, Safer Occupants: Intelligence Meets Privacy"
     }
   ]
 }
