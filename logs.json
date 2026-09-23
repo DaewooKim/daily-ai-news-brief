@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-23 13:41:23",
-  "status": "idle",
+  "last_updated": "2026-09-23 14:42:04",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-23 13:39:33",
-      "message": "[SKIP] Content too short: Training data provider Snorkel..."
+      "timestamp": "2026-09-23 14:41:52",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-23 13:39:36",
-      "message": "Reprocessing: Cisco Talos finds malware that puts its next move to a four-model vote"
+      "timestamp": "2026-09-23 14:41:53",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-23 13:39:38",
-      "message": "[SKIP] Content too short: Cisco Talos finds malware that..."
+      "timestamp": "2026-09-23 14:41:53",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-23 13:39:40",
-      "message": "Reprocessing: Machine vision company Cognex buys Intel robotics spinoff RealSense for $600M"
+      "timestamp": "2026-09-23 14:42:04",
+      "message": "Found 153 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-23 13:39:42",
-      "message": "[SKIP] Content too short: Machine vision company Cognex ..."
-    },
-    {
-      "timestamp": "2026-09-23 13:39:44",
-      "message": "Reprocessing: Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models"
-    },
-    {
-      "timestamp": "2026-09-23 13:39:46",
-      "message": "[SKIP] Content too short: Anthropic releases Claude Opus..."
-    },
-    {
-      "timestamp": "2026-09-23 13:39:48",
-      "message": "Reprocessing: Web scraping startup Firecrawl closes $75M investment"
-    },
-    {
-      "timestamp": "2026-09-23 13:39:50",
-      "message": "[SKIP] Content too short: Web scraping startup Firecrawl..."
-    },
-    {
-      "timestamp": "2026-09-23 13:39:52",
-      "message": "Reprocessing: Cyera raises $400M more amid AI agent security push"
-    },
-    {
-      "timestamp": "2026-09-23 13:39:54",
-      "message": "[SKIP] Content too short: Cyera raises $400M more amid A..."
-    },
-    {
-      "timestamp": "2026-09-23 13:39:56",
-      "message": "Reprocessing: European neocloud Verda raises $189M to build the AI infrastructure of tomorrow"
-    },
-    {
-      "timestamp": "2026-09-23 13:39:58",
-      "message": "[SKIP] Content too short: European neocloud Verda raises..."
-    },
-    {
-      "timestamp": "2026-09-23 13:39:59",
-      "message": "Reprocessing: Xiaomi introduces Mimo-V2.6 series open-source AI model family"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:01",
-      "message": "[SKIP] Content too short: Xiaomi introduces Mimo-V2.6 se..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:03",
-      "message": "Reprocessing: What to expect during Okta\u2019s Oktane event: Join theCUBE Sept. 24"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:06",
-      "message": "[SKIP] Content too short: What to expect during Okta\u2019s O..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:08",
-      "message": "Reprocessing: Nexstrom bags $12M to help chipmakers replace silicon with more efficient semiconductor wafers"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:09",
-      "message": "[SKIP] Content too short: Nexstrom bags $12M to help chi..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:11",
-      "message": "Reprocessing: Exclusive: Darktrace makes SECURE AI generally available to monitor enterprise AI use"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:13",
-      "message": "[SKIP] Content too short: Exclusive: Darktrace makes SEC..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:15",
-      "message": "Reprocessing: Barracuda launches AI Data Security to control what employees send to chatbots"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:17",
-      "message": "[SKIP] Content too short: Barracuda launches AI Data Sec..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:19",
-      "message": "Reprocessing: Teradata expands AI assistant with tools for governed agents"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:21",
-      "message": "[SKIP] Content too short: Teradata expands AI assistant ..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:23",
-      "message": "Reprocessing: With $35M in early funding, Baselayer is building the trust layer for the agentic economy"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:25",
-      "message": "[SKIP] Content too short: With $35M in early funding, Ba..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:27",
-      "message": "Reprocessing: Heidi Health nabs $340M to deepen adoption of AI agents within health systems globally"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:28",
-      "message": "[SKIP] Content too short: Heidi Health nabs $340M to dee..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:31",
-      "message": "Reprocessing: Kantata debuts Agent Studio for building custom AI agents in plain language"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:33",
-      "message": "[SKIP] Content too short: Kantata debuts Agent Studio fo..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:34",
-      "message": "Reprocessing: Google\u2019s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:36",
-      "message": "[SKIP] Content too short: Google\u2019s robotics unit Intrins..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:38",
-      "message": "Reprocessing: Okta adds AI agent runtime gateway, forms Blueprint Alliance with AWS and CrowdStrike"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:40",
-      "message": "[SKIP] Content too short: Okta adds AI agent runtime gat..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:42",
-      "message": "Reprocessing: Exclusive: CoreWeave launches Remote Key Encryption to keep customer keys off its cloud"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:44",
-      "message": "[SKIP] Content too short: Exclusive: CoreWeave launches ..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:46",
-      "message": "Reprocessing: DataDome report finds bad bot traffic growing nine times faster than human traffic"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:47",
-      "message": "[SKIP] Content too short: DataDome report finds bad bot ..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:49",
-      "message": "Reprocessing: Vast Data launches confidential computing service for sensitive workloads"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:52",
-      "message": "[SKIP] Content too short: Vast Data launches confidentia..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:54",
-      "message": "[PROCESSING] Analyzing: Qotom Q30952UE Review the New Black Box for 10G Networking..."
-    },
-    {
-      "timestamp": "2026-09-23 13:40:58",
-      "message": "[SKIP] Irrelevant (AI Filter): Qotom Q30952UE Review the New Black Box for 10G Networking"
-    },
-    {
-      "timestamp": "2026-09-23 13:40:59",
-      "message": "[PROCESSING] Analyzing: NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look..."
-    },
-    {
-      "timestamp": "2026-09-23 13:41:03",
-      "message": "[SKIP] Irrelevant (AI Filter): NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look"
-    },
-    {
-      "timestamp": "2026-09-23 13:41:05",
-      "message": "[PROCESSING] Analyzing: STH Q3 2026 Letter from the Editor A Moving Target..."
-    },
-    {
-      "timestamp": "2026-09-23 13:41:09",
-      "message": "[SKIP] Irrelevant (AI Filter): STH Q3 2026 Letter from the Editor A Moving Target"
-    },
-    {
-      "timestamp": "2026-09-23 13:41:11",
-      "message": "Completed! New: 11, Updated: 43"
-    },
-    {
-      "timestamp": "2026-09-23 13:41:15",
-      "message": "Saved 54 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-23 13:41:20",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-23 14:42:04",
+      "message": "[PROCESSING] Analyzing: YouTube is building AI creator tools that do almost everything for them..."
     }
   ]
 }
