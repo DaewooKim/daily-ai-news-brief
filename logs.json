@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 04:11:00",
+  "last_updated": "2026-09-24 04:11:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 04:10:20",
-      "message": "[SUCCESS] Processed: OpenAI, \uc815\uc2e0 \uac74\uac15 \ub300\ud654\uc5d0\uc11c AI \ubc18\uc751\uc744 \ud3c9\uac00\ud558\uae30 \uc704\ud55c \uacf5\uac1c \ubca4\uce58\ub9c8\ud06c MentalHealthBench \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 80\uba85 \uc774\uc0c1\uc758 \uba74\ud5c8\uac00 \uc788\ub294 \uc815\uc2e0 \uac74\uac15 \uc804\ubb38\uac00\uc640 \ud568\uaed8 \uac1c\ubc1c\ud55c MentalHea..."
-    },
     {
       "timestamp": "2026-09-24 04:10:22",
       "message": "[PROCESSING] Analyzing: SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 04:11:00",
       "message": "[PROCESSING] Analyzing: Hammond Power Solutions Increases North American Manufacturing Capacity..."
+    },
+    {
+      "timestamp": "2026-09-24 04:11:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Hammond Power Solutions Increases North American Manufacturing Capacity"
     }
   ]
 }
