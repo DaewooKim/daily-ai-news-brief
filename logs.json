@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 23:18:31",
+  "last_updated": "2026-09-24 23:18:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 23:17:49",
-      "message": "[SKIP] Irrelevant (AI Filter): Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation (Micah Maidenberg/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-09-24 23:17:50",
       "message": "[PROCESSING] Analyzing: Email: Microsoft is moving its communications function out of its marketing group and into the corporate, external, and legal affairs org led by Brad Smith (Todd Bishop/GeekWire)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 23:18:31",
       "message": "[SUCCESS] Processed: ACCM, AI \uc778\ud504\ub77c\ub97c \uc704\ud55c \ub124 \uac00\uc9c0 \ucca8\ub2e8 \uc18c\uc7ac \ubd80\ubb38\uc5d0\uc11c \ubbf8\uad6d \uc81c\uc870 \ub2a5\ub825 \ud655\ub300\n  > Summary: \ucca8\ub2e8 \uce69 \ubc0f \ud68c\ub85c \uc18c\uc7ac \ud68c\uc0ac\uc778 ACCM\uc740 AI \ud558\ub4dc\uc6e8\uc5b4\uc758 \ub124 \uac00\uc9c0 \uc8fc\uc694 \ubd80\ubb38\uc744 \uc704\ud55c \ubbf8\uad6d ..."
+    },
+    {
+      "timestamp": "2026-09-24 23:18:33",
+      "message": "Reprocessing: EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI"
     }
   ]
 }
