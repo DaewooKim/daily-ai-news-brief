@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 17:35:13",
+  "last_updated": "2026-09-24 17:35:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 17:34:33",
-      "message": "[PROCESSING] Analyzing: These smart glasses have been recalled for overheating temples causing burns..."
-    },
     {
       "timestamp": "2026-09-24 17:34:36",
       "message": "[SKIP] Irrelevant (AI Filter): These smart glasses have been recalled for overheating temples causing burns"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 17:35:13",
       "message": "Reprocessing: The GenAI Boom Accelerates And Transforms Ethernet Switching"
+    },
+    {
+      "timestamp": "2026-09-24 17:35:15",
+      "message": "[SKIP] Content too short: The GenAI Boom Accelerates And..."
     }
   ]
 }
