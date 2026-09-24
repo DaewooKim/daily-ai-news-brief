@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 15:20:09",
+  "last_updated": "2026-09-24 15:20:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 15:19:24",
-      "message": "Reprocessing: Advisory Group on Mathematics and Artificial Intelligence"
-    },
     {
       "timestamp": "2026-09-24 15:19:26",
       "message": "[PROCESSING] Analyzing: Advisory Group on Mathematics and Artificial Intelligence..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 15:20:09",
       "message": "[PROCESSING] Analyzing: Australia to investigate if OpenAI hack of government health website broke the law..."
+    },
+    {
+      "timestamp": "2026-09-24 15:20:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Australia to investigate if OpenAI hack of government health website broke the law"
     }
   ]
 }
