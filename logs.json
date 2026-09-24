@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 07:30:48",
+  "last_updated": "2026-09-24 07:30:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 07:30:03",
-      "message": "[PROCESSING] Analyzing: Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements \"in a two-week sprint\" (Anthropic)..."
-    },
     {
       "timestamp": "2026-09-24 07:30:07",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ub0b4\ubd80 \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud574 \ud074\ub85c\ub4dc.ai \ubc0f \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571\uc758 \ud575\uc2ec UX\ub97c \uc57d 3\ubc30 \ube60\ub974\uac8c \uac1c\uc120\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ud074\ub85c\ub4dc.ai\uc640 \ud074\ub85c\ub4dc \ub370\uc2a4\ud06c\ud0d1 \uc571\uc758 \ud575\uc2ec \uc0ac\uc6a9\uc790 \uacbd\ud5d8\uc744 \uac1c\uc120\ud558\uc5ec \uc57d 3\ubc30 \ube60\ub974\uac8c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 07:30:48",
       "message": "[PROCESSING] Analyzing: SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-24 07:30:52",
+      "message": "[SKIP] Irrelevant (AI Filter): SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)"
     }
   ]
 }
