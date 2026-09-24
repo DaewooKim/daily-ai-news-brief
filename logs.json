@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 22:08:43",
+  "last_updated": "2026-09-24 22:08:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 22:07:59",
-      "message": "[PROCESSING] Analyzing: Better prompt caching for GPT-6..."
-    },
     {
       "timestamp": "2026-09-24 22:08:03",
       "message": "[SUCCESS] Processed: GPT-6\uc758 \ud5a5\uc0c1\ub41c \ud504\ub86c\ud504\ud2b8 \uce90\uc2f1\n  > Summary: \uc774 \uae30\uc0ac\ub294 GPT-6\uac00 \ub192\uc740 \uce90\uc2dc \uc801\uc911\ub960, \uc0c8\ub85c\uc6b4 \uc9c4\ub2e8 \uae30\ub2a5, \uba85\uc2dc\uc801\uc778 \uc911\ub2e8\uc810 \ubc0f \uc9c0\uc5f0 \uc2dc..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 22:08:43",
       "message": "[PROCESSING] Analyzing: Oracle sends force majeure notice on its New Mexico Stargate data center..."
+    },
+    {
+      "timestamp": "2026-09-24 22:08:45",
+      "message": "[SKIP] Irrelevant (AI Filter): Oracle sends force majeure notice on its New Mexico Stargate data center"
     }
   ]
 }
