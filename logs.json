@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 08:38:55",
+  "last_updated": "2026-09-24 08:38:57",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 08:38:08",
-      "message": "[SUCCESS] Processed: OpenAI, 80\uba85 \uc774\uc0c1\uc758 \ub77c\uc774\uc13c\uc2a4 \uc804\ubb38\uac00\uc640 \ud568\uaed8 \uac1c\ubc1c\ud55c AI \uc751\ub2f5 \ud3c9\uac00\ub97c \uc704\ud55c \uc5f4\ub9b0 \ubca4\uce58\ub9c8\ud06c MentalHealthBench \ubc1c\ud45c\n  > Summary: OpenAI\uac00 80\uba85 \uc774\uc0c1\uc758 \ub77c\uc774\uc13c\uc2a4 \uc815\uc2e0 \uac74\uac15 \uc804\ubb38\uac00\uc640 \ud568\uaed8, \ud604\uc2e4\uc801\uc778 \uc815\uc2e0 \uac74\uac15 \ub300\ud654\uc5d0..."
-    },
     {
       "timestamp": "2026-09-24 08:38:09",
       "message": "[PROCESSING] Analyzing: SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 08:38:55",
       "message": "[PROCESSING] Analyzing: Hammond Power Solutions Increases North American Manufacturing Capacity..."
+    },
+    {
+      "timestamp": "2026-09-24 08:38:57",
+      "message": "[SKIP] Irrelevant (AI Filter): Hammond Power Solutions Increases North American Manufacturing Capacity"
     }
   ]
 }
