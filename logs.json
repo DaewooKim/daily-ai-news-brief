@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 19:54:39",
+  "last_updated": "2026-09-24 19:54:41",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 19:53:54",
-      "message": "[PROCESSING] Analyzing: Delos Data Targets Heterogeneous AI With Data Interface..."
-    },
     {
       "timestamp": "2026-09-24 19:53:57",
       "message": "[SUCCESS] Processed: \ub378\ub85c\uc2a4 \ub370\uc774\ud130, \ub370\uc774\ud130 \uc778\ud130\ud398\uc774\uc2a4\ub85c \uc774\uc885 AI \uaca8\ub0e5\n  > Summary: \ub378\ub85c\uc2a4 \ub370\uc774\ud130\uac00 AI \uc778\ud504\ub77c \uc11c\ubc0b\uc5d0\uc11c \uc2e4\ub9ac\ucf58\uc744 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uc5d0 \ucd94\uac00\ud55c\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4. \ub378\ub85c\uc2a4\ub294 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 19:54:39",
       "message": "[PROCESSING] Analyzing: Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)..."
+    },
+    {
+      "timestamp": "2026-09-24 19:54:41",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)"
     }
   ]
 }
