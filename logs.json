@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 20:59:19",
+  "last_updated": "2026-09-24 20:59:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 20:58:41",
-      "message": "Found 171 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-24 20:58:41",
       "message": "[PROCESSING] Analyzing: Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 20:59:19",
       "message": "[PROCESSING] Analyzing: Manage Kubernetes Node Fleets with NodeWright..."
+    },
+    {
+      "timestamp": "2026-09-24 20:59:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Manage Kubernetes Node Fleets with NodeWright"
     }
   ]
 }
