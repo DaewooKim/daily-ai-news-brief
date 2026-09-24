@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-24 18:49:49",
-  "status": "idle",
+  "last_updated": "2026-09-24 19:50:44",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-24 18:48:09",
-      "message": "[SKIP] Content too short: Accenture leverages Oracle\u2019s D..."
+      "timestamp": "2026-09-24 19:50:19",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-24 18:48:11",
-      "message": "Reprocessing: Containment is dead: Five takeaways from the AI ROI in Contact Center Summit"
+      "timestamp": "2026-09-24 19:50:21",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-24 18:48:13",
-      "message": "[SKIP] Content too short: Containment is dead: Five take..."
+      "timestamp": "2026-09-24 19:50:21",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-24 18:48:14",
-      "message": "Reprocessing: UiPath introduces new workflow automation, software testing features"
+      "timestamp": "2026-09-24 19:50:44",
+      "message": "Found 169 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-24 18:48:16",
-      "message": "[SKIP] Content too short: UiPath introduces new workflow..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:18",
-      "message": "Reprocessing: The AI factory is becoming the computer and it\u2019s changing the semiconductor race"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:20",
-      "message": "[SKIP] Content too short: The AI factory is becoming the..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:22",
-      "message": "Reprocessing: The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:23",
-      "message": "[SKIP] Content too short: The Transformation Edge: Why A..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:25",
-      "message": "Reprocessing: Microsoft unveils Integrated Security Operations Center in Defender for AI agents"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:27",
-      "message": "[SKIP] Content too short: Microsoft unveils Integrated S..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:29",
-      "message": "Reprocessing: Oracle puts database security controls beneath AI agents"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:30",
-      "message": "[SKIP] Content too short: Oracle puts database security ..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:32",
-      "message": "Reprocessing: Oracle shifts agent controls toward data-layer security"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:34",
-      "message": "[SKIP] Content too short: Oracle shifts agent controls t..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:36",
-      "message": "Reprocessing: Workforce economics emerges as AI reshapes the C-suite"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:37",
-      "message": "[SKIP] Content too short: Workforce economics emerges as..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:40",
-      "message": "Reprocessing: AI drug discovery startup Basecamp Research raises $140M"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:42",
-      "message": "[SKIP] Content too short: AI drug discovery startup Base..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:44",
-      "message": "Reprocessing: AI is rewriting the private cloud playbook as Dell moves beyond traditional HCI"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:45",
-      "message": "[SKIP] Content too short: AI is rewriting the private cl..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:47",
-      "message": "Reprocessing: Hubble Network raises $200M to bring global coverage to all Bluetooth LE devices"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:49",
-      "message": "[SKIP] Content too short: Hubble Network raises $200M to..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:51",
-      "message": "Reprocessing: Rabbit returns with OS3, a personal AI agent that can access files and connect computers"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:52",
-      "message": "[SKIP] Content too short: Rabbit returns with OS3, a per..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:54",
-      "message": "Reprocessing: How AI data foundations are rewriting enterprise architecture"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:56",
-      "message": "[SKIP] Content too short: How AI data foundations are re..."
-    },
-    {
-      "timestamp": "2026-09-24 18:48:57",
-      "message": "Reprocessing: Lookout launches mobile module to detect AI-powered text and voice scams"
-    },
-    {
-      "timestamp": "2026-09-24 18:48:59",
-      "message": "[SKIP] Content too short: Lookout launches mobile module..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:01",
-      "message": "Reprocessing: ZeroDrift launches three models for real-time AI compliance checks"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:02",
-      "message": "[SKIP] Content too short: ZeroDrift launches three model..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:04",
-      "message": "Reprocessing: NextLM brings its precision prospecting agent to Google Cloud Marketplace"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:06",
-      "message": "[SKIP] Content too short: NextLM brings its precision pr..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:08",
-      "message": "Reprocessing: Flux expands its platform to show whether AI coding investments are paying off"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:09",
-      "message": "[SKIP] Content too short: Flux expands its platform to s..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:11",
-      "message": "Reprocessing: Ema raises $77M in funding to deploy AI employees across enterprise HR, IT and finance departments"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:13",
-      "message": "[SKIP] Content too short: Ema raises $77M in funding to ..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:15",
-      "message": "[PROCESSING] Analyzing: Qualcomm Announces Snapdragon X2 Debian and Ubuntu Support in 2026..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:17",
-      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm Announces Snapdragon X2 Debian and Ubuntu Support in 2026"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:19",
-      "message": "[PROCESSING] Analyzing: Qotom Q30952UE Review the New Black Box for 10G Networking..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:22",
-      "message": "[SKIP] Irrelevant (AI Filter): Qotom Q30952UE Review the New Black Box for 10G Networking"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:23",
-      "message": "[PROCESSING] Analyzing: NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:26",
-      "message": "[SKIP] Irrelevant (AI Filter): NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:28",
-      "message": "[PROCESSING] Analyzing: STH Q3 2026 Letter from the Editor A Moving Target..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:31",
-      "message": "[SKIP] Irrelevant (AI Filter): STH Q3 2026 Letter from the Editor A Moving Target"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:33",
-      "message": "[PROCESSING] Analyzing: AI-powered fuzzing with the GitHub Security Lab Taskflow Agent..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:37",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \ud37c\uc9d5\uc744 \uc704\ud55c GitHub \ubcf4\uc548 \uc2e4\ud5d8\uc2e4 \uc791\uc5c5 \ud750\ub984 \uc5d0\uc774\uc804\ud2b8\n  > Summary: \uc774 \uae30\uc0ac\ub294 C/C++ \ud504\ub85c\uc81d\ud2b8\ub97c \uc704\ud55c \uc790\uc728 \ud37c\uc9d5 \ud30c\uc774\ud504\ub77c\uc778\uc778 Fuzzing Taskflow..."
-    },
-    {
-      "timestamp": "2026-09-24 18:49:39",
-      "message": "Completed! New: 4, Updated: 53"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:43",
-      "message": "Saved 57 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-24 18:49:47",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-24 19:50:44",
+      "message": "[PROCESSING] Analyzing: Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal..."
     }
   ]
 }
