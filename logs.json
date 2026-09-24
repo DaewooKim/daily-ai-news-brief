@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 06:24:45",
+  "last_updated": "2026-09-24 06:24:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 06:24:03",
-      "message": "[SUCCESS] Processed: OpenAI, 80\uba85 \uc774\uc0c1\uc758 \uacf5\uc778 \uc804\ubb38\uac00\uc640 \ud568\uaed8 \uac1c\ubc1c\ud55c \uc815\uc2e0 \uac74\uac15 \ub300\ud654\uc758 AI \uc751\ub2f5 \ud3c9\uac00\ub97c \uc704\ud55c \uacf5\uac1c \ubca4\uce58\ub9c8\ud06c MentalHealthBench \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 80\uba85 \uc774\uc0c1\uc758 \uacf5\uc778 \uc815\uc2e0 \uac74\uac15 \uc804\ubb38\uac00\uc640 \ud568\uaed8 \uac1c\ubc1c\ud55c MentalHealthB..."
-    },
     {
       "timestamp": "2026-09-24 06:24:04",
       "message": "[PROCESSING] Analyzing: SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 06:24:45",
       "message": "[PROCESSING] Analyzing: Magnachip Announces Strategic Investment by Navitas Semiconductor..."
+    },
+    {
+      "timestamp": "2026-09-24 06:24:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Magnachip Announces Strategic Investment by Navitas Semiconductor"
     }
   ]
 }
