@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 07:31:28",
+  "last_updated": "2026-09-24 07:31:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 07:30:47",
-      "message": "[SUCCESS] Processed: OpenAI, 80\uba85 \uc774\uc0c1\uc758 \ub77c\uc774\uc13c\uc2a4\ub97c \uac00\uc9c4 \uc804\ubb38\uac00\uc640 \ud568\uaed8 \uc2e4\uc81c \uc815\uc2e0 \uac74\uac15 \ub300\ud654\uc5d0\uc11c AI \uc751\ub2f5\uc744 \ud3c9\uac00\ud558\uae30 \uc704\ud55c \uacf5\uac1c \uae30\uc900 MentalHealthBench \ucd9c\uc2dc\n  > Summary: OpenAI\ub294 80\uba85 \uc774\uc0c1\uc758 \ub77c\uc774\uc13c\uc2a4\ub97c \uac00\uc9c4 \uc815\uc2e0 \uac74\uac15 \uc804\ubb38\uac00\uc640 \ud568\uaed8 \uac1c\ubc1c\ud55c MentalH..."
-    },
     {
       "timestamp": "2026-09-24 07:30:48",
       "message": "[PROCESSING] Analyzing: SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 07:31:28",
       "message": "Reprocessing: Meta tries to resurrect the metaverse with its new VR Glasses"
+    },
+    {
+      "timestamp": "2026-09-24 07:31:30",
+      "message": "[SKIP] Content too short: Meta tries to resurrect the me..."
     }
   ]
 }
