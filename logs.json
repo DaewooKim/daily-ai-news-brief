@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 02:00:01",
+  "last_updated": "2026-09-24 02:00:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 01:59:29",
-      "message": "Reprocessing: Lookout launches mobile module to detect AI-powered text and voice scams"
-    },
     {
       "timestamp": "2026-09-24 01:59:31",
       "message": "[SKIP] Content too short: Lookout launches mobile module..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 02:00:01",
       "message": "[SKIP] Content too short: Training data provider Snorkel..."
+    },
+    {
+      "timestamp": "2026-09-24 02:00:03",
+      "message": "Reprocessing: Cisco Talos finds malware that puts its next move to a four-model vote"
     }
   ]
 }
