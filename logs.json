@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 22:10:11",
+  "last_updated": "2026-09-24 22:10:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 22:09:29",
-      "message": "[SUCCESS] Processed: TSMC\uc758 \uc9c4\ud654\ud558\ub294 \ub514\uc790\uc778 \uc0dd\ud0dc\uacc4: AI\uc758 \ubbf8\ub798\ub97c AI\ub85c \ud615\uc131\ud558\ub2e4\n  > Summary: TSMC\ub294 AI \uae30\ubc18 \uc6cc\ud06c\ud50c\ub85c\uc6b0\uc758 \ubbf8\ub798\ub97c \uac00\ub2a5\ud558\uac8c \ud558\ub294 AI \ub514\uc790\uc778 \ud0a4\ud2b8\ub97c \uc18c\uac1c\ud558\uace0 \uc788\uc2b5\ub2c8..."
-    },
     {
       "timestamp": "2026-09-24 22:09:31",
       "message": "[PROCESSING] Analyzing: After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 22:10:11",
       "message": "[PROCESSING] Analyzing: The US files an application with the EU's General Court in support of X's effort to annul a 2025 \u20ac120M DSA fine, arguing the EU engaged in regulatory overreach (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-24 22:10:14",
+      "message": "[SKIP] Irrelevant (AI Filter): The US files an application with the EU's General Court in support of X's effort to annul a 2025 \u20ac120M DSA fine, arguing the EU engaged in regulatory overreach (Bloomberg)"
     }
   ]
 }
