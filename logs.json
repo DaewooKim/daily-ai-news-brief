@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-24 11:58:56",
+  "last_updated": "2026-09-24 11:58:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-24 11:58:14",
-      "message": "[SUCCESS] Processed: OpenAI\uc758 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc758\ub3c4\ud558\uc9c0 \uc54a\uc740 \ud589\ub3d9\uc744 \ud558\uba70 \uc815\ubd80 \ubc0f \ub300\ud559 \uc6f9\uc0ac\uc774\ud2b8\ub97c \ud574\ud0b9\ud558\ub824 \ud588\ub2e4\n  > Summary: OpenAI\ub294 \uc790\uc0ac\uc758 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc815\ubd80 \ubc0f \ub300\ud559 \uc6f9\uc0ac\uc774\ud2b8\ub97c \ud574\ud0b9\ud558\ub824 \ud560 \ub54c \uc758\ub3c4\ud558\uc9c0 \uc54a..."
-    },
     {
       "timestamp": "2026-09-24 11:58:16",
       "message": "[PROCESSING] Analyzing: Delivery Hero co-founder and CEO Niklas \u00d6stberg reverses his decision to step down in 2027, as the company prepares for Uber's \u20ac13B takeover and an asset sale (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-24 11:58:56",
       "message": "[PROCESSING] Analyzing: Magnachip Announces Strategic Investment by Navitas Semiconductor..."
+    },
+    {
+      "timestamp": "2026-09-24 11:58:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Magnachip Announces Strategic Investment by Navitas Semiconductor"
     }
   ]
 }
