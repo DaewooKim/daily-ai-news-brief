@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-25 01:31:28",
+  "last_updated": "2026-09-25 01:31:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-25 01:30:46",
-      "message": "[SUCCESS] Processed: \ud6a8\uacfc\uc801\uc778 \uc81c3\uc790 \ud3c9\uac00\ub97c \uc704\ud55c \uc6b0\uc120\uc21c\uc704 \ubc0f \uc6d0\uce59\n  > Summary: OpenAI\ub294 \ucd5c\ucca8\ub2e8 \ubaa8\ub378\uc758 \uc548\uc804 \ud3c9\uac00\uc640 \ubcf4\ud638 \uc870\uce58\ub97c \uc704\ud55c \uc5c4\uaca9\ud558\uace0 \uc548\uc804\ud558\uba70 \ub3c5\ub9bd\uc801\uc778 \uc81c3..."
-    },
     {
       "timestamp": "2026-09-25 01:30:48",
       "message": "Reprocessing: Advisory Group on Mathematics and Artificial Intelligence"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-25 01:31:28",
       "message": "[PROCESSING] Analyzing: TechCrunch Founder Summit 2026: Everything you need to know..."
+    },
+    {
+      "timestamp": "2026-09-25 01:31:30",
+      "message": "[SKIP] Irrelevant (AI Filter): TechCrunch Founder Summit 2026: Everything you need to know"
     }
   ]
 }
