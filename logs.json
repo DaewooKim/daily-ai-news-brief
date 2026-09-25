@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-25 17:13:07",
+  "last_updated": "2026-09-25 17:13:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-25 17:12:25",
-      "message": "[SUCCESS] Processed: AI\uc758 \ub2e4\uc74c \ub2e8\uacc4\uc5d0 \ub300\ud55c \uae30\uc900 \uad6c\ucd95\n  > Summary: OpenAI\ub294 \uacf5\uc720\ub41c \uae00\ub85c\ubc8c AI \uae30\uc900\uc5d0 \ub300\ud55c \uacbd\ub85c\ub97c \uc81c\uc2dc\ud558\uba70, \uc548\uc804\uc131\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud574 ..."
-    },
     {
       "timestamp": "2026-09-25 17:12:27",
       "message": "Reprocessing: V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-25 17:13:07",
       "message": "[PROCESSING] Analyzing: Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend..."
+    },
+    {
+      "timestamp": "2026-09-25 17:13:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend"
     }
   ]
 }
