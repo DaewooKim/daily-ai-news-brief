@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-25 04:54:06",
+  "last_updated": "2026-09-25 04:54:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-25 04:53:24",
-      "message": "[SKIP] Irrelevant (AI Filter): Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation (Micah Maidenberg/Wall Street Journal)"
-    },
     {
       "timestamp": "2026-09-25 04:53:25",
       "message": "[PROCESSING] Analyzing: Email: Microsoft is moving its communications function out of its marketing group and into the corporate, external, and legal affairs org led by Brad Smith (Todd Bishop/GeekWire)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-25 04:54:06",
       "message": "[PROCESSING] Analyzing: Magnachip Announces Strategic Investment by Navitas Semiconductor..."
+    },
+    {
+      "timestamp": "2026-09-25 04:54:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Magnachip Announces Strategic Investment by Navitas Semiconductor"
     }
   ]
 }
