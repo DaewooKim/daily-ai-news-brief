@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-25 18:22:18",
+  "last_updated": "2026-09-25 18:22:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-25 18:21:33",
-      "message": "[SUCCESS] Processed: \uad6c\uae00\uc758 \uadf8\ub9ac\ub4dc-\ub300\ud654\ud615 AI \ub370\uc774\ud130 \uc13c\ud130: \ubc31\uc5c5\uc5d0\uc11c \uadf8\ub9ac\ub4dc \ud30c\ud2b8\ub108\ub85c\n  > Summary: Data Center World Power\uc5d0\uc11c \uad6c\uae00\uc758 \ud1b0 \uac00\ub974\ubca4\uc2a4\ub294 \ud480 \uc2a4\ud0dd \ub514\uc790\uc778, LV..."
-    },
     {
       "timestamp": "2026-09-25 18:21:35",
       "message": "[PROCESSING] Analyzing: A jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal (Diana Novak Jones/Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-25 18:22:18",
       "message": "[PROCESSING] Analyzing: Hammond Power Solutions Increases North American Manufacturing Capacity..."
+    },
+    {
+      "timestamp": "2026-09-25 18:22:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Hammond Power Solutions Increases North American Manufacturing Capacity"
     }
   ]
 }
