@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-25 12:46:32",
-  "status": "idle",
+  "last_updated": "2026-09-25 13:47:13",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-25 12:44:55",
-      "message": "[SKIP] Content too short: Neo4j makes the case for knowl..."
+      "timestamp": "2026-09-25 13:47:01",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-25 12:44:57",
-      "message": "Reprocessing: AI agents creating a new insider security risk: theCUBE\u2019s Oktane keynote analysis"
+      "timestamp": "2026-09-25 13:47:01",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-25 12:44:59",
-      "message": "[SKIP] Content too short: AI agents creating a new insid..."
+      "timestamp": "2026-09-25 13:47:01",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-25 12:45:01",
-      "message": "Reprocessing: Palo Alto Networks tackles the risks of autonomous AI agents"
+      "timestamp": "2026-09-25 13:47:13",
+      "message": "Found 177 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-25 12:45:02",
-      "message": "[SKIP] Content too short: Palo Alto Networks tackles the..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:04",
-      "message": "Reprocessing: US is head over heels for AI agents, while Europe remains dubious"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:06",
-      "message": "[SKIP] Content too short: US is head over heels for AI a..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:08",
-      "message": "Reprocessing: Groundcover picks up Kubernetes optimization startup Wand in its first acquisition"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:10",
-      "message": "[SKIP] Content too short: Groundcover picks up Kubernete..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:12",
-      "message": "Reprocessing: Dataiku debuts cross-platform Agent Management, expands Cobuild building agent"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:14",
-      "message": "[SKIP] Content too short: Dataiku debuts cross-platform ..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:16",
-      "message": "Reprocessing: Stravito integrates market research into enterprise AI tools with MCP server"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:17",
-      "message": "[SKIP] Content too short: Stravito integrates market res..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:19",
-      "message": "Reprocessing: Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:21",
-      "message": "[SKIP] Content too short: Pat Gelsinger-backed startup P..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:23",
-      "message": "Reprocessing: Kontext raises $4M to control what AI agents are allowed to do inside businesses"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:25",
-      "message": "[SKIP] Content too short: Kontext raises $4M to control ..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:27",
-      "message": "Reprocessing: Meta tries to resurrect the metaverse with its new VR Glasses"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:28",
-      "message": "[SKIP] Content too short: Meta tries to resurrect the me..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:30",
-      "message": "Reprocessing: Amazon\u2019s new plugin lets sellers manage their entire e-commerce business with AI"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:32",
-      "message": "[SKIP] Content too short: Amazon\u2019s new plugin lets selle..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:34",
-      "message": "Reprocessing: Google launches two benchmark-topping speech generation models"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:35",
-      "message": "[SKIP] Content too short: Google launches two benchmark-..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:37",
-      "message": "Reprocessing: Accenture leverages Oracle\u2019s Deep Data Security for database-driven trust boundaries"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:39",
-      "message": "[SKIP] Content too short: Accenture leverages Oracle\u2019s D..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:40",
-      "message": "Reprocessing: Containment is dead: Five takeaways from the AI ROI in Contact Center Summit"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:42",
-      "message": "[SKIP] Content too short: Containment is dead: Five take..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:44",
-      "message": "Reprocessing: UiPath introduces new workflow automation, software testing features"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:45",
-      "message": "[SKIP] Content too short: UiPath introduces new workflow..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:47",
-      "message": "Reprocessing: The AI factory is becoming the computer and it\u2019s changing the semiconductor race"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:49",
-      "message": "[SKIP] Content too short: The AI factory is becoming the..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:51",
-      "message": "Reprocessing: The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:52",
-      "message": "[SKIP] Content too short: The Transformation Edge: Why A..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:54",
-      "message": "Reprocessing: Microsoft unveils Integrated Security Operations Center in Defender for AI agents"
-    },
-    {
-      "timestamp": "2026-09-25 12:45:56",
-      "message": "[SKIP] Content too short: Microsoft unveils Integrated S..."
-    },
-    {
-      "timestamp": "2026-09-25 12:45:58",
-      "message": "Reprocessing: Oracle puts database security controls beneath AI agents"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:00",
-      "message": "[SKIP] Content too short: Oracle puts database security ..."
-    },
-    {
-      "timestamp": "2026-09-25 12:46:01",
-      "message": "Reprocessing: Oracle shifts agent controls toward data-layer security"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:03",
-      "message": "[SKIP] Content too short: Oracle shifts agent controls t..."
-    },
-    {
-      "timestamp": "2026-09-25 12:46:05",
-      "message": "[PROCESSING] Analyzing: ASRock Rack SORANOD8-2L2T Review A New AMD EPYC 8005 Sorano Motherboard..."
-    },
-    {
-      "timestamp": "2026-09-25 12:46:07",
-      "message": "[SKIP] Irrelevant (AI Filter): ASRock Rack SORANOD8-2L2T Review A New AMD EPYC 8005 Sorano Motherboard"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:09",
-      "message": "[PROCESSING] Analyzing: Qualcomm Announces Snapdragon X2 Debian and Ubuntu Support in 2026..."
-    },
-    {
-      "timestamp": "2026-09-25 12:46:11",
-      "message": "[SKIP] Irrelevant (AI Filter): Qualcomm Announces Snapdragon X2 Debian and Ubuntu Support in 2026"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:13",
-      "message": "[PROCESSING] Analyzing: Qotom Q30952UE Review the New Black Box for 10G Networking..."
-    },
-    {
-      "timestamp": "2026-09-25 12:46:15",
-      "message": "[SKIP] Irrelevant (AI Filter): Qotom Q30952UE Review the New Black Box for 10G Networking"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:17",
-      "message": "[PROCESSING] Analyzing: NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look..."
-    },
-    {
-      "timestamp": "2026-09-25 12:46:19",
-      "message": "[SKIP] Irrelevant (AI Filter): NVIDIA MMS1X00-N5400 QSFP112 1310NM 400Gbps Optic Quick Look"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:21",
-      "message": "Completed! New: 2, Updated: 51"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:26",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-25 12:46:29",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-25 13:47:13",
+      "message": "[PROCESSING] Analyzing: Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test..."
     }
   ]
 }
