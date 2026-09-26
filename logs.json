@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-26 06:42:05",
+  "last_updated": "2026-09-26 06:42:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-26 06:41:28",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \uc6cc\ud06c\ud50c\ub85c \uc790\ub3d9\ud654 \ub3c4\uad6c\ub97c \uc81c\uacf5\ud558\ub294 \ub274\uc695 \uae30\ubc18\uc758 Confido, Insight Partners \uc8fc\ub3c4 \ud558\uc5d0 5,500\ub9cc \ub2ec\ub7ec \uc2dc\ub9ac\uc988 B \uc790\uae08 \uc870\ub2ec\n  > Summary: \uc18c\ube44\uc7ac \uae30\uc5c5\uc744 \uc704\ud55c AI \uae30\ubc18 \uc6cc\ud06c\ud50c\ub85c \uc790\ub3d9\ud654 \ub3c4\uad6c\ub97c \uc81c\uacf5\ud558\ub294 \ub274\uc695\uc758 Confido\uac00 In..."
-    },
     {
       "timestamp": "2026-09-26 06:41:30",
       "message": "[PROCESSING] Analyzing: Russia has increased targeted strikes on Ukrainian data centers, disrupting internet access for ~100K Kyiv residents on Wednesday and Thursday (Christopher Miller/Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-26 06:42:05",
       "message": "[PROCESSING] Analyzing: Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-26 06:42:08",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)"
     }
   ]
 }
