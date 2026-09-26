@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-26 12:13:32",
+  "last_updated": "2026-09-26 12:13:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-26 12:12:54",
-      "message": "[SKIP] Content too short: Automating coherent long-form ..."
-    },
     {
       "timestamp": "2026-09-26 12:12:55",
       "message": "[PROCESSING] Analyzing: OpenAI extends cyber access to Ukraine for civilian defense..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-26 12:13:32",
       "message": "[PROCESSING] Analyzing: Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his..."
+    },
+    {
+      "timestamp": "2026-09-26 12:13:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his"
     }
   ]
 }
