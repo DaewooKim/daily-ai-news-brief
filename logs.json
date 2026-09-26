@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-26 16:38:37",
+  "last_updated": "2026-09-26 16:38:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-26 16:38:00",
-      "message": "Found 178 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-26 16:38:00",
       "message": "[PROCESSING] Analyzing: OpenAI pauses training of its \u2018most capable models\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-26 16:38:37",
       "message": "Reprocessing: Vector Search Is Now A Data Type, But The Money Math Has Not Gone Away"
+    },
+    {
+      "timestamp": "2026-09-26 16:38:39",
+      "message": "[SKIP] Content too short: Vector Search Is Now A Data Ty..."
     }
   ]
 }
