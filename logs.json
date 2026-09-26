@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-26 17:45:10",
+  "last_updated": "2026-09-26 17:45:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-26 17:44:35",
-      "message": "[PROCESSING] Analyzing: Roku&#8217;s first OLED TVs are up to $400 off, starting at $699..."
-    },
     {
       "timestamp": "2026-09-26 17:44:37",
       "message": "[SKIP] Irrelevant (AI Filter): Roku&#8217;s first OLED TVs are up to $400 off, starting at $699"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-26 17:45:10",
       "message": "[SKIP] Irrelevant (AI Filter): Manage Kubernetes Node Fleets with NodeWright"
+    },
+    {
+      "timestamp": "2026-09-26 17:45:11",
+      "message": "Reprocessing: How SWE-Serve Exposes the Gap Between Local Tests and Live Serving"
     }
   ]
 }
