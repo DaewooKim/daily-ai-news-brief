@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-26 04:25:48",
+  "last_updated": "2026-09-26 04:25:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-26 04:25:12",
-      "message": "[PROCESSING] Analyzing: Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K..."
-    },
     {
       "timestamp": "2026-09-26 04:25:14",
       "message": "[SKIP] Irrelevant (AI Filter): Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-26 04:25:48",
       "message": "[SKIP] Irrelevant (AI Filter): Manage Kubernetes Node Fleets with NodeWright"
+    },
+    {
+      "timestamp": "2026-09-26 04:25:50",
+      "message": "Reprocessing: How SWE-Serve Exposes the Gap Between Local Tests and Live Serving"
     }
   ]
 }
