@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-26 17:44:54",
+  "last_updated": "2026-09-26 17:44:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-26 17:44:18",
-      "message": "Found 173 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-26 17:44:18",
       "message": "[PROCESSING] Analyzing: Kids turned the comment section of an NPR podcast into a group chat..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-26 17:44:54",
       "message": "Reprocessing: Vector Search Is Now A Data Type, But The Money Math Has Not Gone Away"
+    },
+    {
+      "timestamp": "2026-09-26 17:44:56",
+      "message": "[SKIP] Content too short: Vector Search Is Now A Data Ty..."
     }
   ]
 }
