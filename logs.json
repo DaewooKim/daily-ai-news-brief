@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 14:25:03",
+  "last_updated": "2026-09-27 14:25:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 14:24:27",
-      "message": "[PROCESSING] Analyzing: Kids turned the comment section of an NPR podcast into a group chat..."
-    },
     {
       "timestamp": "2026-09-27 14:24:30",
       "message": "[SKIP] Irrelevant (AI Filter): Kids turned the comment section of an NPR podcast into a group chat"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 14:25:03",
       "message": "Reprocessing: Automating coherent long-form video generation"
+    },
+    {
+      "timestamp": "2026-09-27 14:25:05",
+      "message": "[SKIP] Content too short: Automating coherent long-form ..."
     }
   ]
 }
