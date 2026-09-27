@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 18:47:48",
+  "last_updated": "2026-09-27 18:47:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 18:47:12",
-      "message": "[PROCESSING] Analyzing: Googlebooks might be the real deal..."
-    },
     {
       "timestamp": "2026-09-27 18:47:14",
       "message": "[SKIP] Irrelevant (AI Filter): Googlebooks might be the real deal"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 18:47:48",
       "message": "[SKIP] Irrelevant (AI Filter): Manage Kubernetes Node Fleets with NodeWright"
+    },
+    {
+      "timestamp": "2026-09-27 18:47:50",
+      "message": "Reprocessing: How SWE-Serve Exposes the Gap Between Local Tests and Live Serving"
     }
   ]
 }
