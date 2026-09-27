@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 11:06:15",
+  "last_updated": "2026-09-27 11:06:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 11:05:39",
-      "message": "[SKIP] Irrelevant (AI Filter): Phones don\u2019t have lights"
-    },
     {
       "timestamp": "2026-09-27 11:05:40",
       "message": "Reprocessing: IonQ: There Is One CPU To Rule Error Correction Decoding"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 11:06:15",
       "message": "Reprocessing: Automating coherent long-form video generation"
+    },
+    {
+      "timestamp": "2026-09-27 11:06:16",
+      "message": "[SKIP] Content too short: Automating coherent long-form ..."
     }
   ]
 }
