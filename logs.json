@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 11:07:20",
+  "last_updated": "2026-09-27 11:07:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 11:06:43",
-      "message": "[PROCESSING] Analyzing: Insurers claim AI is already increasing healthcare costs..."
-    },
     {
       "timestamp": "2026-09-27 11:06:46",
       "message": "[SUCCESS] Processed: \ubcf4\ud5d8\uc0ac\ub4e4\uc740 AI\uac00 \uc774\ubbf8 \uc758\ub8cc \ube44\uc6a9\uc744 \uc99d\uac00\uc2dc\ud0a4\uace0 \uc788\ub2e4\uace0 \uc8fc\uc7a5\ud55c\ub2e4\n  > Summary: \ube14\ub8e8 \ud06c\ub85c\uc2a4 \ube14\ub8e8 \uc2e4\ub4dc\ub294 \ubcd1\uc6d0\uc5d0\uc11c AI \ub3c4\uad6c\ub97c \uc0ac\uc6a9\ud568\uc5d0 \ub530\ub77c \uc9c0\ub09c 2\ub144 \ub3d9\uc548 \uc758\ub8cc \ube44\uc6a9\uc774 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 11:07:20",
       "message": "[PROCESSING] Analyzing: After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry..."
+    },
+    {
+      "timestamp": "2026-09-27 11:07:22",
+      "message": "[SKIP] Irrelevant (AI Filter): After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry"
     }
   ]
 }
