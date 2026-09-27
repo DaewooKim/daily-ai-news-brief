@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 13:18:44",
+  "last_updated": "2026-09-27 13:18:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 13:18:06",
-      "message": "Found 163 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-27 13:18:06",
       "message": "[PROCESSING] Analyzing: Why OLPC\u2019s $100 laptop never stood a chance..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 13:18:44",
       "message": "Reprocessing: Improving Quantum Error Correction By Meshing Surface Code With IBM\u2019s Heavy-Hex Architecture"
+    },
+    {
+      "timestamp": "2026-09-27 13:18:46",
+      "message": "[SKIP] Content too short: Improving Quantum Error Correc..."
     }
   ]
 }
