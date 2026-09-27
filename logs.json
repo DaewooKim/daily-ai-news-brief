@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 11:08:33",
+  "last_updated": "2026-09-27 11:08:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 11:07:52",
-      "message": "[SUCCESS] Processed: AI \uae30\ubc18 \uae30\uc220\uc744 \uc81c\uacf5\ud558\ub294 Numeral, 90\uac1c\uad6d\uc5d0\uc11c \uc138\uae08 \uc900\uc218 \uc6cc\ud06c\ud50c\ub85c \uc790\ub3d9\ud654\ub97c \uc704\ud574 \uc778\uc0ac\uc774\ud2b8 \ud30c\ud2b8\ub108\uc2a4 \uc8fc\ub3c4\ub85c 1\uc5b5 \ub2ec\ub7ec \uc2dc\ub9ac\uc988 C \ud380\ub529 \uc720\uce58\n  > Summary: FinTech Global\uc5d0 \ub530\ub974\uba74, AI \uc911\uc2ec\uc758 \uc138\uae08 \uc900\uc218 \ud50c\ub7ab\ud3fc\uc778 Numeral\uc774 1\uc5b5..."
-    },
     {
       "timestamp": "2026-09-27 11:07:53",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking (Madison Mills/Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 11:08:33",
       "message": "[PROCESSING] Analyzing: Sources: Automattic CEO Matt Mullenweg announces a new board and new advisers; board members include two founders of IRL and the author of the Silo book series (Sarah Perez/TechCrunch)..."
+    },
+    {
+      "timestamp": "2026-09-27 11:08:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Automattic CEO Matt Mullenweg announces a new board and new advisers; board members include two founders of IRL and the author of the Silo book series (Sarah Perez/TechCrunch)"
     }
   ]
 }
