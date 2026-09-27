@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-27 13:18:58",
+  "last_updated": "2026-09-27 13:19:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-27 13:18:20",
-      "message": "[PROCESSING] Analyzing: Apple hit with $5.7 billion in damages over haptic patents..."
-    },
     {
       "timestamp": "2026-09-27 13:18:22",
       "message": "[SKIP] Irrelevant (AI Filter): Apple hit with $5.7 billion in damages over haptic patents"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-27 13:18:58",
       "message": "[SKIP] Irrelevant (AI Filter): Manage Kubernetes Node Fleets with NodeWright"
+    },
+    {
+      "timestamp": "2026-09-27 13:19:00",
+      "message": "Reprocessing: How SWE-Serve Exposes the Gap Between Local Tests and Live Serving"
     }
   ]
 }
