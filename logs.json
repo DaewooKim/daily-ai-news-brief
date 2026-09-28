@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 23:21:24",
+  "last_updated": "2026-09-28 23:21:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 23:20:43",
-      "message": "[PROCESSING] Analyzing: AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-28 23:20:46",
       "message": "[SUCCESS] Processed: AMD, Fei-Fei Li\uc758 \uc6d4\ub4dc\ub7a9\uc2a4 \uc778\uc218\uc5d0 82\uc5b5 \ub2ec\ub7ec\uc5d0 \ud569\uc758\n  > Summary: AMD\uac00 AI \uc2a4\ud0c0\ud2b8\uc5c5\uc778 Fei-Fei Li\uc758 \uc6d4\ub4dc\ub7a9\uc2a4\ub97c 82\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\uae30\ub85c \ud569\uc758\ud588\uc2b5..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 23:21:24",
       "message": "Reprocessing: Agentic AI is breaking the token meter, and enterprises need a plan for what comes next"
+    },
+    {
+      "timestamp": "2026-09-28 23:21:26",
+      "message": "[SKIP] Content too short: Agentic AI is breaking the tok..."
     }
   ]
 }
