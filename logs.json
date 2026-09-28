@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 11:12:48",
+  "last_updated": "2026-09-28 11:12:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 11:12:06",
-      "message": "[PROCESSING] Analyzing: Sources: China expands its foreign travel restrictions to include the direct relatives, such as spouses and children, of certain key AI and chip executives (Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-28 11:12:09",
       "message": "[SUCCESS] Processed: \uc911\uad6d, \uc8fc\uc694 AI \ubc0f \uce69 \uacbd\uc601\uc9c4\uc758 \uc9c1\uacc4 \uac00\uc871\uc5d0 \ub300\ud55c \ud574\uc678 \uc5ec\ud589 \uc81c\ud55c \ud655\ub300\n  > Summary: \uc911\uad6d\uc740 \uc8fc\uc694 AI \uc804\ubb38\uac00\ub4e4\uc758 \ud574\uc678 \uc5ec\ud589 \uc81c\ud55c\uc744 \ud655\ub300\ud558\uc5ec, \ud2b9\uc815 \uc778\ubb3c\uc758 \ubc30\uc6b0\uc790\uc640 \uc790\ub140\uc640 \uac19\uc740..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 11:12:48",
       "message": "[PROCESSING] Analyzing: Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System..."
+    },
+    {
+      "timestamp": "2026-09-28 11:12:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System"
     }
   ]
 }
