@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 09:00:26",
+  "last_updated": "2026-09-28 09:00:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 08:59:41",
-      "message": "[PROCESSING] Analyzing: Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the \"bipartisan psychosis\" over data centers (The Washington Sun)..."
-    },
     {
       "timestamp": "2026-09-28 08:59:45",
       "message": "[SUCCESS] Processed: \uc6cc\uc2f1\ud134 D.C.\uc5d0\uc11c \uc218\ubc31 \uba85\uc774 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \uc591\ub2f9 \uc2ec\ub9ac\uc5d0 \ubc18\ud558\ub294 AI \uc9c0\uc9c0 \ud30c\ud2f0\uc5d0 \ucc38\uc11d\ud558\ub2e4\n  > Summary: 9\uc6d4 26\uc77c \uc6cc\uc2f1\ud134 D.C.\uc5d0\uc11c \uc218\ubc31 \uba85\uc774 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \ub300\ud55c \ubc18\ub300 \uc5ec\ub860\uc5d0 \ub300\uc751\ud558\uae30 \uc704\ud574 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 09:00:26",
       "message": "[SKIP] Irrelevant (AI Filter): Where Developer Choice Broke Down in Embedded Software Development"
+    },
+    {
+      "timestamp": "2026-09-28 09:00:28",
+      "message": "Reprocessing: AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?"
     }
   ]
 }
