@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 13:24:16",
+  "last_updated": "2026-09-28 13:24:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 13:23:33",
-      "message": "[SUCCESS] Processed: NVIDIA \uc624\ud508 \uc5d0\uc774\uc804\ud2b8 \uc548\uc804 \ud50c\ub7ab\ud3fc: \uc9c0\uc18d\uc801\uc778 \uc778\uc2e4\ub9ac\ucf58 \uc5d0\uc774\uc804\ud2b8 \ubaa8\ub2c8\ud130\ub9c1\uc744 \uc704\ud55c \ucc38\uc870\n  > Summary: NVIDIA\ub294 \uc5d0\uc774\uc804\ud2b8 \uae30\ubc18 AI\uc758 \ud604\ud669\uc744 \uc774\ud574\ud558\uae30 \uc704\ud574 \uc778\ud130\ub137\uc758 \ucd9c\ud604\uc5d0 \ube44\uc720\ud558\uba70, \uc0c8\ub85c\uc6b4..."
-    },
     {
       "timestamp": "2026-09-28 13:23:35",
       "message": "Reprocessing: Add Runtime Controls to AI Agents with NVIDIA OpenShell"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 13:24:16",
       "message": "[PROCESSING] Analyzing: Calterah Turns UWB Digital Keys into In-Cabin Sensors..."
+    },
+    {
+      "timestamp": "2026-09-28 13:24:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Calterah Turns UWB Digital Keys into In-Cabin Sensors"
     }
   ]
 }
