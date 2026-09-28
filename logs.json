@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 22:13:06",
+  "last_updated": "2026-09-28 22:13:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 22:12:22",
-      "message": "[PROCESSING] Analyzing: Bose starts adding Auracast to its headphones..."
-    },
     {
       "timestamp": "2026-09-28 22:12:25",
       "message": "[SKIP] Irrelevant (AI Filter): Bose starts adding Auracast to its headphones"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 22:13:06",
       "message": "Reprocessing: Automating coherent long-form video generation"
+    },
+    {
+      "timestamp": "2026-09-28 22:13:08",
+      "message": "[SKIP] Content too short: Automating coherent long-form ..."
     }
   ]
 }
