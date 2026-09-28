@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 04:36:19",
+  "last_updated": "2026-09-28 04:36:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 04:35:42",
-      "message": "Found 147 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-28 04:35:42",
       "message": "[PROCESSING] Analyzing: Out of the Park Baseball lets me enjoy baseball even when the Mets suck..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 04:36:19",
       "message": "[PROCESSING] Analyzing: Manage Kubernetes Node Fleets with NodeWright..."
+    },
+    {
+      "timestamp": "2026-09-28 04:36:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Manage Kubernetes Node Fleets with NodeWright"
     }
   ]
 }
