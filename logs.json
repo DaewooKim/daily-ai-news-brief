@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 20:03:38",
+  "last_updated": "2026-09-28 20:03:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 20:02:57",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)"
-    },
     {
       "timestamp": "2026-09-28 20:02:58",
       "message": "[PROCESSING] Analyzing: Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 20:03:38",
       "message": "Reprocessing: Qiagen grounds drug discovery agents in curated knowledge"
+    },
+    {
+      "timestamp": "2026-09-28 20:03:40",
+      "message": "[SKIP] Content too short: Qiagen grounds drug discovery ..."
     }
   ]
 }
