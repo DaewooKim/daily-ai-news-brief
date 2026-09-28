@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 18:56:08",
+  "last_updated": "2026-09-28 18:56:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 18:55:25",
-      "message": "[PROCESSING] Analyzing: Volkswagen replaces ID.4 with all-electric Tiguan..."
-    },
     {
       "timestamp": "2026-09-28 18:55:28",
       "message": "[SKIP] Irrelevant (AI Filter): Volkswagen replaces ID.4 with all-electric Tiguan"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 18:56:08",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ub354 \uc800\ub834\ud558\uace0 \ube60\ub978 \uc791\uc5c5 \ud30c\ud2b8\ub108\uc778 \uc18c\ub137 5.5 \ucd9c\uc2dc\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \ucd5c\uc2e0 \uc911\uac04 \ubaa8\ub378 \uc18c\ub137 5.5\ub97c \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \ubaa8\ub378\uc740 \ub354 \ube60\ub978 \uc751\ub2f5 \uc18d\ub3c4\uc640 \ub354..."
+    },
+    {
+      "timestamp": "2026-09-28 18:56:10",
+      "message": "Reprocessing: OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity"
     }
   ]
 }
