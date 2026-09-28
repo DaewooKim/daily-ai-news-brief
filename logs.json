@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 21:09:30",
+  "last_updated": "2026-09-28 21:09:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 21:08:50",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)..."
-    },
     {
       "timestamp": "2026-09-28 21:08:53",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, \uc5d4\ube44\ub514\uc544\uc758 130\uc5b5 \ub2ec\ub7ec \uc778\uc218 \uc774\uc804 \ud5c8\uae45\ud398\uc774\uc2a4\uc5d0 1\uc5b5 \ub2ec\ub7ec \ud22c\uc790 \uc81c\uc548\ud588\uc9c0\ub9cc \ud611\uc0c1\uc774 \uacb0\ub82c\n  > Summary: \uc624\ud508AI\ub294 \uc5d4\ube44\ub514\uc544\uac00 \ud5c8\uae45\ud398\uc774\uc2a4\ub97c 130\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\uae30 \uc804\uc5d0 1\uc5b5 \ub2ec\ub7ec\ub97c \ud22c\uc790\ud558\ub824\uace0 \ud588..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 21:09:30",
       "message": "Reprocessing: Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model"
+    },
+    {
+      "timestamp": "2026-09-28 21:09:32",
+      "message": "[SKIP] Content too short: Anthropic debuts Claude Sonnet..."
     }
   ]
 }
