@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 23:21:28",
+  "last_updated": "2026-09-28 23:21:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 23:20:48",
-      "message": "[PROCESSING] Analyzing: Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-28 23:20:50",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 23:21:28",
       "message": "Reprocessing: Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business"
+    },
+    {
+      "timestamp": "2026-09-28 23:21:30",
+      "message": "[SKIP] Content too short: Meta hires MongoDB CEO CJ Desa..."
     }
   ]
 }
