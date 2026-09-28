@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 21:08:44",
+  "last_updated": "2026-09-28 21:08:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 21:08:02",
-      "message": "[PROCESSING] Analyzing: Anthropic\u2019s CEO is about to have dinner with President Trump..."
-    },
     {
       "timestamp": "2026-09-28 21:08:05",
       "message": "[SKIP] Irrelevant (AI Filter): Anthropic\u2019s CEO is about to have dinner with President Trump"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 21:08:44",
       "message": "[PROCESSING] Analyzing: Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-28 21:08:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)"
     }
   ]
 }
