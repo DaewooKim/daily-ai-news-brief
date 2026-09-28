@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 01:22:14",
+  "last_updated": "2026-09-28 01:22:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 01:21:36",
-      "message": "[SUCCESS] Processed: \ubbf8\uad6d \ucd5c\uadfc \uc2e4\uc801 \ubc1c\ud45c\uc5d0\uc11c \uc624\ud508 \ubaa8\ub378 \uc5b8\uae09\uc774 \uc791\ub144 \ub300\ube44 6\ubc30 \uae09\uc99d\n  > Summary: \ubbf8\uad6d\uc758 \ucd5c\uadfc \uc2e4\uc801 \ubc1c\ud45c\uc5d0\uc11c \uc624\ud508 \ubaa8\ub378\uc5d0 \ub300\ud55c \uc5b8\uae09\uc774 \uc791\ub144 \ub300\ube44 6\ubc30 \uc99d\uac00\ud588\ub2e4\uace0 \uc804\ud569\ub2c8\ub2e4. ..."
-    },
     {
       "timestamp": "2026-09-28 01:21:38",
       "message": "[PROCESSING] Analyzing: Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 01:22:14",
       "message": "Reprocessing: Researcher links 16,000 scans of a UN statistics portal to OpenAI agents"
+    },
+    {
+      "timestamp": "2026-09-28 01:22:16",
+      "message": "[SKIP] Content too short: Researcher links 16,000 scans ..."
     }
   ]
 }
