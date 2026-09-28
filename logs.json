@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 10:04:15",
+  "last_updated": "2026-09-28 10:04:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 10:03:36",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-09-28 10:03:36",
       "message": "[PROCESSING] Analyzing: Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 10:04:15",
       "message": "[PROCESSING] Analyzing: Accelerate Application Readiness and Delivery..."
+    },
+    {
+      "timestamp": "2026-09-28 10:04:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Accelerate Application Readiness and Delivery"
     }
   ]
 }
