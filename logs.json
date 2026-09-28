@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 12:17:21",
+  "last_updated": "2026-09-28 12:17:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 12:16:39",
-      "message": "Reprocessing: IonQ: There Is One CPU To Rule Error Correction Decoding"
-    },
     {
       "timestamp": "2026-09-28 12:16:41",
       "message": "[SKIP] Content too short: IonQ: There Is One CPU To Rule..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 12:17:21",
       "message": "[PROCESSING] Analyzing: Anthropic\u2019s CEO is about to have dinner with President Trump..."
+    },
+    {
+      "timestamp": "2026-09-28 12:17:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Anthropic\u2019s CEO is about to have dinner with President Trump"
     }
   ]
 }
