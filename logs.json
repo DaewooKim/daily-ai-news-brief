@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 22:12:57",
+  "last_updated": "2026-09-28 22:12:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 22:12:02",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-09-28 22:12:17",
       "message": "Found 140 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 22:12:57",
       "message": "[SUCCESS] Processed: PostgreSQL\uc6a9 AlloyDB\ub85c AI \uc571 \ubc0f \uc5d0\uc774\uc804\ud2b8 \uad6c\ucd95\ud558\uae30\n  > Summary: PostgreSQL\uc6a9 AlloyDB\ub294 \uace0\uc131\ub2a5 \ubca1\ud130 \uac80\uc0c9\uacfc \uac19\uc740 AI \uae30\ub2a5\uc744 \ucd94\uac00\ud558\uc5ec \ub77c\uc774\ube0c..."
+    },
+    {
+      "timestamp": "2026-09-28 22:12:58",
+      "message": "Reprocessing: Add Runtime Controls to AI Agents with NVIDIA OpenShell"
     }
   ]
 }
