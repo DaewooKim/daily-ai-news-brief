@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 09:00:44",
+  "last_updated": "2026-09-28 09:00:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 09:00:02",
-      "message": "[PROCESSING] Analyzing: Sources: President Trump hosted Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)..."
-    },
     {
       "timestamp": "2026-09-28 09:00:05",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: President Trump hosted Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 09:00:44",
       "message": "Reprocessing: AI data center builder Nscale raises $3.36B ahead of IPO"
+    },
+    {
+      "timestamp": "2026-09-28 09:00:46",
+      "message": "[SKIP] Content too short: AI data center builder Nscale ..."
     }
   ]
 }
