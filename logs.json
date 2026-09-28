@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-28 05:41:42",
+  "last_updated": "2026-09-28 05:41:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-28 05:41:02",
-      "message": "[PROCESSING] Analyzing: Googlebooks might be the real deal..."
-    },
     {
       "timestamp": "2026-09-28 05:41:05",
       "message": "[SKIP] Irrelevant (AI Filter): Googlebooks might be the real deal"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-28 05:41:42",
       "message": "Reprocessing: Automating coherent long-form video generation"
+    },
+    {
+      "timestamp": "2026-09-28 05:41:44",
+      "message": "[SKIP] Content too short: Automating coherent long-form ..."
     }
   ]
 }
