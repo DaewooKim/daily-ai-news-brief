@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 19:14:20",
+  "last_updated": "2026-09-29 19:14:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 19:13:37",
-      "message": "[SUCCESS] Processed: OpenAI, ChatGPT\uc758 \uc0ac\ubb34\uc2e4 \uc81c\ud488\uad70 \ucd9c\uc2dc\ub85c Microsoft\uc5d0 \ub3c4\uc804\n  > Summary: OpenAI\ub294 \ucd5c\uadfc \uc0c8\ub85c\uc6b4 \uc0ac\ubb34\uc2e4 \uae30\ub2a5\uc744 \ubc1c\ud45c\ud558\uba70 \uc804\ud1b5 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\ub4e4\uacfc \ub354\uc6b1 \uc9c1\uc811\uc801\uc778 ..."
-    },
     {
       "timestamp": "2026-09-29 19:13:39",
       "message": "Reprocessing: AI-powered app maker Wabi pivots to a messaging experience"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 19:14:20",
       "message": "[PROCESSING] Analyzing: Instinct founder said more than 50% of transactions on the platform are travel-related..."
+    },
+    {
+      "timestamp": "2026-09-29 19:14:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Instinct founder said more than 50% of transactions on the platform are travel-related"
     }
   ]
 }
