@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 21:33:49",
+  "last_updated": "2026-09-29 21:33:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 21:33:06",
-      "message": "[PROCESSING] Analyzing: Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO (Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-29 21:33:11",
       "message": "[SUCCESS] Processed: \uc624\ud508AI, IPO \ub300\uc2e0 \uc790\ubcf8 \ud655\ubcf4\ub97c \uc704\ud55c \ube0c\ub9ac\uc9c0 \ub77c\uc6b4\ub4dc\ub85c \uc57d 1.4\uc870 \ub2ec\ub7ec\uc758 \uc0ac\uc804 \ud3c9\uac00 \uac00\uce58\ub85c \ucd5c\uc18c 300\uc5b5 \ub2ec\ub7ec \uc870\ub2ec \uc608\uc815\n  > Summary: \uc624\ud508AI\ub294 \ud22c\uc790\uc790\ub4e4\ub85c\ubd80\ud130 \ucd5c\uc18c 300\uc5b5 \ub2ec\ub7ec\ub97c \uc870\ub2ec\ud560 \uacc4\ud68d\uc774\uba70, \uc774\ub294 \uc57d 1.4\uc870 \ub2ec\ub7ec\uc758 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 21:33:49",
       "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act: Secure-By-Design vs. Bolt-On Security..."
+    },
+    {
+      "timestamp": "2026-09-29 21:33:52",
+      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act: Secure-By-Design vs. Bolt-On Security"
     }
   ]
 }
