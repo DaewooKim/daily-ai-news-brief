@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-09-29 15:56:52",
-  "status": "idle",
+  "last_updated": "2026-09-29 16:57:29",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-09-29 15:55:06",
-      "message": "Reprocessing: AMD acquires world model developer World Labs for $8.2B"
+      "timestamp": "2026-09-29 16:57:17",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-09-29 15:55:08",
-      "message": "[SKIP] Content too short: AMD acquires world model devel..."
+      "timestamp": "2026-09-29 16:57:18",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-09-29 15:55:10",
-      "message": "Reprocessing: Agentic-fueled attacks place focus on securing data at the source"
+      "timestamp": "2026-09-29 16:57:18",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-09-29 15:55:11",
-      "message": "[SKIP] Content too short: Agentic-fueled attacks place f..."
+      "timestamp": "2026-09-29 16:57:29",
+      "message": "Found 145 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-09-29 15:55:13",
-      "message": "Reprocessing: SpaceX puts Starship into orbit for the first time, deploys 26 Starlink satellites"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:15",
-      "message": "[SKIP] Content too short: SpaceX puts Starship into orbi..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:17",
-      "message": "Reprocessing: Nvidia boosts share buyback program by record $150B"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:18",
-      "message": "[SKIP] Content too short: Nvidia boosts share buyback pr..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:20",
-      "message": "Reprocessing: Defense cyber intelligence company RedLattice to go public in $1.25B SPAC deal"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:22",
-      "message": "[SKIP] Content too short: Defense cyber intelligence com..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:23",
-      "message": "Reprocessing: What to expect at the Dell AI Data Platform Event: Join theCUBE Oct. 6\u20137"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:25",
-      "message": "[SKIP] Content too short: What to expect at the Dell AI ..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:28",
-      "message": "Reprocessing: 1Password ties AI agent access to individual tasks"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:30",
-      "message": "[SKIP] Content too short: 1Password ties AI agent access..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:32",
-      "message": "Reprocessing: Agentic AI is breaking the token meter, and enterprises need a plan for what comes next"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:34",
-      "message": "[SKIP] Content too short: Agentic AI is breaking the tok..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:36",
-      "message": "Reprocessing: Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:37",
-      "message": "[SKIP] Content too short: Meta hires MongoDB CEO CJ Desa..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:39",
-      "message": "Reprocessing: ServiceNow calls for a measured response to rogue AI agents"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:41",
-      "message": "[SKIP] Content too short: ServiceNow calls for a measure..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:43",
-      "message": "Reprocessing: Qiagen grounds drug discovery agents in curated knowledge"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:45",
-      "message": "[SKIP] Content too short: Qiagen grounds drug discovery ..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:46",
-      "message": "Reprocessing: Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:48",
-      "message": "[SKIP] Content too short: Anthropic debuts Claude Sonnet..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:50",
-      "message": "Reprocessing: Agentic AI puts new pressure on identity and database security"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:53",
-      "message": "[SKIP] Content too short: Agentic AI puts new pressure o..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:56",
-      "message": "Reprocessing: Blitzy\u2019s autonomous coding bet: Every codebase is already a graph"
-    },
-    {
-      "timestamp": "2026-09-29 15:55:57",
-      "message": "[SKIP] Content too short: Blitzy\u2019s autonomous coding bet..."
-    },
-    {
-      "timestamp": "2026-09-29 15:55:59",
-      "message": "Reprocessing: Momentic debuts Mo AI agent to automate software testing without scripts"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:01",
-      "message": "[SKIP] Content too short: Momentic debuts Mo AI agent to..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:03",
-      "message": "Reprocessing: Everyday personal AI assistant startup Instinct raises $1B at $10B valuation"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:05",
-      "message": "[SKIP] Content too short: Everyday personal AI assistant..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:06",
-      "message": "Reprocessing: On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:08",
-      "message": "[SKIP] Content too short: On theCUBE Pod: Agents reshape..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:10",
-      "message": "Reprocessing: Storming the TradFi castle: Stablecoins, tokenized assets and AI are claiming their place in global finance"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:12",
-      "message": "[SKIP] Content too short: Storming the TradFi castle: St..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:15",
-      "message": "Reprocessing: NVIDIA Open Agent Safety Platform Launched"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:17",
-      "message": "[PROCESSING] Analyzing: NVIDIA Open Agent Safety Platform Launched..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:22",
-      "message": "[SUCCESS] Processed: NVIDIA \uc624\ud508 \uc5d0\uc774\uc804\ud2b8 \uc548\uc804 \ud50c\ub7ab\ud3fc \ucd9c\uc2dc\n  > Summary: NVIDIA\ub294 \uc0c8\ub85c\uc6b4 \uc624\ud508 \uc5d0\uc774\uc804\ud2b8 \uc548\uc804 \ud50c\ub7ab\ud3fc\uacfc OpenShell 0.1.0 \ud504\ub808\uc784\uc6cc\ud06c\ub97c..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:24",
-      "message": "Reprocessing: ASUS AI Tech 2026 Seoul South Korea"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:26",
-      "message": "[PROCESSING] Analyzing: ASUS AI Tech 2026 Seoul South Korea..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:30",
-      "message": "[SUCCESS] Processed: ASUS AI \uae30\uc220 2026 \uc11c\uc6b8 \ud55c\uad6d\n  > Summary: \uc11c\uc6b8\uc5d0\uc11c \uc5f4\ub9b0 ASUS AI Tech 2026 \ud589\uc0ac\uc5d0\uc11c\ub294 \ud68c\uc0ac\uc758 \ud30c\ud2b8\ub108, \uace0\uac1d \ubc0f \uacf5\uae09\uc5c5\uccb4..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:31",
-      "message": "Reprocessing: AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:33",
-      "message": "[PROCESSING] Analyzing: AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:36",
-      "message": "[SUCCESS] Processed: AMD, \ucc28\uc138\ub300 EPYC 9006 \ubca0\ub2c8\uc2a4 \ubc1c\ud45c: \uc81c Zen 6\uac00 \uc11c\ubc84\ub85c \ub2e4\uac00\uc628\ub2e4\n  > Summary: AMD\uc758 \ucc28\uc138\ub300 EPYC 9006 \ud504\ub85c\uc138\uc11c \ucd9c\uc2dc\uac00 \ub2e4\uac00\uc624\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ubc88 \uae30\uc0ac\uc5d0\uc11c\ub294 AM..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:38",
-      "message": "[PROCESSING] Analyzing: ASRock Rack SORANOD8-2L2T Review A New AMD EPYC 8005 Sorano Motherboard..."
-    },
-    {
-      "timestamp": "2026-09-29 15:56:40",
-      "message": "[SKIP] Irrelevant (AI Filter): ASRock Rack SORANOD8-2L2T Review A New AMD EPYC 8005 Sorano Motherboard"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:42",
-      "message": "Completed! New: 2, Updated: 49"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:47",
-      "message": "Saved 51 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-09-29 15:56:50",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-09-29 16:57:29",
+      "message": "[PROCESSING] Analyzing: Xbox\u2019s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies..."
     }
   ]
 }
