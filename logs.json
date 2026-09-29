@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 19:17:35",
+  "last_updated": "2026-09-29 19:17:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 19:16:53",
-      "message": "[PROCESSING] Analyzing: A recording of the OpenAI DevDay 2026 keynote (OpenAI on YouTube)..."
-    },
     {
       "timestamp": "2026-09-29 19:16:56",
       "message": "[SUCCESS] Processed: OpenAI DevDay 2026 \uae30\uc870 \uc5f0\uc124 \ub179\ud654\n  > Summary: OpenAI\uc758 YouTube \ucc44\ub110\uc5d0\uc11c 2026\ub144 DevDay \uae30\uc870 \uc5f0\uc124\uc758 \ub179\ud654\ub97c \ud655\uc778\ud558\uc138\uc694..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 19:17:35",
       "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers..."
+    },
+    {
+      "timestamp": "2026-09-29 19:17:37",
+      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers"
     }
   ]
 }
