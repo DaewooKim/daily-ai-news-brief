@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 09:14:58",
+  "last_updated": "2026-09-29 09:15:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 09:14:23",
-      "message": "[SUCCESS] Processed: TSMC OIP: \ubc18\ub3c4\uccb4 \uc0b0\uc5c5 \uc131\uc7a5, \uc608\uc0c1\uc744 \ub118\uc5b4\uc120\ub2e4\n  > Summary: TSMC\uac00 \uc5f4\ub9b0 \ud601\uc2e0 \ud30c\ud2b8\ub108 \ubd81\ubbf8 \uae30\uc220 \uc2ec\ud3ec\uc9c0\uc5c4\uc5d0\uc11c \ubc18\ub3c4\uccb4 \uc0b0\uc5c5\uc758 \ucd5c\uc2e0 \ub3d9\ud5a5\uc744 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-09-29 09:14:24",
       "message": "[PROCESSING] Analyzing: Why Verification Needs a Thread, Not More Fragments..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 09:14:58",
       "message": "Reprocessing: SpaceX puts Starship into orbit for the first time, deploys 26 Starlink satellites"
+    },
+    {
+      "timestamp": "2026-09-29 09:15:00",
+      "message": "[SKIP] Content too short: SpaceX puts Starship into orbi..."
     }
   ]
 }
