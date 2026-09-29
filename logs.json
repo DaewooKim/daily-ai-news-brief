@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 14:44:02",
+  "last_updated": "2026-09-29 14:44:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 14:43:10",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-09-29 14:43:21",
       "message": "Found 142 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 14:44:02",
       "message": "Reprocessing: IonQ: There Is One CPU To Rule Error Correction Decoding"
+    },
+    {
+      "timestamp": "2026-09-29 14:44:04",
+      "message": "[SKIP] Content too short: IonQ: There Is One CPU To Rule..."
     }
   ]
 }
