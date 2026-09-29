@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 13:40:00",
+  "last_updated": "2026-09-29 13:40:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 13:39:13",
-      "message": "[SUCCESS] Processed: \uc870\uc0ac: \ub9e5\ub3c4\ub0a0\ub4dc\ub294 \uac70\uc758 14,000\uac1c\uc758 \ub808\uc2a4\ud1a0\ub791\uc5d0\uc11c \uc704\uce58\ubcc4 '\ucd5c\uc801 \uac00\uaca9'\uc744 \uc0dd\uc131\ud558\uae30 \uc704\ud574 AI \uac00\uaca9 \uc5d4\uc9c4\uc744 \ud65c\uc6a9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n  > Summary: \ub9e5\ub3c4\ub0a0\ub4dc\ub294 \uc778\uacf5\uc9c0\ub2a5\uc744 \uc0ac\uc6a9\ud558\uc5ec \ubbf8\uad6d \ubc0f \uc77c\ubd80 \uae00\ub85c\ubc8c \uc2dc\uc7a5\uc5d0\uc11c \uba54\ub274 \uac00\uaca9\uc744 \uc548\ub0b4\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-09-29 13:39:15",
       "message": "Reprocessing: EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 (Nick Lichtenberg/Fortune)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 13:40:00",
       "message": "[PROCESSING] Analyzing: Why Verification Needs a Thread, Not More Fragments..."
+    },
+    {
+      "timestamp": "2026-09-29 13:40:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Why Verification Needs a Thread, Not More Fragments"
     }
   ]
 }
