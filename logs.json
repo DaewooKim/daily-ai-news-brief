@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 14:47:34",
+  "last_updated": "2026-09-29 14:47:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 14:46:51",
-      "message": "[PROCESSING] Analyzing: Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite \"strong demand\" and a strengthening of its business since the process started (CNBC)..."
-    },
     {
       "timestamp": "2026-09-29 14:46:53",
       "message": "[SKIP] Irrelevant (AI Filter): Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite \"strong demand\" and a strengthening of its business since the process started (CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 14:47:34",
       "message": "Reprocessing: Komprise combats \u2018MCP bloat\u2019 with a universal interface for AI agents to access enterprise data"
+    },
+    {
+      "timestamp": "2026-09-29 14:47:36",
+      "message": "[SKIP] Content too short: Komprise combats \u2018MCP bloat\u2019 w..."
     }
   ]
 }
