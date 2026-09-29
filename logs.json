@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 11:25:16",
+  "last_updated": "2026-09-29 11:25:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 11:24:33",
-      "message": "[PROCESSING] Analyzing: Build AI apps and agents with AlloyDB for PostgreSQL..."
-    },
     {
       "timestamp": "2026-09-29 11:24:37",
       "message": "[SUCCESS] Processed: PostgreSQL\uc744 \uc704\ud55c AlloyDB\ub85c AI \uc571 \ubc0f \uc5d0\uc774\uc804\ud2b8 \uad6c\ucd95\ud558\uae30\n  > Summary: AlloyDB for PostgreSQL\uc740 \uace0\uc131\ub2a5 \ubca1\ud130 \uac80\uc0c9\uacfc \uac19\uc740 AI \uae30\ub2a5\uc744 \uc2e4\uc2dc\uac04 \ub370..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 11:25:16",
       "message": "[SKIP] Irrelevant (AI Filter): Anthropic\u2019s CEO is about to have dinner with President Trump"
+    },
+    {
+      "timestamp": "2026-09-29 11:25:18",
+      "message": "Reprocessing: IBM Details Quantum, AI Developments in India"
     }
   ]
 }
