@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 11:27:25",
+  "last_updated": "2026-09-29 11:27:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 11:26:43",
-      "message": "[PROCESSING] Analyzing: India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade (Priyanka Salve/CNBC)..."
-    },
     {
       "timestamp": "2026-09-29 11:26:45",
       "message": "[SKIP] Irrelevant (AI Filter): India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade (Priyanka Salve/CNBC)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 11:27:25",
       "message": "Reprocessing: Florida AG asks court to prevent OpenAI from advancing its frontier models, as company scraps new one"
+    },
+    {
+      "timestamp": "2026-09-29 11:27:26",
+      "message": "[SKIP] Content too short: Florida AG asks court to preve..."
     }
   ]
 }
