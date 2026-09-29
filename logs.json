@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 01:32:50",
+  "last_updated": "2026-09-29 01:32:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 01:32:11",
-      "message": "[PROCESSING] Analyzing: Internal memo: FBI said it is \"operating under the premise\" that a threat actor stole PII of all employees; ShinyHunters set a Tuesday deadline tied to demands (New York Times)..."
-    },
     {
       "timestamp": "2026-09-29 01:32:14",
       "message": "[SKIP] Irrelevant (AI Filter): Internal memo: FBI said it is \"operating under the premise\" that a threat actor stole PII of all employees; ShinyHunters set a Tuesday deadline tied to demands (New York Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 01:32:50",
       "message": "[SKIP] Content too short: AMD acquires world model devel..."
+    },
+    {
+      "timestamp": "2026-09-29 01:32:52",
+      "message": "Reprocessing: Agentic-fueled attacks place focus on securing data at the source"
     }
   ]
 }
