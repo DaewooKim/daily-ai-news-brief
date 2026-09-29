@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 18:06:08",
+  "last_updated": "2026-09-29 18:06:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 18:05:24",
-      "message": "Reprocessing: Automating coherent long-form video generation"
-    },
     {
       "timestamp": "2026-09-29 18:05:26",
       "message": "[SKIP] Content too short: Automating coherent long-form ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 18:06:08",
       "message": "[PROCESSING] Analyzing: Instinct founder said more than 50% of transactions on the platform are travel-related..."
+    },
+    {
+      "timestamp": "2026-09-29 18:06:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Instinct founder said more than 50% of transactions on the platform are travel-related"
     }
   ]
 }
