@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 18:09:00",
+  "last_updated": "2026-09-29 18:09:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 18:08:15",
-      "message": "[PROCESSING] Analyzing: IPO prospectus: Anthropic has agreements to pay SpaceX up to $84.5B to use its Nvidia-based compute through 2029, mostly cancellable with a 90-day notice period (Grace Kay/The Information)..."
-    },
     {
       "timestamp": "2026-09-29 18:08:19",
       "message": "[SUCCESS] Processed: IPO \uc804\ub9dd\uc11c: \uc564\ud2b8\ub85c\ud53d, 2029\ub144\uae4c\uc9c0 \uc2a4\ud398\uc774\uc2a4X\uc5d0 \ucd5c\ub300 845\uc5b5 \ub2ec\ub7ec \uc9c0\ubd88 \uacc4\uc57d \uccb4\uacb0\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 2029\ub144\uae4c\uc9c0 \uc2a4\ud398\uc774\uc2a4X\uc5d0 \ucd5c\ub300 845\uc5b5 \ub2ec\ub7ec\ub97c \uc9c0\ubd88\ud558\ub294 \uacc4\uc57d\uc744 \uccb4\uacb0\ud588\uc2b5\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 18:09:00",
       "message": "[PROCESSING] Analyzing: Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System..."
+    },
+    {
+      "timestamp": "2026-09-29 18:09:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System"
     }
   ]
 }
