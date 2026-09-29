@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 23:49:13",
+  "last_updated": "2026-09-29 23:49:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 23:48:23",
-      "message": "Reprocessing: IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees (Reuters)"
-    },
     {
       "timestamp": "2026-09-29 23:48:24",
       "message": "[PROCESSING] Analyzing: IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 23:49:13",
       "message": "[PROCESSING] Analyzing: Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption..."
+    },
+    {
+      "timestamp": "2026-09-29 23:49:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption"
     }
   ]
 }
