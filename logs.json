@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 01:32:43",
+  "last_updated": "2026-09-29 01:32:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 01:32:01",
-      "message": "[PROCESSING] Analyzing: IPO filing: Anthropic's seven co-founders will initially have 50.1% of the total voting power through a new \"Founder LLC\" aimed at serving the common good (Reuters)..."
-    },
     {
       "timestamp": "2026-09-29 01:32:05",
       "message": "[SUCCESS] Processed: IPO \uc81c\ucd9c: \uc564\ud2b8\ub85c\ud53d\uc758 7\uba85\uc758 \uacf5\ub3d9 \ucc3d\ub9bd\uc790\ub294 \uacf5\ub3d9 \uc120\uc744 \uc704\ud55c \uc0c8\ub85c\uc6b4 '\ucc3d\ub9bd\uc790 LLC'\ub97c \ud1b5\ud574 \ucd08\uae30\uc5d0\ub294 \ucd1d \ud22c\ud45c \uad8c\ud55c\uc758 50.1%\ub97c \uac16\uac8c \ub429\ub2c8\ub2e4.\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 IPO \uc81c\ucd9c\uc5d0\uc11c 7\uba85\uc758 \uacf5\ub3d9 \ucc3d\ub9bd\uc790\uac00 \uc0c8\ub85c\uc6b4 '\ucc3d\ub9bd\uc790 LLC'\ub97c \ud1b5\ud574 \ucd1d \ud22c\ud45c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 01:32:43",
       "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers"
+    },
+    {
+      "timestamp": "2026-09-29 01:32:45",
+      "message": "[SKIP] Content too short: Okta builds shared architectur..."
     }
   ]
 }
