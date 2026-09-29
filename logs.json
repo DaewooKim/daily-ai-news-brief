@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 05:55:34",
+  "last_updated": "2026-09-29 05:55:37",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 05:54:53",
-      "message": "[SUCCESS] Processed: AI \uc778\ud504\ub77c \uc124\uacc4\uc758 \ub2e4\uc74c \uc138\ub300\ub294 \ud6a8\uc728\uc131\uc5d0\uc11c \uc2dc\uc791\ub41c\ub2e4\n  > Summary: AI \uc778\ud504\ub77c \uc124\uacc4\ub294 \ud6a8\uc728\uc131, \ubcf5\uc6d0\ub825 \ubc0f \uc801\uc751\ub825\uc744 \ucd5c\uc801\ud654\ud558\uae30 \uc704\ud574 \uc804\ub825, \ub0c9\uac01 \ubc0f \ucef4\ud4e8\ud2b8\ub97c ..."
-    },
     {
       "timestamp": "2026-09-29 05:54:55",
       "message": "[PROCESSING] Analyzing: Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house (Danny Park/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 05:55:34",
       "message": "[PROCESSING] Analyzing: Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-29 05:55:37",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)"
     }
   ]
 }
