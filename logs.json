@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 13:39:49",
+  "last_updated": "2026-09-29 13:39:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 13:39:02",
-      "message": "[SUCCESS] Processed: \ud6a8\uc728\uc131\uc73c\ub85c \uc2dc\uc791\ud558\ub294 \ucc28\uc138\ub300 AI \uc778\ud504\ub77c \uc124\uacc4\n  > Summary: AI \uc778\ud504\ub77c\ub294 \ud6a8\uc728\uc131, \ud0c4\ub825\uc131, \uc801\uc751\uc131\uc744 \ucd5c\uc801\ud654\ud558\uae30 \uc704\ud574 \uc804\ub825, \ub0c9\uac01 \ubc0f \ucef4\ud4e8\ud305\uc744 \ud1b5\ud569\ud558\ub294..."
-    },
     {
       "timestamp": "2026-09-29 13:39:04",
       "message": "[PROCESSING] Analyzing: IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 13:39:49",
       "message": "[SKIP] Irrelevant (AI Filter): Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite \"strong demand\" and a strengthening of its business since the process started (CNBC)"
+    },
+    {
+      "timestamp": "2026-09-29 13:39:51",
+      "message": "Reprocessing: TSMC OIP: Chip Industry Growth Blows Past Forecast"
     }
   ]
 }
