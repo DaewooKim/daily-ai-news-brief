@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 03:44:30",
+  "last_updated": "2026-09-29 03:44:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 03:43:54",
-      "message": "[PROCESSING] Analyzing: AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)..."
-    },
     {
       "timestamp": "2026-09-29 03:43:57",
       "message": "[SUCCESS] Processed: AMD, \uc138\uacc4 \ub7a9\uc744 82\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\uae30\ub85c \ud569\uc758; \ub9ac \ubc15\uc0ac\ub294 AMD\uc758 EVP \ubc0f \ucd5c\uace0 \uacfc\ud559\uc790\ub85c \ud569\ub958\ud560 \uc608\uc815\n  > Summary: AMD\ub294 \uc778\uacf5\uc9c0\ub2a5 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 \uc138\uacc4 \ub7a9\uc744 82\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud558\uae30\ub85c \ud569\uc758\ud558\uc600\uc73c\uba70, \uc774\ubc88 \uac70\ub798\ub294..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 03:44:30",
       "message": "Reprocessing: SpaceX puts Starship into orbit for the first time, deploys 26 Starlink satellites"
+    },
+    {
+      "timestamp": "2026-09-29 03:44:32",
+      "message": "[SKIP] Content too short: SpaceX puts Starship into orbi..."
     }
   ]
 }
