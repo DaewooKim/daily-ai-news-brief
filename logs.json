@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 15:53:44",
+  "last_updated": "2026-09-29 15:53:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 15:53:01",
-      "message": "[PROCESSING] Analyzing: IPO prospectus: Anthropic has agreements to pay SpaceX up to $84.5B to use its Nvidia-based compute through 2029, mostly cancellable with a 90-day notice period (Grace Kay/The Information)..."
-    },
     {
       "timestamp": "2026-09-29 15:53:04",
       "message": "[SUCCESS] Processed: IPO \uc804\ub9dd: Anthropic\ub294 2029\ub144\uae4c\uc9c0 Nvidia \uae30\ubc18 \ucef4\ud4e8\ud305\uc744 \uc0ac\uc6a9\ud558\uae30 \uc704\ud574 SpaceX\uc5d0 \ucd5c\ub300 845\uc5b5 \ub2ec\ub7ec\ub97c \uc9c0\ubd88\ud558\uae30\ub85c \ud569\uc758\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: Anthropic\uc740 SpaceX\uc640 2029\ub144\uae4c\uc9c0 Nvidia \uae30\ubc18 \ucef4\ud4e8\ud305 \uc0ac\uc6a9\uc744 \uc704\ud574 \ucd5c\ub300..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 15:53:44",
       "message": "[PROCESSING] Analyzing: Censorship monitor EngelliWeb says X blocked nearly 500 accounts in Turkey, including those of journalists, economists, and academics, after court orders (Inci Ozbek/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-09-29 15:53:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Censorship monitor EngelliWeb says X blocked nearly 500 accounts in Turkey, including those of journalists, economists, and academics, after court orders (Inci Ozbek/Bloomberg)"
     }
   ]
 }
