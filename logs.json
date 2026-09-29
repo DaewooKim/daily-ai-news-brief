@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 18:05:27",
+  "last_updated": "2026-09-29 18:05:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 18:04:47",
-      "message": "Reprocessing: OpenAI DevDay 2026: The biggest news and announcements"
-    },
     {
       "timestamp": "2026-09-29 18:04:49",
       "message": "[PROCESSING] Analyzing: OpenAI DevDay 2026: The biggest news and announcements..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 18:05:27",
       "message": "[PROCESSING] Analyzing: How we will do better for Australia..."
+    },
+    {
+      "timestamp": "2026-09-29 18:05:30",
+      "message": "[SKIP] Irrelevant (AI Filter): How we will do better for Australia"
     }
   ]
 }
