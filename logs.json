@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-29 20:23:18",
+  "last_updated": "2026-09-29 20:23:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-29 20:22:35",
-      "message": "[SUCCESS] Processed: OpenAI, GPT-6.1 \uc194 \ucd9c\uc2dc, GPT-6 \uc544\uc2a4\ud2b8\ub77c\uc640 \uac70\uc758 \ub9de\uba39\uc73c\uba70 \uac00\uaca9\uc740 \ub354 \uc800\ub834\ud558\ub2e4\uace0 \ubc1c\ud45c\n  > Summary: \uc624\ud508AI\ub294 GPT-6.1 \uc194\uc774 \ucf54\ub4dc \uc791\uc131 \ubc0f \ub514\ubc84\uae45, \ubb38\uc11c \uc774\ud574, \ub2e4\ub2e8\uacc4 \ube44\uc988\ub2c8\uc2a4 \uc6cc\ud06c\ud50c\ub85c..."
-    },
     {
       "timestamp": "2026-09-29 20:22:37",
       "message": "Reprocessing: OpenAI gives Codex reusable cloud environments that work across devices"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-29 20:23:18",
       "message": "[PROCESSING] Analyzing: Why U.S.-Europe Cooperation Matters for Quantum Leadership..."
+    },
+    {
+      "timestamp": "2026-09-29 20:23:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Why U.S.-Europe Cooperation Matters for Quantum Leadership"
     }
   ]
 }
