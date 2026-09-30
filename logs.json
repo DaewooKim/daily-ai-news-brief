@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 20:07:51",
+  "last_updated": "2026-09-30 20:07:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 20:07:09",
-      "message": "[PROCESSING] Analyzing: Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26..."
-    },
     {
       "timestamp": "2026-09-30 20:07:12",
       "message": "[SKIP] Irrelevant (AI Filter): Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 20:07:51",
       "message": "Reprocessing: AWS embeds DuckDB in its PostgreSQL DBMS to speed queries of live and historical data"
+    },
+    {
+      "timestamp": "2026-09-30 20:07:53",
+      "message": "[SKIP] Content too short: AWS embeds DuckDB in its Postg..."
     }
   ]
 }
