@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 23:28:44",
+  "last_updated": "2026-09-30 23:28:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 23:28:01",
-      "message": "[PROCESSING] Analyzing: Helping small businesses put AI to work..."
-    },
     {
       "timestamp": "2026-09-30 23:28:05",
       "message": "[SUCCESS] Processed: \uc911\uc18c\uae30\uc5c5\uc744 \uc704\ud55c AI \ud65c\uc6a9 \uc9c0\uc6d0\n  > Summary: OpenAI\uac00 \ubbf8\uad6d \uc911\uc18c\uae30\uc5c5 \uac1c\ubc1c \uc13c\ud130(SBDC)\uc640 \ud611\ub825\ud558\uc5ec \uc911\uc18c\uae30\uc5c5\uc744 \uc704\ud55c \uc2e4\uc2b5 AI \uad50..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 23:28:44",
       "message": "[PROCESSING] Analyzing: Reddit is killing RSS feeds and ending public API access because of AI bots..."
+    },
+    {
+      "timestamp": "2026-09-30 23:28:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Reddit is killing RSS feeds and ending public API access because of AI bots"
     }
   ]
 }
