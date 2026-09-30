@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 21:16:54",
+  "last_updated": "2026-09-30 21:16:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 21:16:11",
-      "message": "[PROCESSING] Analyzing: Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption..."
-    },
     {
       "timestamp": "2026-09-30 21:16:14",
       "message": "[SKIP] Irrelevant (AI Filter): Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 21:16:54",
       "message": "Reprocessing: AWS embeds DuckDB in its PostgreSQL DBMS to speed queries of live and historical data"
+    },
+    {
+      "timestamp": "2026-09-30 21:16:56",
+      "message": "[SKIP] Content too short: AWS embeds DuckDB in its Postg..."
     }
   ]
 }
