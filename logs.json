@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 16:39:20",
+  "last_updated": "2026-09-30 16:39:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 16:38:32",
-      "message": "[PROCESSING] Analyzing: Helping small businesses put AI to work..."
-    },
     {
       "timestamp": "2026-09-30 16:38:37",
       "message": "[SUCCESS] Processed: \uc911\uc18c\uae30\uc5c5\uc774 AI\ub97c \ud65c\uc6a9\ud558\ub3c4\ub85d \ub3d5\uae30\n  > Summary: OpenAI\ub294 \ubbf8\uad6d\uc758 SBDC\uc640 \ud611\ub825\ud558\uc5ec \uc911\uc18c\uae30\uc5c5\uc744 \uc704\ud55c AI \uad50\uc721 \ubc0f \ud604\uc9c0 \uc9c0\uc6d0\uc744 \ud655\uc7a5\ud558..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 16:39:20",
       "message": "[PROCESSING] Analyzing: Instinct\u2019s new product recommendations are giving some users the ick..."
+    },
+    {
+      "timestamp": "2026-09-30 16:39:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Instinct\u2019s new product recommendations are giving some users the ick"
     }
   ]
 }
