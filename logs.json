@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 16:38:11",
+  "last_updated": "2026-09-30 16:38:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 16:37:21",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-09-30 16:37:32",
       "message": "Found 150 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 16:38:11",
       "message": "[PROCESSING] Analyzing: How and Why CISOs Drive DSPM Adoption..."
+    },
+    {
+      "timestamp": "2026-09-30 16:38:13",
+      "message": "[SKIP] Irrelevant (AI Filter): How and Why CISOs Drive DSPM Adoption"
     }
   ]
 }
