@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 22:21:48",
+  "last_updated": "2026-09-30 22:21:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 22:21:04",
-      "message": "[SUCCESS] Processed: AI \uc74c\uc131 \uc2a4\ud0c0\ud2b8\uc5c5 ElevenLabs, \uac00\uce58 220\uc5b5 \ub2ec\ub7ec\ub85c \ub450 \ubc30 \uc99d\uac00\n  > Summary: AI \uc74c\uc131 \uc2a4\ud0c0\ud2b8\uc5c5 ElevenLabs\uac00 \ud3c9\uac00 \uac00\uce58\ub97c 220\uc5b5 \ub2ec\ub7ec\ub85c \ub450 \ubc30 \uc99d\uac00\uc2dc\ucf30\uc2b5\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-09-30 22:21:05",
       "message": "[PROCESSING] Analyzing: Reddit is killing RSS feeds and ending public API access because of AI bots..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 22:21:48",
       "message": "[PROCESSING] Analyzing: TSMC\u2019s 3-nm Ramp Looks Different in Historical Context..."
+    },
+    {
+      "timestamp": "2026-09-30 22:21:50",
+      "message": "[SKIP] Irrelevant (AI Filter): TSMC\u2019s 3-nm Ramp Looks Different in Historical Context"
     }
   ]
 }
