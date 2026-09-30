@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 18:58:31",
+  "last_updated": "2026-09-30 18:58:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 18:57:39",
-      "message": "[PROCESSING] Analyzing: ElevenLabs says existing investors and employees have sold $300M worth of stock in a tender led by Wellington and T Rowe Price and valuing the startup at $22B (Tim Bradshaw/Financial Times)..."
-    },
     {
       "timestamp": "2026-09-30 18:57:41",
       "message": "[SKIP] Irrelevant (AI Filter): ElevenLabs says existing investors and employees have sold $300M worth of stock in a tender led by Wellington and T Rowe Price and valuing the startup at $22B (Tim Bradshaw/Financial Times)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 18:58:31",
       "message": "[PROCESSING] Analyzing: Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers..."
+    },
+    {
+      "timestamp": "2026-09-30 18:58:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers"
     }
   ]
 }
