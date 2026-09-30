@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 03:08:28",
+  "last_updated": "2026-09-30 03:08:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 03:07:41",
-      "message": "[SUCCESS] Processed: \uc624\ud508AI, 1.4\uc870 \ub2ec\ub7ec \uac00\uce58\uc5d0\uc11c 300\uc5b5 \ub2ec\ub7ec \uc870\ub2ec \ub17c\uc758 \uc911\n  > Summary: \uc624\ud508AI\uac00 \uc9c0\uc5f0\ub41c 2027\ub144 \uacf5\uac1c \uc0c1\uc7a5 \uc804 \ub9c8\uc9c0\ub9c9 \uc790\uae08 \uc870\ub2ec \ub77c\uc6b4\ub4dc\ub85c 300\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uae08..."
-    },
     {
       "timestamp": "2026-09-30 03:07:43",
       "message": "Reprocessing: OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 03:08:28",
       "message": "[PROCESSING] Analyzing: Instinct founder said more than 50% of transactions on the platform are travel-related..."
+    },
+    {
+      "timestamp": "2026-09-30 03:08:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Instinct founder said more than 50% of transactions on the platform are travel-related"
     }
   ]
 }
