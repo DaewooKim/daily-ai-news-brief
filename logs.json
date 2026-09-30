@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 23:32:17",
+  "last_updated": "2026-09-30 23:32:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 23:31:44",
-      "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act: Secure-By-Design vs. Bolt-On Security..."
-    },
     {
       "timestamp": "2026-09-30 23:31:46",
       "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act: Secure-By-Design vs. Bolt-On Security"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 23:32:17",
       "message": "Reprocessing: AWS embeds DuckDB in its PostgreSQL DBMS to speed queries of live and historical data"
+    },
+    {
+      "timestamp": "2026-09-30 23:32:19",
+      "message": "[SKIP] Content too short: AWS embeds DuckDB in its Postg..."
     }
   ]
 }
