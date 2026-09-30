@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-09-30 16:39:36",
+  "last_updated": "2026-09-30 16:39:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-09-30 16:38:51",
-      "message": "[SUCCESS] Processed: GPT-6.1 \uc194 \uc18c\uac1c\n  > Summary: GPT-6.1 \uc194\uc740 \ucf54\ub529, \ucef4\ud4e8\ud130 \uc0ac\uc6a9 \ubc0f \uc804\ubb38 \uc791\uc5c5\uc744 \uc704\ud55c \uadfc\uc811 \uc544\uc2a4\ud2b8\ub77c \uc9c0\ub2a5\uc744 \uc81c\uacf5\ud558\uba70..."
-    },
     {
       "timestamp": "2026-09-30 16:38:53",
       "message": "Reprocessing: Introducing dots"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-09-30 16:39:36",
       "message": "[PROCESSING] Analyzing: Airbnb adds AI search, more social features..."
+    },
+    {
+      "timestamp": "2026-09-30 16:39:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Airbnb adds AI search, more social features"
     }
   ]
 }
