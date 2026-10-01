@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 01:46:07",
+  "last_updated": "2026-10-01 01:46:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 01:45:27",
-      "message": "[SUCCESS] Processed: LG \uc774\ub178\ud14d, \ubc18\ub3c4\uccb4 \uae30\ud310\uacfc \ubb3c\ub9ac\uc801 AI\uc5d0 \ud798\uc785\uc5b4 \uae30\uc5c5 \ud601\uc2e0 \uac00\uc18d\ud654\n  > Summary: LG \uc774\ub178\ud14d\uc740 \uc0ac\uc5c5 \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uc758 \ubcc0\ud654\ub97c \ud1b5\ud574 \uc2e4\uc801 \ubc18\ub4f1\uc744 \uc774\ub904\ub0b4\uace0 \uc788\uc73c\uba70, 2023\ub144 \uc0c1\ubc18..."
-    },
     {
       "timestamp": "2026-10-01 01:45:28",
       "message": "[PROCESSING] Analyzing: Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 01:46:07",
       "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers..."
+    },
+    {
+      "timestamp": "2026-10-01 01:46:09",
+      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers"
     }
   ]
 }
