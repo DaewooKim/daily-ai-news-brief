@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 09:37:39",
+  "last_updated": "2026-10-01 09:37:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 09:36:55",
-      "message": "[SUCCESS] Processed: \uc624\ud508 \ubcf4\uc548 \uae30\ubc18\uc740 \uc2dc\uc791\uc5d0 \ubd88\uacfc\ud558\ub2e4: Caliptra \ud558\ub4dc\uc6e8\uc5b4\ub97c \uc0dd\uc0b0\uc5d0 \ubc30\uce58\ud558\uae30\n  > Summary: AI \ubaa8\ub378\uacfc \ub370\uc774\ud130\ub97c \ubcf4\ud638\ud560 \ud544\uc694\uc131\uc774 \ucee4\uc9d0\uc5d0 \ub530\ub77c \ub370\uc774\ud130 \uc13c\ud130 \ubcf4\uc548\uc758 \uc911\uc694\uc131\uc774 \ub354\uc6b1 \uc99d\uac00\ud558..."
-    },
     {
       "timestamp": "2026-10-01 09:36:57",
       "message": "Reprocessing: LLM Performance And Acceleration: Part 1"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 09:37:39",
       "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act: Evidence Matters..."
+    },
+    {
+      "timestamp": "2026-10-01 09:37:42",
+      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act: Evidence Matters"
     }
   ]
 }
