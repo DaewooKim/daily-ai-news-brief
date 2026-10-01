@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-10-01 06:16:13",
-  "status": "idle",
+  "last_updated": "2026-10-01 07:18:37",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-10-01 06:14:43",
-      "message": "[SKIP] Content too short: Trusted data resiliency anchor..."
+      "timestamp": "2026-10-01 07:16:35",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-10-01 06:14:45",
-      "message": "Reprocessing: CoreWeave expands its AI stack as inference surges: theCUBE\u2019s Fully Connected keynote analysis"
+      "timestamp": "2026-10-01 07:16:36",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-10-01 06:14:46",
-      "message": "[SKIP] Content too short: CoreWeave expands its AI stack..."
+      "timestamp": "2026-10-01 07:16:36",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-10-01 06:14:48",
-      "message": "Reprocessing: Prominent tech CEOs sign voluntary White House AI safety accord"
+      "timestamp": "2026-10-01 07:18:37",
+      "message": "Found 150 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-10-01 06:14:50",
-      "message": "[SKIP] Content too short: Prominent tech CEOs sign volun..."
-    },
-    {
-      "timestamp": "2026-10-01 06:14:52",
-      "message": "Reprocessing: CEO George Kurian outlines NetApp\u2019s data strategy for production AI"
-    },
-    {
-      "timestamp": "2026-10-01 06:14:53",
-      "message": "[SKIP] Content too short: CEO George Kurian outlines Net..."
-    },
-    {
-      "timestamp": "2026-10-01 06:14:55",
-      "message": "Reprocessing: Apollo debuts AI app builder, intelligence layer and signal-based outreach system"
-    },
-    {
-      "timestamp": "2026-10-01 06:14:57",
-      "message": "[SKIP] Content too short: Apollo debuts AI app builder, ..."
-    },
-    {
-      "timestamp": "2026-10-01 06:14:58",
-      "message": "Reprocessing: AWS embeds DuckDB in its PostgreSQL DBMS to speed queries of live and historical data"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:00",
-      "message": "[SKIP] Content too short: AWS embeds DuckDB in its Postg..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:02",
-      "message": "Reprocessing: Gong adds auto-enrichment and event-driven agents to its revenue intelligence platform"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:03",
-      "message": "[SKIP] Content too short: Gong adds auto-enrichment and ..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:05",
-      "message": "Reprocessing: Jeeves raises $110M to scale stablecoin-native banking platform for global payments"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:07",
-      "message": "[SKIP] Content too short: Jeeves raises $110M to scale s..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:09",
-      "message": "Reprocessing: Google finds vulnerability disclosures doubled as AI changes which flaws get discovered"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:10",
-      "message": "[SKIP] Content too short: Google finds vulnerability dis..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:12",
-      "message": "Reprocessing: On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:14",
-      "message": "[SKIP] Content too short: On-demand GPU infrastructure s..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:15",
-      "message": "Reprocessing: Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:17",
-      "message": "[SKIP] Content too short: Smart radio startup Relay rais..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:19",
-      "message": "Reprocessing: Startup Ascerta collects $18M in funding to help enterprises understand the value AI provides"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:20",
-      "message": "[SKIP] Content too short: Startup Ascerta collects $18M ..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:22",
-      "message": "Reprocessing: Low-energy chip startup Efficient Computer closes on $97M in funding"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:23",
-      "message": "[SKIP] Content too short: Low-energy chip startup Effici..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:25",
-      "message": "Reprocessing: Okta moves inline to police what AI agents actually do"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:27",
-      "message": "[SKIP] Content too short: Okta moves inline to police wh..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:29",
-      "message": "Reprocessing: World model startup General Intuition closes  $220M investment"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:30",
-      "message": "[SKIP] Content too short: World model startup General In..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:32",
-      "message": "Reprocessing: OpenAI\u2019s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:34",
-      "message": "[SKIP] Content too short: OpenAI\u2019s GPT-6.1 Sol delivers ..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:35",
-      "message": "Reprocessing: OpenAI\u2019s Codex gets reusable cloud environments that follow developers across devices"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:37",
-      "message": "[SKIP] Content too short: OpenAI\u2019s Codex gets reusable c..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:39",
-      "message": "Reprocessing: EliseAI raises $350M to enhance its AI work automation suite"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:41",
-      "message": "[SKIP] Content too short: EliseAI raises $350M to enhanc..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:42",
-      "message": "Reprocessing: OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:44",
-      "message": "[SKIP] Content too short: OpenAI launches Dots, always-o..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:45",
-      "message": "Reprocessing: In the AI era, identity evolves into the control plane for trust"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:47",
-      "message": "[SKIP] Content too short: In the AI era, identity evolve..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:49",
-      "message": "Reprocessing: Equals Money lets customers\u2019 AI tools read data but not move money"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:50",
-      "message": "[SKIP] Content too short: Equals Money lets customers\u2019 A..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:52",
-      "message": "Reprocessing: Agentic security strategy faces a shrinking breach window"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:54",
-      "message": "[SKIP] Content too short: Agentic security strategy face..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:55",
-      "message": "Reprocessing: Oracle CISO puts humans at the center of AI security governance"
-    },
-    {
-      "timestamp": "2026-10-01 06:15:57",
-      "message": "[SKIP] Content too short: Oracle CISO puts humans at the..."
-    },
-    {
-      "timestamp": "2026-10-01 06:15:59",
-      "message": "[PROCESSING] Analyzing: Gigabyte TRX50 AERO D Motherboard Review..."
-    },
-    {
-      "timestamp": "2026-10-01 06:16:02",
-      "message": "[SKIP] Irrelevant (AI Filter): Gigabyte TRX50 AERO D Motherboard Review"
-    },
-    {
-      "timestamp": "2026-10-01 06:16:03",
-      "message": "Completed! New: 3, Updated: 52"
-    },
-    {
-      "timestamp": "2026-10-01 06:16:08",
-      "message": "Saved 55 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-10-01 06:16:12",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-10-01 07:18:37",
+      "message": "[PROCESSING] Analyzing: Vivo\u2019s X Fold 6 accidentally feels like a throwback..."
     }
   ]
 }
