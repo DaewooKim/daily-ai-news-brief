@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 16:22:04",
+  "last_updated": "2026-10-01 16:22:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 16:21:19",
-      "message": "[PROCESSING] Analyzing: Brian Chesky interview: AI agents need their own operating system..."
-    },
     {
       "timestamp": "2026-10-01 16:21:23",
       "message": "[SUCCESS] Processed: \ube0c\ub77c\uc774\uc5b8 \uccb4\uc2a4\ud0a4 \uc778\ud130\ubdf0: AI \uc5d0\uc774\uc804\ud2b8\ub294 \uc790\uccb4 \uc6b4\uc601 \uccb4\uc81c\uac00 \ud544\uc694\ud558\ub2e4\n  > Summary: \ube0c\ub77c\uc774\uc5b8 \uccb4\uc2a4\ud0a4\ub294 \uc5d0\uc5b4\ube44\uc564\ube44\uac00 \uc5d0\uc774\uc804\ud2b8 \uce5c\ud654\uc801\uc73c\ub85c \ubcc0\ud654\ud558\uace0 \uc788\ub294 \uacfc\uc815\uc744 \ub17c\uc758\ud558\uba70, \uc18c\ube44\uc790 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 16:22:04",
       "message": "[PROCESSING] Analyzing: America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch..."
+    },
+    {
+      "timestamp": "2026-10-01 16:22:06",
+      "message": "[SKIP] Irrelevant (AI Filter): America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch"
     }
   ]
 }
