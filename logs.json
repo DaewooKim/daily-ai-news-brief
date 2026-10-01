@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 10:41:05",
+  "last_updated": "2026-10-01 10:41:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 10:40:26",
-      "message": "Found 151 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-01 10:40:26",
       "message": "[PROCESSING] Analyzing: Huawei made a whole camera to attach to its latest phone..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 10:41:05",
       "message": "Reprocessing: AMD Buys World Labs For $8.2 Billion To Get AI Model Cred"
+    },
+    {
+      "timestamp": "2026-10-01 10:41:07",
+      "message": "[SKIP] Content too short: AMD Buys World Labs For $8.2 B..."
     }
   ]
 }
