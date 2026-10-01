@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 12:56:53",
+  "last_updated": "2026-10-01 12:56:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 12:56:07",
-      "message": "Reprocessing: Introducing dots"
-    },
     {
       "timestamp": "2026-10-01 12:56:08",
       "message": "[PROCESSING] Analyzing: Introducing dots..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 12:56:53",
       "message": "[PROCESSING] Analyzing: Airbnb adds AI search, more social features..."
+    },
+    {
+      "timestamp": "2026-10-01 12:56:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Airbnb adds AI search, more social features"
     }
   ]
 }
