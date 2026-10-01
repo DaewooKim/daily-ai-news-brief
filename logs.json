@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 10:42:38",
+  "last_updated": "2026-10-01 10:42:40",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 10:41:54",
-      "message": "[PROCESSING] Analyzing: DevDay 2026 Recap..."
-    },
     {
       "timestamp": "2026-10-01 10:41:57",
       "message": "[SUCCESS] Processed: DevDay 2026 \uc694\uc57d\n  > Summary: OpenAI DevDay 2026\uc5d0\uc11c\ub294 GPT-6 Astra, ChatGPT, Codex,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 10:42:38",
       "message": "[PROCESSING] Analyzing: Airbnb adds AI search, more social features..."
+    },
+    {
+      "timestamp": "2026-10-01 10:42:40",
+      "message": "[SKIP] Irrelevant (AI Filter): Airbnb adds AI search, more social features"
     }
   ]
 }
