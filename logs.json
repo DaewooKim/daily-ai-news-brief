@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 06:12:04",
+  "last_updated": "2026-10-01 06:12:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 06:11:22",
-      "message": "[SUCCESS] Processed: AI \uc74c\uc131 \uc2a4\ud0c0\ud2b8\uc5c5 ElevenLabs, \ud3c9\uac00\uc561\uc744 220\uc5b5 \ub2ec\ub7ec\ub85c \ub450 \ubc30\ub85c \uc99d\uac00\n  > Summary: AI \uc74c\uc131 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 ElevenLabs\uac00 3\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc9c1\uc6d0 \ud5cc\uc2e0\uc744 \ud1b5\ud574 \ud3c9\uac00\uc561\uc774 2..."
-    },
     {
       "timestamp": "2026-10-01 06:11:23",
       "message": "[PROCESSING] Analyzing: Reddit is killing RSS feeds and ending public API access because of AI bots..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 06:12:04",
       "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act: Three Misconceptions That Put Embedded Products at Risk..."
+    },
+    {
+      "timestamp": "2026-10-01 06:12:06",
+      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act: Three Misconceptions That Put Embedded Products at Risk"
     }
   ]
 }
