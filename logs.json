@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 16:21:39",
+  "last_updated": "2026-10-01 16:21:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 16:20:52",
-      "message": "Reprocessing: DevDay 2026 Recap"
-    },
     {
       "timestamp": "2026-10-01 16:20:54",
       "message": "[PROCESSING] Analyzing: DevDay 2026 Recap..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 16:21:39",
       "message": "[PROCESSING] Analyzing: Reddit is killing RSS feeds and ending public API access because of AI bots..."
+    },
+    {
+      "timestamp": "2026-10-01 16:21:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Reddit is killing RSS feeds and ending public API access because of AI bots"
     }
   ]
 }
