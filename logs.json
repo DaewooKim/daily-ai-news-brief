@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-01 18:41:02",
+  "last_updated": "2026-10-01 18:41:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-01 18:40:07",
-      "message": "[SUCCESS] Processed: \uc624\ud508 \ubcf4\uc548 \uae30\ubc18\uc740 \uc2dc\uc791\uc77c \ubfd0: \uce7c\ub9bd\ud2b8\ub77c \ud558\ub4dc\uc6e8\uc5b4\uc758 \uc0dd\uc0b0 \ubc30\ud3ec\n  > Summary: AI \ubaa8\ub378\uacfc \ub370\uc774\ud130 \ubcf4\ud638\uc758 \ud544\uc694\uc131\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c \ub370\uc774\ud130 \uc13c\ud130 \ubcf4\uc548\uc774 \uc911\uc694\ud574\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4...."
-    },
     {
       "timestamp": "2026-10-01 18:40:09",
       "message": "Reprocessing: LLM Performance And Acceleration: Part 1"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-01 18:41:02",
       "message": "[PROCESSING] Analyzing: Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers..."
+    },
+    {
+      "timestamp": "2026-10-01 18:41:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers"
     }
   ]
 }
