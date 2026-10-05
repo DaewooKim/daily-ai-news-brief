@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 16:21:02",
+  "last_updated": "2026-10-05 16:21:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 16:20:15",
-      "message": "Reprocessing: The Hidden Failure Domain in N+1 Data Center Cooling"
-    },
     {
       "timestamp": "2026-10-05 16:20:17",
       "message": "[PROCESSING] Analyzing: The Hidden Failure Domain in N+1 Data Center Cooling..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 16:21:02",
       "message": "[PROCESSING] Analyzing: Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites..."
+    },
+    {
+      "timestamp": "2026-10-05 16:21:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites"
     }
   ]
 }
