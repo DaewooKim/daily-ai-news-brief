@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 12:50:46",
+  "last_updated": "2026-10-05 12:50:48",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 12:49:58",
-      "message": "[SUCCESS] Processed: \uc804 \uadf8\ub85c\ud06c \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4, \uadf8\ub85c\ud06c\ub97c \uc0c1\ub300\ub85c \ub378\ub77c\uc6e8\uc5b4\uc5d0\uc11c \uc18c\uc1a1 \uc81c\uae30 - $20B '\ube44\ub3c5\uc810' \uc778\uc218 \ud569\ubcd1 \uac70\ub798\ub85c \uc9c1\uc6d0\ub4e4\uc774 \ud53c\ud574\ub97c \ubd24\ub2e4\uace0 \uc8fc\uc7a5 (\ud30c\uc774\ub0b8\uc15c \ud0c0\uc784\uc988)\n  > Summary: \uc804 \uadf8\ub85c\ud06c \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4\uc740 \uadf8\ub85c\ud06c\uac00 2025\ub144 \uc5d4\ube44\ub514\uc544\uc640 \uccb4\uacb0\ud55c $20B '\ube44\ub3c5\uc810' \uc778\uc218 \ud569\ubcd1..."
-    },
     {
       "timestamp": "2026-10-05 12:49:59",
       "message": "[PROCESSING] Analyzing: OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images (Mayank Parmar/BleepingComputer)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 12:50:46",
       "message": "[PROCESSING] Analyzing: Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia's largest IPOs (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-10-05 12:50:48",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia's largest IPOs (Bloomberg)"
     }
   ]
 }
