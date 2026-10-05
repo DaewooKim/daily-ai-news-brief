@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 22:00:29",
+  "last_updated": "2026-10-05 22:00:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 21:59:49",
-      "message": "Reprocessing: NetApp hands storage operations to AI agents, but humans still draw the boundaries"
-    },
     {
       "timestamp": "2026-10-05 21:59:51",
       "message": "[SKIP] Content too short: NetApp hands storage operation..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 22:00:29",
       "message": "[PROCESSING] Analyzing: This is BiCS NAND Close Up from Kioxia and Sandisk..."
+    },
+    {
+      "timestamp": "2026-10-05 22:00:32",
+      "message": "[SKIP] Irrelevant (AI Filter): This is BiCS NAND Close Up from Kioxia and Sandisk"
     }
   ]
 }
