@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-10-05 12:54:31",
-  "status": "idle",
+  "last_updated": "2026-10-05 13:55:11",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-10-05 12:52:48",
-      "message": "[SUCCESS] Processed: Aetina, \ub85c\ubd07 \uacf5\ud559\uc744 \uc704\ud55c \uc5e3\uc9c0 AI \uc2dc\uc2a4\ud15c \ucd9c\uc2dc\n  > Summary: Aetina Corp.\ub294 \ub85c\ubd07 \ubc0f \uc790\uc728 \uae30\uacc4\uc6a9 \uc5e3\uc9c0 AI \uc2dc\uc2a4\ud15c\uc778 DeviceEdge AI..."
+      "timestamp": "2026-10-05 13:54:58",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-10-05 12:52:50",
-      "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act: Evidence Matters..."
+      "timestamp": "2026-10-05 13:54:59",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-10-05 12:52:52",
-      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act: Evidence Matters"
+      "timestamp": "2026-10-05 13:54:59",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-10-05 12:52:54",
-      "message": "[SKIP] Content too short: Sam Altman says people need to..."
+      "timestamp": "2026-10-05 13:55:11",
+      "message": "Found 146 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-10-05 12:52:56",
-      "message": "[SKIP] Content too short: Trump launches Super Intellige..."
-    },
-    {
-      "timestamp": "2026-10-05 12:52:58",
-      "message": "[SKIP] Content too short: What to expect at SailPoint\u2019s ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:00",
-      "message": "[SKIP] Content too short: 9 insights from \u2018Private Tech ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:02",
-      "message": "[SKIP] Content too short: Robotics AI developer FieldAI ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:03",
-      "message": "[SKIP] Content too short: Database startup Supabase rais..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:05",
-      "message": "[SKIP] Content too short: CrowdStrike and CoreWeave brin..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:07",
-      "message": "[SKIP] Content too short: Report: Amazon to offload $8B ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:09",
-      "message": "[SKIP] Content too short: NetApp hands storage operation..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:10",
-      "message": "[SKIP] Content too short: IBM and CoreWeave co-design co..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:12",
-      "message": "[SKIP] Content too short: TOTVS expands enterprise AI fo..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:14",
-      "message": "[SKIP] Content too short: AI in customer experience has ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:16",
-      "message": "[SKIP] Content too short: Ai2 releases Olmo-core 3 to ma..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:18",
-      "message": "[SKIP] Content too short: Despite IPO jitters and AI saf..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:19",
-      "message": "[SKIP] Content too short: Wiring and powering GPUs diffe..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:21",
-      "message": "[SKIP] Content too short: Enterprise storage becomes AI ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:23",
-      "message": "[SKIP] Content too short: Decades of DIY best-of-breed g..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:25",
-      "message": "[SKIP] Content too short: Microsoft targets ultra-realis..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:26",
-      "message": "[SKIP] Content too short: Satellite software provider Sa..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:28",
-      "message": "[SKIP] Content too short: Report: Anthropic targets pre-..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:30",
-      "message": "[SKIP] Content too short: Salesforce to acquire AI custo..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:32",
-      "message": "[SKIP] Content too short: Volantis raises $88M to develo..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:34",
-      "message": "[SKIP] Content too short: OpenAI dismisses three safety ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:36",
-      "message": "[SKIP] Content too short: Armadin nabs $255.5M to detect..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:37",
-      "message": "[SKIP] Content too short: IBM allows on-prem deployment ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:39",
-      "message": "[SKIP] Content too short: NetApp\u2019s \u2018sleeping giant\u2019 mome..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:41",
-      "message": "[SKIP] Content too short: Always-on AI agents turn infra..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:43",
-      "message": "[SKIP] Content too short: NetApp and Nvidia rethink stor..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:45",
-      "message": "Reprocessing: Flow Engineering raises $50M to bring the power of AI to hardware engineering"
-    },
-    {
-      "timestamp": "2026-10-05 12:53:46",
-      "message": "[SKIP] Content too short: Flow Engineering raises $50M t..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:48",
-      "message": "Reprocessing: Nvidia ties AI factory economics to tokens and power efficiency"
-    },
-    {
-      "timestamp": "2026-10-05 12:53:50",
-      "message": "[SKIP] Content too short: Nvidia ties AI factory economi..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:52",
-      "message": "[PROCESSING] Analyzing: Intel Xeon 6+ SKU List and Value Analysis: Clearwater Forest Runs Wide..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:55",
-      "message": "[SUCCESS] Processed: \uc778\ud154 \uc81c\uc628 6+ SKU \ubaa9\ub85d \ubc0f \uac00\uce58 \ubd84\uc11d: \ud074\ub9ac\uc5b4\uc6cc\ud130 \ud3ec\ub808\uc2a4\ud2b8\uac00 \ub113\uac8c \ud655\ub300\ub428\n  > Summary: \uc778\ud154\uc758 \uc81c\uc628 6+ '\ud074\ub9ac\uc5b4\uc6cc\ud130 \ud3ec\ub808\uc2a4\ud2b8' CPU\uac00 \ubcf8\uaca9\uc801\uc73c\ub85c \ucd9c\ud558\ub428\uc5d0 \ub530\ub77c \ub2e4\uc591\ud55c SKU ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:53:57",
-      "message": "[PROCESSING] Analyzing: NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:01",
-      "message": "[SUCCESS] Processed: NVIDIA DGX \uc2a4\ud30c\ud06c 64GB \ucd9c\uc2dc \ubc0f 128GB GB10 \uac00\uaca9 \uc778\uc0c1\n  > Summary: NVIDIA DGX \uc2a4\ud30c\ud06c 64GB \ubaa8\ub378\uc774 4999\ub2ec\ub7ec\uc5d0 \ucd9c\uc2dc\ub429\ub2c8\ub2e4. \ubc18\uba74 128GB \ubaa8\ub378..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:03",
-      "message": "[PROCESSING] Analyzing: This is BiCS NAND Close Up from Kioxia and Sandisk..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:05",
-      "message": "[SKIP] Irrelevant (AI Filter): This is BiCS NAND Close Up from Kioxia and Sandisk"
-    },
-    {
-      "timestamp": "2026-10-05 12:54:07",
-      "message": "[PROCESSING] Analyzing: Touring the F5 BIG-IP Next for Kubernetes Lab to Make AI Clusters More Efficient..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:10",
-      "message": "[SUCCESS] Processed: Kubernetes\uc6a9 F5 BIG-IP Next \uc2e4\ud5d8\uc2e4 \ud22c\uc5b4: AI \ud074\ub7ec\uc2a4\ud130\uc758 \ud6a8\uc728\uc131 \ud5a5\uc0c1\n  > Summary: \uc6b0\ub9ac\ub294 F5 \uc2e4\ud5d8\uc2e4\uc744 \ubc29\ubb38\ud558\uc5ec \uac19\uc740 GPU \ud074\ub7ec\uc2a4\ud130\uc5d0\uc11c F5 BIG-IP NEXT\ub97c \uc0ac\uc6a9\ud558..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:12",
-      "message": "[PROCESSING] Analyzing: Gigabyte TRX50 AERO D Motherboard Review..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:14",
-      "message": "[SKIP] Irrelevant (AI Filter): Gigabyte TRX50 AERO D Motherboard Review"
-    },
-    {
-      "timestamp": "2026-10-05 12:54:16",
-      "message": "[PROCESSING] Analyzing: AI is changing developer work. Here are three skills to strengthen...."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:19",
-      "message": "[SUCCESS] Processed: AI\uac00 \uac1c\ubc1c\uc790 \uc5c5\ubb34\ub97c \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uac15\ud654\ud574\uc57c \ud560 \uc138 \uac00\uc9c0 \uae30\uc220.\n  > Summary: AI\ub294 \uac1c\ubc1c\uc790\uac00 \uc791\uc5c5\ud558\ub294 \ubc29\uc2dd\uc744 \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\uc73c\uba70, \uc774\ub97c \uc704\ud574 \uac1c\ubc1c\uc790\ub294 AI\ub97c \uc9c0\ud718\ud558\uace0, ..."
-    },
-    {
-      "timestamp": "2026-10-05 12:54:21",
-      "message": "Completed! New: 81, Updated: 10"
-    },
-    {
-      "timestamp": "2026-10-05 12:54:25",
-      "message": "Saved 91 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-10-05 12:54:29",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-10-05 13:55:11",
+      "message": "[PROCESSING] Analyzing: An open-source tool lets you delete 12GB of Apple Intelligence data on macOS..."
     }
   ]
 }
