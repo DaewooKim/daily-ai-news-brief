@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 20:51:49",
+  "last_updated": "2026-10-05 20:51:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 20:51:07",
-      "message": "[PROCESSING] Analyzing: ZEISS Group Appoints Axel Christian as President of ZEISS North America..."
-    },
     {
       "timestamp": "2026-10-05 20:51:09",
       "message": "[SKIP] Irrelevant (AI Filter): ZEISS Group Appoints Axel Christian as President of ZEISS North America"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 20:51:49",
       "message": "Reprocessing: Namespace raises $42M to build out developer-focused compute cloud"
+    },
+    {
+      "timestamp": "2026-10-05 20:51:51",
+      "message": "[SKIP] Content too short: Namespace raises $42M to build..."
     }
   ]
 }
