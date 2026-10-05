@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 12:52:50",
+  "last_updated": "2026-10-05 12:52:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 12:52:02",
-      "message": "[SUCCESS] Processed: SignatureIP, AI \uc778\ud504\ub77c \uc11c\ubc0b 2026\uc5d0\uc11c \uce69\ub81b \uae30\ubc18 AI, HPC \ubc0f \ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c IP \ub77c\uc774\ube0c\ub7ec\ub9ac \uacf5\uac1c\n  > Summary: SignatureIP\ub294 \uc778\uacf5\uc9c0\ub2a5\uacfc \uace0\uc131\ub2a5 \ucef4\ud4e8\ud305(HPC)\uc744 \ubaa9\ud45c\ub85c \ud55c \uce69\ub81b \uae30\ubc18 \uc2dc\uc2a4\ud15c\uc744 ..."
-    },
     {
       "timestamp": "2026-10-05 12:52:04",
       "message": "[PROCESSING] Analyzing: Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 12:52:50",
       "message": "[PROCESSING] Analyzing: EU Cyber Resilience Act: Evidence Matters..."
+    },
+    {
+      "timestamp": "2026-10-05 12:52:52",
+      "message": "[SKIP] Irrelevant (AI Filter): EU Cyber Resilience Act: Evidence Matters"
     }
   ]
 }
