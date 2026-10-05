@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 12:45:58",
+  "last_updated": "2026-10-05 12:45:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 12:45:11",
-      "message": "Found 145 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-05 12:45:11",
       "message": "[PROCESSING] Analyzing: TCL\u2019s paperlike OLED phone made me more excited for the iPhone Duo..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 12:45:58",
       "message": "[SKIP] Irrelevant (AI Filter): The AirPods Pro 3 are a fantastic deal at $179"
+    },
+    {
+      "timestamp": "2026-10-05 12:45:59",
+      "message": "[SKIP] Content too short: Micron\u2019s Numbers Show Why HBM4..."
     }
   ]
 }
