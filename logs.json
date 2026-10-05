@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 18:36:13",
+  "last_updated": "2026-10-05 18:36:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 18:35:25",
-      "message": "[SUCCESS] Processed: AI \uc548\uc804\uc5d0 \uad00\ud55c \ub274\uc695\uc2dc \uc758\ud68c \uccad\ubb38\ud68c\uc5d0\uc11c \uc99d\uc5b8\ud55c \uc804 Anthropic \uc5f0\uad6c\uc6d0\n  > Summary: \uc804 Anthropic \uc5f0\uad6c\uc6d0 \uc81c\uc774\ucf65 \ucf55\uc2a8(Jacob Coxon)\uacfc Anthropic, \uad6c\uae00..."
-    },
     {
       "timestamp": "2026-10-05 18:35:27",
       "message": "[PROCESSING] Analyzing: The CFTC proposes a federal framework for crypto exchanges to offer retail customers leveraged and margined spot trading, without requiring congressional action (Jason Shubnell/The Block)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 18:36:13",
       "message": "[PROCESSING] Analyzing: Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)..."
+    },
+    {
+      "timestamp": "2026-10-05 18:36:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)"
     }
   ]
 }
