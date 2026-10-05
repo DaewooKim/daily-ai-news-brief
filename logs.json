@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-05 14:05:15",
+  "last_updated": "2026-10-05 14:05:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-05 14:04:18",
-      "message": "[SUCCESS] Processed: SignatureIP, AI, HPC \ubc0f \ub370\uc774\ud130 \uc13c\ud130 \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c \uce69\ub81b \uae30\ubc18 IP \ub77c\uc774\ube0c\ub7ec\ub9ac \ubc1c\ud45c\n  > Summary: SignatureIP\ub294 AI \uc778\ud504\ub77c \uc11c\ubc0b 2026\uc5d0\uc11c \uce69\ub81b \uae30\ubc18 \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c \ud3ec\uad04\uc801\uc778 I..."
-    },
     {
       "timestamp": "2026-10-05 14:04:20",
       "message": "[PROCESSING] Analyzing: SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-05 14:05:15",
       "message": "[PROCESSING] Analyzing: Local PCB Prototyping Cuts Delays and Speeds Iterations..."
+    },
+    {
+      "timestamp": "2026-10-05 14:05:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Local PCB Prototyping Cuts Delays and Speeds Iterations"
     }
   ]
 }
