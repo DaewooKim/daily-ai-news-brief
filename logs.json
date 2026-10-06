@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 17:58:15",
+  "last_updated": "2026-10-06 17:58:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 17:57:34",
-      "message": "[PROCESSING] Analyzing: ZEISS Group Appoints Axel Christian as President of ZEISS North America..."
-    },
     {
       "timestamp": "2026-10-06 17:57:36",
       "message": "[SKIP] Irrelevant (AI Filter): ZEISS Group Appoints Axel Christian as President of ZEISS North America"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 17:58:15",
       "message": "Reprocessing: NetApp aims to make legacy data AI-ready without a rebuild"
+    },
+    {
+      "timestamp": "2026-10-06 17:58:17",
+      "message": "[SKIP] Content too short: NetApp aims to make legacy dat..."
     }
   ]
 }
