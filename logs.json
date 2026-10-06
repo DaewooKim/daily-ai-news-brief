@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 21:16:33",
+  "last_updated": "2026-10-06 21:16:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 21:15:50",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-06 21:15:50",
       "message": "[PROCESSING] Analyzing: Sebastian Maniscalco\u2019s SiriusXM channel is hurting up-and-coming talent, comics say..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 21:16:33",
       "message": "[PROCESSING] Analyzing: The best deals under $25 during October Prime Day..."
+    },
+    {
+      "timestamp": "2026-10-06 21:16:36",
+      "message": "[SKIP] Irrelevant (AI Filter): The best deals under $25 during October Prime Day"
     }
   ]
 }
