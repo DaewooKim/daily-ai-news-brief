@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 13:28:30",
+  "last_updated": "2026-10-06 13:28:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 13:27:42",
-      "message": "[PROCESSING] Analyzing: AMD CEO Lisa Su says the company plans to \"substantially increase\" supply in 2027 and needs \"more advanced wafer capacity\", as she meets Foxconn and TSMC (Wen-Yee Lee/Reuters)..."
-    },
     {
       "timestamp": "2026-10-06 13:27:46",
       "message": "[SUCCESS] Processed: AMD CEO \ub9ac\uc0ac \uc218, \ud68c\uc0ac\uac00 2027\ub144\uc5d0 \uacf5\uae09\uc744 '\ub300\ud3ed \uc99d\uac00'\ud560 \uacc4\ud68d\uc774\uba70 '\ub354 \uc9c4\ubcf4\ub41c \uc6e8\uc774\ud37c \uc6a9\ub7c9' \ud544\uc694\n  > Summary: AMD CEO \ub9ac\uc0ac \uc218\ub294 2027\ub144\uae4c\uc9c0 \ubc18\ub3c4\uccb4 \uacf5\uae09\uc744 \ub300\ud3ed \ub298\ub9b4 \uacc4\ud68d\uc744 \ubc1d\ud614\uc2b5\ub2c8\ub2e4. \uadf8\ub140\ub294..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 13:28:30",
       "message": "[PROCESSING] Analyzing: Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand..."
+    },
+    {
+      "timestamp": "2026-10-06 13:28:33",
+      "message": "[SKIP] Irrelevant (AI Filter): Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand"
     }
   ]
 }
