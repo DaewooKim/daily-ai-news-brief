@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 13:25:18",
+  "last_updated": "2026-10-06 13:25:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 13:23:47",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-10-06 13:24:32",
       "message": "Found 140 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 13:25:18",
       "message": "[SKIP] Irrelevant (AI Filter): This remote-controlled wagon is silly but so very useful"
+    },
+    {
+      "timestamp": "2026-10-06 13:25:20",
+      "message": "[SKIP] Content too short: Dell Adds Data Context, Prep, ..."
     }
   ]
 }
