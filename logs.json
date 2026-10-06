@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 16:47:48",
+  "last_updated": "2026-10-06 16:47:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 16:47:06",
-      "message": "[PROCESSING] Analyzing: The earbuds with the best call quality are cheaper than ever..."
-    },
     {
       "timestamp": "2026-10-06 16:47:09",
       "message": "[SKIP] Irrelevant (AI Filter): The earbuds with the best call quality are cheaper than ever"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 16:47:48",
       "message": "[SUCCESS] Processed: AICR v1.0: \uc624\ud508, \uc548\uc815\uc801\uc774\uba70 \uac80\uc99d \uac00\ub2a5\ud55c GPU \ud074\ub7ec\uc2a4\ud130 \uad6c\uc131\n  > Summary: GPU \uac00\uc18d\ud654\ub41c \ucfe0\ubc84\ub124\ud2f0\uc2a4 \ud074\ub7ec\uc2a4\ud130\ub294 \ud638\uc2a4\ud2b8 \ucee4\ub110, GPU \ub4dc\ub77c\uc774\ubc84 \ub4f1 \ub2e4\uc591\ud55c \uad6c\uc131 \uc694\uc18c\uc758..."
+    },
+    {
+      "timestamp": "2026-10-06 16:47:50",
+      "message": "Reprocessing: Control How Your GPU Shares Work with Green Contexts"
     }
   ]
 }
