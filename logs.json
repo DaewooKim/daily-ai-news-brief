@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 20:12:56",
+  "last_updated": "2026-10-06 20:12:59",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 20:12:09",
-      "message": "[SUCCESS] Processed: \uace0\uc18d LLM \uc11c\ube59\uc744 \uc704\ud55c HBF (UC \ubc84\ud074\ub9ac, FuriosaAI)\n  > Summary: UC \ubc84\ud074\ub9ac\uc640 FuriosaAI\uc758 \uc5f0\uad6c\uc790\ub4e4\uc774 'LLM \uc11c\ube59\uc744 \uc704\ud55c \uace0\ub300\uc5ed\ud3ed \ud50c\ub798\uc2dc \ud2b9\uc131\ud654'..."
-    },
     {
       "timestamp": "2026-10-06 20:12:11",
       "message": "[PROCESSING] Analyzing: Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 20:12:56",
       "message": "[PROCESSING] Analyzing: Local PCB Prototyping Cuts Delays and Speeds Iterations..."
+    },
+    {
+      "timestamp": "2026-10-06 20:12:59",
+      "message": "[SKIP] Irrelevant (AI Filter): Local PCB Prototyping Cuts Delays and Speeds Iterations"
     }
   ]
 }
