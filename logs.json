@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 10:05:20",
+  "last_updated": "2026-10-06 10:05:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 10:04:28",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-10-06 10:04:39",
       "message": "Found 140 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 10:05:20",
       "message": "[PROCESSING] Analyzing: A Practical Guide to Security for Growing Businesses..."
+    },
+    {
+      "timestamp": "2026-10-06 10:05:22",
+      "message": "[SKIP] Irrelevant (AI Filter): A Practical Guide to Security for Growing Businesses"
     }
   ]
 }
