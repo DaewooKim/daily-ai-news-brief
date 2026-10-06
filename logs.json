@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 23:29:30",
+  "last_updated": "2026-10-06 23:29:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 23:28:36",
-      "message": "Found 146 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-06 23:28:36",
       "message": "[PROCESSING] Analyzing: OpenAI drops another batch of mathematical breakthroughs..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 23:29:30",
       "message": "Reprocessing: Micron\u2019s Numbers Show Why HBM4 Memory Is Worth 15X Its Weight In Gold"
+    },
+    {
+      "timestamp": "2026-10-06 23:29:33",
+      "message": "[SKIP] Content too short: Micron\u2019s Numbers Show Why HBM4..."
     }
   ]
 }
