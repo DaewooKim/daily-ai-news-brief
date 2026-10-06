@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 13:27:48",
+  "last_updated": "2026-10-06 13:27:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 13:27:03",
-      "message": "[PROCESSING] Analyzing: Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Grace Blackwell GPUs (Sabrina Ortiz/The Deep View)..."
-    },
     {
       "timestamp": "2026-10-06 13:27:08",
       "message": "[SUCCESS] Processed: \ubbf8\uc2a4\ud2b8\ub784\uc774 '\ub974 \uccad\ud06c'\ub77c \ubd88\ub9ac\ub294 \ubbf8\uc2a4\ud2b8\ub784 \ub77c\uc9c0 4\ub97c \ucd9c\uc2dc, 4,000 \uadf8\ub808\uc774\uc2a4 \ube14\ub799\uc6f0 GPU\ub85c \ud6c8\ub828\ub41c 1\uc870 \ub9e4\uac1c\ubcc0\uc218 \uc624\ud508-\uac00\uc911\uce58 \ubaa8\ub378\n  > Summary: \ud504\ub791\uc2a4 AI \uc5f0\uad6c\uc18c \ubbf8\uc2a4\ud2b8\ub784\uc774 1\uc870 \ub9e4\uac1c\ubcc0\uc218\ub97c \uac00\uc9c4 \uc624\ud508-\uac00\uc911\uce58 \ubaa8\ub378 '\ub974 \uccad\ud06c'\ub97c \ucd9c\uc2dc\ud588..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 13:27:48",
       "message": "Reprocessing: HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)"
+    },
+    {
+      "timestamp": "2026-10-06 13:27:50",
+      "message": "[PROCESSING] Analyzing: HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)..."
     }
   ]
 }
