@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 23:32:49",
+  "last_updated": "2026-10-06 23:32:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 23:31:59",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, \uc774\uc804 \ubc84\uc804\ubcf4\ub2e4 \uc804\ubc18\uc801\uc73c\ub85c \uac1c\uc120\ub41c \ub098\ub178 \ubc14\ub098\ub098 2.1 \ucd9c\uc2dc, \uac00\uaca9\uc740 \ub098\ub178 \ubc14\ub098\ub098 2\uc5d0 \ube44\ud574 \uc57d 50% \ub0ae\uc74c (\ub9c8\ud2f0\uc544\uc2a4 \ubc14\uc2a4\ud2f0\uc548/\ub354 \ub514\ucf54\ub354)\n  > Summary: \uad6c\uae00\uc774 \uc81c\ubbf8\ub2c8 3.6 \ud50c\ub798\uc2dc\ub97c \uae30\ubc18\uc73c\ub85c \ud55c \ub098\ub178 \ubc14\ub098\ub098 2.1\uc744 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \uc774 \uc81c\ud488\uc740 ..."
-    },
     {
       "timestamp": "2026-10-06 23:32:02",
       "message": "[PROCESSING] Analyzing: Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 23:32:49",
       "message": "[PROCESSING] Analyzing: Qnity Develops 330\u00b0C Sealing Material for High-Temperature Chipmaking Processes..."
+    },
+    {
+      "timestamp": "2026-10-06 23:32:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Qnity Develops 330\u00b0C Sealing Material for High-Temperature Chipmaking Processes"
     }
   ]
 }
