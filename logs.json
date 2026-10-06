@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 00:10:48",
+  "last_updated": "2026-10-06 00:10:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 00:10:02",
-      "message": "[PROCESSING] Analyzing: Zinc Whiskers: The Hidden Contamination Risk Beneath Data Center Floors..."
-    },
     {
       "timestamp": "2026-10-06 00:10:05",
       "message": "[SUCCESS] Processed: \uc544\uc5f0 \uc218\uc5fc: \ub370\uc774\ud130 \uc13c\ud130 \ubc14\ub2e5 \uc544\ub798 \uc228\uaca8\uc9c4 \uc624\uc5fc \uc704\ud5d8\n  > Summary: AI \ubc00\ub3c4\uc640 \uacf5\uae30 \ud750\ub984\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uae30\uc874\uc758 \uace0\uc815 \ubc14\ub2e5\uacfc \uc544\uc5f0 \ub3c4\uae08 \ubd80\ud488\ub4e4\uc774 \uc804\ub3c4\uc131 \uc218..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 00:10:48",
       "message": "[PROCESSING] Analyzing: Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation (Zoya Hasan/Forbes)..."
+    },
+    {
+      "timestamp": "2026-10-06 00:10:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation (Zoya Hasan/Forbes)"
     }
   ]
 }
