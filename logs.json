@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 05:42:05",
+  "last_updated": "2026-10-06 05:42:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 05:41:14",
-      "message": "[SUCCESS] Processed: \uc18c\uc2a4: \uc2dc\uac8c\uc774\ud2b8\uc640 \ub3c4\uc2dc\ubc14\uac00 AI \ub370\uc774\ud130 \uc13c\ud130 \uc2a4\ud1a0\ub9ac\uc9c0 \uc218\uc694\ub97c \ub193\uace0 TDK\uc758 HDD \uc790\uae30 \ud5e4\ub4dc \uc0ac\uc5c5\uc744 \ub193\uace0 \uc785\ucc30 \uc911\n  > Summary: \uc2dc\uac8c\uc774\ud2b8 \ud14c\ud06c\ub180\ub85c\uc9c0 \ud640\ub529\uc2a4\uc640 \ub3c4\uc2dc\ubc14\uac00 TDK\uc758 HDD \uc790\uae30 \ud5e4\ub4dc \uc0ac\uc5c5\uc5d0 \ub300\ud55c \uc218\uc2ed\uc5b5 \ub2ec\ub7ec ..."
-    },
     {
       "timestamp": "2026-10-06 05:41:15",
       "message": "Reprocessing: Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 05:42:05",
       "message": "[PROCESSING] Analyzing: ZEISS Group Appoints Axel Christian as President of ZEISS North America..."
+    },
+    {
+      "timestamp": "2026-10-06 05:42:07",
+      "message": "[SKIP] Irrelevant (AI Filter): ZEISS Group Appoints Axel Christian as President of ZEISS North America"
     }
   ]
 }
