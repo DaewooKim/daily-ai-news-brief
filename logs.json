@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 16:49:59",
+  "last_updated": "2026-10-06 16:50:01",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 16:49:14",
-      "message": "[PROCESSING] Analyzing: AI Power Spikes Demand Chip-to-Grid Design Changes..."
-    },
     {
       "timestamp": "2026-10-06 16:49:18",
       "message": "[SUCCESS] Processed: AI \ubc1c\uc804\uc774 \uce69\uc5d0\uc11c \uadf8\ub9ac\ub4dc\ub85c\uc758 \ub514\uc790\uc778 \ubcc0\ud654\ub97c \uc694\uad6c\ud558\uace0 \uc788\ub2e4\n  > Summary: AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \uae09\uc18d\ud55c \uc804\ub825 \ubcc0\ub3d9\uc774 \uc804\ub825\ub9dd \uc548\uc815\uc131\uc5d0 \uc704\ud611\uc744 \uac00\ud558\uace0 \uc788\uc73c\uba70, \uce69 \uc81c\uc870\uc5c5\uccb4..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 16:49:59",
       "message": "[PROCESSING] Analyzing: UK retailer Asos' stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)..."
+    },
+    {
+      "timestamp": "2026-10-06 16:50:01",
+      "message": "[SKIP] Irrelevant (AI Filter): UK retailer Asos' stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)"
     }
   ]
 }
