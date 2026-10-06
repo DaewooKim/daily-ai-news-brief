@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 15:43:43",
+  "last_updated": "2026-10-06 15:43:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 15:42:58",
-      "message": "Reprocessing: HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)"
-    },
     {
       "timestamp": "2026-10-06 15:43:00",
       "message": "[PROCESSING] Analyzing: HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 15:43:43",
       "message": "[PROCESSING] Analyzing: Local PCB Prototyping Cuts Delays and Speeds Iterations..."
+    },
+    {
+      "timestamp": "2026-10-06 15:43:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Local PCB Prototyping Cuts Delays and Speeds Iterations"
     }
   ]
 }
