@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-06 12:20:13",
+  "last_updated": "2026-10-06 12:20:15",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-06 12:19:28",
-      "message": "[SUCCESS] Processed: \uc544\uc5f0 \uc218\uc5fc: \ub370\uc774\ud130 \uc13c\ud130 \ubc14\ub2e5 \ubc11\uc758 \uc228\uaca8\uc9c4 \uc624\uc5fc \uc704\ud5d8\n  > Summary: AI \ubc00\ub3c4\uc640 \uacf5\uae30 \ud750\ub984\uc774 \uc99d\uac00\ud568\uc5d0 \ub530\ub77c, \uad6c\uc2dd\uc758 raised-floor\uc640 \uc544\uc5f0 \ub3c4\uae08\ub41c \ubd80\ud488..."
-    },
     {
       "timestamp": "2026-10-06 12:19:30",
       "message": "[PROCESSING] Analyzing: Anthropic's IPO prospectus: Dario Amodei earned $18M in 2025, middle of the pack for tech CEOs, and President Daniela Amodei, his sister, earned $16.4M (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-06 12:20:13",
       "message": "[SKIP] Irrelevant (AI Filter): The UK's Ofcom opens an OSA probe into Meta over Instagram Instants, launched in May; Meta says it \"briefed Ofcom about this feature on a number of occasions\" (Reuters)"
+    },
+    {
+      "timestamp": "2026-10-06 12:20:15",
+      "message": "Reprocessing: HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)"
     }
   ]
 }
