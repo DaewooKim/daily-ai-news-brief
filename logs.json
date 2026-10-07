@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 20:54:40",
+  "last_updated": "2026-10-07 20:54:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 20:53:58",
-      "message": "[SUCCESS] Processed: OpenAI, \uadf8\ub798\ud53d \ubc0f \ub300\ud654\ud615 \uc694\uc18c\ub97c \ud3ec\ud568\ud55c \uc778\ud154\ub9ac\uc804\ud2b8 UI\uac00 \uc788\ub294 ChatGPT\uc5d0\uc11c GPT-6\ub97c \ucd9c\uc2dc\ud558\ub2e4\n  > Summary: OpenAI\ub294 ChatGPT\uc5d0\uc11c GPT-6\ub97c \ucd9c\uc2dc\ud558\uba70 \uc778\ud154\ub9ac\uc804\ud2b8 UI\ub77c\ub294 \uc0c8\ub85c\uc6b4 \uae30\ub2a5\uc744 \ub3c4..."
-    },
     {
       "timestamp": "2026-10-07 20:54:01",
       "message": "[PROCESSING] Analyzing: Microsoft opens preorders for the $2,599+ Surface Laptop Ultra, shipping from October 16, with an RTX Spark and three USB-C ports; one is magnetic like MagSafe (Zac Bowden/Windows Central)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 20:54:40",
       "message": "[PROCESSING] Analyzing: ZEISS Group Appoints Axel Christian as President of ZEISS North America..."
+    },
+    {
+      "timestamp": "2026-10-07 20:54:42",
+      "message": "[SKIP] Irrelevant (AI Filter): ZEISS Group Appoints Axel Christian as President of ZEISS North America"
     }
   ]
 }
