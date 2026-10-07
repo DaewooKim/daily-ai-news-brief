@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 17:28:30",
+  "last_updated": "2026-10-07 17:28:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 17:27:45",
-      "message": "[PROCESSING] Analyzing: The Apple Watch Series 12 is a good deal at $50 off..."
-    },
     {
       "timestamp": "2026-10-07 17:27:49",
       "message": "[SKIP] Irrelevant (AI Filter): The Apple Watch Series 12 is a good deal at $50 off"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 17:28:30",
       "message": "Reprocessing: AI Spending Is The Honey Badger Of Budgets"
+    },
+    {
+      "timestamp": "2026-10-07 17:28:32",
+      "message": "[SKIP] Content too short: AI Spending Is The Honey Badge..."
     }
   ]
 }
