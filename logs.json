@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 20:54:18",
+  "last_updated": "2026-10-07 20:54:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 20:53:34",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI\uc758 CPU-GPU \uade0\ud615 \ubcc0\ud654 \uc2e0\ud638\n  > Summary: HPE\ub294 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ucd94\ub860, \ub2a5\ub3d9 AI \ubc0f \uc804\ud1b5\uc801\uc778 \uc791\uc5c5\uc744 \uc704\ud574 AMD Epyc\uac00 \uc7a5..."
-    },
     {
       "timestamp": "2026-10-07 20:53:36",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 20:54:18",
       "message": "[PROCESSING] Analyzing: Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)..."
+    },
+    {
+      "timestamp": "2026-10-07 20:54:20",
+      "message": "[SKIP] Irrelevant (AI Filter): Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)"
     }
   ]
 }
