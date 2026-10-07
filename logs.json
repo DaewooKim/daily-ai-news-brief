@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 12:52:10",
+  "last_updated": "2026-10-07 12:52:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 12:51:22",
-      "message": "[PROCESSING] Analyzing: CXL-Connected MRAM Address AI Storage Latency..."
-    },
     {
       "timestamp": "2026-10-07 12:51:26",
       "message": "[SUCCESS] Processed: CXL \uc5f0\uacb0 MRAM, AI \uc2a4\ud1a0\ub9ac\uc9c0 \uc9c0\uc5f0 \ubb38\uc81c \ud574\uacb0\n  > Summary: AI \uc2dc\uc2a4\ud15c\uc5d0\uc11c \uba54\ubaa8\ub9ac \ubcd1\ubaa9 \ud604\uc0c1\uc774 \ub9ce\uc774 \ub17c\uc758\ub418\uc9c0\ub9cc, \uc2a4\ud1a0\ub9ac\uc9c0 \uc9c0\uc5f0\ub3c4 \uc810\uc810 \ub354 \ud070 \ubb38\uc81c\ub85c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 12:52:10",
       "message": "[PROCESSING] Analyzing: Xreal opens pre-orders for the Android XR-powered Aura glasses, starting at $1,279 for 12GB RAM/256GB, shipping soon in the US with a separate compute puck (Mariella Moon/Engadget)..."
+    },
+    {
+      "timestamp": "2026-10-07 12:52:13",
+      "message": "[SKIP] Irrelevant (AI Filter): Xreal opens pre-orders for the Android XR-powered Aura glasses, starting at $1,279 for 12GB RAM/256GB, shipping soon in the US with a separate compute puck (Mariella Moon/Engadget)"
     }
   ]
 }
