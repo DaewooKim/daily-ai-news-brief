@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 00:36:44",
+  "last_updated": "2026-10-07 00:36:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 00:36:07",
-      "message": "Found 145 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-07 00:36:07",
       "message": "[PROCESSING] Analyzing: Xbox has secured exclusive GTA 6 streaming rights..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 00:36:44",
       "message": "[PROCESSING] Analyzing: Identity Under Attack..."
+    },
+    {
+      "timestamp": "2026-10-07 00:36:46",
+      "message": "[SKIP] Irrelevant (AI Filter): Identity Under Attack"
     }
   ]
 }
