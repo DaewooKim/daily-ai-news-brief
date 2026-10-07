@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 11:43:17",
+  "last_updated": "2026-10-07 11:43:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 11:42:28",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-10-07 11:42:39",
       "message": "Found 145 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 11:43:17",
       "message": "[SKIP] Irrelevant (AI Filter): Beyond the Warehouse and the Lakehouse"
+    },
+    {
+      "timestamp": "2026-10-07 11:43:20",
+      "message": "Reprocessing: How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack"
     }
   ]
 }
