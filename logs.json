@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 22:00:29",
+  "last_updated": "2026-10-07 22:00:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 21:59:43",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, \uae30\uc5c5 AI\ub97c \uc704\ud55c CPU-GPU \uade0\ud615 \uc2e0\ud638\n  > Summary: HPE\ub294 \uae30\uc5c5 AI \ucd94\ub860, \uc5d0\uc774\uc804\ud2b8 AI \ubc0f \uc804\ud1b5\uc801\uc778 \uc791\uc5c5\uc744 \uc704\ud574 AMD Epyc \uae30\ubc18\uc758 ..."
-    },
     {
       "timestamp": "2026-10-07 21:59:45",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 22:00:29",
       "message": "[PROCESSING] Analyzing: Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)..."
+    },
+    {
+      "timestamp": "2026-10-07 22:00:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)"
     }
   ]
 }
