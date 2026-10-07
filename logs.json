@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-10-07 08:29:03",
-  "status": "idle",
+  "last_updated": "2026-10-07 09:29:36",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-10-07 08:27:14",
-      "message": "[SKIP] Content too short: Transforming the data path: De..."
+      "timestamp": "2026-10-07 09:29:24",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-10-07 08:27:16",
-      "message": "Reprocessing: Mistral launches open-source Mistral Large 4, details AI roadmap"
+      "timestamp": "2026-10-07 09:29:25",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-10-07 08:27:18",
-      "message": "[SKIP] Content too short: Mistral launches open-source M..."
+      "timestamp": "2026-10-07 09:29:25",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-10-07 08:27:20",
-      "message": "Reprocessing: CoreWeave targets GPU utilization in continuous AI post-training"
+      "timestamp": "2026-10-07 09:29:36",
+      "message": "Found 145 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-10-07 08:27:22",
-      "message": "[SKIP] Content too short: CoreWeave targets GPU utilizat..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:25",
-      "message": "Reprocessing: Three key insights you may have missed from theCUBE\u2019s coverage of the Supermicro Open Storage Summit interview series"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:27",
-      "message": "[SKIP] Content too short: Three key insights you may hav..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:28",
-      "message": "Reprocessing: MasterClass bets AI teaching agents can broaden access to tutoring"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:30",
-      "message": "[SKIP] Content too short: MasterClass bets AI teaching a..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:33",
-      "message": "Reprocessing: LawVu launches Lens to provide legal teams visibility into contract law"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:36",
-      "message": "[SKIP] Content too short: LawVu launches Lens to provide..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:38",
-      "message": "Reprocessing: Vast uses tiered storage to ease AI agent memory demands"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:40",
-      "message": "[SKIP] Content too short: Vast uses tiered storage to ea..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:41",
-      "message": "Reprocessing: BattleBots builders turn to AI simulation to win fights before entering the box"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:43",
-      "message": "[SKIP] Content too short: BattleBots builders turn to AI..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:46",
-      "message": "Reprocessing: NetApp aims to make legacy data AI-ready without a rebuild"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:48",
-      "message": "[SKIP] Content too short: NetApp aims to make legacy dat..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:50",
-      "message": "Reprocessing: IBM and Red Hat patch 400-plus unknown Java flaws, open Clearinghouse for fix requests"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:52",
-      "message": "[SKIP] Content too short: IBM and Red Hat patch 400-plus..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:53",
-      "message": "Reprocessing: Tanium expands Security Operations with Atlas-powered detection, response and hunting"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:55",
-      "message": "[SKIP] Content too short: Tanium expands Security Operat..."
-    },
-    {
-      "timestamp": "2026-10-07 08:27:57",
-      "message": "Reprocessing: Exclusive: Gamma revamps presentation platform to make output look more human"
-    },
-    {
-      "timestamp": "2026-10-07 08:27:59",
-      "message": "[SKIP] Content too short: Exclusive: Gamma revamps prese..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:01",
-      "message": "Reprocessing: Precisely launches unified AI data platform and AI Studio library of agents and apps"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:03",
-      "message": "[SKIP] Content too short: Precisely launches unified AI ..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:05",
-      "message": "Reprocessing: Antseed launches a decentralized marketplace for AI inference that dramatically lowers developers\u2019 costs"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:07",
-      "message": "[SKIP] Content too short: Antseed launches a decentraliz..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:08",
-      "message": "Reprocessing: Dell\u2019s AI Data Platform gets a knowledge graph for agents and faster Nvidia processing"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:10",
-      "message": "[SKIP] Content too short: Dell\u2019s AI Data Platform gets a..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:12",
-      "message": "Reprocessing: Anaconda expands beyond Python with agent swarms and AI security testing"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:14",
-      "message": "[SKIP] Content too short: Anaconda expands beyond Python..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:16",
-      "message": "Reprocessing: SAP expands Joule into an agentic work layer as Autonomous Enterprise goes live"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:17",
-      "message": "[SKIP] Content too short: SAP expands Joule into an agen..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:19",
-      "message": "Reprocessing: Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:21",
-      "message": "[SKIP] Content too short: Hadrian raises $40M for AI age..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:23",
-      "message": "Reprocessing: Hack The Box\u2019s AI Range Enterprise Edition tests whether AI agents can do their jobs"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:25",
-      "message": "[SKIP] Content too short: Hack The Box\u2019s AI Range Enterp..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:28",
-      "message": "Reprocessing: Utah gives startup Nolla Health permission to start issuing AI automated prescriptions for acne treatments"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:30",
-      "message": "[SKIP] Content too short: Utah gives startup Nolla Healt..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:32",
-      "message": "Reprocessing: NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:34",
-      "message": "[PROCESSING] Analyzing: NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:38",
-      "message": "[SUCCESS] Processed: \uc5d4\ube44\ub514\uc544 DGX \uc2a4\ud30c\ud06c 64GB \ucd9c\uc2dc \ubc0f 128GB GB10 \uac00\uaca9 \uc778\uc0c1\n  > Summary: \uc5d4\ube44\ub514\uc544\uac00 DGX \uc2a4\ud30c\ud06c 64GB \ubaa8\ub378\uc744 4,999\ub2ec\ub7ec\uc5d0 \ucd9c\uc2dc\ud588\uc2b5\ub2c8\ub2e4. \ub610\ud55c 128GB \ubaa8..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:40",
-      "message": "[PROCESSING] Analyzing: This is BiCS NAND Close Up from Kioxia and Sandisk..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:42",
-      "message": "[SKIP] Irrelevant (AI Filter): This is BiCS NAND Close Up from Kioxia and Sandisk"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:44",
-      "message": "Reprocessing: AI is changing developer work. Here are three skills to strengthen."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:46",
-      "message": "[PROCESSING] Analyzing: AI is changing developer work. Here are three skills to strengthen...."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:51",
-      "message": "[SUCCESS] Processed: AI\uac00 \uac1c\ubc1c\uc790 \uc791\uc5c5\uc744 \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uac1c\uc120\ud560 \uc138 \uac00\uc9c0 \uae30\uc220\uc740 \ub2e4\uc74c\uacfc \uac19\uc2b5\ub2c8\ub2e4.\n  > Summary: AI\ub294 \uac1c\ubc1c\uc790\ub4e4\uc774 \uc791\uc5c5\ud558\ub294 \ubc29\uc2dd\uc744 \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\uc73c\uba70, \uc774\uc81c \uac1c\ubc1c\uc790\ub4e4\uc740 AI\ub97c \uc9c0\ud718\ud558\uace0 \ucd9c\ub825..."
-    },
-    {
-      "timestamp": "2026-10-07 08:28:53",
-      "message": "Completed! New: 3, Updated: 49"
-    },
-    {
-      "timestamp": "2026-10-07 08:28:57",
-      "message": "Saved 52 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-10-07 08:29:01",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-10-07 09:29:36",
+      "message": "[PROCESSING] Analyzing: ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media..."
     }
   ]
 }
