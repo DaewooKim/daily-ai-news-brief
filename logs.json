@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 14:03:23",
+  "last_updated": "2026-10-07 14:03:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 14:02:48",
-      "message": "[SKIP] Content too short: NetApp aims to make legacy dat..."
-    },
     {
       "timestamp": "2026-10-07 14:02:50",
       "message": "Reprocessing: IBM and Red Hat patch 400-plus unknown Java flaws, open Clearinghouse for fix requests"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 14:03:23",
       "message": "[PROCESSING] Analyzing: This is BiCS NAND Close Up from Kioxia and Sandisk..."
+    },
+    {
+      "timestamp": "2026-10-07 14:03:26",
+      "message": "[SKIP] Irrelevant (AI Filter): This is BiCS NAND Close Up from Kioxia and Sandisk"
     }
   ]
 }
