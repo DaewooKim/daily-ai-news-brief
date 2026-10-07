@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 17:30:03",
+  "last_updated": "2026-10-07 17:30:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 17:29:21",
-      "message": "[SUCCESS] Processed: \uc218\ud559\uc758 AI \uc9c4\uc804 \uacf5\uc720\n  > Summary: OpenAI\uac00 \ub0b4\ubd80 \ud504\ub860\ud2f0\uc5b4 \ubaa8\ub378\uc744 \ubc14\ud0d5\uc73c\ub85c \uc218\ud559\uc758 \uc5f4\ub9b0 \ubb38\uc81c\uc5d0 \ub300\ud55c \uc0c8\ub85c\uc6b4 \uacb0\uacfc\ub97c \ubc1c\ud45c\ud558..."
-    },
     {
       "timestamp": "2026-10-07 17:29:23",
       "message": "Reprocessing: Advancing computer use with Ironclad"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 17:30:03",
       "message": "[PROCESSING] Analyzing: Engineering Reliability: Power Architectures for High-Performance Burn-In..."
+    },
+    {
+      "timestamp": "2026-10-07 17:30:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Engineering Reliability: Power Architectures for High-Performance Burn-In"
     }
   ]
 }
