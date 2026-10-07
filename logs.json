@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 09:31:00",
+  "last_updated": "2026-10-07 09:31:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 09:30:19",
-      "message": "[PROCESSING] Analyzing: How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack..."
-    },
     {
       "timestamp": "2026-10-07 09:30:22",
       "message": "[SUCCESS] Processed: NVIDIA DOCA GPUNetIO\uac00 GPU \uc8fc\ub3c4 \ub124\ud2b8\uc6cc\ud0b9\uc744 \ud1b5\ud569\ud558\ub294 \ubc29\ubc95\n  > Summary: NVIDIA DOCA GPUNetIO\ub294 GPU \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc774 \ub124\ud2b8\uc6cc\ud0b9\uacfc \ub370\uc774\ud130 \uc774\ub3d9\uc744 GP..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 09:31:00",
       "message": "[PROCESSING] Analyzing: LibreOffice says \u2018no AI\u2019 is now a software feature..."
+    },
+    {
+      "timestamp": "2026-10-07 09:31:03",
+      "message": "[SKIP] Irrelevant (AI Filter): LibreOffice says \u2018no AI\u2019 is now a software feature"
     }
   ]
 }
