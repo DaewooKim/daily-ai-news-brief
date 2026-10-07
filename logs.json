@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 19:46:29",
+  "last_updated": "2026-10-07 19:46:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 19:45:43",
-      "message": "[SKIP] Irrelevant (AI Filter): Engineering Reliability: Power Architectures for High-Performance Burn-In"
-    },
     {
       "timestamp": "2026-10-07 19:45:45",
       "message": "[PROCESSING] Analyzing: Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 19:46:29",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, Sonnet 5.5 \uce90\uc2dc \uc77d\uae30 \uac00\uaca9\uc744 $0.20\uc5d0\uc11c $0.10\uc73c\ub85c \uc778\ud558\ud558\uace0 \uc6d4 API \ud06c\ub808\ub527 \ucd94\uac00\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 Sonnet 5.5\uc758 \uce90\uc2dc \uc77d\uae30 \uac00\uaca9\uc744 $0.20\uc5d0\uc11c $0.10\uc73c\ub85c \uc778\ud558\ud558\uace0, ..."
+    },
+    {
+      "timestamp": "2026-10-07 19:46:30",
+      "message": "[PROCESSING] Analyzing: Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)..."
     }
   ]
 }
