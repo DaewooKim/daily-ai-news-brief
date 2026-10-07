@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 19:47:19",
+  "last_updated": "2026-10-07 19:47:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 19:46:30",
-      "message": "[PROCESSING] Analyzing: Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)..."
-    },
     {
       "timestamp": "2026-10-07 19:46:34",
       "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ud558\uc774\ucfe0 5.5\uc758 \uac00\uaca9\uc744 \uc785\ub825 \ud1a0\ud070 1M\ub2f9 $0.10, \ucd9c\ub825 \ud1a0\ud070 1M\ub2f9 $0.50\ub85c \ucc45\uc815\ud558\ub2e4\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc774 \ud558\uc774\ucfe0 5.5\ub97c \ucd9c\uc2dc\ud558\uba70, 100K \ud1a0\ud070 \uc774\ud558 \uc694\uccad \uc2dc \uc785\ub825 \ud1a0\ud070 1M\ub2f9 $0...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 19:47:19",
       "message": "[SUCCESS] Processed: \ubbfc\ud2b8\ub274\ub85c, \uc2e0\uacbd \uc7a5\uce58 \ubc0f \ub1cc-\ucef4\ud4e8\ud130 \uc778\ud130\ud398\uc774\uc2a4\ub97c \uc704\ud55c \uc804\uc6a9 \uce69 \ud50c\ub7ab\ud3fc \ud655\uc7a5\uc744 \uc704\ud574 500\ub9cc \ub2ec\ub7ec \ubaa8\uae08\n  > Summary: \ubbfc\ud2b8\ub274\ub85c\uac00 \uc2e0\uacbd \uc7a5\uce58\ub97c \uc704\ud55c \uc804\ubb38 \uce69 \uac1c\ubc1c\uc744 \uc704\ud574 500\ub9cc \ub2ec\ub7ec\uc758 \ud22c\uc790\ub97c \ubc1b\uc558\ub2e4. \uc774 \uce69\uc740..."
+    },
+    {
+      "timestamp": "2026-10-07 19:47:21",
+      "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
     }
   ]
 }
