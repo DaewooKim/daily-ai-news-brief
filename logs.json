@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 23:07:28",
+  "last_updated": "2026-10-07 23:07:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 23:06:42",
-      "message": "[PROCESSING] Analyzing: OpenAI says GPT-6 in ChatGPT's Chat tab is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers and GPT-6 Luna for Free and Go tiers (@openai)..."
-    },
     {
       "timestamp": "2026-10-07 23:06:46",
       "message": "[SUCCESS] Processed: OpenAI\ub294 ChatGPT\uc758 \ucc44\ud305 \ud0ed\uc5d0\uc11c GPT-6\uac00 Plus, Pro, Business, Enterprise \uacc4\uce35\uc744 \uc704\ud55c GPT-6 Sol\ub85c \uad6c\ub3d9\ub418\uba70, Free \ubc0f Go \uacc4\uce35\uc744 \uc704\ud55c GPT-6 Luna\ub85c \uad6c\ub3d9\ub41c\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.\n  > Summary: OpenAI\ub294 ChatGPT\uc758 \ucc44\ud305 \ud0ed\uc5d0 \uc0c8\ub85c\uc6b4 GPT-6 \ubaa8\ub378\uc744 \ub3c4\uc785\ud558\uc600\uc73c\uba70, Plus,..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 23:07:28",
       "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
+    },
+    {
+      "timestamp": "2026-10-07 23:07:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute"
     }
   ]
 }
