@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07 16:20:25",
+  "last_updated": "2026-10-07 16:20:28",
   "status": "running",
   "logs": [
     {
@@ -29,6 +29,10 @@
     {
       "timestamp": "2026-10-07 16:20:25",
       "message": "[PROCESSING] Analyzing: Doxxing Jane Doe..."
+    },
+    {
+      "timestamp": "2026-10-07 16:20:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Doxxing Jane Doe"
     }
   ]
 }
