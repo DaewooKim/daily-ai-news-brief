@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-07 16:24:31",
+  "last_updated": "2026-10-07 16:24:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-07 16:23:47",
-      "message": "[SUCCESS] Processed: \uc790\uc728 \ud654\ubb3c \uc5f4\ucc28\ub97c \ub9cc\ub4dc\ub294 Parallel Systems, AVP \uc8fc\ub3c4\uc758 1\uc5b5 \ub2ec\ub7ec \uc2dc\ub9ac\uc988 C \ud380\ub529\uc744 \uc720\uce58\ud558\uba70 \ucd1d 2\uc5b5 \ub2ec\ub7ec \uc774\uc0c1 \uc790\uae08\uc744 \ud655\ubcf4\n  > Summary: Parallel Systems\uac00 AVP\uc758 \uc8fc\ub3c4\ub85c 1\uc5b5 \ub2ec\ub7ec \uaddc\ubaa8\uc758 \uc2dc\ub9ac\uc988 C \ud380\ub529\uc744 \uc720\uce58\ud558..."
-    },
     {
       "timestamp": "2026-10-07 16:23:49",
       "message": "[PROCESSING] Analyzing: Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras (Chris Welch/Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-07 16:24:31",
       "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
+    },
+    {
+      "timestamp": "2026-10-07 16:24:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute"
     }
   ]
 }
