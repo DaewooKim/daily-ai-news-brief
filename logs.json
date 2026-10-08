@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 13:33:48",
+  "last_updated": "2026-10-08 13:33:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 13:33:00",
-      "message": "[SUCCESS] Processed: ChatGPT\uac00 \uc0c8\ub85c\uc6b4 \uc778\ud130\ud398\uc774\uc2a4 \ucd9c\uc2dc\ub85c \ud6e8\uc52c \ub354 \uc2dc\uac01\uc801\uc774 \ub429\ub2c8\ub2e4.\n  > Summary: OpenAI\uac00 ChatGPT\uc5d0 \uc778\ud130\ub799\ud2f0\ube0c\ud55c \uc2dc\uac01\uc801 \uc694\uc18c\ub97c \ucd94\uac00\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc0ac\uc6a9\uc790 \uc778\ud130\ud398\uc774\uc2a4..."
-    },
     {
       "timestamp": "2026-10-08 13:33:02",
       "message": "[PROCESSING] Analyzing: Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 13:33:48",
       "message": "[PROCESSING] Analyzing: Engineering Reliability: Power Architectures for High-Performance Burn-In..."
+    },
+    {
+      "timestamp": "2026-10-08 13:33:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Engineering Reliability: Power Architectures for High-Performance Burn-In"
     }
   ]
 }
