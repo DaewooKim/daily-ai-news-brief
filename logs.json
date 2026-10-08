@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 02:24:49",
+  "last_updated": "2026-10-08 02:24:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 02:24:07",
-      "message": "[SUCCESS] Processed: AI\ub97c \uc0ac\uc6a9\ud558\ub294 \ubc29\uc2dd\uc5d0 \ub9de\ucd98 \uad11\uace0 \uad6c\ucd95\n  > Summary: OpenAI\ub294 ChatGPT\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \ube44\uc8fc\uc5bc \uad11\uace0 \ud615\uc2dd\uc744 \ub3c4\uc785\ud558\uace0 \uad11\uace0\uc8fc\ub97c \uc704\ud55c \uce21\uc815 \ub3c4..."
-    },
     {
       "timestamp": "2026-10-08 02:24:08",
       "message": "Reprocessing: ChatGPT for Teens keeps teens talking, even during mental health crises"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 02:24:49",
       "message": "[PROCESSING] Analyzing: Engineering Reliability: Power Architectures for High-Performance Burn-In..."
+    },
+    {
+      "timestamp": "2026-10-08 02:24:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Engineering Reliability: Power Architectures for High-Performance Burn-In"
     }
   ]
 }
