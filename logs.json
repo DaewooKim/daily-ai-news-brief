@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 03:29:42",
+  "last_updated": "2026-10-08 03:29:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 03:29:04",
-      "message": "[PROCESSING] Analyzing: Roku\u2019s OLED TVs are up to $400 off during Prime Day, starting at $700..."
-    },
     {
       "timestamp": "2026-10-08 03:29:07",
       "message": "[SKIP] Irrelevant (AI Filter): Roku\u2019s OLED TVs are up to $400 off during Prime Day, starting at $700"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 03:29:42",
       "message": "Reprocessing: Does better work always mean better workers?"
+    },
+    {
+      "timestamp": "2026-10-08 03:29:44",
+      "message": "[SKIP] Content too short: Does better work always mean b..."
     }
   ]
 }
