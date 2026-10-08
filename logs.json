@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 15:53:07",
+  "last_updated": "2026-10-08 15:53:09",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 15:52:22",
-      "message": "[SUCCESS] Processed: AI \uc804\ub825 \uae09\ub4f1, \uce69-\uadf8\ub9ac\ub4dc \uc124\uacc4 \ubcc0\ud654\uc5d0 \ub300\ud55c \uc218\uc694 \uc99d\uac00\n  > Summary: AI \ub370\uc774\ud130 \uc13c\ud130\uc758 \uc804\ub825 \uc18c\ube44\uac00 \uae09\uaca9\ud558\uac8c \ubcc0\ub3d9\ud568\uc5d0 \ub530\ub77c \uc804\ub825\ub9dd\uc758 \uc548\uc815\uc131\uc774 \uc704\ud611\ubc1b\uace0 \uc788\uc73c\uba70,..."
-    },
     {
       "timestamp": "2026-10-08 15:52:24",
       "message": "[PROCESSING] Analyzing: The UPS Is Uninterruptible by Design. Its Future Is Not...."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 15:53:07",
       "message": "[PROCESSING] Analyzing: Quantum startup Oratomic raised a $475M Series B at a $5.4B valuation, up from $1.5B after raising a $300M Series A in July, taking its total funding to $775M (Isabelle Bousquette/Wall Street Journal)..."
+    },
+    {
+      "timestamp": "2026-10-08 15:53:09",
+      "message": "[SKIP] Irrelevant (AI Filter): Quantum startup Oratomic raised a $475M Series B at a $5.4B valuation, up from $1.5B after raising a $300M Series A in July, taking its total funding to $775M (Isabelle Bousquette/Wall Street Journal)"
     }
   ]
 }
