@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 13:33:28",
+  "last_updated": "2026-10-08 13:33:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 13:32:39",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, \uc0c8\ub85c\uc6b4 \ub85c\uceec \uc911\uc2ec \uadf8\ub77c\ub180\ub77c \uacbd\uc7c1 \uc81c\ud488 \ucd9c\uc2dc\n  > Summary: \uad6c\uae00\uc758 \uc0c8\ub85c\uc6b4 AI \uc5e3\uc9c0 \ud3ec\uc0ac\uc774\ud2b8 \uc571\uc740 \uc624\ud504\ub77c\uc778 \ud68c\uc758 \ub178\ud2b8 \uc791\uc131\uae30\ub85c\uc11c \uadf8\ub77c\ub180\ub77c\uc640 \uacbd\uc7c1\ud569\ub2c8\ub2e4..."
-    },
     {
       "timestamp": "2026-10-08 13:32:41",
       "message": "[PROCESSING] Analyzing: China\u2019s Manus raises over $500M in first funding round since split with Meta..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 13:33:28",
       "message": "[PROCESSING] Analyzing: Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing..."
+    },
+    {
+      "timestamp": "2026-10-08 13:33:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing"
     }
   ]
 }
