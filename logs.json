@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 07:57:40",
+  "last_updated": "2026-10-08 07:57:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 07:56:56",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI\uc758 CPU-GPU \uade0\ud615\uc744 \uc2e0\ud638\ud558\ub2e4\n  > Summary: HPE\ub294 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ucd94\ub860, \uc5d0\uc774\uc804\ud2f1 AI \ubc0f \uc804\ud1b5\uc801\uc778 \uc791\uc5c5\uc744 \uc704\ud55c AMD Epyc ..."
-    },
     {
       "timestamp": "2026-10-08 07:56:58",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 07:57:40",
       "message": "[PROCESSING] Analyzing: Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments (Diana Novak Jones/Reuters)..."
+    },
+    {
+      "timestamp": "2026-10-08 07:57:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments (Diana Novak Jones/Reuters)"
     }
   ]
 }
