@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 18:05:22",
+  "last_updated": "2026-10-08 18:05:25",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 18:04:27",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-10-08 18:04:27",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 18:05:22",
       "message": "[PROCESSING] Analyzing: Apple announces surprise &#8216;Welcome home&#8217; launch event..."
+    },
+    {
+      "timestamp": "2026-10-08 18:05:25",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple announces surprise &#8216;Welcome home&#8217; launch event"
     }
   ]
 }
