@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 17:01:29",
+  "last_updated": "2026-10-08 17:01:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 17:00:41",
-      "message": "[PROCESSING] Analyzing: GlobalFoundries signs a five-year, $2B deal to provide silicon interposer production capacity to TSMC, manufactured at GlobalFoundries' New York facility (Ian King/Bloomberg)..."
-    },
     {
       "timestamp": "2026-10-08 17:00:45",
       "message": "[SUCCESS] Processed: \uae00\ub85c\ubc8c\ud30c\uc6b4\ub4dc\ub9ac, TSMC\uc5d0 \uc2e4\ub9ac\ucf58 \uc778\ud130\ud3ec\uc800 \uc0dd\uc0b0 \uc6a9\ub7c9 \uc81c\uacf5 \uc704\ud55c 20\uc5b5 \ub2ec\ub7ec 5\ub144 \uacc4\uc57d \uccb4\uacb0\n  > Summary: \uae00\ub85c\ubc8c\ud30c\uc6b4\ub4dc\ub9ac(GF)\ub294 TSMC\uc5d0 \uc2e4\ub9ac\ucf58 \uc778\ud130\ud3ec\uc800 \uc0dd\uc0b0 \uc6a9\ub7c9\uc744 \uc81c\uacf5\ud558\uae30 \uc704\ud574 20\uc5b5 \ub2ec\ub7ec ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 17:01:29",
       "message": "[PROCESSING] Analyzing: Qnity Develops 330\u00b0C Sealing Material for High-Temperature Chipmaking Processes..."
+    },
+    {
+      "timestamp": "2026-10-08 17:01:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Qnity Develops 330\u00b0C Sealing Material for High-Temperature Chipmaking Processes"
     }
   ]
 }
