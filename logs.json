@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 22:36:48",
+  "last_updated": "2026-10-08 22:36:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 22:35:58",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-10-08 22:36:09",
       "message": "Found 160 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 22:36:48",
       "message": "[PROCESSING] Analyzing: Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business..."
+    },
+    {
+      "timestamp": "2026-10-08 22:36:50",
+      "message": "[SKIP] Irrelevant (AI Filter): Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business"
     }
   ]
 }
