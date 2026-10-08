@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 03:32:57",
+  "last_updated": "2026-10-08 03:32:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 03:32:22",
-      "message": "[PROCESSING] Analyzing: ZEISS Group Appoints Axel Christian as President of ZEISS North America..."
-    },
     {
       "timestamp": "2026-10-08 03:32:24",
       "message": "[SKIP] Irrelevant (AI Filter): ZEISS Group Appoints Axel Christian as President of ZEISS North America"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 03:32:57",
       "message": "Reprocessing: OpenAI publishes 722 AI-generated math discoveries in major scientific milestone"
+    },
+    {
+      "timestamp": "2026-10-08 03:32:58",
+      "message": "[SKIP] Content too short: OpenAI publishes 722 AI-genera..."
     }
   ]
 }
