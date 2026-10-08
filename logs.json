@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 14:44:22",
+  "last_updated": "2026-10-08 14:44:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 14:43:29",
-      "message": "[SUCCESS] Processed: \uad6c\uae00, 740M \ub9e4\uac1c\ubcc0\uc218 EmbeddingGemma 2 \ubaa8\ub378\uacfc Gemma 4 \uc5b4\uc2dc\uc2a4\ud134\ud2b8\ub97c \uc0ac\uc6a9\ud558\ub294 \ud68c\uc758\uc6a9 \ub85c\uceec macOS \uba54\ubaa8\uc7a5 \uc571 Google AI Edge Foresight \ucd9c\uc2dc\n  > Summary: \uad6c\uae00\uc740 \ucd5c\uadfc 740M \ub9e4\uac1c\ubcc0\uc218\uc758 EmbeddingGemma 2 \ubaa8\ub378\uacfc Gemma 4 \uc5b4\uc2dc\uc2a4..."
-    },
     {
       "timestamp": "2026-10-08 14:43:31",
       "message": "[PROCESSING] Analyzing: OpenAI disrupts a Russian influence campaign tied to the Politology network that targeted schools, media, and foreign officials, and gives it a 5/6 impact score (Kevin Collier/NBC News)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 14:44:22",
       "message": "[PROCESSING] Analyzing: Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging..."
+    },
+    {
+      "timestamp": "2026-10-08 14:44:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging"
     }
   ]
 }
