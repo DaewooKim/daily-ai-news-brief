@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 21:29:11",
+  "last_updated": "2026-10-08 21:29:13",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 21:28:27",
-      "message": "Found 159 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-08 21:28:27",
       "message": "[PROCESSING] Analyzing: SpaceX announces plan to become a \u2018major mobile carrier\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 21:29:11",
       "message": "Reprocessing: Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI"
+    },
+    {
+      "timestamp": "2026-10-08 21:29:13",
+      "message": "[SKIP] Content too short: Memory Is The Lynchpin Of The ..."
     }
   ]
 }
