@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 22:40:00",
+  "last_updated": "2026-10-08 22:40:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 22:39:19",
-      "message": "[PROCESSING] Analyzing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance..."
-    },
     {
       "timestamp": "2026-10-08 22:39:22",
       "message": "[SUCCESS] Processed: HPE\uc758 Gen13, CPU-GPU \uade0\ud615\uc73c\ub85c \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \uc804\ud658 \uc2e0\ud638\n  > Summary: HPE\ub294 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ucd94\ub860, \uc5d0\uc774\uc804\ud2f1 AI \ubc0f \uc804\ud1b5\uc801\uc778 \uc791\uc5c5\uc744 \uc704\ud574 AMD Epyc ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 22:40:00",
       "message": "[PROCESSING] Analyzing: Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence (Donald J. Trump/@realDonaldTrump ...)..."
+    },
+    {
+      "timestamp": "2026-10-08 22:40:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence (Donald J. Trump/@realDonaldTrump ...)"
     }
   ]
 }
