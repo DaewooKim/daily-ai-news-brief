@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 21:33:14",
+  "last_updated": "2026-10-08 21:33:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 21:32:31",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News (Mark Gurman/Bloomberg)"
-    },
     {
       "timestamp": "2026-10-08 21:32:33",
       "message": "[PROCESSING] Analyzing: Sources: Firmus is set to postpone its IPO and is weighing a private funding round instead, after some investors suggested its pricing strategy is aggressive (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 21:33:14",
       "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
+    },
+    {
+      "timestamp": "2026-10-08 21:33:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute"
     }
   ]
 }
