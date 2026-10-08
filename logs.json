@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-08 19:13:33",
+  "last_updated": "2026-10-08 19:13:35",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-08 19:12:49",
-      "message": "Found 153 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-08 19:12:49",
       "message": "[PROCESSING] Analyzing: Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-08 19:13:33",
       "message": "[PROCESSING] Analyzing: Are you ready for everything to look like TikTok?..."
+    },
+    {
+      "timestamp": "2026-10-08 19:13:35",
+      "message": "[SKIP] Irrelevant (AI Filter): Are you ready for everything to look like TikTok?"
     }
   ]
 }
