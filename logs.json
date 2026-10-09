@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 09:54:05",
+  "last_updated": "2026-10-09 09:54:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 09:53:28",
-      "message": "[PROCESSING] Analyzing: ZEISS Group Appoints Axel Christian as President of ZEISS North America..."
-    },
     {
       "timestamp": "2026-10-09 09:53:31",
       "message": "[SKIP] Irrelevant (AI Filter): ZEISS Group Appoints Axel Christian as President of ZEISS North America"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 09:54:05",
       "message": "Reprocessing: Anthropic launches critical infrastructure program and free OSS Scanner for open source"
+    },
+    {
+      "timestamp": "2026-10-09 09:54:07",
+      "message": "[SKIP] Content too short: Anthropic launches critical in..."
     }
   ]
 }
