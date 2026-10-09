@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 12:08:01",
+  "last_updated": "2026-10-09 12:08:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 12:07:20",
-      "message": "[PROCESSING] Analyzing: Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)..."
-    },
     {
       "timestamp": "2026-10-09 12:07:22",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 12:08:01",
       "message": "[PROCESSING] Analyzing: Qnity Develops 330\u00b0C Sealing Material for High-Temperature Chipmaking Processes..."
+    },
+    {
+      "timestamp": "2026-10-09 12:08:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Qnity Develops 330\u00b0C Sealing Material for High-Temperature Chipmaking Processes"
     }
   ]
 }
