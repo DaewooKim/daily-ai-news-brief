@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 20:00:00",
+  "last_updated": "2026-10-09 20:00:02",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 19:59:16",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, CPU-GPU \uade0\ud615\uc758 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \uc804\ud658 \uc2e0\ud638\n  > Summary: HPE\ub294 \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \ucd94\ub860, \ub2a5\ub3d9\uc801 AI \ubc0f \uc804\ud1b5\uc801 \uc791\uc5c5\uc744 \uc9c0\uc6d0\ud558\ub294 AMD Epyc ..."
-    },
     {
       "timestamp": "2026-10-09 19:59:17",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 20:00:00",
       "message": "[PROCESSING] Analyzing: Meanwhile, a Sam Altman-backed bitcoin life insurance provider, raised $37.5M led by Bain Capital, sources say at a $350M valuation, up from $190M in April 2025 (Lucinda Shen/Axios)..."
+    },
+    {
+      "timestamp": "2026-10-09 20:00:02",
+      "message": "[SKIP] Irrelevant (AI Filter): Meanwhile, a Sam Altman-backed bitcoin life insurance provider, raised $37.5M led by Bain Capital, sources say at a $350M valuation, up from $190M in April 2025 (Lucinda Shen/Axios)"
     }
   ]
 }
