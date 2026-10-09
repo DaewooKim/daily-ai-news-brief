@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 22:14:05",
+  "last_updated": "2026-10-09 22:14:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 22:13:23",
-      "message": "[PROCESSING] Analyzing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance..."
-    },
     {
       "timestamp": "2026-10-09 22:13:26",
       "message": "[SUCCESS] Processed: HPE\uc758 Gen13, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI CPU-GPU \uade0\ud615 \uc804\ud658 \uc2e0\ud638\n  > Summary: HPE\ub294 AMD Epyc \uae30\ubc18\uc758 ProLiant Gen13 \uc11c\ubc84\ub97c \ucd9c\uc2dc\ud558\uba70 \uc5d4\ud130\ud504\ub77c\uc774\uc988 A..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 22:14:05",
       "message": "[SKIP] Irrelevant (AI Filter): NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)"
+    },
+    {
+      "timestamp": "2026-10-09 22:14:07",
+      "message": "Reprocessing: Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)"
     }
   ]
 }
