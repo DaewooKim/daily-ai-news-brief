@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 00:54:04",
+  "last_updated": "2026-10-09 00:54:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 00:53:26",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI\uc758 CPU-GPU \uade0\ud615 \uc804\ud658 \uc2e0\ud638\n  > Summary: HPE\ub294 \uae30\uc5c5 AI \ucd94\ub860, \uc5d0\uc774\uc804\ud2f1 AI \ubc0f \uc804\ud1b5\uc801\uc778 \uc6cc\ud06c\ub85c\ub4dc\ub97c \uc704\ud574 AMD Epyc \uae30\ubc18..."
-    },
     {
       "timestamp": "2026-10-09 00:53:27",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 00:54:04",
       "message": "[PROCESSING] Analyzing: Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 (Mark Gurman/Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-10-09 00:54:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 (Mark Gurman/Bloomberg)"
     }
   ]
 }
