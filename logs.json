@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 20:00:34",
+  "last_updated": "2026-10-09 20:00:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 19:59:49",
-      "message": "Reprocessing: Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)"
-    },
     {
       "timestamp": "2026-10-09 19:59:50",
       "message": "[PROCESSING] Analyzing: Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 20:00:34",
       "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
+    },
+    {
+      "timestamp": "2026-10-09 20:00:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute"
     }
   ]
 }
