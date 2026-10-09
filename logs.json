@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 18:52:38",
+  "last_updated": "2026-10-09 18:52:42",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 18:51:56",
-      "message": "Reprocessing: Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)"
-    },
     {
       "timestamp": "2026-10-09 18:51:58",
       "message": "[PROCESSING] Analyzing: Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 18:52:38",
       "message": "[PROCESSING] Analyzing: Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications..."
+    },
+    {
+      "timestamp": "2026-10-09 18:52:42",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications"
     }
   ]
 }
