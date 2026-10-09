@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 15:30:36",
+  "last_updated": "2026-10-09 15:30:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 15:29:50",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, CPU-GPU \uade0\ud615\uc73c\ub85c \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI \uc804\ud658 \uc2e0\ud638\n  > Summary: HPE\ub294 \ub2e4\uc591\ud55c AI \uc694\uad6c\ub97c \uac00\uc9c4 \uae30\uc5c5 \uace0\uac1d\uc744 \uaca8\ub0e5\ud558\uc5ec AMD Epyc \uae30\ubc18\uc758 ProLia..."
-    },
     {
       "timestamp": "2026-10-09 15:29:53",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 15:30:36",
       "message": "[PROCESSING] Analyzing: Sources: Netflix is preparing to cut ~5% of employees, or ~850 jobs, as early as next week, amid pressure over weakened engagement and a depressed stock price (Matthew Belloni/Puck)..."
+    },
+    {
+      "timestamp": "2026-10-09 15:30:39",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Netflix is preparing to cut ~5% of employees, or ~850 jobs, as early as next week, amid pressure over weakened engagement and a depressed stock price (Matthew Belloni/Puck)"
     }
   ]
 }
