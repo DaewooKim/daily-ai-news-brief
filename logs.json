@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 12:07:07",
+  "last_updated": "2026-10-09 12:07:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 12:06:25",
-      "message": "Reprocessing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance"
-    },
     {
       "timestamp": "2026-10-09 12:06:26",
       "message": "[PROCESSING] Analyzing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 12:07:07",
       "message": "[PROCESSING] Analyzing: Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)..."
+    },
+    {
+      "timestamp": "2026-10-09 12:07:10",
+      "message": "[SKIP] Irrelevant (AI Filter): Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)"
     }
   ]
 }
