@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-09 18:52:42",
+  "last_updated": "2026-10-09 18:52:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-09 18:51:58",
-      "message": "[PROCESSING] Analyzing: Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)..."
-    },
     {
       "timestamp": "2026-10-09 18:52:02",
       "message": "[SUCCESS] Processed: 2021\ub144\ubd80\ud130 2026\ub144 9\uc6d4\uae4c\uc9c0 9\uac1c\uc758 \uc911\uad6d AI \uc5f0\uad6c\uc18c\uc758 857\uac1c \ub9b4\ub9ac\uc2a4 \ubd84\uc11d: \uac1c\ubc1c\uc790 \uc548\uc804 \uacb0\uacfc\uac00 \ud3ec\ud568\ub41c \ube44\uc728\uc740 3.6%\uc5d0 \ubd88\uacfc\ud558\uba70, \ucd9c\uc2dc \uc2dc\uc5d0\ub294 1.1%\uc5d0 \uadf8\uce68 (SemiAnalysis)\n  > Summary: SemiAnalysis \ubcf4\uace0\uc11c\ub294 2021\ub144\ubd80\ud130 2026\ub144 9\uc6d4\uae4c\uc9c0 9\uac1c\uc758 \uc911\uad6d AI \uc5f0\uad6c\uc18c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-09 18:52:42",
       "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications"
+    },
+    {
+      "timestamp": "2026-10-09 18:52:44",
+      "message": "Reprocessing: Aehr Expands AI Chip Burn-In Capacity with $6M Hyperscaler Order"
     }
   ]
 }
