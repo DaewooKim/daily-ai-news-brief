@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-10-09 16:41:05",
-  "status": "idle",
+  "last_updated": "2026-10-09 17:41:38",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-10-09 16:39:33",
-      "message": "[SKIP] Content too short: Gallatin AI raises $50M in fun..."
+      "timestamp": "2026-10-09 17:41:27",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-10-09 16:39:35",
-      "message": "Reprocessing: Elastic\u2019s AlertZero puts AI agents to work on security alert overload"
+      "timestamp": "2026-10-09 17:41:27",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-10-09 16:39:37",
-      "message": "[SKIP] Content too short: Elastic\u2019s AlertZero puts AI ag..."
+      "timestamp": "2026-10-09 17:41:27",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-10-09 16:39:39",
-      "message": "Reprocessing: Anthropic launches critical infrastructure program and free OSS Scanner for open source"
+      "timestamp": "2026-10-09 17:41:38",
+      "message": "Found 174 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-10-09 16:39:40",
-      "message": "[SKIP] Content too short: Anthropic launches critical in..."
-    },
-    {
-      "timestamp": "2026-10-09 16:39:42",
-      "message": "Reprocessing: Alphabet spinoff Isomorphic Labs reportedly raising funding at up to $50B valuation"
-    },
-    {
-      "timestamp": "2026-10-09 16:39:44",
-      "message": "[SKIP] Content too short: Alphabet spinoff Isomorphic La..."
-    },
-    {
-      "timestamp": "2026-10-09 16:39:46",
-      "message": "Reprocessing: CoreWeave Forge aims to speed up the AI improvement loop"
-    },
-    {
-      "timestamp": "2026-10-09 16:39:47",
-      "message": "[SKIP] Content too short: CoreWeave Forge aims to speed ..."
-    },
-    {
-      "timestamp": "2026-10-09 16:39:49",
-      "message": "Reprocessing: AI agent developer Manus raises $500M+ at reported $4B valuation"
-    },
-    {
-      "timestamp": "2026-10-09 16:39:51",
-      "message": "[SKIP] Content too short: AI agent developer Manus raise..."
-    },
-    {
-      "timestamp": "2026-10-09 16:39:53",
-      "message": "Reprocessing: CoreWeave makes the case for an open, full-stack AI cloud"
-    },
-    {
-      "timestamp": "2026-10-09 16:39:54",
-      "message": "[SKIP] Content too short: CoreWeave makes the case for a..."
-    },
-    {
-      "timestamp": "2026-10-09 16:39:56",
-      "message": "Reprocessing: Automation Anywhere acquires Boost.ai to expand customer-facing voice AI"
-    },
-    {
-      "timestamp": "2026-10-09 16:39:58",
-      "message": "[SKIP] Content too short: Automation Anywhere acquires B..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:00",
-      "message": "Reprocessing: Liquid AI builds personal AI around device-level context"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:01",
-      "message": "[SKIP] Content too short: Liquid AI builds personal AI a..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:02",
-      "message": "Reprocessing: Willow taps CoreWeave to simplify AI model training"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:04",
-      "message": "[SKIP] Content too short: Willow taps CoreWeave to simpl..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:06",
-      "message": "Reprocessing: Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:08",
-      "message": "[SKIP] Content too short: Oratomic raises $475M for neut..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:09",
-      "message": "Reprocessing: Docusign adds a desktop PDF editor to its Intelligent Agreement Management platform"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:11",
-      "message": "[SKIP] Content too short: Docusign adds a desktop PDF ed..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:13",
-      "message": "Reprocessing: Harness acquires Augment Code to bridge software engineering from idea to deployment"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:15",
-      "message": "[SKIP] Content too short: Harness acquires Augment Code ..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:17",
-      "message": "Reprocessing: Darwinium launches two intent intelligence capabilities to catch fraud by AI agents"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:18",
-      "message": "[SKIP] Content too short: Darwinium launches two intent ..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:21",
-      "message": "Reprocessing: Rein Security raises $25M to rein in insecure AI agents"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:23",
-      "message": "[SKIP] Content too short: Rein Security raises $25M to r..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:24",
-      "message": "Reprocessing: Google Cloud introduces Gemini agent to change enterprise work"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:26",
-      "message": "[SKIP] Content too short: Google Cloud introduces Gemini..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:28",
-      "message": "Reprocessing: US venture deal value reaches record $515.8B as exits fail to keep pace"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:30",
-      "message": "[SKIP] Content too short: US venture deal value reaches ..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:32",
-      "message": "Reprocessing: Google debuts SynthID Detector tool for flagging AI-generated content, but it\u2019s far from perfect"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:33",
-      "message": "[SKIP] Content too short: Google debuts SynthID Detector..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:35",
-      "message": "Reprocessing: At WebexOne, Cisco\u2019s Jeetu Patel argues the agent era will be won on context, cost and control"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:37",
-      "message": "[SKIP] Content too short: At WebexOne, Cisco\u2019s Jeetu Pat..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:39",
-      "message": "Reprocessing: Samsung forecasts world record-breaking $80B profit"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:41",
-      "message": "[SKIP] Content too short: Samsung forecasts world record..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:42",
-      "message": "Reprocessing: With GPT-6, ChatGPT\u2019s responses are much more visually appealing and interactive"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:44",
-      "message": "[SKIP] Content too short: With GPT-6, ChatGPT\u2019s response..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:45",
-      "message": "Reprocessing: Nvidia, Samsung back $90M round for AI agent startup Nous Research"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:47",
-      "message": "[SKIP] Content too short: Nvidia, Samsung back $90M roun..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:49",
-      "message": "Reprocessing: US government, tech giants and Biohub commit $1.8B to AI biology initiative"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:51",
-      "message": "[SKIP] Content too short: US government, tech giants and..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:52",
-      "message": "Reprocessing: Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices"
-    },
-    {
-      "timestamp": "2026-10-09 16:40:54",
-      "message": "[SKIP] Content too short: Anthropic releases Claude Haik..."
-    },
-    {
-      "timestamp": "2026-10-09 16:40:56",
-      "message": "Completed! New: 2, Updated: 51"
-    },
-    {
-      "timestamp": "2026-10-09 16:41:00",
-      "message": "Saved 53 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-10-09 16:41:03",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-10-09 17:41:38",
+      "message": "[PROCESSING] Analyzing: The Samsung Galaxy S26 Ultra is down to $950 after Prime Day..."
     }
   ]
 }
