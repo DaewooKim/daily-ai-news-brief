@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-10 07:09:14",
+  "last_updated": "2026-10-10 07:09:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-10 07:08:35",
-      "message": "[SUCCESS] Processed: \ud074\ub77c\uc6b0\ub4dc\ud50c\ub808\uc5b4, Node.js \ucc3d\ub9bd\uc790 \ub77c\uc774\uc5b8 \ub2ec\uc774 \uacf5\ub3d9 \uc124\ub9bd\ud55c Deno \uc778\uc218\n  > Summary: \ud074\ub77c\uc6b0\ub4dc\ud50c\ub808\uc5b4\uac00 Node.js \ucc3d\ub9bd\uc790 \ub77c\uc774\uc5b8 \ub2ec\uc774 \uacf5\ub3d9 \uc124\ub9bd\ud55c \uc2a4\ud0c0\ud2b8\uc5c5 Deno\ub97c \uc778\uc218\ud588\uc2b5..."
-    },
     {
       "timestamp": "2026-10-10 07:08:37",
       "message": "[PROCESSING] Analyzing: In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation (Brian Krebs/Krebs on Security)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-10 07:09:14",
       "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
+    },
+    {
+      "timestamp": "2026-10-10 07:09:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute"
     }
   ]
 }
