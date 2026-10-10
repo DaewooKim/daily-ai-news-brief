@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-10 22:32:50",
+  "last_updated": "2026-10-10 22:32:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-10 22:32:11",
-      "message": "Found 170 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-10 22:32:11",
       "message": "[PROCESSING] Analyzing: Satya Nadella says we should assume all AI models are \u2018compromised\u2019..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-10 22:32:50",
       "message": "Reprocessing: Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI"
+    },
+    {
+      "timestamp": "2026-10-10 22:32:52",
+      "message": "[SKIP] Content too short: Memory Is The Lynchpin Of The ..."
     }
   ]
 }
