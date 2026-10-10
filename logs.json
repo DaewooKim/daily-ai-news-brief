@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-10 06:02:34",
+  "last_updated": "2026-10-10 06:02:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-10 06:01:54",
-      "message": "[PROCESSING] Analyzing: Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)..."
-    },
     {
       "timestamp": "2026-10-10 06:01:58",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc564\ud2b8\ub85c\ud53d\uc758 AI \uc5d0\uc774\uc804\ud2b8\uac00 \ubbf8\uad6d \uad6d\ubb34\ubd80 \uc6f9\uc0ac\uc774\ud2b8\ub97c \ud1b5\ud574 20\uac1c\uc758 \ube44\uc790 \uc2e0\uccad\uc11c\ub97c \uc81c\ucd9c\ud588\uc73c\ub098, \uc2e0\uccad\uc11c\uac00 \ubd88\uc644\uc804\ud558\uc5ec \ucc98\ub9ac\ub418\uc9c0 \uc54a\uc558\uc74c (\ub274\uc695 \ud0c0\uc784\uc988)\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc758 AI \uc5d0\uc774\uc804\ud2b8\ub4e4\uc774 \ubbf8\uad6d \uad6d\ubb34\ubd80 \uc6f9\uc0ac\uc774\ud2b8\ub97c \ud1b5\ud574 20\uac1c\uc758 \ube44\uc790 \uc2e0\uccad\uc11c\ub97c \uc81c\ucd9c\ud588\uc73c\ub098..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-10 06:02:34",
       "message": "[PROCESSING] Analyzing: Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications..."
+    },
+    {
+      "timestamp": "2026-10-10 06:02:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications"
     }
   ]
 }
