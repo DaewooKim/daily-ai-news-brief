@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-10 11:32:10",
+  "last_updated": "2026-10-10 11:32:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-10 11:31:32",
-      "message": "Found 181 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-10 11:31:32",
       "message": "[PROCESSING] Analyzing: The Telo MT1 is a big truck trapped in a tiny truck\u2019s body..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-10 11:32:10",
       "message": "Reprocessing: Dell Adds Data Context, Prep, And Storage Features To Its AI Data Platform"
+    },
+    {
+      "timestamp": "2026-10-10 11:32:12",
+      "message": "[SKIP] Content too short: Dell Adds Data Context, Prep, ..."
     }
   ]
 }
