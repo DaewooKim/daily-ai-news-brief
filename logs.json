@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-11 14:59:33",
+  "last_updated": "2026-10-11 14:59:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-11 14:58:55",
-      "message": "[SUCCESS] Processed: PitchBook: \ub85c\ubcf4\ud2f1\uc2a4 \ubc0f \ubb3c\ub9ac\uc801 AI \uae30\uc5c5\ub4e4\uc774 \uc57d 480\uc5b5 \ub2ec\ub7ec\ub97c \ubaa8\uc9d1\ud588\ub2e4\n  > Summary: Financial Times\uc5d0 \ub530\ub974\uba74, PitchBook\uc758 \ubcf4\uace0\uc11c\uc5d0 \ub530\ub974\uba74 \ub85c\ubcf4\ud2f1\uc2a4 \ubc0f \ubb3c..."
-    },
     {
       "timestamp": "2026-10-11 14:58:56",
       "message": "Reprocessing: Multiply Labs, which develops robotic systems to automate pharmaceutical manufacturing processes, raised a $75M Series B led by Patrick Soon-Shiong's NantWorks (Maria Deutscher/SiliconANGLE)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-11 14:59:33",
       "message": "[PROCESSING] Analyzing: Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications..."
+    },
+    {
+      "timestamp": "2026-10-11 14:59:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications"
     }
   ]
 }
