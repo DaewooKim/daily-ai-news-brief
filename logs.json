@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-11 02:58:07",
+  "last_updated": "2026-10-11 02:58:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-11 02:57:32",
-      "message": "[SUCCESS] Processed: HPE\uc758 Gen13, \uc5d4\ud130\ud504\ub77c\uc774\uc988 AI CPU-GPU \uade0\ud615 \uc2e0\ud638\n  > Summary: HPE\ub294 AMD Epyc \uae30\ubc18\uc758 ProLiant Gen13 \uc11c\ubc84\ub97c \ucd9c\uc2dc\ud558\uc5ec \uc5d4\ud130\ud504\ub77c\uc774\uc988 A..."
-    },
     {
       "timestamp": "2026-10-11 02:57:33",
       "message": "[PROCESSING] Analyzing: EMEA Data Center Expansion Faces a Delivery Test..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-11 02:58:07",
       "message": "[PROCESSING] Analyzing: From Process Learning To Production Control: Trends In Advanced Packaging And Implications To Characterization And Test..."
+    },
+    {
+      "timestamp": "2026-10-11 02:58:10",
+      "message": "[SKIP] Irrelevant (AI Filter): From Process Learning To Production Control: Trends In Advanced Packaging And Implications To Characterization And Test"
     }
   ]
 }
