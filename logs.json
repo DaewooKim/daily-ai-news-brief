@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-11 23:43:28",
+  "last_updated": "2026-10-11 23:43:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-11 23:42:50",
-      "message": "Reprocessing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance"
-    },
     {
       "timestamp": "2026-10-11 23:42:51",
       "message": "[PROCESSING] Analyzing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-11 23:43:28",
       "message": "[PROCESSING] Analyzing: Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium..."
+    },
+    {
+      "timestamp": "2026-10-11 23:43:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium"
     }
   ]
 }
