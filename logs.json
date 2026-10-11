@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-11 05:09:19",
+  "last_updated": "2026-10-11 05:09:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-11 05:08:40",
-      "message": "Reprocessing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance"
-    },
     {
       "timestamp": "2026-10-11 05:08:41",
       "message": "[PROCESSING] Analyzing: HPE\u2019s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-11 05:09:19",
       "message": "[PROCESSING] Analyzing: Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)..."
+    },
+    {
+      "timestamp": "2026-10-11 05:09:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)"
     }
   ]
 }
