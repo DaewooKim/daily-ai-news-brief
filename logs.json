@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-11 21:30:46",
+  "last_updated": "2026-10-11 21:30:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-11 21:30:07",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-11 21:30:07",
       "message": "[PROCESSING] Analyzing: A college in Illinois tried to cancel its Flock contact and it refused..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-11 21:30:46",
       "message": "Reprocessing: Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI"
+    },
+    {
+      "timestamp": "2026-10-11 21:30:47",
+      "message": "[SKIP] Content too short: Memory Is The Lynchpin Of The ..."
     }
   ]
 }
