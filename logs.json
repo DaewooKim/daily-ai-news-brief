@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 18:25:21",
+  "last_updated": "2026-10-12 18:25:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 18:24:36",
-      "message": "[PROCESSING] Analyzing: WindBorne wins a hefty US Air Force contract for its balloon data..."
-    },
     {
       "timestamp": "2026-10-12 18:24:39",
       "message": "[SUCCESS] Processed: WindBorne, \ubbf8\uad6d \uacf5\uad70 \uacc4\uc57d \ud68d\ub4dd\n  > Summary: \uc2e4\ub9ac\ucf58 \ubc38\ub9ac \uc2a4\ud0c0\ud2b8\uc5c5 WindBorne\uac00 \ub0a0\uc528 \uc608\uce21\uc744 \uc704\ud574 \uae30\uc0c1 \ud48d\uc120\uacfc AI\ub97c \uc0ac\uc6a9\ud558\ub294 \uae30..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 18:25:21",
       "message": "[PROCESSING] Analyzing: Xanadu Builds Out Canadian Quantum Infrastructure..."
+    },
+    {
+      "timestamp": "2026-10-12 18:25:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Xanadu Builds Out Canadian Quantum Infrastructure"
     }
   ]
 }
