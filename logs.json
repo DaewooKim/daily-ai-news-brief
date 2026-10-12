@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 19:32:17",
+  "last_updated": "2026-10-12 19:32:19",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 19:31:36",
-      "message": "[PROCESSING] Analyzing: Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50\u00b0C for roughly six hours (Bloomberg)..."
-    },
     {
       "timestamp": "2026-10-12 19:31:38",
       "message": "[SKIP] Irrelevant (AI Filter): Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50\u00b0C for roughly six hours (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 19:32:17",
       "message": "[PROCESSING] Analyzing: Microchip Adds Parallel Sensing to Touch Controllers..."
+    },
+    {
+      "timestamp": "2026-10-12 19:32:19",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Adds Parallel Sensing to Touch Controllers"
     }
   ]
 }
