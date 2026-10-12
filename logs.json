@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 06:17:05",
+  "last_updated": "2026-10-12 06:17:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 06:16:24",
-      "message": "[PROCESSING] Analyzing: An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)..."
-    },
     {
       "timestamp": "2026-10-12 06:16:29",
       "message": "[SUCCESS] Processed: \uc804 \ub525\ub9c8\uc778\ub4dc \uacfc\ud559\uc790 \ub370\uc774\ube44\ub4dc \uc2e4\ubc84\uc640\uc758 \uc778\ud130\ubdf0: LLM\uc5d0 \ub300\ud55c \ub300\uc548\uc73c\ub85c RL\uc744 \ud65c\uc6a9\ud558\uc5ec AI '\uc288\ud37c \ud559\uc2b5\uae30'\ub97c \uad6c\ucd95\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 Ineffable\n  > Summary: \uc804 \ub525\ub9c8\uc778\ub4dc \uacfc\ud559\uc790 \ub370\uc774\ube44\ub4dc \uc2e4\ubc84\uac00 \uadf8\uc758 \uc2a4\ud0c0\ud2b8\uc5c5 Ineffable\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ud558\ub294 \uc778\ud130..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 06:17:05",
       "message": "[PROCESSING] Analyzing: Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium..."
+    },
+    {
+      "timestamp": "2026-10-12 06:17:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium"
     }
   ]
 }
