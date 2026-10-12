@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 06:19:21",
+  "last_updated": "2026-10-12 06:19:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 06:18:47",
-      "message": "[SKIP] Content too short: CoreWeave targets AI inference..."
-    },
     {
       "timestamp": "2026-10-12 06:18:48",
       "message": "Reprocessing: White House bars Microsoft from sponsoring green card applications as JD Vance accuses it of fraud"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 06:19:21",
       "message": "[PROCESSING] Analyzing: SPECviewperf 15.0.1 Linux Edition Released: Linux\u2019s Key Graphics Benchmark Adds Arm Support..."
+    },
+    {
+      "timestamp": "2026-10-12 06:19:23",
+      "message": "[SKIP] Irrelevant (AI Filter): SPECviewperf 15.0.1 Linux Edition Released: Linux\u2019s Key Graphics Benchmark Adds Arm Support"
     }
   ]
 }
