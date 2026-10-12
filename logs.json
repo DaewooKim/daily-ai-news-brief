@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 12:54:50",
+  "last_updated": "2026-10-12 12:54:52",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 12:54:05",
-      "message": "Reprocessing: Startup Funding: Q3 2026"
-    },
     {
       "timestamp": "2026-10-12 12:54:07",
       "message": "[PROCESSING] Analyzing: Startup Funding: Q3 2026..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 12:54:50",
       "message": "[PROCESSING] Analyzing: Qorvo Introduces X-Band RFFE Targeting AESA Radar Designs..."
+    },
+    {
+      "timestamp": "2026-10-12 12:54:52",
+      "message": "[SKIP] Irrelevant (AI Filter): Qorvo Introduces X-Band RFFE Targeting AESA Radar Designs"
     }
   ]
 }
