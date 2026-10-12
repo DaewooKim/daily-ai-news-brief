@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 18:24:06",
+  "last_updated": "2026-10-12 18:24:08",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 18:23:22",
-      "message": "Found 135 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-12 18:23:22",
       "message": "[PROCESSING] Analyzing: Elon Musk has donated over $276 million to Republican midterm efforts..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 18:24:06",
       "message": "Reprocessing: Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI"
+    },
+    {
+      "timestamp": "2026-10-12 18:24:08",
+      "message": "[SKIP] Content too short: Memory Is The Lynchpin Of The ..."
     }
   ]
 }
