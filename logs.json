@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 15:08:04",
+  "last_updated": "2026-10-12 15:08:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 15:07:19",
-      "message": "Reprocessing: Sources: DeepSeek agrees to lead robotic AI startup Winverse AI's seed funding round of tens of millions of dollars, valuing the startup at ~$400M post-money (Bloomberg)"
-    },
     {
       "timestamp": "2026-10-12 15:07:20",
       "message": "[PROCESSING] Analyzing: Sources: DeepSeek agrees to lead robotic AI startup Winverse AI's seed funding round of tens of millions of dollars, valuing the startup at ~$400M post-money (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 15:08:04",
       "message": "[PROCESSING] Analyzing: Microchip Adds Parallel Sensing to Touch Controllers..."
+    },
+    {
+      "timestamp": "2026-10-12 15:08:06",
+      "message": "[SKIP] Irrelevant (AI Filter): Microchip Adds Parallel Sensing to Touch Controllers"
     }
   ]
 }
