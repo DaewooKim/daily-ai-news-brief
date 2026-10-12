@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 19:32:02",
+  "last_updated": "2026-10-12 19:32:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 19:31:22",
-      "message": "[SUCCESS] Processed: \ubc84\uc9c0\ub2c8\uc544, AI \ub370\uc774\ud130 \uc13c\ud130 \uc900\ube44 \uc21c\uc704 1\uc704 \ucc28\uc9c0 - \uc18c\uaddc\ubaa8 \uc2dc\uc7a5\uc774 \uc131\uc7a5\ud558\ub2e4\n  > Summary: TRG \ub370\uc774\ud130\uc13c\ud130\uc758 2026\ub144 8\uc6d4 \uc21c\uc704\uc5d0\uc11c \ubc84\uc9c0\ub2c8\uc544\uac00 1\uc704\ub97c \ucc28\uc9c0\ud588\uc2b5\ub2c8\ub2e4. \uc804\ub825 \uacf5\uae09\uc774 ..."
-    },
     {
       "timestamp": "2026-10-12 19:31:23",
       "message": "[PROCESSING] Analyzing: Permits, Not Power, Halt Google\u2019s Finland Data Centers..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 19:32:02",
       "message": "[PROCESSING] Analyzing: Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium..."
+    },
+    {
+      "timestamp": "2026-10-12 19:32:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium"
     }
   ]
 }
