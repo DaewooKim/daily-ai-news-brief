@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-12 08:29:11",
+  "last_updated": "2026-10-12 08:29:14",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-12 08:28:26",
-      "message": "[PROCESSING] Analyzing: Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)..."
-    },
     {
       "timestamp": "2026-10-12 08:28:28",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-12 08:29:11",
       "message": "[PROCESSING] Analyzing: Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute..."
+    },
+    {
+      "timestamp": "2026-10-12 08:29:14",
+      "message": "[SKIP] Irrelevant (AI Filter): Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute"
     }
   ]
 }
