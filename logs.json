@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 21:03:31",
+  "last_updated": "2026-10-13 21:03:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 21:02:44",
-      "message": "[SUCCESS] Processed: \uc5d0\uc774\uc804\ud2f1 AI, RTL \ud30c\ud615 \ubd84\uc11d \ubc0f \ub514\ubc84\uae45 \uc790\ub3d9\ud654 (\uceec\ub7fc\ube44\uc544, \uad6c\uae00)\n  > Summary: \uceec\ub7fc\ube44\uc544 \ub300\ud559\uad50\uc640 \uad6c\uae00 \ub525\ub9c8\uc778\ub4dc, \uad6c\uae00 \uc5f0\uad6c\uc790\ub4e4\uc774 '\uc5d0\uc774\uc804\ud2f1 \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c EDA \uc778\ud504\ub77c ..."
-    },
     {
       "timestamp": "2026-10-13 21:02:46",
       "message": "[PROCESSING] Analyzing: Carbon-Dot Interface Enables Ultrathin High-\u03ba Dielectrics on 2D Semiconductors (UIUC, NETL, Argonne, Monash)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 21:03:31",
       "message": "[PROCESSING] Analyzing: White Knight Introduces Compact Inline Heaters for Semiconductor Processing..."
+    },
+    {
+      "timestamp": "2026-10-13 21:03:34",
+      "message": "[SKIP] Irrelevant (AI Filter): White Knight Introduces Compact Inline Heaters for Semiconductor Processing"
     }
   ]
 }
