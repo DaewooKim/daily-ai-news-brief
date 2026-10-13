@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 06:30:35",
+  "last_updated": "2026-10-13 06:30:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 06:29:54",
-      "message": "Reprocessing: Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B (Nikkei Asia)"
-    },
     {
       "timestamp": "2026-10-13 06:29:55",
       "message": "[PROCESSING] Analyzing: Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B (Nikkei Asia)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 06:30:35",
       "message": "[PROCESSING] Analyzing: White Knight Introduces Compact Inline Heaters for Semiconductor Processing..."
+    },
+    {
+      "timestamp": "2026-10-13 06:30:38",
+      "message": "[SKIP] Irrelevant (AI Filter): White Knight Introduces Compact Inline Heaters for Semiconductor Processing"
     }
   ]
 }
