@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 17:42:14",
+  "last_updated": "2026-10-13 17:42:17",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 17:41:28",
-      "message": "[PROCESSING] Analyzing: Bumble says Ithaca Holdings will pay $6.05 per share, a 138% premium to Bumble's Friday close; BMBL jumps 56% to $5.94, after a 50% jump Monday on sale reports (Bloomberg)..."
-    },
     {
       "timestamp": "2026-10-13 17:41:31",
       "message": "[SKIP] Irrelevant (AI Filter): Bumble says Ithaca Holdings will pay $6.05 per share, a 138% premium to Bumble's Friday close; BMBL jumps 56% to $5.94, after a 50% jump Monday on sale reports (Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 17:42:14",
       "message": "[PROCESSING] Analyzing: White Knight Introduces Compact Inline Heaters for Semiconductor Processing..."
+    },
+    {
+      "timestamp": "2026-10-13 17:42:17",
+      "message": "[SKIP] Irrelevant (AI Filter): White Knight Introduces Compact Inline Heaters for Semiconductor Processing"
     }
   ]
 }
