@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 04:19:36",
+  "last_updated": "2026-10-13 04:19:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 04:18:59",
-      "message": "[PROCESSING] Analyzing: SEMI and Semiconductor Digest Announce 2026 Best of West Award Finalists..."
-    },
     {
       "timestamp": "2026-10-13 04:19:02",
       "message": "[SUCCESS] Processed: SEMI\uc640 Semiconductor Digest, 2026 Best of West \uc0c1 \ud6c4\ubcf4 \ubc1c\ud45c\n  > Summary: SEMI\uc640 Semiconductor Digest\uac00 2026\ub144 SEMICON West\uc5d0\uc11c \ubc1c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 04:19:36",
       "message": "Reprocessing: Dell and Intel weigh the costs of enterprise AI scalability"
+    },
+    {
+      "timestamp": "2026-10-13 04:19:38",
+      "message": "[SKIP] Content too short: Dell and Intel weigh the costs..."
     }
   ]
 }
