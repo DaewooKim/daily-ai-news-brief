@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 03:12:44",
+  "last_updated": "2026-10-13 03:12:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 03:12:04",
-      "message": "[SUCCESS] Processed: \ub9c8\ud06c \uc800\ucee4\ubc84\uadf8\uc640 \uc54c\ub809\uc0b0\ub354 \uc655\uc758 \ubba4\uc988 \uc571, \ubba4\uc988 \uc6d0\ub354, 1000\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 AI \ud22c\uc790 \ub9ac\uc2a4\ud06c, \uba54\ud0c0 AI \ud300 \uc7ac\ud3b8\uc131, \uc5d0\uc774\uc804\ud2f1 \uc0c1\uc5c5 \ub4f1\uc5d0 \uad00\ud55c Q&A\n  > Summary: \uba54\ud0c0\uc758 AI \uc778\ud504\ub77c\uac00 5\uae30\uac00\uc640\ud2b8\ub97c \ucd08\uacfc\ud568\uc5d0 \ub530\ub77c, \ub9c8\ud06c \uc800\ucee4\ubc84\uadf8\uc640 \uc54c\ub809\uc0b0\ub354 \uc655\uc774 \ubba4\uc988 \uc571\uacfc..."
-    },
     {
       "timestamp": "2026-10-13 03:12:06",
       "message": "Reprocessing: Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 03:12:44",
       "message": "[PROCESSING] Analyzing: White Knight Introduces Compact Inline Heaters for Semiconductor Processing..."
+    },
+    {
+      "timestamp": "2026-10-13 03:12:46",
+      "message": "[SKIP] Irrelevant (AI Filter): White Knight Introduces Compact Inline Heaters for Semiconductor Processing"
     }
   ]
 }
