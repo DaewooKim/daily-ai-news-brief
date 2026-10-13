@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 08:43:31",
+  "last_updated": "2026-10-13 08:43:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 08:42:48",
-      "message": "Reprocessing: IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)"
-    },
     {
       "timestamp": "2026-10-13 08:42:50",
       "message": "[PROCESSING] Analyzing: IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 08:43:31",
       "message": "[PROCESSING] Analyzing: ERS Introduces Automated 310mm Panel-Level Packaging System..."
+    },
+    {
+      "timestamp": "2026-10-13 08:43:34",
+      "message": "[SKIP] Irrelevant (AI Filter): ERS Introduces Automated 310mm Panel-Level Packaging System"
     }
   ]
 }
