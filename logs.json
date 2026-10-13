@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 09:49:50",
+  "last_updated": "2026-10-13 09:49:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 09:49:04",
-      "message": "[PROCESSING] Analyzing: CXMT says it plans to launch a 4F\u00b2 design DRAM chip for data center servers before the end of 2026, achieving a breakthrough that rivals have pursued for years (Bloomberg)..."
-    },
     {
       "timestamp": "2026-10-13 09:49:07",
       "message": "[SUCCESS] Processed: CXMT, 2026\ub144 \ub9d0\uae4c\uc9c0 \ub370\uc774\ud130 \uc13c\ud130 \uc11c\ubc84\uc6a9 4F\u00b2 \uc124\uacc4 DRAM \uce69 \ucd9c\uc2dc \uacc4\ud68d \ubc1c\ud45c\n  > Summary: CXMT\ub294 2026\ub144 \ub9d0\uae4c\uc9c0 \ub370\uc774\ud130 \uc13c\ud130 \uc11c\ubc84\uc6a9 4F\u00b2 \uc124\uacc4 DRAM \uce69\uc744 \ucd9c\uc2dc\ud560 \uacc4\ud68d\uc774\ub77c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 09:49:50",
       "message": "[PROCESSING] Analyzing: Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)..."
+    },
+    {
+      "timestamp": "2026-10-13 09:49:53",
+      "message": "[SKIP] Irrelevant (AI Filter): Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)"
     }
   ]
 }
