@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 23:16:31",
+  "last_updated": "2026-10-13 23:16:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 23:15:50",
-      "message": "Reprocessing: OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)"
-    },
     {
       "timestamp": "2026-10-13 23:15:51",
       "message": "[PROCESSING] Analyzing: OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 23:16:31",
       "message": "[PROCESSING] Analyzing: Semiconductor Sustainability Needs a  Whole-Fab View, Not a Point-of-Use Fix..."
+    },
+    {
+      "timestamp": "2026-10-13 23:16:34",
+      "message": "[SKIP] Irrelevant (AI Filter): Semiconductor Sustainability Needs a  Whole-Fab View, Not a Point-of-Use Fix"
     }
   ]
 }
