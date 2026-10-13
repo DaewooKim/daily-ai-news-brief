@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 17:39:28",
+  "last_updated": "2026-10-13 17:39:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 17:38:36",
-      "message": "Found 141 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-13 17:38:36",
       "message": "[PROCESSING] Analyzing: The Xteink X4 Pro is a great, tiny e-reader, and it\u2019s cheaper than ever..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 17:39:28",
       "message": "Reprocessing: Upscale AI Partners With Nvidia While Competing With It"
+    },
+    {
+      "timestamp": "2026-10-13 17:39:30",
+      "message": "[SKIP] Content too short: Upscale AI Partners With Nvidi..."
     }
   ]
 }
