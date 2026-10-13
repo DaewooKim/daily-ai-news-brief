@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 19:55:47",
+  "last_updated": "2026-10-13 19:55:49",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 19:54:57",
-      "message": "[PROCESSING] Analyzing: Sources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June (Stephanie Palazzolo/The Information)..."
-    },
     {
       "timestamp": "2026-10-13 19:55:01",
       "message": "[SUCCESS] Processed: \ucd9c\ucc98: \uc790\uc728\uc8fc\ud589 \uc2dc\ubbac\ub808\uc774\uc158 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc81c\uc791\uc0ac Applied Intuition, 6\uc6d4 150\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 300\uc5b5 \ub2ec\ub7ec \uc774\uc0c1\uc758 \uac00\uce58\ub97c \ud3c9\uac00\ubc1b\ub294 \ud22c\uc790 \uc81c\uc548 \ubc1b\uc544\n  > Summary: \uc790\uc728\uc8fc\ud589 \uc2dc\ubbac\ub808\uc774\uc158 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud68c\uc0ac\uc778 Applied Intuition\uc774 \ucd5c\uadfc 300\uc5b5 \ub2ec\ub7ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 19:55:47",
       "message": "[PROCESSING] Analyzing: Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)..."
+    },
+    {
+      "timestamp": "2026-10-13 19:55:49",
+      "message": "[SKIP] Irrelevant (AI Filter): Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)"
     }
   ]
 }
