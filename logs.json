@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 02:08:05",
+  "last_updated": "2026-10-13 02:08:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 02:07:28",
-      "message": "[PROCESSING] Analyzing: SEMI and Semiconductor Digest Announce 2026 Best of West Award Finalists..."
-    },
     {
       "timestamp": "2026-10-13 02:07:31",
       "message": "[SUCCESS] Processed: SEMI\uc640 Semiconductor Digest\uac00 2026 \ubca0\uc2a4\ud2b8 \uc624\ube0c \uc6e8\uc2a4\ud2b8 \uc0c1 \ucd5c\uc885 \ud6c4\ubcf4\ub97c \ubc1c\ud45c\ud558\ub2e4\n  > Summary: SEMI\uc640 Semiconductor Digest\ub294 2026\ub144 SEMICON West\uc5d0\uc11c \ubc1c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 02:08:05",
       "message": "[SKIP] Content too short: Dell and Intel weigh the costs..."
+    },
+    {
+      "timestamp": "2026-10-13 02:08:06",
+      "message": "Reprocessing: Microsoft debuts multichiplet Maia 300 inference accelerator"
     }
   ]
 }
