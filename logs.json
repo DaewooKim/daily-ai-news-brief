@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 05:24:26",
+  "last_updated": "2026-10-13 05:24:28",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 05:23:44",
-      "message": "[PROCESSING] Analyzing: IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)..."
-    },
     {
       "timestamp": "2026-10-13 05:23:47",
       "message": "[SUCCESS] Processed: IDC: \uc5d4\ube44\ub514\uc544\uc758 AI \uce69 \ucd9c\ud558\ub7c9, \ubbf8\uad6d \uc218\ucd9c \uaddc\uc81c\uc640 \uad6d\ub0b4 \uacbd\uc7c1 \uc2ec\ud654 \uc18d\uc5d0 2026\ub144 \uc0c1\ubc18\uae30 \uc911\uad6d\uc5d0\uc11c 44% \uac10\uc18c\n  > Summary: 2026\ub144 \uc0c1\ubc18\uae30\uc5d0 \uc5d4\ube44\ub514\uc544\uc758 AI \uce69 \ucd9c\ud558\ub7c9\uc740 \uc9c0\ub09c\ud574 \ub300\ube44 44% \uac10\uc18c\ud558\uc5ec 678,000..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 05:24:26",
       "message": "[PROCESSING] Analyzing: Demonstrating Plasma As A Viable Alternative To KOH For LCP Metallization Applications..."
+    },
+    {
+      "timestamp": "2026-10-13 05:24:28",
+      "message": "[SKIP] Irrelevant (AI Filter): Demonstrating Plasma As A Viable Alternative To KOH For LCP Metallization Applications"
     }
   ]
 }
