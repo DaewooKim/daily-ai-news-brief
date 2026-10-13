@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 09:50:20",
+  "last_updated": "2026-10-13 09:50:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 09:49:34",
-      "message": "[PROCESSING] Analyzing: Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)..."
-    },
     {
       "timestamp": "2026-10-13 09:49:38",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: JPMorgan\uacfc Goldman, AI \uc2a4\ud0c0\ud2b8\uc5c5 Volta\ub97c \uc704\ud55c \uc57d 11%\uc758 \uc218\uc775\ub960\ub85c 50\uc5b5 \ub2ec\ub7ec \ub300\ucd9c \ud310\ub9e4\ub97c \uc8fc\ub3c4\ud558\uba70 13\uc5b5 \ub2ec\ub7ec\uc758 \uc778\uc218\ub85c \ub178\ucd9c\uc744 \uc81c\ud55c\ud558\ub294 \uc774\ub840\uc801\uc778 \uc870\uce58\ub97c \ucde8\ud558\ub2e4\n  > Summary: JPMorgan\uc640 Goldman Sachs\uac00 AI \uc2a4\ud0c0\ud2b8\uc5c5 Volta\ub97c \uc704\ud55c 50\uc5b5 \ub2ec\ub7ec\uc758..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 09:50:20",
       "message": "[PROCESSING] Analyzing: ERS Introduces Automated 310mm Panel-Level Packaging System..."
+    },
+    {
+      "timestamp": "2026-10-13 09:50:22",
+      "message": "[SKIP] Irrelevant (AI Filter): ERS Introduces Automated 310mm Panel-Level Packaging System"
     }
   ]
 }
