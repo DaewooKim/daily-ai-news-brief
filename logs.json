@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 16:33:09",
+  "last_updated": "2026-10-13 16:33:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 16:32:18",
-      "message": "[SUCCESS] Processed: \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \ub370\uc774\ud130 \ubd84\uc11d \uc5d0\uc774\uc804\ud2b8 \uad6c\ucd95: KDD \ucef5\uc5d0\uc11c \uc5bb\uc740 \uad50\ud6c8\n  > Summary: NVIDIA KGMON \ud300\uc740 KDD \ucef5 2026 \ub370\uc774\ud130 \uc5d0\uc774\uc804\ud2b8 \ub300\ud68c\uc5d0\uc11c \uc5d0\uc774\uc804\ud2b8\uc758 \ud558\ub2c8\uc2a4..."
-    },
     {
       "timestamp": "2026-10-13 16:32:20",
       "message": "[PROCESSING] Analyzing: Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 16:33:09",
       "message": "[PROCESSING] Analyzing: Embedded Graphics on an MCU \u2013 Without an Accelerator..."
+    },
+    {
+      "timestamp": "2026-10-13 16:33:12",
+      "message": "[SKIP] Irrelevant (AI Filter): Embedded Graphics on an MCU \u2013 Without an Accelerator"
     }
   ]
 }
