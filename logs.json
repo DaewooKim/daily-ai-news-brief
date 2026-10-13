@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 23:16:16",
+  "last_updated": "2026-10-13 23:16:18",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 23:15:33",
-      "message": "Reprocessing: A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)"
-    },
     {
       "timestamp": "2026-10-13 23:15:34",
       "message": "[PROCESSING] Analyzing: A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 23:16:16",
       "message": "[PROCESSING] Analyzing: Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)..."
+    },
+    {
+      "timestamp": "2026-10-13 23:16:18",
+      "message": "[SKIP] Irrelevant (AI Filter): Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)"
     }
   ]
 }
