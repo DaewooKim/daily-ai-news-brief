@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-13 12:01:01",
+  "last_updated": "2026-10-13 12:01:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-13 12:00:19",
-      "message": "Found 139 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-10-13 12:00:19",
       "message": "[PROCESSING] Analyzing: The Social Reckoning is flopping at the box office..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-13 12:01:01",
       "message": "[PROCESSING] Analyzing: Why Service Providers Should Add Network as a Service to Their Portfolios..."
+    },
+    {
+      "timestamp": "2026-10-13 12:01:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Why Service Providers Should Add Network as a Service to Their Portfolios"
     }
   ]
 }
