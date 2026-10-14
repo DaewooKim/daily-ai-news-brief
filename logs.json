@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-14 02:32:49",
+  "last_updated": "2026-10-14 02:32:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-14 02:32:04",
-      "message": "Starting automatic background collection..."
-    },
     {
       "timestamp": "2026-10-14 02:32:05",
       "message": "Initializing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-14 02:32:49",
       "message": "[PROCESSING] Analyzing: Judge orders OpenAI to turn over hiring records in Apple trade secrets case..."
+    },
+    {
+      "timestamp": "2026-10-14 02:32:51",
+      "message": "[SKIP] Irrelevant (AI Filter): Judge orders OpenAI to turn over hiring records in Apple trade secrets case"
     }
   ]
 }
