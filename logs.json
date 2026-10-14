@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-10-14 02:33:27",
+  "last_updated": "2026-10-14 02:33:30",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-10-14 02:32:43",
-      "message": "[PROCESSING] Analyzing: Quobyte Delivers on the Promise of GPU Converged Storage..."
-    },
     {
       "timestamp": "2026-10-14 02:32:47",
       "message": "[SUCCESS] Processed: Quobyte, GPU \ud1b5\ud569 \uc2a4\ud1a0\ub9ac\uc9c0\uc758 \uc57d\uc18d\uc744 \uc2e4\ud604\ud558\ub2e4\n  > Summary: AI \uc778\ud504\ub77c\uc5d0\ub294 \uac04\ub2e8\ud558\uc9c0\ub9cc \ube44\uc2fc \uc0ac\uc2e4\uc774 \uc788\ub2e4: GPU \uc11c\ubc84\uc5d0\ub294 \ub2e8\uc21c\ud55c GPU\ubfd0\ub9cc \uc544\ub2c8\ub77c \uadf8..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-10-14 02:33:27",
       "message": "[PROCESSING] Analyzing: Xanadu Builds Out Canadian Quantum Infrastructure..."
+    },
+    {
+      "timestamp": "2026-10-14 02:33:30",
+      "message": "[SKIP] Irrelevant (AI Filter): Xanadu Builds Out Canadian Quantum Infrastructure"
     }
   ]
 }
