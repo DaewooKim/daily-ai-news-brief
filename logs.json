@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 13:20:04",
+  "last_updated": "2026-11-01 13:20:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 13:19:20",
-      "message": "[PROCESSING] Analyzing: Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders..."
-    },
     {
       "timestamp": "2026-11-01 13:19:22",
       "message": "[SKIP] Irrelevant (AI Filter): Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 13:20:04",
       "message": "Reprocessing: Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages"
+    },
+    {
+      "timestamp": "2026-11-01 13:20:06",
+      "message": "[PROCESSING] Analyzing: Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages..."
     }
   ]
 }
