@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 20:06:01",
+  "last_updated": "2026-11-01 20:06:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 20:05:16",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-11-01 20:05:16",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 20:06:01",
       "message": "[PROCESSING] Analyzing: Keyboards of The Verge..."
+    },
+    {
+      "timestamp": "2026-11-01 20:06:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Keyboards of The Verge"
     }
   ]
 }
