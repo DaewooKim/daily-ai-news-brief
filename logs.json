@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 14:28:09",
+  "last_updated": "2026-11-01 14:28:11",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 14:27:23",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-11-01 14:27:23",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 14:28:09",
       "message": "[PROCESSING] Analyzing: Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders..."
+    },
+    {
+      "timestamp": "2026-11-01 14:28:11",
+      "message": "[SKIP] Irrelevant (AI Filter): Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders"
     }
   ]
 }
