@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 12:07:21",
+  "last_updated": "2026-11-01 12:07:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 12:06:40",
-      "message": "Found 164 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-01 12:06:40",
       "message": "[PROCESSING] Analyzing: Get in the spirit with these horrors from YouTube..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 12:07:21",
       "message": "[PROCESSING] Analyzing: Here\u2019s why you can&#8217;t shake those unhinged political texts..."
+    },
+    {
+      "timestamp": "2026-11-01 12:07:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Here\u2019s why you can&#8217;t shake those unhinged political texts"
     }
   ]
 }
