@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 13:21:43",
+  "last_updated": "2026-11-01 13:21:46",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 13:21:05",
-      "message": "Reprocessing: Retell uses OpenAI models to help power 100M monthly calls"
-    },
     {
       "timestamp": "2026-11-01 13:21:06",
       "message": "[PROCESSING] Analyzing: Retell uses OpenAI models to help power 100M monthly calls..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 13:21:43",
       "message": "[PROCESSING] Analyzing: DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents..."
+    },
+    {
+      "timestamp": "2026-11-01 13:21:46",
+      "message": "[SKIP] Irrelevant (AI Filter): DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents"
     }
   ]
 }
