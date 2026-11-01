@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 18:58:45",
+  "last_updated": "2026-11-01 18:58:47",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 18:58:07",
-      "message": "Found 149 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-01 18:58:07",
       "message": "[PROCESSING] Analyzing: Apple\u2019s HomeView could add security camera features..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 18:58:45",
       "message": "[PROCESSING] Analyzing: Happy Pikmin Day Eve..."
+    },
+    {
+      "timestamp": "2026-11-01 18:58:47",
+      "message": "[SKIP] Irrelevant (AI Filter): Happy Pikmin Day Eve"
     }
   ]
 }
