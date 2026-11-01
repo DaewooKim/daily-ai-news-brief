@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 12:09:43",
+  "last_updated": "2026-11-01 12:09:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 12:09:00",
-      "message": "[SUCCESS] Processed: \ud504\ub860\ud2f0\uc5b4 \ubaa8\ub378 \ubd88\uc77c\uce58 \ud0d0\uc9c0 \ubc29\ubc95\n  > Summary: OpenAI\ub294 \ud504\ub860\ud2f0\uc5b4 \ubaa8\ub378\uc758 \ubd88\uc77c\uce58\uc640 \ubb34\ud5c8\uac00 \uc5d0\uc774\uc804\ud2b8 \ud589\ub3d9\uc744 \ud0d0\uc9c0\ud558\uae30 \uc704\ud574 \ub2e4\uce35 \ubaa8\ub2c8\ud130\ub9c1..."
-    },
     {
       "timestamp": "2026-11-01 12:09:01",
       "message": "[PROCESSING] Analyzing: How Ropes & Gray is developing AI for transactional diligence..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 12:09:43",
       "message": "[PROCESSING] Analyzing: OpenAI reportedly lowers funding target for new round..."
+    },
+    {
+      "timestamp": "2026-11-01 12:09:45",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI reportedly lowers funding target for new round"
     }
   ]
 }
