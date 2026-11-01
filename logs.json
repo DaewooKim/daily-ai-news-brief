@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 13:23:49",
+  "last_updated": "2026-11-01 13:23:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 13:23:06",
-      "message": "[SUCCESS] Processed: AI \ud0d0\uc9c0\uae30\uc778 \ud310\uadf8\ub7a8\uc774 \uc778\uac04\uc758 \uae00\uc4f0\uae30\ub97c \uc5b4\ub5bb\uac8c \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\ub294\uac00\n  > Summary: AI \ud0d0\uc9c0\uae30\uc778 \ud310\uadf8\ub7a8\uc740 \uc791\uac00\ub4e4\uc774 \uc5d0\ub380 \ub300\uc2dc(em dash), 'X\uac00 \uc544\ub2c8\ub77c Y' phr\ubc95,..."
-    },
     {
       "timestamp": "2026-11-01 13:23:08",
       "message": "Reprocessing: Chip Industry Week In Review"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 13:23:49",
       "message": "[PROCESSING] Analyzing: From Lab to Fab: The Rise of HiPIMS in Semiconductor Manufacturing..."
+    },
+    {
+      "timestamp": "2026-11-01 13:23:51",
+      "message": "[SKIP] Irrelevant (AI Filter): From Lab to Fab: The Rise of HiPIMS in Semiconductor Manufacturing"
     }
   ]
 }
