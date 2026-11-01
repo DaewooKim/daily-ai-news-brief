@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 13:22:20",
+  "last_updated": "2026-11-01 13:22:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 13:21:41",
-      "message": "Reprocessing: DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents"
-    },
     {
       "timestamp": "2026-11-01 13:21:43",
       "message": "[PROCESSING] Analyzing: DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 13:22:20",
       "message": "[PROCESSING] Analyzing: Canadian Startup Aims to Be Quantum\u2019s \u2018Picks\u2019 and \u2018Shovels\u2019..."
+    },
+    {
+      "timestamp": "2026-11-01 13:22:23",
+      "message": "[SKIP] Irrelevant (AI Filter): Canadian Startup Aims to Be Quantum\u2019s \u2018Picks\u2019 and \u2018Shovels\u2019"
     }
   ]
 }
