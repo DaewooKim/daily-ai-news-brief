@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-01 14:32:19",
+  "last_updated": "2026-11-01 14:32:21",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-01 14:31:36",
-      "message": "[PROCESSING] Analyzing: How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human (Morgan Meaker/Bloomberg)..."
-    },
     {
       "timestamp": "2026-11-01 14:31:39",
       "message": "[SUCCESS] Processed: AI \ud0d0\uc9c0\uae30\uc778 Pangram\uc774 \uc778\uac04\uc758 \uae00\uc4f0\uae30\ub97c \uc5b4\ub5bb\uac8c \ubcc0\ud654\uc2dc\ud0a4\uace0 \uc788\ub294\uac00\n  > Summary: AI \ud0d0\uc9c0\uae30\uc778 Pangram\uc740 \uc791\uac00\ub4e4\uc774 \uae00\uc744 \uc4f8 \ub54c \ubb38\uccb4\ub97c \uc870\uc815\ud558\ub3c4\ub85d \ub9cc\ub4e4\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc791..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-01 14:32:19",
       "message": "[PROCESSING] Analyzing: Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI..."
+    },
+    {
+      "timestamp": "2026-11-01 14:32:21",
+      "message": "[SKIP] Irrelevant (AI Filter): Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI"
     }
   ]
 }
