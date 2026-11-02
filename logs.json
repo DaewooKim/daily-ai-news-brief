@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 14:06:02",
+  "last_updated": "2026-11-02 14:06:04",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 14:05:16",
-      "message": "[SUCCESS] Processed: AI \uc548\uc804 \ub17c\uc7c1\uacfc '\uc77c\ubc29\uc801 \uc911\ub2e8 + \uc778\uc2dd \uc81c\uace0', \uc989 SURA\uc758 \uc778\uae30 \uc0c1\uc2b9\uc744 \uc0b4\ud3b4\ubcf4\ub294 \ub0b4\uc6a9; \uc548\uc804 \uc911\uc2ec AI \uc5f0\uad6c\uc18c\ub294 AI \uacbd\uc7c1\uc5d0\uc11c \ubb3c\ub7ec\ub098\uc11c\ub294 \uc548 \ub41c\ub2e4\n  > Summary: \uc774 \uae30\uc0ac\uc5d0\uc11c\ub294 AI \uc548\uc804 \ub17c\uc7c1\uacfc '\uc77c\ubc29\uc801 \uc911\ub2e8 + \uc778\uc2dd \uc81c\uace0'(SURA)\uc758 \uc778\uae30\uac00 \uc0c1\uc2b9\ud558\ub294..."
-    },
     {
       "timestamp": "2026-11-02 14:05:17",
       "message": "[PROCESSING] Analyzing: Analysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, including $216M to America PAC, the highest non-candidate spend ever (Theodore Schleifer/New York Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 14:06:02",
       "message": "[PROCESSING] Analyzing: Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of \"nuclear danger\"; Russia confirms a similar hack of its alerts app (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-11-02 14:06:04",
+      "message": "[SKIP] Irrelevant (AI Filter): Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of \"nuclear danger\"; Russia confirms a similar hack of its alerts app (Bloomberg)"
     }
   ]
 }
