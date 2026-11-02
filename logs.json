@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 15:10:04",
+  "last_updated": "2026-11-02 15:10:07",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 15:09:13",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-11-02 15:09:13",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 15:10:04",
       "message": "[PROCESSING] Analyzing: Flock keeps ignoring requests to cancel its contracts..."
+    },
+    {
+      "timestamp": "2026-11-02 15:10:07",
+      "message": "[SKIP] Irrelevant (AI Filter): Flock keeps ignoring requests to cancel its contracts"
     }
   ]
 }
