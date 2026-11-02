@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 06:12:09",
+  "last_updated": "2026-11-02 06:12:12",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 06:11:31",
-      "message": "[SUCCESS] Processed: \ub354 \uc720\ub2a5\ud558\uace0 \uc720\uc775\ud55c AI\ub97c \uc704\ud55c \uc5c5\ub370\uc774\ud2b8\ub41c \ubaa8\ub378 \uc0ac\uc591\n  > Summary: OpenAI\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c \ubaa8\ub378 \uc0ac\uc591\uc740 \ub354 \uc720\ub2a5\ud55c AI\uac00 \uac74\uc804\ud55c \ud310\ub2e8, \uc778\uac04\uc758 \uc8fc\uccb4\uc131 \ubc0f \uc778..."
-    },
     {
       "timestamp": "2026-11-02 06:11:33",
       "message": "Reprocessing: How we detect frontier model misalignment"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 06:12:09",
       "message": "[PROCESSING] Analyzing: DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents..."
+    },
+    {
+      "timestamp": "2026-11-02 06:12:12",
+      "message": "[SKIP] Irrelevant (AI Filter): DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents"
     }
   ]
 }
