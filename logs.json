@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 14:01:50",
+  "last_updated": "2026-11-02 14:01:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 14:01:07",
-      "message": "Found 133 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-02 14:01:07",
       "message": "[PROCESSING] Analyzing: Affinity\u2019s creative studio is now available on iPad for free..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 14:01:50",
       "message": "[PROCESSING] Analyzing: New Zelda and GTA represent a games industry that no longer exists..."
+    },
+    {
+      "timestamp": "2026-11-02 14:01:53",
+      "message": "[SKIP] Irrelevant (AI Filter): New Zelda and GTA represent a games industry that no longer exists"
     }
   ]
 }
