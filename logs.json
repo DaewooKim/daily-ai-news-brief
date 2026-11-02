@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 15:14:40",
+  "last_updated": "2026-11-02 15:14:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 15:13:45",
-      "message": "[PROCESSING] Analyzing: Memo: Alphabet is issuing \u20ac6B in euro-denominated debt across seven tranches, attracting \u20ac17B+ of demand; the company sold \u20ac9B of bonds earlier in 2026 (Reuters)..."
-    },
     {
       "timestamp": "2026-11-02 15:13:48",
       "message": "[SKIP] Irrelevant (AI Filter): Memo: Alphabet is issuing \u20ac6B in euro-denominated debt across seven tranches, attracting \u20ac17B+ of demand; the company sold \u20ac9B of bonds earlier in 2026 (Reuters)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 15:14:40",
       "message": "[PROCESSING] Analyzing: Ukraine says its air raid alert app was compromised late on Sunday, sending false warnings of \"nuclear danger\"; Russia says its alert app had also been attacked (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-11-02 15:14:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Ukraine says its air raid alert app was compromised late on Sunday, sending false warnings of \"nuclear danger\"; Russia says its alert app had also been attacked (Bloomberg)"
     }
   ]
 }
