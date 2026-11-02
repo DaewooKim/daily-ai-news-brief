@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 20:53:27",
+  "last_updated": "2026-11-02 20:53:29",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 20:52:38",
-      "message": "[PROCESSING] Analyzing: How to Check and Configure NVIDIA GPUDirect Storage for Your Platform..."
-    },
     {
       "timestamp": "2026-11-02 20:52:42",
       "message": "[SUCCESS] Processed: NVIDIA GPUDirect \uc2a4\ud1a0\ub9ac\uc9c0 \ud655\uc778 \ubc0f \uad6c\uc131\ud558\ub294 \ubc29\ubc95\n  > Summary: NVIDIA GPUDirect Storage(GDS)\ub294 \uc628\ud504\ub808\ubbf8\uc2a4 \ubc0f \ud074\ub77c\uc6b0\ub4dc \ud658\uacbd\uc5d0\uc11c G..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 20:53:27",
       "message": "[SUCCESS] Processed: \ub354 \ub2a5\ub825 \uc788\uace0 \uc720\uc775\ud55c AI\ub97c \uc704\ud55c \uc5c5\ub370\uc774\ud2b8\ub41c \ubaa8\ub378 \uc0ac\uc591\n  > Summary: OpenAI\uc758 \uc5c5\ub370\uc774\ud2b8\ub41c \ubaa8\ub378 \uc0ac\uc591\uc740 \ub354 \ub2a5\ub825 \uc788\ub294 AI\uac00 \uac74\uc804\ud55c \ud310\ub2e8, \uc778\uac04\uc758 \uc8fc\ub3c4\uad8c \ubc0f..."
+    },
+    {
+      "timestamp": "2026-11-02 20:53:29",
+      "message": "Reprocessing: How we detect frontier model misalignment"
     }
   ]
 }
