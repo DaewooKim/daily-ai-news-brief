@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 15:14:19",
+  "last_updated": "2026-11-02 15:14:22",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 15:13:25",
-      "message": "[SKIP] Content too short: Data Center World Middle East..."
-    },
     {
       "timestamp": "2026-11-02 15:13:27",
       "message": "Reprocessing: [Industry Event] Advancing Data Center Construction East 2026"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 15:14:19",
       "message": "[PROCESSING] Analyzing: Supermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to suspected hacks, echoing attacks in France (Bloomberg)..."
+    },
+    {
+      "timestamp": "2026-11-02 15:14:22",
+      "message": "[SKIP] Irrelevant (AI Filter): Supermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to suspected hacks, echoing attacks in France (Bloomberg)"
     }
   ]
 }
