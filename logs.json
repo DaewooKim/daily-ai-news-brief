@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 15:14:36",
+  "last_updated": "2026-11-02 15:14:38",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 15:13:38",
-      "message": "[PROCESSING] Analyzing: S-1: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a net loss of $23.3B, up from $12.1B in Q3 2025, and operating expenses up 292% to $17.5B (Bailey Lipschultz/Bloomberg)..."
-    },
     {
       "timestamp": "2026-11-02 15:13:43",
       "message": "[SUCCESS] Processed: S-1: \uc548\uc18c\ud504\ub9ad, Q3 \ub9e4\ucd9c \uc804\ub144 \ub300\ube44 12\ubc30 \uc99d\uac00\ud558\uc5ec \uac70\uc758 170\uc5b5 \ub2ec\ub7ec \uae30\ub85d\n  > Summary: \uc548\uc18c\ud504\ub9ad PBC\ub294 9\uc6d4 30\uc77c \uae30\uc900\uc73c\ub85c \uc138 \ubc88\uc9f8 \ubd84\uae30 \ub9e4\ucd9c\uc774 \uac70\uc758 170\uc5b5 \ub2ec\ub7ec\uc5d0 \ub2ec\ud55c\ub2e4\uace0..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 15:14:36",
       "message": "[PROCESSING] Analyzing: British physicist and materials scientist Cyril Hilsum, widely recognized as \"the father of liquid crystals\" for enabling flat-panel display tech, died at 101 (Michael S. Rosenwald/New York Times)..."
+    },
+    {
+      "timestamp": "2026-11-02 15:14:38",
+      "message": "[SKIP] Irrelevant (AI Filter): British physicist and materials scientist Cyril Hilsum, widely recognized as \"the father of liquid crystals\" for enabling flat-panel display tech, died at 101 (Michael S. Rosenwald/New York Times)"
     }
   ]
 }
