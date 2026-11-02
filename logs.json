@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 16:24:07",
+  "last_updated": "2026-11-02 16:24:10",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 16:23:21",
-      "message": "[PROCESSING] Analyzing: Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)..."
-    },
     {
       "timestamp": "2026-11-02 16:23:24",
       "message": "[SKIP] Irrelevant (AI Filter): Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 16:24:07",
       "message": "Reprocessing: MazeBolt launches native RADAR deployment for Akamai DDoS protection customers"
+    },
+    {
+      "timestamp": "2026-11-02 16:24:10",
+      "message": "[SKIP] Content too short: MazeBolt launches native RADAR..."
     }
   ]
 }
