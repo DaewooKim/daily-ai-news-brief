@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 20:52:19",
+  "last_updated": "2026-11-02 20:52:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 20:51:35",
-      "message": "[PROCESSING] Analyzing: Ford promises not to sell your driving habits to data brokers..."
-    },
     {
       "timestamp": "2026-11-02 20:51:38",
       "message": "[SKIP] Irrelevant (AI Filter): Ford promises not to sell your driving habits to data brokers"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 20:52:19",
       "message": "[SUCCESS] Processed: NVIDIA \uc791\uc5c5 \ubd80\ud558 \ub9f5\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc0c8\ub85c\uc6b4 AI \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ub354 \ube60\ub974\uac8c \uc9c0\uc6d0\ud558\uae30\n  > Summary: NVIDIA DSX AI Factory \ud50c\ub7ab\ud3fc\uc740 \uc624\ud508 \uc18c\uc2a4 \ubc0f \ubaa8\ub4c8 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ucef4\ud3ec\ub10c\ud2b8\ub97c ..."
+    },
+    {
+      "timestamp": "2026-11-02 20:52:20",
+      "message": "Reprocessing: Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
     }
   ]
 }
