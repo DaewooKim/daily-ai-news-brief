@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 02:51:04",
+  "last_updated": "2026-11-02 02:51:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 02:50:25",
-      "message": "Reprocessing: DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents"
-    },
     {
       "timestamp": "2026-11-02 02:50:27",
       "message": "[PROCESSING] Analyzing: DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 02:51:04",
       "message": "[PROCESSING] Analyzing: The Jobs That Actually Exist Inside Data Centers..."
+    },
+    {
+      "timestamp": "2026-11-02 02:51:06",
+      "message": "[SKIP] Irrelevant (AI Filter): The Jobs That Actually Exist Inside Data Centers"
     }
   ]
 }
