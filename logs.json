@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 00:34:22",
+  "last_updated": "2026-11-02 00:34:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 00:33:40",
-      "message": "Found 144 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-02 00:33:40",
       "message": "[PROCESSING] Analyzing: NASA hopes the commercial space industry can help save Hubble..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 00:34:22",
       "message": "[PROCESSING] Analyzing: Keyboards of The Verge..."
+    },
+    {
+      "timestamp": "2026-11-02 00:34:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Keyboards of The Verge"
     }
   ]
 }
