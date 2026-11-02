@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 08:28:52",
+  "last_updated": "2026-11-02 08:28:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 08:28:10",
-      "message": "[PROCESSING] Analyzing: Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem..."
-    },
     {
       "timestamp": "2026-11-02 08:28:14",
       "message": "[SUCCESS] Processed: \uc5ec\uae30\uc11c \ub354\uc6cc\uc9c0\uace0 \uc788\ub098\uc694? \uc5f4 \uad00\ub9ac\uac00 \ub354 \uc774\uc0c1 \uc11c\uba85 \ubb38\uc81c\uc774 \uc544\ub2cc \uc774\uc720\n  > Summary: AI, \uace0\uc131\ub2a5 \ucef4\ud4e8\ud305 \ubc0f \uace0\uae09 \ubc18\ub3c4\uccb4 \ud328\ud0a4\uc9d5\uc774 \uc804\ub825 \ubc00\ub3c4\ub97c \ub192\uc5ec \uc5f4 \uad00\ub9ac\ub294 \uc804\uc790 \uc124\uacc4\uc5d0\uc11c ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 08:28:52",
       "message": "Reprocessing: Agent demand can\u2019t be forecast, meaning the database has to be ready for anything"
+    },
+    {
+      "timestamp": "2026-11-02 08:28:54",
+      "message": "[SKIP] Content too short: Agent demand can\u2019t be forecast..."
     }
   ]
 }
