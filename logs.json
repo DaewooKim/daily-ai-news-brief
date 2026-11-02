@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 23:09:01",
+  "last_updated": "2026-11-02 23:09:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 23:08:17",
-      "message": "[PROCESSING] Analyzing: Qodo builds context into AI code review with Codex..."
-    },
     {
       "timestamp": "2026-11-02 23:08:21",
       "message": "[SUCCESS] Processed: Qodo, Codex\uc5d0 AI \ucf54\ub4dc \ub9ac\ubdf0\ub97c \uc704\ud55c \ucee8\ud14d\uc2a4\ud2b8 \uad6c\ucd95\n  > Summary: Qodo\ub294 \ud68c\uc0ac\uc758 \uc9c0\uc2dd\uacfc \ucf54\ub529 \ud45c\uc900\uc744 Codex\uc5d0 \ud1b5\ud569\ud558\uc5ec \uac1c\ubc1c\uc790\uac00 \ud480 \ub9ac\ud018\uc2a4\ud2b8\ub97c \uc5f4\uae30 \uc804..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 23:09:01",
       "message": "[PROCESSING] Analyzing: Web host Squarespace lays off 19% of its employees..."
+    },
+    {
+      "timestamp": "2026-11-02 23:09:03",
+      "message": "[SKIP] Irrelevant (AI Filter): Web host Squarespace lays off 19% of its employees"
     }
   ]
 }
