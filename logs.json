@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 18:40:18",
+  "last_updated": "2026-11-02 18:40:20",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 18:39:31",
-      "message": "[PROCESSING] Analyzing: Amended S-1: Anthropic says it has purchase commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)..."
-    },
     {
       "timestamp": "2026-11-02 18:39:34",
       "message": "[SUCCESS] Processed: \uc218\uc815\ub41c S-1: Anthropic, '\ub300\ubd80\ubd84 \ucef4\ud4e8\ud305 \ubc0f \uc778\ud504\ub77c\uc640 \uad00\ub828\ub41c' 8954\uc5b5 \ub2ec\ub7ec\uc758 \uad6c\ub9e4 \uc57d\uc18d \ubc0f \uc784\ub300 \uacc4\uc57d \ubcf4\uc720\n  > Summary: Anthropic\uc740 \uc6d4\uc694\uc77c\uc5d0 \uc99d\uad8c\uac70\ub798\uc704\uc6d0\ud68c\uc5d0 \uc218\uc815\ub41c Form S-1\uc744 \uc81c\ucd9c\ud558\uba70 8954\uc5b5 ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 18:40:18",
       "message": "Reprocessing: On theCUBE Pod: Stock market gets the jitters and Anthropic files IPO"
+    },
+    {
+      "timestamp": "2026-11-02 18:40:20",
+      "message": "[SKIP] Content too short: On theCUBE Pod: Stock market g..."
     }
   ]
 }
