@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 18:39:01",
+  "last_updated": "2026-11-02 18:39:03",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 18:38:17",
-      "message": "[SUCCESS] Processed: \uc5e3\uc9c0 AI: \ub85c\ubd07 \ubc0f \uc790\uc728 \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c \uc0dd\uc131\uc801 \uc9c0\ub2a5\n  > Summary: \uc5e3\uc9c0 AI\uac00 \ubb3c\ub9ac\uc801 AI \uc2dc\uc2a4\ud15c\uc774 \uc138\uacc4\ub97c \uc778\uc9c0\ud558\uace0 \ucd94\ub860\ud558\uba70 \uc0c1\ud638\uc791\uc6a9\ud558\ub3c4\ub85d \ub3d5\ub294 \ubc29\uc2dd\uc744 \ud0d0\uad6c..."
-    },
     {
       "timestamp": "2026-11-02 18:38:19",
       "message": "[PROCESSING] Analyzing: Sir Arthur C. Clarke Deserves a Nobel Prize..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 18:39:01",
       "message": "[PROCESSING] Analyzing: The Jobs That Actually Exist Inside Data Centers..."
+    },
+    {
+      "timestamp": "2026-11-02 18:39:03",
+      "message": "[SKIP] Irrelevant (AI Filter): The Jobs That Actually Exist Inside Data Centers"
     }
   ]
 }
