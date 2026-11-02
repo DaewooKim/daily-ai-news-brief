@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 14:06:54",
+  "last_updated": "2026-11-02 14:06:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 14:06:06",
-      "message": "[PROCESSING] Analyzing: Fan fiction site AO3 says it could take two to four weeks to restore service after a security incident; AO3 hosts 18M+ works and has 11M+ registered users (Bruce Gil/Gizmodo)..."
-    },
     {
       "timestamp": "2026-11-02 14:06:09",
       "message": "[SKIP] Irrelevant (AI Filter): Fan fiction site AO3 says it could take two to four weeks to restore service after a security incident; AO3 hosts 18M+ works and has 11M+ registered users (Bruce Gil/Gizmodo)"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 14:06:54",
       "message": "Reprocessing: Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work"
+    },
+    {
+      "timestamp": "2026-11-02 14:06:56",
+      "message": "[SKIP] Content too short: Marble Cognition raises $3.75M..."
     }
   ]
 }
