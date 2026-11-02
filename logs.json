@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-02 19:48:34",
+  "last_updated": "2026-11-02 19:48:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-02 19:47:48",
-      "message": "[SUCCESS] Processed: \uc774\uba54\uc77c: OpenAI\ub294 \uc0ac\uc804\uc5d0 \uc77c\ubd80 \uc0ac\uc6a9\uc790\uc5d0\uac8c ChatGPT\uc758 \ucc44\ud305 \ubc0f \uc791\uc5c5 \ud0ed\uc744 \ud1b5\ud569\ud560 \uacc4\ud68d\uc774\ub2e4; Codex\ub294 \"\ubcc4\ub3c4\uc758 \uacbd\ud5d8\uc73c\ub85c \ub0a8\uc744 \uac83\"\uc774\ub2e4.\n  > Summary: OpenAI\ub294 \uc77c\ubd80 \uc0ac\uc6a9\uc790\uc5d0\uac8c ChatGPT\uc758 \ucc44\ud305 \ud0ed\uacfc \uc791\uc5c5 \ud0ed\uc744 \ud1b5\ud569\ud560 \uacc4\ud68d\uc744 \ud558\uace0 \uc788..."
-    },
     {
       "timestamp": "2026-11-02 19:47:50",
       "message": "[PROCESSING] Analyzing: Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-02 19:48:34",
       "message": "Reprocessing: Google finds \u2018LLMjacking\u2019 attackers running up $100K a day in fraudulent cloud charges"
+    },
+    {
+      "timestamp": "2026-11-02 19:48:36",
+      "message": "[SKIP] Content too short: Google finds \u2018LLMjacking\u2019 atta..."
     }
   ]
 }
