@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 06:03:29",
+  "last_updated": "2026-11-03 06:03:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 06:02:49",
-      "message": "[PROCESSING] Analyzing: The Apple Watch Ultra 4 is $100 off, matching its best price to date..."
-    },
     {
       "timestamp": "2026-11-03 06:02:51",
       "message": "[SKIP] Irrelevant (AI Filter): The Apple Watch Ultra 4 is $100 off, matching its best price to date"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 06:03:29",
       "message": "[SUCCESS] Processed: NVIDIA\uc758 \uc6cc\ud06c\ub85c\ub4dc \ub9f5\uc744 \ud65c\uc6a9\ud55c \uc0c8\ub85c\uc6b4 AI \ud504\ub808\uc784\uc6cc\ud06c \uc9c0\uc6d0\n  > Summary: NVIDIA DSX AI Factory Platform\uc740 \ud6a8\uc728\uc801\uc778 AI \uacf5\uc7a5\uc744 \uc124\uacc4, \uad6c\ucd95..."
+    },
+    {
+      "timestamp": "2026-11-03 06:03:31",
+      "message": "Reprocessing: Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
     }
   ]
 }
