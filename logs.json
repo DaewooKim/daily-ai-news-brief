@@ -1,206 +1,26 @@
 {
-  "last_updated": "2026-11-03 01:34:45",
-  "status": "idle",
+  "last_updated": "2026-11-03 02:35:38",
+  "status": "running",
   "logs": [
     {
-      "timestamp": "2026-11-03 01:32:56",
-      "message": "[SUCCESS] Processed: \uc54c\ud14c\ub77c, \uc560\uc790\uc77c\ub809\uc2a4 2X \ubc0f \uc5d0\uc774\uc804\ud2f1 \ub514\uc790\uc778 \uc5b4\uc2dc\uc2a4\ud134\ud2b8\ub97c \ud1b5\ud55c \ubb3c\ub9ac\uc801 AI\uc5d0 FPGA \ub3c4\uc785\n  > Summary: \uc54c\ud14c\ub77c\uac00 \uc0c8\ub85c\uc6b4 FPGA \ud3ec\ud2b8\ud3f4\ub9ac\uc624\uc778 \uc560\uc790\uc77c\ub809\uc2a4 2X\ub97c \uacf5\uac1c\ud588\uc2b5\ub2c8\ub2e4. \uc774\ub294 \uc5e3\uc9c0\uc5d0\uc11c\uc758 \ubb3c\ub9ac..."
+      "timestamp": "2026-11-03 02:35:08",
+      "message": "Starting automatic background collection..."
     },
     {
-      "timestamp": "2026-11-03 01:32:57",
-      "message": "[PROCESSING] Analyzing: Ceva Expands NeuPro NPU Portfolio into AI Infrastructure..."
+      "timestamp": "2026-11-03 02:35:08",
+      "message": "Initializing..."
     },
     {
-      "timestamp": "2026-11-03 01:33:02",
-      "message": "[SUCCESS] Processed: Ceva\uc758 NeuPro NPU \ud3ec\ud2b8\ud3f4\ub9ac\uc624, AI \uc778\ud504\ub77c\ub85c \ud655\uc7a5\n  > Summary: Ceva Inc.\ub294 \ucc28\uc138\ub300 NeuPro \uc2e0\uacbd \ucc98\ub9ac \uc7a5\uce58(NPU) \ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \ubc1c\ud45c\ud558\uba70, \ud56d..."
+      "timestamp": "2026-11-03 02:35:08",
+      "message": "Fetching RSS feeds..."
     },
     {
-      "timestamp": "2026-11-03 01:33:04",
-      "message": "[PROCESSING] Analyzing: Celus Adds Agentic AI Workflow to Its Electronics Design Assistant..."
+      "timestamp": "2026-11-03 02:35:38",
+      "message": "Found 137 articles within the last 5 days. Starting processing..."
     },
     {
-      "timestamp": "2026-11-03 01:33:08",
-      "message": "[SUCCESS] Processed: Celus, \uc804\uc790 \uc124\uacc4 \ubcf4\uc870 \ub3c4\uad6c\uc5d0 \uc5d0\uc774\uc804\ud2f1 AI \uc6cc\ud06c\ud50c\ub85c\uc6b0 \ucd94\uac00\n  > Summary: Celus\ub294 \uc9c0\ub09c\ud574 \ucd9c\uc2dc\ud55c \uc124\uacc4 \ubcf4\uc870 \ub3c4\uad6c\uc5d0 \uc5d0\uc774\uc804\ud2f1 AI \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \ucd94\uac00\ud588\uc2b5\ub2c8\ub2e4. \uc774 ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:10",
-      "message": "[SKIP] Content too short: Robotics startup Tutor Intelli..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:12",
-      "message": "[SKIP] Content too short: Apple\u2019s stock drops as new CEO..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:13",
-      "message": "[SKIP] Content too short: Rack-scale AI: How Dell and AM..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:15",
-      "message": "[SKIP] Content too short: Anthropic\u2019s quarterly revenue ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:17",
-      "message": "[SKIP] Content too short: 42AI launches with $62.5M to p..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:19",
-      "message": "[SKIP] Content too short: Palantir beats Q3 forecasts as..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:20",
-      "message": "[SKIP] Content too short: Marvell to acquire optical com..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:22",
-      "message": "[SKIP] Content too short: On theCUBE Pod: Stock market g..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:24",
-      "message": "[SKIP] Content too short: Google finds \u2018LLMjacking\u2019 atta..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:26",
-      "message": "[SKIP] Content too short: MazeBolt launches native RADAR..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:28",
-      "message": "[SKIP] Content too short: Exclusive: Guardz brings Palo ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:29",
-      "message": "[SKIP] Content too short: With Agentic Studio, LinearB p..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:31",
-      "message": "[SKIP] Content too short: Enterprises bring AI to their ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:33",
-      "message": "[SKIP] Content too short: Marble Cognition raises $3.75M..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:35",
-      "message": "[SKIP] Content too short: Project-by-project security re..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:37",
-      "message": "[SKIP] Content too short: Agent demand can\u2019t be forecast..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:39",
-      "message": "[SKIP] Content too short: Can enterprise AI pay for the ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:40",
-      "message": "[SKIP] Content too short: Google, Anthropic and others t..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:42",
-      "message": "[SKIP] Content too short: Google X co-founder Sebastian ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:44",
-      "message": "[SKIP] Content too short: Hackers steal $6.3B from Binan..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:46",
-      "message": "[SKIP] Content too short: 6 insights from the GSA Women\u2019..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:47",
-      "message": "[SKIP] Content too short: Extreme Networks wants the net..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:49",
-      "message": "[SKIP] Content too short: Krafton-backed Ludo Robotics r..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:51",
-      "message": "[SKIP] Content too short: As Anthropic finally files for..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:53",
-      "message": "[SKIP] Content too short: The hidden threat in Anthropic..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:54",
-      "message": "[SKIP] Content too short: Intuit targets the mid-market ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:56",
-      "message": "[SKIP] Content too short: Beyond the books: Real-time da..."
-    },
-    {
-      "timestamp": "2026-11-03 01:33:58",
-      "message": "[SKIP] Content too short: The race to deploy AI agents f..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:00",
-      "message": "[SKIP] Content too short: AI\u2019s production push puts data..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:02",
-      "message": "[SKIP] Content too short: AI agents cut critical researc..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:03",
-      "message": "[PROCESSING] Analyzing: Marvell Proposes Acquiring Lumentum to Combine Optical Circuit Switching with AI Connectivity Silicon..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:07",
-      "message": "[SUCCESS] Processed: \ub9c8\ubca8, AI \uc5f0\uacb0 \uc2e4\ub9ac\ucf58\uacfc \uad11 \ud68c\ub85c \uc2a4\uc704\uce6d \uacb0\ud569\uc744 \uc704\ud574 \ub8e8\uba58\ud140 \uc778\uc218 \uc81c\uc548\n  > Summary: \ub9c8\ubca8\uc740 AI \uc2dc\ub300\uc758 \uad11 \uc5f0\uacb0\uc744 \ucd09\uc9c4\ud558\uae30 \uc704\ud574 \ub8e8\uba58\ud140\uc744 1150\uc5b5 \ub2ec\ub7ec\uc5d0 \uc778\uc218\ud560 \uc758\uc0ac\ub97c \ubc1c\ud45c..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:09",
-      "message": "[PROCESSING] Analyzing: Qualcomm Validates HBC Stacked Memory Ahead of 2027 Dragonfly AI250 Sampling..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:13",
-      "message": "[SUCCESS] Processed: \ud004\ucef4, 2027 \ub4dc\ub798\uace4\ud50c\ub77c\uc774 AI250 \uc0d8\ud50c\ub9c1\uc744 \uc55e\ub450\uace0 HBC \uc801\uce35 \uba54\ubaa8\ub9ac \uac80\uc99d \uc644\ub8cc\n  > Summary: \ud004\ucef4\uc774 \uace0\ub300\uc5ed\ud3ed \ucef4\ud4e8\ud305 \uae30\uc220\uc5d0 \ub300\ud55c \ucd08\uae30 \uac80\uc99d\uc744 \uc644\ub8cc\ud588\ub2e4\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. DRAM\uc774 \ucef4\ud4e8\ud305..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:14",
-      "message": "[PROCESSING] Analyzing: Liquid-Cooled NVIDIA Servers at the ASRock Rack OCP 2026 Booth..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:18",
-      "message": "[SUCCESS] Processed: OCP 2026\uc5d0\uc11c ASRock Rack\uc758 \uc561\uccb4 \ub0c9\uac01 NVIDIA \uc11c\ubc84\n  > Summary: OCP 2026\uc5d0\uc11c ASRock Rack \ubd80\uc2a4\ub97c \ubc29\ubb38\ud558\uc5ec NVIDIA NVL72 \ub799\uc774 \ud1b5\ud569..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:19",
-      "message": "[PROCESSING] Analyzing: NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:22",
-      "message": "[SUCCESS] Processed: NVIDIA, \uccab \uc0dd\uc0b0 \ud558\ub4dc\uc6e8\uc5b4 \ub3c4\ucc29\uc5d0 \ub530\ub77c \ub8e8\ube48 GPU \uc0ac\uc591 \uc5c5\ub370\uc774\ud2b8\n  > Summary: NVIDIA\ub294 \ub8e8\ube48 GPU \ud50c\ub7ab\ud3fc\uc758 \uc0ac\uc591\uc744 \uc5c5\ub370\uc774\ud2b8\ud588\uc2b5\ub2c8\ub2e4. \uccab \uc0dd\uc0b0 \ud558\ub4dc\uc6e8\uc5b4\uac00 \ubc30\uc1a1\ub418\uae30 ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:25",
-      "message": "[PROCESSING] Analyzing: Intel Q3 2026 Earnings Data Center Soars While PC Faces Memory Pressure..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:29",
-      "message": "[SUCCESS] Processed: \uc778\ud154 2026\ub144 3\ubd84\uae30 \uc218\uc775: \ub370\uc774\ud130 \uc13c\ud130 \uae09\uc99d, PC\ub294 \uba54\ubaa8\ub9ac \uc555\ubc15\uc5d0 \uc9c1\uba74\n  > Summary: \uc778\ud154\uc758 2026\ub144 3\ubd84\uae30 \uc218\uc775\uc774 \ub370\uc774\ud130 \uc13c\ud130 \ubd80\ubb38\uc774 \uc798 \uc131\uc7a5\ud558\uace0 \uc788\uc9c0\ub9cc, \ud074\ub77c\uc774\uc5b8\ud2b8 \ubd80\ubb38\uc740..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:30",
-      "message": "[PROCESSING] Analyzing: ASRock Industrial AI Box-A395 Review: Taking Strix Halo to Work..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:34",
-      "message": "[SUCCESS] Processed: ASRock \uc0b0\uc5c5 AI \ubc15\uc2a4-A395 \ub9ac\ubdf0: Strix Halo\ub97c \uc5c5\ubb34\uc5d0 \ud65c\uc6a9\ud558\uae30\n  > Summary: \uc624\ub298 \uc6b0\ub9ac\ub294 ASRock \uc0b0\uc5c5\uc758 \ud734\ub300\uc131\uc774 \ub6f0\uc5b4\ub09c Ryzen AI Max+ 395 \uc2dc\uc2a4\ud15c\uc778 ..."
-    },
-    {
-      "timestamp": "2026-11-03 01:34:36",
-      "message": "Completed! New: 109, Updated: 0"
-    },
-    {
-      "timestamp": "2026-11-03 01:34:40",
-      "message": "Saved 109 changes to news_data.json"
-    },
-    {
-      "timestamp": "2026-11-03 01:34:43",
-      "message": "Auto-Scrape Finished Successfully."
+      "timestamp": "2026-11-03 02:35:38",
+      "message": "[PROCESSING] Analyzing: Apple is \u2018not able to predict\u2019 when it&#8217;ll have enough iPhone Duos to go around..."
     }
   ]
 }
