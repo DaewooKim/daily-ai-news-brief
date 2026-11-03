@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 03:48:04",
+  "last_updated": "2026-11-03 03:48:06",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 03:47:25",
-      "message": "[SUCCESS] Processed: \ud2b8\ub77c\uc81d\ud130\ub9ac, \ube44\uae30\uc220 \uc804\ubb38\uac00\ub97c \uc704\ud55c AI \ubaa8\ub378 \ud559\uc2b5 \uc811\uadfc\uc131 \ud5a5\uc0c1\uc744 \uc704\ud574 4\ucc9c5\ubc31\ub9cc \ub2ec\ub7ec \ubaa8\uc9d1\n  > Summary: \ube44\uae30\uc220 \uc804\ubb38\uac00\ub3c4 AI \ubaa8\ub378 \ud559\uc2b5\uc5d0 \uc811\uadfc\ud560 \uc218 \uc788\ub3c4\ub85d \uc9c0\uc6d0\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5 \ud2b8\ub77c\uc81d\ud130\ub9ac\uac00 4\ucc9c5\ubc31..."
-    },
     {
       "timestamp": "2026-11-03 03:47:27",
       "message": "[PROCESSING] Analyzing: Web host Squarespace lays off 19% of its employees..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 03:48:04",
       "message": "[PROCESSING] Analyzing: OpenAI reportedly lowers funding target for new round..."
+    },
+    {
+      "timestamp": "2026-11-03 03:48:06",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI reportedly lowers funding target for new round"
     }
   ]
 }
