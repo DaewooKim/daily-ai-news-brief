@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 19:51:24",
+  "last_updated": "2026-11-03 19:51:27",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 19:50:38",
-      "message": "[SUCCESS] Processed: AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5 \ud314, \uc218\uc694 \uae09\uc99d\uc73c\ub85c \uac00\uce58 160\uc5b5 \ub2ec\ub7ec\ub85c \ub450 \ubc30 \uc99d\uac00\n  > Summary: \uc0c8\ub86d\uac8c \uc124\ub9bd\ub41c AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5 \ud314\uc774 13\uc5b5 \ub2ec\ub7ec\uc758 \uc790\uae08\uc744 \ubaa8\uc9d1\ud558\uba70 \uae30\uc5c5 \uac00\uce58\ub97c 160\uc5b5..."
-    },
     {
       "timestamp": "2026-11-03 19:50:40",
       "message": "[PROCESSING] Analyzing: Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 19:51:24",
       "message": "[PROCESSING] Analyzing: 2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big..."
+    },
+    {
+      "timestamp": "2026-11-03 19:51:27",
+      "message": "[SKIP] Irrelevant (AI Filter): 2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big"
     }
   ]
 }
