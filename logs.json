@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 17:34:41",
+  "last_updated": "2026-11-03 17:34:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 17:33:56",
-      "message": "Reprocessing: Community safety report and new protections for teens"
-    },
     {
       "timestamp": "2026-11-03 17:33:58",
       "message": "[PROCESSING] Analyzing: Community safety report and new protections for teens..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 17:34:41",
       "message": "[PROCESSING] Analyzing: Web host Squarespace lays off 19% of its employees..."
+    },
+    {
+      "timestamp": "2026-11-03 17:34:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Web host Squarespace lays off 19% of its employees"
     }
   ]
 }
