@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 16:23:48",
+  "last_updated": "2026-11-03 16:23:51",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 16:22:52",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-11-03 16:23:04",
       "message": "Found 148 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 16:23:48",
       "message": "[PROCESSING] Analyzing: The 2026 iPad Mini is a terrific tiny tablet \u2014 for a big price..."
+    },
+    {
+      "timestamp": "2026-11-03 16:23:51",
+      "message": "[SKIP] Irrelevant (AI Filter): The 2026 iPad Mini is a terrific tiny tablet \u2014 for a big price"
     }
   ]
 }
