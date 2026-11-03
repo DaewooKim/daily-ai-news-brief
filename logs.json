@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 23:18:21",
+  "last_updated": "2026-11-03 23:18:23",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 23:17:37",
-      "message": "[SUCCESS] Processed: \uc0ac\uc774\ud2b8 \uc2e0\ub8b0\uc131 \uacf5\ud559\uc744 \uc704\ud55c AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc81c\uacf5\ud558\ub294 \ud2b8\ub798\ubc84\uc124, 12\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\ub97c \uc9c0\ub2cc \uac00\uc6b4\ub370 \ud074\ub77c\uc774\ub108 \ud37c\ud0a8\uc2a4, \ub808\ub4dc\ud3ec\uc778\ud2b8, \ucf54\uc2ac\ub77c\uc640 \uacf5\ub3d9 \uc8fc\uad00\uc73c\ub85c 1\uc5b5 2\ucc9c\ub9cc \ub2ec\ub7ec\ub97c \ubaa8\uae08\ud558\ub2e4\n  > Summary: \ud2b8\ub798\ubc84\uc124\uc774 12\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\ub97c \uc778\uc815\ubc1b\uc544 \ud074\ub77c\uc774\ub108 \ud37c\ud0a8\uc2a4, \ub808\ub4dc\ud3ec\uc778\ud2b8, \ucf54\uc2ac\ub77c\uc640 \ud568\uaed8 1\uc5b5..."
-    },
     {
       "timestamp": "2026-11-03 23:17:39",
       "message": "[PROCESSING] Analyzing: Block reports Q3 revenue up 10% YoY to $6.7B, above est., Cash App gross profit up 27% to $2.07B, raises its full-year profit outlook; XYZ jumps 5%+ after hours (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 23:18:21",
       "message": "[SKIP] Irrelevant (AI Filter): Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)"
+    },
+    {
+      "timestamp": "2026-11-03 23:18:23",
+      "message": "Reprocessing: Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)"
     }
   ]
 }
