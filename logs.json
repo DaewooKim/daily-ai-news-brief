@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 17:34:58",
+  "last_updated": "2026-11-03 17:35:00",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 17:34:14",
-      "message": "[SUCCESS] Processed: \uc564\ud2b8\ub85c\ud53d, \ucef4\ud4e8\ud305 \uacbd\uc81c\uc131 \ubb38\uc81c \ud574\uacb0\uc5d0 \uc5ec\uc804\ud788 \uc5b4\ub824\uc6c0 \uacaa\uace0 \uc788\uc5b4\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc740 \ud604\uc7ac \ucef4\ud4e8\ud305 \ub9c8\uc9c4\uc774 \uac1c\uc120\ub418\uc5b4\uc57c \ud560 \uc2dc\uc810\uc5d0 \uc788\uc9c0\ub9cc, \uc0c1\ud669\uc740 \uc624\ud788\ub824 \uc545\ud654\ub418\uace0 \uc788\ub2e4...."
-    },
     {
       "timestamp": "2026-11-03 17:34:16",
       "message": "[PROCESSING] Analyzing: Google will let schools disable its AI tools, but not without sacrificing Search..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 17:34:58",
       "message": "[PROCESSING] Analyzing: 2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big..."
+    },
+    {
+      "timestamp": "2026-11-03 17:35:00",
+      "message": "[SKIP] Irrelevant (AI Filter): 2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big"
     }
   ]
 }
