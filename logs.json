@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 00:18:29",
+  "last_updated": "2026-11-03 00:18:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 00:17:49",
-      "message": "[SUCCESS] Processed: \uc548\u03b8\u03c1\u03c9\ud53d, AI\uac00 \uc2a4\uc2a4\ub85c \ud559\uc2b5\ud558\ub294 \ub2a5\ub825\uc5d0 \uadfc\uc811\ud588\ub2e4\uace0 \uacbd\uace0\ud558\ub2e4\n  > Summary: \uc548\u03b8\u03c1\u03c9\ud53d\uc740 AI\uac00 \uc2a4\uc2a4\ub85c \ud559\uc2b5\ud558\ub294 \ub2a5\ub825\uc778 RSI(Recursive Self-Improve..."
-    },
     {
       "timestamp": "2026-11-03 00:17:51",
       "message": "[PROCESSING] Analyzing: Web host Squarespace lays off 19% of its employees..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 00:18:29",
       "message": "[PROCESSING] Analyzing: OpenAI reportedly lowers funding target for new round..."
+    },
+    {
+      "timestamp": "2026-11-03 00:18:32",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI reportedly lowers funding target for new round"
     }
   ]
 }
