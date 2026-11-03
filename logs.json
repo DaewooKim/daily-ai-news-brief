@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 15:14:32",
+  "last_updated": "2026-11-03 15:14:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 15:13:40",
-      "message": "Found 148 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-03 15:13:40",
       "message": "[PROCESSING] Analyzing: The Elder Scrolls VI officially has a name: Sentinel..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 15:14:32",
       "message": "[PROCESSING] Analyzing: Rivian spinoff Also wants to reinvent the wheel \u2014 but first, it has to ship..."
+    },
+    {
+      "timestamp": "2026-11-03 15:14:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Rivian spinoff Also wants to reinvent the wheel \u2014 but first, it has to ship"
     }
   ]
 }
