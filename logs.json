@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 01:30:30",
+  "last_updated": "2026-11-03 01:30:32",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 01:29:42",
-      "message": "[SKIP] Content too short: [Industry Event] Advancing Dat..."
-    },
     {
       "timestamp": "2026-11-03 01:29:43",
       "message": "[PROCESSING] Analyzing: Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 01:30:30",
       "message": "[PROCESSING] Analyzing: Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report (Apple)..."
+    },
+    {
+      "timestamp": "2026-11-03 01:30:32",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report (Apple)"
     }
   ]
 }
