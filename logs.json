@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 18:42:43",
+  "last_updated": "2026-11-03 18:42:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 18:41:58",
-      "message": "[PROCESSING] Analyzing: Making it easier for websites to express AI training preferences..."
-    },
     {
       "timestamp": "2026-11-03 18:42:01",
       "message": "[SUCCESS] Processed: \uc6f9\uc0ac\uc774\ud2b8\uac00 AI \ud6c8\ub828 \uc120\ud638\ub3c4\ub97c \ud45c\ud604\ud558\uae30 \uc27d\uac8c \ub9cc\ub4dc\ub294 \ubc29\ubc95\n  > Summary: OpenAI\ub294 \ub85c\ubd07 \ubc30\uc81c \ud45c\uc900\uc778 robots.txt \uc2e0\ud638\ub97c \uc874\uc911\ud560 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4. ..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 18:42:43",
       "message": "[PROCESSING] Analyzing: New York Times and other outlets sue web browser Brave over alleged content scraping..."
+    },
+    {
+      "timestamp": "2026-11-03 18:42:45",
+      "message": "[SKIP] Irrelevant (AI Filter): New York Times and other outlets sue web browser Brave over alleged content scraping"
     }
   ]
 }
