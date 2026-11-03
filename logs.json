@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 19:53:28",
+  "last_updated": "2026-11-03 19:53:31",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 19:52:36",
-      "message": "[PROCESSING] Analyzing: AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)..."
-    },
     {
       "timestamp": "2026-11-03 19:52:40",
       "message": "[SUCCESS] Processed: AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5 Fal\uc774 Bessemer\uc758 \uc8fc\ub3c4\ub85c 13\uc5b5 \ub2ec\ub7ec\ub97c \uc720\uce58\ud558\uba70 160\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\uc5d0 \ub3c4\ub2ec\ud558\ub2e4.\n  > Summary: AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 Fal\uc774 13\uc5b5 \ub2ec\ub7ec\ub97c \uc720\uce58\ud558\uc5ec 4\uc6d4\uc758 80\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 160\uc5b5 \ub2ec\ub7ec..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 19:53:28",
       "message": "[PROCESSING] Analyzing: Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)..."
+    },
+    {
+      "timestamp": "2026-11-03 19:53:31",
+      "message": "[SKIP] Irrelevant (AI Filter): Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)"
     }
   ]
 }
