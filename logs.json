@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 22:08:42",
+  "last_updated": "2026-11-03 22:08:45",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 22:07:59",
-      "message": "[SUCCESS] Processed: \uacf5\uc815 \uc0ac\uc6a9\uc740 \ubaa8\ub450\uc5d0\uac8c \uc774\uc775\uc774\ub2e4\n  > Summary: OpenAI\ub294 \ucc3d\uc791\uc790, \ud559\uacc4, \uc811\uadfc\uc131 \uc639\ud638\uc790, \ubc95\ub960 \uc804\ubb38\uac00 \ub4f1 \ub2e4\uc591\ud55c \uc758\uacac\uc744 \ub2f4\uc740 \ubc95\uc6d0 \uc81c..."
-    },
     {
       "timestamp": "2026-11-03 22:08:01",
       "message": "[PROCESSING] Analyzing: Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 22:08:42",
       "message": "[PROCESSING] Analyzing: U.S. Manufacturing Activity Gains Momentum in October..."
+    },
+    {
+      "timestamp": "2026-11-03 22:08:45",
+      "message": "[SKIP] Irrelevant (AI Filter): U.S. Manufacturing Activity Gains Momentum in October"
     }
   ]
 }
