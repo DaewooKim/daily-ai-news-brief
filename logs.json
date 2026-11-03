@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 15:19:24",
+  "last_updated": "2026-11-03 15:19:26",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 15:18:36",
-      "message": "[PROCESSING] Analyzing: Sources: Anthropic tells investors that its 15-person chip design team is already using Claude for engineering and design work on its custom chips (The Information)..."
-    },
     {
       "timestamp": "2026-11-03 15:18:41",
       "message": "[SUCCESS] Processed: \uc18c\uc2dd\ud1b5: \uc564\ud2b8\ub85c\ud53d, \ud22c\uc790\uc790\ub4e4\uc5d0\uac8c 15\uba85\uc758 \uce69 \uc124\uacc4 \ud300\uc774 \uc774\ubbf8 \ud074\ub85c\ub4dc\ub97c \uc0ac\uc6a9\ud558\uace0 \uc788\ub2e4\uace0 \ubc1d\ud600\n  > Summary: \uc564\ud2b8\ub85c\ud53d\uc758 15\uc778 \uce69 \uc124\uacc4 \ud300\uc774 \uc790\uc0ac \ub9de\ucda4\ud615 \uce69\uc758 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ubc0f \uc124\uacc4 \uc791\uc5c5\uc5d0 \ud074\ub85c\ub4dc\ub97c \uc0ac\uc6a9..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 15:19:24",
       "message": "[SKIP] Irrelevant (AI Filter): Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)"
+    },
+    {
+      "timestamp": "2026-11-03 15:19:26",
+      "message": "Reprocessing: Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)"
     }
   ]
 }
