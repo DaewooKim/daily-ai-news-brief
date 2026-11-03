@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 10:38:37",
+  "last_updated": "2026-11-03 10:38:39",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 10:37:52",
-      "message": "[PROCESSING] Analyzing: Apple is \u2018not able to predict\u2019 when it&#8217;ll have enough iPhone Duos to go around..."
-    },
     {
       "timestamp": "2026-11-03 10:37:56",
       "message": "[SKIP] Irrelevant (AI Filter): Apple is \u2018not able to predict\u2019 when it&#8217;ll have enough iPhone Duos to go around"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 10:38:37",
       "message": "[SUCCESS] Processed: NVIDIA \uc791\uc5c5 \ubd80\ud558 \ub9f5\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc0c8\ub85c\uc6b4 AI \ud504\ub808\uc784\uc6cc\ud06c\ub97c \ub354 \ube60\ub974\uac8c \uc9c0\uc6d0\ud569\ub2c8\ub2e4.\n  > Summary: NVIDIA DSX AI Factory Platform\uc740 \uc624\ud508 \uc18c\uc2a4 \ubc0f \ubaa8\ub4c8\ud615 \uc18c\ud504\ud2b8\uc6e8\uc5b4 ..."
+    },
+    {
+      "timestamp": "2026-11-03 10:38:39",
+      "message": "Reprocessing: Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
     }
   ]
 }
