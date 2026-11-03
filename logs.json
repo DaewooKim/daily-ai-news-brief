@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 21:01:52",
+  "last_updated": "2026-11-03 21:01:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 21:01:00",
-      "message": "[SKIP] Content too short: [Industry Event] Advancing Dat..."
-    },
     {
       "timestamp": "2026-11-03 21:01:02",
       "message": "[PROCESSING] Analyzing: Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind (Bloomberg)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 21:01:52",
       "message": "[SKIP] Irrelevant (AI Filter): Binance says North Korean hackers stole $6.3B through a months-long scheme with fake LinkedIn job interviews and an ad campaign to deliver malicious software (Jeff John Roberts/Fortune)"
+    },
+    {
+      "timestamp": "2026-11-03 21:01:54",
+      "message": "Reprocessing: 3D Integration Reduces Embodied-Emissions Impact Of GPU Scaling (imec, VUB)"
     }
   ]
 }
