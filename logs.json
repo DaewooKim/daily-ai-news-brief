@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 19:53:31",
+  "last_updated": "2026-11-03 19:53:33",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 19:52:40",
-      "message": "[SUCCESS] Processed: AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5 Fal\uc774 Bessemer\uc758 \uc8fc\ub3c4\ub85c 13\uc5b5 \ub2ec\ub7ec\ub97c \uc720\uce58\ud558\uba70 160\uc5b5 \ub2ec\ub7ec\uc758 \uac00\uce58\uc5d0 \ub3c4\ub2ec\ud558\ub2e4.\n  > Summary: AI \ucd94\ub860 \uc2a4\ud0c0\ud2b8\uc5c5\uc778 Fal\uc774 13\uc5b5 \ub2ec\ub7ec\ub97c \uc720\uce58\ud558\uc5ec 4\uc6d4\uc758 80\uc5b5 \ub2ec\ub7ec\uc5d0\uc11c 160\uc5b5 \ub2ec\ub7ec..."
-    },
     {
       "timestamp": "2026-11-03 19:52:42",
       "message": "[PROCESSING] Analyzing: Microsoft updates Windows 11 to make PCs with 8GB of RAM up to 20% more responsive and multitasking up to 40% faster in lab tests, utilizing memory compression (Lance Whitney/ZDNET)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 19:53:31",
       "message": "[SKIP] Irrelevant (AI Filter): Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)"
+    },
+    {
+      "timestamp": "2026-11-03 19:53:33",
+      "message": "Reprocessing: Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)"
     }
   ]
 }
