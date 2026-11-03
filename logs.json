@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-03 03:49:41",
+  "last_updated": "2026-11-03 03:49:43",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-03 03:48:59",
-      "message": "[PROCESSING] Analyzing: Nvidia, AMD Commit $4B to Meta AI Buildout..."
-    },
     {
       "timestamp": "2026-11-03 03:49:02",
       "message": "[SUCCESS] Processed: Nvidia\uc640 AMD, Meta AI \ud655\uc7a5\uc744 \uc704\ud574 40\uc5b5 \ub2ec\ub7ec \ud22c\uc790\n  > Summary: Nvidia\uc640 AMD\ub294 Meta\uc758 AI \ucef4\ud4e8\ud305 \uc9c0\ucd9c \ud655\ub300\uc5d0 \ub530\ub77c \uc7a5\uae30\uc801\uc778 AI \uc778\ud504\ub77c \ube44\uc988..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-03 03:49:41",
       "message": "[PROCESSING] Analyzing: Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)..."
+    },
+    {
+      "timestamp": "2026-11-03 03:49:43",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)"
     }
   ]
 }
