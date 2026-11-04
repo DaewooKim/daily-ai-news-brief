@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 08:16:03",
+  "last_updated": "2026-11-04 08:16:05",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 08:15:16",
-      "message": "[SUCCESS] Processed: \uc0b0\uc5c5 \uc804\ubb38\uac00\ub4e4\uc740 \ub290\ub9b0 \ubbf8\uad6d \uc804\ub825\ub9dd \ud655\uc7a5\uc774 AI \ubd90\uc744 \uc800\ud574\ud558\uace0 \uc911\uad6d\uc5d0 \uc720\ub9ac\ud560 \uc218 \uc788\ub2e4\uace0 \uacbd\uace0\ud569\ub2c8\ub2e4.\n  > Summary: \ubbf8\uad6d\uc758 \uc804\ub825\ub9dd \ud655\uc7a5\uc774 \ub290\ub824\uc9c0\uba74\uc11c AI \ubd90\uc5d0 \ubd80\uc815\uc801\uc778 \uc601\ud5a5\uc744 \ubbf8\uce60 \uc218 \uc788\ub2e4\ub294 \uc804\ubb38\uac00\uc758 \uacbd\uace0\uac00..."
-    },
     {
       "timestamp": "2026-11-04 08:15:18",
       "message": "[PROCESSING] Analyzing: ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 08:16:03",
       "message": "[PROCESSING] Analyzing: Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)..."
+    },
+    {
+      "timestamp": "2026-11-04 08:16:05",
+      "message": "[SKIP] Irrelevant (AI Filter): Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)"
     }
   ]
 }
