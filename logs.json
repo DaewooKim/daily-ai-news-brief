@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 19:38:41",
+  "last_updated": "2026-11-04 19:38:44",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 19:37:58",
-      "message": "[SUCCESS] Processed: OpenAI\uac00 \ud53c\uc5d0\ub974 \ucef4\ud4e8\ud130 \ucef4\ud37c\ub2c8 \uc778\uc218\n  > Summary: OpenAI\ub294 \ud53c\uc5d0\ub974 \ucef4\ud4e8\ud130 \ucef4\ud37c\ub2c8\ub97c \uc778\uc218\ud558\uc5ec Codex\uc758 \ucf54\ub4dc \uc791\uc131, \uc774\ud574 \ubc0f \uac80\ud1a0\ub97c \uc704..."
-    },
     {
       "timestamp": "2026-11-04 19:38:00",
       "message": "[PROCESSING] Analyzing: OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 19:38:41",
       "message": "[PROCESSING] Analyzing: Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal..."
+    },
+    {
+      "timestamp": "2026-11-04 19:38:44",
+      "message": "[SKIP] Irrelevant (AI Filter): Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal"
     }
   ]
 }
