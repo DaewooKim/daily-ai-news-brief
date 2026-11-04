@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 13:57:51",
+  "last_updated": "2026-11-04 13:57:53",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 13:57:09",
-      "message": "[PROCESSING] Analyzing: New York Times and other outlets sue web browser Brave over alleged content scraping..."
-    },
     {
       "timestamp": "2026-11-04 13:57:11",
       "message": "[SKIP] Irrelevant (AI Filter): New York Times and other outlets sue web browser Brave over alleged content scraping"
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 13:57:51",
       "message": "Reprocessing: Data Center World Middle East"
+    },
+    {
+      "timestamp": "2026-11-04 13:57:53",
+      "message": "[SKIP] Content too short: Data Center World Middle East..."
     }
   ]
 }
