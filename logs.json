@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 02:36:51",
+  "last_updated": "2026-11-04 02:36:54",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 02:36:00",
-      "message": "Fetching RSS feeds..."
-    },
     {
       "timestamp": "2026-11-04 02:36:10",
       "message": "Found 147 articles within the last 5 days. Starting processing..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 02:36:51",
       "message": "[PROCESSING] Analyzing: Those Jeff Bezos hair transplant photos are very fake..."
+    },
+    {
+      "timestamp": "2026-11-04 02:36:54",
+      "message": "[SKIP] Irrelevant (AI Filter): Those Jeff Bezos hair transplant photos are very fake"
     }
   ]
 }
