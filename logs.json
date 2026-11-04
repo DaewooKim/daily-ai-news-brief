@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 20:44:55",
+  "last_updated": "2026-11-04 20:44:58",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 20:44:08",
-      "message": "Found 158 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-04 20:44:08",
       "message": "[PROCESSING] Analyzing: Gemini for Home now plugs into AT&#038;T\u2019s smart security system..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 20:44:55",
       "message": "[PROCESSING] Analyzing: Anker\u2019s new window-mounted camera monitors the outside of your home from within it..."
+    },
+    {
+      "timestamp": "2026-11-04 20:44:58",
+      "message": "[SKIP] Irrelevant (AI Filter): Anker\u2019s new window-mounted camera monitors the outside of your home from within it"
     }
   ]
 }
