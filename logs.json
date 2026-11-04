@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 23:00:13",
+  "last_updated": "2026-11-04 23:00:16",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 22:59:27",
-      "message": "Found 160 articles within the last 5 days. Starting processing..."
-    },
     {
       "timestamp": "2026-11-04 22:59:27",
       "message": "[PROCESSING] Analyzing: Qualcomm is betting big on data centers as smartphone sales sink..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 23:00:13",
       "message": "[PROCESSING] Analyzing: Apple will check shared iCloud links for \u2018harmful content\u2019..."
+    },
+    {
+      "timestamp": "2026-11-04 23:00:16",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple will check shared iCloud links for \u2018harmful content\u2019"
     }
   ]
 }
