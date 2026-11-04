@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 23:01:33",
+  "last_updated": "2026-11-04 23:01:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 23:00:45",
-      "message": "[PROCESSING] Analyzing: A thousand fewer paths to root..."
-    },
     {
       "timestamp": "2026-11-04 23:00:49",
       "message": "[SUCCESS] Processed: \ub8e8\ud2b8\ub85c \uac00\ub294 \uae38\uc774 \ucc9c \uac1c \uc904\uc5b4\ub4e4\ub2e4\n  > Summary: OpenAI\ub294 \uc790\uc728 \ud30c\uc774\ud504\ub77c\uc778\uc744 \uad6c\ucd95\ud558\uc5ec \ub9ac\ub205\uc2a4 \ucee4\ub110\uc5d0\uc11c 948\uac1c\uc758 \ub85c\uceec \uad8c\ud55c \uc0c1\uc2b9 \ucde8\uc57d\uc810..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 23:01:33",
       "message": "[PROCESSING] Analyzing: OpenAI is already trying to shape the 2028 election..."
+    },
+    {
+      "timestamp": "2026-11-04 23:01:36",
+      "message": "[SKIP] Irrelevant (AI Filter): OpenAI is already trying to shape the 2028 election"
     }
   ]
 }
