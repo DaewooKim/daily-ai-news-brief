@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 18:30:54",
+  "last_updated": "2026-11-04 18:30:56",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 18:30:09",
-      "message": "[SUCCESS] Processed: OpenAI, \ud53c\uc5d0\ub974 \ucef4\ud4e8\ud130 \ucef4\ud37c\ub2c8 \uc778\uc218 \uc608\uc815\n  > Summary: OpenAI\ub294 \ud53c\uc5d0\ub974 \ucef4\ud4e8\ud130 \ucef4\ud37c\ub2c8\ub97c \uc778\uc218\ud558\uc5ec Codex\uc758 \ucf54\ub4dc \uc791\uc131, \uc774\ud574 \ubc0f \uac80\ud1a0 \ub3c4\uad6c..."
-    },
     {
       "timestamp": "2026-11-04 18:30:11",
       "message": "[PROCESSING] Analyzing: OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 18:30:54",
       "message": "[PROCESSING] Analyzing: Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase..."
+    },
+    {
+      "timestamp": "2026-11-04 18:30:56",
+      "message": "[SKIP] Irrelevant (AI Filter): Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase"
     }
   ]
 }
