@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-04 06:00:32",
+  "last_updated": "2026-11-04 06:00:34",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-04 05:59:50",
-      "message": "[PROCESSING] Analyzing: 42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019..."
-    },
     {
       "timestamp": "2026-11-04 05:59:53",
       "message": "[SUCCESS] Processed: 42AI\uac00 6250\ub9cc \ub2ec\ub7ec\ub97c \uc720\uce58\ud558\uba70 '\uc778\uac04 \ud589\ub3d9\uc744 \uc608\uce21\ud560 \uc218 \uc788\ub294' \uc138\uacc4 \ubaa8\ub378\uc744 \uacf5\uac1c\ud558\ub2e4\n  > Summary: 42AI\uac00 6250\ub9cc \ub2ec\ub7ec\ub97c \uc720\uce58\ud558\uba70 \uc2a4\ud154\uc2a4 \ubaa8\ub4dc\uc5d0\uc11c \ubc97\uc5b4\ub0ac\uc2b5\ub2c8\ub2e4. \uc774 \ud68c\uc0ac\ub294 AI\uac00 \uc0c8\ub85c..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-04 06:00:32",
       "message": "Reprocessing: Data Center World Middle East"
+    },
+    {
+      "timestamp": "2026-11-04 06:00:34",
+      "message": "[SKIP] Content too short: Data Center World Middle East..."
     }
   ]
 }
