@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-05 08:00:48",
+  "last_updated": "2026-11-05 08:00:50",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-05 08:00:05",
-      "message": "[SKIP] Irrelevant (AI Filter): Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
-    },
     {
       "timestamp": "2026-11-05 08:00:07",
       "message": "[PROCESSING] Analyzing: Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-05 08:00:48",
       "message": "Reprocessing: Cresta: From Stanford Research to AI at Work"
+    },
+    {
+      "timestamp": "2026-11-05 08:00:50",
+      "message": "[SKIP] Content too short: Cresta: From Stanford Research..."
     }
   ]
 }
