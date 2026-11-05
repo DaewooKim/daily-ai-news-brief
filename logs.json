@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-05 01:16:22",
+  "last_updated": "2026-11-05 01:16:24",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-05 01:15:39",
-      "message": "Reprocessing: A thousand fewer paths to root"
-    },
     {
       "timestamp": "2026-11-05 01:15:41",
       "message": "[PROCESSING] Analyzing: A thousand fewer paths to root..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-05 01:16:22",
       "message": "[PROCESSING] Analyzing: Almost no one uses AI agents to book their Uber, company says..."
+    },
+    {
+      "timestamp": "2026-11-05 01:16:24",
+      "message": "[SKIP] Irrelevant (AI Filter): Almost no one uses AI agents to book their Uber, company says"
     }
   ]
 }
