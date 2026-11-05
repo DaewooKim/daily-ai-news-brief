@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-05 00:07:53",
+  "last_updated": "2026-11-05 00:07:55",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-05 00:07:01",
-      "message": "Initializing..."
-    },
     {
       "timestamp": "2026-11-05 00:07:01",
       "message": "Fetching RSS feeds..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-05 00:07:53",
       "message": "[PROCESSING] Analyzing: Apple will check shared iCloud links for \u2018harmful content\u2019..."
+    },
+    {
+      "timestamp": "2026-11-05 00:07:55",
+      "message": "[SKIP] Irrelevant (AI Filter): Apple will check shared iCloud links for \u2018harmful content\u2019"
     }
   ]
 }
