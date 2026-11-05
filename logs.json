@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-11-05 05:46:34",
+  "last_updated": "2026-11-05 05:46:36",
   "status": "running",
   "logs": [
-    {
-      "timestamp": "2026-11-05 05:45:54",
-      "message": "[SUCCESS] Processed: OpenAI, $1.2M\uc758 API \ube44\uc6a9\uc73c\ub85c \ub9ac\ub205\uc2a4\uc5d0\uc11c 948\uac1c\uc758 \ub85c\uceec \uad8c\ud55c \uc0c1\uc2b9 \ucde8\uc57d\uc810\uc744 \uac80\uc99d\ud558\uace0 \ud328\uce58\ud558\uae30 \uc704\ud574 \ub2e4\uac00\uc624\ub294 \uc0ac\uc774\ubc84 \ubaa8\ub378\uc744 \ud65c\uc6a9\ud55c \ud30c\uc774\ud504\ub77c\uc778 \uc138\ubd80\uc815\ubcf4 \uacf5\uac1c\n  > Summary: OpenAI\ub294 \ub2e4\uac00\uc624\ub294 \uc0ac\uc774\ubc84 \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud558\uc5ec \ub9ac\ub205\uc2a4\uc758 948\uac1c \ub85c\uceec \uad8c\ud55c \uc0c1\uc2b9 \ucde8\uc57d\uc810\uc744 ..."
-    },
     {
       "timestamp": "2026-11-05 05:45:55",
       "message": "[PROCESSING] Analyzing: AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)..."
@@ -81,6 +77,10 @@
     {
       "timestamp": "2026-11-05 05:46:34",
       "message": "[PROCESSING] Analyzing: Valens Semiconductor Introduces the VS6310 Chipset..."
+    },
+    {
+      "timestamp": "2026-11-05 05:46:36",
+      "message": "[SKIP] Irrelevant (AI Filter): Valens Semiconductor Introduces the VS6310 Chipset"
     }
   ]
 }
